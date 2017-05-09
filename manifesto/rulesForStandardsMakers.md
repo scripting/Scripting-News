@@ -6,7 +6,6 @@
 ### There are tradeoffs in standardsThere are few absolutes in standards work, some rules even contradict others, so you have to think, and strike a balance. 
 ### Software matters more than formats (much)Too often people try to design a format first, and then make software that conforms to the format. You might get some good demos. But not much chance of developing a standard that way.
 ### Users matter even more than softwarePeople choose to interop because it helps them find new users. If you have no users to offer, there won't be much interest in interop.
-### Beware the assholesThere are people who will be happy to use your support of open protocols to attract new users, and then lock them in by not returning the favor. Nothing to do about this but shake your head. It will <i></i>happen if you're successful at creating a standard.
 ### One way is better than twoNo matter how much better the new way is, you'll still have to support the old way. 
 ### Fewer formats is betterIf you can replace two formats with one, without breakage or loss of interop, then I say go for it.
 Removing complexity from the world is always good. 
