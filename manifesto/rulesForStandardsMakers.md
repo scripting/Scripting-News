@@ -1,5 +1,5 @@
 ### IntroI've used all kinds of formats and protocols in a long career as a software developer. 
-I also have created a few, and hvae had to fight to keep them independent and unowned, with varying degress of success. 
+I also have created a few, and have had to fight to keep them independent and unowned, with varying degress of success. 
 This set of rules represents what I've learned. 
 If we work together on a project based on open tech, these are the principles I will try to stick to. 
 I wanted to put all this in one place, so I can pass it along to future software developers. 
