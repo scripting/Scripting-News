@@ -1,9 +1,4 @@
-### IntroI've used all kinds of formats and protocols in a long career as a software developer. 
-I also have created a few, and have had to fight to keep them independent and unowned, with varying degress of success. This set of rules represents what I've learned. 
-If we work together on a project based on open tech, these are the principles I will try to stick to. 
-I wanted to put all this in one place, so I can pass it along to future software developers. 
-Dave Winer, May 2017
-### Interop is all that mattersThe only reason we have open formats and protocols is so our software can interoperate. 
+### Interop is all that mattersThe only reason we have open formats and protocols is so our software can interoperate. 
 ### Why interop?We want interop so that our users are free to move.
 So our products compete on the basis of performance, features and price, and not lock-in. 
 This is as basic as the <a href="https://en.wikipedia.org/wiki/Hippocratic_Oath">Hippocratic Oath</a> that doctors take. 
