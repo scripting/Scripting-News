@@ -1,6 +1,6 @@
 ## JUST is a feed format
 
-### It's an acronym
+### Its name is an acronym
 
 It stands for <i>JUST Uses Standard Technology.</i>
 
