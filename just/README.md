@@ -1,26 +1,26 @@
-#### JUST is a feed format
+## JUST is a feed format
 
-##### Example
+### Example
 
 Here's an <a href="http://scripting.com/rss.json">example</a> of a JUST feed. It's the JSON representation of the Scripting News <a href="http://scripting.com/rss.xml">RSS 2.0 feed</a>. 
 
-##### JUST is an acronym
+### JUST is an acronym
 
 It stands for JUST Uses Standard Technology.
 
-##### It's RSS 2.0 in JSON
+### It's RSS 2.0 in JSON
 
 The standards it uses are JSON and RSS 2.0.
 
 It's simply an RSS 2.0 feed that's represented in JSON instead of XML. 
 
-##### Scope
+### Scope
 
 We'll describe the mapping from XML to JSON here. 
 
 For the semantics please refer to the <a href="https://cyber.harvard.edu/rss/rss.html">RSS 2.0</a> spec. 
 
-##### How the mapping works
+### How the mapping works
 
 Here's how an RSS 2.0 feed becomes a JUST feed. 
 
