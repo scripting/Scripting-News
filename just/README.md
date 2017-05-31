@@ -2,7 +2,7 @@
 
 ### It's an acronym
 
-It stands for JUST Uses Standard Technology.
+It stands for <i>JUST Uses Standard Technology.</i>
 
 ### It's RSS 2.0 in JSON
 
