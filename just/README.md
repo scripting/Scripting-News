@@ -1,6 +1,6 @@
 ## JUST is a feed format
 
-### JUST is an acronym
+### It's an acronym
 
 It stands for JUST Uses Standard Technology.
 
@@ -16,19 +16,13 @@ Here's an <a href="http://scripting.com/rss.json">example</a> of a JUST feed. It
 
 ### Scope
 
-We'll describe the mapping from XML to JSON here. 
+We'll describe the mapping from XML to JSON here. For the meaning of each of the elements refer to the <a href="https://cyber.harvard.edu/rss/rss.html">RSS 2.0</a> spec. 
 
-For the meaning of each of the elements refer to the <a href="https://cyber.harvard.edu/rss/rss.html">RSS 2.0</a> spec. 
-
-### How the mapping works
-
-We'll describe the JavaScript object that the JSON is a representation of. 
-
-To create the JSON text from the JUST object:
+Further we'll describe the JavaScript object that the JSON is a representation of. To create the JSON text from the JUST object:
 
 <code>jsontext = JSON.stringify (justObject);</code>
 
-#### The <i>rss</i> element
+### The <i>rss</i> element
 
 The JUST object has a single sub-element named <i>rss.</i>
 
@@ -40,13 +34,13 @@ The <i>rss</i> element contains an object named <i>channel,</i> which has scalar
 
 For example, it may have a sub-object named <i>cloud</i> that has values corresponding to the attributes of the RSS 2.0 &lt;cloud> element.
 
-#### The general rule
+### The general rule
 
 An attribute of an element in the XML version is a sub-element in the JUST object.
 
 If an element has both attributes and a value, the value is represented as a sub-element named #value.
 
-#### The item array
+### The item array
 
 <i>channel</i> may contain a aray named <i>item.</i> The elements of the array correspond to &lt;item>s in the XML version. 
 
