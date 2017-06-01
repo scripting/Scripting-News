@@ -1,9 +1,5 @@
 ## JUST is a feed format
 
-### Its name is an acronym
-
-It stands for <i>JUST Uses Standard Technology.</i>
-
 ### It's RSS 2.0 in JSON
 
 The standards it uses are JSON and RSS 2.0.
@@ -43,4 +39,8 @@ If an element has both attributes and a value, the value is represented as a sub
 ### The item array
 
 <i>channel</i> may contain a aray named <i>item.</i> The elements of the array correspond to &lt;item>s in the XML version. 
+
+### Its name is an acronym
+
+It stands for <i>JUST Uses Standard Technology.</i> :smile:
 
