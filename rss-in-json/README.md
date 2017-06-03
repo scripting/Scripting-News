@@ -1,6 +1,6 @@
 ## RSS-in-JSON is a feed format
 
-It's simply an RSS 2.0 feed that uses JSON syntax in place of XML.
+It's simply an <a href="https://cyber.harvard.edu/rss/rss.html">RSS 2.0 feed</a> that uses <a href="https://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf">JSON</a> syntax in place of XML.
 
 The semantics for RSS-in-JSON is inherited from RSS 2.0.
 
