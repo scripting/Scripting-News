@@ -1,7 +1,5 @@
 ## RSS-in-JSON is a feed format
 
-### It's RSS 2.0 in JSON
-
 It's simply an RSS 2.0 feed that uses JSON syntax in place of XML.
 
 The semantics for RSS-in-JSON is inherited from RSS 2.0.
