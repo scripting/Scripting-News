@@ -12,8 +12,6 @@ Here's an <a href="http://scripting.com/rss.json">example</a> of a RSS-in-JSON f
 
 This document explains how an RSS 2.0 feed maps onto JSON syntax.
 
-For the meaning of each of the elements refer to the <a href="https://cyber.harvard.edu/rss/rss.html">RSS 2.0</a> spec. 
-
 We'll describe the JavaScript object that the JSON is a representation of. 
 
 To create the JSON text from the RSS-in-JSON object:
@@ -22,21 +20,23 @@ To create the JSON text from the RSS-in-JSON object:
 
 ### The <i>rss</i> element
 
-The RSS-in-JSON object has a single sub-element named <i>rss.</i>
+The RSS-in-JSON object contains a single object named <i>rss.</i>
 
-<i>rss</i> has a sub-element named <i>version.</i> Since we're representing an RSS 2.0 feed its value will be "2.0".
+<i>rss</i> has a property named <i>version.</i> Since we're representing an RSS 2.0 feed its value will be "2.0".
 
-<i>rss</i> may also have a sub-element for each namespace it uses. The name of each begins with <i>xmlns</i> followed by : followed by the name you want to use for the namespace in the feed. The value is the URL used in the namespace declaration in the RSS feed. 
+<i>rss</i> must also contain a property declaring each namespace it uses. The name of each begins with <i>xmlns</i> followed by : followed by the name you want to use for the namespace in the feed. The value is the URL used in the namespace declaration in the XML feed. 
 
 The <i>rss</i> element contains an object named <i>channel,</i> which has scalars corresponding to the elements of &lt;channel> in the RSS feed.  
 
-For example, it may have a sub-object named <i>cloud</i> that has values corresponding to the attributes of the RSS 2.0 &lt;cloud> element.
+For example, it may contain an object named <i>cloud</i> that has values corresponding to the attributes of the RSS 2.0 &lt;cloud> element.
 
 ### The general rule
 
-An attribute of an element in the XML version is a sub-element in the RSS-in-JSON object.
+An attribute of an element in the XML version is a property in the RSS-in-JSON object.
 
 If an element has both attributes and a value, the value is represented as a sub-element named #value.
+
+If an element has a value and no attributes it's represented as a property in the JSON representation. 
 
 ### The item array
 
