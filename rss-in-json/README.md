@@ -1,28 +1,30 @@
-## JUST is a feed format
+## RSS-in-JSON is a feed format
 
 ### It's RSS 2.0 in JSON
 
-It's simply an RSS 2.0 feed that has been converted from XML to JSON. 
+It's simply an RSS 2.0 feed that uses JSON syntax in place of XML.
 
-### The name is an acronym
-
-It stands for <i>JUST Uses Standard Technology.</i> :smile:
+The semantics for RSS-in-JSON is inherited from RSS 2.0.
 
 ### Example
 
-Here's an <a href="http://scripting.com/rss.json">example</a> of a JUST feed. It's the JSON representation of the Scripting News <a href="http://scripting.com/rss.xml">RSS 2.0 feed</a>. 
+Here's an <a href="http://scripting.com/rss.json">example</a> of a RSS-in-JSON feed. It's the JSON representation of the Scripting News <a href="http://scripting.com/rss.xml">RSS 2.0 feed</a>. 
 
 ### Scope
 
-We'll describe the mapping from XML to JSON here. For the meaning of each of the elements refer to the <a href="https://cyber.harvard.edu/rss/rss.html">RSS 2.0</a> spec. 
+This document explains how an RSS 2.0 feed maps onto JSON syntax.
 
-Further we'll describe the JavaScript object that the JSON is a representation of. To create the JSON text from the JUST object:
+For the meaning of each of the elements refer to the <a href="https://cyber.harvard.edu/rss/rss.html">RSS 2.0</a> spec. 
 
-<code>jsontext = JSON.stringify (justObject);</code>
+We'll describe the JavaScript object that the JSON is a representation of. 
+
+To create the JSON text from the RSS-in-JSON object:
+
+<code>jsontext = JSON.stringify (rssInJsonObject);</code>
 
 ### The <i>rss</i> element
 
-The JUST object has a single sub-element named <i>rss.</i>
+The RSS-in-JSON object has a single sub-element named <i>rss.</i>
 
 <i>rss</i> has a sub-element named <i>version.</i> Since we're representing an RSS 2.0 feed its value will be "2.0".
 
@@ -34,7 +36,7 @@ For example, it may have a sub-object named <i>cloud</i> that has values corresp
 
 ### The general rule
 
-An attribute of an element in the XML version is a sub-element in the JUST object.
+An attribute of an element in the XML version is a sub-element in the RSS-in-JSON object.
 
 If an element has both attributes and a value, the value is represented as a sub-element named #value.
 
