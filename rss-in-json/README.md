@@ -42,3 +42,7 @@ If an element has a value and no attributes it's represented as a property in th
 
 <i>channel</i> may contain an aray named <i>item.</i> The elements of the array correspond to &lt;item>s in the XML version. 
 
+### Discussion
+
+If you have questions or comments please post an <a href="https://github.com/scripting/Scripting-News/issues">issue</a> here. 
+
