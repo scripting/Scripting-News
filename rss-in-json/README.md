@@ -30,9 +30,9 @@ If an element has a value and no attributes it's represented as a property in th
 2. <a href="https://cyber.harvard.edu/rss/rss.html#ltcategorygtSubelementOfLtitemgt">&lt;category></a> sub-element of &lt;item> can contain both an attribute and a value.
 
 <pre>"category": {
-	   "domain": "http://www.fool.com/cusips",
-	   "#value": "MSFT"
-	   }
+   "domain": "http://www.fool.com/cusips",
+   "#value": "MSFT"
+   }
 </pre>
 
 3. <a href="https://cyber.harvard.edu/rss/rss.html#ltpubdategtSubelementOfLtitemgt">&lt;pubDate></a> sub-element of &lt;item> has a value and no attributes. 
