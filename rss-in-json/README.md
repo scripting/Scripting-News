@@ -2,7 +2,7 @@
 
 It's simply an <a href="https://cyber.harvard.edu/rss/rss.html">RSS 2.0 feed</a> that uses <a href="https://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf">JSON</a> syntax in place of XML.
 
-The semantics for RSS-in-JSON is inherited from RSS 2.0.
+The semantics for RSS-in-JSON come from from RSS 2.0.
 
 ### Example
 
@@ -34,9 +34,49 @@ For example, it may contain an object named <i>cloud</i> that has values corresp
 
 An attribute of an element in the XML version is a property in the RSS-in-JSON object.
 
-If an element has both attributes and a value, the value is represented as a sub-element named #value.
+If an element has one or more attributes and a value, the value is represented as a property named #value.
 
 If an element has a value and no attributes it's represented as a property in the JSON representation. 
+
+### Illustrations of the general rule
+
+1. <a href="https://cyber.harvard.edu/rss/rss.html#ltenclosuregtSubelementOfLtitemgt">&lt;enclosure></a> sub-element of &lt;item> has attributes and no value, represented as:
+
+<pre>
+
+"enclosure": {
+
+"url": "http://www.scripting.com/mp3s/weatherReportSuite.mp3",
+
+"length": "12216320",
+
+ "type": "audio/mpeg"
+
+}
+
+</pre>
+
+2. <a href="https://cyber.harvard.edu/rss/rss.html#ltcategorygtSubelementOfLtitemgt">&lt;category></a> sub-element of &lt;item> can contain both an attribute and a value.
+
+<pre>
+
+"category": {
+
+"domain": "http://www.fool.com/cusips",
+
+"#value": "MSFT"
+
+}
+
+</pre>
+
+3. <a href="https://cyber.harvard.edu/rss/rss.html#ltpubdategtSubelementOfLtitemgt">&lt;pubDate></a> sub-element of &lt;item> has a value and no attributes. 
+
+<pre>
+
+"pubDate": "Sun, 19 May 2002 15:21:36 GMT"
+
+</pre>
 
 ### The item array
 
