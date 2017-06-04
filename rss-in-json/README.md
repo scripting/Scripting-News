@@ -21,16 +21,6 @@ If an element has a value and no attributes it's represented as a property in th
 1. <a href="https://cyber.harvard.edu/rss/rss.html#ltenclosuregtSubelementOfLtitemgt">&lt;enclosure></a> sub-element of &lt;item> has attributes and no value. It is represented as:
 
 <pre>"enclosure": {
-
-   "url": "http://www.scripting.com/mp3s/weatherReportSuite.mp3",
-
-   "length": "12216320",
-
-   "type": "audio/mpeg"
-
-   }</pre>
-
-<pre>"enclosure": {
    "url": "http://www.scripting.com/mp3s/weatherReportSuite.mp3",
    "length": "12216320",
    "type": "audio/mpeg"
@@ -39,15 +29,37 @@ If an element has a value and no attributes it's represented as a property in th
 
 2. <a href="https://cyber.harvard.edu/rss/rss.html#ltcategorygtSubelementOfLtitemgt">&lt;category></a> sub-element of &lt;item> can contain both an attribute and a value.
 
-<pre>
-
-"category": {
-
-   "domain": "http://www.fool.com/cusips",
-
-   "#value": "MSFT"
-
-   }</pre>
+<pre><html>
+	<head>
+		<title>Scripting News</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<script src="http://fargo.io/code/jquery-1.9.1.min.js"></script><link href="http://fargo.io/code/bootstrap.css" rel="stylesheet"><script src="http://fargo.io/code/bootstrap.min.js"></script><link rel="stylesheet" href="http://fargo.io/code/fontAwesome/css/font-awesome.min.css"/><link href="http://fargo.io/code/ubuntuFont.css" rel="stylesheet" type="text/css"><link href="http://fargo.io/code/ranchoFont.css" rel="stylesheet" type="text/css"><script src="http://fargo.io/code/node/shared/utils.js"></script><script src="http://fargo.io/code/node/shared/alertdialog.js"></script><script src="http://fargo.io/code/node/shared/confirmdialog.js"></script><script src="http://fargo.io/code/node/shared/askdialog.js"></script><script src="http://fargo.io/code/strftime.js"></script><script src="http://fargo.io/code/shared/ga.js"></script><script src="http://fargo.io/code/shared/app.js"></script><script src="http://fargo.io/code/shared/menus.js"></script><link href="http://fargo.io/code/shared/menus.css" rel="stylesheet" type="text/css"><link href="http://fargo.io/code/shared/app.css" rel="stylesheet" type="text/css"><script src="http://fargo.io/code/shared/appprefs.js?x=2"></script><script src="http://fargo.io/code/shared/jBeep.min.js"></script><script src="http://fargo.io/code/shared/beep.js"></script>
+		<link href="http://fargo.io/code/shared/menus.css" rel="stylesheet" type="text/css">
+		<script src="http://scripting.com/errorpage/code.js?x=1"></script>
+		<link href="http://scripting.com/errorpage/styles.css" rel="stylesheet" type="text/css">
+		</head>
+	<body>
+		<div class="divPageBody">
+			<div class="divArrows" id="idArrows">
+				<div class="divNavArrow" id="idRightArrow">
+					</div>
+				<div class="divNavArrow" id="idLeftArrow">
+					</div>
+				</div>
+			<div class="divLinkblogDayTitle" id="idLinkblogDayTitle">
+				</div>
+			<div class="divLinkblogDay" id="idLinkblogDay">
+				</div>
+			</div>
+		<script>
+			$(document).ready (function () {
+				startup ();
+				});
+			</script>
+		</body>
+	</html>
+</pre>
 
 3. <a href="https://cyber.harvard.edu/rss/rss.html#ltpubdategtSubelementOfLtitemgt">&lt;pubDate></a> sub-element of &lt;item> has a value and no attributes. 
 
