@@ -8,16 +8,6 @@ The semantics for RSS-in-JSON come from from RSS 2.0.
 
 Here's an <a href="http://scripting.com/rss.json">example</a> of a RSS-in-JSON feed. It's the JSON representation of the Scripting News <a href="http://scripting.com/rss.xml">RSS 2.0 feed</a>. 
 
-### Scope
-
-This document explains how an RSS 2.0 feed maps onto JSON syntax.
-
-We'll describe the JavaScript object that the JSON is a representation of. 
-
-To create the JSON text from the RSS-in-JSON object:
-
-<code>jsontext = JSON.stringify (rssInJsonObject);</code>
-
 ### The general rule
 
 An attribute of an element in the XML version is a property in the RSS-in-JSON object.
@@ -57,6 +47,16 @@ If an element has a value and no attributes it's represented as a property in th
 3. <a href="https://cyber.harvard.edu/rss/rss.html#ltpubdategtSubelementOfLtitemgt">&lt;pubDate></a> sub-element of &lt;item> has a value and no attributes. 
 
 <pre>"pubDate": "Sun, 19 May 2002 15:21:36 GMT"</pre>
+
+### Scope
+
+This document explains how an RSS 2.0 feed maps onto JSON syntax.
+
+We'll describe the JavaScript object that the JSON is a representation of. 
+
+To create the JSON text from the RSS-in-JSON object:
+
+<code>jsontext = JSON.stringify (rssInJsonObject);</code>
 
 ### The <i>rss</i> object
 
