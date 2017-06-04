@@ -46,15 +46,13 @@ If an element has a value and no attributes it's represented as a property in th
 
 "enclosure": {
 
-"url": "http://www.scripting.com/mp3s/weatherReportSuite.mp3",
+   "url": "http://www.scripting.com/mp3s/weatherReportSuite.mp3",
 
-"length": "12216320",
+   "length": "12216320",
 
- "type": "audio/mpeg"
+   "type": "audio/mpeg"
 
-}
-
-</pre>
+   }</pre>
 
 2. <a href="https://cyber.harvard.edu/rss/rss.html#ltcategorygtSubelementOfLtitemgt">&lt;category></a> sub-element of &lt;item> can contain both an attribute and a value.
 
@@ -62,21 +60,15 @@ If an element has a value and no attributes it's represented as a property in th
 
 "category": {
 
-"domain": "http://www.fool.com/cusips",
+   "domain": "http://www.fool.com/cusips",
 
-"#value": "MSFT"
+   "#value": "MSFT"
 
-}
-
-</pre>
+   }</pre>
 
 3. <a href="https://cyber.harvard.edu/rss/rss.html#ltpubdategtSubelementOfLtitemgt">&lt;pubDate></a> sub-element of &lt;item> has a value and no attributes. 
 
-<pre>
-
-"pubDate": "Sun, 19 May 2002 15:21:36 GMT"
-
-</pre>
+<pre>"pubDate": "Sun, 19 May 2002 15:21:36 GMT"</pre>
 
 ### The item array
 
