@@ -18,7 +18,7 @@ To create the JSON text from the RSS-in-JSON object:
 
 <code>jsontext = JSON.stringify (rssInJsonObject);</code>
 
-### The <i>rss</i> element
+### The <i>rss</i> object
 
 The RSS-in-JSON object contains a single object named <i>rss.</i>
 
@@ -26,9 +26,9 @@ The RSS-in-JSON object contains a single object named <i>rss.</i>
 
 <i>rss</i> must also contain a property declaring each namespace it uses. The name of each begins with <i>xmlns</i> followed by : followed by the name you want to use for the namespace in the feed. The value is the URL used in the namespace declaration in the XML feed. 
 
-The <i>rss</i> element contains an object named <i>channel,</i> which has scalars corresponding to the elements of &lt;channel> in the RSS feed.  
+The <i>rss</i> object contains an property named <i>channel,</i> whose value is an object that has properties corresponding to the elements of &lt;channel> in the RSS feed.
 
-For example, it may contain an object named <i>cloud</i> that has values corresponding to the attributes of the RSS 2.0 &lt;cloud> element.
+For example, it may contain a property named <i>cloud</i> whose value is an object with properties corresponding to the attributes of the RSS 2.0 &lt;cloud> element.
 
 ### The general rule
 
@@ -73,6 +73,12 @@ If an element has a value and no attributes it's represented as a property in th
 ### The item array
 
 <i>channel</i> may contain an aray named <i>item.</i> The elements of the array correspond to &lt;item>s in the XML version. 
+
+### Credits
+
+Written by Dave Winer, reviewed by Allen Wirfs-Brock.
+
+May-June 2017
 
 ### Discussion
 
