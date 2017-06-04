@@ -18,18 +18,6 @@ To create the JSON text from the RSS-in-JSON object:
 
 <code>jsontext = JSON.stringify (rssInJsonObject);</code>
 
-### The <i>rss</i> object
-
-The RSS-in-JSON object has a single property named <i>rss.</i> Its value is an object whose properties correspond to the attributes and sub-elements of the RSS 2.0  &lt;rss> element.
-
-<i>rss</i> has a property named <i>version.</i> Since we're representing an RSS 2.0 feed its value will be "2.0".
-
-<i>rss</i> must also contain a property declaring each namespace it uses. The name of each begins with <i>xmlns</i> followed by : followed by the name you want to use for the namespace in the feed. The value is the URL used in the namespace declaration in the XML feed. 
-
-The <i>rss</i> object contains an property named <i>channel,</i> whose value is an object that has properties corresponding to the elements of &lt;channel> in the RSS feed.
-
-For example, it may contain a property named <i>cloud</i> whose value is an object with properties corresponding to the attributes of the RSS 2.0 &lt;cloud> element.
-
 ### The general rule
 
 An attribute of an element in the XML version is a property in the RSS-in-JSON object.
@@ -69,6 +57,18 @@ If an element has a value and no attributes it's represented as a property in th
 3. <a href="https://cyber.harvard.edu/rss/rss.html#ltpubdategtSubelementOfLtitemgt">&lt;pubDate></a> sub-element of &lt;item> has a value and no attributes. 
 
 <pre>"pubDate": "Sun, 19 May 2002 15:21:36 GMT"</pre>
+
+### The <i>rss</i> object
+
+The RSS-in-JSON object has a single property named <i>rss.</i> Its value is an object whose properties correspond to the attributes and sub-elements of the RSS 2.0  &lt;rss> element.
+
+<i>rss</i> has a property named <i>version.</i> Since we're representing an RSS 2.0 feed its value will be "2.0".
+
+<i>rss</i> must also contain a property declaring each namespace it uses. The name of each begins with <i>xmlns</i> followed by : followed by the name you want to use for the namespace in the feed. The value is the URL used in the namespace declaration in the XML feed. 
+
+The <i>rss</i> object contains an property named <i>channel,</i> whose value is an object that has properties corresponding to the elements of &lt;channel> in the RSS feed.
+
+For example, it may contain a property named <i>cloud</i> whose value is an object with properties corresponding to the attributes of the RSS 2.0 &lt;cloud> element.
 
 ### The item array
 
