@@ -20,9 +20,7 @@ If an element has a value and no attributes it's represented as a property in th
 
 1. <a href="https://cyber.harvard.edu/rss/rss.html#ltenclosuregtSubelementOfLtitemgt">&lt;enclosure></a> sub-element of &lt;item> has attributes and no value. It is represented as:
 
-<pre>
-
-"enclosure": {
+<pre>"enclosure": {
 
    "url": "http://www.scripting.com/mp3s/weatherReportSuite.mp3",
 
@@ -30,9 +28,7 @@ If an element has a value and no attributes it's represented as a property in th
 
    "type": "audio/mpeg"
 
-   }
-
-</pre>
+   }</pre>
 
 2. <a href="https://cyber.harvard.edu/rss/rss.html#ltcategorygtSubelementOfLtitemgt">&lt;category></a> sub-element of &lt;item> can contain both an attribute and a value.
 
