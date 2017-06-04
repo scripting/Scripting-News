@@ -32,11 +32,7 @@ If an element has a value and no attributes it's represented as a property in th
 <pre>"category": {
 	   "domain": "http://www.fool.com/cusips",
 	   "#value": "MSFT"
-	   }</pre>
-   "url": "http://www.scripting.com/mp3s/weatherReportSuite.mp3",
-   "length": "12216320",
-   "type": "audio/mpeg"
-   }
+	   }
 </pre>
 
 3. <a href="https://cyber.harvard.edu/rss/rss.html#ltpubdategtSubelementOfLtitemgt">&lt;pubDate></a> sub-element of &lt;item> has a value and no attributes. 
