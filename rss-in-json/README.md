@@ -40,9 +40,9 @@ If an element has a value and no attributes it's represented as a property in th
 
 ### Illustrations of the general rule
 
-1. <a href="https://cyber.harvard.edu/rss/rss.html#ltenclosuregtSubelementOfLtitemgt">&lt;enclosure></a> sub-element of &lt;item> has attributes and no value, represented as:
+1. <a href="https://cyber.harvard.edu/rss/rss.html#ltenclosuregtSubelementOfLtitemgt">&lt;enclosure></a> sub-element of &lt;item> has attributes and no value. It is represented as:
 
-<pre>
+<code>
 
 "enclosure": {
 
@@ -52,7 +52,7 @@ If an element has a value and no attributes it's represented as a property in th
 
    "type": "audio/mpeg"
 
-   }</pre>
+   }</code>
 
 2. <a href="https://cyber.harvard.edu/rss/rss.html#ltcategorygtSubelementOfLtitemgt">&lt;category></a> sub-element of &lt;item> can contain both an attribute and a value.
 
