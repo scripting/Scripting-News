@@ -76,9 +76,9 @@ If an element has a value and no attributes it's represented as a property in th
 
 ### Credits
 
-Written by Dave Winer, reviewed by Allen Wirfs-Brock.
+Written by <a href="http://davewiner.com/">Dave Winer</a>, reviewed by <a href="http://www.wirfs-brock.com/allen/about">Allen Wirfs-Brock</a>.
 
-May-June 2017
+June 2017
 
 ### Discussion
 
