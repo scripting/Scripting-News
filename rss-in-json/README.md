@@ -20,7 +20,7 @@ To create the JSON text from the RSS-in-JSON object:
 
 ### The <i>rss</i> object
 
-The RSS-in-JSON object contains a single object named <i>rss.</i>
+The RSS-in-JSON object has a single property named <i>rss.</i> Its value is an object whose properties correspond to the attributes and sub-elements of the RSS 2.0  &lt;rss> element.
 
 <i>rss</i> has a property named <i>version.</i> Since we're representing an RSS 2.0 feed its value will be "2.0".
 
