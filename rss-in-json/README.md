@@ -55,9 +55,9 @@ The RSS-in-JSON object has a single property named <i>rss.</i> Its value is an o
 
 <i>rss</i> must also contain a property declaring each namespace it uses. The name of each begins with <i>xmlns</i> followed by : followed by the name you want to use for the namespace in the feed. The value is the URL used in the namespace declaration in the XML feed. 
 
-The <i>rss</i> object contains an property named <i>channel,</i> whose value is an object that has properties corresponding to the elements of &lt;channel> in the RSS feed.
+The <i>rss</i> object contains a property named <i>channel,</i> whose value is an object that has properties corresponding to the elements of &lt;channel> in the RSS feed.
 
-For example, it may contain a property named <i>cloud</i> whose value is an object with properties corresponding to the attributes of the RSS 2.0 &lt;cloud> element.
+For example, it may contain a property named <i>cloud</i> whose value is an object with properties corresponding to the attributes of the RSS 2.0 <a href="https://cyber.harvard.edu/rss/rss.html#ltcloudgtSubelementOfLtchannelgt">&lt;cloud></a> element.
 
 ### The item array
 
