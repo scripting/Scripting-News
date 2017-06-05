@@ -69,6 +69,8 @@ For example, it may contain a property named <i>cloud</i> whose value is an obje
 
 Written by <a href="http://davewiner.com/">Dave Winer</a>, reviewed by <a href="http://www.wirfs-brock.com/allen/about">Allen Wirfs-Brock</a>.
 
+<a href="http://scripting.com/2017/06/05.html#a080612">A blog post</a> with background and links, re this document.
+
 June 2017
 
 ### Discussion
