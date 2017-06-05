@@ -2,8 +2,6 @@
 
 It's simply an <a href="https://cyber.harvard.edu/rss/rss.html">RSS 2.0 feed</a> that uses <a href="https://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf">JSON</a> syntax in place of XML.
 
-The semantics for RSS-in-JSON come from from RSS 2.0.
-
 ### Example
 
 Here's an <a href="http://scripting.com/rss.json">example</a> of a RSS-in-JSON feed. It's the JSON representation of the Scripting News <a href="http://scripting.com/rss.xml">RSS 2.0 feed</a>. 
