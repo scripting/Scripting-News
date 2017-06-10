@@ -71,7 +71,9 @@ Written by <a href="http://davewiner.com/">Dave Winer</a>, reviewed by <a href="
 
 June 2017
 
-### Discussion
+### Discussion, pointers
+
+Dan MacTough did a <a href="https://github.com/danmactough/rss-in-json-schema-validator/blob/master/schema.js">schema</a> for RSS-in-JSON.
 
 If you have questions or comments please post an <a href="https://github.com/scripting/Scripting-News/issues">issue</a> here. 
 
