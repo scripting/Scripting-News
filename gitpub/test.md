@@ -1,4 +1,4 @@
-### This is a test
+## This is a test
 
 This page is used in testing the git-pub package. 
 
