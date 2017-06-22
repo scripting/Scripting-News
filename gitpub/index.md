@@ -10,3 +10,7 @@ Okay, now here's a picture:
 
 That was fun! :-)
 
+Dave Winer
+
+June 2017
+
