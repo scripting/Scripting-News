@@ -6,7 +6,7 @@ It serves content from a <a href="https://github.com/scripting/Scripting-News/tr
 
 Okay, now here's a picture:
 
-<img src="porky.png">
+<img src="porky.png" width="135" height="132">
 
 That was fun! :-)
 
