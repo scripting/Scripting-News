@@ -1,4 +1,4 @@
-# Welcome to githubpub!
+## Welcome to githubpub!
 
 This page is used in testing the <a href="https://www.npmjs.com/package/githubpub">githubpub</a> package. 
 
