@@ -1,4 +1,4 @@
-# Welcome to githubpub
+# Welcome to githubpub!
 
 This page is used in testing the <a href="https://www.npmjs.com/package/githubpub">githubpub</a> package. 
 
@@ -10,7 +10,7 @@ It's something I'm playing around with to see how much of a CMS we can make out 
 
 Now let's see if it can <a href="porky.png">serve</a> an image.
 
-That was fun! :-)
+For more info, check out the <a href="https://github.com/scripting/githubpub/blob/master/README.md">readme</a>. 
 
 Dave Winer
 
