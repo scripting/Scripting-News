@@ -20,7 +20,7 @@ If an element has a value and no attributes it's represented as a property in th
 
 <pre>"enclosure": {
    "url": "http://www.scripting.com/mp3s/weatherReportSuite.mp3",
-   "length": "12216320",
+   "length": 12216320,
    "type": "audio/mpeg"
    }
 </pre>
