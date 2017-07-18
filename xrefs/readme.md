@@ -16,7 +16,7 @@ Here's an example of an &lt;outline> element with an xref attribute.
 
 ### How the pieces fit together
 
-I edit Scripting News in an outliner. There's an <a href="http://storage.littleoutliner.com/users/davewiner/electric/todo.opml">OPML file</a> of course, and a <a href="http://storage.littleoutliner.com/users/davewiner/electric/todo.json">JSONified version</a>. Both carry exactly the same data. One uses XML syntax, the other uses JSON.
+I edit Scripting News in an outliner. There's an <a href="http://storage.littleoutliner.com/users/davewiner/electric/todo.opml">OPML file</a> of course, and a <a href="http://scripting.com/index.json">JSONified version</a>. Both carry exactly the same data. One uses XML syntax, the other uses JSON.
 
 <a href="https://duckduckgo.com/?q=site%3Ascripting.com+%22old+school%22&t=hq&ia=web">Old School</a> is a server app that uses the OPML file to update Scripting News. 
 
