@@ -1,4 +1,4 @@
-## How to create a AWS user with read/write access to an S3 bucket
+## How to create an AWS user with read/write access to an S3 bucket
 
 ### Create a policy
 
@@ -16,27 +16,27 @@
 
 ### Create a group
 
-6. Go back to the <a href="https://console.aws.amazon.com/iam/home?#/home">IAM dashboard</a> and click on Groups in the left margin.
+1. Go back to the <a href="https://console.aws.amazon.com/iam/home?#/home">IAM dashboard</a> and click on Groups in the left margin.
 
-7. Click the Create New Group button. On the next page enter the name of your group. I called mine _bloatwareEditors._  Click the Next Step button.
+2. Click the Create New Group button. On the next page enter the name of your group. I called mine _bloatwareEditors._  Click the Next Step button.
 
-8. On the Attach Policy page, enter the name of the policy you defined in the previous section and click the Next Step button.
+3. On the Attach Policy page, enter the name of the policy you defined in the previous section and click the Next Step button.
 
-9. On the next page click the Create Group button.
+4. On the next page click the Create Group button.
 
 ### Create a user
 
-10. From the <a href="https://console.aws.amazon.com/iam/home?#/home">IAM dashboard</a>, click on the Users link in the left margin.
+1. From the <a href="https://console.aws.amazon.com/iam/home?#/home">IAM dashboard</a>, click on the Users link in the left margin.
 
-11. Click Add user. On the next page, enter the user's name. I called my user <a href="http://scripting.com/2017/08/09.html#a080510">millieDresselhaus</a>. 
+2. Click Add user. On the next page, enter the user's name. I called my user <a href="http://scripting.com/2017/08/09.html#a080510">millieDresselhaus</a>. 
 
-12. For AWS access type, check Programmatic access, and leave the other option unchecked. 
+3. For AWS access type, check Programmatic access, and leave the other option unchecked. 
 
-13. Now it all comes together. Click the Add user to group button and check the box next to the name of the group you created in the steps above. 
+4. Now it all comes together. Click the Add user to group button and check the box next to the name of the group you created in the steps above. 
 
-14. Click the Next button and Create user and you're done. 
+5. Click the Next button and Create user and you're done. 
 
-#### Notes
+### Notes
 
 This the equivalent of an OAuth sign-in using S3. The user creates credentials for a new user who has read/write access to a single bucket. The idea is the user has set up this bucket to host their website and is using a desktop editor to manage a blog on that site. 
 
