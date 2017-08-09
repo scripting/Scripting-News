@@ -44,3 +44,5 @@ Here's an <a href="http://docs.aws.amazon.com/general/latest/gr/aws-arns-and-nam
 
 Another on how to <a href="https://aws.amazon.com/blogs/security/writing-iam-policies-how-to-grant-access-to-an-amazon-s3-bucket/">grant access</a> to an S3 bucket. 
 
+Any comments or suggestions, please post an issue <a href="https://github.com/scripting/Scripting-News/issues">here</a>. 
+
