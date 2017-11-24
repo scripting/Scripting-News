@@ -1,0 +1,190 @@
+{
+    "text": "June 27",
+    "created": "Tue, 27 Jun 2017 12:33:53 GMT",
+    "name": "27",
+    "subs": [
+        {
+            "text": "Good morning outliner users! :cow2:",
+            "created": "Tue, 27 Jun 2017 12:33:54 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://en.wikipedia.org/wiki/Lawrence_O%27Donnell\">Lawrence O'Donnell</a> says that the Repubs would have only gotten 5 votes for their Un-Obama-Care bill. 5 votes. F-I-V-E. 1-2-3-4-5. Just 5. Not 50. Five.",
+            "created": "Wed, 28 Jun 2017 02:16:51 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "We have a huge challenge in the US, not just to re-establish rule of law, but also to figure out what it means to have an open society and not be vulnerable to the abuse we took in 2016. ",
+            "created": "Tue, 27 Jun 2017 15:52:29 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/14\">Braintrust question</a>: Best way to monitor system load on Ubuntu? ",
+            "created": "Tue, 27 Jun 2017 13:40:16 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "The last day for Fargo",
+            "created": "Tue, 27 Jun 2017 12:39:52 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "According to Dropbox today is the last day to use \"Fargo\". ",
+                    "created": "Tue, 27 Jun 2017 12:40:08 GMT",
+                    "image": "http://scripting.com/images/2017/06/27/cowgirl.png"
+                },
+                {
+                    "text": "A frequently asked question: <i>How do I export my outlines?</i> It's a trick question. You don't. They are sitting in your Dropbox folder in a standard open <a href=\"http://dev.opml.org/spec2.html\">format</a>, supported by any reasonable outliner. They will still be there tomorrow after Fargo stops working.",
+                    "created": "Tue, 27 Jun 2017 12:40:28 GMT"
+                },
+                {
+                    "text": "BTW, it couldn't hurt to copy them out of your Dropbox folder into a backup somewhere. Better safe than sorry. :cat:",
+                    "created": "Tue, 27 Jun 2017 13:02:43 GMT"
+                },
+                {
+                    "text": " A <a href=\"http://scripting.com/2016/08/24/fargoTimesOutOnJune2017.html\">reminder</a>, they changed the <a href=\"https://en.wikipedia.org/wiki/Application_programming_interface\">API</a>, and today is the last day the old version of the API works. I decided not to maintain Fargo, so when the old API is turned off Fargo will stop working. ",
+                    "created": "Tue, 27 Jun 2017 12:43:46 GMT"
+                },
+                {
+                    "text": "If you like the outliner in Fargo, it's available in another package, \"LO2\". The outliner is also available as <a href=\"https://github.com/scripting/concord\">open source</a>, so if you want, perhaps you can get another developer to make it work with Dropbox. ",
+                    "created": "Tue, 27 Jun 2017 12:41:13 GMT"
+                },
+                {
+                    "text": "Fargo is a great product, but what I hoped would happen with it, has not happened. It is tightly integrated with the Dropbox platform, which has not taken off as a developer ecosystem. I wish it had, but the fact is that it hasn't. At some point you have to cut your losses. That's part of development too. ",
+                    "created": "Tue, 27 Jun 2017 12:42:06 GMT"
+                },
+                {
+                    "text": "\"curly\"",
+                    "created": "Tue, 27 Jun 2017 13:01:24 GMT"
+                },
+                {
+                    "text": "<i>Still diggin!</i>",
+                    "created": "Tue, 27 Jun 2017 13:01:30 GMT"
+                }
+            ]
+        },
+        {
+            "text": "New strategy for Twitter/Facebook metadata",
+            "created": "Tue, 27 Jun 2017 22:09:04 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "The way this blog works doesn't fit into the way Twitter and Facebook do metadata. I knew this would happen with the <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+%22old+school%22&t=h_&ia=web\">Old School</a> redesign, because I am immersed in their worlds. Basically every day has the same big image. That sucks because the image has nothing to do with what's being pointed to. They designed their metadata for a model that does not fit my blogging style. For a while I changed my style to accomodate them. But as you know I don't do that anymore. Now I am myself and if they don't like it, etc.",
+                    "created": "Tue, 27 Jun 2017 22:09:14 GMT",
+                    "image": "http://static.scripting.com/larryKing/images/2013/12/08/indianaJones.gif"
+                },
+                {
+                    "text": "Anyway, I was including an image that never changed in the metadata. Not only did this screw up Twitter and Facebook, but it also screwed up other apps that read their metadata. Like Slack and apparently Feedly.",
+                    "created": "Tue, 27 Jun 2017 22:10:50 GMT"
+                },
+                {
+                    "text": "So I nuked the image. ",
+                    "created": "Tue, 27 Jun 2017 22:11:37 GMT"
+                },
+                {
+                    "text": "It's still at the top of the <a href=\"http://scripting.com/\">home page</a> of my blog. But it's not in the metadata. Let's try that for a while and see if it makes things better. It'll probably break something else. That's how this stuff works. Or doesn't.",
+                    "created": "Tue, 27 Jun 2017 22:11:41 GMT"
+                },
+                {
+                    "text": "<i>\"It's even worse than it appears.\"</i>",
+                    "created": "Tue, 27 Jun 2017 22:17:48 GMT"
+                }
+            ]
+        },
+        {
+            "text": "To future-of-news people",
+            "created": "Tue, 27 Jun 2017 21:37:00 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<i>I sent an email this morning to several friends who I think of as future-of-newsers. People whose opinions I have high regard for, and who care about the future of news. The topic, the future of blogging. This is what I wrote...</i>",
+                    "created": "Tue, 27 Jun 2017 21:37:05 GMT",
+                    "image": "http://static.scripting.com/larryKing/images/2013/10/18/banksy2.gif"
+                },
+                {
+                    "text": "I have a feeling the tech blogosphere has a chance to reboot now...",
+                    "created": "Tue, 27 Jun 2017 21:38:05 GMT"
+                },
+                {
+                    "text": "Which begs the question -- what is a blog?",
+                    "created": "Tue, 27 Jun 2017 21:38:31 GMT"
+                },
+                {
+                    "text": "<a href=\"http://scripting.com/2014/06/27/iKnowWhatABlogIs.html\">http://scripting.com/2014/06/27/iKnowWhatABlogIs.html</a>",
+                    "created": "Tue, 27 Jun 2017 21:40:19 GMT"
+                },
+                {
+                    "text": "We need a reboot of the blogosphere. It's not that every blog has so much value, but some do. Think of the 2008 financial crisis and the blogs and podcasts that were born out of that. The same should be happening now. I'm sure it is, we just have to find it. "
+                },
+                {
+                    "text": "We have a huge challenge in the US, not just to re-establish rule of law, but also to figure out what it means to have an open society and not be vulnerable to the abuse we took in 2016."
+                },
+                {
+                    "text": "The solution is not going to come from Twitter or Facebook. The big news orgs are good at channeling leaks, but not new ideas. Quite the opposite, they're desperately trying to cling to the sensibility of the World Before Trump. ",
+                    "created": "Tue, 27 Jun 2017 21:39:10 GMT"
+                },
+                {
+                    "text": "Anyway, the first step imho is to understand that we have a way out. We just have to decide to use it. That means getting over the idea that journalism and blogging are the same thing. As long as we believe that, there really isn't any hope. (Imho of course.)"
+                },
+                {
+                    "text": "Because the circumstances are so dire, it's a very exciting time to have new ideas, because there's a small chance they might take hold. When everything is \"normal\" the chance for innovation isn't so great. "
+                },
+                {
+                    "text": "There's no action item here, other than listen for a <a href=\"https://www.youtube.com/watch?v=EnIL4KXQI2g\">stranger</a> with great ideas and when you hear one, tell everyone about what you heard. The ideas must be out there now. We just have to turn in their direction. I think that's how this works. ",
+                    "created": "Tue, 27 Jun 2017 21:39:36 GMT"
+                },
+                {
+                    "text": "With much love, ",
+                    "created": "Tue, 27 Jun 2017 21:44:18 GMT"
+                },
+                {
+                    "text": "Dave",
+                    "created": "Tue, 27 Jun 2017 21:44:20 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Handmaids in Washington",
+            "created": "Tue, 27 Jun 2017 18:32:06 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"http://thehill.com/blogs/blog-briefing-room/news/339690-women-stage-handmaids-tale-inspired-protest-outside-capitol\"><img src=\"http://scripting.com/images/2017/06/27/handmaids.png\" width=\"400\" height=\"300\" border=\"0\" alt=\"A picture named handmaids.png\"></a>",
+                    "created": "Tue, 27 Jun 2017 18:32:12 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Facebook a.k.a. The Moral Parade",
+            "created": "Tue, 27 Jun 2017 13:05:35 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Facebook is about the news, in a weird way.",
+                    "created": "Tue, 27 Jun 2017 13:05:41 GMT"
+                },
+                {
+                    "text": "Each bit of news potentially fires up a moral parade, where people recite prepared speeches."
+                },
+                {
+                    "text": "Often the speeches begin explaining how what someone said is like this other thing, then basically recites a canned story for that thing."
+                },
+                {
+                    "text": "You could give each story a number, and just type the number. The computer (Facebook) could then get the text and insert it into the comment for you. Discourse could happen much faster."
+                },
+                {
+                    "text": "Eventually Facebook could predict what you'll say and just say it for you. Like the self driving cars Google is making. You'd sign onto Facebook and see in your notification drop down menu \"You have commented on Betty Fird's post.\""
+                },
+                {
+                    "text": "You could read it if you like, but eventually you will know that Facebook correctly stated your opinion.",
+                    "created": "Tue, 27 Jun 2017 13:08:59 GMT"
+                },
+                {
+                    "text": "<i>Originally appeared as a <a href=\"https://www.facebook.com/dave.winer.12/posts/361076324099779?pnref=story\">post</a> on Facebook two years ago today.</i>",
+                    "created": "Tue, 27 Jun 2017 13:08:59 GMT",
+                    "isComment": "false"
+                }
+            ]
+        }
+    ]
+}

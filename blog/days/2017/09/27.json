@@ -1,0 +1,108 @@
+{
+    "text": "September 27",
+    "created": "Wed, 27 Sep 2017 12:50:19 GMT",
+    "name": "27",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/MichaelSkolnik/status/912838972648284160\">Dale Hansen</a>, an eloquent American veteran about protest. :clap: ",
+            "created": "Wed, 27 Sep 2017 16:49:20 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/MichaelSkolnik/status/912838972648284160"
+        },
+        {
+            "text": "Here's the <a href=\"http://pork.io/users/davewiner/rss.xml\">RSS feed</a> for my Electric Pork-generated threads. Interesting how many are two tweets long. 280 chars, not 140. Believe me, in my process, I start writing in Twitter, try to make it fit in 140, and only when it won't, do I edit it in \"Electric Pork\".",
+            "created": "Wed, 27 Sep 2017 22:05:59 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Would you contribute to an IndieGoGo-style campaign that created a fund that would be given to Trump the day after he resigns.",
+            "created": "Wed, 27 Sep 2017 19:58:21 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "BTW, Trump's NY <a href=\"http://nypost.com/2017/09/27/trump-raises-5m-at-new-york-fundraiser/\">fundraiser</a> last night completely screwed up midtown traffic. They had Broadway and 59th St closed. Can you imagine. Those are pretty major thoroughfares. All so El Presidente can raise money for Repubs. Very very very far from win-win. ",
+            "created": "Wed, 27 Sep 2017 16:44:36 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Coming clean, I point to <a href=\"https://politicalwire.com/\">Political Wire</a> and <a href=\"http://talkingpointsmemo.com/\">TPM</a> summaries of stories on NYT, WaPost and CNN so I don't drive traffic to their paywalls and to autoplay video that autoplays. It all keeps getting worse. I pay myself for the NYT, but still have to wait for ads to complete before I can read the stories I paid to read. Overall I'd much rather point to the original reporting. This is part of the malaise around web-based news. Just a part. It seems to me it has to be a fun and rewarding experience without gotchas before it can ask for money. ",
+            "created": "Wed, 27 Sep 2017 16:39:21 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Publishing HowTo docs from Little Outliner",
+            "created": "Wed, 27 Sep 2017 19:48:34 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "This <a href=\"http://my.this.how/users/davewiner/myOutlines/howtosInLittleOutliner.opml\">howto</a> shows how to publish howto's in \"Little Outliner\". ",
+                    "created": "Wed, 27 Sep 2017 15:13:02 GMT"
+                },
+                {
+                    "text": "I added a <a href=\"http://my.this.how/users/davewiner/myOutlines/howtosInLittleOutliner.opml#1506529449000\">section</a> on customizing the howto's using CSS. ",
+                    "created": "Wed, 27 Sep 2017 16:25:37 GMT"
+                },
+                {
+                    "text": "Fixed a bug in \"Little Outliner\". If you deleted a file-level attribute, if would not save the deletion in the OPML file. v1.68a.",
+                    "created": "Wed, 27 Sep 2017 15:47:12 GMT"
+                },
+                {
+                    "text": "I used PagePark to implement this feature. <a href=\"https://github.com/scripting/pagePark/issues/9\">Here's how</a> I did it. ",
+                    "created": "Wed, 27 Sep 2017 19:26:34 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Let Twitter be Twitter",
+            "created": "Wed, 27 Sep 2017 12:50:20 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "This subject comes up whenever Twitter <a href=\"https://twitter.com/jack/status/912784057863245824\">flirts</a> with the <a href=\"http://www.techmeme.com/170926/p36#a170926p36\">idea</a> of <a href=\"http://adage.com/article/digital/140-characters-a-quirk-twitter-a-relic-past/310632/\">increasing</a> the 140-char limit. Some people say the limit defines Twitter, and without it, Twitter would lose its identity, and something terrible will happen. ",
+                    "created": "Wed, 27 Sep 2017 12:50:23 GMT",
+                    "image": "http:///scripting.com/images/2017/09/27/bird.png"
+                },
+                {
+                    "text": "I'm. So. Tired. Of. This. It's like that West Wing episode where the president says \"Let's just dangle our feet in the water.\" They talk about doing all kinds of things, but don't do them. At the end, Leo writes something on a notepad that has been used by real presidents at least a couple of times since -- <a href=\"https://www.youtube.com/watch?v=EZ9-3NxTzQ8\">Let Bartlet Be Bartlet</a>. Well, it's time to Let Twitter be Twitter, and no, I don't think it has anything to do with the 140-char limit. ",
+                    "created": "Wed, 27 Sep 2017 12:51:32 GMT"
+                },
+                {
+                    "text": "I think the 140-char limit is something like the <a href=\"https://en.wikipedia.org/wiki/Conventional_memory#640_KB_barrier\">640K limit on PCs</a>. At first it seemed enough, but then a few years later, memory was full of spreadsheets and word processing documents and TSRs, and all kinds of crazy fixes appeared for extending the memory, and in doing so made the whole thing much more unusable. Along came the Mac with its mouse and graphic user interface, but as a developer, I think the fact that the Mac didn't have the 640K limit was an equally important factor. There were no limits to the Mac's growth for software developers. In this analogy, on Twitter, writers are the developers. And any writer who thinks every idea can be expressed in 140 chars, has imho never seriously used Twitter. ",
+                    "created": "Wed, 27 Sep 2017 12:54:34 GMT"
+                },
+                {
+                    "text": "If we're going to <i>Let Twitter Be Twitter, </i>maybe there are other things that are more important than the 140-char limit? I think of Twitter as the <a href=\"https://twitter.com/davewiner/status/912863256963817472\">place</a> where newsmakers make news. Where the people who write the news work, and where people who want news gather. It's all focused on news. ",
+                    "created": "Wed, 27 Sep 2017 12:56:59 GMT"
+                },
+                {
+                    "text": "In 2010, I did a <a href=\"http://scripting.com/stories/2010/03/24/howBigIsANuggetofnews.html\">study</a> to see, from NYT feeds, how long the average synopsis is. It was more than 140. And 280 characters would have been enough for all but the longest. ",
+                    "created": "Wed, 27 Sep 2017 13:13:35 GMT"
+                },
+                {
+                    "text": "Also, just sayin, it isn't really working for Twitter-the-company. I bought a bunch of Twitter stock a couple of years ago, so I could have whatever upside was available, and so I could understand Twitter from the perspective of an investor. When the Knicks were faring as poorly as Twitter is as a stock, they basically got rid of everyone and started over. Sad as I was to say goodbye to JR Smith and Iman Schumpert and everyone else, I had to agree, this isn't working, and it's lunacy to keep betting on a team that's delivering such poor results. ",
+                    "created": "Wed, 27 Sep 2017 12:58:08 GMT"
+                },
+                {
+                    "text": "So if you think the 140-char limit is so great, why isn't Twitter making money for its shareholders? If you were management at Twitter would you be conservative or would you take risks? As a shareholder, I want them to take risks. Big ones. Why not? They don't really have anything to lose. ",
+                    "created": "Wed, 27 Sep 2017 13:00:00 GMT"
+                },
+                {
+                    "text": "It could be that when you remove the 140-char limit, Twitter will just crumble into a mass of servers and Russian bots, and all the good people will go to Ello and Mastodon, or whatever -- maybe Facebook. After all, now that the 140-char limit is gone, why not just go ahead and post unlimited-length messages on Facebook? It could happen that way, but I don't think so.",
+                    "created": "Wed, 27 Sep 2017 12:53:15 GMT"
+                },
+                {
+                    "text": "I wish Jack and team would stop dangling their feet in the water and just make the change. I don't think the complaints are real. The people complaining don't <i>know</i> that easing the limit will screw up Twitter. They say they know, but they don't. If they don't like it they can always unfollow or mute people who use too many characters. But they won't. Users always complain about change. Sometimes they're right, but usually it doesn't make as much of a difference as they think.",
+                    "created": "Wed, 27 Sep 2017 13:00:58 GMT"
+                },
+                {
+                    "text": "Also, why not make the limit 1000 characters or even 1,000,000? I can attach a video to a tweet that uses more than 1MB. Why not text? I don't see what they have against text. I did a <a href=\"http://scripting.com/2015/10/02/whatWouldAFatTweetLookLike.html\">design</a> for them a couple of years ago that shows how it could be done with zero disruption for 140-char lovers. It's not an original idea, I stole it from Facebook. This is an <i>easy</i> software design problem. ",
+                    "created": "Wed, 27 Sep 2017 13:02:55 GMT"
+                },
+                {
+                    "text": "We do this every time Jack Dorsey flirts with the idea. This time just do it and stop dangling your feet in the water. Let Twitter be Twitter. And next month let's break another rule and learn from it, and start growing this platform again. ",
+                    "created": "Wed, 27 Sep 2017 13:13:59 GMT"
+                }
+            ]
+        }
+    ]
+}

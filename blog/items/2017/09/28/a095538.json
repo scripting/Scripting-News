@@ -1,0 +1,30 @@
+{
+    "text": "How Twitter and Facebook can get out of the hot seat",
+    "created": "Thu, 28 Sep 2017 13:55:38 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Because they're <a href=\"https://en.wikipedia.org/wiki/Information_silo\">silos</a> they have become responsible for the content they're hosting. If they would let the web do that, then people can do what they need to do anywhere and have it viewable through Twitter and Facebook with no loss of fidelity. Here's what they'd have to do.",
+            "created": "Thu, 28 Sep 2017 13:55:47 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "Both services support a subset of HTML.",
+                    "created": "Thu, 28 Sep 2017 13:56:57 GMT"
+                },
+                {
+                    "text": "Twitter blows through the 140-char limit, removing the length limit on text altogether. Twitter can preserve the user experience, by only showing the first 140 characters (or 280 if they're committed to that), and adding a <a href=\"http://scripting.com/2015/10/02/whatWouldAFatTweetLookLike.html\">Show more</a> link as Facebook has been doing for years. ",
+                    "created": "Thu, 28 Sep 2017 13:57:23 GMT"
+                },
+                {
+                    "text": "Allow a post to be a pointer to the original content, in JSON form, which they can cache, but will read periodically so changes can flow through to their versions of the content. ",
+                    "created": "Thu, 28 Sep 2017 13:59:34 GMT"
+                }
+            ]
+        },
+        {
+            "text": "With these simple changes they stop being silos. Posts can appear in a variety of places including Facebook and Twitter. The companies are clearly no more responsible for the content than anyone else.  ",
+            "created": "Thu, 28 Sep 2017 13:58:01 GMT"
+        }
+    ]
+}

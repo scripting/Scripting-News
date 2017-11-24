@@ -1,0 +1,7 @@
+{
+    "text": "An idea. I sent this to my friend <a href=\"https://twitter.com/danmactough?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor\">Dan MacTough</a> who wrote the <a href=\"https://github.com/danmactough/node-feedparser\">FeedParser</a> package for Node that I use in <a href=\"https://github.com/scripting/river5\">River5</a>. \"How about a package that compiles XML text into a JavaScript  object exactly as <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse\">JSON.parse</a> does.\" I got this idea from reading promotional material for the <a href=\"https://jsonfeed.org/\">JSON Feed</a> project. One of their concerns is that XML parsing is too hard. Okay, that's feedback. I think they're right. So let's make it as easy. Easy is good. Why not?",
+    "created": "Tue, 06 Jun 2017 08:29:04 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2017/06/06/goose.png",
+    "permalink": "http://scripting.com/2017/06/06.html#a040604"
+}

@@ -1,0 +1,29 @@
+{
+    "text": "Demo of a new Scripting News feature",
+    "created": "Thu, 13 Jul 2017 19:32:36 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "The other day I wrote a <a href=\"http://scripting.com/2017/07/11.html#a094345\">piece</a> about how I prefer blogging on the open web because if I have an <i>Aha! </i>idea, over <a href=\"http://scripting.com/2017/07/13.html#a033236\">here</a>, I can implement it. If you click the wedge next to this <a href=\"http://scripting.com/2017/07/13.html#a033236\">item</a> you can read the full text of that post, without leaving this post. ",
+            "created": "Thu, 13 Jul 2017 19:32:44 GMT",
+            "xref": "http://scripting.com/2017/07/11.html#a094345",
+            "permalink": "http://scripting.com/2017/07/13.html#a033244"
+        },
+        {
+            "text": "That's the feature I figured out. One of the nice things that <a href=\"https://duckduckgo.com/?q=%22old+school%22+site%3Ascripting.com&t=hq&ia=web\">Old School</a> does is create a <a href=\"http://scripting.com/items/2017/07/11/a094345.json\">JSON file</a> of every post on the site. You can derive its address from the permalink. It took all of today to get the new feature working. I could have waited 100 years and they would never have implemented it in Facebook. They don't listen to me. But <i>I</i> listen to me. :bowling: ",
+            "created": "Thu, 13 Jul 2017 19:33:45 GMT",
+            "permalink": "http://scripting.com/2017/07/13.html#a033345"
+        },
+        {
+            "text": "I have ideas where this feature could go, but for right now it's really cool just to have the feature. Let's see if I use it. (No guarantees. I don't always use the features I implement.)",
+            "created": "Thu, 13 Jul 2017 19:36:07 GMT",
+            "permalink": "http://scripting.com/2017/07/13.html#a033607"
+        },
+        {
+            "text": "PS: The new feature is called <i>xrefs.</i>",
+            "created": "Mon, 24 Jul 2017 21:24:39 GMT",
+            "permalink": "http://scripting.com/2017/07/13.html#a052439"
+        }
+    ],
+    "permalink": "http://scripting.com/2017/07/13.html#a033236"
+}

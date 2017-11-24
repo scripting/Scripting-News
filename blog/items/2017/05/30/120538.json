@@ -1,0 +1,54 @@
+{
+    "text": "NetNewsWire, please support titleless items",
+    "created": "Tue, 30 May 2017 16:08:38 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I got an email from NetNewsWire user Frank Leahy, requesting that I add titles to my feed for items that don't have titles. ",
+            "created": "Tue, 30 May 2017 16:08:50 GMT",
+            "image": "http://scripting.com/images/2017/05/30/loveRss.png",
+            "permalink": "http://scripting.com/2017/05/30.html#a120550"
+        },
+        {
+            "text": "He sent a <a href=\"http://scripting.com/images/2017/05/30/netnewswiretitlelessitems.png\">screen shot</a> to illustrate how his reader deals with titleless items. ",
+            "created": "Tue, 30 May 2017 16:09:15 GMT",
+            "permalink": "http://scripting.com/2017/05/30.html#a120515"
+        },
+        {
+            "text": "As you can see they represent an item without a title as <i>Untitled</i> in the left panel, and as <i>No title</i> in the right panel.",
+            "created": "Tue, 30 May 2017 16:11:26 GMT",
+            "permalink": "http://scripting.com/2017/05/30.html#a120526"
+        },
+        {
+            "text": "I'm not sure what the right answer is, but this is not it.",
+            "created": "Tue, 30 May 2017 16:12:07 GMT",
+            "permalink": "http://scripting.com/2017/05/30.html#a120507"
+        },
+        {
+            "text": "The words <i>Untitled</i> and <i>No title</i> do not appear in <a href=\"http://scripting.com/rss.xml\">my feed</a>.",
+            "created": "Tue, 30 May 2017 16:12:16 GMT",
+            "permalink": "http://scripting.com/2017/05/30.html#a120516"
+        },
+        {
+            "text": "They must not appear in their display.",
+            "created": "Tue, 30 May 2017 16:12:32 GMT",
+            "permalink": "http://scripting.com/2017/05/30.html#a120532"
+        },
+        {
+            "text": "An idea, they could do what Frank asked me to do, show the first few words from the post in the list view. And nothing in the right view. These items have no titles for artistic reasons. The author did not put them there. You, as a software developer, are not entitled to add them (haha that's a pun).",
+            "created": "Tue, 30 May 2017 16:12:40 GMT",
+            "permalink": "http://scripting.com/2017/05/30.html#a120540"
+        },
+        {
+            "text": "I think <a href=\"https://blackpixel.com/contact/\">Black Pixel</a> now owns NetNewsWire. If you know them could you send them a link to this post. Thanks! ",
+            "created": "Tue, 30 May 2017 16:13:34 GMT",
+            "permalink": "http://scripting.com/2017/05/30.html#a120534"
+        },
+        {
+            "text": "We'll get this done. ;-)",
+            "created": "Tue, 30 May 2017 16:14:03 GMT",
+            "permalink": "http://scripting.com/2017/05/30.html#a120503"
+        }
+    ],
+    "permalink": "http://scripting.com/2017/05/30.html#a120538"
+}

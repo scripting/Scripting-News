@@ -1,0 +1,116 @@
+{
+    "text": "July 27",
+    "created": "Thu, 27 Jul 2017 12:04:10 GMT",
+    "name": "27",
+    "subs": [
+        {
+            "text": "I recorded a <a href=\"http://scripting.com/2017/07/27/updateOnInstantDave.m4a\">voice memo</a> for my friend Rex about the state of the <a href=\"http://instantdave.com/\">software</a> I'm working on. It's the kind of thing I'll want to listen to in a while, so I uploaded it and you can listen too if you like. ",
+            "created": "Thu, 27 Jul 2017 22:38:51 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2017/07/27/updateOnInstantDave.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "4833189",
+            "image": "http:///scripting.com/images/2017/07/27/allYourBase.png"
+        },
+        {
+            "text": "Here are the <a href=\"http:///scripting.com/images/2017/07/27/doctools.png\">three new tools</a> in my dock. It just turned out this way with the first and the third being related. <i>Really weird!</i>  :cow:",
+            "created": "Thu, 27 Jul 2017 23:13:08 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Twitter owns <a href=\"https://en.wikipedia.org/wiki/Broadway_(Manhattan)\">Broadway</a>. They put up a hotel and hot spot, but not enough people can cram in. Why not let some other spots open?",
+            "created": "Thu, 27 Jul 2017 17:05:08 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "If only a few people do something, assume that it's hard. ",
+            "created": "Thu, 27 Jul 2017 15:15:49 GMT",
+            "type": "tweet",
+            "tweetId": "890591765824188420",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "What if Russia started buying <a href=\"https://www.google.com/finance?q=NYSE:TWTR\">$TWTR</a> stock? ",
+            "created": "Thu, 27 Jul 2017 14:20:39 GMT",
+            "type": "tweet",
+            "tweetId": "890577870854254592",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "Were you part of the <a href=\"http://this.how/berkman/\">Berkman Thursday</a> group in 2003-04?",
+            "created": "Thu, 27 Jul 2017 12:15:33 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Current tech problem",
+            "created": "Thu, 27 Jul 2017 12:44:28 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I'm writing an app to manage my <a href=\"https://github.com/foreverjs/forever\">Forever</a> servers. ",
+                    "created": "Thu, 27 Jul 2017 12:44:34 GMT"
+                },
+                {
+                    "text": "I have a lot of it working, but I'm stuck at how to get a list of apps that are running, and the basic info about the apps like how long they've been running, where the log file is, what the process ID is. Basically all the info that forever is keeping for us. ",
+                    "created": "Thu, 27 Jul 2017 12:47:11 GMT"
+                },
+                {
+                    "text": "The Forever app does <a href=\"http:///scripting.com/images/2017/07/27/foreverListExample.png\">this</a> in response to the <i>forever list</i> command. ",
+                    "created": "Thu, 27 Jul 2017 12:48:01 GMT"
+                },
+                {
+                    "text": "That's the info I want, but from within the app as a JS object. ",
+                    "created": "Thu, 27 Jul 2017 12:48:12 GMT"
+                },
+                {
+                    "text": "I posted an <a href=\"https://github.com/foreverjs/forever-monitor/issues/149\">issue</a> on the repo for forever-monitor.",
+                    "created": "Thu, 27 Jul 2017 12:48:32 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Extrapolation and interpolation",
+            "created": "Thu, 27 Jul 2017 19:01:40 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "The other day I was trying to explain to an educated and intelligent non-native English speaker what <a href=\"https://duckduckgo.com/?q=define+extrapolate&t=hq&ia=definition\">extrapolation</a> means. I was looking for an analogy and couldn't come up with one. Something in the real world that is an extrapolation. Struggling, I asked my friend if he knows what <a href=\"https://duckduckgo.com/?q=define+interpolate&t=hq&ia=definition\">interpolation</a> means. No, not that either. ",
+                    "created": "Thu, 27 Jul 2017 19:01:50 GMT"
+                },
+                {
+                    "text": "Well I still don't have an analogy, but I can explain the concepts. ",
+                    "created": "Thu, 27 Jul 2017 19:06:24 GMT"
+                },
+                {
+                    "text": "Imagine two points, A and B and a line connecting them. Put an arrow at the end of the line and then plot a point C that's also on the line. C is an extrapolation of A and B.",
+                    "created": "Thu, 27 Jul 2017 19:03:08 GMT"
+                },
+                {
+                    "text": "For interpolation, imagine two points, and a line connecting them. Put a point on the line, inbetween the two points. That's an interpolation.",
+                    "created": "Thu, 27 Jul 2017 19:03:56 GMT"
+                },
+                {
+                    "text": "In logic and stats it doesn't always follow that new data follow the pattern of previous data, but if they do, these are the words we use to describe the phenomenon. ",
+                    "created": "Thu, 27 Jul 2017 19:04:38 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Gridlock is going to break",
+            "created": "Thu, 27 Jul 2017 23:07:34 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Steve Hanselman says on Facebook (sorry no link) that a veto-proof Russian sanctions bill just passed. I wrote him saying: ",
+                    "created": "Thu, 27 Jul 2017 23:07:44 GMT",
+                    "subs": [
+                        {
+                            "text": "You know what's going to happen Steve. Gridlock is going to break. This is the first step. Bipartisan collaboration. It's like when they said the US was the sole superpower and we would have a peace dividend. Nothing is ever permanent. Russia was certain to rise again. And the parties are going to realign now, and it's all up for grabs again. New Republican and Democratic parties with members of each switching sides, but probably for right now mostly Repubs becoming Dems. ",
+                            "created": "Thu, 27 Jul 2017 23:07:39 GMT"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

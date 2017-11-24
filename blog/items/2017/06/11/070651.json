@@ -1,0 +1,6 @@
+{
+    "text": "A small change to the app that spews links from my various feeds to the <a href=\"http://scripting.com/2017/05/16/experimentingWithAPersonalTwitter.html\">Slack group</a>. Now it won't <a href=\"https://api.slack.com/docs/message-link-unfurling\">unfurl</a> links coming from <a href=\"http://scripting.com/\">Scripting News</a>. It was getting <a href=\"http://scripting.com/images/2017/06/11/slackTimelineExcerpt.png\">monotonous</a>. Posts from this blog are small things. Now the Slack representation is small too.",
+    "created": "Sun, 11 Jun 2017 23:29:51 GMT",
+    "type": "outline",
+    "permalink": "http://scripting.com/2017/06/11.html#a070651"
+}

@@ -1,0 +1,34 @@
+{
+    "text": "May 22",
+    "created": "Tue, 23 May 2017 00:19:47 GMT",
+    "name": "22",
+    "subs": [
+        {
+            "text": "JSON file formats",
+            "created": "Tue, 23 May 2017 00:19:48 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Examples of products of mine that have JSON file formats.",
+                    "created": "Tue, 23 May 2017 00:19:51 GMT"
+                },
+                {
+                    "text": "1. In <a href=\"http://1999.io/\">1999.io</a> the entire blog is stored in a single <a href=\"http://friends.farm/users/davewiner/chatLog.json\">JSON file</a>. ",
+                    "created": "Tue, 23 May 2017 00:20:04 GMT"
+                },
+                {
+                    "text": "2. All rivers produced by <a href=\"https://github.com/scripting/river5\">River5</a> are <a href=\"http://riverjs.org/\">JSONP</a> <a href=\"http://radio3.io/rivers/tech.js\">files</a>.",
+                    "created": "Tue, 23 May 2017 00:20:24 GMT"
+                },
+                {
+                    "text": "3. Historically <a href=\"https://github.com/scripting/river5/tree/master/lists\">subscription lists</a> are OPML files. In River5 I relaxed this rule and we allow either JSON or simple text files alongside the original OPML format. ",
+                    "created": "Tue, 23 May 2017 00:20:53 GMT"
+                },
+                {
+                    "text": "Lots of good stuff in the links hanging off this post. ;-)",
+                    "created": "Tue, 23 May 2017 00:26:21 GMT"
+                }
+            ]
+        }
+    ]
+}

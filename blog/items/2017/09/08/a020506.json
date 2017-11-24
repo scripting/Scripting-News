@@ -1,0 +1,5 @@
+{
+    "text": "I'm looking at bringing back the tabs on \"Scripting News\". Technically it's straightforward, however on a blog, it raises a question. What about people who browse with JavaScript turned off? Tabs are implemented with JavaScript. I can make the page work as it does now for people without JavaScript, but that means it will be ugly for people with JavaScript turned on. Since I'm one of them, I resist doing that. I'd like to get an idea of what you all think, so I <a href=\"https://github.com/scripting/Scripting-News/issues/25\">started an issue</a> for this on GitHub. ",
+    "created": "Fri, 08 Sep 2017 18:05:06 GMT",
+    "type": "outline"
+}

@@ -1,0 +1,36 @@
+{
+    "text": "Test post",
+    "created": "Fri, 23 Jun 2017 19:48:21 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Here's a list with four items",
+            "created": "Fri, 23 Jun 2017 19:49:21 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "one",
+                    "created": "Fri, 23 Jun 2017 19:48:43 GMT",
+                    "permalink": "http://scripting.com/2017/06/23.html#a030643"
+                },
+                {
+                    "text": "two",
+                    "created": "Fri, 23 Jun 2017 19:48:44 GMT",
+                    "permalink": "http://scripting.com/2017/06/23.html#a030644"
+                },
+                {
+                    "text": "three",
+                    "created": "Fri, 23 Jun 2017 19:48:45 GMT",
+                    "permalink": "http://scripting.com/2017/06/23.html#a030645"
+                },
+                {
+                    "text": "four",
+                    "created": "Fri, 23 Jun 2017 19:48:46 GMT",
+                    "permalink": "http://scripting.com/2017/06/23.html#a030646"
+                }
+            ],
+            "permalink": "http://scripting.com/2017/06/23.html#a030621"
+        }
+    ],
+    "permalink": "http://scripting.com/2017/06/23.html#a030621"
+}

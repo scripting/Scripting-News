@@ -1,0 +1,83 @@
+{
+    "text": "June 26",
+    "created": "Mon, 26 Jun 2017 12:20:04 GMT",
+    "name": "26",
+    "subs": [
+        {
+            "text": "Good morning students and teachers! :green_apple: ",
+            "created": "Mon, 26 Jun 2017 12:20:05 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "This is the <a href=\"https://twitter.com/kennethn/status/879367091953868801\">human side</a> of <a href=\"http://scripting.com/2017/03/08/theWorldIsSocialistPartIi.html\">Health care is socialist</a>. ",
+            "created": "Mon, 26 Jun 2017 19:40:58 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Scripting News on <a href=\"http://scripting.com/2014/08/28/\">Aug 28, 2014</a>. I've been digging around in <a href=\"http://fargo.io/docs/contentManagement/\">Fargo's CMS</a>, looking at all the different ways it renders content, all from outlines.   ",
+            "created": "Tue, 27 Jun 2017 03:51:56 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Interesting Politico <a href=\"http://www.politico.com/magazine/story/2017/06/26/trump-president-style-mayor-215294\">piece</a> posits that Trump acts as if he's mayor of the United States. If <a href=\"https://en.wikipedia.org/wiki/Mayor_of_New_York_City\">NYC</a> is his model, that mayor is esp powerless, because the governor of the state also has a lot of power over the city. It's approx 1/2 of the population of the state, and probably much more than 1/2 of the money. For example, the <a href=\"https://en.wikipedia.org/wiki/Metropolitan_Transportation_Authority\">MTA</a>, which runs the buses and subway, is run by the state, not the city.",
+            "created": "Mon, 26 Jun 2017 18:10:04 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/06/26/quimby.png"
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/12\">Brent asks</a> if the <i>length</i> in enclosures in \"RSS-in-JSON\" is a number or string. That's what the test podcast <a href=\"http://scripting.com/2017/06/26.html#a010633\">below</a> is for.  ",
+            "created": "Mon, 26 Jun 2017 18:05:02 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "From time to time I have to do a podcast to test things out. This is one of those times. Let's see what happens. ",
+            "created": "Mon, 26 Jun 2017 17:29:33 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2017/06/26/yetAnotherTestPodcast.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "277413"
+        },
+        {
+            "text": "Body shaming is wrong no matter who you're using as the example. Someone is being hurt by <a href=\"https://twitter.com/xeni/status/879354857374732288\">this</a>. No, I don't care how much you have suffered.",
+            "created": "Mon, 26 Jun 2017 15:26:03 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I need <a href=\"https://github.com/scripting/xmlViewer/blob/master/xmlviewer.js\">an app</a> to <a href=\"http://xmlviewer.scripting.com/?url=http://scripting.com/rss.xml\">view</a> RSS feeds in the browser because Chrome and Safari refuse to let me do that. I'd love to hear the reason why. ",
+            "created": "Mon, 26 Jun 2017 13:24:16 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Subscribable feed lists give power to users",
+            "created": "Mon, 26 Jun 2017 12:24:36 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "An interesting <a href=\"https://github.com/kylewm/woodwind/issues/7#issuecomment-311000922\">comment</a> from <a href=\"https://github.com/chrisaldrich\">Chris Aldrich</a> about subscribing to lists of feeds in a thread on the <a href=\"https://github.com/kylewm/woodwind\">Woodwind</a> app site on GitHub. ",
+                    "created": "Mon, 26 Jun 2017 12:24:49 GMT",
+                    "image": "http://static.scripting.com/larryKing/images/2014/05/25/goodHumor.gif"
+                },
+                {
+                    "text": "Here's the basic idea. There's a difference between importing OPML into a reader and subscribing to it. The latter is very powerful, for the user, but a lot of RSS reader devs may not want their users to have that much power. It's not a very hard feature to implement. ",
+                    "created": "Mon, 26 Jun 2017 12:40:32 GMT"
+                },
+                {
+                    "text": "The idea has been <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+%22reading+list%22&t=hz&ia=web\">much-discussed</a> here. We call them reading lists. Michael Arrington even wrote a <a href=\"https://techcrunch.com/2005/10/16/my-thoughts-on-reading-lists/\">TechCrunch piece</a> about it in 2005. ",
+                    "created": "Mon, 26 Jun 2017 12:26:01 GMT"
+                },
+                {
+                    "text": "Subscribable OPML is something all my readers have been able to do through an OPML feature called <a href=\"http://dev.opml.org/spec2.html#inclusion\">inclusion</a>. I wrote a <a href=\"https://github.com/scripting/river5/blob/master/docs/DROPBOXSUBSCRIPTIONLISTS.md\">howto</a> for a \"River5\" user re inclusion just last week.",
+                    "created": "Mon, 26 Jun 2017 12:27:15 GMT"
+                },
+                {
+                    "text": "<a href=\"https://techcrunch.com/2006/05/07/share-your-opml/\">Share Your OPML</a> was a service I operated for a while. It made it possible to manage your OPML separate from the reader you used. It was meant to encourage readers to support subscribable OPML. I'm looking for an excuse to bring it back, but first we need a base of shared feed lists. ",
+                    "created": "Mon, 26 Jun 2017 12:33:10 GMT"
+                },
+                {
+                    "text": "A lot of good stuff can be done if feed readers are willing to delegate list management to other services. IMHO the only reason a reader developer <i>wouldn't</i> do it is because they want to lock users in. If I let you edit your feed list elsewhere that means you could give the list to another vendor and have a choice which to use. It's really something users should demand, esp if you're paying for the service. ",
+                    "created": "Mon, 26 Jun 2017 12:47:13 GMT"
+                }
+            ]
+        }
+    ]
+}

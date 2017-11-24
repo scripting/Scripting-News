@@ -1,0 +1,38 @@
+{
+    "text": "Introducing opmlToJs -- an NPM package",
+    "created": "Mon, 07 Aug 2017 13:38:01 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "As I <a href=\"http://scripting.com/2017/08/06.html#a122101\">reported</a> yesterday I have been modularizing my Node work by creating packages of reusable code. The first one I want to show you is called <a href=\"https://github.com/scripting/opmlToJs\">opmlToJs</a>. It does two things well:",
+            "created": "Mon, 07 Aug 2017 13:38:50 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "Parses an OPML string and turns it into a JavaScript object.",
+                    "created": "Mon, 07 Aug 2017 13:39:06 GMT"
+                },
+                {
+                    "text": "Takes one of those objects and turns it turns it back into an OPML string.",
+                    "created": "Mon, 07 Aug 2017 13:39:21 GMT"
+                }
+            ]
+        },
+        {
+            "text": "The JSON object it produces is set up the way all my outline-processing tools in JavaScript expect them, so it works with the <a href=\"https://github.com/scripting/outlineBrowser\">outlineBrowser</a> toolkit and many others.",
+            "created": "Mon, 07 Aug 2017 13:40:03 GMT"
+        },
+        {
+            "text": "If you have to consume OPML or generate it, <a href=\"https://github.com/scripting/opmlToJs\">opmlToJs</a> makes it easy.",
+            "created": "Mon, 07 Aug 2017 13:42:18 GMT"
+        },
+        {
+            "text": "\"OPML\" is a standard XML-based file format used for outlines, presentations and lists for RSS feed readers. \"River5\" uses OPML to import and export feed lists. \"Fargo\" and \"Little Outliner\" use OPML as the file format. OPML has been around <a href=\"http://scripting.com/davenet/2000/09/24/opml10.html\">since</a> 2000.",
+            "created": "Mon, 07 Aug 2017 13:45:14 GMT"
+        },
+        {
+            "text": "If you have any questions or suggestions, please post an <a href=\"https://github.com/scripting/opmlToJs/issues\">issue</a> on the GitHub project. ",
+            "created": "Mon, 07 Aug 2017 13:44:13 GMT"
+        }
+    ]
+}

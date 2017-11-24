@@ -1,0 +1,29 @@
+{
+    "text": "Arrow keys on Scripting News?",
+    "created": "Mon, 11 Sep 2017 13:20:04 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Yesterday on the UX thread, <a href=\"https://github.com/scripting/Scripting-News/issues/25#issuecomment-328370408\">kwebble</a> says:",
+            "created": "Mon, 11 Sep 2017 13:21:00 GMT",
+            "subs": [
+                {
+                    "text": "<i>After opening scripting.com it's not possible to navigate up/down with the keyboard using the up/down or pageup/pagedown cursor keys. I guess focus is not on the content are, but somewhere else.</i>",
+                    "created": "Mon, 11 Sep 2017 13:21:22 GMT"
+                }
+            ]
+        },
+        {
+            "text": "He's right. This is reproducible. Now, how to fix it?",
+            "created": "Mon, 11 Sep 2017 13:21:58 GMT"
+        },
+        {
+            "text": "I tried setting the focus to the divPagebody element on startup, but that didn't do it. This is a hard problem to <a href=\"https://www.google.com/search?q=why+don%27t+the+arrow+keys+work+in+my+web+page&rlz=1C5CHFA_enUS743US747&oq=why+d&aqs=chrome.0.69i59j69i60l2j69i57j69i60j0.1359j0j4&sourceid=chrome&ie=UTF-8\">search</a> for, but other people must have encountered it. I don't think I ever have. ",
+            "created": "Mon, 11 Sep 2017 13:45:55 GMT"
+        },
+        {
+            "text": "If you have ideas or pointers, please post a comment on the <a href=\"https://github.com/scripting/Scripting-News/issues/25#issuecomment-328370408\">GitHub issue</a> thread. <i>Thanks!</i>",
+            "created": "Mon, 11 Sep 2017 13:47:09 GMT"
+        }
+    ]
+}

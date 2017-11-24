@@ -1,0 +1,7 @@
+{
+    "text": "My project for the day is to get \"River5\" to support \"RSS-in-JSON\" feeds. I want to support <a href=\"https://jsonfeed.org/\">JSON Feed</a> format as well, but RIJ is a straight line. I basically already have support for it in River5, because the structure is just RSS. (And of course since it's a <a href=\"https://nodejs.org/\">Node</a> app, it's all converted to a JS object before processing, which is basically JSON.) I've LOL'd about 15 times while getting this together. It's like <a href=\"https://en.wikipedia.org/wiki/Factorization\">factoring</a> in mathematics. Lots of \"it just works\" moments.  ",
+    "created": "Tue, 13 Jun 2017 16:13:07 GMT",
+    "type": "outline",
+    "image": "http://static.scripting.com/larryKing/images/2014/05/25/goodHumor.gif",
+    "permalink": "http://scripting.com/2017/06/13.html#a120607"
+}

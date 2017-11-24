@@ -1,0 +1,58 @@
+{
+    "text": "July 19",
+    "created": "Wed, 19 Jul 2017 14:01:43 GMT",
+    "name": "19",
+    "subs": [
+        {
+            "text": "<a href=\"http://instantdave.com/\">instantdave.com</a> is a domain I bought today. :airplane: ",
+            "created": "Thu, 20 Jul 2017 01:14:51 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I'm wearing a <a href=\"http://scripting.com/2016/12/30/theMlkButtonsArrived.html\">MLK button</a> as my avatar on Twitter. By wearing this button on my virtual self, I'm hoping to reserve my place in the traditional, diverse and generous America.",
+            "created": "Wed, 19 Jul 2017 17:46:34 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/07/19/mlkButton.png"
+        },
+        {
+            "text": "What will happen on health care now? I have a prediction. Repub senators are pissed off and split, they like the Senate, think McConnell is a heartless hack, and enough of them will work with Dems to form a majority on just this one issue. Then McDonald's Trump will declare victory. \"I always said the Dems could work with us.\" Everyone's happy. DJ Don gets to drive a fire truck for Christmas. ",
+            "created": "Wed, 19 Jul 2017 14:01:44 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "New version of the <a href=\"https://github.com/scripting/macwrite\">MacWrite demo app</a> for nodeStorage. I factored the top level into a JavaScript object called <a href=\"https://github.com/scripting/macwrite/blob/master/api.js\">nodeStorageApp</a>. Makes it a little simpler to make a browser-based storage-capable app.",
+            "created": "Wed, 19 Jul 2017 18:31:00 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Interesting <a href=\"http://podcatch.com/pages/17291.html\">Daily podcast</a> yesterday. French president <a href=\"https://en.wikipedia.org/wiki/Emmanuel_Macron\">Macron</a> has figured out how to be friends with our president. I think maybe some people in the US will figure that out too. What would happen if we gave the president what he wants. Parades, trucks and lots of money. Just give it to him. And then get on with it. He really seems easy to please. It would blow his mind. It's something the <a href=\"https://en.wikipedia.org/wiki/Mission:_Impossible_(film_series)\">Mission Impossible</a> people would do. Or the <a href=\"https://en.wikipedia.org/wiki/The_Blues_Brothers\">Blues Brothers</a>. :boom:",
+            "created": "Wed, 19 Jul 2017 14:29:13 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Trump does deal-making like they do it on TV. He <i>plays someone</i> who makes deals.",
+            "created": "Wed, 19 Jul 2017 14:54:50 GMT",
+            "type": "tweet",
+            "tweetId": "887687339576786946",
+            "tweetUserName": "davewiner",
+            "image": "http://scripting.com/images/2017/07/19/tinyRonald.png"
+        },
+        {
+            "text": "I wonder how much carbon is dumped into the atmosphere because we don't have basic train service between cities in the US. For example, I was looking at taking an Amtrak from NYC <a href=\"https://www.wanderu.com/en/train-tickets/us-ny/new-york/us-tn/nashville/\">to</a> Nashville, thought that would be an interesting trip, well there is no Amtrak service to Nashville. You can take a train to Chicago and get on a bus. ",
+            "created": "Wed, 19 Jul 2017 16:45:05 GMT",
+            "type": "tweet",
+            "tweetId": "887715162228240384",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "I just had to switch servers, one that has a lot of parked domains. That meant going to three different registrars (I know I have to consolidate) and entering the new IP address in place of the old one. Why haven't we created another level to DNS that lets this just be a matter of changing a constant in one place. ",
+            "created": "Wed, 19 Jul 2017 14:22:49 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I'm interested in <a href=\"https://www.hubblecontacts.com/\">Hubble</a> contact lenses, but I just need one lens, for the right eye, and their website doesn't seem to allow for this. ",
+            "created": "Wed, 19 Jul 2017 14:17:26 GMT",
+            "type": "outline"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "text": "June 11",
+    "created": "Sun, 11 Jun 2017 13:04:10 GMT",
+    "name": "11",
+    "subs": [
+        {
+            "text": "Good morning sports fans!",
+            "created": "Sun, 11 Jun 2017 13:04:11 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/2016/10/19/fatcat.png"
+        },
+        {
+            "text": "A small change to the app that spews links from my various feeds to the <a href=\"http://scripting.com/2017/05/16/experimentingWithAPersonalTwitter.html\">Slack group</a>. Now it won't <a href=\"https://api.slack.com/docs/message-link-unfurling\">unfurl</a> links coming from <a href=\"http://scripting.com/\">Scripting News</a>. It was getting <a href=\"http://scripting.com/images/2017/06/11/slackTimelineExcerpt.png\">monotonous</a>. Posts from this blog are small things. Now the Slack representation is small too.",
+            "created": "Sun, 11 Jun 2017 23:29:51 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I didn't realize the <a href=\"https://www.technologyreview.com/s/510491/every-step-you-take-tracked-automatically/\">Moves</a> app was <a href=\"http://www.moves-app.com/press\">bought</a> by Facebook. It gets a lot of data about the people who use it. I might have thought twice, might not even have installed it, if I had known it was a front for Facebook. Funny thing, when you go to the App Store, it <a href=\"http://scripting.com/images/2017/06/11/movesInAppStore.png\">doesn't tell you</a> there either. How is a user supposed to know that this innocuous app is actually a tentacle of the Internet's octopus. ",
+            "created": "Sun, 11 Jun 2017 20:37:30 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "A quiet near-summer day in NYC. Going out to look at the <a href=\"https://en.wikipedia.org/wiki/Puerto_Rican_Day_Parade\">Puerto Rican Day Parade</a> in a few minutes. ",
+            "created": "Sun, 11 Jun 2017 17:11:05 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I believe it's time to make my own version of the Twitter and Facebook timelines. A merger of the two, that can accomodate all my feeds, without strategy taxes. The realtime technology is now ready, it seems. I'm thinking of a personal Twitter, a fractional horsepower Facebook. It's time to stop waiting for them to listen. Listening is not one of their core competences. They haven't figured out how to scale listening. There aren't any hackathons for listening. They have yet to discover a business model for listening. You can't break things fast while listening. Got any other tech cliches to bust? ",
+            "created": "Sun, 11 Jun 2017 17:11:45 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Remember <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+mind+bomb&t=hz&ia=web\">mind bombs</a>?",
+            "created": "Sun, 11 Jun 2017 17:17:54 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"http://scripting.com/davenet/2001/03/13/youCantBeatMurphy.html\">3/13/2001</a>: \"A mind bomb is an idea that's so strange that when it enters your mind, it explodes.\"",
+            "created": "Sun, 11 Jun 2017 17:22:37 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "The power of great advertising",
+            "created": "Sun, 11 Jun 2017 17:32:09 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/suRDUFpsHus\" frameborder=\"0\" allowfullscreen></iframe>",
+                    "created": "Sun, 11 Jun 2017 17:39:01 GMT"
+                },
+                {
+                    "text": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2nwRiuh1Cug\" frameborder=\"0\" allowfullscreen></iframe>",
+                    "created": "Sun, 11 Jun 2017 17:36:38 GMT"
+                },
+                {
+                    "text": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/8rwsuXHA7RA\" frameborder=\"0\" allowfullscreen></iframe>",
+                    "created": "Sun, 11 Jun 2017 17:32:15 GMT"
+                }
+            ]
+        }
+    ]
+}

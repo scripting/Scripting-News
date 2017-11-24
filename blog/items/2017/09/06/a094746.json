@@ -1,0 +1,5 @@
+{
+    "text": "For JavaScript nerds, the problem was this. Whenever a new item came in or was updated, I ran a bit of magic jQuery code that caused all links to open in an external window, outside the Electron context. If you let the app run for a while, one click would open five tabs (same link five times). Eventually one click would open 1000 tabs. The problem was fixed by adding a single line of code, to unregister the click handler before re-registering it, assuring that there's only one handler for each link. Here's the <a href=\"https://gist.github.com/scripting/b7234a0840112217c0945cd92acf8acd\">new code</a>. ",
+    "created": "Wed, 06 Sep 2017 13:47:46 GMT",
+    "type": "outline"
+}

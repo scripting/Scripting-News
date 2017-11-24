@@ -1,0 +1,33 @@
+{
+    "text": "Current tech problem",
+    "created": "Thu, 27 Jul 2017 12:44:28 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I'm writing an app to manage my <a href=\"https://github.com/foreverjs/forever\">Forever</a> servers. ",
+            "created": "Thu, 27 Jul 2017 12:44:34 GMT",
+            "permalink": "http://scripting.com/2017/07/27.html#a084434"
+        },
+        {
+            "text": "I have a lot of it working, but I'm stuck at how to get a list of apps that are running, and the basic info about the apps like how long they've been running, where the log file is, what the process ID is. Basically all the info that forever is keeping for us. ",
+            "created": "Thu, 27 Jul 2017 12:47:11 GMT",
+            "permalink": "http://scripting.com/2017/07/27.html#a084711"
+        },
+        {
+            "text": "The Forever app does <a href=\"http:///scripting.com/images/2017/07/27/foreverListExample.png\">this</a> in response to the <i>forever list</i> command. ",
+            "created": "Thu, 27 Jul 2017 12:48:01 GMT",
+            "permalink": "http://scripting.com/2017/07/27.html#a084801"
+        },
+        {
+            "text": "That's the info I want, but from within the app as a JS object. ",
+            "created": "Thu, 27 Jul 2017 12:48:12 GMT",
+            "permalink": "http://scripting.com/2017/07/27.html#a084812"
+        },
+        {
+            "text": "I posted an <a href=\"https://github.com/foreverjs/forever-monitor/issues/149\">issue</a> on the repo for forever-monitor.",
+            "created": "Thu, 27 Jul 2017 12:48:32 GMT",
+            "permalink": "http://scripting.com/2017/07/27.html#a084832"
+        }
+    ],
+    "permalink": "http://scripting.com/2017/07/27.html#a084428"
+}

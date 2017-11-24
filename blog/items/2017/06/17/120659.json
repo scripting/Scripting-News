@@ -1,0 +1,49 @@
+{
+    "text": "Found a nasty bug in Old School",
+    "created": "Sat, 17 Jun 2017 16:54:59 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "It was reported by a few people. Ted Howard filed an <a href=\"https://github.com/scripting/Scripting-News/issues/11\">issue</a>. (Thanks!)",
+            "created": "Sat, 17 Jun 2017 16:55:08 GMT",
+            "image": "http://static.scripting.com/larryKing/images/2014/05/25/goodHumor.gif",
+            "permalink": "http://scripting.com/2017/06/17.html#a120608"
+        },
+        {
+            "text": "Here's the deal. Old School has a websocket connection with the content server. When I update the blog outline, it sends a message to Old School saying I updated and also includes the JSON text of the outline. It's big. JSON-in-JSON can cause problems, I've found. ",
+            "created": "Sat, 17 Jun 2017 16:55:37 GMT",
+            "permalink": "http://scripting.com/2017/06/17.html#a120637"
+        },
+        {
+            "text": "When the message comes in, the text is attached temporarily to the object that represents the blog in Old School, until it's processed by the handler that then proceeds to do nothing with it (the feature is turned off, I don't want updates determined by text changes). It then deletes the text that was attached to the blog object.",
+            "created": "Sat, 17 Jun 2017 16:56:57 GMT",
+            "permalink": "http://scripting.com/2017/06/17.html#a120657"
+        },
+        {
+            "text": "At the same time, a message must have come in from me, saying \"Build the blog now\" -- and once in a while, very rarely, when it does this the text is attached, and it gets added to the jstruct that's included in the rendered page. Why? Well it could come in handy some day. As with the other feature it isn't hooked up to anything at this time.",
+            "created": "Sat, 17 Jun 2017 16:58:02 GMT",
+            "permalink": "http://scripting.com/2017/06/17.html#a120602"
+        },
+        {
+            "text": "All I had to do was to delete it, if it's present, in the copy I was making to include in the web page, and we should never see that bit of nastyness again.",
+            "created": "Sat, 17 Jun 2017 16:59:05 GMT",
+            "permalink": "http://scripting.com/2017/06/17.html#a120605"
+        },
+        {
+            "text": "Thanks everyone who reported the problem. And sorry for the ugly bits. As they say..",
+            "created": "Sat, 17 Jun 2017 17:03:07 GMT",
+            "permalink": "http://scripting.com/2017/06/17.html#a010607"
+        },
+        {
+            "text": "\"curly\"",
+            "created": "Sat, 17 Jun 2017 16:59:51 GMT",
+            "permalink": "http://scripting.com/2017/06/17.html#a120651"
+        },
+        {
+            "text": "<i>Still diggin! </i>:-)",
+            "created": "Sat, 17 Jun 2017 16:59:54 GMT",
+            "permalink": "http://scripting.com/2017/06/17.html#a120654"
+        }
+    ],
+    "permalink": "http://scripting.com/2017/06/17.html#a120659"
+}

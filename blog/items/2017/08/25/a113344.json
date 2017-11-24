@@ -1,0 +1,5 @@
+{
+    "text": "Fixed another \"instant dave\" bug where it would use the wrong value to update the <i>when</i> field of the message display. This would be most obvious on posts that were published out of sequence (which is only likely when another bug was hiding the old post). The date would transform from something like <i>Yesterday at 11:23 AM</i> to <i>32 mins. </i>A misunderstanding in the software. Like most bugs! In any case after today this bug would have remained hidden, possibly forever. Something like a solar eclipse. Glad to have found it. ",
+    "created": "Fri, 25 Aug 2017 15:33:44 GMT",
+    "type": "outline"
+}

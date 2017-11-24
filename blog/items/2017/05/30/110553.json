@@ -1,0 +1,26 @@
+{
+    "text": "Morning cleanup notes",
+    "created": "Tue, 30 May 2017 15:08:53 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Good morning sports fans! ;-) ",
+            "created": "Tue, 30 May 2017 13:17:24 GMT",
+            "type": "outline",
+            "permalink": "http://scripting.com/2017/05/30.html#a090524"
+        },
+        {
+            "text": "More cleanup work this morning. JY <a href=\"https://github.com/scripting/Scripting-News/issues/6\">reported</a> that we're not pinging when the feed updates. That's true. Need to do that. Right now I'm looking into a bug in feed generation. A real mystery. ",
+            "created": "Tue, 30 May 2017 13:38:00 GMT",
+            "type": "outline",
+            "permalink": "http://scripting.com/2017/05/30.html#a090500"
+        },
+        {
+            "text": "Theoretically I am now pinging when the RSS feed updates. But I'm not seeing anything in the rsscloud.io log. Let's see if anything shows up after I've posted this item. Np. Oy. Later update: My pings are now showing up in the <a href=\"http://rpc.rsscloud.io:5337/viewLog\">log</a>. Whew. ",
+            "created": "Tue, 30 May 2017 14:37:12 GMT",
+            "type": "outline",
+            "permalink": "http://scripting.com/2017/05/30.html#a100512"
+        }
+    ],
+    "permalink": "http://scripting.com/2017/05/30.html#a110553"
+}

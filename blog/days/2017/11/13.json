@@ -1,0 +1,93 @@
+{
+    "text": "November 13",
+    "created": "Mon, 13 Nov 2017 14:54:14 GMT",
+    "name": "13",
+    "subs": [
+        {
+            "text": "Good morning CMS fans!",
+            "created": "Mon, 13 Nov 2017 14:54:15 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "If we are to <a href=\"https://twitter.com/dabeard/status/930279417968037889\">believe</a> Republican <a href=\"https://www.politico.com/story/2017/11/13/mcconnell-i-believe-the-women-accusing-roy-moore-244840\">senators</a> have principles that won't allow them to accept Roy Moore, how can they accept Donald Trump?",
+            "created": "Tue, 14 Nov 2017 03:17:38 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Why are baby <a href=\"https://twitter.com/BabyAnimalPics/status/930279466424832001\">animals</a> so darned funny?",
+            "created": "Tue, 14 Nov 2017 03:51:33 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/BabyAnimalPics/status/930279466424832001"
+        },
+        {
+            "text": "How I rate bingeable programs",
+            "created": "Mon, 13 Nov 2017 20:18:09 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I've been thinking about my categories. When I say 4 out of 5, this is what I'm talking about. ",
+                    "created": "Mon, 13 Nov 2017 20:18:17 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Worst! -- Never should have been made. A complete disaster. I need to hate on this.",
+                            "created": "Mon, 13 Nov 2017 20:18:57 GMT"
+                        },
+                        {
+                            "text": "Meh -- I have some respect for it, but please, don't do another season. Homeland is in this category. Lost is halfway betw Meh and Good. ",
+                            "created": "Mon, 13 Nov 2017 20:19:03 GMT"
+                        },
+                        {
+                            "text": "Good -- I watched it, maybe not all seasons, maybe not all the way through. It was entertaining. I respect the program, but I'm not sure I would recommend it. Dexter is a prototype. I got really tired of it. Also Big Love. Entourage.",
+                            "created": "Mon, 13 Nov 2017 20:19:08 GMT"
+                        },
+                        {
+                            "text": "Loved -- The programs I would recommend wholeheartedly. There are a lot of programs in this category.",
+                            "created": "Mon, 13 Nov 2017 20:18:59 GMT"
+                        },
+                        {
+                            "text": "Best! -- There are only a few Bests. For me The Sopranos, The Wire. The West Wing. Silicon Valley.",
+                            "created": "Mon, 13 Nov 2017 20:18:54 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "My rating is the average of all seasons. For example, the first couple of seasons of Homeland were pretty good. Then it got lost, about the time F. Murray Abraham came on board. So net-net it's a Good. ;-)",
+                    "created": "Mon, 13 Nov 2017 20:23:44 GMT"
+                }
+            ]
+        },
+        {
+            "text": "RSS feed problem diagnosed, fixed",
+            "created": "Mon, 13 Nov 2017 14:54:25 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I believe I found and fixed the <a href=\"https://github.com/scripting/Scripting-News/issues/42\">problem</a> that was causing posts from \"Scripting News\" to repeat in \"RSS\" readers, and why they didn't show up as doubles in \"River5\".",
+                    "created": "Mon, 13 Nov 2017 14:55:19 GMT",
+                    "image": "http:///scripting.com/images/2017/11/13/rssCoffeeMug.png"
+                },
+                {
+                    "text": "The problem occurred when I traveled outside my time zone, and post something using my laptop. And it happens again, in some readers, when I return home. ",
+                    "created": "Mon, 13 Nov 2017 14:55:39 GMT"
+                },
+                {
+                    "text": "To understand why, you need to understand something about how RSS works. Each item has an <a href=\"http://cyber.harvard.edu/rss/rss.html#ltguidgtSubelementOfLtitemgt\">identifier</a> called a <i>guid</i> that uniquely identifies it. My CMS software generates each item's guid using the time it was created. For example, if a post was created at 10:38:12AM, the guid would be <i>a103812.</i> But when I move to a different time zone, say to Mountain Time from Eastern Time, the guid would change to <i>a083812.</i> A different guid, therefore the RSS reader thinks it's a new post. So you see it again in Feedly. Depending on how the reader works it might see it as a new item once again when I move back to Eastern Time. ",
+                    "created": "Mon, 13 Nov 2017 14:56:14 GMT"
+                },
+                {
+                    "text": "Why didn't \"River5\" have the problem? It has another check. If two posts have exactly the same text, it figures you don't need to see it again. This protection was put in to guard against the possibility that you might subscribe to two feeds from one pub, and they might run the same item in two feeds. I reasoned you don't need or want to see it a second time. There are some pubs, like the NYT, where I subscribe to a dozen or more feeds. They might run a sports/business item in both the sports and business feeds. Because they are in different feeds, the guids don't match, so you'd see it again. So I used a <a href=\"https://en.wikipedia.org/wiki/Heuristic\">heuristic</a> technique, that happened to also suppress this bug. ",
+                    "created": "Mon, 13 Nov 2017 14:56:59 GMT"
+                },
+                {
+                    "text": "The fix was simple, generate the guid using <a href=\"https://en.wikipedia.org/wiki/Coordinated_Universal_Time\">UTC</a>, which doesn't change based on where the feed is generated. So at this point, if you see two items from this <a href=\"http://scripting.com/rss.xml\">feed</a> in your reader, it's some other problem. ",
+                    "created": "Mon, 13 Nov 2017 15:04:38 GMT"
+                },
+                {
+                    "text": "As they <a href=\"http://artsites.ucsc.edu/GDead/agdl/touc.html\">say</a> \"it's even worse than it appears.\"",
+                    "created": "Mon, 13 Nov 2017 15:19:18 GMT"
+                }
+            ]
+        }
+    ]
+}

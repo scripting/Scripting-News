@@ -1,0 +1,23 @@
+{
+    "text": "Why I don't generally give each variable declaration its own line",
+    "created": "Sun, 28 May 2017 14:15:59 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Some variable declarations are code that needs to be read, and others are just declarations and only significant for where they are declared. ",
+            "created": "Sun, 28 May 2017 14:16:12 GMT",
+            "permalink": "http://scripting.com/2017/05/28.html#a100512"
+        },
+        {
+            "text": "By putting a name in a long list, I'm telling the reader to just skip over this shit, it's not important. Some code needs to tucked out of the way. ",
+            "created": "Sun, 28 May 2017 14:20:21 GMT",
+            "permalink": "http://scripting.com/2017/05/28.html#a100521"
+        },
+        {
+            "text": "If code stretches out vertically, slow down. You need to understand this. ",
+            "created": "Sun, 28 May 2017 14:17:54 GMT",
+            "permalink": "http://scripting.com/2017/05/28.html#a100554"
+        }
+    ],
+    "permalink": "http://scripting.com/2017/05/28.html#a100559"
+}

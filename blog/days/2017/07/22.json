@@ -1,0 +1,125 @@
+{
+    "text": "July 22",
+    "created": "Sat, 22 Jul 2017 12:48:16 GMT",
+    "name": "22",
+    "subs": [
+        {
+            "text": "One more thing I like, the <a href=\"https://github.com/mikaelbr/node-notifier/blob/master/README.md\">node-notifier package</a>. Not a huge fan of desktop notification, but that's a separate issue. The team that did this package did it well, with good examples, and attention to detail. ",
+            "created": "Sat, 22 Jul 2017 21:51:39 GMT",
+            "type": "outline",
+            "testatt": "this is a test"
+        },
+        {
+            "text": "The new server locked up again. I rebooted it with the same apps running, but now I'm thinking I have to split it in two. I also have in mind some software that will make that easier. Always factoring. Also might give me a chance to try out the new <a href=\"http://liveoutliner.com/\">cname trick</a> we learned. :alarm_clock: ",
+            "created": "Sat, 22 Jul 2017 18:56:53 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Pay attention to <a href=\"https://twitter.com/realDonaldTrump/status/888711488717934592\">this</a>. Something we might not want to let a president do.",
+            "created": "Sat, 22 Jul 2017 18:19:07 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://twitter.com/joshtpm/status/888754112434765824\">Josh Marshall</a>: \"President is accused of winning election by conspiring with a foreign power, now openly signaling no investigation will be allowed. A crisis.\" Also meets privately with the leader of the foreign power and makes unilateral concessions.",
+            "created": "Sat, 22 Jul 2017 13:42:26 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "How to get important tech ideas reviewed?",
+            "created": "Sat, 22 Jul 2017 14:25:06 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Personal emails still work the best. Of course this makes sense. When I have a project of some importance, sending an email directly to someone who I want to review it elicits the most responses. But it's inefficient. And the more you do it, the less power each email has. ",
+                    "created": "Sat, 22 Jul 2017 14:25:23 GMT",
+                    "image": "http://scripting.com/images/2017/07/22/sansaStark.png",
+                    "testatt": "this is a test"
+                },
+                {
+                    "text": "Suppose I had an Node package in development that I think represents a basic technology for news distribution. Do I have to send emails to the people I think of to get access to their minds? And what about the creative thinkers who I either don't know, or didn't think to send an email to?",
+                    "created": "Sat, 22 Jul 2017 14:25:57 GMT"
+                },
+                {
+                    "text": "Our idea distribution system is non-existent. <a href=\"https://news.ycombinator.com/\">Hacker News</a> is like a nuclear shotgun, there's so much there how do you find the stuff that's relevant. Wait for a reporter to write about it? Well that never happens. ",
+                    "created": "Sat, 22 Jul 2017 14:26:58 GMT"
+                },
+                {
+                    "text": "I guess this is the technical side of the Mike Arrington-style product blog I <a href=\"http://scripting.com/2017/07/10.html#a064914\">asked</a> for. ",
+                    "created": "Sat, 22 Jul 2017 14:29:45 GMT",
+                    "xref": "http://scripting.com/2017/07/10.html#a064914"
+                },
+                {
+                    "text": "I'd like to have a channel that's for serious releases only. If something is a maintenence release, or just the beginning of an idea, it wouldn't be thought of as important. However, when a technology has matured and is ready for other minds to consider it, there ought to be a way to get it looked at. ",
+                    "created": "Sat, 22 Jul 2017 14:27:35 GMT"
+                },
+                {
+                    "text": "I guess this is the equivalent of peer review in academia, but it's <i>concept and code review</i> that I want. ",
+                    "created": "Sat, 22 Jul 2017 14:31:14 GMT"
+                }
+            ]
+        },
+        {
+            "text": "I like the Atom editor",
+            "created": "Sat, 22 Jul 2017 13:04:26 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "A few months ago I started using the <a href=\"https://atom.io/\">Atom editor</a>, and it has proven so useful it's now in the dock on my Mac.",
+                    "created": "Sat, 22 Jul 2017 13:04:30 GMT",
+                    "image": "http://scripting.com/images/2017/07/22/atomLogo.png"
+                },
+                {
+                    "text": "It's an <a href=\"https://electron.atom.io/\">Electron app</a>, which means that under the hood it's a web/node app packaged to run on the Mac desktop. (To say it's an Electron app is a bit of an understatement, it was the app that Electron was developed to run. The two begat each other, a very important software design principle. They factored well.)",
+                    "created": "Sat, 22 Jul 2017 13:16:37 GMT"
+                },
+                {
+                    "text": "It's a programmer's editor. I use it for lightweight stuff, as a viewer for technical documents. ",
+                    "created": "Sat, 22 Jul 2017 13:05:07 GMT"
+                },
+                {
+                    "text": "I edit my JavaScript source in an outliner. Sometimes it's nice to be able to view it flattened, so I use it for that (I also use GitHub for the same purpose, funny how they come from the same company). Or when an error message refers to a specific line number, they have line numbers, my outliner doesn't, so I drag the JS file onto the Atom icon. ",
+                    "created": "Sat, 22 Jul 2017 13:05:20 GMT"
+                },
+                {
+                    "text": "I use it to view a JSON file when I'm working on code that works with that kind of file. A very handy way to keep it around as a reference. And I look at RSS feeds and OPML files in all their XML glory using Atom. I even use it for light touchups to config.json files for some of my apps. ",
+                    "created": "Sat, 22 Jul 2017 13:05:38 GMT"
+                },
+                {
+                    "text": "It's playing the role that BBEdit plays for some Mac users or X-Code, or probably an IDE on Windows. But I like Atom, so that's what I use. ",
+                    "created": "Sat, 22 Jul 2017 13:06:03 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Actually Mark Twain didn't say that",
+            "created": "Sat, 22 Jul 2017 12:48:17 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Anthony Scarramucci, a newbie in the Trump White House, who has yet to be broken by the Cheeto-in-Chief, posted a <a href=\"https://twitter.com/Scaramucci/status/213702657687293952\">philosophical tweet</a> on June 15. ",
+                    "created": "Sat, 22 Jul 2017 12:48:24 GMT",
+                    "subs": [
+                        {
+                            "text": "<i>Dance like no one is watching. Sing like no one is listening. Love like you've never been hurt and live like its heaven on earth.  Mark Twain</i>",
+                            "created": "Sat, 22 Jul 2017 12:49:14 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "As we all know that was <a href=\"http://quoteinvestigator.com/2014/02/02/dance/\">not said</a> by Mark Twain, which led to an epic tweet-meme of famous things that were not said by historic figures. I contributed <a href=\"https://twitter.com/davewiner/status/888630020490616832\">my own</a> to the meme-parade.",
+                    "created": "Sat, 22 Jul 2017 12:49:56 GMT",
+                    "subs": [
+                        {
+                            "text": "<i>We all live in a yellow submarine, yellow submarine, yellow submarine. Abraham Lincoln at Gettysburg</i>",
+                            "created": "Sat, 22 Jul 2017 12:50:36 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "Oh the things we do for amusement these days. :heart:",
+                    "created": "Sat, 22 Jul 2017 12:51:06 GMT"
+                }
+            ]
+        }
+    ]
+}

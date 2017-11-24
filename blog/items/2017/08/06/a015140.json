@@ -1,0 +1,28 @@
+{
+    "text": "A lot of the hype about Node.js is bullshit",
+    "created": "Sun, 06 Aug 2017 17:51:40 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I think <a href=\"https://www.w3schools.com/\">w3schools</a> does a good job. I use their stuff as a reference all the time for net programming. I was looking at their new <a href=\"https://www.w3schools.com/nodejs/\">tutorial</a> for Node.js and on the first page they repeat the hype about Node that I've always suspected was BS, and now that I have a few years in, I know it is. ",
+            "created": "Sun, 06 Aug 2017 17:51:49 GMT",
+            "image": "http:///scripting.com/images/2017/08/06/hippieBus.png"
+        },
+        {
+            "text": "Node is a fine environment, I use it as my main server runtime, and lately I've been <a href=\"http://this.how/electricRiver/\">building</a> a lot with <a href=\"https://electron.atom.io/\">Electron</a>, and there you're using Node on the desktop. I have a love-hate relationship with Node, I'm a prisoner to some bad design imho but it's great to have one syntax instead of two for client and server apps. ",
+            "created": "Sun, 06 Aug 2017 17:52:52 GMT"
+        },
+        {
+            "text": "But other environments like Java and Python are probably just as efficient as Node <i>without all the crazy callbacks. </i>Their runtimes can suspend a process until its I/O completes. All the other languages/environments do that. It is not something that only Node does. ",
+            "created": "Sun, 06 Aug 2017 17:54:24 GMT"
+        },
+        {
+            "text": "And Node is not single-threaded! You have many threads. A single-threaded server runtime is impossible. That's one of the reasons I strongly suspected all the hype when I was new to Node.",
+            "created": "Sun, 06 Aug 2017 17:55:13 GMT"
+        },
+        {
+            "text": "The difference between Node and other environments is that the others hide the suspending and resuming of your app behind an abstraction layer, <i>and that's good, </i>that makes your code <i>much</i> simpler. In every way imho the way JavaScript does I/O is a major step backwards. But like I said I love/hate JS. I've <a href=\"https://en.wikipedia.org/wiki/Stockholm_syndrome\">made my peace</a> with the <a href=\"http://callbackhell.com/\">way</a> I/O works in Node. :peach:",
+            "created": "Sun, 06 Aug 2017 17:55:54 GMT"
+        }
+    ]
+}

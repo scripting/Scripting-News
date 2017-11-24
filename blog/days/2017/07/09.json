@@ -1,0 +1,88 @@
+{
+    "text": "July 9",
+    "created": "Sun, 09 Jul 2017 15:56:42 GMT",
+    "name": "09",
+    "subs": [
+        {
+            "text": "<a href=\"http://podcatch.com/pages/16797.html\">Frank Rich says</a> the moment of truth will come for Trump as 2018 midterms approach as it did for Nixon in <a href=\"https://en.wikipedia.org/wiki/United_States_elections,_1974\">1974</a>.",
+            "created": "Sun, 09 Jul 2017 22:31:55 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/07/05/loveRSS.png"
+        },
+        {
+            "text": "Kind of obvious Trump Jr and Kushner were briefed on the hacked DNC emails <a href=\"http://nymag.com/daily/intelligencer/2017/07/donald-trump-jr-s-russia-denials-are-actually-confessions.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+JonathanChaitRssFeed+(Jonathan+Chait+RSS+Feed)\">at</a> <a href=\"https://www.nytimes.com/2017/07/09/us/politics/trump-russia-kushner-manafort.html?action=Click&contentCollection=BreakingNews&contentID=65549760&pgtype=Homepage&_r=1\">the</a> <a href=\"http://talkingpointsmemo.com/edblog/taking-stock-of-the-times-blockbuster?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+Talking-Points-Memo+(Talking+Points+Memo:+by+Joshua+Micah+Marshall)\">meeting</a>.",
+            "created": "Sun, 09 Jul 2017 23:33:25 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Seems like a day for looking back through tech history. <a href=\"https://twitter.com/BrendanEich/status/884099206847143938\">Brendan Eich</a> dug up a 1998 <a href=\"http://scripting.com/98/01/stories/emailWithBillJoyAtSun.html\">email exchange</a> betw <a href=\"https://en.wikipedia.org/wiki/Bill_Joy\">Bill Joy</a> and myself re Java being a locked box. In 2017 people still program in Java, but it did not take over the world.",
+            "created": "Sun, 09 Jul 2017 21:42:39 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "In 2002, when I was working on RSS 2.0, I started keeping a <a href=\"http://essaysfromexodus.scripting.com/stories/storyReader$1744\">blog-like diary</a> of thoughts. I stumbled across this doc when I was looking for an explanation of guids for the <a href=\"http://scripting.com/2017/07/09.html#a020936\">piece</a> about the blog bugfix. The first part was so good, I wondered why I had no memory of it. Then I got to the second part. The attacks were ugly, personal and awful and that's what I had put out of my mind, and I never wanted to point to this piece for fear of inviting more abuse. But the <a href=\"http://essaysfromexodus.scripting.com/stories/storyReader$1744#discontinuities\">first</a> and <a href=\"http://essaysfromexodus.scripting.com/stories/storyReader$1744#rss20AndWeblogSoftware\">last</a> parts were good, and \"RSS 2.0\" went on to be a juggernaut. And that's most of what I wanted. ",
+            "created": "Sun, 09 Jul 2017 20:10:22 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/07/09/nixon.png"
+        },
+        {
+            "text": "Blog bugfix",
+            "created": "Sun, 09 Jul 2017 18:09:36 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "In my blogging software, <a href=\"https://en.wikipedia.org/wiki/Permalink\">permalinks</a> are constructed by smashing together the hour, minute and second a post was created into a string. So if a post was created at 11:52:02, its permalink would be 115202.",
+                    "created": "Sun, 09 Jul 2017 18:09:42 GMT",
+                    "image": "http://scripting.com/images/2017/07/09/mrTrumpInTheRightMargin.png"
+                },
+                {
+                    "text": "But my code was erroneously constructing the permalink by smashing together the hour, <i>month</i> (the error) and second. The month is the same for all posts published on the same day. And that meant that if one item were posted at 11:02:53 and another at 11:17:53 they would have the same permalink, 110753 (07 is the month). Not a huge problem except we use the permalink to form the <a href=\"http://cyber.harvard.edu/rss/rss.html#ltguidgtSubelementOfLtitemgt\">guid</a>, and that's what feed readers use to determine if an item is new or not. So the second item would be ignored, erroneously because it has the same guid as the first. ",
+                    "created": "Sun, 09 Jul 2017 18:11:11 GMT"
+                },
+                {
+                    "text": "The error probably happened a few times in the approximately two months I've been using the new <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+%22old+school%22&t=h_&ia=web\">old school</a> system. It certainly happened yesterday (which is how I got on the trail of the bug). It was very deeply buried, but the rational code debugging method eventually revealed the problem and the fix for such problems is well-known. ",
+                    "created": "Sun, 09 Jul 2017 18:13:26 GMT"
+                },
+                {
+                    "text": "How could one make such a mistake you might ask? A month and a minute, what do they have in common that could confuse a computer? Well, in the language of <a href=\"https://www.npmjs.com/package/dateformat\">dateformat</a>, a package used to format dates, a month is noted as \"mm\" and the minute as \"MM\". So the errant programmer literally <i>asked</i> for the month by specifying the permalink as \"ddmmss\" when it should have been \"ddMMss\". This, my friends, is where the bug was buried. ;-)",
+                    "created": "Sun, 09 Jul 2017 18:23:52 GMT"
+                },
+                {
+                    "text": "But! You can't just fix it. Because that would change the guids of all previous posts, potentially, and cause posts that have already been seen, many of them perhaps, to be seen as new by feed readers. People don't like it when your feed does that. So I left the bug as-is for posts before today, and all new posts have correctly formed permalinks. This is the first post with a correct permalink. Let's <a href=\"http://scripting.com/2017/07/09.html#a020936\">see</a> if it worked! :-)",
+                    "created": "Sun, 09 Jul 2017 18:14:28 GMT"
+                },
+                {
+                    "text": "PS: Yes it did. And the old links worked too. Whew.",
+                    "created": "Sun, 09 Jul 2017 20:19:46 GMT"
+                }
+            ]
+        },
+        {
+            "text": "When to ask for something from tech",
+            "created": "Sun, 09 Jul 2017 15:56:43 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "The tech industry <a href=\"https://www.battleforthenet.com/july12/\">feels</a> threatened by the FCC <a href=\"https://www.fcc.gov/restoring-internet-freedom\">nuking</a> \"net neutraility.\" Of course the net should be neutral. But the tech industry's idea of net neutrality is \"we own the net.\"",
+                    "created": "Sun, 09 Jul 2017 15:57:00 GMT"
+                },
+                {
+                    "text": "The tech industry is no better or worse than any other industry. They will take whatever isn't nailed down. When they claim to rep the public, know that that's just public relations. They only rep their own interest. ",
+                    "created": "Sun, 09 Jul 2017 15:57:51 GMT"
+                },
+                {
+                    "text": "So if you want to be able to link out of Facebook and not be trapped in their silo, tell them that. And if you want Google's search engine to be free of Google's strategy taxes, say so.",
+                    "created": "Sun, 09 Jul 2017 15:58:11 GMT"
+                },
+                {
+                    "text": "Without their full committment to public ownership of the Internet, I'd tell them to forget about public support. ",
+                    "created": "Sun, 09 Jul 2017 16:03:16 GMT"
+                },
+                {
+                    "text": "To answer the question -- you ask for something from tech when they want something from us.",
+                    "created": "Sun, 09 Jul 2017 15:59:38 GMT"
+                }
+            ]
+        }
+    ]
+}

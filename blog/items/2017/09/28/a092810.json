@@ -1,0 +1,4 @@
+{
+    "text": "Here's an <a href=\"https://gist.github.com/scripting/f122c9356733ac7373e60ae865fef702\">example</a> of the kind of code I routinely write as part of my development process. This script runs whenever I save one of my Node projects, and copies the public files to the place where my GitHub repo lives. It's not written in JavaScript, but I'd like to create a system where it could be. (Note: That is not JavaScript, of course.)",
+    "created": "Thu, 28 Sep 2017 13:28:10 GMT"
+}

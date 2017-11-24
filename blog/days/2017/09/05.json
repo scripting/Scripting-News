@@ -1,0 +1,44 @@
+{
+    "text": "September 5",
+    "created": "Tue, 05 Sep 2017 12:45:40 GMT",
+    "name": "05",
+    "subs": [
+        {
+            "text": "I'm getting close with the <i>Public Folder</i> project. Here's the concept. If you can get it running on your desktop, you can have any number of simple-to-write publishing systems running there too. It takes care of exactly what's needed for a person to publish without any opinion about the software you use to do the writing or rendering. ",
+            "created": "Tue, 05 Sep 2017 16:32:04 GMT",
+            "type": "outline",
+            "image": "http:///scripting.com/images/2017/09/05/flowers.png"
+        },
+        {
+            "text": "Dropbox was quite close to the idea of <i>Public Folder, </i>but once it became popular they pulled back from it. As I understand it, if you created your account after 2012, you didn't have a public folder. I did, because I was an early adopter. It was good, but had missing features, which I lamented here on this blog many-a-time. If only they had seen Dropbox as a publishing platform, but they didn't. They finally turned the feature off on Sept 1, four days ago.",
+            "created": "Tue, 05 Sep 2017 16:48:17 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Another precursor of <i>Public Folder</i> was upstreaming in Radio UserLand, released in 2002. PF should be a lot more efficient and powerful, but that said, upstreaming was pretty good, and Radio -- through upstreaming -- was one of the pillars of the early blogosphere, and an interesting web product as well. Radio had a CMS built in. This time around I have created that as a separate module. I'm pretty sure any static site generator that runs where Node runs will be compatible with Public Folder. ",
+            "created": "Tue, 05 Sep 2017 16:49:41 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "One more thing. There's a <a href=\"http://publicfolder.io/\">placeholder site</a> for the project, and there will also be a public GitHub repo, and more. ;-)",
+            "created": "Tue, 05 Sep 2017 17:13:00 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I put flowers on my blog today to honor the life of Ted Rheingold, who died yesterday. Cancer. He wrote about it <a href=\"https://medium.com/season-of-the-witch\">on the web</a>, of course. A natural-born blogger. Apparently Ted asked for a new <a href=\"https://twitter.com/jw/status/904941100644818945\">laptop sticker</a>, and it's a good one. Looks like a <a href=\"https://en.wikipedia.org/wiki/Clematis\">clematis</a> flower with a simple message -- <i>Enjoy Every Day. </i>",
+            "created": "Tue, 05 Sep 2017 14:48:49 GMT",
+            "type": "outline",
+            "image": "http:///scripting.com/images/2017/09/05/enjoyEveryDay.png"
+        },
+        {
+            "text": "What we used to call tweetstorms are now call threads, and they're <a href=\"http://www.politico.com/magazine/story/2017/09/05/twitter-thread-social-media-trend-215539\">huge</a>. There is no better way to post a thread than \"Electric Pork\", a Mac app that chops a blog-post-length tweet into a beautiful thread, written by yours truly, the author of this humble blog.  :boom: ",
+            "created": "Tue, 05 Sep 2017 12:45:41 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Another huge hurricane is <a href=\"http://www.tampabay.com/news/weather/hurricanes/hurricane-irma-still-targeting-florida-with-category-4-intensity/2336263\">bearing down</a> on the US, and the best our president can think to do is deport decent young Americans.",
+            "created": "Tue, 05 Sep 2017 14:39:01 GMT",
+            "type": "outline"
+        }
+    ]
+}

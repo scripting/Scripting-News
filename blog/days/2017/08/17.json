@@ -1,0 +1,90 @@
+{
+    "text": "August 17",
+    "created": "Thu, 17 Aug 2017 13:49:51 GMT",
+    "name": "17",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/pbump\">Philip Bump</a>, a friend from <i>Ye Earlie Blogging Dayse</i> did a <a href=\"https://twitter.com/trumps_feed\">bot</a> that RTs everything Donald Trump sees in his Twitter timeline. No wonder the guy is so hyper (Trump, not Bump). This led me to a business model that Trump himself would appreciate. Let me buy ads aimed at a specific user. Let's load up Trump's timeline with messages of Trump-Love. We love you Dear Leader. We love you <i>soooo</i> much. And then tell him what we want him to do. :heart:",
+            "created": "Thu, 17 Aug 2017 16:58:50 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Arnold Schwarzenegger knows about Nazis. Watch <a href=\"https://twitter.com/attn/status/898328098529083394\">this</a>.",
+            "created": "Fri, 18 Aug 2017 02:22:46 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/attn/status/898328098529083394"
+        },
+        {
+            "text": "Another concept I'm becoming more formal about is <i>grooming.</i> I tend to move on to the next project without iterating over the loose-ends of the one I'm leaving. I still do it. Have to. Because projects are like pies. They aren't ready for eating until they've had a chance to cool off on the counter a while. While that's happening I like to still be \"there\" and ready to tune things up here and there, to make things work more smoothly. And when the time feels right, go back to the pies I left on the counter a month or two ago. :mushroom:",
+            "created": "Thu, 17 Aug 2017 16:13:58 GMT",
+            "type": "outline",
+            "image": "http:///scripting.com/images/2017/08/17/pie.png"
+        },
+        {
+            "text": "I shifted my approach to development a few months back, with the turn to Old School, and decided to build where the users were going. Scripting News was still getting most of the flow, despite all my efforts to create new more compelling flows. ",
+            "created": "Thu, 17 Aug 2017 15:09:57 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Another shift happened a few years ago, when I decided it was okay to develop just for myself, with no intention of ever releasing the stuff I was working on. That led to a new style of product, and a happier developer. I was always doing it for myself, and fooling myself into believing it was for other people. I'm no less a narcissist than anyone else. Once you own that, you get a lot more powerful, I have found. :rocket:",
+            "created": "Thu, 17 Aug 2017 15:10:55 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "My defense of Electron",
+            "created": "Thu, 17 Aug 2017 21:55:24 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Here's a <a href=\"http:///scripting.com/images/2017/08/17/dock.png\">screen shot</a> of the Dock on my Mac. Lots of Electron apps. How many are running right now? Seven. And that does not include Slack. Now look at the Activity Monitor in the Dock. Very little resource utilization. A bunch of Electron apps sitting there doing nothing doesn't use very much CPU. Here's a <a href=\"http:///scripting.com/images/2017/08/17/activityMonitor.png\">screen shot</a> of the Activity Monitor window. Dropbox is using 34 percent. After that, a lot of Chrome helpers and a few of the Electron apps. The most expensive is about the same as iTunes. Today's machines have lots of memory and very capable CPUs. Electron is not the issue. I'm sure some of the apps written in Electron suck, but that's not the fault of the platform. ",
+                    "created": "Thu, 17 Aug 2017 21:55:30 GMT"
+                }
+            ]
+        },
+        {
+            "text": "New technology in the works",
+            "created": "Thu, 17 Aug 2017 13:49:52 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I don't know why this never occurred to me before, but we can do better than the realtimeness of \"RSS\". One thing that's always been a concern of mine about RSS is the inability to update a post after it's been published. There's no allowance for this in the protocol.",
+                    "created": "Thu, 17 Aug 2017 13:49:57 GMT"
+                },
+                {
+                    "text": "But in the new scheme I'm creating, called for now <i>Instant Dave</i> just to keep it manageable in my head, not only are updates instantaneous but if I update a post, it flows back out to the subscribers at the same instant rate that new items go out, at the same rate that new posts go to Twitter and Facebook.",
+                    "created": "Thu, 17 Aug 2017 13:51:11 GMT"
+                },
+                {
+                    "text": "I'm working on one of the pieces of that puzzle today. ",
+                    "created": "Thu, 17 Aug 2017 13:52:23 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Do we have test posts? Oh yes we do!",
+            "created": "Thu, 17 Aug 2017 21:40:25 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "We're still at it. More rock and roll!  :bomb: :pill: :bomb: :heart:",
+                    "created": "Thu, 17 Aug 2017 21:09:36 GMT",
+                    "type": "outline"
+                },
+                {
+                    "text": "I want the <i>best</i> performance.",
+                    "created": "Fri, 18 Aug 2017 02:12:29 GMT"
+                },
+                {
+                    "text": "A test post for the ages. One that can be added to. Etc etc ad nauseum. Seriously folks. <i>Unbelievable.</i>",
+                    "created": "Thu, 17 Aug 2017 19:44:23 GMT",
+                    "type": "outline"
+                },
+                {
+                    "text": "That feeling after you threw all your cards in the air and spent a day putting the house back together and now it works. ",
+                    "created": "Thu, 17 Aug 2017 17:25:18 GMT",
+                    "type": "outline"
+                }
+            ]
+        }
+    ]
+}

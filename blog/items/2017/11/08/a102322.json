@@ -1,0 +1,30 @@
+{
+    "text": "PagePark v0.7.9",
+    "created": "Wed, 08 Nov 2017 15:23:22 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "There's a new <a href=\"https://github.com/scripting/pagePark/blob/master/README.md#v079-11817-by-dw\">version</a> of PagePark today. ",
+            "created": "Wed, 08 Nov 2017 15:23:43 GMT"
+        },
+        {
+            "text": "You can now tell it to ignore case in paths. This means that these two URLs will get you to the same place:",
+            "created": "Wed, 08 Nov 2017 15:23:51 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "<a href=\"http://threads2.scripting.com/2013/february/theguyatthegasstation/\">http://threads2.scripting.com/2013/february/theguyatthegasstation/</a>",
+                    "created": "Wed, 08 Nov 2017 15:24:23 GMT"
+                },
+                {
+                    "text": "<a href=\"http://threads2.scripting.com/2013/FeBruARy/theGuyAtTheGasStation/\">http://threads2.scripting.com/2013/FeBruARy/theGuyAtTheGasStation/</a>",
+                    "created": "Wed, 08 Nov 2017 15:24:55 GMT"
+                }
+            ]
+        },
+        {
+            "text": "This becomes necessary when porting a site from a server that doesn't care about case. Because URLs that point into that site could be any case. If you want the site to work when served from PagePark, it also must able to not care about case. ",
+            "created": "Wed, 08 Nov 2017 15:25:25 GMT"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "text": "If only CSS was better",
+    "created": "Fri, 04 Aug 2017 15:52:19 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I was reading a bit about the <a href=\"https://duckduckgo.com/?q=why+css+sucks&t=hu&ia=web\">history</a> of CSS, and kept thinking -- what a shame, they did it totally backwards. This is what I would have done. First I would have made a design tool that worked really well. Then I'd have it spit out XML (sorry JSON didn't exist at the time) and teach the browser to render that. All this would happen iteratively. ",
+            "created": "Fri, 04 Aug 2017 15:53:16 GMT"
+        },
+        {
+            "text": "The priorities would be:",
+            "created": "Fri, 04 Aug 2017 15:47:16 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "Leverages the talents of designers.",
+                    "created": "Fri, 04 Aug 2017 15:48:29 GMT"
+                },
+                {
+                    "text": "Good performance in the browser and on the net (considerations: how long to render, how big the files are, latency, bandwidth, out over time).",
+                    "created": "Fri, 04 Aug 2017 15:48:53 GMT"
+                },
+                {
+                    "text": "Elegance of the format used to communicate the design to the browser.",
+                    "created": "Fri, 04 Aug 2017 15:49:32 GMT"
+                }
+            ]
+        },
+        {
+            "text": "The third item is way way down the list. Yes it should be easy to do it by hand. But we shouldn't <i>always</i> be doing it by hand as it works now. ",
+            "created": "Fri, 04 Aug 2017 15:54:23 GMT"
+        },
+        {
+            "text": "What we ended up using was impossible to create a tool for, is utterly perplexing to everyone who has to use it, and is missing huge features that cripple everything we do. The <i>whole world</i> is now built around the crazy design system called CSS. Everywhere and everything.",
+            "created": "Fri, 04 Aug 2017 15:49:59 GMT"
+        },
+        {
+            "text": "Also I have to say we were working on exactly this at <a href=\"http://scripting.com/dwiner/outlinersProgramming.html\">Living Videotext</a> in 1986 and 1987. Had done a lot of prototyping. It was rules-based and you could see the impact of your rules immediately on the screen. Made iteration fast. Would have been perfect for responsive design. ",
+            "created": "Fri, 04 Aug 2017 15:50:59 GMT"
+        },
+        {
+            "text": "It's one of those \"if only\" things -- if only we had been in position to do this, in a competitive way. That's one of the big tradeoffs of going the <a href=\"https://www.w3.org/Consortium/activities\">standards</a> route. You often get really bad designs and have to live with their limits, for a generation or two. ",
+            "created": "Fri, 04 Aug 2017 16:01:05 GMT"
+        }
+    ]
+}

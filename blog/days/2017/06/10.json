@@ -1,0 +1,196 @@
+{
+    "text": "June 10",
+    "created": "Sat, 10 Jun 2017 04:37:42 GMT",
+    "name": "10",
+    "subs": [
+        {
+            "text": "I blog to create a record. ",
+            "created": "Sat, 10 Jun 2017 13:22:54 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I also blog to test my blogging software.",
+            "created": "Sat, 10 Jun 2017 20:41:46 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I love threads like this. John Dickerson (CBS News) <a href=\"https://twitter.com/jdickerson/status/873525476282818561\">asks</a> what would be a good book for a 15-year-old boy. Huge number of great suggestions. My own: <a href=\"https://en.wikipedia.org/wiki/Time_Enough_for_Love\">Time Enough For Love</a>, <a href=\"https://en.wikipedia.org/wiki/A_Confederacy_of_Dunces\">Confederacy of Dunces</a>, <a href=\"https://en.wikipedia.org/wiki/The_Sirens_of_Titan\">Sirens of Titan</a> (really any Vonnegut book), <a href=\"https://en.wikipedia.org/wiki/Thinner_(novel)\">Thinner</a>, <a href=\"https://en.wikipedia.org/wiki/Catch-22\">Catch-22</a>, <a href=\"https://en.wikipedia.org/wiki/Ender%27s_Game\">Enders Game</a>. And of course the must-read for every literate American coming of age: <a href=\"https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye\">Catcher in the Rye</a>. ",
+            "created": "Sat, 10 Jun 2017 13:20:50 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Thanks for the warm reception for <a href=\"http://scripting.com/2017/06/05.html#a080612\">RSS-in-JSON</a>.",
+            "created": "Sat, 10 Jun 2017 11:20:04 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "The <a href=\"https://github.com/scripting/Scripting-News/blob/master/rss-in-json/README.md\">spec</a> is so simple it's almost not there. The Haiku readme. ",
+            "created": "Sat, 10 Jun 2017 11:20:56 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Dan MacTough did a <a href=\"https://github.com/danmactough/rss-in-json-schema-validator/blob/master/schema.js\">schema</a> for RSS-in-JSON",
+            "created": "Sat, 10 Jun 2017 12:50:42 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "This morning as I was waking up my Apple Watch told me to take a nap. ",
+            "created": "Sat, 10 Jun 2017 12:29:11 GMT",
+            "type": "tweet",
+            "tweetId": "873517461173391361",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "<a href=\"https://en.wikipedia.org/wiki/Paul_Pierce\">Paul Pierce</a> who is now a retired player and ABC commentator pointed out that to <a href=\"https://www.theguardian.com/sport/2017/jun/10/nba-finals-cleveland-cavaliers-golden-state-warriors-game-4\">beat the Warriors</a>, the Cavs had to break about 15 all-time playoff records. But they live to play another day. And finally, despite my <a href=\"http://scripting.com/2017/06/09.html#a120618\">pronouncement</a> otherwise, this has become at least an interesting series. ",
+            "created": "Sat, 10 Jun 2017 04:37:43 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Hide your phone in a paper bag",
+            "created": "Sat, 10 Jun 2017 16:55:13 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Bob Stepno on Facebook: \"Should search for a way to completely disable the video chat mode on my Android phone's Facebook Messenger app after discovering that an incoming message could throw half-awake me into live video mode while not fully dressed. Yipe!\"",
+                    "created": "Sat, 10 Jun 2017 16:55:25 GMT"
+                },
+                {
+                    "text": "Sorry I don't link to Facebook posts. ",
+                    "created": "Sat, 10 Jun 2017 16:55:40 GMT"
+                }
+            ]
+        },
+        {
+            "text": "How Frontier is better than Node",
+            "created": "Sat, 10 Jun 2017 15:54:53 GMT",
+            "subs": [
+                {
+                    "text": "I just had to write some complex code in Node that would have been easier to write in Frontier. It had to suck in a calendar-structured folder of archived HTML text into a data structure that roughly parallels the folder structure. Frontier makes this easier in several ways:",
+                    "created": "Sat, 10 Jun 2017 15:49:41 GMT",
+                    "type": "outline"
+                },
+                {
+                    "text": "1. It's synchronous. But then so is Node if you want it to be and for this application I used the synchronous version of <a href=\"https://nodejs.org/api/fs.html#fs_fs_readdirsync_path_options\">fs</a> routines. To do it asynch would have taken hours. And since this is code that runs at startup, who cares if it hogs the CPU. It runs once and that's it.",
+                    "created": "Sat, 10 Jun 2017 15:50:35 GMT"
+                },
+                {
+                    "text": "2. Frontier has a <a href=\"https://github.com/scripting/frontier/blob/master/Common/source/fileloop.c\">fileloop</a> construct that does all the stuff you have to do explicitly in JS, baked into its kernel. A time and complexity saver. ",
+                    "created": "Sat, 10 Jun 2017 15:51:37 GMT"
+                },
+                {
+                    "text": "3. By far the most important thing is Frontier's integrated debugger. I would use the debugger to write the code. Using it to be sure what values were in what variables to save me the time of having to figure it out. People who haven't worked in an environment where the debgger and editor are the same thing wouldn't understand this. It's the one thing I miss the most. (Node does have a debugger and I use it. I write sloppy first versions so I can get to that point of letting the code speak for itself at runtime.)",
+                    "created": "Sat, 10 Jun 2017 15:52:00 GMT",
+                    "image": "http://scripting.com/images/2017/06/13/weaselsRippedMyFlesh.png"
+                },
+                {
+                    "text": "I often skip over these observations because I am deep in codewriting mode when they occur to me. This time I popped out and wrote it down. A testimony to the value of having a blogging system that excels at quick writing and no production work to publish. ",
+                    "created": "Sat, 10 Jun 2017 15:57:50 GMT"
+                }
+            ]
+        },
+        {
+            "text": "The Democratic Party needs to grok advertising",
+            "created": "Sat, 10 Jun 2017 13:56:34 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Lately I've been watching a lot of MSNBC. ",
+                    "created": "Sat, 10 Jun 2017 13:56:45 GMT"
+                },
+                {
+                    "text": "Commercials for all kinds of stuff. <a href=\"https://www.youtube.com/watch?v=zg_rRI76KdM\">Ambulance</a> <a href=\"https://www.youtube.com/watch?v=ZvKlvtQCb9s\">chasers</a>, insurance, treatments for diseases like diabetes, psoriasis, various kinds of cancers. Diarrhea. Constipation. Opiate induced constipation. Colonoscopies. Thankfully they seem to have stopped running the ads about the various obscene ways smoking can kill you (I quit! I quit! A long time ago!)",
+                    "created": "Sat, 10 Jun 2017 13:56:57 GMT"
+                },
+                {
+                    "text": "One thing you <i>never</i> see is an ad for the Democratic Party. ",
+                    "created": "Sat, 10 Jun 2017 13:57:37 GMT"
+                },
+                {
+                    "text": "What they need imho is a campaign, to start, like Trivago's. A few years after that's had a chance to settle in, one of the threads of GEICO's great advertising about insurance. Whoever does their advertising, if they like Democrats, hire them. They really know what they're doing.",
+                    "created": "Sat, 10 Jun 2017 13:57:48 GMT"
+                },
+                {
+                    "text": "Now, <a href=\"https://www.youtube.com/watch?v=YRmLcUIqCHI\">Trivago</a>, a very new brand, has a simple position that they drive into your head over and over. It goes like this. ",
+                    "created": "Sat, 10 Jun 2017 13:58:28 GMT",
+                    "subs": [
+                        {
+                            "text": "Hotel? Trivago.",
+                            "created": "Sat, 10 Jun 2017 13:59:26 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "Drill that in. Thinking about a hotel? Trivago. They want their word to be stored in your brain in same cell as the other word. ",
+                    "created": "Sat, 10 Jun 2017 13:59:34 GMT",
+                    "subs": [
+                        {
+                            "text": "Hotel? Trivago. Hotel? Trivago. Hotel? Trivago. Hotel? Trivago. Hotel? Trivago. Hotel? Trivago. Hotel? Trivago. Hotel? Trivago.",
+                            "created": "Sat, 10 Jun 2017 14:17:36 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "As annoying as their ads are, and they are annoying, it works. The idea is planted. It hasn't yet gotten me to buy a hotel through Trivago. But at some point it probably will. (I use Kayak or Expedia.) ",
+                    "created": "Sat, 10 Jun 2017 14:00:26 GMT"
+                },
+                {
+                    "text": "Another travel site, <a href=\"https://www.youtube.com/watch?v=RczJ5--p6yg\">Booking.com</a> is trying for the same position. Their slogan goes like this.",
+                    "created": "Sat, 10 Jun 2017 14:00:56 GMT",
+                    "subs": [
+                        {
+                            "text": "Booking.com? Booking dot yeah.",
+                            "created": "Sat, 10 Jun 2017 14:01:36 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "It catches in the brain for some reason. ",
+                    "created": "Sat, 10 Jun 2017 14:01:52 GMT"
+                },
+                {
+                    "text": "Well, here's what the Democratic Party should have planted in my brain. ",
+                    "created": "Sat, 10 Jun 2017 14:02:15 GMT",
+                    "subs": [
+                        {
+                            "text": "People? Democrats.",
+                            "created": "Sat, 10 Jun 2017 14:15:41 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "The Democratic Party isn't about anything other than people. That means you. All different kinds of people, but mostly people like you. It works because it's the truth, and because it's what people want to feel. Democrats work for the people. Over and over. ",
+                    "created": "Sat, 10 Jun 2017 14:02:37 GMT",
+                    "subs": [
+                        {
+                            "text": "People? Democrats. People? Democrats. People? Democrats. People? Democrats. People? Democrats. People? Democrats. ",
+                            "created": "Sat, 10 Jun 2017 14:03:43 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "Bernie Sanders had the perfect Democratic Party <a href=\"https://www.youtube.com/watch?v=2nwRiuh1Cug\">TV ad</a>. It reminds me how much I love America. It makes me cry every time I watch it. Too bad Volkswagen <a href=\"http://www.adweek.com/brand-marketing/volkswagen-looks-for-america-with-help-from-simon-garfunkel-in-this-poetic-cross-country-trip/\">bought</a> the Simon and Garfunkel song. It would have been the perfect Democratic Party theme song. ",
+                    "created": "Sat, 10 Jun 2017 14:18:43 GMT"
+                },
+                {
+                    "text": "Anyway. <i>People? Democrats</i> will take a few years of steady advertising. If they start now it might be in place in enough people's minds for the 2018 election. And that'll be the end of Republicans usurping the Democratic position as the party of the people. Which they used to <i>own. </i>And can have back. ",
+                    "created": "Sat, 10 Jun 2017 14:03:57 GMT"
+                }
+            ]
+        },
+        {
+            "text": "A note to those who say Hillary failed us",
+            "created": "Sat, 10 Jun 2017 12:22:22 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Fuck you. Truth is -- we failed ourselves.",
+                    "created": "Sat, 10 Jun 2017 12:22:35 GMT"
+                },
+                {
+                    "text": "<img src=\"http://scripting.com/images/2017/06/10/hillaryTheBoxer.png\" width=\"400\" height=\"586\" border=\"0\" alt=\"A picture named hillaryTheBoxer.png\">",
+                    "created": "Sat, 10 Jun 2017 12:24:07 GMT"
+                }
+            ]
+        }
+    ]
+}

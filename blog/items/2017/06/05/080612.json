@@ -1,0 +1,66 @@
+{
+    "text": "The story of RSS-in-JSON",
+    "created": "Mon, 05 Jun 2017 12:36:12 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "A few years ago, in 2012, I tried an experiment, publishing RSS semantics using JSON syntax, to see what would happen, much like the <a href=\"http://scripting.com/davenet/1997/12/15/scriptingNewsInXML.html\">experiment</a> that got <a href=\"https://cyber.harvard.edu/rss/rss.html\">RSS</a> started in 1997. I wanted to see if there was interest among developers for a JSON version of RSS. I put up a <a href=\"http://rssjs.org/\">website</a>, with comments, and added a JSON feed to my blog (technically it was JSONP). Wired even asked me to write a <a href=\"https://www.wired.com/2012/09/rss-in-json-for-real/\">piece</a> about it. ",
+            "created": "Mon, 05 Jun 2017 12:36:24 GMT",
+            "image": "http://scripting.com/images/2017/05/30/elephant.png",
+            "permalink": "http://scripting.com/2017/06/05.html#a080624"
+        },
+        {
+            "text": "Not much happened with the feed, but the comments underneath the post were quite impressive, especially now, five years later. ",
+            "created": "Mon, 05 Jun 2017 12:38:03 GMT",
+            "permalink": "http://scripting.com/2017/06/05.html#a080603"
+        },
+        {
+            "text": "Then my friends Brent Simmons and Manton Reece, two developers with a strong interest in syndication (Brent wrote <a href=\"http://inessential.com/category/netnewswire/\">NetNewsWire</a> and Manton is currently working on <a href=\"https://micro.blog/\">micro.blog</a>) published a spec for a format they call <a href=\"https://jsonfeed.org/\">JSON Feed</a>. It was supported immediately by Brent's blog, <a href=\"http://inessential.com/feed.json\">inessential.com</a>, and the Macintosh community central blog, <a href=\"https://daringfireball.net/feeds/json\">Daring Fireball</a>. It was off to a strong start. ",
+            "created": "Mon, 05 Jun 2017 12:38:37 GMT",
+            "permalink": "http://scripting.com/2017/06/05.html#a080637"
+        },
+        {
+            "text": "I had mixed feelings about this, and wrote it up in a <a href=\"http://scripting.com/2017/05/21/reEvanWilliamsAndJsonFeed.html\">post</a> a couple of days after the format was announced. I was concerned about whether there was demand for JSON syntax among people who actually produce feeds and write software that consumes feeds. I understand how developers feel, but how many of them are responsible for the flow of RSS-based news? I was also concerned because they were creating new names for things that already existed in RSS 2.0. I had the same concern with Atom, many years ago. Why not start with the same names, and add to them where needed. ",
+            "created": "Mon, 05 Jun 2017 12:40:07 GMT",
+            "subs": [
+                {
+                    "text": "Aside: I observed that <a href=\"http://scripting.com/stories/2008/03/26/whyCantWeAllJustGetAlong.html#p7\">even</a> though Islam, Christianity and Judaism are different religions, their holy books have many of the same stories, and the characters have the same names. If they can do it, presumably to allow some level of interop, why can't technology? It can, imho and must.",
+                    "created": "Mon, 05 Jun 2017 14:33:15 GMT",
+                    "permalink": "http://scripting.com/2017/06/05.html#a100615"
+                }
+            ],
+            "permalink": "http://scripting.com/2017/06/05.html#a080607"
+        },
+        {
+            "text": "Many of these ideas were expressed in my manifesto, <a href=\"http://scripting.com/2017/05/09/rulesForStandardsmakers.html\">Rules for standards-makers</a>, which came out shortly before the release of Brent and Manton's spec (a coincidence, there was no connection, I wrote the piece in anticipation of a podcasting conference at Harvard in early May).",
+            "created": "Mon, 05 Jun 2017 12:44:56 GMT",
+            "permalink": "http://scripting.com/2017/06/05.html#a080656"
+        },
+        {
+            "text": "But there was interest in the JSON Feed format as evidenced by the long list of <a href=\"https://github.com/brentsimmons/JSONFeed/issues\">comments</a> on the GitHub site where it is being discussed. ",
+            "created": "Mon, 05 Jun 2017 13:01:16 GMT",
+            "permalink": "http://scripting.com/2017/06/05.html#a090616"
+        },
+        {
+            "text": "So I thought about it, and while I was working on <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+%22old+school%22&t=h_&ia=web\">Old School</a>, my new blogging platform, I decided to detour for a couple of days to review my RSS-generating code, and to add parallel code that generates a <a href=\"http://scripting.com/rss.json\">JSON-syntax feed</a> with exactly the same semantics as the RSS version. I wrote that up <a href=\"http://scripting.com/2017/05/30.html#a110554\">here</a>, on May 30. In that piece I promised to write more and to provide some technical details about how the format is constructed. ",
+            "created": "Mon, 05 Jun 2017 12:46:03 GMT",
+            "permalink": "http://scripting.com/2017/06/05.html#a080603"
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/blob/master/rss-in-json/README.md\">https://github.com/scripting/Scripting-News/tree/master/rss-in-json</a>",
+            "created": "Mon, 05 Jun 2017 13:19:50 GMT",
+            "permalink": "http://scripting.com/2017/06/05.html#a090650"
+        },
+        {
+            "text": "It took longer to write than I thought it would, probably because it's a very short document. I had able help from my friend <a href=\"https://twitter.com/awbjs?lang=en\">Allen Wirfs-Brock</a>, who has a lot of experience editing technical specs, having worked on just that at Microsoft and Mozilla. ",
+            "created": "Mon, 05 Jun 2017 12:52:05 GMT",
+            "permalink": "http://scripting.com/2017/06/05.html#a080605"
+        },
+        {
+            "text": "What do I hope happens? Well, whatever was meant to happen. :balloon:",
+            "created": "Mon, 05 Jun 2017 12:53:29 GMT",
+            "permalink": "http://scripting.com/2017/06/05.html#a080629"
+        }
+    ],
+    "permalink": "http://scripting.com/2017/06/05.html#a080612"
+}

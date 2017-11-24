@@ -1,0 +1,54 @@
+{
+    "text": "Thoughts re ES6",
+    "created": "Wed, 30 Aug 2017 15:14:37 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "This a really nerdy post. ",
+            "created": "Wed, 30 Aug 2017 15:14:41 GMT"
+        },
+        {
+            "text": "ES6 is the newest version of JavaScript, and it's gradually making its way into online docs and browser runtimes everywhere. ",
+            "created": "Wed, 30 Aug 2017 15:14:51 GMT"
+        },
+        {
+            "text": "I'm starting to use one of its features, and am reluctantly having to use others, and looking forward to one being more broadly deployed. ",
+            "created": "Wed, 30 Aug 2017 15:15:18 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "The feature I am using is <i>let. </i>It should have been the way declarations worked everywhere. You should be able to very precisely determine the scope of a variable by its placement. The crazyass way <i>var</i> worked in JavaScript was one of its worst features. <i>let</i> fixes that. I can't see why you would ever not use let. Except of course if you're using <i>const.</i> Another feature, borrowed from Pascal (and #define in C) that's very useful. It's already caught a bug for me. When something really can't change you should use const.",
+                    "created": "Wed, 30 Aug 2017 15:15:57 GMT"
+                },
+                {
+                    "text": "Even though names <a href=\"http://scripting.com/2017/05/09/rulesForStandardsmakers.html\">don't</a> matter, I think <i>let</i> should have been called <i>local. </i>It's not clear from the names why <i>let</i> is local and <i>var</i> is more global. What's really going on is you're declaring a local, so it should have been called that. Regardless I'm happy to have what I regard as a bug fix. (The bugs caused by the way var is specified combined with the way asynch works can be truly spectacular.)",
+                    "created": "Wed, 30 Aug 2017 15:17:29 GMT"
+                },
+                {
+                    "text": "The arrow notation for callbacks was uncalled for (heh awkward wording). What's the savings? Not having to include the word <i>function? </i>Really. We had a standard way to document callbacks. Now we have two ways. That's going in the wrong direction. (And we have two more ways, see the next section.)",
+                    "created": "Wed, 30 Aug 2017 15:18:25 GMT"
+                },
+                {
+                    "text": "I don't like the new async version of promises which was a flawed improvement on callbacks. I think I don't mind <i>callback hell</i> so much because I edit in an outliner. If I wrote in a flat editor I can imagine I'd be desperate for something to unwind the indentation. As an outliner user, it's kind of cool in a Stockholm Syndrome kind of way. The problem is that people are going to ship sample code using all the fanciest new contraptions, making things that you want to be easy more complex. It's like using CoffeeScript for sample code. Please, just stick to basic common JavaScript (an idea that might be worth exploring).",
+                    "created": "Wed, 30 Aug 2017 15:19:04 GMT"
+                },
+                {
+                    "text": "And the feature I'm anxiously awaiting are modules in the browser. I wish there were exactly Node packages. They seem to be <i>inspired</i> by them instead. In any case modules will improve my client coding enormously. They take me back to my UCSD Pascal days in the late 70s which had units, which were even nicer (if I recall correctly) than today's modules. Nonetheless the ability to create your own APIs as a routine matter is essential for good development. ",
+                    "created": "Wed, 30 Aug 2017 15:21:18 GMT"
+                },
+                {
+                    "text": "So much of the evolution of JavaScript has been an attempt to humanize the wrong way it does async. All that bullshit should have been buried in the runtime. That would be orders of magnitude faster and less error-prone for the human beings writing the software, and I bet you can even do optimizations in the runtime that make it faster. JavaScript will never be as easy as other Algol-like languages, and none of the patches and weird constructs will fix that, they only succeed in making it even more complex. That said, you can pry the JavaScript from my dead cold hands. This is the language I'm using, and that's that. ",
+                    "created": "Wed, 30 Aug 2017 15:34:38 GMT"
+                },
+                {
+                    "text": "No doubt my friend Allen Wirfs-Brock who was the editor of the ES6 spec will have explanations for all this or at least stories to go with why they did what they did. ;-)",
+                    "created": "Wed, 30 Aug 2017 15:20:16 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Update: As predicted <a href=\"http://www.wirfs-brock.com/allen/posts/778\">Allen Wirfs-Brock</a> had some great stories to tell about the development of ES6. ",
+            "created": "Thu, 31 Aug 2017 23:35:56 GMT"
+        }
+    ]
+}

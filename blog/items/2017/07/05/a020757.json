@@ -1,0 +1,19 @@
+{
+    "text": "More work on the Facebook feed",
+    "created": "Wed, 05 Jul 2017 14:09:57 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I found an error from the original implementation, the one that was based on \"1999.io\". Now the &lt;address> section should be correct. Before it was <i>undefined. </i>In the original implementation it contained my Twitter screen name. Hard to see how Facebook could make any sense of that. ",
+            "created": "Wed, 05 Jul 2017 14:10:08 GMT",
+            "image": "http://scripting.com/images/2017/07/05/loveRSS.png",
+            "permalink": "http://scripting.com/2017/07/05.html#a020708"
+        },
+        {
+            "text": "Here's the <a href=\"http://xmlviewer.scripting.com/?url=http://scripting.com/fb/rss.xml\">unobfuscated view</a> of the feed. Still hoping to see some of my posts show up there in full Instant Articles fidelity. In any case it's nice to get the <a href=\"https://www.npmjs.com/package/daverss\">daverss</a> package up to date with the latest in soon-to-be-obsolete tech (I say that because I bet FB will be fully switching to AMP before long, a journey I don't expect to be taking.) ",
+            "created": "Wed, 05 Jul 2017 14:11:08 GMT",
+            "permalink": "http://scripting.com/2017/07/05.html#a020708"
+        }
+    ],
+    "permalink": "http://scripting.com/2017/07/05.html#a020757"
+}

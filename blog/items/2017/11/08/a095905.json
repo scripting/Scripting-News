@@ -1,0 +1,51 @@
+{
+    "text": "How I ended up with 100s of domains",
+    "created": "Wed, 08 Nov 2017 14:59:05 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "A discussion about HTTPS at Newsgeist led to a question.",
+            "created": "Wed, 08 Nov 2017 14:59:20 GMT",
+            "subs": [
+                {
+                    "text": "Dave, do you really have 100s of domains with real content, and if so, how did it happen?",
+                    "created": "Wed, 08 Nov 2017 15:12:10 GMT"
+                }
+            ]
+        },
+        {
+            "text": "First, there really are that many. ",
+            "created": "Wed, 08 Nov 2017 15:00:09 GMT"
+        },
+        {
+            "text": "Second, the reason is that, as you may know, I use <a href=\"http://scripting.com/2013/09/10/twoWaysOfLookingAtAnOutline\">outliners</a> for my writing. That's how I write code and blog posts, docs, change notes, show notes for my podcasts, etc. Editing structures is my thing. Then, I had the idea that a website could be a document. And made that work, and it's great. Then I tried an even bigger idea, one document could hold lots of websites. It worked too, and it also was great. (How it worked: nodes in the outline structure could have a <i>domain</i> attribute and the server would know how to get to that place from an HTTP request.) ",
+            "created": "Wed, 08 Nov 2017 15:07:24 GMT"
+        },
+        {
+            "text": "If you're following me this far, you can see how the domain names proliferated."
+        },
+        {
+            "text": "All this is before Google even had a web browser. "
+        },
+        {
+            "text": "I wrote about it publicly on my blog. I didn't hide it. ",
+            "created": "Wed, 08 Nov 2017 15:01:38 GMT"
+        },
+        {
+            "text": "Later I got a little more sober about it. I was probably the only person who liked it. I created a web server called \"PagePark\" that made it easy to serve lots of domains from one machine, without any configuration. Just create a folder with the name of a domain in a specific place and the server would automatically route requests to the folder. It works. It's proven a good way to evolve sites I created, with real content, specs, essays, blog posts, feeds, JSON files, images, outlines, movies, podcasts, music, wire photos, all the things I have experimented with and created standards for over the years. It's a mess, but I kept good notes. If anyone wants to see my work, it's all there. But it's never going to make it to HTTPS unless it gets a lot simpler, and we know that can't happen because it's inherently a complicated and fragile thing. ",
+            "created": "Wed, 08 Nov 2017 15:01:43 GMT"
+        },
+        {
+            "text": "Now of course Google never considered the possibility that someone might be doing this. And there are probably are <i>many other things</i> they didn't think of that people did or are doing. Remember HTTP isn't just any protocol, it's certainly the most widely used networking protocol ever. It's the protocol that made networking explode. And it's been around a long time, and lots of people did all kinds of things with it, and some of those sites are still running. ",
+            "created": "Wed, 08 Nov 2017 15:04:30 GMT"
+        },
+        {
+            "text": "Or maybe Google had an idea of how widespread HTTP was, and they don't care. I suspect that's the case, because it's pretty freaking obvious to anyone who thinks about it. ;-) ",
+            "created": "Wed, 08 Nov 2017 15:05:29 GMT"
+        },
+        {
+            "text": "HTTP isn't some random half-baked idea, it's the biggest networking standard anywhere. No one has the power to break it. That's one of the big reasons so many innovations happened there and not somewhere else.",
+            "created": "Wed, 08 Nov 2017 15:06:13 GMT"
+        }
+    ]
+}

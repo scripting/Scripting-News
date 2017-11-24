@@ -1,0 +1,39 @@
+{
+    "text": "I like the Atom editor",
+    "created": "Sat, 22 Jul 2017 13:04:26 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "A few months ago I started using the <a href=\"https://atom.io/\">Atom editor</a>, and it has proven so useful it's now in the dock on my Mac.",
+            "created": "Sat, 22 Jul 2017 13:04:30 GMT",
+            "image": "http://scripting.com/images/2017/07/22/atomLogo.png",
+            "permalink": "http://scripting.com/2017/07/22.html#a090430"
+        },
+        {
+            "text": "It's an <a href=\"https://electron.atom.io/\">Electron app</a>, which means that under the hood it's a web/node app packaged to run on the Mac desktop. (To say it's an Electron app is a bit of an understatement, it was the app that Electron was developed to run. The two begat each other, a very important software design principle. They factored well.)",
+            "created": "Sat, 22 Jul 2017 13:16:37 GMT",
+            "permalink": "http://scripting.com/2017/07/22.html#a091637"
+        },
+        {
+            "text": "It's a programmer's editor. I use it for lightweight stuff, as a viewer for technical documents. ",
+            "created": "Sat, 22 Jul 2017 13:05:07 GMT",
+            "permalink": "http://scripting.com/2017/07/22.html#a090507"
+        },
+        {
+            "text": "I edit my JavaScript source in an outliner. Sometimes it's nice to be able to view it flattened, so I use it for that (I also use GitHub for the same purpose, funny how they come from the same company). Or when an error message refers to a specific line number, they have line numbers, my outliner doesn't, so I drag the JS file onto the Atom icon. ",
+            "created": "Sat, 22 Jul 2017 13:05:20 GMT",
+            "permalink": "http://scripting.com/2017/07/22.html#a090520"
+        },
+        {
+            "text": "I use it to view a JSON file when I'm working on code that works with that kind of file. A very handy way to keep it around as a reference. And I look at RSS feeds and OPML files in all their XML glory using Atom. I even use it for light touchups to config.json files for some of my apps. ",
+            "created": "Sat, 22 Jul 2017 13:05:38 GMT",
+            "permalink": "http://scripting.com/2017/07/22.html#a090538"
+        },
+        {
+            "text": "It's playing the role that BBEdit plays for some Mac users or X-Code, or probably an IDE on Windows. But I like Atom, so that's what I use. ",
+            "created": "Sat, 22 Jul 2017 13:06:03 GMT",
+            "permalink": "http://scripting.com/2017/07/22.html#a090603"
+        }
+    ],
+    "permalink": "http://scripting.com/2017/07/22.html#a090426"
+}

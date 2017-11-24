@@ -1,0 +1,30 @@
+{
+    "text": "River5 now supports RSS-in-JSON",
+    "created": "Thu, 15 Jun 2017 13:12:54 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Here's an <a href=\"http://scripting.com/images/2017/06/15/fromTheJsonFeed.png\">item</a> in my river that came from the Scripting News <a href=\"http://scripting.com/rss.json\">JSON feed</a>. It's fair to say that \"River5\" now supports \"RSS-in-JSON\". ",
+            "created": "Thu, 15 Jun 2017 13:08:22 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/06/13/weaselsRippedMyFlesh.png",
+            "permalink": "http://scripting.com/2017/06/15.html#a090622"
+        },
+        {
+            "text": "It was more work than I thought it would be. It's not that the <a href=\"https://github.com/scripting/reader/blob/master/davereader.js#L769\">code</a> assumes XML, it just wasn't organized for variable syntax. It is now. So when they invent the thing that comes after JSON, it'll be somewhat easier to adjust. ",
+            "created": "Thu, 15 Jun 2017 13:13:19 GMT",
+            "permalink": "http://scripting.com/2017/06/15.html#a090619"
+        },
+        {
+            "text": "Having spent two full days wrestling with this I have to say I wondered more than once if it was worth it. ",
+            "created": "Thu, 15 Jun 2017 13:13:36 GMT",
+            "permalink": "http://scripting.com/2017/06/15.html#a090636"
+        },
+        {
+            "text": "I haven't got a plan for how to support JSON-based feeds that have different semantics from \"RSS\". Truth be told, their semantics will have to map on to RSS, as Atom semantics do. I don't wonder whether that exercise is worth it, it's total make-work. A lot of work with <i>no gain</i> in features, performance, interop.The kind of <a href=\"https://en.wikipedia.org/wiki/Fire_drill\">firedrill</a> that BigCo's make developers do. ",
+            "created": "Thu, 15 Jun 2017 13:13:53 GMT",
+            "permalink": "http://scripting.com/2017/06/15.html#a090653"
+        }
+    ],
+    "permalink": "http://scripting.com/2017/06/15.html#a090654"
+}

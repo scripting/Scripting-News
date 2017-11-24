@@ -1,0 +1,58 @@
+{
+    "text": "November 12",
+    "created": "Sun, 12 Nov 2017 16:36:33 GMT",
+    "name": "12",
+    "subs": [
+        {
+            "text": "Just finished <a href=\"https://en.wikipedia.org/wiki/Big_Little_Lies_(miniseries)\">Big Little Lies</a>. Great acting, characters and (no spoilers) it's a story for our time. 4 out of 5 stars.",
+            "created": "Mon, 13 Nov 2017 03:38:12 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I just made a change to how permalinks and GUIDs are generated in my <a href=\"http://scripting.com/2017/06/06.html#a050640\">CMS</a>. This is a test post to see how badly I broke things. ;-)",
+            "created": "Mon, 13 Nov 2017 04:01:44 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Interestingly, that last post should have appeared twice because the GUID changed. I figured out how to fix things so it can survive an author time-zone change. More in the <a href=\"https://github.com/scripting/Scripting-News/issues/42#issuecomment-343806486\">thread</a> for this bug and its fix.",
+            "created": "Mon, 13 Nov 2017 04:32:55 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "With <a href=\"https://en.wikipedia.org/wiki/Legality_of_cannabis_by_U.S._jurisdiction\">cannabis legal</a> in so many states, why isn't there a cable news show that spends an hour a week exploring the changes this brings about? Such a large change, an end to Prohibition, seems there would be quite a bit of interesting stuff to discuss about it. ",
+            "created": "Sun, 12 Nov 2017 20:49:23 GMT",
+            "type": "tweet",
+            "tweetId": "929814312364986371",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/929478678798532615\">One</a> of my most frequently RT'd and Liked tweets ever. I don't keep track of these things. \"Senator McCain, America has been humiliated by your president and party. Enough. Time to stop this. Speak up for impeachment.\" BTW, this is also the most responses I've gotten on Twitter from trolls. Wondering how many of them are real people, and how many are imitation people, Russians dressing up as Americans. ",
+            "created": "Sun, 12 Nov 2017 20:36:15 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/929478678798532615",
+            "image": "http:///scripting.com/images/2017/11/12/russianDressing.png"
+        },
+        {
+            "text": "Maybe John Dickerson should interview a group of Russian trolls to get their opinions on American politics. It would be more illuminating than listening to a bunch of Americans who were brainwashed by them. Skip the middleman, go direct to the source.",
+            "created": "Sun, 12 Nov 2017 20:43:11 GMT",
+            "type": "tweet",
+            "tweetId": "929812507581140992",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "Facebook replaced the web with much less than the web. This should get more attention than it does.",
+            "created": "Sun, 12 Nov 2017 18:17:34 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "There was a problem with \"Radio3\" this morning. I rebooted the app and all is working again. I saw that it had been running for 222 days. That's one of the advantages of working in the Node environment. Once you get a piece of software stable, in this case \"nodeStorage\", it pretty much takes care of itself. ",
+            "created": "Sun, 12 Nov 2017 16:37:06 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Couldn't watch the last segment on Face The Nation with a panel of Trump voters. It's time to stop asking them to explain themselves. Let's hear from other citizens. And let's stop putting reporters in the middle.",
+            "created": "Sun, 12 Nov 2017 16:36:34 GMT",
+            "type": "outline"
+        }
+    ]
+}

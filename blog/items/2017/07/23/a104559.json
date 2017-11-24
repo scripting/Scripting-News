@@ -1,0 +1,7 @@
+{
+    "text": "Happy Sunday. Just had a remarkable programming session. At the beginning of the session I had a nice <a href=\"https://github.com/paulmillr/chokidar\">chokidar</a>-based image uploader app in Node. I wanted to get started at putting it into an Electron shell. A couple of hours and it's done. There's an image that was uploaded with it in the right margin. The cool thing is that it hooks into the OS, no polling, so there's zero latency. Drop an image in the folder and it's up before you can bring the app to the front. Debugged a race condition, a file deleted before it was read, and then realized I had two copies of the app running. ",
+    "created": "Sun, 23 Jul 2017 14:45:59 GMT",
+    "type": "outline",
+    "image": "http:///scripting.com/images/2017/07/23/bomb.png",
+    "permalink": "http://scripting.com/2017/07/23.html#a104559"
+}

@@ -1,0 +1,26 @@
+{
+    "text": "Feedparser sample code",
+    "created": "Fri, 04 Aug 2017 18:01:34 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "TL;DR: New <a href=\"https://github.com/scripting/feedParserDemo/blob/master/demo.js\">sample code</a> for getting started with feed parsing in Node. ",
+            "created": "Fri, 04 Aug 2017 18:02:03 GMT"
+        },
+        {
+            "text": "I use the <a href=\"https://github.com/danmactough/node-feedparser\">feedparser</a> package in <a href=\"https://github.com/scripting/river5\">River5</a>. So all my news flows through this code. That's a lot of news, and it's been working solidly for years.",
+            "created": "Fri, 04 Aug 2017 18:01:40 GMT"
+        },
+        {
+            "text": "Back in 2013 when I was getting started on Node, it was a little tricky adapting to feedparser, because the package is designed for maximum efficiency at the expense of a bit of ease-of-use, especially for a Node newbie. "
+        },
+        {
+            "text": "In the spirit of giving back to a product I use a lot, I pulled out a bit of <a href=\"https://github.com/scripting/reader/blob/master/davereader.js#L555\">code</a> from River5 and simplified it so it makes a <a href=\"https://github.com/scripting/feedParserDemo/blob/master/demo.js\">good demo</a> of feedparser. ",
+            "created": "Fri, 04 Aug 2017 18:04:41 GMT"
+        },
+        {
+            "text": "If you're new to feedparser, this might help you get started a bit faster with less head-scratching. :beer:",
+            "created": "Fri, 04 Aug 2017 18:05:05 GMT"
+        }
+    ]
+}

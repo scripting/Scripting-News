@@ -1,0 +1,29 @@
+{
+    "text": "About the software preview",
+    "created": "Fri, 07 Jul 2017 23:14:55 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I started out thinking I would just present the items in a single feed exactly as if it were a river. The data that's been transmitted between the server and the client is the same data that's used in a river. ",
+            "created": "Fri, 07 Jul 2017 23:15:00 GMT",
+            "image": "http://scripting.com/images/2017/07/07/cow.png",
+            "permalink": "http://scripting.com/2017/07/07.html#a070700"
+        },
+        {
+            "text": "I had it working then I decided to look at <a href=\"https://ranchero.com/evergreen/\">Evergreen</a>, because it's the first \"RSS\" reader that I'm aware of that properly handles titleless posts. As you know \"Scripting News\" these days is about 50-50, titled vs titleless posts. It has to work well in both cases.",
+            "created": "Fri, 07 Jul 2017 23:17:38 GMT",
+            "permalink": "http://scripting.com/2017/07/07.html#a070738"
+        },
+        {
+            "text": "So I decided to scrap the river model and take a fresh view of it. I really started to like how it feels. And most of the techniques I needed were covered well in HTML 5. ",
+            "created": "Fri, 07 Jul 2017 23:16:52 GMT",
+            "permalink": "http://scripting.com/2017/07/07.html#a070752"
+        },
+        {
+            "text": "Not sure where I'm going to hook this in first. Thinking I might use \"Electric River\" as a base, because it's so self-contained. ",
+            "created": "Fri, 07 Jul 2017 23:17:49 GMT",
+            "permalink": "http://scripting.com/2017/07/07.html#a070749"
+        }
+    ],
+    "permalink": "http://scripting.com/2017/07/07.html#a070755"
+}

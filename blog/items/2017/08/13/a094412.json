@@ -1,0 +1,42 @@
+{
+    "text": "The #indieweb storage system",
+    "created": "Sun, 13 Aug 2017 13:44:12 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I've tried to explain this idea many ways over the years. This time I'm going to explain it technically, without any detours or analogies.",
+            "created": "Sun, 13 Aug 2017 13:44:20 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "Call the service WebStor. It's a storage system for the web. ",
+                    "created": "Sun, 13 Aug 2017 13:44:57 GMT"
+                },
+                {
+                    "text": "There's a website that allows you to browse your files. Upload new ones, delete them, change the attributes of files individually or as groups. It's a lot like the browser interface for Dropbox but it does more than Dropbox does. ",
+                    "created": "Sun, 13 Aug 2017 13:45:40 GMT"
+                },
+                {
+                    "text": "You can attach a CNAME to any folder, like mycoolblog.org. When a request comes in for mycoolblog.org, WebStor serves the content out of the folder that had the CNAME attribute. ",
+                    "created": "Sun, 13 Aug 2017 13:47:59 GMT"
+                },
+                {
+                    "text": "There's an API, based on OAuth, that lets blogging tools post to a user's account, possibly limited to a specific folder. That way Mary, an independent developer, could write a blogging tool worked with WebStor. And so could Sue and Megan and Arnold. And because it's OAuth, the user can control which one has access to which folders.  ",
+                    "created": "Sun, 13 Aug 2017 13:51:25 GMT"
+                },
+                {
+                    "text": "The user pays for the service. No advertising. Unless the site gets huge traffic the cost should be at most a few dollars a month.",
+                    "created": "Sun, 13 Aug 2017 14:04:06 GMT"
+                }
+            ]
+        },
+        {
+            "text": "That's the idea. If we had this then users could own their own space in the web and developers could create tools for the users. Instead of just having a few developers, all of them large, creating silos, a thousand tools could bloom, as could many cloud-based storage services. But we need one to go first. ",
+            "created": "Sun, 13 Aug 2017 13:53:07 GMT"
+        },
+        {
+            "text": "I've also posted this as an <a href=\"https://github.com/scripting/Scripting-News/issues/21\">issue</a> on the GitHub repo for Scripting News, so there's an easy place for people to ask questions. ",
+            "created": "Sun, 13 Aug 2017 13:57:48 GMT"
+        }
+    ]
+}

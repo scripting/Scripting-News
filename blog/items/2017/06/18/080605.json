@@ -1,0 +1,34 @@
+{
+    "text": "Why I like PagePark",
+    "created": "Sun, 18 Jun 2017 12:09:05 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "\"PagePark\" is my web server. I wrote it in late 2014, shipped in early 2015. I've been using it ever since, to serve static pages, and as a front-end for my Node-based server apps. ",
+            "created": "Sun, 18 Jun 2017 13:16:31 GMT",
+            "image": "http://scripting.com/images/2017/06/18/bowlingPin.png",
+            "permalink": "http://scripting.com/2017/06/18.html#a090631"
+        },
+        {
+            "text": "There is a single important idea in PagePark, something I've always wanted in a web server -- it maps domains to folders. ",
+            "created": "Sun, 18 Jun 2017 12:12:22 GMT",
+            "permalink": "http://scripting.com/2017/06/18.html#a080622"
+        },
+        {
+            "text": "Suppose you register a new domain, hello.wtf. To host it in PagePark, create a new sub-folder of the domains folder called hello.wtf. Add a file called index.html. Then map the domain to the server PagePark is running on. And that's it. You don't have to update any configuration files, or write any scripts or rules. PagePark knows where to look when a request comes in, it sees an index file (it could also be index.txt, index.png, index.md or index.js) and serves it. As they say -- <i>bing!</i>",
+            "created": "Sun, 18 Jun 2017 12:13:23 GMT",
+            "permalink": "http://scripting.com/2017/06/18.html#a080623"
+        },
+        {
+            "text": "Of course it does everything else you want a web server to do, but this is the thing it does simply better than anything before. And since this is most of what people do with web servers, it might make it possible for people who otherwise couldn't run a server, to do so.",
+            "created": "Sun, 18 Jun 2017 12:15:41 GMT",
+            "permalink": "http://scripting.com/2017/06/18.html#a080641"
+        },
+        {
+            "text": "It's free, MIT-licensed, and I'm continually <a href=\"https://github.com/scripting/pagePark#updates\">improving</a> it because <i>I use it</i> to serve many of my sites. ",
+            "created": "Sun, 18 Jun 2017 12:16:35 GMT",
+            "permalink": "http://scripting.com/2017/06/18.html#a080635"
+        }
+    ],
+    "permalink": "http://scripting.com/2017/06/18.html#a080605"
+}

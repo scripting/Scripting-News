@@ -1,0 +1,125 @@
+{
+    "text": "June 17",
+    "created": "Sat, 17 Jun 2017 13:00:52 GMT",
+    "name": "17",
+    "subs": [
+        {
+            "text": "Wish: Instead of Twitter threads, write <a href=\"http://scripting.com/2017/06/14.html#a040624\">Axios-style</a> blog posts. Make the point directly and clearly. Use the reader's time well.",
+            "created": "Sun, 18 Jun 2017 00:19:57 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/06/17/bowling.png"
+        },
+        {
+            "text": "If you're reading \"OPML\" files in Node apps, the new <a href=\"https://github.com/scripting/opmlToJs\">opmlToJs package</a> is the way to go. I'm using it in \"PagePark\" to serve OPML files that are then rendered through in-page JavaScript. Works great. It's how I did the <a href=\"http://this.how/electricRiver\">Electric River howto</a>. I expect to use it for lots of docs. (Also updated <a href=\"http://rssjs.org/\">rssjs.org</a> to use the new design.)",
+            "created": "Sat, 17 Jun 2017 20:01:53 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Fargo is gooood",
+            "created": "Sat, 17 Jun 2017 17:05:12 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "This <a href=\"http://www.vulture.com/2017/06/fargo-recap-season-3-episode-9.html\">week's</a> <a href=\"https://en.wikipedia.org/wiki/Fargo_(season_3)\">Fargo</a> was <i>good. </i>",
+                    "created": "Sat, 17 Jun 2017 16:29:37 GMT",
+                    "image": "http://scripting.com/images/2017/06/17/grenade.png"
+                },
+                {
+                    "text": "Esp the scene where the Nikki and Varga meet in the hotel lobby. Gloria Burgle has her way with the faucet. The show was wandering but now that we're closing in on the finale (next episode), there's serious business to do. ",
+                    "created": "Sat, 17 Jun 2017 19:37:15 GMT"
+                },
+                {
+                    "text": "And of course since it's Fargo, you have to assume a few more characters will die. That's the way it goes! ",
+                    "created": "Sat, 17 Jun 2017 19:38:23 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Found a nasty bug in Old School",
+            "created": "Sat, 17 Jun 2017 16:54:59 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "It was reported by a few people. Ted Howard filed an <a href=\"https://github.com/scripting/Scripting-News/issues/11\">issue</a>. (Thanks!)",
+                    "created": "Sat, 17 Jun 2017 16:55:08 GMT",
+                    "image": "http://static.scripting.com/larryKing/images/2014/05/25/goodHumor.gif"
+                },
+                {
+                    "text": "Here's the deal. Old School has a websocket connection with the content server. When I update the blog outline, it sends a message to Old School saying I updated and also includes the JSON text of the outline. It's big. JSON-in-JSON can cause problems, I've found. ",
+                    "created": "Sat, 17 Jun 2017 16:55:37 GMT"
+                },
+                {
+                    "text": "When the message comes in, the text is attached temporarily to the object that represents the blog in Old School, until it's processed by the handler that then proceeds to do nothing with it (the feature is turned off, I don't want updates determined by text changes). It then deletes the text that was attached to the blog object.",
+                    "created": "Sat, 17 Jun 2017 16:56:57 GMT"
+                },
+                {
+                    "text": "At the same time, a message must have come in from me, saying \"Build the blog now\" -- and once in a while, very rarely, when it does this the text is attached, and it gets added to the jstruct that's included in the rendered page. Why? Well it could come in handy some day. As with the other feature it isn't hooked up to anything at this time.",
+                    "created": "Sat, 17 Jun 2017 16:58:02 GMT"
+                },
+                {
+                    "text": "All I had to do was to delete it, if it's present, in the copy I was making to include in the web page, and we should never see that bit of nastyness again.",
+                    "created": "Sat, 17 Jun 2017 16:59:05 GMT"
+                },
+                {
+                    "text": "Thanks everyone who reported the problem. And sorry for the ugly bits. As they say..",
+                    "created": "Sat, 17 Jun 2017 17:03:07 GMT"
+                },
+                {
+                    "text": "\"curly\"",
+                    "created": "Sat, 17 Jun 2017 16:59:51 GMT"
+                },
+                {
+                    "text": "<i>Still diggin! </i>:-)",
+                    "created": "Sat, 17 Jun 2017 16:59:54 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Multiple-watch movies?",
+            "created": "Sat, 17 Jun 2017 13:00:53 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "On Twitter last night I <a href=\"https://twitter.com/davewiner/status/875910289237188609\">asked</a>: \"What movie would you/have you watched 20 or more times?\" Lots of interesting responses including: ",
+                    "created": "Sat, 17 Jun 2017 13:01:04 GMT",
+                    "subs": [
+                        {
+                            "text": "The Transporter, The Princess Bride (multiple), The Three Musketeers, Office Space, Robin Hood: Prince of Thieves, Groundhog Day (haha), Shawshank Redemption (multiple), The Big Short, Scott Pilgrim vs The World, Finding Nemo, ",
+                            "created": "Sat, 17 Jun 2017 13:29:13 GMT"
+                        },
+                        {
+                            "text": "Casablanca (multiple), Forbidden Planet, White Heat, Robin Hood (Errol Flynn), Godfather I and II (multiple), Miracle, Aliens, Army of Darkness, The Party, Inception, The Matrix, The Third Man, Fisher King, Terminator 2, Die Hard, Sixteen Candles, ",
+                            "created": "Sat, 17 Jun 2017 13:29:19 GMT"
+                        },
+                        {
+                            "text": "Days of Heaven, Malick, Sneakers, Tootsie, Pink Floyd The Wall, True Romance, Blade Runner, Glengarry Glenn Ross, Peter Pan, Oceans 11, Biker Boyz, Back to the Future, Repo Man, Lord of the Rings, Happy Gilmore, Lucy, Caddyshack, Rashomon, ",
+                            "created": "Sat, 17 Jun 2017 13:29:24 GMT"
+                        },
+                        {
+                            "text": "Bull Durham, Road House, Fried Green Tomatoes, Dr Strangelove, Apolcalypse Now, The Outlaw Josie Wales, Goodfellas, Jaws,",
+                            "created": "Sat, 17 Jun 2017 13:48:59 GMT"
+                        },
+                        {
+                            "text": "Fargo, Searching for Sugar Man, Unforgiven, WALL-E, Groundhog Day, Wizard of Oz, Godzilla.",
+                            "created": "Sat, 17 Jun 2017 16:38:26 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "My choice...",
+                    "created": "Sun, 18 Jun 2017 02:52:32 GMT",
+                    "subs": [
+                        {
+                            "text": "<a href=\"https://en.wikipedia.org/wiki/The_Departed\">The Departed</a>. If I start with the <a href=\"https://www.youtube.com/watch?v=WhqhP58t5O0\">first scene</a> with Jack Nicholson walking into the grocery with <a href=\"https://www.youtube.com/watch?v=RbmS3tQJ7Os\">Gimme Shelter</a> playing behind him, it's a foregone conclusion I'm going all the way. It's happened quite a few times. ",
+                            "created": "Sat, 17 Jun 2017 13:23:05 GMT"
+                        },
+                        {
+                            "text": "I think The Departed is the perfect movie. It might not be the best ever, Casablanca and The Godfather might be better, but I can't take my eyes off The Departed. It holds my attention like no other movie. ",
+                            "created": "Sun, 18 Jun 2017 02:54:00 GMT"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "text": "JSON in Feed Land",
+    "created": "Tue, 30 May 2017 15:18:54 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "The last couple of weeks the idea of feeds that do more or less what RSS does, in JSON instead of XML, has been under consideration.",
+            "created": "Tue, 30 May 2017 15:19:03 GMT",
+            "image": "http://scripting.com/images/2017/05/30/elephant.png",
+            "permalink": "http://scripting.com/2017/05/30.html#a110503"
+        },
+        {
+            "text": "At the same time I was working on a <a href=\"http://scripting.com/2017/05/05/iWantMyOldBlogBack.html\">new version</a> of <a href=\"http://scripting.com/\">my blog</a>, codenamed <i>Old School. </i>In doing the work, I found a bunch of problems with the code I was using to generate RSS feeds. I wrote it a long time ago, probably when I was first doing <a href=\"http://radio3.io/\">Radio3</a>. Parts of it came from <a href=\"http://fargo.io/\">Fargo</a>. It had an assumption baked into it that the items in the feed all went to or came from Twitter. That's not an assumption I can make about my current software. Twitter is important, but it's not <i>everything. </i>;-)",
+            "created": "Tue, 30 May 2017 15:23:22 GMT",
+            "permalink": "http://scripting.com/2017/05/30.html#a110522"
+        },
+        {
+            "text": "So I decided to try an experiment. In addition to writing the feed in XML, I also wrote it in JSON. It's a very simple matter. I had done a prototype of it in 2012, that's <a href=\"http://rssjs.org/\">archived</a>. The comment thread there is very interesting. It is itself a historic document with comments from people who had strong opinions when core RSS was being discussed in the late 90s and early 00s.",
+            "created": "Tue, 30 May 2017 15:24:59 GMT",
+            "permalink": "http://scripting.com/2017/05/30.html#a110559"
+        },
+        {
+            "text": "One <a href=\"http://rssjs.org/#comment-652876959\">comment</a> in particular, from Julian Bond, someone who rarely agreed with or supported my ideas, had a bit of advice that was, to me, stunning. He argued for not re-litigating the old disputes, and just accept RSS as-is, with all the scars and false starts in place. Of course he had no argument with me. That's exactly what i intended to do. I wasn't signing up for more years of misery on mail lists. I made a conscious decision about that in 2002. Never went back, never want to.  ",
+            "created": "Tue, 30 May 2017 15:26:33 GMT",
+            "permalink": "http://scripting.com/2017/05/30.html#a110533"
+        },
+        {
+            "text": "Chuck Shotton, a longtime friend, provided a <a href=\"http://rssjs.org/#comment-645922090\">justification</a> for JSONifying RSS. It's a good one and one that I hadn't thought of. It's true that today's RSS-reading apps have to have an XML parser, but there may be new apps that are easier to make in JSON. Non-publishing uses for RSS. I tend only to think of publishing, but Chuck does commercial realtime stuff at considerable scale. I trust his judgement, even if I don't always take his advice. :-)",
+            "created": "Tue, 30 May 2017 15:30:07 GMT",
+            "permalink": "http://scripting.com/2017/05/30.html#a110507"
+        },
+        {
+            "text": "Back to the JSON version of Scripting's RSS 2.0 feed. The translation is very straightforward. It could have been done algorithmically but I decided to do it by hand, to force me to review and understand every element, not just of the base format, but also for a <a href=\"http://source.scripting.com/\">namespace</a> that I use in all my work. I wanted not only to understand how RSS could be transported with a different syntax, JSON, but also how the extension mechanism would make the jump. It worked without a hitch. And honestly I think it's beautiful. ",
+            "created": "Tue, 30 May 2017 15:32:40 GMT",
+            "permalink": "http://scripting.com/2017/05/30.html#a110540"
+        },
+        {
+            "text": "I have much to write about this, but I wanted to introduce the idea, and also let people have a look at the result. And here it is.",
+            "created": "Tue, 30 May 2017 15:33:24 GMT",
+            "permalink": "http://scripting.com/2017/05/30.html#a110524"
+        },
+        {
+            "text": "<a href=\"http://scripting.com/rss.json\">http://scripting.com/rss.json</a>",
+            "created": "Tue, 30 May 2017 15:35:53 GMT",
+            "permalink": "http://scripting.com/2017/05/30.html#a110553"
+        }
+    ],
+    "permalink": "http://scripting.com/2017/05/30.html#a110554"
+}

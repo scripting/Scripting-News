@@ -1,0 +1,6 @@
+{
+    "text": "Fix for the Scripting News <a href=\"http://scripting.com/rss.xml\">RSS</a> <a href=\"http://scripting.com/rss.json\">feed</a>: we now process glossary entries and emoji short codes. The net effect is that text shortcuts like \"rss\" will be expanded as well as :clap: emoji :clap:, in the feeds. As they say, <i>still diggin!</i>",
+    "created": "Fri, 23 Jun 2017 14:52:02 GMT",
+    "type": "outline",
+    "permalink": "http://scripting.com/2017/06/23.html#a100602"
+}

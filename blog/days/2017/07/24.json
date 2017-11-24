@@ -1,0 +1,85 @@
+{
+    "text": "July 24",
+    "created": "Mon, 24 Jul 2017 13:40:16 GMT",
+    "name": "24",
+    "subs": [
+        {
+            "text": "I can now embed tweets in my blog",
+            "created": "Mon, 24 Jul 2017 15:51:06 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Click the wedge next to this line for a link to a NYT story about how climate change makes a disaster in the Arctic more likely.",
+                    "created": "Mon, 24 Jul 2017 15:51:26 GMT",
+                    "urlTweet": "https://twitter.com/davewiner/status/889256427554000897"
+                },
+                {
+                    "text": "It's a little jarring at first. Not sure what to make of it.",
+                    "created": "Mon, 24 Jul 2017 15:53:21 GMT"
+                },
+                {
+                    "text": "It also means that I can embed a video because Twitter can do that.",
+                    "created": "Mon, 24 Jul 2017 15:53:47 GMT",
+                    "urlTweet": "https://twitter.com/davewiner/status/889514493029617664"
+                },
+                {
+                    "text": "Although it suggests a new object type just for video might be nice too.",
+                    "created": "Mon, 24 Jul 2017 15:56:48 GMT"
+                },
+                {
+                    "text": "Here's a tweet I thought might start a meme. Pretty lame! :boom:",
+                    "created": "Mon, 24 Jul 2017 15:57:03 GMT",
+                    "urlTweet": "https://twitter.com/davewiner/status/889219944784830465"
+                },
+                {
+                    "text": "And for the <i>Stupid Internet Trick</i> of the day. :heart:",
+                    "created": "Mon, 24 Jul 2017 16:11:44 GMT",
+                    "urlTweet": "https://twitter.com/davewiner/status/889518390020382720"
+                }
+            ]
+        },
+        {
+            "text": "Testing another esoteric code mod",
+            "created": "Mon, 24 Jul 2017 16:35:53 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I made it so that <a href=\"https://github.com/scripting/Scripting-News/blob/master/xrefs/readme.md\">xrefs</a> use the same code as embedded tweets. ",
+                    "created": "Mon, 24 Jul 2017 16:36:02 GMT"
+                },
+                {
+                    "text": "Here's the test. This headline is an xref. ",
+                    "created": "Mon, 24 Jul 2017 16:37:16 GMT",
+                    "xref": "http://scripting.com/2017/07/22.html#a084817"
+                },
+                {
+                    "text": "Factoring makes it possible to build bigger structures. ",
+                    "created": "Mon, 24 Jul 2017 16:40:44 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Next up: Expandable images",
+            "created": "Mon, 24 Jul 2017 21:50:52 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "This is a picture of a Point beer can.",
+                    "created": "Mon, 24 Jul 2017 21:38:08 GMT",
+                    "type": "outline",
+                    "urlExpandableImage": "http:///scripting.com/images/2017/07/24/pointBeerCan.png"
+                },
+                {
+                    "text": "When I was a <a href=\"https://www.cs.wisc.edu/\">student</a> in <a href=\"https://en.wikipedia.org/wiki/Madison,_Wisconsin\">Madison</a> we'd spend summer nights on the porch talking about stuff and drinking <a href=\"https://en.wikipedia.org/wiki/Stevens_Point_Brewery#Alcoholic_Beverages\">Point</a> beer. Also Leinenkugle (or Leinie's). Truth be told we'd never drink from a can, it adds a weird taste, always from a bottle. Just couldn't find a really great picture of the <a href=\"https://www.google.com/search?q=point+beer+bottle&safe=off&rlz=1C5CHFA_enUS743US747&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjw0a3wqqLVAhXCbj4KHVSkD-UQ_AUICigB&biw=1458&bih=1234#imgrc=Rw_xD_n7YkossM:\">bottle</a> and the can looked so cool.",
+                    "created": "Mon, 24 Jul 2017 21:51:03 GMT"
+                },
+                {
+                    "text": "New Trump TV show.",
+                    "created": "Mon, 24 Jul 2017 23:13:14 GMT",
+                    "type": "outline",
+                    "urlExpandableImage": "http:///scripting.com/images/2017/07/24/newTrumpTVShow.png"
+                }
+            ]
+        }
+    ]
+}

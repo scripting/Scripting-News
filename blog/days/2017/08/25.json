@@ -1,0 +1,89 @@
+{
+    "text": "August 25",
+    "created": "Fri, 25 Aug 2017 13:10:03 GMT",
+    "name": "25",
+    "subs": [
+        {
+            "text": "Good morning coffee lovers! :coffee:",
+            "created": "Fri, 25 Aug 2017 13:10:04 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I still guess at emoji short codes and still guess wrong. :shrug:",
+            "created": "Fri, 25 Aug 2017 13:10:30 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Trump must love the pardon. He gets to be a monarch. \"He will not be questioned.\" He thinks all of governing should be like that.",
+            "created": "Sat, 26 Aug 2017 02:37:01 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Everyone <a href=\"https://github.com/scripting/pagePark/issues/5\">should</a> know how to run a web server.",
+            "created": "Fri, 25 Aug 2017 19:49:50 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "My first <a href=\"https://twitter.com/davewiner/status/901116867116445696\">rule</a> of software development. ",
+            "created": "Fri, 25 Aug 2017 16:19:50 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/901116867116445696"
+        },
+        {
+            "text": "An iconic <a href=\"https://twitter.com/davewiner/status/901076463432192001\">message</a> to lovers of slavery in the US.",
+            "created": "Fri, 25 Aug 2017 13:39:46 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/901076463432192001"
+        },
+        {
+            "text": "Gruber <a href=\"https://daringfireball.net/2017/08/wading_through_accuweathers_bullshit_response\">exposes</a> a lie by Accuweather re their iOS app. This illustrates something that's missing in tech journalism: We need a general way of debunking tech bullshit, as <a href=\"http://www.politifact.com/\">Politifact</a> does for politicians. Tech companies get away with it because journalists worship the icons of tech. They can do no wrong. And they're cute, like baby squirrels. The tech gods know you think this about them and fully take advantage of it. Also journalists aren't confident in their understanding of technology. ",
+            "created": "Fri, 25 Aug 2017 13:33:20 GMT",
+            "image": "http:///scripting.com/images/2017/08/25/powell.png",
+            "type": "outline"
+        },
+        {
+            "text": "One of the feeds in Instant Dave, the <a href=\"http://scripting.com/rss.json\">one</a> from Scripting News, is not processed through \"River5\", it's handled separately. RSS aggregators are complicated because they have to handle all the variability in feeds. Feeds that omit required elements, or do it creatively or in some cases, wrong. For this feed, I assumed it was correct in every way. I can assure that because I maintain the feed. I wanted to see how different things would be if there was less variability. ",
+            "created": "Fri, 25 Aug 2017 14:17:49 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Fixed a bug in the server behind \"Instant Dave\". If two items appeared on this blog at the same time, it would only push one to the ID client. ",
+            "created": "Fri, 25 Aug 2017 14:59:50 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "BTW, I think \"Instant Dave\" is a prototype for other Instants. I want each of the news sites that I'm most <s>addicted to</s> connected to to have one. I'd keep an app open on my desktop for Qz, TPM, Axios, Maddow, as examples, esp if they included links from other pubs, analogous to my <a href=\"http://scripting.com/links.html\">linkblog</a>. There should be a competiton for a semi-exclusive connection to people I think of as news mongers. People who have a voracious appetite for new useful non-salacious info.  ",
+            "created": "Fri, 25 Aug 2017 15:00:40 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Fixed another \"instant dave\" bug where it would use the wrong value to update the <i>when</i> field of the message display. This would be most obvious on posts that were published out of sequence (which is only likely when another bug was hiding the old post). The date would transform from something like <i>Yesterday at 11:23 AM</i> to <i>32 mins. </i>A misunderstanding in the software. Like most bugs! In any case after today this bug would have remained hidden, possibly forever. Something like a solar eclipse. Glad to have found it. ",
+            "created": "Fri, 25 Aug 2017 15:33:44 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I think I understand Trump",
+            "created": "Fri, 25 Aug 2017 15:48:15 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "There's a recurring character you see in Silicon Valley, not the <a href=\"https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)\">TV show</a> but <a href=\"https://en.wikipedia.org/wiki/Silicon_Valley\">real life</a>. The man-baby. Fully grown, middle-aged, but not wanting to take responsibility. I'm sure there are girl-babies too, but I keep running into the male kind. ",
+                    "created": "Fri, 25 Aug 2017 15:48:20 GMT",
+                    "image": "http:///scripting.com/images/2017/08/25/babyHuey.png"
+                },
+                {
+                    "text": "He keeps getting into deeper and deeper shit, very deliberately, so a father figure can bail him out. He always has a father figure around. They may not know they've been cast in this role. Sometimes the father figure is actually a woman. ",
+                    "created": "Fri, 25 Aug 2017 15:49:21 GMT"
+                },
+                {
+                    "text": "I have been cast in this role myself a few times. It's not a good feeling when you see the pattern repeating. Sooner or later this person is going to have to evolve into an adult, and realize that no one else can really bail him out. ",
+                    "created": "Fri, 25 Aug 2017 15:50:04 GMT"
+                },
+                {
+                    "text": "Trump is one of those peoples, and the really interesting thing is he plays the father-figure role, too, for <a href=\"https://georgelakoff.com/2016/03/02/why-trump/\">voters</a>. He puts on a show. This is how a father talks to children he loves. You can hear it in his speech, not in the words, but in how he relates. If you ignore the words he's a pretty nice guy. The kind of dad who'd throw around a football with you on a Saturday. Maybe more like a fun uncle. But in real life, he's <a href=\"https://en.wikipedia.org/wiki/Baby_Huey\">Baby Huey</a>. Actually an evil Baby Huey. Not a good thing.",
+                    "created": "Fri, 25 Aug 2017 15:51:09 GMT"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "text": "September 14",
+    "created": "Thu, 14 Sep 2017 12:09:23 GMT",
+    "name": "14",
+    "subs": [
+        {
+            "text": "Here's the first release of <a href=\"https://github.com/scripting/publicfolder\">publicFolder</a>. It's a Node app that runs on your desktop and keeps a folder in sync with a location on Amazon S3. We will have a simple-to-use shell soon, but for now, this is for experienced developers. I'm looking for help validating the software, to be sure it works, before building too much on top of it. I see this as essential system software, something we have to be confident in. If you have questions or comments, please post an <a href=\"https://github.com/scripting/publicfolder/issues\">issue</a> on the repo. Here we go! :boom:",
+            "created": "Thu, 14 Sep 2017 14:39:51 GMT",
+            "type": "outline",
+            "image": "http:///scripting.com/images/2017/09/14/salute.png"
+        },
+        {
+            "text": "The first <a href=\"https://github.com/scripting/publicfolder/issues/1\">question</a> is (of course): \"Why isn't it just like everything else ever?\" BTW, no criticism intended. Positioning <i>is</i> important. It's the first thing I think of too when looking at something new. :ok_hand: ",
+            "created": "Thu, 14 Sep 2017 15:13:18 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "In 2013 I <a href=\"http://scripting.com/2013/12/12/howFacebookCanDiversify\">wrote</a> about positioning between Twitter and Facebook.  ",
+            "created": "Thu, 14 Sep 2017 15:52:49 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Something weird happened on my blog today, an <a href=\"https://github.com/scripting/Scripting-News/issues/27\">S3 outage</a> of some kind, 503 (slow down) when it tried to read the CSS file. I wrote it up in case it happens again, I'll find it when I search for it, hopefully.",
+            "created": "Thu, 14 Sep 2017 20:26:48 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "About <a href=\"https://www.nytimes.com/2017/09/13/style/wifi-network-names.html?partner=rss&emc=rss&_r=1\">funny wifi router names</a>. I had a router ten or so years ago called <i>Google Public Wifi. </i>It was rumored that Google was going to deploy a huge free public wifi network in the Bay Area. I lived in an apartment in downtown Berkeley. I was hoping to start a rumor, maybe get it into Gizmodo or something, but it didn't happen. ;-)",
+            "created": "Thu, 14 Sep 2017 15:23:28 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/26#issuecomment-329411730\">SparkyT found</a> a problem with the new arrangement on \"Scripting News\", which I was able to quickly fix. If you spot any further problems, please <a href=\"https://github.com/scripting/Scripting-News/issues/26\">report</a>. Thanks! :four_leaf_clover: ",
+            "created": "Thu, 14 Sep 2017 12:09:24 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Late in the day I realized that Twitter truncated my video about the tab-clicking problem, so I uploaded it <a href=\"https://www.youtube.com/watch?v=PspBzwW1rtk\">to YouTube</a> where they show the whole thing. This video is more like a podcast than a concise demo. There's a little bit of philosophy in there. Hope you enjoy.",
+            "created": "Thu, 14 Sep 2017 12:13:17 GMT",
+            "type": "outline"
+        }
+    ]
+}

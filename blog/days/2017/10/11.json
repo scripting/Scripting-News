@@ -1,0 +1,110 @@
+{
+    "text": "October 11",
+    "created": "Wed, 11 Oct 2017 15:48:06 GMT",
+    "name": "11",
+    "subs": [
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/36\">Braintrust query</a>:  In SQL do updates accumulate or overwrite? ",
+            "created": "Wed, 11 Oct 2017 16:06:43 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "BTW, if you're a regular reader of this blog, you can and should call me Dave. I don't like fancy names. I'm kind of a <a href=\"https://en.wikipedia.org/wiki/Beatnik\">beatnik</a>. And when you call me Mr Winer I am reminded I never got a PhD and that makes me sad. But I get over it quickly. :neutral_face:",
+            "created": "Thu, 12 Oct 2017 01:28:06 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "We hear a lot re men mistreating women. <a href=\"http://www.abc.net.au/news/2017-10-12/mother-who-killed-son-jailed-for-at-least-33-years/9042560\">Here's</a> some gender balance. ",
+            "created": "Thu, 12 Oct 2017 01:30:22 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "What <a href=\"https://twitter.com/davewiner/status/918192055276449798\">happens</a> when a tornado intersects with a fire. ",
+            "created": "Wed, 11 Oct 2017 22:31:52 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/918192055276449798"
+        },
+        {
+            "text": "Reporters of all people should have open minds and be good at listening. But I find it's the opposite. It's a very closed world. I've had a little taste of it from the inside when I wrote for Wired a bunch of years ago. It's not a good thing for a profession that depends on listening.",
+            "created": "Wed, 11 Oct 2017 20:58:33 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I'm going to be in <a href=\"https://en.wikipedia.org/wiki/Boulder,_Colorado\">Boulder</a> on Saturday night, if anyone wants to get together for dinner, or drinks. I remember there's a pretty good Mexican place with Margueritas. If you're doing a Boulder startup, tell me about it. I did office hours in <a href=\"http://scripting.com/stories/2008/08/28/theCommunitySystemForDemo.html\">2008</a> in Boulder with <a href=\"https://www.techstars.com/programs/boulder-program/\">Techstars</a> it was a lot of fun. We can talk about Node, browser-based apps, how to save the world from Trump, you know the usual stuff. :rocket: :boom:",
+            "created": "Wed, 11 Oct 2017 17:24:16 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "So, I just signed up for <a href=\"https://www.trycaviar.com/\">Caviar</a>. They deliver <a href=\"https://www.shakeshack.com/\">Shake Shack</a> in my neighborhood. And I found out they also deliver <a href=\"https://momofuku.com/\">Momofuku</a>. I'm hooked. Then ten minutes later I get an email from <a href=\"https://www.delivery.com/\">Delivery.com</a> offering a 15 percent discount if I order today. You think they have a spy?",
+            "created": "Wed, 11 Oct 2017 15:48:07 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "How to freak out Donald J. Trump",
+            "created": "Thu, 12 Oct 2017 00:36:26 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "1. He tweets out something outrageous.",
+                    "created": "Thu, 12 Oct 2017 00:36:35 GMT"
+                },
+                {
+                    "text": "2. ",
+                    "created": "Thu, 12 Oct 2017 00:36:44 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Enter an emoji using HTML encoded chars",
+            "created": "Wed, 11 Oct 2017 21:02:16 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "First, I wish there was a table somewhere with all the emoji and their hex equivs expressed in HTML format, like this: &#1F4A9; But it's not so bad, you just have to do it for yourself. ",
+                    "created": "Wed, 11 Oct 2017 21:02:29 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Look up the char on this <a href=\"http://www.unicode.org/emoji/charts/full-emoji-list.html\">page</a>, and copy the \"code point value\", something that looks <a href=\"http:///scripting.com/images/2017/10/11/findingEmojiCode.png\">like</a> this: U+1F4A9.",
+                            "created": "Wed, 11 Oct 2017 21:10:07 GMT"
+                        },
+                        {
+                            "text": "Remove the U+ part.",
+                            "created": "Wed, 11 Oct 2017 21:10:38 GMT"
+                        },
+                        {
+                            "text": "Add &amp;#x at the beginning and a semicolon at the end -- yielding: &amp;#x1F4A9; ",
+                            "created": "Wed, 11 Oct 2017 21:10:53 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "Here are the translations of a few characters:",
+                    "created": "Wed, 11 Oct 2017 21:11:43 GMT",
+                    "subs": [
+                        {
+                            "text": "poop == U+1F4A9 == &#x1f4a9; ",
+                            "created": "Wed, 11 Oct 2017 21:03:39 GMT"
+                        },
+                        {
+                            "text": "fire == U+1F525 == &#x1f525; ",
+                            "created": "Wed, 11 Oct 2017 21:03:46 GMT"
+                        },
+                        {
+                            "text": "neutral_face == U+1F610 == &#x1f610; ",
+                            "created": "Wed, 11 Oct 2017 21:04:26 GMT"
+                        },
+                        {
+                            "text": "smile_cat == U+1F63B == &#x1f63b; ",
+                            "created": "Wed, 11 Oct 2017 21:04:30 GMT"
+                        },
+                        {
+                            "text": "clap == U+1F44F == &#x1f44f; ",
+                            "created": "Wed, 11 Oct 2017 21:04:33 GMT"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

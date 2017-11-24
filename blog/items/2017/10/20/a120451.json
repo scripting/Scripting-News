@@ -1,0 +1,47 @@
+{
+    "text": "RSS and podcasting",
+    "created": "Fri, 20 Oct 2017 16:04:51 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "While I was vacationing in Taos, with a very slow Internet connection and a slowed-down mind, I wrote a <a href=\"https://twitter.com/davewiner/status/920846197455183872\">Twitter thread</a> saying I was happy about podcasting, proud of how far it had come, and how many people's lives it was enriching, and because it was open and had no limits it didn't have the problems of platforms that were created roughly at the same time, platforms that are corporate and silo'd, like Twitter and Facebook. ",
+            "created": "Fri, 20 Oct 2017 16:21:13 GMT",
+            "image": "http:///scripting.com/images/2017/10/20/wewon.png"
+        },
+        {
+            "text": "I had just driven a full day from <a href=\"https://www.google.com/maps/dir/Denver,+CO/Taos,+New+Mexico+87571/@38.0487234,-106.3913138,8z/data=!4m15!4m14!1m5!1m1!1s0x876b80aa231f17cf:0x118ef4f8278a36d6!2m2!1d-104.990251!2d39.7392358!1m5!1m1!1s0x871764da7f11fcb1:0x90ea918361a9b782!2m2!1d-105.5730665!2d36.4072485!3e0!5i1\">Denver to Taos</a> and had listened to a bunch of podcasts, more than I had in one day since my cross-country drives in the mid-2000s. Back then there wasn't very much podcasting and since then it has boomed, several times. ",
+            "created": "Fri, 20 Oct 2017 16:04:58 GMT"
+        },
+        {
+            "text": "My thread drew a <a href=\"https://twitter.com/Jason_Rowley/status/920847027428261888\">comment</a> from <a href=\"https://www.crunchbase.com/person/jason-rowley\">Jason Rowley</a>, a writer at <a href=\"https://news.crunchbase.com/news/\">Crunchbase</a>. \"It’s almost like the RSS protocol finally found its killer app. Not in distributing text, but mp3s.\" I know he was being positive, but the comment was wrong from a couple of perspectives. ",
+            "created": "Fri, 20 Oct 2017 16:06:35 GMT"
+        },
+        {
+            "text": "I promised an explanation, so here goes. ",
+            "created": "Fri, 20 Oct 2017 16:10:56 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "First, people focus on the connection between RSS and podcasting, but it's deep technology, most people, users and creators, aren't aware of the connection. That part of the bootstrap, writing the spec, implementing an authoring tool and adding the feature to my RSS reader,  took a couple of days at most. The hard part was figuring out how to get people to do it! It wasn't a matter of \"build it and they will come.\" It was a totally different story, like <a href=\"http://www.pbs.org/marktwain/learnmore/writings_tom.html\">Tom Sawyer</a> and the whitewashed fence. ",
+                    "created": "Fri, 20 Oct 2017 16:11:02 GMT"
+                },
+                {
+                    "text": "Second, RSS was already well on its way when we started up podasting, and would have thrived even if it had not come about. In hindsight the killer app for RSS was the New York Times. Once we had them on board, in April 2002, with daily updates to their feeds, it built out to a news network that to this day is delivering far better results for news consumers than anything else, even Twitter or Facebook. True, most people don't get their news directly from RSS feeds. But the people who really care about news do. ",
+                    "created": "Fri, 20 Oct 2017 16:13:07 GMT"
+                }
+            ]
+        },
+        {
+            "text": "RSS didn't need a killer app, it already had one. And RSS as a basis for podcasting, was essential to the bootstrap, but it was not the hard part. For that, we needed a bit of yeast to get the bread to rise. That came, as far as I'm concerned, from Chris Lydon, myself and then Adam Curry. At that point, we had enough examples for people to get the idea that they could do it too.  ",
+            "created": "Fri, 20 Oct 2017 16:14:33 GMT"
+        },
+        {
+            "text": "Jason's well-intentioned understanding of how podcasting came to be, and what role RSS plays in today's news ecosystem is the one many people have, but it is wrong. Every time I see it I try to correct it. It's important because people who want to follow in the footsteps of RSS and podcasting, and develop open technologies, should know that there's more to it than technology. Without compelling content, that gets other people to do it, you don't even have a good demo. ",
+            "created": "Fri, 20 Oct 2017 16:16:52 GMT"
+        },
+        {
+            "text": "I did a <a href=\"http://scripting.com/2015/09/30/aPodcastAboutPodcasting.html\">podcast</a> about this in 2015, if you want more of the background. ",
+            "created": "Fri, 20 Oct 2017 16:18:39 GMT"
+        }
+    ]
+}

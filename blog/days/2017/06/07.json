@@ -1,0 +1,91 @@
+{
+    "text": "June 7",
+    "created": "Wed, 07 Jun 2017 14:14:31 GMT",
+    "name": "07",
+    "subs": [
+        {
+            "text": "Good morning everybody!",
+            "created": "Wed, 07 Jun 2017 14:14:32 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "More fun with NPM packages. This one <a href=\"https://www.npmjs.com/package/daveopml\">reads OPML files</a> and handles asynchronous <a href=\"http://dev.opml.org/spec2.html#inclusion\">includes</a>. This was formerly a local module of <a href=\"https://github.com/scripting/pagePark\">PagePark</a>. ",
+            "created": "Wed, 07 Jun 2017 17:16:35 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Is World War III starting in the Middle East right now? Qatar, the US, our military base in Qatar, Egypt, ISIS, Saudi Arabia and <a href=\"http://www.reuters.com/article/us-iran-security-idUSKBN18Y0HV\">now Iran</a>, are involved in <a href=\"http://www.memeorandum.com/170607/p48#a170607p48\">what</a>? There's a lot of anger going around. And our president, the idiot savant (hopefully or maybe just the idiot) of international politics seems to be in the middle of it. ",
+            "created": "Wed, 07 Jun 2017 15:35:43 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/06/07/trumpheadsmall.png"
+        },
+        {
+            "text": "If you don't pay attention to which apps have access to your location, your phone is reporting where you are to every company all the time.",
+            "created": "Wed, 07 Jun 2017 15:30:35 GMT",
+            "type": "tweet",
+            "tweetId": "872475954878271492",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "I'm using the word <a href=\"http://thesaurus.land/?word=deplorable\">deplorable</a> more and more. I want to make it a normal word. You can help. When El Presidenté does something deplorable call it that. It's a good word. Let's take it back.",
+            "created": "Wed, 07 Jun 2017 15:07:12 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I almost used Uber yesterday but I noticed something deplorable about the app. They want to know your location but only offer two options. Either you never let them know your location or you always do. And of course you can't use the app if they don't have access to your location. Now you could turn it off after the ride, but most people would forget. If you just ride Uber once they get to spy on you all the time. Fucked up company. ",
+            "created": "Wed, 07 Jun 2017 15:04:55 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Still no mention on MSNBC that <a href=\"http://scripting.com/2017/06/06.html#a050659\">the president is racist</a> and is running the US govt accordingly.",
+            "created": "Wed, 07 Jun 2017 14:48:54 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Re parsing XML in JavaScript apps, there already is a <a href=\"https://github.com/Leonidas-from-XIV/node-xml2js\">simple way</a> to do it. Of course. That's what makes JS such a great environment to develop in. And the really dumb thing is I already knew about it, tried it, <a href=\"https://gist.github.com/scripting/823930d76b887b462ed6b2c8c4870073\">demo'd</a> it. Just 11 days ago. Arrrrgh. Yesterday I <a href=\"http://scripting.com/2017/06/06.html#a040604\">said</a> it would be a great idea. My memory is totally overloaded. Thanks to numerous readers for the reminders. ;-)",
+            "created": "Wed, 07 Jun 2017 14:14:43 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/06/07/clarus.png"
+        },
+        {
+            "text": "The \"If you want the web to love you\" Rule",
+            "created": "Wed, 07 Jun 2017 14:53:07 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I have a better idea with regard to pointing to FB posts. ",
+                    "created": "Wed, 07 Jun 2017 14:51:10 GMT",
+                    "type": "outline",
+                    "image": "http://scripting.com/images/2017/06/07/superman.png"
+                },
+                {
+                    "text": "Since they don't allow outgoing links from blog posts, then the new rule is no links going <i>into</i> FB. Instead, just copy the text from FB and paste it into the open web where it can be linked to. Rescue ideas from Facebook lockin. ",
+                    "created": "Wed, 07 Jun 2017 14:54:00 GMT"
+                },
+                {
+                    "text": "I did that with Dan Conover's post <a href=\"http://scripting.com/2017/06/07.html#a100653\">below</a>. His post is funny, definitely worth a citation on my blog. Instead of complaining in a comment, I just took the text, credited him of course, but no link into FB. ",
+                    "created": "Wed, 07 Jun 2017 14:54:21 GMT"
+                },
+                {
+                    "text": "If you want to be on the web you have to follow the rules of the web. The <a href=\"http://scripting.com/scripting/manila/bloggerCon/ruleoflinks.html\">primary rule</a> is that you link to other people when you want to, not when the platform lets you. ",
+                    "created": "Wed, 07 Jun 2017 14:53:37 GMT"
+                },
+                {
+                    "text": "Whatever justification you have for using FB for blogging, there is no justification for FB not letting you use the most basic feature of the web. ",
+                    "created": "Wed, 07 Jun 2017 15:04:11 GMT"
+                }
+            ]
+        },
+        {
+            "text": "From Dan Conover on FB ",
+            "created": "Wed, 07 Jun 2017 14:28:53 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Actual Politico headline: \"Trump floats idea of using solar panels to pay for Mexico wall.\" Meanwhile, over at The Onion: \"We give up. It's pointless.\"",
+                    "created": "Wed, 07 Jun 2017 14:29:01 GMT"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "text": "A new speclet to review",
+    "created": "Mon, 17 Jul 2017 12:49:13 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "On July 13, I <a href=\"http://scripting.com/2017/07/13.html#a073236\">demoed</a> a new Scripting News feature. ",
+            "created": "Mon, 17 Jul 2017 12:50:28 GMT",
+            "xref": "http://scripting.com/2017/07/13.html#a073236",
+            "permalink": "http://scripting.com/2017/07/17.html#a125028"
+        },
+        {
+            "text": "I provided a little bit of background info on how it works, but not a technical writeup. Now I have the writeup <a href=\"https://github.com/scripting/Scripting-News/blob/master/xrefs/readme.md\">ready for review</a>. ",
+            "created": "Mon, 17 Jul 2017 12:52:04 GMT",
+            "permalink": "http://scripting.com/2017/07/17.html#a125204"
+        },
+        {
+            "text": "I think of it as an experimental feature, something on the way to becoming more general, better documented, and designed to interop between blogging platforms and CMSes. That said, the current design is fully capable of being a basis for interop if there's an interest.",
+            "created": "Mon, 17 Jul 2017 12:53:18 GMT",
+            "permalink": "http://scripting.com/2017/07/17.html#a125318"
+        },
+        {
+            "text": "It's all very small pieces loosely joined, and based on an open JSON format. ",
+            "created": "Mon, 17 Jul 2017 12:53:37 GMT",
+            "permalink": "http://scripting.com/2017/07/17.html#a125337"
+        }
+    ],
+    "permalink": "http://scripting.com/2017/07/17.html#a124913"
+}

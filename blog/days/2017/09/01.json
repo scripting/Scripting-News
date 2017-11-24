@@ -1,0 +1,89 @@
+{
+    "text": "September 1",
+    "created": "Fri, 01 Sep 2017 13:27:49 GMT",
+    "name": "01",
+    "subs": [
+        {
+            "text": "A new <a href=\"http://dave.blog/2017/09/01/theNewDaveblog.html\">purpose</a> for dave.blog. ",
+            "created": "Fri, 01 Sep 2017 15:56:10 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "It would be cool if <a href=\"https://en.wikipedia.org/wiki/Banksy\">Banksy</a> picked a random <a href=\"https://en.wikipedia.org/wiki/Red_states_and_blue_states\">red state</a> to work in a for a bit.",
+            "created": "Sat, 02 Sep 2017 00:29:04 GMT"
+        },
+        {
+            "text": "If you were using <a href=\"https://www.dropbox.com/help/files-folders/public-folder\">Dropbox's public folder feature</a>,  it stopped working earlier today, about five hours ago. The change was announced long in advance, but today was the day it actually stopped working. I was using the public folder of my Dropbox in a few of my apps. It was a great feature, a kind of interprocess communication for Everyman. I wish they had gone the other way and enhanced it, but I understand that it wasn't in their longterm direction. However it is important in <i>my</i> longterm direction. I'm working on a desktop product called <a href=\"http://publicfolder.io/\">Public Folder</a> that does more or less what it used to do. I plan to share the product. ",
+            "created": "Sat, 02 Sep 2017 00:07:04 GMT",
+            "type": "outline",
+            "image": "http:///scripting.com/images/2017/09/01/mrFrog.png"
+        },
+        {
+            "text": "Fresh papaya and lime is the best.",
+            "created": "Fri, 01 Sep 2017 21:23:04 GMT"
+        },
+        {
+            "text": "I've written about <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+%22sources+go+direct%22&t=h_&ia=web\">Sources Go Direct</a> so many times, thanks to Ken Smith for digging up <a href=\"http://scripting.com/2015/10/12/itsStillSourcesGoDirect.html\">this one</a>. I think it's the most concise explainer.  ",
+            "created": "Fri, 01 Sep 2017 19:34:32 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "What if we formed a <a href=\"http://www.cnn.com/videos/weather/2017/08/30/human-chain-harvey-rescue-ath.cnn\">human chain</a> to let people <a href=\"http://talkingpointsmemo.com/dc/trump-hhs-open-enrollment-navigators-sabotage\">know</a> it's time to re-enroll for their Obamacare? That would be some serious and easily doable activism. If we can't organize ourselves to use the health care system we have, then we don't deserve a health care system, imho.",
+            "created": "Fri, 01 Sep 2017 13:27:50 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "All of a sudden <a href=\"http://www.techmeme.com/170901/p1#a170901p1\">reporters realize</a> that Google pushes people around and suppresses ideas they find threatening. As I like to say \"it's even worse than it appears.\" I've been reporting this here since the <a href=\"http://scripting.com/davenet/\">inception</a> of this blog in 1994. Google continues a long tradition of tech companies holding back progress to maintain their dominance.  The web and blogging and have allowed us to circumvent this, to some extent. BTW, of course it's not just Google. There's a continuous chain of <a href=\"https://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt\">bullshit</a> tech companies going back to the beginning. They all do it.  ",
+            "created": "Fri, 01 Sep 2017 13:32:02 GMT",
+            "type": "outline",
+            "image": "http:///scripting.com/images/2017/09/01/bernieSanders.png"
+        },
+        {
+            "text": "It's hard to believe that <a href=\"http://www-03.ibm.com/ibm/history/ibm100/us/en/icons/personalcomputer/words/\">IBM</a> is proud of <i>Nobody ever got fired for buying IBM. </i>It was their patent on mediocrity. How many IBM people hid behind that excuse for not doing something they could do, that the market wanted but they could obstruct because they were seen as the safe non-controversial choice. Of course eventually this ran out, I was happy to be there when it happened. They tried to FUD Windows and Compaq and guess what, it didn't work. :boom:",
+            "created": "Fri, 01 Sep 2017 13:59:02 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "What is an ICO?",
+            "created": "Fri, 01 Sep 2017 14:02:16 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I've reconnected with <a href=\"https://twitter.com/christophera\">Chris Allen</a>, a friend from the Old Mac Days, the mid-late 80s. We used to hang out at the <a href=\"https://developer.apple.com/wwdc/\">WWDC</a> back when it wasn't such a juggernaut and pretty much anyone could buy a ticket. <a href=\"https://www.linkedin.com/in/christophera/\">Chris</a> went on to develop SSL with Netscape, and has become a guru in blockchain technologies. Yesterday on Facebook I asked him what an ICO is:",
+                    "created": "Fri, 01 Sep 2017 14:02:19 GMT",
+                    "subs": [
+                        {
+                            "text": "I want to know what an ICO is. I saw you write about it earlier today. The amounts of money are astounding. Are they real? Can you turn the coins you get into US dollars that you can use to hire people and buy office furniture? Or does the value only exist in a theoretical sense? Or something else entirely?",
+                            "created": "Fri, 01 Sep 2017 14:03:43 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "And Chris had an answer, and it was as I expected, direct and honest.",
+                    "created": "Fri, 01 Sep 2017 14:04:01 GMT",
+                    "subs": [
+                        {
+                            "text": "To avoid securities regulations, an Initial Coin Offering is a cryptographic asset that can be used to purchase access to a network or a service. The computer equivalent of buying a token at the entrance of an arcade that can be used to play arcade and video games.",
+                            "created": "Fri, 01 Sep 2017 14:04:39 GMT"
+                        },
+                        {
+                            "text": "The big change lately is that due to standardization you can easily issue these tokens in exchange for Ethereum or Bitcoin. Once purchased, they can easily be traded back using a cooperative currency exchange. You can then trade these back out for fiat.",
+                            "created": "Fri, 01 Sep 2017 14:18:23 GMT"
+                        },
+                        {
+                            "text": "There are many regulatory questions: many may fail the <a href=\"http://consumer.findlaw.com/securities-law/what-is-the-howey-test.html\">Howey Test</a> thus are actually securities after all and thus issuers, exchanges and sellers may be subject to fines and jail time. Others claim to not be subject to US law as they prohibit sales to US citizens.",
+                            "created": "Fri, 01 Sep 2017 14:05:20 GMT"
+                        },
+                        {
+                            "text": "I think there are valid uses for cryptographic tokens, but am quite concerned that many of these are little more than scams. Others are well intentioned but not well thought out."
+                        },
+                        {
+                            "text": "I personally want more tools to support shared commons, and current ICOs are about halfway there. Thus my focus more on <a href=\"http://www.tokenethics.com/\">TokenEthics</a>.",
+                            "created": "Fri, 01 Sep 2017 14:07:30 GMT"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "text": "Site restoration notes",
+    "created": "Sun, 01 Oct 2017 17:40:03 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I have a server that's been unreliable, running software that I no longer wish to maintain. The result -- a lot of archive sites are offline. I'm going to work gradually over time to bring them back, using more reliable software. ",
+            "created": "Sun, 01 Oct 2017 17:40:08 GMT",
+            "image": "http:///scripting.com/images/2017/10/01/dubya.png"
+        },
+        {
+            "text": "They are the sites I created in the period 2008 through 2013, using the worldoutline software. I had the idea that domains and documents should be one and the same. Turns out there weren't so many advantages to that as I thought, and Google and EFF et al with their push to HTTPS made that an expensive decision. None of these sites can make that transition. There are too many -- a thousand of them, or so it seems. ",
+            "created": "Sun, 01 Oct 2017 17:41:01 GMT"
+        },
+        {
+            "text": "Side-note, this is why platform vendors with their seemingly arbitrary \"deprecations\" are so poisonous to longterm creativity of developers. I'm sure it never occurred to Google or Mozilla that someone had tried to innovate this way. They can't keep up with everything, and aren't inclined to. That's the way big companies are. That's why the web was so enticing. No platform vendor to fuck with you. Well, Google wants to be the platform vendor for the web, and now we're dealing with the usual malaise that platform vendors bring. ",
+            "created": "Sun, 01 Oct 2017 17:42:36 GMT"
+        },
+        {
+            "text": "Anyway, you'll see me pointing to various sites today and hopefully in the future as they get resurrected in the new way of things. ",
+            "created": "Sun, 01 Oct 2017 17:44:18 GMT"
+        },
+        {
+            "text": "Two to start with: <a href=\"http://morningcoffeenotes.com/\">morningcoffeenotes.com</a> and <a href=\"http://rsscloud.co/\">rsscloud.co</a>.",
+            "created": "Sun, 01 Oct 2017 17:46:57 GMT"
+        },
+        {
+            "text": "In 2013 I wrote the <a href=\"http://forewordbootstrap.blorkmark.com/\">foreword</a> to an O'Reilly book about the Bootstrap Toolkit. ",
+            "created": "Sun, 01 Oct 2017 22:52:22 GMT"
+        }
+    ]
+}

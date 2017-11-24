@@ -1,0 +1,75 @@
+{
+    "text": "September 12",
+    "created": "Tue, 12 Sep 2017 15:27:51 GMT",
+    "name": "12",
+    "subs": [
+        {
+            "text": "Good morning new-product-from-Apple fans. :apple:",
+            "created": "Tue, 12 Sep 2017 15:27:52 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "You know <a href=\"https://twitter.com/HITEXECUTIVE/status/907378269342769152\">who</a> cares what Hillary Clinton has to say?",
+            "created": "Wed, 13 Sep 2017 02:03:18 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/HITEXECUTIVE/status/907378269342769152"
+        },
+        {
+            "text": "Serious fake news. You hear this idea all over the place. The Russians couldn't have known to target Facebook users without help from Americans. This is a crazy idea. Russia is on the Internet. Data moves around the net very easily. Someone in Moscow could have just as much info about America as someone in Boston. Crazy. ",
+            "created": "Tue, 12 Sep 2017 23:05:01 GMT",
+            "type": "outline",
+            "image": "http:///scripting.com/images/2017/09/12/obamaBobblehead.png"
+        },
+        {
+            "text": "<a href=\"http://nypost.com/2017/09/12/espns-nonsense-rankings-made-carmelo-anthony-angry/\">Melo</a>, if you want respect, take a chance. No glory for you available on the Knicks. Find a cause worth fighting for. ",
+            "created": "Tue, 12 Sep 2017 23:15:47 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Got a <a href=\"https://github.com/scripting/Scripting-News/issues/26\">report</a> that clicking on tabs on mobile devices does not work. I am able to reproduce it here. I will look into that first thing tomorrow, with a fresh start. It's been a long (successful) day! ",
+            "created": "Tue, 12 Sep 2017 21:35:21 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Update at 12:40PM Eastern: I replaced the old JS and CSS files with the new ones that support the tabbed home page. Here's an example of a <a href=\"http://scripting.com/2017/09/\">month archive</a> page, and a <a href=\"http://scripting.com/2017/09/08.html\">day archive</a> page. They seem to work. I see a few CSS glitches. (The color of the wedges on the Twitter inclusions are wrong.) I still have to add the <a href=\"https://github.com/scripting/Scripting-News/issues/25#issuecomment-328613821\">fix</a> for arrow keys and Page Up and Down. ",
+            "created": "Tue, 12 Sep 2017 16:40:54 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "The corner is turned. There are <a href=\"http:///scripting.com/images/2017/09/12/tabsOnHomePage.png\">tabs on the home page</a>. Still loose ends to tie up. I have to edit the links in the sidebar and on the About tab. Re-integrate the new JS file with the one used prior to this turn. Same with CSS. But the heavy lifting appears to be done as of 11:52AM Eastern. Knock wood. Praise Murphy. I am not a lawyer. It's even worse than it appears. :boom:",
+            "created": "Tue, 12 Sep 2017 15:51:32 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I tried watching the Apple keynote. I closed the window when he started talking about the new visitor center. I'm sorry, I don't care.  ",
+            "created": "Tue, 12 Sep 2017 17:12:50 GMT",
+            "type": "outline",
+            "image": "http:///scripting.com/images/2017/09/12/pitcher.png"
+        },
+        {
+            "text": "What <a href=\"https://twitter.com/thereaIbanksy/status/907644988636397568\">you</a> think of yourself is more important than what others think of you.",
+            "created": "Tue, 12 Sep 2017 17:40:13 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/thereaIbanksy/status/907644988636397568"
+        },
+        {
+            "text": "Apple products coming today",
+            "created": "Tue, 12 Sep 2017 17:01:50 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Briefly, I don't expect to want any of them. ",
+                    "created": "Tue, 12 Sep 2017 17:01:56 GMT"
+                },
+                {
+                    "text": "I have a watch, an iPhone 6, two iPads (one mini, one medium), an Apple TV, a PowerBook, two iMacs. ",
+                    "created": "Tue, 12 Sep 2017 17:02:05 GMT"
+                },
+                {
+                    "text": "Apple has made some compelling and useful products, but for now I'm happy with what I have. Let's see if anything announced changes that. I love computer lust. It's been a while. ",
+                    "created": "Tue, 12 Sep 2017 17:02:28 GMT"
+                }
+            ]
+        }
+    ]
+}

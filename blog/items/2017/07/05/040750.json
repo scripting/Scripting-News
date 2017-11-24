@@ -1,0 +1,23 @@
+{
+    "text": "pngWriter is of the #indieweb",
+    "created": "Wed, 05 Jul 2017 20:55:50 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "\"pngWriter\" is different from the usual <a href=\"https://duckduckgo.com/?q=%23indieweb&t=h_&ia=web\">#indieweb</a> approach.",
+            "created": "Wed, 05 Jul 2017 20:55:58 GMT",
+            "permalink": "http://scripting.com/2017/07/05.html#a040758"
+        },
+        {
+            "text": "Instead of providing an off-Twitter place to post and figuring out how to integrate it with Twitter, as a secondary function, pngWriter posts directly to Twitter, that's its primary purpose. And it also provides an \"RSS 2.0\" feed, so the same flow can be integrated with <i>open web</i> apps. :balloon:",
+            "created": "Wed, 05 Jul 2017 20:56:13 GMT",
+            "permalink": "http://scripting.com/2017/07/05.html#a040713"
+        },
+        {
+            "text": "It's also highly customizable through CSS, another open standard. So you can make pngWriter posts look however you want. I've experimented with the style used by NPR and the NYT for their pngWriter-like Twitter posts, for example.",
+            "created": "Wed, 05 Jul 2017 20:56:56 GMT",
+            "permalink": "http://scripting.com/2017/07/05.html#a040756"
+        }
+    ],
+    "permalink": "http://scripting.com/2017/07/05.html#a040750"
+}

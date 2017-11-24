@@ -1,0 +1,50 @@
+{
+    "text": "Diary of a MySQL noob, Part 2",
+    "created": "Fri, 06 Oct 2017 14:06:40 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I've made a lot of progress, but it hasn't been pretty. Here's the story.",
+            "created": "Fri, 06 Oct 2017 14:40:43 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "It's going slowly as I fumble around in an old semi-familiar place. I know what I want, in user terms, but have to translate that into a database that's running on a system others can access.",
+                    "created": "Fri, 06 Oct 2017 14:07:03 GMT"
+                },
+                {
+                    "text": "My only experience with SQL was in 1978, as a grad student at <a href=\"https://www.cs.wisc.edu/\">UW</a>, I took an introductory class to databases. I don't remember why I chose that class, maybe it was a requirement? I also don't remember how the database was set up, how we submitted our queries and how we got back the results. It's possible the work was done on punch cards and printouts. That's how long ago it was. I do remember having fun with it once I figured out what it was doing. ",
+                    "created": "Fri, 06 Oct 2017 14:08:10 GMT"
+                },
+                {
+                    "text": "Between then and now, I've used all kinds of data storage systems, mostly ones I wrote myself, for outliners, for the object database in Frontier, stuff like that. I only had a couple of apps in all those years that used SQL, other devs did the database work. Now I want to learn how to build these kinds of apps. I've put this off for too long.",
+                    "created": "Fri, 06 Oct 2017 14:26:29 GMT"
+                },
+                {
+                    "text": "Yesterday, I got MySQL running on my desktop Mac through MAMP. The instructions were better than with the download from the main Oracle site. But they weren't really good. It's common in this world to leave out the bridge you need to get from installing to using. In this case, they didn't tell you there's an app in the Applications folder called MAMP.app, that it put there. They also didn't tell you that you can access a local web page to find a dashboard for the MySQL server. They also never told you there's a <a href=\"https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop\">REPL</a> available at the command line called mysql and you can type SQL queries at it. I figured it had to be there, why have a command-oriented language like SQL if you can't enter it interactively? All of this info should have been in a bulleted list. These are the things you need to know to get started. 1. 2. 3. ",
+                    "created": "Fri, 06 Oct 2017 14:09:45 GMT"
+                },
+                {
+                    "text": "Anyway, after getting it up, and running a few commands, I quickly realized having it local will do no good, I need it on a server. I tried setting up a new server with MySQL on it, first on Amazon and then on Digital Ocean. On Amazon I went through <a href=\"https://aws.amazon.com/rds/aurora/?sc_channel=PS&sc_campaign=pac_ps_q4&sc_publisher=google&sc_medium=aurora_rds_b_pac_q42017&sc_content=aurora_e&sc_detail=amazon%20aurora&sc_category=aurora&sc_segment=webp&sc_matchtype=e&sc_county=US&sc_geo=namer&sc_outcome=pac&s_kwcid=AL!4422!3!224583983660!e!!g!!amazon%20aurora&ef_id=WQkVoQAAANfCJBGW:20171006143058:s\">Amazon Aurora</a>, I don't know exactly what it's supposed to be. It sounded like it was supposed to be an easy hosted way to run MySQL; it was the <i>easy</i> part that attracted me to it. This time instead of not finding the bridge, I was asked to make a lot of decisions that 1. I had no idea how to make and 2. I suspected would not make a difference for my first application. They could have made these decisions for me, with good defaults, and I probably would be using their service now. Instead after guessing at answers on the first page, offered yet another page of impossible choices. At that point I realized I was deep in a rabbit hole. I closed the tab and moved on. ",
+                    "created": "Fri, 06 Oct 2017 14:13:45 GMT"
+                },
+                {
+                    "text": "The problem I hit on Digital Ocean that stopped me was that I couldn't figure out how to access the database from code running on my desktop. I know it's possible. The security program I ran offered me the option to do it, but it still wouldn't accept operations from my desktop. Okay so I have to run Node on the machine, and that means I have to run Dropbox, so I can update the code as I iterate. Setting that up was problematic, because I had chosen a machine size that I didn't think was up to running Dropbox. I could start over, but I had another idea.",
+                    "created": "Fri, 06 Oct 2017 14:17:44 GMT"
+                },
+                {
+                    "text": "I have a couple of underutilized servers. I chose the one on Digital Ocean because I had been able to install MySQL there. The server already had Node installed and Dropbox. It was ready to go. I hadn't wanted to install MySQL on an existing server for fear I would do something I couldn't undo --  but at this point I had already uninstalled it once, and was pretty confident I wouldn't break anything. So I sucked in my breath, said a prayer and installed MySQL, wrote a test app in Node, and hit another wall. My new app needed the new version of Node, there was a <a href=\"https://github.com/sass/node-sass/issues/2100\">problem</a> <a href=\"https://github.com/hapijs/boom/issues/164\">with</a> the <i>request</i> package, I had seen before on another server. So I fumbled around for about an hour trying to remember how I worked around this problem last time. I ended up completely reinstalling Node and then, boom, my little MySQL app worked! It showed an error message that it couldn't find the database. Correct, I hadn't created it yet. ",
+                    "created": "Fri, 06 Oct 2017 14:19:54 GMT"
+                },
+                {
+                    "text": "This morning I created the database, added a table, added a record to the table, did a query, and yaha it all worked. Now I get to think about next steps.",
+                    "created": "Fri, 06 Oct 2017 14:23:38 GMT"
+                },
+                {
+                    "text": "PS: If you have comments, add them to the <a href=\"https://github.com/scripting/Scripting-News/issues/34#issuecomment-334775438\">ongoing</a> thread. Thanks!!",
+                    "created": "Fri, 06 Oct 2017 14:42:00 GMT"
+                }
+            ]
+        }
+    ]
+}

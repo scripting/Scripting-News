@@ -1,0 +1,67 @@
+{
+    "text": "October 27",
+    "created": "Fri, 27 Oct 2017 13:38:55 GMT",
+    "name": "27",
+    "subs": [
+        {
+            "text": "On the <a href=\"https://twitter.com/davewiner/status/923973759312293890\">Internet</a> no one knows you're Russian. ",
+            "created": "Fri, 27 Oct 2017 18:06:24 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/923973759312293890"
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/923913025362546688\">What</a> is the correct <a href=\"http://www.grammar-monster.com/glossary/collective_nouns.htm\">collective noun</a> for a group for trolls?",
+            "created": "Fri, 27 Oct 2017 14:06:34 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/923913025362546688"
+        },
+        {
+            "text": "I've been trying to figure out how to put this idea in words. The world is teetering on the edge of nuclear war. The American president is provoking it. Meanwhile, most people are trying to get ahead as if everything was normal. Nazis marched in the street this summer, killed an innocent protestor, yet were defended by the same president. Very fine people, he <a href=\"https://duckduckgo.com/?q=%22very+fine+people%22&t=hg&ia=news\">said</a>. Companies are ripping off customers, shutting down the EPA, and journalism is thinking about page views, and congress people are thinking about reelection. As if any of that has any meaning in a world where <i>even one</i> nuclear weapon is detonated in war. I don't think people understand how much danger we are in right now. ",
+            "created": "Fri, 27 Oct 2017 15:25:46 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Brian's query",
+            "created": "Fri, 27 Oct 2017 15:14:48 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Last night I went to a panel run by the <a href=\"http://nycmedialab.org/\">NYC Media Lab</a>, a new thing. One of the presenters was <a href=\"https://en.wikipedia.org/wiki/Brian_Stelter\">Brian Stelter</a> of CNN. He wished he had an app that sent him email when one of his stories was on the front page, so he could do a quick review and edit. He said he didn't know who to ask.  I thought it was a good and interesting idea. ",
+                    "created": "Fri, 27 Oct 2017 15:15:01 GMT"
+                },
+                {
+                    "text": "I love ideas that come from users, because it means there will be at least one user for the software. Maybe others want it too. Such ideas have grounding. ",
+                    "created": "Fri, 27 Oct 2017 15:24:33 GMT"
+                },
+                {
+                    "text": "If the web were developing well, from its humble beginnings in the 90s, by now a website would be a scriptable data structure that could be queried. You'd write a script in a BASIC-like language that got a pointer to the structure representing cnn.com, looked at the list of articles. If any had Stelter as the author, send him an email. It says something when users think of simple features, but the system isn't flexible enough so that the answer is almost as easy as stating the question. Honestly I thought we would have been here by 2017. ",
+                    "created": "Fri, 27 Oct 2017 15:17:27 GMT",
+                    "image": "http://scripting.com/2016/10/26/pantsuits.png"
+                },
+                {
+                    "text": "With all that as a preamble, it wouldn't be too hard to write Brian's script as a Node app. I might do it for him as a demo that the open web is still here, and wants to work with smart users. It really is true -- the HTML of <a href=\"http://www.cnn.com/\">cnn.com</a> is publicly accessible. It could be searched every few minutes and you could probably figure out if one of his stories is on the home page. ",
+                    "created": "Fri, 27 Oct 2017 15:15:20 GMT"
+                },
+                {
+                    "text": "I might write it unless someone else beats me to it. :boom:",
+                    "created": "Fri, 27 Oct 2017 15:25:08 GMT"
+                },
+                {
+                    "text": "BTW, I haven't been to the home page of cnn.com in a long time. It's gotten a lot leaner and simpler. Whoever is resposible for that, thanks and good work! ",
+                    "created": "Fri, 27 Oct 2017 15:19:23 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Should yes, and only yes, mean yes? ",
+            "created": "Fri, 27 Oct 2017 14:29:42 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://www.vox.com/culture/2017/10/23/16517948/sexual-assault-america-weinstein-trump\">Ezra Klein</a>: \"Sex is too powerful, too primal, too uncertain to be chained to legalistic consent rules. What if she’s your wife? What if he’s your longtime boyfriend? What if you’re both so turned on that you can barely think, can barely talk, but everyone’s every movement is a yes unto itself?\"",
+                    "created": "Fri, 27 Oct 2017 14:29:51 GMT"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "text": "Morning coffee notes",
+    "created": "Fri, 15 Sep 2017 13:59:37 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Good morning everyone. Nothing special on the calendar for today. Apple's products are announced. <a href=\"https://github.com/scripting/publicfolder\">publicFolder</a> package is released. I'm thinking about new projects for the fall and beyond. Hope everyone is healthy and happy. ",
+            "created": "Fri, 15 Sep 2017 13:19:43 GMT",
+            "type": "outline",
+            "image": "http:///scripting.com/images/2017/09/15/uhuru.png"
+        },
+        {
+            "text": "Wouldn't it be nice to have a random emoji? An emoji that when viewed generates a random choice every time? I'm going to simulate it now by closing my eyes and randomly clicking on a short code on this <a href=\"https://www.webpagefx.com/tools/emoji-cheat-sheet/\">page</a>. :pushpin: ",
+            "created": "Fri, 15 Sep 2017 13:21:07 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "JavaScript is getting <a href=\"https://blog.pragmatists.com/top-10-es6-features-by-example-80ac878794bb\">too big</a>. I wish that the Ecmascript working group, instead of adding more obscure features that <i>people will use</i> (and therefore I have to understand to be able to follow their code), would work on a profile (or subset) of the language, that includes a single construct to do each thing, and no more. One way to write a function, for example. No conditional assignment (even though I use it, and think it's clearer in some cases). Languages that get too <a href=\"https://en.wikipedia.org/wiki/Software_bloat\">big</a> become dinosaurs more quickly. What was the <a href=\"https://en.wikipedia.org/wiki/Ada_(programming_language)\">name</a> of that language that was supposed to replace C and Pascal because it had everything everyone could ever want? ",
+            "created": "Fri, 15 Sep 2017 13:27:04 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Sometimes I do picture searches to find things for the right margin. I stumbled across <a href=\"https://www.nobelprize.org/nobel_prizes/physics/laureates/2004/wilczek_bio_1.jpg\">this picture</a> of my friend Betsy Devine, long before I knew her. People who are beautiful, like <a href=\"http://images.scripting.com/archiveScriptingCom/2005/01/27/63900005.jpg\">Betsy</a>, are beautiful their whole lives. ",
+            "created": "Fri, 15 Sep 2017 13:32:44 GMT",
+            "type": "outline"
+        }
+    ]
+}

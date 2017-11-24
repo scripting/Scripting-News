@@ -1,0 +1,5 @@
+{
+    "text": "A couple of small improvements to \"Instant Dave\". 1. We now only show notifications for posts you are able to see in the timeline. 2. And we strip the HTML from the notifications, since they aren't correctly interpreted by the Notification Manager on the Mac. The new version, v0.5.4, is now available for download. ",
+    "created": "Fri, 15 Sep 2017 18:09:33 GMT",
+    "type": "outline"
+}

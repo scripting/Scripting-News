@@ -1,0 +1,106 @@
+{
+    "text": "May 28",
+    "created": "Sun, 28 May 2017 12:25:19 GMT",
+    "name": "28",
+    "subs": [
+        {
+            "text": "I bet many of the leaks Trump is so angry about come from people he hired, who he thinks of as loyal to him. ",
+            "created": "Mon, 29 May 2017 03:33:38 GMT",
+            "tweetId": "869034154402426881",
+            "tweetUserName": "davewiner",
+            "type": "tweet"
+        },
+        {
+            "text": "Leftovers, Handmaid, Fargo, all current TV series, w interlocking plots re the way the world is currently ending. They even share actors.",
+            "created": "Mon, 29 May 2017 03:31:07 GMT",
+            "tweetId": "869033417773658112",
+            "tweetUserName": "davewiner",
+            "type": "tweet"
+        },
+        {
+            "text": "Safari and Chrome go to great lengths to prevent us from viewing RSS files in the browser. This app circumvents them. ",
+            "created": "Sun, 28 May 2017 16:52:27 GMT",
+            "type": "link",
+            "url": "http://xmlviewer.scripting.com/?url=http%3A%2F%2Fscripting.com%2Frss.xml"
+        },
+        {
+            "text": "Nearing the moment when the Old School version of Scripting News becomes the real version. The todo list is getting quite short. ",
+            "created": "Sun, 28 May 2017 13:33:34 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Some people are dicks and do ugly stuff like shitting on the floor in other people's houses. Social Justice Warriors on The Internet know just what to do. When they visit your house they shit on your floor just like the people they are oppressed by. That'll show them! :balloon:",
+            "created": "Sun, 28 May 2017 12:25:20 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "If we survive this",
+            "created": "Mon, 29 May 2017 03:38:21 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "So many sentences these days begin with <i>If we survive this. </i>Well, if we survive this, there will certainly be a movie about Donald Trump. Probably many. Will there be something like the <a href=\"https://www.youtube.com/watch?v=t7PmzdINGZk\">scene</a> from the <a href=\"https://en.wikipedia.org/wiki/Downfall_(2004_film)\">bunker</a> where Hitler <a href=\"https://www.youtube.com/watch?v=PivpCKEiQOQ\">hears</a> how something is fucked up and gets really upset about it? Will we come to think of Trump as a joke? Or what?",
+                    "created": "Mon, 29 May 2017 03:38:51 GMT",
+                    "image": "http://scripting.com/images/2017/05/28/trumpHead.png"
+                },
+                {
+                    "text": "And who will play Trump? I have a feeling Brad Pitt will make a good Trump. I wouldn't be surprised if he's thinking about it now.",
+                    "created": "Mon, 29 May 2017 03:40:03 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Feature request for AWS",
+            "created": "Sun, 28 May 2017 14:25:32 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "A URL that includes a path to a folder in S3. When you open that URL in the web browser, a page opens up with S3 viewing that path. This would save me a lot of steps and scrolling. Buckets can get very long, esp over many years!",
+                    "created": "Sun, 28 May 2017 14:25:42 GMT"
+                },
+                {
+                    "text": "Of course please let me know if this feature already exists.",
+                    "created": "Sun, 28 May 2017 14:26:04 GMT"
+                },
+                {
+                    "text": "Update: Of course it does. Just <a href=\"http://scripting.com/images/2017/05/28/s3url.png\">look</a> in the address area in the browser. ;-)",
+                    "created": "Sun, 28 May 2017 14:31:19 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Why I don't generally give each variable declaration its own line",
+            "created": "Sun, 28 May 2017 14:15:59 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Some variable declarations are code that needs to be read, and others are just declarations and only significant for where they are declared. ",
+                    "created": "Sun, 28 May 2017 14:16:12 GMT"
+                },
+                {
+                    "text": "By putting a name in a long list, I'm telling the reader to just skip over this shit, it's not important. Some code needs to tucked out of the way. ",
+                    "created": "Sun, 28 May 2017 14:20:21 GMT"
+                },
+                {
+                    "text": "If code stretches out vertically, slow down. You need to understand this. ",
+                    "created": "Sun, 28 May 2017 14:17:54 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Two things that must make it into the next frontier.root",
+            "created": "Sun, 28 May 2017 14:18:57 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "1. When you create a new headline, it is automatically given a <i>created</i> attribute with the value of clock.now ().",
+                    "created": "Sun, 28 May 2017 14:19:31 GMT"
+                },
+                {
+                    "text": "2. In the right-click menu, a command to open the atts of the BCH in a window. ",
+                    "created": "Sun, 28 May 2017 14:19:40 GMT"
+                }
+            ]
+        }
+    ]
+}

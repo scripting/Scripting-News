@@ -1,0 +1,147 @@
+{
+    "text": "May 29",
+    "created": "Mon, 29 May 2017 14:56:41 GMT",
+    "name": "29",
+    "subs": [
+        {
+            "text": "Twitter is a perverse way to tell stories. Even an early IBM PC w 640K was a more proficient communicator.",
+            "created": "Tue, 30 May 2017 03:01:00 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Have you noticed that Trump makes a really good sidebar image? There are <a href=\"https://www.google.com/search?q=trump&safe=off&rlz=1C5CHFA_enUS743&source=lnms&tbm=isch&sa=X&ved=0ahUKEwim-qeHr5bUAhWF6oMKHTcMDccQ_AUIDCgD&biw=1323&bih=1059&dpr=2#safe=off&tbm=isch&q=trump+head\">lots</a> of these around the web. Other people must be doing something like this. ",
+            "created": "Tue, 30 May 2017 00:32:02 GMT",
+            "image": "http://scripting.com/images/2017/05/29/trumpGiveMeABreak.png",
+            "type": "outline"
+        },
+        {
+            "text": "BTW, to people who follow <a href=\"http://scripting.com/\">Scripting News</a> in a feed reader, you may notice problems with some of the items, like the one you're reading now. In the new scheme, there will be posts that don't have titles. They're like tweets. Some of them <i>are</i> tweets. Not this one because it has more than 140 chars. Anyway, there will be items without titles. If you have questions, please post an <a href=\"https://github.com/scripting/Scripting-News/issues\">issue</a> on the Scripting News repo on GitHub. ",
+            "created": "Tue, 30 May 2017 00:27:52 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Now I get to clean up all the loose ends after the upheaval that just happened in my content system. Lots of sawdust on the floor. Wires that haven't been hooked up yet. ",
+            "created": "Tue, 30 May 2017 00:26:45 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "The new/old Scripting News",
+            "created": "Mon, 29 May 2017 16:56:06 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "At 12:55PM I flipped the switch and the new <a href=\"http://scripting.com/\">Scripting News</a> home page and sub-pages are now live. I'm sure now all hell will break loose! :balloon:",
+                    "created": "Mon, 29 May 2017 16:56:12 GMT",
+                    "image": "http://scripting.com/images/2017/05/18/trumpHead.png"
+                },
+                {
+                    "text": "It's the Old School approach that I <a href=\"http://scripting.com/2017/05/05/iWantMyOldBlogBack.html\">wrote about</a> at the beginning of May. It's taken me most of the month to make the new software. I did it carefully and slowly. With a lot of attention to detail, especially stuff that's not visible.  ",
+                    "created": "Mon, 29 May 2017 16:56:47 GMT"
+                },
+                {
+                    "text": "There still are loose-ends to clean up. Changes that couldn't be made until the new site was in place. ",
+                    "created": "Mon, 29 May 2017 16:57:49 GMT"
+                },
+                {
+                    "text": "There will be breakage. For example the <a href=\"http://scripting.com/rss.xml\">RSS feed</a> now has many titleless items in it. The new blogging system encourages that. Never should have moved away from that when Twitter came about. Now we're undoing that mistake.",
+                    "created": "Mon, 29 May 2017 16:58:16 GMT"
+                },
+                {
+                    "text": "We'll see what else breaks. For now wheee! :-)",
+                    "created": "Mon, 29 May 2017 16:59:05 GMT"
+                },
+                {
+                    "text": "<i>Still diggin!</i>",
+                    "created": "Mon, 29 May 2017 16:59:34 GMT"
+                },
+                {
+                    "text": "PS: The <a href=\"http://scripting.com/links.html\">linkblog</a>, <a href=\"http://scripting.com/river.html\">river</a> and <a href=\"http://scripting.com/about.html\">about</a> tabs are all still here, but now on their own pages. The old bookmarks should continue to work (they redirect to the new locations).",
+                    "created": "Mon, 29 May 2017 17:04:27 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Creation myths",
+            "created": "Mon, 29 May 2017 15:33:31 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "We all unconsciously remember the creation myths of companies, not the reality of who they are today. ",
+                    "created": "Mon, 29 May 2017 15:33:34 GMT",
+                    "image": "http://scripting.com/images/2017/05/29/ronaldMcDonald.png"
+                },
+                {
+                    "text": "The companies encourage us to do this. ",
+                    "created": "Mon, 29 May 2017 18:02:55 GMT"
+                },
+                {
+                    "text": "For example, Apple is Steve Jobs.",
+                    "created": "Mon, 29 May 2017 15:34:06 GMT"
+                },
+                {
+                    "text": "RIght? We keep expecting a product Steve would make from the company he left behind. But it is just a company. Steve is <a href=\"https://9to5mac.com/2017/05/29/woz-apple-future/\">gone</a>.",
+                    "created": "Mon, 29 May 2017 15:34:13 GMT"
+                },
+                {
+                    "text": "Who knows if there ever was a <a href=\"https://en.wikipedia.org/wiki/Colonel_Sanders\">Colonel Sanders</a>, but he's long gone now, and the character they get to play him helps us think that the company, which is a <a href=\"https://en.wikipedia.org/wiki/KFC\">subsidiary</a> of a giant <a href=\"https://en.wikipedia.org/wiki/Yum!_Brands\">multinational</a>, is run by a folksy hometown funny old dude. ",
+                    "created": "Mon, 29 May 2017 15:34:48 GMT"
+                },
+                {
+                    "text": "There are examples everywhere. If in doubt look the company up on Wikipedia and see who owns it. ",
+                    "created": "Mon, 29 May 2017 15:36:07 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Another source code clue",
+            "created": "Mon, 29 May 2017 15:42:20 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "If I give a variable a short name or all lowercase, then you can bet it's very local. ",
+                    "created": "Mon, 29 May 2017 15:42:25 GMT"
+                },
+                {
+                    "text": "I thought I had stopped doing this, it came up in one of my talks with Brent last week, but I do still do it. I just did it in fact in some new code I wrote. ",
+                    "created": "Mon, 29 May 2017 15:43:38 GMT"
+                },
+                {
+                    "text": "And it shows up everywhere. ",
+                    "created": "Mon, 29 May 2017 15:44:08 GMT"
+                },
+                {
+                    "text": "For example, a string that just appears in a calculation to save time or space, or to make the code more debuggable (I can examine an intermediate value more easily) will probably be called <i>s</i>. ",
+                    "created": "Mon, 29 May 2017 15:44:13 GMT"
+                },
+                {
+                    "text": "A parameter to a callback routine that's used once in the first line of the callback might also be called <i>s, jsontext</i> or <i>htmltext</i>. If it was going to be used throughout the callback, or after a few lines of code, it would get a longer or more descriptive name. Probably would still be all lowercase though.",
+                    "created": "Mon, 29 May 2017 15:44:53 GMT"
+                },
+                {
+                    "text": "If it's a local declared at the top of a complex function, it would get a camelCase name, to signal to the reader that it's more important, and also to make it possible to search for it. A variable named <i>s</i> would be problematic because there might be more than one in different scopes, not the same variable. ",
+                    "created": "Mon, 29 May 2017 15:46:16 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Thoughts about political thinking",
+            "created": "Mon, 29 May 2017 14:56:42 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "David Frum <a href=\"http://www.mediaite.com/tv/david-frum-trump-teams-russian-contacts-not-a-crime-but-a-loyalty-issue/\">says</a> rightly we need to think in terms of what we know not necessarily what is a crime. If we know our president thinks and acts like a Russian, we can't overlook that even if it isn't a crime. Think about the criteria you would use when deciding to fire or break up with someone. They don't have to have committed a crime for you to do either. ",
+                    "created": "Mon, 29 May 2017 14:56:51 GMT",
+                    "image": "http://scripting.com/images/2017/05/29/wonderWoman.png"
+                },
+                {
+                    "text": "Another thought. Political groups and businesses use positioning to divide us into segments. Sometimes this is relatively harmless, as in positioning a product as appealing to <a href=\"https://www.secret.com/en-us\">women</a> or <a href=\"https://www.youtube.com/watch?v=NcGhLcVqxf0\">upper middle class</a> people. But when it segments us on racial lines, or appeals to hate, then it is something to call out. ",
+                    "created": "Mon, 29 May 2017 14:58:39 GMT"
+                },
+                {
+                    "text": "A great example was the Wonder Woman movie. The promoters <a href=\"https://thenextweb.com/facebook/2017/05/26/theater-decimates-facebook-critics-ladies-wonder-woman-screening/#.tnw_XcYQszSG\">used</a> gender division to promote their product. It worked. And they left us with a wound and one more political division to deal with. It's always a good idea to put your circumstance, race, age, gender etc aside when deciding if a cause is worth supporting. It ought to matter a lot if there'e a for-profit product in the middle of the pitch.",
+                    "created": "Mon, 29 May 2017 15:00:14 GMT"
+                }
+            ]
+        }
+    ]
+}

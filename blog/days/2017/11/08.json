@@ -1,0 +1,188 @@
+{
+    "text": "November 8",
+    "created": "Wed, 08 Nov 2017 14:59:04 GMT",
+    "name": "08",
+    "subs": [
+        {
+            "text": "How I ended up with 100s of domains",
+            "created": "Wed, 08 Nov 2017 14:59:05 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "A discussion about HTTPS at Newsgeist led to a question.",
+                    "created": "Wed, 08 Nov 2017 14:59:20 GMT",
+                    "subs": [
+                        {
+                            "text": "Dave, do you really have 100s of domains with real content, and if so, how did it happen?",
+                            "created": "Wed, 08 Nov 2017 15:12:10 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "First, there really are that many. ",
+                    "created": "Wed, 08 Nov 2017 15:00:09 GMT"
+                },
+                {
+                    "text": "Second, the reason is that, as you may know, I use <a href=\"http://scripting.com/2013/09/10/twoWaysOfLookingAtAnOutline\">outliners</a> for my writing. That's how I write code and blog posts, docs, change notes, show notes for my podcasts, etc. Editing structures is my thing. Then, I had the idea that a website could be a document. And made that work, and it's great. Then I tried an even bigger idea, one document could hold lots of websites. It worked too, and it also was great. (How it worked: nodes in the outline structure could have a <i>domain</i> attribute and the server would know how to get to that place from an HTTP request.) ",
+                    "created": "Wed, 08 Nov 2017 15:07:24 GMT"
+                },
+                {
+                    "text": "If you're following me this far, you can see how the domain names proliferated."
+                },
+                {
+                    "text": "All this is before Google even had a web browser. "
+                },
+                {
+                    "text": "I wrote about it publicly on my blog. I didn't hide it. ",
+                    "created": "Wed, 08 Nov 2017 15:01:38 GMT"
+                },
+                {
+                    "text": "Later I got a little more sober about it. I was probably the only person who liked it. I created a web server called \"PagePark\" that made it easy to serve lots of domains from one machine, without any configuration. Just create a folder with the name of a domain in a specific place and the server would automatically route requests to the folder. It works. It's proven a good way to evolve sites I created, with real content, specs, essays, blog posts, feeds, JSON files, images, outlines, movies, podcasts, music, wire photos, all the things I have experimented with and created standards for over the years. It's a mess, but I kept good notes. If anyone wants to see my work, it's all there. But it's never going to make it to HTTPS unless it gets a lot simpler, and we know that can't happen because it's inherently a complicated and fragile thing. ",
+                    "created": "Wed, 08 Nov 2017 15:01:43 GMT"
+                },
+                {
+                    "text": "Now of course Google never considered the possibility that someone might be doing this. And there are probably are <i>many other things</i> they didn't think of that people did or are doing. Remember HTTP isn't just any protocol, it's certainly the most widely used networking protocol ever. It's the protocol that made networking explode. And it's been around a long time, and lots of people did all kinds of things with it, and some of those sites are still running. ",
+                    "created": "Wed, 08 Nov 2017 15:04:30 GMT"
+                },
+                {
+                    "text": "Or maybe Google had an idea of how widespread HTTP was, and they don't care. I suspect that's the case, because it's pretty freaking obvious to anyone who thinks about it. ;-) ",
+                    "created": "Wed, 08 Nov 2017 15:05:29 GMT"
+                },
+                {
+                    "text": "HTTP isn't some random half-baked idea, it's the biggest networking standard anywhere. No one has the power to break it. That's one of the big reasons so many innovations happened there and not somewhere else.",
+                    "created": "Wed, 08 Nov 2017 15:06:13 GMT"
+                }
+            ]
+        },
+        {
+            "text": "The steps to create a new site in my outliner",
+            "created": "Wed, 08 Nov 2017 16:52:07 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Here are the steps:",
+                    "created": "Wed, 08 Nov 2017 16:52:15 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Press Return.",
+                            "created": "Wed, 08 Nov 2017 16:52:20 GMT"
+                        },
+                        {
+                            "text": "Enter the title of the site.",
+                            "created": "Wed, 08 Nov 2017 16:52:26 GMT"
+                        },
+                        {
+                            "text": "Press Return, then Cmd-R. Enter paragraphs for the text that goes on the home page of the site. ",
+                            "created": "Wed, 08 Nov 2017 16:53:00 GMT"
+                        },
+                        {
+                            "text": "Click on the title headline, then choose the Edit Attributes command.",
+                            "created": "Wed, 08 Nov 2017 16:52:31 GMT"
+                        },
+                        {
+                            "text": "Enter a <a href=\"http:///scripting.com/images/2017/11/08/editatts.png\">domain attribute</a> with the domain name you want to be mapped to this sub-outline. Click OK.",
+                            "created": "Wed, 08 Nov 2017 16:53:36 GMT"
+                        },
+                        {
+                            "text": "Save",
+                            "created": "Wed, 08 Nov 2017 16:54:05 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "All you have to do from there is map the domain to the server. The CMS server takes care of everything else. ",
+                    "created": "Wed, 08 Nov 2017 16:54:10 GMT"
+                }
+            ]
+        },
+        {
+            "text": "\"You're not an average user\"",
+            "created": "Wed, 08 Nov 2017 16:07:32 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "This came up in the first session at NewsGeist. I told a short story about something not important and one of the participants said \"But you're not an average user.\" Hmmmm.",
+                    "created": "Wed, 08 Nov 2017 16:07:42 GMT"
+                },
+                {
+                    "text": "This comes up a lot in product discussions. I have never said it myself, I find the idea pretty useless. Because <i>no one</i> is the average person, and you could use that line to shoot down any idea, so why bother? It doesn't add anything to discourse.",
+                    "created": "Wed, 08 Nov 2017 16:08:18 GMT"
+                },
+                {
+                    "text": "I remember the first time I heard it, when I asked the CEO of the tech company I worked for if he had tried a product, and what did he think of it. It was one of his own products, a big moneymaker. He said \"I'm a market of one.\" Same idea as not being an average user.",
+                    "created": "Wed, 08 Nov 2017 16:09:20 GMT"
+                },
+                {
+                    "text": "Should you be the CEO of a company whose product you don't use? Maybe if you're making a drug to treat cancer I could understand it. This was a product designed to make execs in companies more effective at their work. He was most definitely in the market the product was aimed at. ",
+                    "created": "Wed, 08 Nov 2017 16:17:06 GMT"
+                },
+                {
+                    "text": "So that's correct, I'm not an average user, but if you have an idea for a product that no one is currently using because it doesn't exist, then there is no such thing as an average user. And if someone says this to you in a brainstorming meeting, remember I told you to just ignore it, it doesn't mean anything. :heart:",
+                    "created": "Wed, 08 Nov 2017 16:11:25 GMT"
+                },
+                {
+                    "text": "One more thing, if you're going to develop products for a living, you have to learn how your users think. Do support work. Read their emails. Do searches on the web and social media. When you meet a user of your product, ask what they think, and listen. ;-)",
+                    "created": "Wed, 08 Nov 2017 16:17:51 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Chris Matthews in Flint",
+            "created": "Wed, 08 Nov 2017 16:22:42 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "This is an idea I didn't get to talk about, but I thought of it during the session by the people who did <a href=\"http://www.100daysinappalachia.com/\">100 Days in Appalachia</a>. ",
+                    "created": "Wed, 08 Nov 2017 16:22:55 GMT"
+                },
+                {
+                    "text": "MSNBC could locate one of its hourly shows in the middle of the country. They could still interview people where ever they may be, but if you want to be in studio, either come from the area, or fly in. ",
+                    "created": "Wed, 08 Nov 2017 16:23:17 GMT"
+                },
+                {
+                    "text": "It would represent a commitment to a new kind of news. From a non-NY and DC perspective. A radical idea, but it might change things enough to be worth trying. ",
+                    "created": "Wed, 08 Nov 2017 16:24:04 GMT"
+                },
+                {
+                    "text": "Like having the public editor be a member of the public. Something obvious that didn't seem obvious to the people who run the large news orgs. ",
+                    "created": "Wed, 08 Nov 2017 16:24:13 GMT"
+                },
+                {
+                    "text": "Obviously, Chris Matthews is not going to relocate to Flint. He's a creature of the northeast. But why aren't there nightly news discussions emanating from all over the country. I'm sure there are podcasts that do. Can we get this organized?",
+                    "created": "Wed, 08 Nov 2017 16:25:07 GMT"
+                }
+            ]
+        },
+        {
+            "text": "PagePark v0.7.9",
+            "created": "Wed, 08 Nov 2017 15:23:22 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "There's a new <a href=\"https://github.com/scripting/pagePark/blob/master/README.md#v079-11817-by-dw\">version</a> of PagePark today. ",
+                    "created": "Wed, 08 Nov 2017 15:23:43 GMT"
+                },
+                {
+                    "text": "You can now tell it to ignore case in paths. This means that these two URLs will get you to the same place:",
+                    "created": "Wed, 08 Nov 2017 15:23:51 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "<a href=\"http://threads2.scripting.com/2013/february/theguyatthegasstation/\">http://threads2.scripting.com/2013/february/theguyatthegasstation/</a>",
+                            "created": "Wed, 08 Nov 2017 15:24:23 GMT"
+                        },
+                        {
+                            "text": "<a href=\"http://threads2.scripting.com/2013/FeBruARy/theGuyAtTheGasStation/\">http://threads2.scripting.com/2013/FeBruARy/theGuyAtTheGasStation/</a>",
+                            "created": "Wed, 08 Nov 2017 15:24:55 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "This becomes necessary when porting a site from a server that doesn't care about case. Because URLs that point into that site could be any case. If you want the site to work when served from PagePark, it also must able to not care about case. ",
+                    "created": "Wed, 08 Nov 2017 15:25:25 GMT"
+                }
+            ]
+        }
+    ]
+}

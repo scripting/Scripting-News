@@ -1,0 +1,83 @@
+{
+    "text": "July 7",
+    "created": "Fri, 07 Jul 2017 14:12:53 GMT",
+    "name": "07",
+    "subs": [
+        {
+            "text": "<a href=\"http://scripting.com/misc/feedreaderdemo/\">Software preview</a>. I don't usually show off software before it's done, but what the heck. I've been playing around with a single-feed view of news for \"River5\". This is a demo, it's not hooked up to a server. Gives you an idea what it might look like. I used Brent Simmons' new <a href=\"https://ranchero.com/evergreen/\">Evergreen</a> reader as a model. ",
+            "created": "Fri, 07 Jul 2017 22:35:35 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Someone has to speak for journalism, to respond to what the president says. The response is imho simple. <i>Of course</i> he doesn't like what we report about him. We're finding out who he is. What he has been hiding. Also what he is doing. This is what journalism does. An expanded answer <a href=\"http://scripting.com/2017/07/06.html#a110701\">here</a>. Perhaps they need the opposite of a public editor. Someone who represents the ego that journalism isn't supposed to (according to some) have. ",
+            "created": "Fri, 07 Jul 2017 17:16:27 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "There never was a real controversy over which form of \"RSS\" reader is better. There are two. Mailbox style and <a href=\"http://scripting.com/2014/06/02/whatIsARiverOfNewsAggregator.html\">river</a>. The correct answer as to which is better is <i>both. </i>You need both. People who thought they could live without rivers were presented with Twitter and Facebook whose timelines are rivers, although they muddy them up a bit with algorithms and ads. You need the mailbox approach when you want to see all that an individual has posted recently. Even Twitter <a href=\"https://twitter.com/davewiner\">has</a> this ability. Even Radio UserLand, in 2002, had it. In 2017 the controversy, if there ever was one, is long-settled. ",
+            "created": "Fri, 07 Jul 2017 14:12:54 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/07/07/george.png"
+        },
+        {
+            "text": "Wyoming really has a fraction of the population of a NYC borough. <a href=\"https://en.wikipedia.org/wiki/Demographics_of_Queens#General_statistics\">Queens</a>, the second most populous borough had 2.2 million people in the 2010 census. <a href=\"https://www.census.gov/quickfacts/fact/table/WY/PST045216\">Wyoming</a> at the same time had only 564K. Even more ridiculous, three <a href=\"https://www.health.ny.gov/statistics/cancer/registry/appendix/neighborhoodpop.htm\">neighborhoods</a> in Queens combined have a greater population than Wyoming: Flushing, Jackson Heights and Jamaica. ",
+            "created": "Fri, 07 Jul 2017 16:19:54 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "We're still dealing with slavery",
+            "created": "Fri, 07 Jul 2017 16:07:34 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "The legal reason that rural voters have exaggerated power in the US is a <a href=\"http://www.crf-usa.org/black-history-month/the-constitution-and-slavery\">compromise</a> that allowed the union to be formed in the first place. The southern slave states had low population agrarian economies, unlike the more urban northern states. If representation in Congress were proportional to population, slavery would have been outlawed at founding, even though (I learned later, after going through the NYC public school system) northern states participated in and profited from the slave trade. ",
+                    "created": "Fri, 07 Jul 2017 16:07:41 GMT",
+                    "image": "http://scripting.com/images/2017/07/07/cowboy.png"
+                },
+                {
+                    "text": "The compromise was that every state, no matter how small its population, got two votes in the Senate. Today that means states like <a href=\"https://en.wikipedia.org/wiki/Wyoming\">Wyoming</a>, with a population that's a <a href=\"http://scripting.com/2017/07/07.html#a120754\">fraction</a> of a NYC <a href=\"https://en.wikipedia.org/wiki/Queens\">borough</a>, gets two votes. Compared with California, the most populous state, which has 66 times the population of Wyoming. California also gets two votes.",
+                    "created": "Fri, 07 Jul 2017 16:13:28 GMT"
+                },
+                {
+                    "text": "Add up enough small states and voila, you have Trump in the White House even though he lost the popular vote. And a new right-to-lifer on the Supreme Court (and likely one or two more). Goodbye Planned Parenthood, Medicaid, health care, the climate, voting rights, probably democracy itself, to make permanent the rule of the country by the rural minority. ",
+                    "created": "Fri, 07 Jul 2017 16:13:52 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Glad the US is so well represented at the G20",
+            "created": "Fri, 07 Jul 2017 23:40:53 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<img src=\"http://scripting.com/images/2017/07/07/trump.png\" width=\"400\" height=\"267\" border=\"0\" alt=\"A picture named trump.png\">",
+                    "created": "Fri, 07 Jul 2017 23:41:24 GMT"
+                }
+            ]
+        },
+        {
+            "text": "About the software preview",
+            "created": "Fri, 07 Jul 2017 23:14:55 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I started out thinking I would just present the items in a single feed exactly as if it were a river. The data that's been transmitted between the server and the client is the same data that's used in a river. ",
+                    "created": "Fri, 07 Jul 2017 23:15:00 GMT",
+                    "image": "http://scripting.com/images/2017/07/07/cow.png"
+                },
+                {
+                    "text": "I had it working then I decided to look at <a href=\"https://ranchero.com/evergreen/\">Evergreen</a>, because it's the first \"RSS\" reader that I'm aware of that properly handles titleless posts. As you know \"Scripting News\" these days is about 50-50, titled vs titleless posts. It has to work well in both cases.",
+                    "created": "Fri, 07 Jul 2017 23:17:38 GMT"
+                },
+                {
+                    "text": "So I decided to scrap the river model and take a fresh view of it. I really started to like how it feels. And most of the techniques I needed were covered well in HTML 5. ",
+                    "created": "Fri, 07 Jul 2017 23:16:52 GMT"
+                },
+                {
+                    "text": "Not sure where I'm going to hook this in first. Thinking I might use \"Electric River\" as a base, because it's so self-contained. ",
+                    "created": "Fri, 07 Jul 2017 23:17:49 GMT"
+                }
+            ]
+        }
+    ]
+}

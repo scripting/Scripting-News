@@ -1,0 +1,64 @@
+{
+    "text": "Re JSON feed",
+    "created": "Sat, 20 May 2017 17:21:52 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "People have asked what I think of JSON feed... ",
+            "created": "Sat, 20 May 2017 17:21:56 GMT",
+            "image": "http://scripting.com/2017/05/20/rsshat.png",
+            "permalink": "http://scripting.com/2017/05/20.html#a010556"
+        },
+        {
+            "text": "My longtime friend and collaborator, <a href=\"http://inessential.com/2017/05/17/json_feed\">Brent Simmons</a>, is one of the two guys who designed the format. In fact I am in Seattle right now visiting Brent, talking about another project, though of course we have discussed <a href=\"https://jsonfeed.org/version/1\">JSON feed</a>. I knew it was coming. Brent and I emailed about it about a month ago.",
+            "created": "Sat, 20 May 2017 17:22:05 GMT",
+            "permalink": "http://scripting.com/2017/05/20.html#a010505"
+        },
+        {
+            "text": "My opinion is pretty neutral. Kind of a shoulder shrug. It reminds me of the <a href=\"https://www.youtube.com/watch?v=6bOy3RNyWME\">slogan</a> from Battlestar Galactica. \"All of this has happened before and will happen again.\"",
+            "created": "Sat, 20 May 2017 17:22:46 GMT",
+            "permalink": "http://scripting.com/2017/05/20.html#a010546"
+        },
+        {
+            "text": "The hype around this effort reminds me of the hype at the start of Atom. Thankfully the personal stuff does not seem to be coming along with it this time.",
+            "created": "Sat, 20 May 2017 17:22:54 GMT",
+            "permalink": "http://scripting.com/2017/05/20.html#a010554"
+        },
+        {
+            "text": "Is this something we should be focusing on?",
+            "created": "Sat, 20 May 2017 17:51:11 GMT",
+            "permalink": "http://scripting.com/2017/05/20.html#a010511"
+        },
+        {
+            "text": "I think we have to work on climate change and the fascism that's trying to boot up in the US. Our systems for news suck, and there are obvious ways to improve them if we put our minds to it. And I think a new incompatible feed format not only doesn't move us toward solving those problems, in a very small way (not worth worrying about) it moves us <i>away</i> from solving them. By using bandwidth that could be used to foster working-together, perhaps. By making things that would otherwise interop, not interop. ",
+            "created": "Sat, 20 May 2017 17:24:32 GMT",
+            "permalink": "http://scripting.com/2017/05/20.html#a010532"
+        },
+        {
+            "text": "If developers have a hard time using XML in their apps, if that's the problem, why not attack it right there? Work to make it easier. I work in Node and the browser, and in both places XML and JSON are equally easy to use. The same could be done for any environment. In fact in the browser, XML is integrated deeply into the programming model, because the web is made out of XML. ",
+            "created": "Sat, 20 May 2017 17:35:19 GMT",
+            "permalink": "http://scripting.com/2017/05/20.html#a010519"
+        },
+        {
+            "text": "As a developer of <a href=\"http://scripting.com/2017/04/19/electricRiverV041b.html\">feed reading</a> software, if any new format gains traction, my software will support the format. I don't believe in locking users in or out. So a new incompatible format makes my life slightly more difficult. But once the work is done, it moves out of the way, hopefully never to be thought of again.",
+            "created": "Sat, 20 May 2017 17:26:06 GMT",
+            "permalink": "http://scripting.com/2017/05/20.html#a010506"
+        },
+        {
+            "text": "As a writer, and developer of feed-creating software I am going to stick with good old <a href=\"http://cyber.harvard.edu/rss/rss.html\">RSS 2.0</a> with the <a href=\"http://source.smallpict.com/2014/07/12/theSourceNamespace.html\">source namespace</a>. It has served me well, and doesn't want for any features. If it did, I would just add them to the namespace. ",
+            "created": "Sat, 20 May 2017 17:26:36 GMT",
+            "permalink": "http://scripting.com/2017/05/20.html#a010536"
+        },
+        {
+            "text": "One more thought, a few years ago we played around with the <a href=\"https://web.archive.org/web/20140218231452/http://rssjs.org:80/\">idea</a> of JSONified RSS, a simple translation of the XML elements and attributes to JSON. Two observations. 1.  It didn't invent new names for things that already exist. 2. It didn't catch on.",
+            "created": "Sat, 20 May 2017 17:27:21 GMT",
+            "permalink": "http://scripting.com/2017/05/20.html#a010521"
+        },
+        {
+            "text": "See my <a href=\"http://scripting.com/2017/05/09/rulesForStandardsmakers.html\">Manifesto</a> for standards-makers for other general thoughts. ",
+            "created": "Sat, 20 May 2017 17:28:13 GMT",
+            "permalink": "http://scripting.com/2017/05/20.html#a010513"
+        }
+    ],
+    "permalink": "http://scripting.com/2017/05/20.html#a010552"
+}

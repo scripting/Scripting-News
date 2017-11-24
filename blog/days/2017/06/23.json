@@ -1,0 +1,135 @@
+{
+    "text": "June 23",
+    "created": "Fri, 23 Jun 2017 11:14:42 GMT",
+    "name": "23",
+    "subs": [
+        {
+            "text": "Thank you <a href=\"https://twitter.com/om/status/878075081204711424\">Om</a> for the tweet-love. :heart: ",
+            "created": "Fri, 23 Jun 2017 11:50:48 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/878279505453826049\">An idea worth RT'ing</a>: \"A site people could go to, fill in some info about themselves, and find out how much they would lose under the Repub plan.\"",
+            "created": "Fri, 23 Jun 2017 16:02:34 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "\"githubpub\" is a Node app that serves from GitHub repositories.",
+            "created": "Fri, 23 Jun 2017 13:52:38 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Fix for the Scripting News <a href=\"http://scripting.com/rss.xml\">RSS</a> <a href=\"http://scripting.com/rss.json\">feed</a>: we now process glossary entries and emoji short codes. The net effect is that text shortcuts like \"rss\" will be expanded as well as :clap: emoji :clap:, in the feeds. As they say, <i>still diggin!</i>",
+            "created": "Fri, 23 Jun 2017 14:52:02 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "So many thoughts today begin with -- If the Dems only had their shit together. ",
+            "created": "Fri, 23 Jun 2017 11:52:59 GMT",
+            "type": "tweet",
+            "tweetId": "878220762343133184",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "If the Dems only had their shit together, we would be mobleizable to knock on neighbor's doors this weekend with pre-written talking points. \"Did you know that you <s>could</s> will lose your health insurance if the Republicans have their way?\"",
+            "created": "Fri, 23 Jun 2017 11:53:24 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Repubs who consider voting for the repeal of Medicaid and the ACA should fear the <a href=\"https://en.wikipedia.org/wiki/Hell\">hellfire</a> they will face when they run for re-election. <i>This weekend</i> is the time to make your feelings felt. ",
+            "created": "Fri, 23 Jun 2017 11:47:33 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "BTW, if someone expresses frustration it doesn't follow that they blame you, esp on Twitter which is a length-impaired medium.  ",
+            "created": "Fri, 23 Jun 2017 11:45:41 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Thin servers",
+            "created": "Fri, 23 Jun 2017 14:03:20 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Two friends, <a href=\"https://twitter.com/judell\">Jon Udell</a> and <a href=\"https://twitter.com/holden\">Mike Caulfield</a>, are talking about \"dumb\" servers. I call the same things \"thin.\" Also fractional-horsepower servers. They go by a bunch of names, but the idea and motivation is the same. ",
+                    "created": "Fri, 23 Jun 2017 14:05:30 GMT"
+                },
+                {
+                    "text": "The idea: We move functionality from the server to the edge (desktop, mobile device), repeating until someday there's nothing left on the server. We could go all the way, but it needs a strong operational backend, something a big company is good at, not so much individuals. (With the caveat that some think this problem is distributable, notably the fictional <a href=\"https://www.crunchbase.com/person/richard-hendriks#/entity\">CEO</a> of <a href=\"http://www.piedpiper.com/\">Pied Piper</a>.)",
+                    "created": "Fri, 23 Jun 2017 14:24:35 GMT"
+                },
+                {
+                    "text": "The key thing is identity. Once you have that solved, it all becomes relatively easy. I've factored out identity into a layer I call \"nodeStorage\". It associates storage with a user's Twitter identity. Twitter is a good service to use, unlike some others, because they have a liberal policy of who gets to <a href=\"https://apps.twitter.com/app/new\">create</a> apps. Faceook has an extensive vetting process. Twitter <a href=\"https://apps.twitter.com/app/new\">is</a> \"let a thousand flowers bloom.\" I know some people have problems with Twitter, but I've learned over many years that all corporate vendors are imperfect. If you're waiting for <a href=\"http://this.how/standards#1497798834000\">perfection</a> you'll wait forever. And you build the software so that if Twitter should again become draconian, a new service can be filled in with as little disruption as possible.",
+                    "created": "Fri, 23 Jun 2017 14:05:43 GMT",
+                    "image": "http://scripting.com/images/2017/06/17/bowling.png"
+                },
+                {
+                    "text": "Another place I've looked is Dropbox. There, with one simple feature, the ability to associate a domain with a folder, they would solve the problem. I know there are external services that provide something \"like\" this, but fundamentally Dropbox doesn't provide enough flexibility in the API to do this in a reasonable way. (Lack of granularity in permissions, an app gets access to one folder or everything.)",
+                    "created": "Fri, 23 Jun 2017 14:08:41 GMT"
+                },
+                {
+                    "text": "Or Amazon, if their identity system for AWS were simpler for end users, or if their end-user storage system could be accessed through the S3 API. I'm sure they've thought of it. There must be a reason they don't do it. ",
+                    "created": "Fri, 23 Jun 2017 14:09:10 GMT"
+                },
+                {
+                    "text": "And Twitter could completely eliminate the need for nodeStorage, by offering users a few gigabytes of storage attached to their Twitter account, accessible through the API. The first person who described the feature to me was Jack Dorsey, about eight years ago, when we met for coffee in SF. So he understands why this idea is so powerful. I'm not sure what the holdup is.  ",
+                    "created": "Fri, 23 Jun 2017 14:09:55 GMT"
+                },
+                {
+                    "text": "In the meantime, \"nodeStorage\" works. I build the kind of apps I want. Open the sidebar on Scripting News (left margin) and have a look at the apps. Some even have <a href=\"https://github.com/scripting/macwrite/blob/master/macwrite.js\">source code</a> so you can see for yourself. ",
+                    "created": "Fri, 23 Jun 2017 14:33:10 GMT"
+                }
+            ]
+        },
+        {
+            "text": "RicMac, part II",
+            "created": "Fri, 23 Jun 2017 11:14:43 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://twitter.com/ricmac\">Richard MacManus</a> keeps on truckin. There's nothing more powerful than a persistent and curious user who's relatively fearless.  ",
+                    "created": "Fri, 23 Jun 2017 11:20:38 GMT",
+                    "image": "http://scripting.com/images/2017/06/23/mrNatural.png"
+                },
+                {
+                    "text": "In a follow-up <a href=\"https://richardmacmanus.com/2017/06/22/openness-rivers-indieweb/\">post</a> I learned that there is an IndieWeb-approved feed reader called <a href=\"https://github.com/kylewm/woodwind\">Woodwind</a>. That's good news. \"RSS\" and related technolgies, <a href=\"https://github.com/kylewm/woodwind/issues/66\">including</a> <a href=\"https://github.com/kylewm/woodwind/issues/7\">OPML</a> import and export, are essential components of the open web. ",
+                    "created": "Fri, 23 Jun 2017 11:15:54 GMT"
+                },
+                {
+                    "text": "BTW, to Richard, I wrote up my <a href=\"http://this.how/standards\">rules for standards-makers</a>, based on experience re what (imho) is important and what works and doesn't. Another item for your consideration. ",
+                    "created": "Fri, 23 Jun 2017 11:19:38 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Test post",
+            "created": "Fri, 23 Jun 2017 19:48:21 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Here's a list with four items",
+                    "created": "Fri, 23 Jun 2017 19:49:21 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "one",
+                            "created": "Fri, 23 Jun 2017 19:48:43 GMT"
+                        },
+                        {
+                            "text": "two",
+                            "created": "Fri, 23 Jun 2017 19:48:44 GMT"
+                        },
+                        {
+                            "text": "three",
+                            "created": "Fri, 23 Jun 2017 19:48:45 GMT"
+                        },
+                        {
+                            "text": "four",
+                            "created": "Fri, 23 Jun 2017 19:48:46 GMT"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

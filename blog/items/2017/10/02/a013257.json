@@ -1,0 +1,37 @@
+{
+    "text": "Weird drag and drop with Electron app",
+    "created": "Mon, 02 Oct 2017 17:32:57 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I want my Electron app to handle drag-and-drop from the desktop.",
+            "created": "Mon, 02 Oct 2017 17:33:15 GMT",
+            "subs": [
+                {
+                    "text": "I want to drag an OPML file onto it, and have it open it.",
+                    "created": "Mon, 02 Oct 2017 17:33:34 GMT"
+                }
+            ]
+        },
+        {
+            "text": "I have done this before with Electron apps, for example \"Public Folder\" lets you drag a file onto it to upload it. It works. ",
+            "created": "Mon, 02 Oct 2017 17:33:44 GMT"
+        },
+        {
+            "text": "For this app, it works when I'm debugging, but when I build the app, it launches the OPML Editor. This is so weird. ",
+            "created": "Mon, 02 Oct 2017 17:34:11 GMT"
+        },
+        {
+            "text": "When I drag an OPML file onto Chrome, it shows me the OPML source. But when I do it with the browser inside Electron it opens it in the OPML Editor.",
+            "created": "Mon, 02 Oct 2017 17:37:38 GMT"
+        },
+        {
+            "text": "I figure I have something configured in the OS to make it do this, but I have no memory of doing it and no idea how it might have worked. ",
+            "created": "Mon, 02 Oct 2017 17:35:00 GMT"
+        },
+        {
+            "text": "Any suggestions most <a href=\"https://github.com/scripting/Scripting-News/issues/33\">welcome</a>. ",
+            "created": "Mon, 02 Oct 2017 17:35:20 GMT"
+        }
+    ]
+}

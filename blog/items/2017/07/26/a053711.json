@@ -1,0 +1,6 @@
+{
+    "text": "I'm doing some work with <a href=\"https://github.com/foreverjs/forever\">forever</a>, the utility that keeps a set of Node apps running. I want to be able to get a list of the running processes from within an app that builds on <a href=\"https://github.com/foreverjs/forever-monitor\">forever-monitor</a>, which is forever's core functionality. Here's the <a href=\"https://github.com/foreverjs/forever-monitor/issues/149\">question</a> I asked. Any help much appreciated. ;-) ",
+    "created": "Wed, 26 Jul 2017 21:37:11 GMT",
+    "type": "outline",
+    "permalink": "http://scripting.com/2017/07/26.html#a053711"
+}

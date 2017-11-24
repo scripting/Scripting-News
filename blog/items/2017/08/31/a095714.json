@@ -1,0 +1,5 @@
+{
+    "text": "I wrote a Frontier <a href=\"http:///scripting.com/images/2017/08/31/frontierscript.png\">script</a> that removes the robots.txt files in my S3 buckets. My automatic provisioning script for some reason I don't remember, turned off all robots in new buckets created in the last few years. There's no explanation and it makes no sense. ",
+    "created": "Thu, 31 Aug 2017 13:57:14 GMT",
+    "type": "outline"
+}

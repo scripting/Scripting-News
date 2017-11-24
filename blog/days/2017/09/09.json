@@ -1,0 +1,88 @@
+{
+    "text": "September 9",
+    "created": "Sat, 09 Sep 2017 13:13:32 GMT",
+    "name": "09",
+    "subs": [
+        {
+            "text": "Good morning Florida! :palm_tree: ",
+            "created": "Sat, 09 Sep 2017 13:13:33 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "After Katrina I <a href=\"http://scripting.com/2005/12/15.html\">visited</a> Biloxi/Gulfport to see results of 25 foot storm surge. I took a lot of <a href=\"https://www.flickr.com/photos/scriptingnews/sets/1588659/\">photos</a>.",
+            "created": "Sat, 09 Sep 2017 23:37:47 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I posted a <a href=\"http://fieldguide.gizmodo.com/1802969137\">comment</a> on the very cool <a href=\"http://fieldguide.gizmodo.com/why-rss-feeds-still-beat-facebook-and-twitter-for-track-1800722740\">Gizmodo RSS piece</a>. ",
+            "created": "Sat, 09 Sep 2017 22:24:36 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Yes, Twitter and Facebook are infested with fake people. Journalism can create new aggregations of news that aren't. Start with your bookmarks and \"River5\". Let's go!",
+            "created": "Sat, 09 Sep 2017 17:01:32 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "To <a href=\"http://talkingpointsmemo.com/livewire/scott-pruitt-climate-change-insensitive-floridians\">Scott Pruitt</a>, if you don't like to talk about climate change you should get another job. Your current <a href=\"https://en.wikipedia.org/wiki/Administrator_of_the_Environmental_Protection_Agency\">job</a> is all about <a href=\"https://www.bloomberg.com/news/articles/2017-09-08/how-science-links-climate-change-to-irma-s-wallop-quicktake-q-a\">climate change</a>. 24-by-7, 52 weeks a year, rain or shine. ",
+            "created": "Sat, 09 Sep 2017 13:27:06 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "What the Equifax breach means",
+            "created": "Sat, 09 Sep 2017 17:38:10 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "The <a href=\"http://www.techmeme.com/170908/p13#a170908p13\">security</a> <a href=\"http://www.latimes.com/business/hiltzik/la-fi-hiltzik-equifax-breach-20170908-story.html\">breach</a> at <a href=\"https://arstechnica.com/tech-policy/2017/09/are-you-an-equifax-breach-victim-you-must-give-up-right-to-sue-to-find-out/\">Equifax</a> is much more than a security breach. You could say it's 1/2 of a meltdown of the economic system in the US. ",
+                    "created": "Sat, 09 Sep 2017 17:38:31 GMT",
+                    "image": "http:///scripting.com/images/2017/09/09/fatcat.png"
+                },
+                {
+                    "text": "I haven't heard anyone say exactly what information has escaped, let's assume it's the worst, it's all the info needed to identify a person. Maybe their credit history, although with this information you could access anyone's history. So why would you bother <a href=\"https://www.axios.com/what-to-do-next-after-equifaxs-security-breach-2483302344.html\">locking</a> your account so lenders know not to give you any loans? Is anyone going to trust that info in the future? I can't see why they would. ",
+                    "created": "Sat, 09 Sep 2017 17:39:06 GMT"
+                },
+                {
+                    "text": "I haven't seen anyone suggest you change your password this time. It's usually pointless advice, but this time it would be especially idiotic. You can't change your birthdate, social security number or mother's maiden name. ",
+                    "created": "Sat, 09 Sep 2017 17:42:12 GMT"
+                },
+                {
+                    "text": "I say this is only 1/2 because the other half would be a meltdown of the money system. Suppose you went to the ATM to get some cash and found you didn't have an account. Or your brokerage account was cleaned out. Or you learn that your mortgage payments have been going to Russia and you no longer have a place to live. ",
+                    "created": "Sat, 09 Sep 2017 17:39:38 GMT"
+                },
+                {
+                    "text": "When that happens, and I can't imagine it <i>won't, </i>it will be a civilization-level meltdown. If you think the US govt is doing anything to prevent it, well I'm not very confident about that. ",
+                    "created": "Sat, 09 Sep 2017 17:40:41 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Instant Dave update",
+            "created": "Sat, 09 Sep 2017 13:14:25 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Happy to report that more people are tuning in to \"Instant Dave\". Now we can start learning and developing. It will be an interactive experience. I want to create a new kind of environment, to stimulate thinking and to get ideas for new features, shaping what I hope will become a new medium.",
+                    "created": "Sat, 09 Sep 2017 13:14:32 GMT",
+                    "image": "http:///scripting.com/images/2017/09/09/abrahamLincolnBobblehead.png"
+                },
+                {
+                    "text": "Naturally people ask how can they get their own? And that's something I don't know how to answer, at least not yet. But the name suggests that in addition to \"Instant Dave\" there will be other <i>Instants. </i>",
+                    "created": "Sat, 09 Sep 2017 13:16:02 GMT"
+                },
+                {
+                    "text": "I'd say the first step is to blog, and then start a linkblog (like <a href=\"http://scripting.com/links.html\">this</a>) and use a photo service like <a href=\"https://www.flickr.com/\">Flickr</a> that has \"RSS\" support. The idea is to aggregate them all into one easy to follow stream. ",
+                    "created": "Sat, 09 Sep 2017 13:16:57 GMT"
+                },
+                {
+                    "text": "What software to use? For blogging, obviously there are lots of choices and they all support \"RSS\" which of course is the basic technology behind the <i>Instant</i> movement. Your podcasts will have an <a href=\"http://fieldguide.gizmodo.com/why-rss-feeds-still-beat-facebook-and-twitter-for-track-1800722740\">RSS</a> feed (or else they are not podcasts and shouldn't be calling themselves that). For linkblogging I recommend my own \"Radio3\". And to aggregate them all into one stream, try \"River5\" or \"Electric River\". ",
+                    "created": "Sat, 09 Sep 2017 13:17:51 GMT"
+                },
+                {
+                    "text": "And of course use \"Instant Dave\". If you're going to be an actor you want to soak up as much other people's acting as possible, so you can steal ideas from them. Blogging is no different. :boom:",
+                    "created": "Sat, 09 Sep 2017 13:26:31 GMT"
+                }
+            ]
+        }
+    ]
+}

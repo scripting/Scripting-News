@@ -1,0 +1,33 @@
+{
+    "text": "I so totally love writing test posts",
+    "created": "Tue, 13 Jun 2017 22:08:37 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I have set up my River5 installation so that it is subscribed to both the XML and JSON versions of Scripting News. So when this post appears in the river <a href=\"http://scripting.com/river.html\">here</a>, if all goes well, it will appear twice, once from each feed. I will let you know if it worked. :rocket:",
+            "created": "Tue, 13 Jun 2017 22:08:50 GMT",
+            "permalink": "http://scripting.com/2017/06/13.html#a060650"
+        },
+        {
+            "text": "Update: Only the item from the XML feed appeared. I'm hoping that's because the subscription to the JSON feed hasn't been recognized yet? I'll keep watching. Might have to do another test post in a bit. ",
+            "created": "Tue, 13 Jun 2017 22:15:03 GMT",
+            "permalink": "http://scripting.com/2017/06/13.html#a060603"
+        },
+        {
+            "text": "Update: And then as if on queue it <a href=\"http://scripting.com/images/2017/06/13/itshowedup.png\">showed up</a> in the log. ",
+            "created": "Tue, 13 Jun 2017 22:17:04 GMT",
+            "permalink": "http://scripting.com/2017/06/13.html#a060604"
+        },
+        {
+            "text": "Update: Uhhhh but <a href=\"http://scripting.com/images/2017/06/13/ooops.png\">this</a> isn't what I hoped for! :-)",
+            "created": "Tue, 13 Jun 2017 22:20:21 GMT",
+            "permalink": "http://scripting.com/2017/06/13.html#a060621"
+        },
+        {
+            "text": "Update: There's a problem in how outlines are handled. Added a bit of defensive code to outlinebrowser.js and now it's able to display the item. Tomorrow I have to go back into davereader and fix the translation of source:outline elements to just the outline object in the river item. ",
+            "created": "Tue, 13 Jun 2017 22:29:43 GMT",
+            "permalink": "http://scripting.com/2017/06/13.html#a060643"
+        }
+    ],
+    "permalink": "http://scripting.com/2017/06/13.html#a060637"
+}

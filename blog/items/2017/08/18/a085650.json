@@ -1,0 +1,36 @@
+{
+    "text": "Google says this blog is insecure",
+    "created": "Fri, 18 Aug 2017 12:56:50 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I got an <a href=\"https://twitter.com/davewiner/status/898338171586400256\">awful email</a> from Google last night <a href=\"http:///scripting.com/images/2017/08/18/googleEmail.png\">saying</a> that <a href=\"http://scripting.com/\">my blog</a> has a security issue and Chrome would start warning people about it in October. Right off the bat you know it's bullshit, because if it were a real security issue, how could they justify waiting until October?",
+            "created": "Fri, 18 Aug 2017 12:57:00 GMT",
+            "image": "http://static.scripting.com/larryKing/images/2013/10/20/laughNow.gif"
+        },
+        {
+            "text": "Here's the story. At one time I had my own search engine because Google wasn't yet doing a great job of indexing blogs. There was a small search form on every page. The archive pages from the blog in this period, in 2006, eleven years ago, are still there. Here are <a href=\"http://scripting.com/2006/10.html\">the</a> <a href=\"http://scripting.com/2006/09.html\">examples</a> <a href=\"http://scripting.com/2006/07/18.html\">they</a> <a href=\"http://scripting.com/2006/11.html\">cited</a>. The forms don't work, the search engine is long-gone. They're afraid someone will type their SSN in that form and it will be observed and recorded by an intermediary. On a decade-old archive page.",
+            "created": "Fri, 18 Aug 2017 12:57:51 GMT"
+        },
+        {
+            "text": "Don't worry. The pages aren't going anywhere and I'm not modifying them. I try to keep the archive of this blog intact and unmodified. It serves not only as record of the events on the blog, but also the technology of the blog. If you've read this site at all you'd know it was central to the development of blogging and other technologies. The blog's HTML and scripts are part of the record. ",
+            "created": "Fri, 18 Aug 2017 13:15:55 GMT"
+        },
+        {
+            "text": "I have an uncountable number of domains I have used over the years. I try to keep the sites running to the best of my ability. I've been doing this since 1994. Converting them all to HTTPS isn't going to happen unless HTTPS becomes much more manageable. And as I've explained <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+https+google+mozilla+eff&t=hy&ia=web\">many times</a> here, I like storing my blog content on Amazon S3, and HTTPS and S3 are not happy partners, if you want to use your own domain name, which of course I do.",
+            "created": "Fri, 18 Aug 2017 13:00:05 GMT"
+        },
+        {
+            "text": "Google will lie <i>about security</i> to accomplish a strategic objective. And a lot of people will believe them when they say \"Scripting News\" is a bad site. But over time, if they abuse the trust, they will lose it. That's the way this works. ",
+            "created": "Fri, 18 Aug 2017 13:01:53 GMT"
+        },
+        {
+            "text": "They've certainly lost me. I don't trust Google even a bit. They don't own the web, they didn't create it, and I'm not going to submit to them. If you can't read this site with Chrome, so be it. That's their choice. ",
+            "created": "Fri, 18 Aug 2017 13:02:54 GMT"
+        },
+        {
+            "text": "I think the EFF should stand up for the rights of individual bloggers vs the giant corporation, but don't hold your breath. EFF is funded by Google. Same old shit, just a different industry. ",
+            "created": "Fri, 18 Aug 2017 13:04:17 GMT"
+        }
+    ]
+}

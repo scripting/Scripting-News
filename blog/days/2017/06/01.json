@@ -1,0 +1,128 @@
+{
+    "text": "June 1",
+    "created": "Thu, 01 Jun 2017 12:13:44 GMT",
+    "name": "01",
+    "subs": [
+        {
+            "text": "Good morning sports fans!",
+            "created": "Thu, 01 Jun 2017 12:13:45 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<i>Citizen journalism</i> is not a thing. The people are sources. They can now go direct. A source and a journalist are very different things.",
+            "created": "Thu, 01 Jun 2017 18:48:24 GMT",
+            "type": "tweet",
+            "tweetId": "870351504611213312",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "Trump asked at what point will they start laughing at us. He really asked that. Look at your haircut and skin color.",
+            "created": "Fri, 02 Jun 2017 00:24:06 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I'm trying to find a <a href=\"https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#Images:visibility=public-images;ownerAlias=amazon;platform=windows;sort=name\">Windows AMI</a> on Amazon that boots up into the explorer. I don't want to have to install a GUI. <a href=\"https://github.com/scripting/Scripting-News/issues/7\">Help</a> much appreciated.",
+            "created": "Thu, 01 Jun 2017 15:53:45 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "John Gruber <a href=\"https://daringfireball.net/2017/06/fuck_facebook\">won't point</a> to blog posts on Facebook <a href=\"http://scripting.com/2017/05/31.html#a110526\">either</a>. His blog is a link flow monster. You should listen to him if you want to be heard. ",
+            "created": "Thu, 01 Jun 2017 18:32:32 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "New Mac feed reader app from Brent Simmons called <a href=\"https://ranchero.com/evergreen/\">Evergreen</a>.",
+            "created": "Thu, 01 Jun 2017 12:46:19 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Scripting News <a href=\"http://scripting.com/images/2017/06/01/evergreen.png\">looks nice</a> in Evergreen.",
+            "created": "Thu, 01 Jun 2017 12:57:06 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "BTW, Brent's reader does a <a href=\"http://scripting.com/images/2017/06/01/evergreenTitlelessItems.png\">good job</a> with <a href=\"http://scripting.com/2017/05/30.html#a120538\">titleless items</a>. ",
+            "created": "Thu, 01 Jun 2017 15:22:17 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Using FB as your blog is like dumping plastic in the ocean.",
+            "created": "Thu, 01 Jun 2017 15:01:55 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "As China rises in power, filling the vacuum left behind by the United States of Trump, human rights all over the world will decline. Including the US.",
+            "created": "Thu, 01 Jun 2017 13:03:48 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "This is the first month rollover for the Old School blogging software. Watching for problems. Not expecting any. This is not new technology. For example, here's the monthly archive page <a href=\"http://scripting.com/2017/05/\">for May</a>, which is now complete. And here's the one <a href=\"http://scripting.com/2017/06/\">for June</a>, just starting. ",
+            "created": "Thu, 01 Jun 2017 12:14:26 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Yesterday I made it so that I can edit the icon bar in the outliner I use to write this blog. But I made it so that I can only edit a few of the icons. Now I think I should be able to edit all of them, and change the order, or the icons. I also want to put them in a special out of the way place so they feel like hardware to the non-tinkering user. Nothing worse than giving a person who's not paying attention such powerful and potentially destructive tools. Kind of like El Presidentè. ;-)",
+            "created": "Thu, 01 Jun 2017 12:19:05 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Let me vent",
+            "created": "Thu, 01 Jun 2017 18:56:39 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Re the conundrum with Windows on AWS.",
+                    "created": "Thu, 01 Jun 2017 18:57:05 GMT"
+                },
+                {
+                    "text": "It's a disaster I tell you. All the new non-obsolete versions of Windows on Amazon come WITHOUT THE GUI.",
+                    "created": "Thu, 01 Jun 2017 18:56:45 GMT"
+                },
+                {
+                    "text": "I'm basically told \"Dave you have to figure out how to get your software up here and your data and get a graphic app running... (wait for it) from the COMMAND PROMPT!",
+                    "created": "Thu, 01 Jun 2017 18:56:51 GMT"
+                },
+                {
+                    "text": "We did this because WE HATE YOU.",
+                    "created": "Thu, 01 Jun 2017 18:57:45 GMT"
+                },
+                {
+                    "text": "Signed, Microsoft and/or Amazon but probably Microsoft",
+                    "created": "Thu, 01 Jun 2017 18:57:46 GMT"
+                },
+                {
+                    "text": "<i>Update: Thanks for letting me rant. There <a href=\"https://github.com/scripting/Scripting-News/issues/7#issuecomment-305625449\">are</a> in fact AMIs that have a GUI desktop. Then the question is Can Dave Use It? And alas with my most recent Windows experience being on XP, not really. Not in any meaningful way. </i>",
+                    "created": "Fri, 02 Jun 2017 02:20:13 GMT"
+                }
+            ]
+        },
+        {
+            "text": "A message for Chris Hayes and his guests",
+            "created": "Thu, 01 Jun 2017 12:21:46 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I watched <a href=\"https://en.wikipedia.org/wiki/Chris_Hayes_(journalist)\">Chris Hayes</a> last night. ",
+                    "created": "Thu, 01 Jun 2017 12:19:24 GMT",
+                    "image": "http://scripting.com/2016/02/29/drumpf.png"
+                },
+                {
+                    "text": "If I could get one message through to him, his producers and his guests -- stop laughing about how stupid the president is. It makes <i>you</i> look stupid. ",
+                    "created": "Thu, 01 Jun 2017 12:24:12 GMT"
+                },
+                {
+                    "text": "You've been laughing at him all the way, and he won anyway. He's the president. He's as serious as a heart attack. A fatal heart attack. Wipe the grin off your face, and start thinking about what it all <a href=\"https://en.wikipedia.org/wiki/Occam%27s_razor\">means</a>, never mind what you can prove, what is really going on. ",
+                    "created": "Thu, 01 Jun 2017 12:22:21 GMT"
+                },
+                {
+                    "text": "Here's what I think. Our govt is being run for the benefit of Russian oligarchs. Figure out what this means for real Americans, the people (you hope) watch your show. I also think there's a good chance the petulant president, angry over the investigation he can't stop with charm and arm-twisting, plans to punish the US until we drop the investigation. A move toward blackmail and hostage-taking. And guess who the hostages are. (You and me and everyone within range of our military.)",
+                    "created": "Thu, 01 Jun 2017 12:22:40 GMT"
+                },
+                {
+                    "text": "I wish Rachel would come back. We need her. ",
+                    "created": "Thu, 01 Jun 2017 12:22:41 GMT"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "text": "I just added simple Markdown support to *Old School*. If you set the type of a node to markdown, when it's rendered, either on a page, or in a feed, the text is passed through a Markdown renderer. I'm using [marked](https://github.com/chjj/marked). It's got a very nice ability to override renderer options. I was able to catch the rendering for a paragraph and not return the HTML markup for paragraphs because in this context it's redundant.",
+    "created": "Fri, 26 May 2017 16:11:15 GMT",
+    "image": "http://scripting.com/images/2017/05/26/cat.png",
+    "type": "markdown",
+    "permalink": "http://scripting.com/2017/05/26.html#a120515"
+}

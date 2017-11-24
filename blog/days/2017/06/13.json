@@ -1,0 +1,139 @@
+{
+    "text": "June 13",
+    "created": "Tue, 13 Jun 2017 12:04:23 GMT",
+    "name": "13",
+    "subs": [
+        {
+            "text": "Watching the <a href=\"https://www.youtube.com/watch?v=BxjLFHsuflg\">Sessions testimony</a> in the Senate.",
+            "created": "Tue, 13 Jun 2017 19:38:02 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Why isn't there a fast food chain that will serve you a bowl of spaghetti with a simple red sauce and a nice green salad and a glass of ice tea.",
+            "created": "Tue, 13 Jun 2017 17:05:12 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Thinking out loud. Seems as if <a href=\"https://twitter.com/realDonaldTrump\">Trump</a> is getting serious about <a href=\"https://twitter.com/MalcolmNance/status/874644738929967105\">blocking</a> people who don't agree with him. But this is something Twitter controls. They almost certainly wouldn't prevent Trump from doing this on their own, but if there were a court order. ",
+            "created": "Tue, 13 Jun 2017 16:51:38 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "My project for the day is to get \"River5\" to support \"RSS-in-JSON\" feeds. I want to support <a href=\"https://jsonfeed.org/\">JSON Feed</a> format as well, but RIJ is a straight line. I basically already have support for it in River5, because the structure is just RSS. (And of course since it's a <a href=\"https://nodejs.org/\">Node</a> app, it's all converted to a JS object before processing, which is basically JSON.) I've LOL'd about 15 times while getting this together. It's like <a href=\"https://en.wikipedia.org/wiki/Factorization\">factoring</a> in mathematics. Lots of \"it just works\" moments.  ",
+            "created": "Tue, 13 Jun 2017 16:13:07 GMT",
+            "type": "outline",
+            "image": "http://static.scripting.com/larryKing/images/2014/05/25/goodHumor.gif"
+        },
+        {
+            "text": "One thing I noticed doing this work is that <a href=\"http://scripting.com/2016/10/13/whatIsAnOpmlSubscriptionList.html\">OPML subscription lists</a> have a node type of \"RSS\", which of course works for Atom feeds as well. It gets even weirder since the attribute that tells you where the feed is is called <i>xmlURL</i>. Haha. No we're not going to change that just because syntax is now a variable. This goes with the <a href=\"http://scripting.com/2017/05/09/rulesForStandardsmakers.html\">philosophy</a> of choosing the worst name possible. So the name got worse, which means it actually got better. :cow:",
+            "created": "Tue, 13 Jun 2017 16:19:57 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "If you have comments, please submit an <a href=\"https://github.com/scripting/Scripting-News/issues\">issue</a> on the Scripting News repo.",
+            "created": "Tue, 13 Jun 2017 16:26:01 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Good morning so-called Warrior fans!",
+            "created": "Tue, 13 Jun 2017 12:04:24 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Yes there might be one or two real Warrior fans in the Bay Area. If you went to see them play in Oakland before Curry etc, then you're a real fan. If not, tell me why you care? Nothing exciting about a top team that acquires more top talent simply to make it past another team in the finals. ",
+                    "created": "Tue, 13 Jun 2017 12:11:11 GMT",
+                    "image": "http://scripting.com/2015/03/25/shrek.png"
+                },
+                {
+                    "text": "Not that I'm crazy about Cleveland, they're the Eastern Division equivalent of the Warriors (I refuse to call them by their cute nickname, basketball is not a cute sport). ",
+                    "created": "Tue, 13 Jun 2017 12:11:29 GMT"
+                },
+                {
+                    "text": "You have to suffer, for a long time, before you <i>earn</i> the title. Sport is highly moral. There's nothing exciting about winning the title using a checkbook. The Warriors are interesting in the same way the character played by <a href=\"http://www.vanityfair.com/hollywood/2017/06/silicon-valley-recap-haley-joel-osment-interview\">Haley Joel Osment</a> in Silicon Valley is interesting. ",
+                    "created": "Tue, 13 Jun 2017 12:04:42 GMT"
+                },
+                {
+                    "text": "Now I look forward to seeing how many of the big <i>free agent</i> stars Cleveland and Golden State can re-sign. :cat:",
+                    "created": "Tue, 13 Jun 2017 12:08:01 GMT"
+                },
+                {
+                    "text": "PS: I do feel happy for JR Smith and Iman Schumpert, two guys who the Knicks failed who just needed the kind of leadership an <a href=\"https://en.wikipedia.org/wiki/LeBron_James\">LBJ</a> can provide.",
+                    "created": "Tue, 13 Jun 2017 12:08:24 GMT"
+                },
+                {
+                    "text": "PPS: When the Mets made the World Series in 2015 there were lots of people wearing Mets hats in NYC. It was so funny. Before that, a Mets-hat-sighting was a rare thing. Almost always got a nod and a thumbs up, because Mets fans were so rare. ",
+                    "created": "Tue, 13 Jun 2017 12:25:38 GMT"
+                },
+                {
+                    "text": "PPPS: The Mets were one of two teams in MLB who were not the #1 team in a single county in the US. Can you name the other team? (The Mets are now more popular than the Yankees in NYC, though I don't expect that to last.)",
+                    "created": "Tue, 13 Jun 2017 12:26:45 GMT"
+                },
+                {
+                    "text": "PPPPS: The Knicks suck, <a href=\"http://thesaurus.land/?word=perennial\">perennially</a>. Largely because of an inept narcissistic owner. So do the Nets. It's not unusual that NY basketball teams have the highest payroll, we are the largest, richest city in the US after all. But we can't seem to manage a team. Even when we get a <a href=\"https://en.wikipedia.org/wiki/Jeremy_Lin#New_York_Knicks_.282011.E2.80.932012.29\">gift</a> it's rejected as not sufficiently pious. ",
+                    "created": "Tue, 13 Jun 2017 12:27:38 GMT"
+                },
+                {
+                    "text": "PPPPPS: I would not be opposed to NYC trading the Nets for another more interesting team. Like perhaps the Milwaukee Bucks? I like their style. They would be a good NY team. Nothing like that of course will ever happen, but a fan can dream.",
+                    "created": "Tue, 13 Jun 2017 12:29:37 GMT"
+                },
+                {
+                    "text": "PPPPPPS: Failing that it would be cool to have Dolan sell the team to someone with a better organized brain. I thought former Mayor Bloomberg would be a good NBA team owner. ",
+                    "created": "Tue, 13 Jun 2017 12:32:15 GMT"
+                }
+            ]
+        },
+        {
+            "text": "I love writing test posts",
+            "created": "Tue, 13 Jun 2017 13:37:00 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "\"cheesecake\" \"curly\" \"cheesecake\" \"curly\" \"cheesecake\" ",
+                    "created": "Tue, 13 Jun 2017 13:37:05 GMT"
+                }
+            ]
+        },
+        {
+            "text": "I so totally love writing test posts",
+            "created": "Tue, 13 Jun 2017 22:08:37 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I have set up my River5 installation so that it is subscribed to both the XML and JSON versions of Scripting News. So when this post appears in the river <a href=\"http://scripting.com/river.html\">here</a>, if all goes well, it will appear twice, once from each feed. I will let you know if it worked. :rocket:",
+                    "created": "Tue, 13 Jun 2017 22:08:50 GMT"
+                },
+                {
+                    "text": "Update: Only the item from the XML feed appeared. I'm hoping that's because the subscription to the JSON feed hasn't been recognized yet? I'll keep watching. Might have to do another test post in a bit. ",
+                    "created": "Tue, 13 Jun 2017 22:15:03 GMT"
+                },
+                {
+                    "text": "Update: And then as if on queue it <a href=\"http://scripting.com/images/2017/06/13/itshowedup.png\">showed up</a> in the log. ",
+                    "created": "Tue, 13 Jun 2017 22:17:04 GMT"
+                },
+                {
+                    "text": "Update: Uhhhh but <a href=\"http://scripting.com/images/2017/06/13/ooops.png\">this</a> isn't what I hoped for! :-)",
+                    "created": "Tue, 13 Jun 2017 22:20:21 GMT"
+                },
+                {
+                    "text": "Update: There's a problem in how outlines are handled. Added a bit of defensive code to outlinebrowser.js and now it's able to display the item. Tomorrow I have to go back into davereader and fix the translation of source:outline elements to just the outline object in the river item. ",
+                    "created": "Tue, 13 Jun 2017 22:29:43 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Must watch",
+            "created": "Tue, 13 Jun 2017 16:37:06 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I had not seen this before. Former FBI agent explains how Trump has used Russian <a href=\"https://en.wikipedia.org/wiki/Active_measures\">active measures</a> against his opponents. ",
+                    "created": "Tue, 13 Jun 2017 16:44:55 GMT"
+                },
+                {
+                    "text": "<blockquote class=\"twitter-video\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">This is still one of the most damaging moments of testimony I have seen on Trump-Russia. Thanks to Clint Watts for his leadership. <a href=\"https://t.co/6B4FbHoLtt\">pic.twitter.com/6B4FbHoLtt</a></p>&mdash; Adam Parkhomenko (@AdamParkhomenko) <a href=\"https://twitter.com/AdamParkhomenko/status/873979039886839808\">June 11, 2017</a></blockquote><script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
+                    "created": "Tue, 13 Jun 2017 16:44:10 GMT"
+                }
+            ]
+        }
+    ]
+}

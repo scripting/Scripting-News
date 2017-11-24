@@ -1,0 +1,140 @@
+{
+    "text": "October 2",
+    "created": "Mon, 02 Oct 2017 13:49:35 GMT",
+    "name": "02",
+    "subs": [
+        {
+            "text": "Journalism <a href=\"https://www.buzzfeed.com/charliewarzel/the-big-tech-platforms-are-still-botching-breaking-news?utm_term=.itw143JOV#.xoeLje95V\">people</a> say Google is bad at journalism. I must be missing it but why don't they fix it and get Google out of their business. They don't feel they're responsible for anything, not even what they do. Of course Google sucks at journalism. What Google does<i> the best</i> is keep a huge network of computers running against unbelievable attacks from everywhere. The bad guys must always be trying to knock them down. Yet their servers are reliable and run fast. That's what they do best. Everything else is so-so. ",
+            "created": "Tue, 03 Oct 2017 02:54:45 GMT",
+            "type": "outline",
+            "image": "http:///scripting.com/images/2017/10/02/katyPerry.png"
+        },
+        {
+            "text": "Well it's all right, even if the sun don't shine. ",
+            "created": "Mon, 02 Oct 2017 20:07:34 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/914944428284014592"
+        },
+        {
+            "text": "Today's <a href=\"https://www.axios.com/las-vegas-shooting-kills-at-least-20-injures-more-than-100-2491911641.html\">gun tragedy</a> is different because the victims were probably mostly white and they were probably well-distributed from all over the country. This one more than most is an <i>American</i> tragedy. ",
+            "created": "Mon, 02 Oct 2017 20:22:15 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "This was the <a href=\"http://doc.mageddon.org/\">vision</a> for the worldoutline software. You could think of this document as a site or this site as a document.",
+            "created": "Mon, 02 Oct 2017 21:45:29 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I wish blogs could have the concept of required reading for the people who read the site. If I were permitted to require you read something, it would be <a href=\"http://www.npr.org/sections/money/2017/08/25/546127444/episode-790-rough-translations-in-ukraine\">this episode</a> of the Planet Money podcast about how Russia used fake news to fight and win its war with Ukraine. They haven't rolled in the heavy artilery in the US yet. It would be great if we could all get out in front of it, a little. Russians use the net much more effectively than we do, to (I kid you not) wage war with the US. But we are so confused we don't even know we're at war. Listen. ",
+            "created": "Mon, 02 Oct 2017 16:23:20 GMT",
+            "type": "outline",
+            "image": "http:///scripting.com/images/2017/10/02/americanFlag.png"
+        },
+        {
+            "text": "I'm still using a CNAME for the roots of domains and wondering why it works. I opened it as a <a href=\"https://github.com/scripting/Scripting-News/issues/32\">new issue</a> on the Scripting News repo. Let's find out. Also sent a link to the people at <a href=\"https://hover.com/\">Hover</a>. ",
+            "created": "Mon, 02 Oct 2017 14:37:00 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I'm still <a href=\"http://scripting.com/2017/10/01.html#a014003\">repairing</a> sites, and finding old work I did. For example, here are <a href=\"http://opacity.blorkmark.com/\">two</a> <a href=\"http://opacity2.blorkmark.com/\">experiments</a> I did with opacity. I remember how eye-opening this was for me, figuring out how a lot of the special effects on the web work. I ended up using this in a bunch of different places. For example, the purple poundsigns on this blog aren't full opacity. It always bothered me how disruptive they are. Drop the opacity and they aren't so visible. ",
+            "created": "Mon, 02 Oct 2017 15:01:51 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "For the 18th time I rescued <a href=\"http://rssjs.org/\">rssjs.org</a>. Hopefully this time it sticks. ",
+            "created": "Mon, 02 Oct 2017 15:54:08 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Weird drag and drop with Electron app",
+            "created": "Mon, 02 Oct 2017 17:32:57 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I want my Electron app to handle drag-and-drop from the desktop.",
+                    "created": "Mon, 02 Oct 2017 17:33:15 GMT",
+                    "subs": [
+                        {
+                            "text": "I want to drag an OPML file onto it, and have it open it.",
+                            "created": "Mon, 02 Oct 2017 17:33:34 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "I have done this before with Electron apps, for example \"Public Folder\" lets you drag a file onto it to upload it. It works. ",
+                    "created": "Mon, 02 Oct 2017 17:33:44 GMT"
+                },
+                {
+                    "text": "For this app, it works when I'm debugging, but when I build the app, it launches the OPML Editor. This is so weird. ",
+                    "created": "Mon, 02 Oct 2017 17:34:11 GMT"
+                },
+                {
+                    "text": "When I drag an OPML file onto Chrome, it shows me the OPML source. But when I do it with the browser inside Electron it opens it in the OPML Editor.",
+                    "created": "Mon, 02 Oct 2017 17:37:38 GMT"
+                },
+                {
+                    "text": "I figure I have something configured in the OS to make it do this, but I have no memory of doing it and no idea how it might have worked. ",
+                    "created": "Mon, 02 Oct 2017 17:35:00 GMT"
+                },
+                {
+                    "text": "Any suggestions most <a href=\"https://github.com/scripting/Scripting-News/issues/33\">welcome</a>. ",
+                    "created": "Mon, 02 Oct 2017 17:35:20 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Other notable sites saved",
+            "created": "Mon, 02 Oct 2017 15:55:51 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"http://guidelines.scripting.com/\">guidelines.scripting.com</a>",
+                    "created": "Mon, 02 Oct 2017 16:05:04 GMT"
+                },
+                {
+                    "text": "<a href=\"http://bingeworthy.scripting.com/\">bingeworthy.scripting.com</a>",
+                    "created": "Mon, 02 Oct 2017 16:05:09 GMT"
+                },
+                {
+                    "text": "<a href=\"http://source.scripting.com/\">source.scripting.com</a>",
+                    "created": "Mon, 02 Oct 2017 16:05:14 GMT"
+                },
+                {
+                    "text": "<a href=\"http://outlinerhowto.opml.org/\">outlinerhowto.scripting.com</a>",
+                    "created": "Mon, 02 Oct 2017 16:05:18 GMT"
+                },
+                {
+                    "text": "<a href=\"http://newsriver.org/\">newsriver.org</a>",
+                    "created": "Mon, 02 Oct 2017 16:05:24 GMT"
+                },
+                {
+                    "text": "<a href=\"http://infiniteloop.blorkmark.com/\">infiniteloop.blorkmark.com</a>",
+                    "created": "Mon, 02 Oct 2017 16:13:42 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Morning coffee notes",
+            "created": "Mon, 02 Oct 2017 15:01:24 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Apply what we've learned about bots. When someone recites talking points at you in a tweet, you don't have to respond, it might not be human.",
+                    "created": "Mon, 02 Oct 2017 13:49:36 GMT"
+                },
+                {
+                    "text": "Thoughts and prayers count for shit. The way to kill the NRA is through legislation. Remember when you vote. That's how you create change. ",
+                    "created": "Mon, 02 Oct 2017 13:49:49 GMT",
+                    "type": "tweet",
+                    "tweetId": "914850230578958336",
+                    "tweetUserName": "davewiner"
+                },
+                {
+                    "text": "Terrorism is a racist term in the US. It means white people were harmed by people who aren't white. If the shooter is white, he's just crazy.",
+                    "created": "Mon, 02 Oct 2017 13:58:29 GMT"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "text": "September 11",
+    "created": "Mon, 11 Sep 2017 13:20:03 GMT",
+    "name": "11",
+    "subs": [
+        {
+            "text": "I'm working on a new version of the \"Scripting News\" home page. It has three tabs, Blog, Links and About. I was able to bring the tabs back without making too much mess. I really want a clean reading experience. The other big change is that it will now require JavaScript be turned on. I can't keep two versions going and do all the other stuff I have to do. Pretty much everything on the web requires JS nowadays, and there is the <a href=\"http://scripting.com/rss.xml\">RSS feed</a> that has full text of everything, so you will be able to read the blog if you really want to. ",
+            "created": "Mon, 11 Sep 2017 16:08:50 GMT",
+            "type": "outline",
+            "image": "http:///scripting.com/images/2017/09/11/paulBunyon.png"
+        },
+        {
+            "text": "It's a good day to think about web history. There was a lot of news on this day <a href=\"http://scripting.com/2001/09/11.html\">16 years ago</a>. My archive for that day is still here, but many of the sites I linked to that day are gone. \"I've tried to sound the alarms. Every day we lose more of the history of the web. Every day is an opportunity to act to make sure we don't lose more of it. And we should be putting systems into place to be more sure we don't lose future history.\" I wrote that <a href=\"http://scripting.com/2015/09/11/aGoodDayToThinkAboutWebHistory.html\">two years ago</a>. We're not doing better, we're doing worse. This is the web equivalent of climate change. Every non-backward-compatible \"improvement\" to the web kills more archives. ",
+            "created": "Mon, 11 Sep 2017 20:11:00 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "When I hear about <a href=\"http://nypost.com/2017/09/11/at-least-8-dead-after-shooting-in-north-texas-home-police/\">seven people killed</a> at a Dallas Cowboys watch party I think of this speech by <a href=\"http://www.tmj4.com/news/local-news/spirited-debate-on-effects-of-wis-concealed-carry-law-on-milwaukees-crime-problem\">Milwaukee police chief</a> Ed Flynn on how loose gun laws ruin lives. \"Stupid disputes that would have been fist fights are now shootings.\" What are the chances that that's what happened in Plano last night?",
+            "created": "Mon, 11 Sep 2017 16:03:02 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davisshaver/status/907246351968342019\">Davis asks</a> good questions. Like this. \"Are journalists more likely to view Amazon in positive light now that Bezos owns the Post? Perhaps even subconsciously?\" Yes, of course. Because journalists love to get paid. (As we all do.) It's the ultimate form of recognition. Now Bezos is not only in a position to reward journalists, he is able to endow a journalist with enough money so you can do things that have nothing to do with making money. He can put you on the Woodward-Bernstein platform.  Bezos is A-number-one-journalism-sugardaddy right now. The previous #1 was Pierre Omidyar, but now not so much because his once-promising journalism venture didn't turn out to be all that great. ",
+            "created": "Mon, 11 Sep 2017 14:46:14 GMT",
+            "type": "outline",
+            "image": "http:///scripting.com/images/2017/09/11/mrNatural.png"
+        },
+        {
+            "text": "I have another story to tell about influencing journalists. In the 80s I ran a commercial software company, we advertised in most of the industry weeklies. I noticed that the adjectives we used to describe our product were turning up in stories the journalists wrote about us. Journalists read the ads in their own pubs. Not surprising, nor wrong. But I doubt most journalists would admit it. ",
+            "created": "Mon, 11 Sep 2017 14:56:52 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://om.co/2017/09/11/are-top-us-startups-really-startups-dont-think-so/\">Om asks</a> if the top US startups are really startups. If they are, we need a new word for what we used to call startups.  ",
+            "created": "Mon, 11 Sep 2017 14:10:54 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Arrow keys on Scripting News?",
+            "created": "Mon, 11 Sep 2017 13:20:04 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Yesterday on the UX thread, <a href=\"https://github.com/scripting/Scripting-News/issues/25#issuecomment-328370408\">kwebble</a> says:",
+                    "created": "Mon, 11 Sep 2017 13:21:00 GMT",
+                    "subs": [
+                        {
+                            "text": "<i>After opening scripting.com it's not possible to navigate up/down with the keyboard using the up/down or pageup/pagedown cursor keys. I guess focus is not on the content are, but somewhere else.</i>",
+                            "created": "Mon, 11 Sep 2017 13:21:22 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "He's right. This is reproducible. Now, how to fix it?",
+                    "created": "Mon, 11 Sep 2017 13:21:58 GMT"
+                },
+                {
+                    "text": "I tried setting the focus to the divPagebody element on startup, but that didn't do it. This is a hard problem to <a href=\"https://www.google.com/search?q=why+don%27t+the+arrow+keys+work+in+my+web+page&rlz=1C5CHFA_enUS743US747&oq=why+d&aqs=chrome.0.69i59j69i60l2j69i57j69i60j0.1359j0j4&sourceid=chrome&ie=UTF-8\">search</a> for, but other people must have encountered it. I don't think I ever have. ",
+                    "created": "Mon, 11 Sep 2017 13:45:55 GMT"
+                },
+                {
+                    "text": "If you have ideas or pointers, please post a comment on the <a href=\"https://github.com/scripting/Scripting-News/issues/25#issuecomment-328370408\">GitHub issue</a> thread. <i>Thanks!</i>",
+                    "created": "Mon, 11 Sep 2017 13:47:09 GMT"
+                }
+            ]
+        }
+    ]
+}

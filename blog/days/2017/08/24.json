@@ -1,0 +1,126 @@
+{
+    "text": "August 24",
+    "created": "Thu, 24 Aug 2017 14:10:51 GMT",
+    "name": "24",
+    "subs": [
+        {
+            "text": "Good morning conspiracy theorists! :open_mouth: ",
+            "created": "Thu, 24 Aug 2017 14:10:52 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "There's a new version of \"instant dave\" this morning. A complete rewrite. Lots of new features. New <a href=\"http://scripting.com/images/2017/08/22/stillDiggin.png\">look</a>. The same flow as before, but now the posts from \"Scripting News\" can update. There's a list of previous posts arranged vertically. I started with the code in <a href=\"http://screen2.io/\">screen2.io</a>. You can <i>Like</i> a post. And you can write your own posts. Only you and I will see them for now, other people will just see what they post and what I post. It's called Instant <i>Dave</i> after all. Hope you give it a try. If you have feedback, please post a comment <a href=\"http://instantdave.com/#1501260201000\">here</a>. ",
+            "created": "Thu, 24 Aug 2017 14:13:35 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "And of course I see bugs. Glossary elements aren't expanded. And notifications have to have the HTML stripped. (The notification manager on the Mac doesn't do HTML.) There will be a new version hopefully soon. The current version is 0.5.1.",
+            "created": "Thu, 24 Aug 2017 14:16:42 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Note: I am gradually switching to the x.y.z version number format. It's forced on you when you write NPM packages. Of course now I have two schemes in my codebase. This is how things get unnecessarily confusing. Shit happens. ",
+            "created": "Thu, 24 Aug 2017 14:18:07 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "If the US is turning into Russia at some point a politician or journalist or blogger is going to get killed. Roger Stone, Trump's longtime friend, just took a <a href=\"https://www.realclearpolitics.com/video/2017/08/24/roger_stone_if_you_impeach_trump_get_ready_for_violence_our_side_is_heavily_armed_by_the_way.html\">step</a> towards that future. We should take him seriously and put him in jail for a long time, long enough so that he understands that there are limits to what we will tolerate. Threatening politicians with assassination is something we should have never allowed Trump to <a href=\"http://www.politifact.com/truth-o-meter/article/2016/aug/09/context-donald-trumps-second-amendment-people-comm/\">do</a>, no matter how violent and deplorable some of his followers are. ",
+            "created": "Thu, 24 Aug 2017 19:19:56 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/08/15/uncleSam.png"
+        },
+        {
+            "text": "On the Daily podcast <a href=\"http://podcatch.com/pages/18426.html\">yesterday</a> they had an interview with Matt Rosenberg, the NYT reporter who has been stationed in Afghanistan for much of the last 10 years. What should the US do in Afghanistan. Turns out, if we aren't nation-building, we can probably do a deal with the Taliban right now. They suppress Al Qaeda and ISIS within Afghanistan, and we leave. They didn't quite say it this way, but it was inescapable. ",
+            "created": "Thu, 24 Aug 2017 15:38:36 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I'm glad I decided to get a new Apple Watch to replace the <a href=\"https://www.flickr.com/photos/scriptingnews/36779776415/\">one</a> I broke. It felt like a body part was missing. A bunch of people said I should wait till the new version comes out next month. There was a time when I might have waited, but mobile devices now are like mid-size cars. If Volvo comes out with a new model I'm not even going to read the press release. I don't care. I just use it as a watch and to tell me what the date and temp is, and that's all. I was kind of interested to find out my new watch has GPS. It tells me to breathe. OK. I can't figure out how to get it to tell me how many steps I've taken today. I'd find that useful. ",
+            "created": "Thu, 24 Aug 2017 17:05:28 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/2015/03/31/watch.png"
+        },
+        {
+            "text": "Medium 3.0",
+            "created": "Thu, 24 Aug 2017 15:23:23 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I got an email from Product Hunt yesterday announcing <a href=\"https://www.producthunt.com/posts/medium-3-0\">Medium 3.0</a>.",
+                    "created": "Thu, 24 Aug 2017 15:23:27 GMT"
+                },
+                {
+                    "text": "The page doesn't provide a narrative, a bulleted list saying how I should think about the new release. I did read <a href=\"https://www.theverge.com/2017/8/22/16180150/medium-paywall-articles-claps-author-payments\">one</a> of the trade websites, but they mostly talked about the new business model based on \"claps.\" It could be that's the main new thing about 3.0.",
+                    "created": "Thu, 24 Aug 2017 15:23:43 GMT",
+                    "image": "http:///scripting.com/images/2017/08/24/gecko.png"
+                },
+                {
+                    "text": "I've always been critical of Medium, not the software, but what they were doing to the community of individual web writers, people who <a href=\"http://scripting.com/2017/07/31.html#a091728\">blog</a>. At this point I'm not concerned about that. We're in the long tail of the demise of Medium. They'll try this, and something else, and then another thing, each with a smaller probability of making a difference, until they turn it off. At that point, if that happens (disclaimer: I'm often wrong), it will be a disaster. A lot of important stuff was published on Medium over the years. ",
+                    "created": "Thu, 24 Aug 2017 15:25:39 GMT"
+                },
+                {
+                    "text": "But imho Medium still has a bullet in the chamber. They can stop being a silo and become a foundation others can build on, not just a way for writers to make money. Invest in open sourcing all of it, commit to keeping the servers up indefinitely (possibly make a deal with a university) and then invest in the projects that develop out of it. I think it's a reasonable bet, and the best one available at this time to Medium shareholders. ",
+                    "created": "Thu, 24 Aug 2017 15:28:25 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Professor Newmark",
+            "created": "Thu, 24 Aug 2017 14:41:38 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Congrats to Craig Newmark who is now faculty at <a href=\"http://www2.cuny.edu/\">CUNY</a>. ",
+                    "created": "Thu, 24 Aug 2017 14:41:49 GMT"
+                },
+                {
+                    "text": "<img src=\"http:///scripting.com/images/2017/08/24/craigNewmark.png\" width=\"400\" height=\"438\" border=\"0\" alt=\"A picture named craigNewmark.png\">",
+                    "created": "Thu, 24 Aug 2017 14:42:45 GMT"
+                },
+                {
+                    "text": "Couldn't happen to a nicer guy!",
+                    "created": "Thu, 24 Aug 2017 14:43:48 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Geographic welcomes",
+            "created": "Thu, 24 Aug 2017 14:21:18 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "The other day my friend Francine Hardaway expressed concern, on Facebook, that people would think less of Phoenix because President Trump chose to give his dogwhistle-laced race-baiting hate-speech there. She wants smart reasonable people to locate there, and was concerned that people would think less of Phoenix because <i>El Orange</i> decided to throw his flames there. I assured her that nothing could be further from the truth. ",
+                    "created": "Thu, 24 Aug 2017 14:21:24 GMT",
+                    "subs": [
+                        {
+                            "text": "<i>You're doing a good job of spreading the word. Until now I didn't know </i>anyone<i> was trying to get good people to move anywhere. Seriously. I've been suggesting that broadly. It wouldn't be hard to associate a geography with a new technology, just try to encourage a few people leading in the tech to move there. Imagine if there were no NBA and there are a few Steph Curry's floating around out there unaffiliated. Give them a university to play in, students to develop, and money to build what they need to build. And a nice place to live with a hot tub and a swimming pool and nice views and good bike riding and we're all set.</i>",
+                            "created": "Thu, 24 Aug 2017 14:30:23 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "Then this morning Thomas Madsen-Mygdal, founder of the excellent Reboot conference and many startups, also on Facebook, wanted to know what he should tell the new Danish tech ambassador to do. I had advice, similar to what I said to Francine. ",
+                    "created": "Thu, 24 Aug 2017 14:23:17 GMT",
+                    "subs": [
+                        {
+                            "text": "<i>Do things to bring open tech to Denmark, to undermine the control big tech companies have over our means of communication. Focus on people not companies, the companies will follow. That's how Silicon Valley itself got to where it is.</i>",
+                            "created": "Thu, 24 Aug 2017 14:28:51 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "No one as far as I know lays out a welcome mat for people who are technologically creative. My opinion is based on looking for them. Silicon Valley is not one of those places. They are looking for cogs that fit into machines. They want to do the disrupting, and want to keep their power and money. I just want to make cool stuff that makes people more free. ",
+                    "created": "Thu, 24 Aug 2017 14:24:16 GMT"
+                },
+                {
+                    "text": "Denmark is pretty cool and Phoenix is hot. Some place where other people who love free tech congregate, where there's a hot tub and a swimming pool, a place to ride my bike and a free attitude about art and lifestyles, that wants a free and open developer community, that would be a place a lot of interesting people would come to. Of course Google and Facebook et al will open offices there. Then you won't have to take the red eye to Cupertino to be influential. They'll come <i>to you. </i>(Which is the true secret to being influential.)",
+                    "created": "Thu, 24 Aug 2017 14:25:40 GMT"
+                },
+                {
+                    "text": "<i>Note: I don't link to posts on Facebook. </i>",
+                    "created": "Thu, 24 Aug 2017 14:21:38 GMT"
+                }
+            ]
+        }
+    ]
+}

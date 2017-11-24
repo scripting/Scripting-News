@@ -1,0 +1,34 @@
+{
+    "text": "How Frontier is better than Node",
+    "created": "Sat, 10 Jun 2017 15:54:53 GMT",
+    "subs": [
+        {
+            "text": "I just had to write some complex code in Node that would have been easier to write in Frontier. It had to suck in a calendar-structured folder of archived HTML text into a data structure that roughly parallels the folder structure. Frontier makes this easier in several ways:",
+            "created": "Sat, 10 Jun 2017 15:49:41 GMT",
+            "type": "outline",
+            "permalink": "http://scripting.com/2017/06/10.html#a110641"
+        },
+        {
+            "text": "1. It's synchronous. But then so is Node if you want it to be and for this application I used the synchronous version of <a href=\"https://nodejs.org/api/fs.html#fs_fs_readdirsync_path_options\">fs</a> routines. To do it asynch would have taken hours. And since this is code that runs at startup, who cares if it hogs the CPU. It runs once and that's it.",
+            "created": "Sat, 10 Jun 2017 15:50:35 GMT",
+            "permalink": "http://scripting.com/2017/06/10.html#a110635"
+        },
+        {
+            "text": "2. Frontier has a <a href=\"https://github.com/scripting/frontier/blob/master/Common/source/fileloop.c\">fileloop</a> construct that does all the stuff you have to do explicitly in JS, baked into its kernel. A time and complexity saver. ",
+            "created": "Sat, 10 Jun 2017 15:51:37 GMT",
+            "permalink": "http://scripting.com/2017/06/10.html#a110637"
+        },
+        {
+            "text": "3. By far the most important thing is Frontier's integrated debugger. I would use the debugger to write the code. Using it to be sure what values were in what variables to save me the time of having to figure it out. People who haven't worked in an environment where the debgger and editor are the same thing wouldn't understand this. It's the one thing I miss the most. (Node does have a debugger and I use it. I write sloppy first versions so I can get to that point of letting the code speak for itself at runtime.)",
+            "created": "Sat, 10 Jun 2017 15:52:00 GMT",
+            "image": "http://scripting.com/images/2017/06/13/weaselsRippedMyFlesh.png",
+            "permalink": "http://scripting.com/2017/06/10.html#a110600"
+        },
+        {
+            "text": "I often skip over these observations because I am deep in codewriting mode when they occur to me. This time I popped out and wrote it down. A testimony to the value of having a blogging system that excels at quick writing and no production work to publish. ",
+            "created": "Sat, 10 Jun 2017 15:57:50 GMT",
+            "permalink": "http://scripting.com/2017/06/10.html#a110650"
+        }
+    ],
+    "permalink": "http://scripting.com/2017/06/10.html#a110653"
+}

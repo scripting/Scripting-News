@@ -1,0 +1,49 @@
+{
+    "text": "The last day for Fargo",
+    "created": "Tue, 27 Jun 2017 12:39:52 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "According to Dropbox today is the last day to use \"Fargo\". ",
+            "created": "Tue, 27 Jun 2017 12:40:08 GMT",
+            "image": "http://scripting.com/images/2017/06/27/cowgirl.png",
+            "permalink": "http://scripting.com/2017/06/27.html#a080608"
+        },
+        {
+            "text": "A frequently asked question: <i>How do I export my outlines?</i> It's a trick question. You don't. They are sitting in your Dropbox folder in a standard open <a href=\"http://dev.opml.org/spec2.html\">format</a>, supported by any reasonable outliner. They will still be there tomorrow after Fargo stops working.",
+            "created": "Tue, 27 Jun 2017 12:40:28 GMT",
+            "permalink": "http://scripting.com/2017/06/27.html#a080628"
+        },
+        {
+            "text": "BTW, it couldn't hurt to copy them out of your Dropbox folder into a backup somewhere. Better safe than sorry. :cat:",
+            "created": "Tue, 27 Jun 2017 13:02:43 GMT",
+            "permalink": "http://scripting.com/2017/06/27.html#a090643"
+        },
+        {
+            "text": " A <a href=\"http://scripting.com/2016/08/24/fargoTimesOutOnJune2017.html\">reminder</a>, they changed the <a href=\"https://en.wikipedia.org/wiki/Application_programming_interface\">API</a>, and today is the last day the old version of the API works. I decided not to maintain Fargo, so when the old API is turned off Fargo will stop working. ",
+            "created": "Tue, 27 Jun 2017 12:43:46 GMT",
+            "permalink": "http://scripting.com/2017/06/27.html#a080646"
+        },
+        {
+            "text": "If you like the outliner in Fargo, it's available in another package, \"LO2\". The outliner is also available as <a href=\"https://github.com/scripting/concord\">open source</a>, so if you want, perhaps you can get another developer to make it work with Dropbox. ",
+            "created": "Tue, 27 Jun 2017 12:41:13 GMT",
+            "permalink": "http://scripting.com/2017/06/27.html#a080613"
+        },
+        {
+            "text": "Fargo is a great product, but what I hoped would happen with it, has not happened. It is tightly integrated with the Dropbox platform, which has not taken off as a developer ecosystem. I wish it had, but the fact is that it hasn't. At some point you have to cut your losses. That's part of development too. ",
+            "created": "Tue, 27 Jun 2017 12:42:06 GMT",
+            "permalink": "http://scripting.com/2017/06/27.html#a080606"
+        },
+        {
+            "text": "\"curly\"",
+            "created": "Tue, 27 Jun 2017 13:01:24 GMT",
+            "permalink": "http://scripting.com/2017/06/27.html#a090624"
+        },
+        {
+            "text": "<i>Still diggin!</i>",
+            "created": "Tue, 27 Jun 2017 13:01:30 GMT",
+            "permalink": "http://scripting.com/2017/06/27.html#a090630"
+        }
+    ],
+    "permalink": "http://scripting.com/2017/06/27.html#a080652"
+}

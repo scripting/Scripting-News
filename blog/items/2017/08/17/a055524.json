@@ -1,0 +1,11 @@
+{
+    "text": "My defense of Electron",
+    "created": "Thu, 17 Aug 2017 21:55:24 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Here's a <a href=\"http:///scripting.com/images/2017/08/17/dock.png\">screen shot</a> of the Dock on my Mac. Lots of Electron apps. How many are running right now? Seven. And that does not include Slack. Now look at the Activity Monitor in the Dock. Very little resource utilization. A bunch of Electron apps sitting there doing nothing doesn't use very much CPU. Here's a <a href=\"http:///scripting.com/images/2017/08/17/activityMonitor.png\">screen shot</a> of the Activity Monitor window. Dropbox is using 34 percent. After that, a lot of Chrome helpers and a few of the Electron apps. The most expensive is about the same as iTunes. Today's machines have lots of memory and very capable CPUs. Electron is not the issue. I'm sure some of the apps written in Electron suck, but that's not the fault of the platform. ",
+            "created": "Thu, 17 Aug 2017 21:55:30 GMT"
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "text": "New version of the <a href=\"https://github.com/scripting/macwrite\">MacWrite demo app</a> for nodeStorage. I factored the top level into a JavaScript object called <a href=\"https://github.com/scripting/macwrite/blob/master/api.js\">nodeStorageApp</a>. Makes it a little simpler to make a browser-based storage-capable app.",
+    "created": "Wed, 19 Jul 2017 18:31:00 GMT",
+    "type": "outline",
+    "permalink": "http://scripting.com/2017/07/19.html#a023100"
+}

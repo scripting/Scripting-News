@@ -1,0 +1,42 @@
+{
+    "text": "The steps to create a new site in my outliner",
+    "created": "Wed, 08 Nov 2017 16:52:07 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Here are the steps:",
+            "created": "Wed, 08 Nov 2017 16:52:15 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "Press Return.",
+                    "created": "Wed, 08 Nov 2017 16:52:20 GMT"
+                },
+                {
+                    "text": "Enter the title of the site.",
+                    "created": "Wed, 08 Nov 2017 16:52:26 GMT"
+                },
+                {
+                    "text": "Press Return, then Cmd-R. Enter paragraphs for the text that goes on the home page of the site. ",
+                    "created": "Wed, 08 Nov 2017 16:53:00 GMT"
+                },
+                {
+                    "text": "Click on the title headline, then choose the Edit Attributes command.",
+                    "created": "Wed, 08 Nov 2017 16:52:31 GMT"
+                },
+                {
+                    "text": "Enter a <a href=\"http:///scripting.com/images/2017/11/08/editatts.png\">domain attribute</a> with the domain name you want to be mapped to this sub-outline. Click OK.",
+                    "created": "Wed, 08 Nov 2017 16:53:36 GMT"
+                },
+                {
+                    "text": "Save",
+                    "created": "Wed, 08 Nov 2017 16:54:05 GMT"
+                }
+            ]
+        },
+        {
+            "text": "All you have to do from there is map the domain to the server. The CMS server takes care of everything else. ",
+            "created": "Wed, 08 Nov 2017 16:54:10 GMT"
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "text": "One of the feeds in Instant Dave, the <a href=\"http://scripting.com/rss.json\">one</a> from Scripting News, is not processed through \"River5\", it's handled separately. RSS aggregators are complicated because they have to handle all the variability in feeds. Feeds that omit required elements, or do it creatively or in some cases, wrong. For this feed, I assumed it was correct in every way. I can assure that because I maintain the feed. I wanted to see how different things would be if there was less variability. ",
+    "created": "Fri, 25 Aug 2017 14:17:49 GMT",
+    "type": "outline"
+}

@@ -1,0 +1,6 @@
+{
+    "text": "Here's the first release of <a href=\"https://github.com/scripting/publicfolder\">publicFolder</a>. It's a Node app that runs on your desktop and keeps a folder in sync with a location on Amazon S3. We will have a simple-to-use shell soon, but for now, this is for experienced developers. I'm looking for help validating the software, to be sure it works, before building too much on top of it. I see this as essential system software, something we have to be confident in. If you have questions or comments, please post an <a href=\"https://github.com/scripting/publicfolder/issues\">issue</a> on the repo. Here we go! :boom:",
+    "created": "Thu, 14 Sep 2017 14:39:51 GMT",
+    "type": "outline",
+    "image": "http:///scripting.com/images/2017/09/14/salute.png"
+}

@@ -1,0 +1,131 @@
+{
+    "text": "June 6",
+    "created": "Tue, 06 Jun 2017 08:17:42 GMT",
+    "name": "06",
+    "subs": [
+        {
+            "text": "Good morning sports fans!",
+            "created": "Tue, 06 Jun 2017 08:17:43 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Can you imagine a Supreme Court decision re Twitter? Not <a href=\"https://twitter.com/business/status/872284389069254658\">so</a> far-fetched. ",
+            "created": "Wed, 07 Jun 2017 02:52:06 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "If I have an hour to kill all I have to do is write a blog post. Time just flows.",
+            "created": "Tue, 06 Jun 2017 08:50:38 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "When I link to search queries I'm using <a href=\"https://duckduckgo.com/\">DuckDuckGo</a> now. I was using Google figuring that they'd be the most long-lived search engine -- the links would likely work years from now. But it all comes down to what \"work\" <a href=\"https://duckduckgo.com/?q=work&t=h_&ia=web\">means</a>. Google is playing <a href=\"http://scripting.com/davenet/2001/04/30/strategyTax.html\">strategy tax</a> games with search. I no longer consider it authoritative. It misses too many things that are important for reasons that have nothing to do with their value as a search result. I'm bettting that DuckDuckGo has a stronger philosophy and even if they were not to last as long as Google they're still worth supporting. ",
+            "created": "Tue, 06 Jun 2017 12:20:49 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/2017/06/06/duckduckgo.png"
+        },
+        {
+            "text": "An idea. I sent this to my friend <a href=\"https://twitter.com/danmactough?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor\">Dan MacTough</a> who wrote the <a href=\"https://github.com/danmactough/node-feedparser\">FeedParser</a> package for Node that I use in <a href=\"https://github.com/scripting/river5\">River5</a>. \"How about a package that compiles XML text into a JavaScript  object exactly as <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse\">JSON.parse</a> does.\" I got this idea from reading promotional material for the <a href=\"https://jsonfeed.org/\">JSON Feed</a> project. One of their concerns is that XML parsing is too hard. Okay, that's feedback. I think they're right. So let's make it as easy. Easy is good. Why not?",
+            "created": "Tue, 06 Jun 2017 08:29:04 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/06/06/goose.png"
+        },
+        {
+            "text": "Concept for a new Super Hero movie",
+            "created": "Wed, 07 Jun 2017 02:31:56 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "A Super Hero movie starring <i>The Leaders of the Free World, </i>led by Batman-like ex-POTUS *secret* superhero Barack Obama vs his nemesis, the evil super villain DJ \"Donald\" Trump, also known as El Presidente. His superpower is being a smooth-talking sales guy.",
+                    "created": "Wed, 07 Jun 2017 02:32:05 GMT"
+                },
+                {
+                    "text": "Obama's sidekicks <a href=\"https://twitter.com/williamderraugh/status/872530186163630080\">include</a> a Canadian Prime Minister whose superpower is <a href=\"https://duckduckgo.com/?q=crooning&t=h_&ia=web\">crooning</a> and flexing his muscles, doing pullups using only his left pinkie, and the German Chancellor who has a PhD in Physics. They are pictured below at Obama's Fortress of Solitude in the Bahamas or Bermuda or Bali (no one knows for sure).",
+                    "created": "Wed, 07 Jun 2017 02:33:21 GMT"
+                },
+                {
+                    "text": "<img src=\"http://scripting.com/images/2017/06/06/superHerosOfTheFreeWorld.png\" width=\"400\" height=\"267\" border=\"0\" alt=\"A picture named superHerosOfTheFreeWorld.png\">",
+                    "created": "Wed, 07 Jun 2017 02:33:22 GMT"
+                }
+            ]
+        },
+        {
+            "text": "The president's racism",
+            "created": "Tue, 06 Jun 2017 09:44:59 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "It's on display, irrefutable, so why aren't the press making more of it? It's huge news. ",
+                    "created": "Tue, 06 Jun 2017 09:45:11 GMT"
+                },
+                {
+                    "text": "How is it irrefutable? He ignores acts of terrorism where the perp is Christian. Only Muslim terrorism matters. But the Christian kind is more terrifying here in the US. We breed <a href=\"http://www.oregonlive.com/portland/index.ssf/2017/05/man_accused_in_max_attack_cont.html\">deplorable</a> Christians here by the thousands.  ",
+                    "created": "Tue, 06 Jun 2017 09:45:56 GMT"
+                },
+                {
+                    "text": "You know where racist presidents take us, right? If you don't name it, you let it develop in the dark. ",
+                    "created": "Tue, 06 Jun 2017 09:48:09 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Is Facebook broken?",
+            "created": "Tue, 06 Jun 2017 08:17:52 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "A really good <a href=\"https://techcrunch.com/2017/06/04/when-you-look-into-the-news-feed-the-news-feed-looks-into-you/\">piece</a> in TechCrunch, you should read it if you care about social networks, how we got to where we are, and how stuck they are, and how weird it's going to get. The last part is left to your imagination in TechCrunch. But it's what I find most interesting.",
+                    "created": "Tue, 06 Jun 2017 08:18:03 GMT",
+                    "image": "http://static.scripting.com/larryKing/images/2013/12/10/cow.gif"
+                },
+                {
+                    "text": "I'm indirectly quoted in the TechCrunch story. They point to Gruber's <a href=\"https://daringfireball.net/2017/06/fuck_facebook\">piece</a> entitled <i>Fuck Facebook,</i> and it extensively quotes a <a href=\"http://scripting.com/2017/05/31.html#a110526\">piece</a> I wrote that explains why I can't/won't point to blog posts on Facebook. I followed up to <a href=\"http://scripting.com/2017/06/03.html#a010637\">say</a> I continue to use FB and hope they fix the problem and turn FB into a fantastic blogging surface that I can cross-post to from my blog.",
+                    "created": "Tue, 06 Jun 2017 08:19:10 GMT"
+                },
+                {
+                    "text": "I wasn't kidding. I really have no use for FB as a blogging platform as long as they shun the web that gave them life. It was the <a href=\"https://duckduckgo.com/?q=primordial+soup&t=h_&ia=web\">primordial soup</a> they emerged from. Without it, 11-year-old Zuck would have had no way to experiment with social nets. But now Facebook so obviously tries to keep the web out, but my writing depends on the ability to integrate the writing of the web. It's like programming without the ability to factor replicated code into subroutines. <i>In FB blogging you're starting from scratch every time. </i>Yet Zuck uses Facebook to communicate with his users. His posts never have links and no titles, no styling. Just huge numbers of long paragraphs one after the other. That's probably one of the reasons I never read his posts. Maybe his thinking doesn't build on other people's ideas either? I've never met Zuck. Maybe that tells you something. Do you think the Beatles met Chuck Berry? Weird example I know. :shrug:",
+                    "created": "Tue, 06 Jun 2017 08:21:02 GMT"
+                },
+                {
+                    "text": "Should we let the news orgs off the hook? Of course not. They're even worse than Facebook. At least FB lets us post as equals to Zuck. And that's meant some voices have gained traction on FB without approval of Zuck and Company. Examples are numerous. But the NYT? You have to belong to a very exclusive club to be invited to post on their site. You have to know someone. And they have to like you. And that keeps out the truly good ideas. I know that when I read the NYT. I am welcome to read, and to pay, but my ideas aren't good enough to appear alongside the writers of the NYT. So they're even more of a silo than FB. ",
+                    "created": "Tue, 06 Jun 2017 08:23:30 GMT"
+                },
+                {
+                    "text": "I still want the web. Look at the post I wrote yesterday about <a href=\"http://scripting.com/2017/06/05.html#a080612\">RSS-in-JSON</a>. I spent a lot of time thinking about it, preparing, reading background material. How sterile it would have been if I could only <i>mention</i> the work I learned from instead of giving you, the reader, who I respect, a chance to read for yourself. Maybe you'd come to a different conclusion? You have to know, after all these <a href=\"http://scripting.com/2014/10/07/20YearsOfBlogging.html\">years</a>, that that's totally OK with me.",
+                    "created": "Tue, 06 Jun 2017 08:25:28 GMT"
+                },
+                {
+                    "text": "I want the web and Facebook won't give it to me. So I think now Facebook has a huge self-imposed limit to growth, just like the journalists. Eventually I believe they will pay for it. Yet the conventional wisdom in tech is that Facebook won, they killed the goose that gave them the golden egg. I wouldn't bet on it. ",
+                    "created": "Tue, 06 Jun 2017 08:42:10 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Old School really worked",
+            "created": "Tue, 06 Jun 2017 09:05:40 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I have to say my new <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+%22old+school%22&t=h_&ia=web\">blogging platform</a> has made a huge difference.",
+                    "created": "Tue, 06 Jun 2017 09:05:47 GMT"
+                },
+                {
+                    "text": "All the techniques of 20 years ago come right back. I feel in a way like I'm writing in the \"pages\" of HotWired. I feel a confidence I haven't had in a long time. ",
+                    "created": "Tue, 06 Jun 2017 09:05:59 GMT"
+                },
+                {
+                    "text": "It was the right thing to do. Often software only feels that way before you use it. The really good stuff feels that way even after you've settled in.",
+                    "created": "Tue, 06 Jun 2017 09:06:29 GMT"
+                },
+                {
+                    "text": "Now there are things that aren't hooked in. And the Facebook and Twitter metadata don't work properly in this model. I hope they see that and realize we could do better. I can't change their software, only mine. ",
+                    "created": "Tue, 06 Jun 2017 09:07:39 GMT"
+                },
+                {
+                    "text": "Seems that's true of people too btw. If you want change and you're waiting for other people to give it to you, look for ways you can change, and that will automatically make them change. It's powerful, but it's the harder of the two ways. ",
+                    "created": "Tue, 06 Jun 2017 09:08:15 GMT"
+                }
+            ]
+        }
+    ]
+}

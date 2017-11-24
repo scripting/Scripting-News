@@ -1,0 +1,82 @@
+{
+    "text": "September 13",
+    "created": "Wed, 13 Sep 2017 13:32:19 GMT",
+    "name": "13",
+    "subs": [
+        {
+            "text": "Good morning day-after-new-product-from-Apple fans. :pear:",
+            "created": "Wed, 13 Sep 2017 13:32:20 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I'm halfway through the second episode of <a href=\"https://en.wikipedia.org/wiki/Ozark_(TV_series)\">Ozark</a>. It's very weird, for sure. But it's very much a network type TV show, even though there is nudity, strong language, violence. I don't know if they can keep up the pace. My experience with shows that start really fast is that they run out of gas around the middle of the season. I'll keep you posted.",
+            "created": "Wed, 13 Sep 2017 16:46:01 GMT",
+            "type": "outline",
+            "image": "http:///scripting.com/images/2017/09/13/jfk.png"
+        },
+        {
+            "text": "Is President Trump a <a href=\"https://twitter.com/davewiner/status/908130741669810176\">white supremacist</a>?",
+            "created": "Thu, 14 Sep 2017 00:50:32 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/908130741669810176"
+        },
+        {
+            "text": "Thanks once again to the great Jonathan Chait at NY Mag for explaining <a href=\"http://nymag.com/daily/intelligencer/2017/09/sanderss-bill-gets-u-s-zero-percent-closer-to-single-payer.html\">why Bernie Sanders is still selling unicorns</a>. Uncle Bernie is the worst hand-waver anywhere. ",
+            "created": "Wed, 13 Sep 2017 21:33:30 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Why I hate the press. They say oh Hillary why don't you shut up. Just go away. No one wants to hear what you have to say. But, hey Steve Bannon, that was great, can we have more. Haha you wear two shirts. We're smart, we saw that. We're funny, we have a great sense of humor. Never mind you've heard us say shit about Hillary for years, and we're kind of fascinated with Steve Bannon. ",
+            "created": "Wed, 13 Sep 2017 16:41:43 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "How shocked the press are that Russians could plan events on Facebook for Americans in Idaho. What could possibly have stopped them? To stop that from happening, FB would also have to stop regular people from organizing using FB. You can see the problem with that hopefully.",
+            "created": "Wed, 13 Sep 2017 16:38:14 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "One thing I don't understand wrt North Korea. What if the US said to China and Russia and everyone else, fuck you, you guys deal with them. We're standing down. If North Korea wants to blow us up, go for it. But as soon as they launch their missiles at us, we will launch ours at Moscow and Beijing. Deal with it. And btw, fuck you.",
+            "created": "Wed, 13 Sep 2017 16:22:34 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Work on \"Scripting News\" for some reason always gets dicey. That's why I've been shy of working on it for all the years. But I have to keep coming back to it. It's by far the most popular thing I have going on the net. Investment here is more productive than elsewhere. In any case, the problems are solved for now. We have tabs. The sidebar is gone, so we have scrolling with arrow keys again. Now I'm going to work on something else for a while!! Happy. :sunny:",
+            "created": "Wed, 13 Sep 2017 15:34:47 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "TrumpLaw",
+            "created": "Wed, 13 Sep 2017 19:58:24 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "What if Trump were to pardon white police officers of a crime, but not black officers? Would the pardon stand? What if he pardoned a police officer who had been found in contempt of a court order requiring him to stop violating people's rights? Which is more important -- the pardon or the rights that are being violated? And what happens to the court's power to protect us if the president can pardon people to circumvent legal court orders? Turns out there is a case for <a href=\"https://lawnewz.com/high-profile/judge-considers-defying-trump-over-arpaio-pardon/\">vacating Trump's pardon</a> of Joe Arpaio. And this practice is even being given a name: <a href=\"http://www.washingtonexaminer.com/trumplaw-activist-judges-making-up-law-to-hobble-trump/article/2625184\">TrumpLaw</a>. ",
+                    "created": "Wed, 13 Sep 2017 19:58:33 GMT",
+                    "image": "http://static.scripting.com/larryKing/images/2014/04/13/grandpa.gif"
+                }
+            ]
+        },
+        {
+            "text": "The amazing Scripting News community, part 287,658",
+            "created": "Wed, 13 Sep 2017 16:39:21 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I just spent a couple of hours trying to figure out why the tabs on the <a href=\"http://scripting.com/\">new home page</a> don't work on an iPhone. I decided to ask you all if you had any ideas, so I <a href=\"https://twitter.com/davewiner/status/907980895688314880\">recorded a video</a> to demo the problem, and outline my theory. Also took out the sidebar, and replaced it with a directory in the About outline. It was responsible for flakiness elsewhere. I'll probably add it back in a year after I've forgotten the problems it caused. (It's even worse than it appears.) Here's a <a href=\"https://github.com/scripting/Scripting-News/issues/26\">place</a> to discuss. ",
+                    "created": "Wed, 13 Sep 2017 14:54:49 GMT",
+                    "type": "outline"
+                },
+                {
+                    "text": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/PspBzwW1rtk\" frameborder=\"0\" allowfullscreen></iframe>",
+                    "created": "Thu, 14 Sep 2017 01:11:10 GMT"
+                },
+                {
+                    "text": "Update: <a href=\"https://twitter.com/sahilk/status/907982259591954432\">Sahil Khan figured it out</a>. The element #idPageTopText is in front of the tabs, invisibly. It's not a problem on the desktop because there's more space. The fix was easy. Thanks to Mr Khan. (More proof that you often can't see what's right in front of you. In this case literally.)",
+                    "created": "Wed, 13 Sep 2017 15:04:25 GMT",
+                    "type": "outline"
+                }
+            ]
+        }
+    ]
+}

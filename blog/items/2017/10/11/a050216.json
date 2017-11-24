@@ -1,0 +1,52 @@
+{
+    "text": "Enter an emoji using HTML encoded chars",
+    "created": "Wed, 11 Oct 2017 21:02:16 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "First, I wish there was a table somewhere with all the emoji and their hex equivs expressed in HTML format, like this: &#1F4A9; But it's not so bad, you just have to do it for yourself. ",
+            "created": "Wed, 11 Oct 2017 21:02:29 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "Look up the char on this <a href=\"http://www.unicode.org/emoji/charts/full-emoji-list.html\">page</a>, and copy the \"code point value\", something that looks <a href=\"http:///scripting.com/images/2017/10/11/findingEmojiCode.png\">like</a> this: U+1F4A9.",
+                    "created": "Wed, 11 Oct 2017 21:10:07 GMT"
+                },
+                {
+                    "text": "Remove the U+ part.",
+                    "created": "Wed, 11 Oct 2017 21:10:38 GMT"
+                },
+                {
+                    "text": "Add &amp;#x at the beginning and a semicolon at the end -- yielding: &amp;#x1F4A9; ",
+                    "created": "Wed, 11 Oct 2017 21:10:53 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Here are the translations of a few characters:",
+            "created": "Wed, 11 Oct 2017 21:11:43 GMT",
+            "subs": [
+                {
+                    "text": "poop == U+1F4A9 == &#x1f4a9; ",
+                    "created": "Wed, 11 Oct 2017 21:03:39 GMT"
+                },
+                {
+                    "text": "fire == U+1F525 == &#x1f525; ",
+                    "created": "Wed, 11 Oct 2017 21:03:46 GMT"
+                },
+                {
+                    "text": "neutral_face == U+1F610 == &#x1f610; ",
+                    "created": "Wed, 11 Oct 2017 21:04:26 GMT"
+                },
+                {
+                    "text": "smile_cat == U+1F63B == &#x1f63b; ",
+                    "created": "Wed, 11 Oct 2017 21:04:30 GMT"
+                },
+                {
+                    "text": "clap == U+1F44F == &#x1f44f; ",
+                    "created": "Wed, 11 Oct 2017 21:04:33 GMT"
+                }
+            ]
+        }
+    ]
+}

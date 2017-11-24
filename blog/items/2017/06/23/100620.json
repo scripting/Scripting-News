@@ -1,0 +1,44 @@
+{
+    "text": "Thin servers",
+    "created": "Fri, 23 Jun 2017 14:03:20 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Two friends, <a href=\"https://twitter.com/judell\">Jon Udell</a> and <a href=\"https://twitter.com/holden\">Mike Caulfield</a>, are talking about \"dumb\" servers. I call the same things \"thin.\" Also fractional-horsepower servers. They go by a bunch of names, but the idea and motivation is the same. ",
+            "created": "Fri, 23 Jun 2017 14:05:30 GMT",
+            "permalink": "http://scripting.com/2017/06/23.html#a100630"
+        },
+        {
+            "text": "The idea: We move functionality from the server to the edge (desktop, mobile device), repeating until someday there's nothing left on the server. We could go all the way, but it needs a strong operational backend, something a big company is good at, not so much individuals. (With the caveat that some think this problem is distributable, notably the fictional <a href=\"https://www.crunchbase.com/person/richard-hendriks#/entity\">CEO</a> of <a href=\"http://www.piedpiper.com/\">Pied Piper</a>.)",
+            "created": "Fri, 23 Jun 2017 14:24:35 GMT",
+            "permalink": "http://scripting.com/2017/06/23.html#a100635"
+        },
+        {
+            "text": "The key thing is identity. Once you have that solved, it all becomes relatively easy. I've factored out identity into a layer I call \"nodeStorage\". It associates storage with a user's Twitter identity. Twitter is a good service to use, unlike some others, because they have a liberal policy of who gets to <a href=\"https://apps.twitter.com/app/new\">create</a> apps. Faceook has an extensive vetting process. Twitter <a href=\"https://apps.twitter.com/app/new\">is</a> \"let a thousand flowers bloom.\" I know some people have problems with Twitter, but I've learned over many years that all corporate vendors are imperfect. If you're waiting for <a href=\"http://this.how/standards#1497798834000\">perfection</a> you'll wait forever. And you build the software so that if Twitter should again become draconian, a new service can be filled in with as little disruption as possible.",
+            "created": "Fri, 23 Jun 2017 14:05:43 GMT",
+            "image": "http://scripting.com/images/2017/06/17/bowling.png",
+            "permalink": "http://scripting.com/2017/06/23.html#a100643"
+        },
+        {
+            "text": "Another place I've looked is Dropbox. There, with one simple feature, the ability to associate a domain with a folder, they would solve the problem. I know there are external services that provide something \"like\" this, but fundamentally Dropbox doesn't provide enough flexibility in the API to do this in a reasonable way. (Lack of granularity in permissions, an app gets access to one folder or everything.)",
+            "created": "Fri, 23 Jun 2017 14:08:41 GMT",
+            "permalink": "http://scripting.com/2017/06/23.html#a100641"
+        },
+        {
+            "text": "Or Amazon, if their identity system for AWS were simpler for end users, or if their end-user storage system could be accessed through the S3 API. I'm sure they've thought of it. There must be a reason they don't do it. ",
+            "created": "Fri, 23 Jun 2017 14:09:10 GMT",
+            "permalink": "http://scripting.com/2017/06/23.html#a100610"
+        },
+        {
+            "text": "And Twitter could completely eliminate the need for nodeStorage, by offering users a few gigabytes of storage attached to their Twitter account, accessible through the API. The first person who described the feature to me was Jack Dorsey, about eight years ago, when we met for coffee in SF. So he understands why this idea is so powerful. I'm not sure what the holdup is.  ",
+            "created": "Fri, 23 Jun 2017 14:09:55 GMT",
+            "permalink": "http://scripting.com/2017/06/23.html#a100655"
+        },
+        {
+            "text": "In the meantime, \"nodeStorage\" works. I build the kind of apps I want. Open the sidebar on Scripting News (left margin) and have a look at the apps. Some even have <a href=\"https://github.com/scripting/macwrite/blob/master/macwrite.js\">source code</a> so you can see for yourself. ",
+            "created": "Fri, 23 Jun 2017 14:33:10 GMT",
+            "permalink": "http://scripting.com/2017/06/23.html#a100610"
+        }
+    ],
+    "permalink": "http://scripting.com/2017/06/23.html#a100620"
+}

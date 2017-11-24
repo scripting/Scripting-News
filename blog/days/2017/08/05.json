@@ -1,0 +1,31 @@
+{
+    "text": "August 5",
+    "created": "Sat, 05 Aug 2017 15:14:38 GMT",
+    "name": "05",
+    "subs": [
+        {
+            "text": "If you're reading RSS and Atom feeds in Node apps, you need <a href=\"https://github.com/danmactough/node-feedparser\">feedparser</a>, written by my friend Dan MacTough. I've been using his code in my own \"River5\" for years. It's solid and dependable. As a gesture of gratitude I published <a href=\"https://github.com/scripting/feedParserDemo\">example code</a> yesterday that helps you get started with feedparser. ",
+            "created": "Sat, 05 Aug 2017 15:14:39 GMT",
+            "type": "outline",
+            "image": "http:///scripting.com/images/2017/08/05/loveRss.png"
+        },
+        {
+            "text": "\"You can fake caring but you can't fake showing up.\" Not sure said <a href=\"https://duckduckgo.com/?q=You+can+fake+caring+but+you+can%27t+fake+showing+up&t=hq&ia=web\">this</a>, but it's an important idea. ",
+            "created": "Sat, 05 Aug 2017 15:27:02 GMT",
+            "type": "tweet",
+            "tweetId": "893856534853279744",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "<a href=\"https://twitter.com/TimothyDSnyder/status/893832971039494144\">Timothy Snyder</a>: \"Our president is a minor Russian oligarch with major Russian debts.\"",
+            "created": "Sat, 05 Aug 2017 18:35:53 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I post too much <a href=\"https://twitter.com/TheComedyHumor/status/893510547420983296\">Twitter stuff</a> to my blog. I know it. ",
+            "created": "Sat, 05 Aug 2017 18:38:28 GMT",
+            "type": "outline",
+            "urlTweet": "https://twitter.com/TheComedyHumor/status/893510547420983296"
+        }
+    ]
+}

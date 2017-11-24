@@ -1,0 +1,87 @@
+{
+    "text": "September 17",
+    "created": "Sun, 17 Sep 2017 14:20:36 GMT",
+    "name": "17",
+    "subs": [
+        {
+            "text": "The best standard <a href=\"https://twitter.com/davewiner/status/909473880078725120\">practice</a> for how to respond to a bot. :rocket:",
+            "created": "Sun, 17 Sep 2017 18:07:23 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/909473880078725120"
+        },
+        {
+            "text": "An idea for Citibike. When you return the bike you <a href=\"http:///scripting.com/images/2017/09/17/ideaforcitibike.png\">get an email</a>. If the bike needs repair, there should be a place on the confirming email where you can report the problem. (Especially if you return the bike one minute after checking it out at the same station.)",
+            "created": "Sun, 17 Sep 2017 20:42:04 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I'm no fan of Facebook, but please...",
+            "created": "Sun, 17 Sep 2017 14:38:10 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I can't <a href=\"http://scripting.com/2017/05/31.html#a110526\">point</a> to Joan Walsh's rant about Facebook, because she posted it on Facebook, but here's my comment. ",
+                    "created": "Sun, 17 Sep 2017 14:38:18 GMT",
+                    "subs": [
+                        {
+                            "text": "<i>I'm no fan of Facebook, and I am a fan of Joan, but this is crazy talk. \"Allowed\" is Repub-like misdirection. Your phone allows you to say and do all kinds of nasty stuff. If you want your platforms to take an interest in the words we use, more than they already do, you're just inviting fascism in here.</i>",
+                            "created": "Sun, 17 Sep 2017 14:38:45 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "I'd add, there are ways to prevent foreign nationals from breaking US laws using Facebook without condemning Facebook's past actions. ",
+                    "created": "Sun, 17 Sep 2017 14:39:42 GMT"
+                },
+                {
+                    "text": "PS: Here's a <a href=\"http:///scripting.com/images/2017/09/17/walshFacebookPost.png\">screen shot</a> of her post.",
+                    "created": "Sun, 17 Sep 2017 14:40:43 GMT"
+                }
+            ]
+        },
+        {
+            "text": "The <i>publicFolder</i> desktop app takes shape",
+            "created": "Sun, 17 Sep 2017 14:32:30 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"http:///scripting.com/images/2017/09/17/publicFolderScreenShot.png\">Here's</a> the <a href=\"https://twitter.com/davewiner/status/909449458814996480\">screen shot</a>. ",
+                    "created": "Sun, 17 Sep 2017 16:11:50 GMT",
+                    "urltweet": "https://twitter.com/davewiner/status/909449458814996480"
+                },
+                {
+                    "text": "Let me explain what's going on there...",
+                    "created": "Sun, 17 Sep 2017 14:28:45 GMT"
+                },
+                {
+                    "text": "That's an <a href=\"https://electron.atom.io/\">Electron</a> shell. The publicFolder <a href=\"https://github.com/scripting/publicfolder\">package</a> is running inside it. There's a web interface that shows you what's going on. ",
+                    "created": "Sun, 17 Sep 2017 14:28:52 GMT"
+                },
+                {
+                    "text": "It's configured to have three concurrent processes, i.e. three simultaneous file uploads or deletions. All other operations are queued up, when a slot becomes available, the first in the queue is removed and processed. First in first out.",
+                    "created": "Sun, 17 Sep 2017 14:29:50 GMT"
+                },
+                {
+                    "text": "At least once a minute publicFolder gathers stats about the local folder and the S3 image. You can see how many files are in each and how much space they use. Obviously the numbers should be identical. ",
+                    "created": "Sun, 17 Sep 2017 14:30:39 GMT"
+                },
+                {
+                    "text": "You can see how many uploads and deletions have been done since the app first launched, and how many GB of uploads. ",
+                    "created": "Sun, 17 Sep 2017 14:35:32 GMT"
+                },
+                {
+                    "text": "Finally, there's a log of the last 500 operations. So you can scroll through them. The file name is linked to the public version, so you can see what's there (read a page, listen to a song, watch a movie, etc) by clicking the link. ",
+                    "created": "Sun, 17 Sep 2017 14:31:13 GMT"
+                },
+                {
+                    "text": "If you want to review the source, <a href=\"https://github.com/scripting/publicfolder/blob/master/publicfolder.js\">here it is</a>. ",
+                    "created": "Sun, 17 Sep 2017 14:36:23 GMT"
+                },
+                {
+                    "text": "And here's a place for <a href=\"https://github.com/scripting/publicfolder/issues/3\">questions</a> about publicFolder.",
+                    "created": "Sun, 17 Sep 2017 15:28:43 GMT"
+                }
+            ]
+        }
+    ]
+}

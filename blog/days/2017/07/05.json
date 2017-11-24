@@ -1,0 +1,109 @@
+{
+    "text": "July 5",
+    "created": "Wed, 05 Jul 2017 14:09:40 GMT",
+    "name": "05",
+    "subs": [
+        {
+            "text": "I shipped a new product over the holiday weekend, <a href=\"http://this.how/pngWriter/\">pngWriter</a>. :boat: ",
+            "created": "Wed, 05 Jul 2017 14:29:48 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Message to amateur pundits on Facebook: You're not on Hardball or Morning Joe. No one can hear you.",
+            "created": "Wed, 05 Jul 2017 21:55:58 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"http://www.repubblica.it/\">La Repubblica</a>, an Italian news org, <a href=\"http://espresso.repubblica.it/visioni/tecnologia/2017/06/28/news/l-utopia-di-internet-oggi-e-morta-e-anche-i-guru-della-rete-si-sono-pentiti-1.304708\">wrote</a> about techno-utopianism of the 90s. I wrote something for them, quoted in the piece. They wanted to know what went wrong. Here's the <a href=\"http://this.how/gist/technoUtopianism.opml\">full text</a> of what I wrote. ",
+            "created": "Wed, 05 Jul 2017 21:39:00 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "It would be great if we could pool our money to buy political ads. That seems to be what Marc Pincus and Reid Hoffman are <a href=\"https://www.recode.net/2017/7/3/15904484/pincus-hoffman-linkedin-zynga-clinton-win-the-future-democrats-dnc-trump\">doing</a>. If so, let's go! :-)",
+            "created": "Wed, 05 Jul 2017 16:57:19 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "It's July 5 and \"fargo\" is still <a href=\"http://virgin.smallpict.com/2017/07/05/thisIsBecomingADailyTradition.html\">working</a>.  :four_leaf_clover: ",
+            "created": "Wed, 05 Jul 2017 20:30:55 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "pngWriter is of the #indieweb",
+            "created": "Wed, 05 Jul 2017 20:55:50 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "\"pngWriter\" is different from the usual <a href=\"https://duckduckgo.com/?q=%23indieweb&t=h_&ia=web\">#indieweb</a> approach.",
+                    "created": "Wed, 05 Jul 2017 20:55:58 GMT"
+                },
+                {
+                    "text": "Instead of providing an off-Twitter place to post and figuring out how to integrate it with Twitter, as a secondary function, pngWriter posts directly to Twitter, that's its primary purpose. And it also provides an \"RSS 2.0\" feed, so the same flow can be integrated with <i>open web</i> apps. :balloon:",
+                    "created": "Wed, 05 Jul 2017 20:56:13 GMT"
+                },
+                {
+                    "text": "It's also highly customizable through CSS, another open standard. So you can make pngWriter posts look however you want. I've experimented with the style used by NPR and the NYT for their pngWriter-like Twitter posts, for example.",
+                    "created": "Wed, 05 Jul 2017 20:56:56 GMT"
+                }
+            ]
+        },
+        {
+            "text": "It's the sources, dummy! :-)",
+            "created": "Wed, 05 Jul 2017 15:44:25 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "News orgs are in the business of acquiring ideas, background info and new info from sources and turning it into usable information for everyone, including other sources.",
+                    "created": "Wed, 05 Jul 2017 15:52:14 GMT"
+                },
+                {
+                    "text": "News isn't a performing art as it once was, it's now networking and validation. That would suggest that as the new tech came of age, the news orgs would upgrade their service to identifying and enhancing as many of their sources as they can, and giving them ways to communicate directly."
+                },
+                {
+                    "text": "There are millions of people with good <i>non-fake</i> information to share. Making them more effective is one completely valid way to view news.",
+                    "created": "Wed, 05 Jul 2017 15:52:20 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Why I mostly develop for myself these days",
+            "created": "Wed, 05 Jul 2017 14:32:41 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Mostly I hear from users of my free products when things break. At that time I am playing the role of a support person. I don't mind doing it, but when I think about whether or not I want to create products for others to use, the totality of my personal experience with users is the biggest factor. ",
+                    "created": "Wed, 05 Jul 2017 14:32:50 GMT",
+                    "image": "http://scripting.com/images/2017/07/05/marinaraSauce.png"
+                },
+                {
+                    "text": "If most of what I get back are requests to do <i>more</i> for them, a perspective that says \"I am the customer and you are here to serve me,\" without anything coming back, well these days I don't bother shipping the product. I just create stuff for my own use. I've actually come to like that. Then I don't have to worry about what will users who pay no attention be able to figure out. ",
+                    "created": "Wed, 05 Jul 2017 14:33:42 GMT"
+                },
+                {
+                    "text": "Making software is very labor intensive hard stressful work. And the system is totally falling apart. Has been for a long time. If you want people to make new software for you, you should find ways to show appreciation and to help. These days users apply all the intellect our president applies to his job. If a mindless person can't understand your product, then don't bother. So I often don't bother.  No surprise there, right? If there's no reward, why keep banging your head against the wall?",
+                    "created": "Wed, 05 Jul 2017 14:35:01 GMT"
+                },
+                {
+                    "text": "Many developers say the same thing. Maybe what's needed is a better network of software developers. Maybe we should use each others' products so we can work to make them compatible? Maybe users can help spread the word about products they love so the size of the user bases can justify continued development? So there's some hope of some day getting compensation for the hard work we do?",
+                    "created": "Wed, 05 Jul 2017 14:37:40 GMT"
+                }
+            ]
+        },
+        {
+            "text": "More work on the Facebook feed",
+            "created": "Wed, 05 Jul 2017 14:09:57 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I found an error from the original implementation, the one that was based on \"1999.io\". Now the &lt;address> section should be correct. Before it was <i>undefined. </i>In the original implementation it contained my Twitter screen name. Hard to see how Facebook could make any sense of that. ",
+                    "created": "Wed, 05 Jul 2017 14:10:08 GMT",
+                    "image": "http://scripting.com/images/2017/07/05/loveRSS.png"
+                },
+                {
+                    "text": "Here's the <a href=\"http://xmlviewer.scripting.com/?url=http://scripting.com/fb/rss.xml\">unobfuscated view</a> of the feed. Still hoping to see some of my posts show up there in full Instant Articles fidelity. In any case it's nice to get the <a href=\"https://www.npmjs.com/package/daverss\">daverss</a> package up to date with the latest in soon-to-be-obsolete tech (I say that because I bet FB will be fully switching to AMP before long, a journey I don't expect to be taking.) ",
+                    "created": "Wed, 05 Jul 2017 14:11:08 GMT"
+                }
+            ]
+        }
+    ]
+}

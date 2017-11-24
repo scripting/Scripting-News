@@ -1,0 +1,6 @@
+{
+    "text": "I decided to dive into IAM permissions for S3 and see if I could get a writing tool to hook up to S3 at least in a way that programmers and adventurous users could figure it out. But a simple <a href=\"https://gist.github.com/scripting/5fae68dd05a27ef595a916e75b7be773\">Hello World</a> program that uses the credentials gets <i>permission denied</i> so there's something wrong in the setup. Any help much <a href=\"https://github.com/scripting/Scripting-News/issues/19#issuecomment-321283869\">appreciated</a>. ",
+    "created": "Wed, 09 Aug 2017 15:09:10 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2017/07/27/allYourBase.png"
+}

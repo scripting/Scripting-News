@@ -1,0 +1,69 @@
+{
+    "text": "September 22",
+    "created": "Fri, 22 Sep 2017 13:30:31 GMT",
+    "name": "22",
+    "subs": [
+        {
+            "text": "An update to the <a href=\"https://github.com/scripting/outlineBrowser\">outlineBrowser code</a> to incorporate saving and restoring expansion state, as <a href=\"http://scripting.com/2017/09/22.html#a125135\">used</a> in the <a href=\"http://scripting.com/?tab=about\">About tab</a>. ",
+            "created": "Fri, 22 Sep 2017 17:06:42 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Extra bonus. I made it so that the this.how outlines remember expansion state. <a href=\"http://this.how/electricRiver/\">Example</a>. And since this is a standard feature in \"PagePark\", it should work for \"OPML\" files served by PagePark as well. OPML is the format of \"Little Outliner\" so you can see how the pieces fit together.",
+            "created": "Fri, 22 Sep 2017 21:25:37 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "People who <a href=\"http://www.slate.com/blogs/browbeat/2017/09/22/watch_jimmy_kimmel_hit_back_at_republican_critics_who_want_him_to_stay_in.html\">say</a> Jimmy Kimmel should \"stay in his lane\" don't understand self-government. It's his <i>responsibility</i> to be involved in policy.",
+            "created": "Sat, 23 Sep 2017 00:42:28 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Putin used Facebook as a platform, just as anyone else could have. He figured something out that our top people were too complacent to figure out. And when journalists complain, remember they could have competed with Twitter and Facebook to be the platform for politics, and they punted too.  ",
+            "created": "Fri, 22 Sep 2017 15:41:06 GMT",
+            "type": "outline",
+            "image": "http:///scripting.com/images/2017/09/22/michaelClayton.png"
+        },
+        {
+            "text": "In 2009, I wanted Obama to bring the gospel of the Internet to the world, and use it to create democracy everywhere. When he didn't do it, he left the door open for Putin to use it to create kleptocracy everywhere.  ",
+            "created": "Fri, 22 Sep 2017 14:55:23 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Wes Anderson​'s <a href=\"https://twitter.com/nowthisnews/status/911236397016551424\">new film</a> has talking dogs living on an island of trash.",
+            "created": "Fri, 22 Sep 2017 14:32:43 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/nowthisnews/status/911236397016551424"
+        },
+        {
+            "text": "<a href=\"https://en.wikipedia.org/wiki/Multi-factor_authentication#Mobile_phone_two-factor_authentication\">2FA</a> is not as good as people think because the second factor is not very secure. It's pretty easy to <a href=\"https://blog.kraken.com/post/219/security-advisory-mobile-phones/amp/\">hijack</a> your phone. This weakness has been used to <a href=\"https://www.forbes.com/sites/laurashin/2016/12/20/hackers-have-stolen-millions-of-dollars-in-bitcoin-using-only-phone-numbers/amp/\">steal Bitcoin</a>. ",
+            "created": "Fri, 22 Sep 2017 14:23:24 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Almost <a href=\"https://politicalwire.com/2017/09/22/big-majority-want-congress-stabilize-obamacare/\">70 percent</a> want the govt to stabilize ObamaCare, not throw it out. I wonder how Repubs plan to overcome that if they succeed. That's why I think they must want to fail at repeal. They understand polling math better than any of us do. ",
+            "created": "Fri, 22 Sep 2017 14:04:53 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "It might just be me but is the <a href=\"http://podcatch.com/pages/19407.html\">Daily podcast</a> and the NYT tilting more toward the Repubs? Omitting key bits of info that would expose their lies? For example, there's no debate that the new Repub health law would eliminate protection for pre-existing conditions because there is no mandate. It's not health insurance without a mandate. Not really for anyone but certainly not for people with pre-existing conditions. ",
+            "created": "Fri, 22 Sep 2017 13:33:13 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "The About outline remembers",
+            "created": "Fri, 22 Sep 2017 16:51:35 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "A nice-to-have feature in the <a href=\"http://scripting.com/?tab=about\">About tab</a> here on Scripting News. It now remembers the expansion state of the outline, so if you go somewhere else and come back it will be as you left it. Here's a short demo.",
+                    "created": "Fri, 22 Sep 2017 16:51:42 GMT"
+                },
+                {
+                    "text": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/X_Whxz-EYm0\" frameborder=\"0\" allowfullscreen></iframe>",
+                    "created": "Fri, 22 Sep 2017 16:51:56 GMT"
+                }
+            ]
+        }
+    ]
+}

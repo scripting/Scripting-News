@@ -1,0 +1,27 @@
+{
+    "text": "Hooking up to a user's S3 bucket for output",
+    "created": "Fri, 04 Aug 2017 18:19:50 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Suppose I wanted to add a feature to one of my Electron apps that allowed a user to hook it up to an S3 location that they own and pay for. ",
+            "created": "Fri, 04 Aug 2017 18:19:59 GMT"
+        },
+        {
+            "text": "What's the best way to provide access?",
+            "created": "Fri, 04 Aug 2017 18:28:33 GMT"
+        },
+        {
+            "text": "I imagine that's what <a href=\"https://aws.amazon.com/iam/\">IAM</a> is for. ",
+            "created": "Fri, 04 Aug 2017 18:28:41 GMT"
+        },
+        {
+            "text": "I need to dig in. If you know of any easy howto's please <a href=\"https://github.com/scripting/Scripting-News/issues/19\">post a note here</a>. ",
+            "created": "Fri, 04 Aug 2017 18:28:55 GMT"
+        },
+        {
+            "text": "Also just revisited their <a href=\"https://aws.amazon.com/documentation/efs/\">Elastic Filesystem</a> docs and they seem to have come a long way since the last time I looked. ",
+            "created": "Fri, 04 Aug 2017 18:29:08 GMT"
+        }
+    ]
+}

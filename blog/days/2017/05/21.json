@@ -1,0 +1,46 @@
+{
+    "text": "May 21",
+    "created": "Sun, 21 May 2017 16:57:13 GMT",
+    "name": "21",
+    "subs": [
+        {
+            "text": "Slack and metadata scraping?",
+            "created": "Sun, 21 May 2017 16:57:14 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "As you may know I am <a href=\"http://scripting.com/2017/05/16/experimentingWithAPersonalTwitter.html\">flowing</a> all my links through a Slack group. If you want to receive my links that way, you can request an invite following the instructions on this <a href=\"http://scripting.com/2017/05/16/experimentingWithAPersonalTwitter.html\">page</a> (scroll to the end). ",
+                    "created": "Sun, 21 May 2017 16:57:22 GMT"
+                },
+                {
+                    "text": "It's all working well except it's hard to predict when Slack will be able to scrape metadata from the post to present it with an image, title and description. ",
+                    "created": "Sun, 21 May 2017 16:57:46 GMT"
+                },
+                {
+                    "text": "Sometimes it works, but usually it doesn't.",
+                    "created": "Sun, 21 May 2017 16:58:22 GMT"
+                },
+                {
+                    "text": "My posts all have Facebook and Twitter metadata.",
+                    "created": "Sun, 21 May 2017 16:58:29 GMT"
+                },
+                {
+                    "text": "Here's an <a href=\"http://scripting.com/2017/05/21/oneEnclosurePerItemOrMultiple.html\">example</a>.",
+                    "created": "Sun, 21 May 2017 16:58:40 GMT"
+                },
+                {
+                    "text": "I find if I paste a link to one of the pieces hours or days after it initially appeared, then Slack finds the metadata. But if I post the link immediately after the piece is posted, it doesn't. I know the metadata is there, Twitter and Facebook both pick it up properly.",
+                    "created": "Sun, 21 May 2017 16:58:42 GMT"
+                },
+                {
+                    "text": "I tried searching for any techniques to work with this, does Slack require some kind of ping? Is there a cache that only updates so often? Is it possible there's some kind of bug in here? I'm anxious to get this working, so any help would be appreciated.",
+                    "created": "Sun, 21 May 2017 16:59:39 GMT"
+                },
+                {
+                    "text": "You can message me on Twitter at @davewiner, or send email to dave@smallpicture.com. ",
+                    "created": "Sun, 21 May 2017 17:00:31 GMT"
+                }
+            ]
+        }
+    ]
+}

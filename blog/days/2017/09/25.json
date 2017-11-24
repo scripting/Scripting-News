@@ -1,0 +1,113 @@
+{
+    "text": "September 25",
+    "created": "Mon, 25 Sep 2017 13:15:18 GMT",
+    "name": "25",
+    "subs": [
+        {
+            "text": "Here's <a href=\"http://publicfolder.io/\">publicFolder</a> for the Mac. This is the <a href=\"http://this.how/publicFolder/\">howto page</a> for the desktop app. And the source for the Node <a href=\"https://github.com/scripting/publicfolder\">package</a> that implements the core tech, so you can build your own shell around the functionality. ",
+            "created": "Mon, 25 Sep 2017 16:24:22 GMT",
+            "type": "outline",
+            "image": "http:///scripting.com/images/2017/09/25/aryaStark.png"
+        },
+        {
+            "text": "Here's <a href=\"https://github.com/scripting/instantDaveClientDemo\">instantDaveClientDemo</a>. It demos the tech that connects the Instant Dave server with the client. It's based on webSockets and JSON. We can build on this. Here's a demo app, <a href=\"https://github.com/scripting/instantDaveClientDemo/blob/master/code.js\">in source</a>, that you can <a href=\"http://scripting.com/misc/instantDaveClientDemo/\">run</a> or modify. It updates in realtime as I post new items and modify existing ones. ",
+            "created": "Mon, 25 Sep 2017 15:12:31 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Shep Smith <a href=\"https://twitter.com/axios/status/912426241004900352\">tells</a> it like it is, on Fox. ",
+            "created": "Mon, 25 Sep 2017 21:24:45 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/axios/status/912426241004900352"
+        },
+        {
+            "text": "Of course the <a href=\"http://www.memeorandum.com/170925/p67#a170925p67\">kneeling</a> is about <a href=\"http://scripting.com/liveblog/users/davewiner/2016/01/17/0880.html\">race</a>. What a fucked up situation, where American citizens are being killed by the police because of their skin color, and it's gotten to the point where the only way to get attention for the problem is for athletes to protest, and then of course the openly <a href=\"http://uproxx.com/news/sarah-sanders-trump-nfl-anthem-protest/\">racist American government</a> says smugly it isn't about race. Very cute. But you're not fooling anyone. It's about race. ",
+            "created": "Mon, 25 Sep 2017 19:23:37 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "It seems to me perhaps we're <a href=\"https://www.axios.com/north-korea-trumps-remarks-are-clearly-a-declaration-of-war-2489426664.html?utm_source=twitter&utm_medium=social&utm_campaign=organic&utm_content=textshort&utm_term=politics\">getting close</a> to the last minute we can change leadership before we're in a full-scale war with North Korea. I would like to see a new president in place, whose first job is to pull us back from this brink. ",
+            "created": "Mon, 25 Sep 2017 16:17:10 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Wow OKC <a href=\"https://twitter.com/okcthunder/status/912349160606715904\">loves</a> Melo! That's cooool.  ",
+            "created": "Mon, 25 Sep 2017 16:28:37 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/okcthunder/status/912349160606715904"
+        },
+        {
+            "text": "Every day I see something on Facebook that I'd like to post a pointer to on my linkblog. But I never do. I love the web. I won't betray it.",
+            "created": "Mon, 25 Sep 2017 15:49:21 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "BTW, to continue yesterday's <a href=\"http://scripting.com/2017/09/24.html#a094703\">thread</a> about geeks with good hearts. There are tech community people journalists can and should rely on. The press has assumed that we all work at big companies, but the truth is most of the ones you can trust do not. To my  friends in journalism, could you please, next chance you get, explain to your peers that there are people who want to help without locking you in. Thanks. ",
+            "created": "Mon, 25 Sep 2017 14:14:14 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/09/02/mrFrog.png"
+        },
+        {
+            "text": "Matt Mullenweg in 2006",
+            "created": "Mon, 25 Sep 2017 13:54:00 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "People are surprised that Russia was able to use <a href=\"http://scripting.com/2016/07/28/dontFeedDjTrump.html\">trolling</a> to change the outcome of our election, but I wasn't. I had experienced at the hands of some Russian-like tech companies in the early 2000s. I was reminded of it by a <a href=\"https://ma.tt/2006/04/feed-validator/\">screed</a> posted by Matt Mullenweg in 2006. Excellent stuff. All technologists should write and think this way.  ",
+                    "created": "Mon, 25 Sep 2017 13:54:08 GMT"
+                },
+                {
+                    "text": "Matt's post came near the end of a long story involving open technology and some very big tech companies. The <a href=\"https://www.feedvalidator.org/\">Feed Validator</a> app was written by people who worked at IBM and Google, the equivalent of Russia in this story. They ruled by flame. If you said something they didn't like, boom -- a swarm of trolls emerged to push you back. I assume they wanted \"RSS\" to fragment, the same way the Russians today want Americans to be divided. ",
+                    "created": "Mon, 25 Sep 2017 13:54:39 GMT"
+                },
+                {
+                    "text": "To this day it issues <a href=\"https://www.feedvalidator.org/check.cgi?url=http%3A%2F%2Fscripting.com%2Frss.xml\">warnings</a> about my feeds, which you might image would be pretty good RSS. I ignore their warnings and tell other people to ignore them too. Their feed validator, which is also being run by the W3C, is useful when you're developing feed-producing software. It <i>does</i> find bugs. ",
+                    "created": "Mon, 25 Sep 2017 13:57:57 GMT"
+                },
+                {
+                    "text": "But as <a href=\"https://ma.tt/2006/04/feed-validator/\">Matt</a> points out, the whole point of a standard is to bring people together. Which of course is why the big tech companies hated it. Their trolls had the same effect as the Russian trolls did, almost 20 years earlier. To drive us apart. ",
+                    "created": "Mon, 25 Sep 2017 13:56:11 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Trolls on Twitter",
+            "created": "Mon, 25 Sep 2017 13:15:19 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Yesterday Joan Walsh posted a screed on Facebook (sorry <a href=\"http://scripting.com/2017/05/31.html#a110526\">no pointer</a>, just a <a href=\"http:///scripting.com/images/2017/09/25/walshOnFacebook.png\">screen shot</a>) about trolls on Twitter, and how Twitter needs to do something about it.",
+                    "created": "Mon, 25 Sep 2017 13:15:27 GMT"
+                },
+                {
+                    "text": "I asked a straight/naive question -- Isn't blocking him enough?",
+                    "created": "Mon, 25 Sep 2017 13:16:02 GMT"
+                },
+                {
+                    "text": "She replied: \"I've blocked him at least 11 times. I'm done. He's totally recognizable, he uses the same screen name, just adds a number! He's ugly and abusive, and why can't they figure it out? And it always takes about a dozen of us to get his new ID blocked.\"",
+                    "created": "Mon, 25 Sep 2017 13:16:22 GMT"
+                },
+                {
+                    "text": "And then Hue Ha said: \"Joan it's not personal. Twitter is losing $100 million every three months; unfortunately protecting their users is not a priority. And these tech companies are full of servers; there's very few people in them.\"",
+                    "created": "Mon, 25 Sep 2017 13:18:31 GMT"
+                },
+                {
+                    "text": "She went on to tell how she was a driver for Uber. \"Uber only communicated with drivers by canned emails, people think it's like American Airlines with a lost luggage department.\"",
+                    "created": "Mon, 25 Sep 2017 13:19:05 GMT"
+                },
+                {
+                    "text": "So the problem is and isn't solvable. If Twitter had the personnel to do it, they could recognize the pattern and shut him down when he pops up. Or at least be more responsive to claims of abuse. But they don't have the people, or the money to hire them. Twitter is bleeding cash. They <i>can't</i> throw money at it. ",
+                    "created": "Mon, 25 Sep 2017 13:26:04 GMT"
+                },
+                {
+                    "text": "More and more I'm realizing that Twitter and Facebook are just new instances of something we're really familiar with -- mail lists and discussion groups, without the human qualities. We found the answer, many years ago -- blogs. There's a physics to online discourse. Twitter/Facebook solve some of the problems of discussion groups, with blocking and following, but underneath it all it's still the same problem, everyone's voice is equal, so one troll can shut the whole thing down.  ",
+                    "created": "Mon, 25 Sep 2017 13:19:41 GMT"
+                },
+                {
+                    "text": "There are things I like about Facebook, still -- for example it allows me to interact with a TV personality like Walsh. I don't get angry with her for posting regurgitated MSNBC talking points, because she is a source of them. But when I want to speak and have a chance at being heard, nothing beats my blog.",
+                    "created": "Mon, 25 Sep 2017 13:23:09 GMT"
+                }
+            ]
+        }
+    ]
+}

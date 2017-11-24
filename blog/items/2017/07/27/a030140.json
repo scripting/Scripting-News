@@ -1,0 +1,33 @@
+{
+    "text": "Extrapolation and interpolation",
+    "created": "Thu, 27 Jul 2017 19:01:40 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "The other day I was trying to explain to an educated and intelligent non-native English speaker what <a href=\"https://duckduckgo.com/?q=define+extrapolate&t=hq&ia=definition\">extrapolation</a> means. I was looking for an analogy and couldn't come up with one. Something in the real world that is an extrapolation. Struggling, I asked my friend if he knows what <a href=\"https://duckduckgo.com/?q=define+interpolate&t=hq&ia=definition\">interpolation</a> means. No, not that either. ",
+            "created": "Thu, 27 Jul 2017 19:01:50 GMT",
+            "permalink": "http://scripting.com/2017/07/27.html#a030150"
+        },
+        {
+            "text": "Well I still don't have an analogy, but I can explain the concepts. ",
+            "created": "Thu, 27 Jul 2017 19:06:24 GMT",
+            "permalink": "http://scripting.com/2017/07/27.html#a030624"
+        },
+        {
+            "text": "Imagine two points, A and B and a line connecting them. Put an arrow at the end of the line and then plot a point C that's also on the line. C is an extrapolation of A and B.",
+            "created": "Thu, 27 Jul 2017 19:03:08 GMT",
+            "permalink": "http://scripting.com/2017/07/27.html#a030308"
+        },
+        {
+            "text": "For interpolation, imagine two points, and a line connecting them. Put a point on the line, inbetween the two points. That's an interpolation.",
+            "created": "Thu, 27 Jul 2017 19:03:56 GMT",
+            "permalink": "http://scripting.com/2017/07/27.html#a030356"
+        },
+        {
+            "text": "In logic and stats it doesn't always follow that new data follow the pattern of previous data, but if they do, these are the words we use to describe the phenomenon. ",
+            "created": "Thu, 27 Jul 2017 19:04:38 GMT",
+            "permalink": "http://scripting.com/2017/07/27.html#a030438"
+        }
+    ],
+    "permalink": "http://scripting.com/2017/07/27.html#a030140"
+}

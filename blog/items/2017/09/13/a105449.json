@@ -1,0 +1,5 @@
+{
+    "text": "I just spent a couple of hours trying to figure out why the tabs on the <a href=\"http://scripting.com/\">new home page</a> don't work on an iPhone. I decided to ask you all if you had any ideas, so I <a href=\"https://twitter.com/davewiner/status/907980895688314880\">recorded a video</a> to demo the problem, and outline my theory. Also took out the sidebar, and replaced it with a directory in the About outline. It was responsible for flakiness elsewhere. I'll probably add it back in a year after I've forgotten the problems it caused. (It's even worse than it appears.) Here's a <a href=\"https://github.com/scripting/Scripting-News/issues/26\">place</a> to discuss. ",
+    "created": "Wed, 13 Sep 2017 14:54:49 GMT",
+    "type": "outline"
+}

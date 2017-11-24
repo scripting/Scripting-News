@@ -1,0 +1,40 @@
+{
+    "text": "Another day of test posts",
+    "created": "Wed, 14 Jun 2017 14:02:02 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "So sorry for all the interruptions.    ",
+            "created": "Wed, 14 Jun 2017 14:02:07 GMT",
+            "permalink": "http://scripting.com/2017/06/14.html#a100607"
+        },
+        {
+            "text": "I'm trying to get support for RSS-in-JSON nailed down.",
+            "created": "Wed, 14 Jun 2017 14:02:12 GMT",
+            "subs": [
+                {
+                    "text": "Part of that is getting it to understand outlines that are included in RSS items. ",
+                    "created": "Wed, 14 Jun 2017 14:02:23 GMT",
+                    "permalink": "http://scripting.com/2017/06/14.html#a100623"
+                },
+                {
+                    "text": "That works in the XML version, but not yet in the JSON version.",
+                    "created": "Wed, 14 Jun 2017 14:02:38 GMT",
+                    "permalink": "http://scripting.com/2017/06/14.html#a100638"
+                }
+            ],
+            "permalink": "http://scripting.com/2017/06/14.html#a100612"
+        },
+        {
+            "text": "Paradoxically the problem is that it's a bit simpler to convert, because we're not trying to pass them through the feedparser package. ",
+            "created": "Wed, 14 Jun 2017 14:02:48 GMT",
+            "permalink": "http://scripting.com/2017/06/14.html#a100648"
+        },
+        {
+            "text": "So this is such an outline. Let's see if it works.",
+            "created": "Wed, 14 Jun 2017 14:03:13 GMT",
+            "permalink": "http://scripting.com/2017/06/14.html#a100613"
+        }
+    ],
+    "permalink": "http://scripting.com/2017/06/14.html#a100602"
+}

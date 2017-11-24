@@ -1,0 +1,93 @@
+{
+    "text": "August 13",
+    "created": "Sun, 13 Aug 2017 13:44:11 GMT",
+    "name": "13",
+    "subs": [
+        {
+            "text": "The best interview I heard about Charlotteville was with retired <a href=\"https://en.wikipedia.org/wiki/Russel_L._Honor%C3%A9\">General Russel  Honoré</a> last night on MSNBC. He said a militia attacked the city. The combination of lots of high powered guns and protests overwhelmed the small-city police. Haven't been able to find it online.  ",
+            "created": "Mon, 14 Aug 2017 03:27:54 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Game of Thrones took a turn to idiocy. In one moment the Mother of Dragons didn't want to finish Cersei off, now she's sold on Jon Snow's vision of the army of the dead attacking from the north. What changed her mind? We never saw it happen. Was it the note from the three-eyed Raven? Who knows. After last week's <a href=\"https://www.youtube.com/watch?v=pE2wcBeyNdk\">glorious battle scene</a>, they shot their wad. Back to the story which consists mostly of reunions and weird pairings of characters doing really really really really stupid things.",
+            "created": "Mon, 14 Aug 2017 03:15:29 GMT",
+            "type": "outline",
+            "image": "http:///scripting.com/images/2017/08/13/typrionLannister.png"
+        },
+        {
+            "text": "Occam's <a href=\"http://talkingpointsmemo.com/edblog/hes-one-of-them?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+Talking-Points-Memo+(Talking+Points+Memo:+by+Joshua+Micah+Marshall\">deduction</a>. If he quacks like a duck, he's probably a duck.",
+            "created": "Sun, 13 Aug 2017 16:48:39 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Two words cover the last week with Trump: 1. brinksmanship and 2. careening.",
+            "created": "Sun, 13 Aug 2017 21:34:42 GMT",
+            "type": "tweet",
+            "tweetId": "896847621712736256",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "I'm usually totally against <a href=\"https://en.wikipedia.org/wiki/Social_justice_warrior\">SJWs</a> attacking people on the net, but in the case of Nazis who crawled out of their holes to show their faces in Charlottesville, please, go right ahead. ",
+            "created": "Sun, 13 Aug 2017 16:56:44 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Part of Trump's comments yesterday about children playing with their parents, more than the usual Trump creep factor. ",
+            "created": "Sun, 13 Aug 2017 21:06:44 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/896840415332225024"
+        },
+        {
+            "text": "I can't figure out why people are so psyched about the eclipse. There was a very-near-total eclipse in Palo Alto in 1989 or thereabouts. I was there. It got dark. Then it got light. I looked at it in one of those special cards. Yeah there's the eclipse. What's next? I don't get fireworks either however. Maybe it's the same kind of thing. ",
+            "created": "Sun, 13 Aug 2017 21:16:00 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "In the future, every segment on Face The Nation, Meet The Press, Rachel Maddow, will be available as a YouTube video within minutes of it airing. Their interviews should not be proprietary. We all have an interest in them. And they should circulate easily over the web. ",
+            "created": "Sun, 13 Aug 2017 16:11:39 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "The #indieweb storage system",
+            "created": "Sun, 13 Aug 2017 13:44:12 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I've tried to explain this idea many ways over the years. This time I'm going to explain it technically, without any detours or analogies.",
+                    "created": "Sun, 13 Aug 2017 13:44:20 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Call the service WebStor. It's a storage system for the web. ",
+                            "created": "Sun, 13 Aug 2017 13:44:57 GMT"
+                        },
+                        {
+                            "text": "There's a website that allows you to browse your files. Upload new ones, delete them, change the attributes of files individually or as groups. It's a lot like the browser interface for Dropbox but it does more than Dropbox does. ",
+                            "created": "Sun, 13 Aug 2017 13:45:40 GMT"
+                        },
+                        {
+                            "text": "You can attach a CNAME to any folder, like mycoolblog.org. When a request comes in for mycoolblog.org, WebStor serves the content out of the folder that had the CNAME attribute. ",
+                            "created": "Sun, 13 Aug 2017 13:47:59 GMT"
+                        },
+                        {
+                            "text": "There's an API, based on OAuth, that lets blogging tools post to a user's account, possibly limited to a specific folder. That way Mary, an independent developer, could write a blogging tool worked with WebStor. And so could Sue and Megan and Arnold. And because it's OAuth, the user can control which one has access to which folders.  ",
+                            "created": "Sun, 13 Aug 2017 13:51:25 GMT"
+                        },
+                        {
+                            "text": "The user pays for the service. No advertising. Unless the site gets huge traffic the cost should be at most a few dollars a month.",
+                            "created": "Sun, 13 Aug 2017 14:04:06 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "That's the idea. If we had this then users could own their own space in the web and developers could create tools for the users. Instead of just having a few developers, all of them large, creating silos, a thousand tools could bloom, as could many cloud-based storage services. But we need one to go first. ",
+                    "created": "Sun, 13 Aug 2017 13:53:07 GMT"
+                },
+                {
+                    "text": "I've also posted this as an <a href=\"https://github.com/scripting/Scripting-News/issues/21\">issue</a> on the GitHub repo for Scripting News, so there's an easy place for people to ask questions. ",
+                    "created": "Sun, 13 Aug 2017 13:57:48 GMT"
+                }
+            ]
+        }
+    ]
+}

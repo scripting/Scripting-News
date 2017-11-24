@@ -1,0 +1,52 @@
+{
+    "text": "June 20",
+    "created": "Tue, 20 Jun 2017 12:04:23 GMT",
+    "name": "20",
+    "subs": [
+        {
+            "text": "Anyone want to blog-debate about XML vs JSON? I've spent years using both, I think I have an objective view of the strengths of each. Imho, they are almost the same thing. XML has attributes and values, and that does make it more complex. Slightly. But you don't have to use the extra features. Look at \"OPML\" for an idea of a simple very JSON-like application of XML. Beyond that, there's really no difference. If you disagree, write a post, link to this and send me the link. I will read what you wrote, and respond, on <a href=\"http://scripting.com/\">my blog</a>, if I have something to say.  There's been so much bullshit flying around. I'd like to cut through that. ",
+            "created": "Wed, 21 Jun 2017 02:56:47 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/06/20/penny.png"
+        },
+        {
+            "text": "It helps to remember we're in a war",
+            "created": "Tue, 20 Jun 2017 14:44:03 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "People assume the <a href=\"http://gizmodo.com/gop-data-firm-accidentally-leaks-personal-details-of-ne-1796211612\">massive data dump</a> by the Repub consultant was an accident. That's not known. One thing for sure, it caused massive damage to American democracy. It <i>could</i> be an escalation in the war against the US. The country hasn't yet acknowledged that we're in a war. We started to when Obama was president. ",
+                    "created": "Tue, 20 Jun 2017 14:39:52 GMT",
+                    "image": "http://scripting.com/images/2017/06/20/porky.png"
+                },
+                {
+                    "text": "It's too easy to attack us. Imagine being able to attack your enemy and they don't even realize it's an attack. And the lack of mature thinking about tech in journalism and the herd mentality (no original thinking, just looking for leaks) means we never figure it out. We haven't caught up to the last attack, and new more damaging ones are <i>certainly</i> underway. ",
+                    "created": "Tue, 20 Jun 2017 14:51:07 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Repubs and ObamaCare",
+            "created": "Tue, 20 Jun 2017 12:31:44 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Republicans stuck it to themselves and everyone else after years of campaigning on undoing ObamaCare, justifying this idea with lies. Did any of them think one or two steps out, that someday they'd be in a position to have their bluff called? Now look at where they/we are. About to do real damage to the country. ",
+                    "created": "Tue, 20 Jun 2017 13:17:37 GMT",
+                    "image": "http://scripting.com/images/2017/06/20/orange.png"
+                },
+                {
+                    "text": "As <a href=\"https://en.wikipedia.org/wiki/Marge_Gunderson\">Marge Gunderson</a> <a href=\"https://www.youtube.com/watch?v=vmoYpJIUWhY\">asked</a> in Fargo (the movie):",
+                    "created": "Tue, 20 Jun 2017 12:04:24 GMT",
+                    "type": "outline",
+                    "subs": [
+                        {
+                            "text": " \"And for what? A little bit of money. There's more to life than a little money you know. Don't you know that?\"",
+                            "created": "Tue, 20 Jun 2017 12:31:25 GMT"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

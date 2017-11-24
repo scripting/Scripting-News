@@ -1,0 +1,23 @@
+{
+    "text": "Feature request for AWS",
+    "created": "Sun, 28 May 2017 14:25:32 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "A URL that includes a path to a folder in S3. When you open that URL in the web browser, a page opens up with S3 viewing that path. This would save me a lot of steps and scrolling. Buckets can get very long, esp over many years!",
+            "created": "Sun, 28 May 2017 14:25:42 GMT",
+            "permalink": "http://scripting.com/2017/05/28.html#a100542"
+        },
+        {
+            "text": "Of course please let me know if this feature already exists.",
+            "created": "Sun, 28 May 2017 14:26:04 GMT",
+            "permalink": "http://scripting.com/2017/05/28.html#a100504"
+        },
+        {
+            "text": "Update: Of course it does. Just <a href=\"http://scripting.com/images/2017/05/28/s3url.png\">look</a> in the address area in the browser. ;-)",
+            "created": "Sun, 28 May 2017 14:31:19 GMT",
+            "permalink": "http://scripting.com/2017/05/28.html#a100519"
+        }
+    ],
+    "permalink": "http://scripting.com/2017/05/28.html#a100532"
+}

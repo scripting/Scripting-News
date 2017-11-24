@@ -1,0 +1,23 @@
+{
+    "text": "July 23",
+    "created": "Sun, 23 Jul 2017 14:45:58 GMT",
+    "name": "23",
+    "subs": [
+        {
+            "text": "Happy Sunday. Just had a remarkable programming session. At the beginning of the session I had a nice <a href=\"https://github.com/paulmillr/chokidar\">chokidar</a>-based image uploader app in Node. I wanted to get started at putting it into an Electron shell. A couple of hours and it's done. There's an image that was uploaded with it in the right margin. The cool thing is that it hooks into the OS, no polling, so there's zero latency. Drop an image in the folder and it's up before you can bring the app to the front. Debugged a race condition, a file deleted before it was read, and then realized I had two copies of the app running. ",
+            "created": "Sun, 23 Jul 2017 14:45:59 GMT",
+            "type": "outline",
+            "image": "http:///scripting.com/images/2017/07/23/bomb.png"
+        },
+        {
+            "text": "Here's a <a href=\"http:///scripting.com/images/2017/07/23/uploader.png\">screen shot</a> of the app of an image of of itself uploaded by itself. I could have kept going, but I decided not to. :bomb:",
+            "created": "Sun, 23 Jul 2017 15:03:04 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "It's 78F here in NYC, humid but it feels delightful compared to the heat we've been having. Feels like springtime! Might have to wear a sweater (just kidding).",
+            "created": "Sun, 23 Jul 2017 15:08:33 GMT",
+            "type": "outline"
+        }
+    ]
+}

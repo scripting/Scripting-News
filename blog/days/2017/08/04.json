@@ -1,0 +1,135 @@
+{
+    "text": "August 4",
+    "created": "Fri, 04 Aug 2017 13:26:11 GMT",
+    "name": "04",
+    "subs": [
+        {
+            "text": "Good morning beer drinkers! :beer: ",
+            "created": "Fri, 04 Aug 2017 13:26:12 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/BFI/status/893418749822255108"
+        },
+        {
+            "text": "<a href=\"https://twitter.com/NYCWater/status/893569853545734148\">Summer Streets</a> is tomorrow. Park Ave is open to bike riders <a href=\"https://www.google.com/maps/dir/Park+Ave+%26+E+72nd+St,+New+York,+NY+10021/Brooklyn+Bridge,+New+York,+NY+10038/@40.7386761,-74.0200266,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89c258eb3f6868c5:0x2112eb436b9cf240!2m2!1d-73.9639279!2d40.7711473!1m5!1m1!1s0x89c25a2343ce7b2b:0x2526ddba7abd465c!2m2!1d-73.9968643!2d40.7060855!3e2\">from</a> 72nd down to the Brooklyn Bridge. It's a treat to experience the city largely without cars on three Saturdays in August. ",
+            "created": "Fri, 04 Aug 2017 21:00:04 GMT",
+            "type": "outline",
+            "urlTweet": "https://twitter.com/NYCWater/status/893569853545734148"
+        },
+        {
+            "text": "Einstein and his <a href=\"https://twitter.com/HistoryInPix/status/893605218226769920\">therapist</a>.  ",
+            "created": "Fri, 04 Aug 2017 23:01:31 GMT",
+            "type": "outline",
+            "urlTweet": "https://twitter.com/HistoryInPix/status/893605218226769920"
+        },
+        {
+            "text": "Probably <a href=\"https://en.wikipedia.org/wiki/Chronology_of_Soviet_secret_police_agencies\">Russian</a> secret police wanted <a href=\"https://www.secretservice.gov/\">Secret Service</a> out of <a href=\"http://nymag.com/daily/intelligencer/2017/08/secret-service-exits-trump-tower-over-lease-dispute-report.html\">Trump Tower</a>.",
+            "created": "Fri, 04 Aug 2017 16:23:34 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "The next episode of Game of Thrones has <a href=\"http://variety.com/2017/digital/news/game-of-thrones-episode-leak-online-hbo-hack-1202515776/\">leaked</a>. Here's a <a href=\"https://twitter.com/davewiner/status/893504022920998912\">poll</a> that asks if you would watch it tonight or wait until Sunday. ",
+            "created": "Fri, 04 Aug 2017 16:09:08 GMT",
+            "type": "outline",
+            "urlTweet": "https://twitter.com/davewiner/status/893504022920998912"
+        },
+        {
+            "text": "Hooking up to a user's S3 bucket for output",
+            "created": "Fri, 04 Aug 2017 18:19:50 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Suppose I wanted to add a feature to one of my Electron apps that allowed a user to hook it up to an S3 location that they own and pay for. ",
+                    "created": "Fri, 04 Aug 2017 18:19:59 GMT"
+                },
+                {
+                    "text": "What's the best way to provide access?",
+                    "created": "Fri, 04 Aug 2017 18:28:33 GMT"
+                },
+                {
+                    "text": "I imagine that's what <a href=\"https://aws.amazon.com/iam/\">IAM</a> is for. ",
+                    "created": "Fri, 04 Aug 2017 18:28:41 GMT"
+                },
+                {
+                    "text": "I need to dig in. If you know of any easy howto's please <a href=\"https://github.com/scripting/Scripting-News/issues/19\">post a note here</a>. ",
+                    "created": "Fri, 04 Aug 2017 18:28:55 GMT"
+                },
+                {
+                    "text": "Also just revisited their <a href=\"https://aws.amazon.com/documentation/efs/\">Elastic Filesystem</a> docs and they seem to have come a long way since the last time I looked. ",
+                    "created": "Fri, 04 Aug 2017 18:29:08 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Feedparser sample code",
+            "created": "Fri, 04 Aug 2017 18:01:34 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "TL;DR: New <a href=\"https://github.com/scripting/feedParserDemo/blob/master/demo.js\">sample code</a> for getting started with feed parsing in Node. ",
+                    "created": "Fri, 04 Aug 2017 18:02:03 GMT"
+                },
+                {
+                    "text": "I use the <a href=\"https://github.com/danmactough/node-feedparser\">feedparser</a> package in <a href=\"https://github.com/scripting/river5\">River5</a>. So all my news flows through this code. That's a lot of news, and it's been working solidly for years.",
+                    "created": "Fri, 04 Aug 2017 18:01:40 GMT"
+                },
+                {
+                    "text": "Back in 2013 when I was getting started on Node, it was a little tricky adapting to feedparser, because the package is designed for maximum efficiency at the expense of a bit of ease-of-use, especially for a Node newbie. "
+                },
+                {
+                    "text": "In the spirit of giving back to a product I use a lot, I pulled out a bit of <a href=\"https://github.com/scripting/reader/blob/master/davereader.js#L555\">code</a> from River5 and simplified it so it makes a <a href=\"https://github.com/scripting/feedParserDemo/blob/master/demo.js\">good demo</a> of feedparser. ",
+                    "created": "Fri, 04 Aug 2017 18:04:41 GMT"
+                },
+                {
+                    "text": "If you're new to feedparser, this might help you get started a bit faster with less head-scratching. :beer:",
+                    "created": "Fri, 04 Aug 2017 18:05:05 GMT"
+                }
+            ]
+        },
+        {
+            "text": "If only CSS was better",
+            "created": "Fri, 04 Aug 2017 15:52:19 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I was reading a bit about the <a href=\"https://duckduckgo.com/?q=why+css+sucks&t=hu&ia=web\">history</a> of CSS, and kept thinking -- what a shame, they did it totally backwards. This is what I would have done. First I would have made a design tool that worked really well. Then I'd have it spit out XML (sorry JSON didn't exist at the time) and teach the browser to render that. All this would happen iteratively. ",
+                    "created": "Fri, 04 Aug 2017 15:53:16 GMT"
+                },
+                {
+                    "text": "The priorities would be:",
+                    "created": "Fri, 04 Aug 2017 15:47:16 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Leverages the talents of designers.",
+                            "created": "Fri, 04 Aug 2017 15:48:29 GMT"
+                        },
+                        {
+                            "text": "Good performance in the browser and on the net (considerations: how long to render, how big the files are, latency, bandwidth, out over time).",
+                            "created": "Fri, 04 Aug 2017 15:48:53 GMT"
+                        },
+                        {
+                            "text": "Elegance of the format used to communicate the design to the browser.",
+                            "created": "Fri, 04 Aug 2017 15:49:32 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "The third item is way way down the list. Yes it should be easy to do it by hand. But we shouldn't <i>always</i> be doing it by hand as it works now. ",
+                    "created": "Fri, 04 Aug 2017 15:54:23 GMT"
+                },
+                {
+                    "text": "What we ended up using was impossible to create a tool for, is utterly perplexing to everyone who has to use it, and is missing huge features that cripple everything we do. The <i>whole world</i> is now built around the crazy design system called CSS. Everywhere and everything.",
+                    "created": "Fri, 04 Aug 2017 15:49:59 GMT"
+                },
+                {
+                    "text": "Also I have to say we were working on exactly this at <a href=\"http://scripting.com/dwiner/outlinersProgramming.html\">Living Videotext</a> in 1986 and 1987. Had done a lot of prototyping. It was rules-based and you could see the impact of your rules immediately on the screen. Made iteration fast. Would have been perfect for responsive design. ",
+                    "created": "Fri, 04 Aug 2017 15:50:59 GMT"
+                },
+                {
+                    "text": "It's one of those \"if only\" things -- if only we had been in position to do this, in a competitive way. That's one of the big tradeoffs of going the <a href=\"https://www.w3.org/Consortium/activities\">standards</a> route. You often get really bad designs and have to live with their limits, for a generation or two. ",
+                    "created": "Fri, 04 Aug 2017 16:01:05 GMT"
+                }
+            ]
+        }
+    ]
+}

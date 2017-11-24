@@ -1,0 +1,6 @@
+{
+    "text": "If you're reading \"OPML\" files in Node apps, the new <a href=\"https://github.com/scripting/opmlToJs\">opmlToJs package</a> is the way to go. I'm using it in \"PagePark\" to serve OPML files that are then rendered through in-page JavaScript. Works great. It's how I did the <a href=\"http://this.how/electricRiver\">Electric River howto</a>. I expect to use it for lots of docs. (Also updated <a href=\"http://rssjs.org/\">rssjs.org</a> to use the new design.)",
+    "created": "Sat, 17 Jun 2017 20:01:53 GMT",
+    "type": "outline",
+    "permalink": "http://scripting.com/2017/06/17.html#a040653"
+}

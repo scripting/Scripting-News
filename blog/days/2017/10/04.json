@@ -1,0 +1,65 @@
+{
+    "text": "October 4",
+    "created": "Wed, 04 Oct 2017 14:19:55 GMT",
+    "name": "04",
+    "subs": [
+        {
+            "text": "Braintrust question: <a href=\"https://github.com/scripting/Scripting-News/issues/34\">Quick MySQL-on-Mac playground?</a> ",
+            "created": "Thu, 05 Oct 2017 01:23:55 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"http://scripting.com/2017/10/04/wisdomOfNetworking.m4a\">Podcast</a>: It shouldn't be that easy for one person to shoot 600 people.",
+            "created": "Wed, 04 Oct 2017 19:35:17 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2017/10/04/wisdomOfNetworking.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "4388512"
+        },
+        {
+            "text": "The Repubs get to frame the whole conversation about gun control. Don't politicize it, they say. A proper mourning period please. This is first class trolling. Don't engage. Just plow ahead. ",
+            "created": "Wed, 04 Oct 2017 14:56:09 GMT",
+            "type": "outline",
+            "image": "http:///scripting.com/images/2017/10/04/goldenGirl.png"
+        },
+        {
+            "text": "If you want to download MySQL for the Mac, here's the <a href=\"https://dev.mysql.com/get/Downloads/MySQL-5.7/mysql-5.7.19-macos10.12-x86_64.dmg\">direct download</a> link. They really try to upsell you to Oracle and get you to create an account. Meh.",
+            "created": "Wed, 04 Oct 2017 21:19:13 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://www.theverge.com/2017/7/10/15946642/two-factor-authentication-online-security-mess\">Two-factor</a> actually makes your account <i>less</i> secure. Security on phones is terrible. If your phone is hijacked, the hackers could control of any two-factor account you have. And it's easy to talk a telco into giving you control of someone else's phone. Two-factor is a very misleading name. It's not two factors, it's the <i>weakest of</i> two factors. It's not <i>and</i> it's <i>or.</i>",
+            "created": "Wed, 04 Oct 2017 16:30:53 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Speaking as a lifelong Knicks fan, currently somewhat in remission (hah!), I have to say Fox Sports hit the nail on the head with the <a href=\"http://www.nydailynews.com/sports/basketball/knicks/hopeless-knicks-greet-nyc-subway-riders-due-fs1-ad-campaign-article-1.3538210\">Knicks Hopeless</a> campaign. The moment of max hopelessness was reading the headline that <a href=\"http://www.ajc.com/sports/nba-fans-stunned-tim-hardaway-million-deal/3BDBrrw0u6gqnboyT23wBP/\">Tim Hardaway</a> had gotten a $71 million contract and then learning that it was the Knicks who paid that for him. Until Dolan leaves, the Knicks will continue to <a href=\"https://www.si.com/nba/2016/06/22/derrick-rose-trade-knicks-worst-deals-team-history-andrea-bargnani\">sputter</a> in hopelessness.",
+            "created": "Wed, 04 Oct 2017 15:16:26 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Where is the wolf for the news ecosystem?",
+            "created": "Wed, 04 Oct 2017 14:38:53 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Jay Rosen <a href=\"https://twitter.com/jayrosen_nyu/status/914645808435355648\">tweets</a> provocatively, where is the wolf for news? He includes a stunning video about the rebirth of the Yellowstone ecosystem after they reintroduced wolves. It's totally worth watching.",
+                    "created": "Wed, 04 Oct 2017 14:33:44 GMT",
+                    "urltweet": "https://twitter.com/jayrosen_nyu/status/914645808435355648"
+                },
+                {
+                    "text": "Anyway, no one knows what if anything will cause a rebooting of news in a constructive way that responds to the challenges of 2017 and beyond. But if such a thing exists, I suspect it has something to do with aggregation, because we need it, and the current ways we get it are so inadequate and not near the potential of the Internet to deliver.",
+                    "created": "Wed, 04 Oct 2017 14:39:35 GMT"
+                },
+                {
+                    "text": "Aggregation is what Twitter and Facebook do for news. Neither company designed or tuned their products to news, it sort of just happened. What if there were a news aggregator that provided a customizable feed from many sources and only included vetted sources, known to at least be trying to present accurate news. I don't know if that's the wolf, but it's needed.",
+                    "created": "Wed, 04 Oct 2017 14:39:48 GMT"
+                },
+                {
+                    "text": "Over the years the news industry has pointed the finger at every tech leader, in turn, without ever taking on the problem of net-based news distribution itself. We gave them a great start with \"RSS\". Now Facebook is to blame. All they did is ruthlessly harness the native power of the net, in a fairly crude first-approach sort of way. Lots more iteration and refinement is possible. To win it requires cooperation among the competitors in news, and that might be impossible. ",
+                    "created": "Wed, 04 Oct 2017 14:51:36 GMT"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "text": "August 11",
+    "created": "Fri, 11 Aug 2017 13:22:49 GMT",
+    "name": "11",
+    "subs": [
+        {
+            "text": "The question is what if anything is left after Trump is done.",
+            "created": "Fri, 11 Aug 2017 18:47:53 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "When Trump hosted Russians in the Oval Office everyone thought they planted listening devices. Now in August they're tearing it down. ",
+            "created": "Sat, 12 Aug 2017 01:11:04 GMT",
+            "type": "tweet",
+            "tweetId": "896177261426114560",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "As the war situation gets worse, the thought of Trump supporters going crazy with their guns seems tame. The NRA needs to get them nukes.",
+            "created": "Sat, 12 Aug 2017 01:05:28 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Think about offering Trump a few billion dollars to resign. Most presidents would be insulted, but I have a feeling Trump would be tempted.",
+            "created": "Fri, 11 Aug 2017 18:52:25 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "During the campaign Trump very openly said he might use nuclear weapons. That disqualified him to be the person who decides when to use them. Yet here we are. It was 100 percent predictable we'd be where we are now. And it's  likely to get even worse. It's hard to see how we come back from this. ",
+            "created": "Fri, 11 Aug 2017 15:25:27 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Introducing the daveutils package",
+            "created": "Fri, 11 Aug 2017 13:22:50 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "When I started programming seriously in JavaScript, I did what a lot of programmers do, I started a <i>utils</i> file where I put all the general-purpose routines I like to have around. ",
+                    "created": "Fri, 11 Aug 2017 13:24:10 GMT"
+                },
+                {
+                    "text": "That's what <a href=\"https://www.npmjs.com/package/daveutils\">daveutils</a> is. An NPM package of handy JavaScript <a href=\"https://github.com/scripting/utils/blob/master/daveutils.js\">functions</a>. ",
+                    "created": "Fri, 11 Aug 2017 13:24:56 GMT"
+                },
+                {
+                    "text": "Frontier programmers will find these functions immediately familiar. They are borrowed from the builtin verb set of \"Frontier\". And of course those routines were borrowed from the programming I did on the Mac before there was a Frontier. So these names go a long way back. ",
+                    "created": "Fri, 11 Aug 2017 13:24:56 GMT"
+                },
+                {
+                    "text": "BTW, this is the second in the series of NPM packages I'm going to roll out here on \"Scripting News\". The first was opml2JS, <a href=\"http://scripting.com/2017/08/07.html#a093801\">introduced</a> on August 7.",
+                    "created": "Fri, 11 Aug 2017 13:25:41 GMT"
+                }
+            ]
+        }
+    ]
+}

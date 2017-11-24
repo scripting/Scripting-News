@@ -1,0 +1,42 @@
+{
+    "text": "November 21",
+    "created": "Tue, 21 Nov 2017 06:29:46 GMT",
+    "name": "21",
+    "subs": [
+        {
+            "text": "Here's my page of <a href=\"http://bingeworthy.io/users/davewiner/\">best binges</a>. ",
+            "created": "Tue, 21 Nov 2017 15:20:58 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "The new version of \"BingeWorthy\" is released, v0.5.11. The docs have been <a href=\"http://this.how/bingeworthy/#1511275218000\">updated</a> to show you how to create your own public ratings page. If you want tweet a link to your page, cc to @davewiner. I'll be RTing them so people can see what's up. ",
+            "created": "Tue, 21 Nov 2017 15:21:30 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Also there's a JSON version of the ratings page, so it can plug into other apps, if that's interesting. Here's the <a href=\"http://bingeworthy.io/users/davewiner/ratings.json\">JSON version</a> of the ratings on my page. To find yours, there's a link at the bottom of your ratings page or just add <i>ratings.json</i> to the URL for your HTML page. ",
+            "created": "Tue, 21 Nov 2017 15:26:17 GMT"
+        },
+        {
+            "text": "There are also fixes and tweaks in the new version. One of the most consequential is that the browser's Find command now works in \"Bingeworthy\". With a long list of programs that scrolls off the bottom of the screen, having a Find command that works is pretty essential. ",
+            "created": "Tue, 21 Nov 2017 15:49:23 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Thanks to: NakedJen for putting together the initial list of programs with help from her friends in Salt Lake City. To JY Stervinou for lots of coaching on SQL and tireless testing and feedback on the initial design and all through development. Also bad French humor. And Scott Hanson and Andrew Shell for testing help. It's so important to have people who care and pitch in as software is developed. Thank you all so much! :boom: ",
+            "created": "Tue, 21 Nov 2017 16:18:30 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://twitter.com/TheTedNelson/status/932997433277128705\">Ted Nelson</a>: \"The Four Horsemen of Respectability — Shallowness, Conventionality, Pomposity and Smugness.\"",
+            "created": "Tue, 21 Nov 2017 16:02:10 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/TheTedNelson/status/932997433277128705"
+        },
+        {
+            "text": "<a href=\"https://en.wikipedia.org/wiki/Ayn_Rand\">Ayn Rand</a>, <a href=\"https://en.wikipedia.org/wiki/Rand_Paul\">Rand Paul</a> and <a href=\"https://en.wikipedia.org/wiki/Paul_Ryan\">Paul Ryan</a> walk into a bar. The bartender serves them tainted alcohol because there are no regulations. They die.",
+            "created": "Tue, 21 Nov 2017 06:29:47 GMT",
+            "type": "outline"
+        }
+    ]
+}

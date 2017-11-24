@@ -1,0 +1,23 @@
+{
+    "text": "Publishing HowTo docs from Little Outliner",
+    "created": "Wed, 27 Sep 2017 19:48:34 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "This <a href=\"http://my.this.how/users/davewiner/myOutlines/howtosInLittleOutliner.opml\">howto</a> shows how to publish howto's in \"Little Outliner\". ",
+            "created": "Wed, 27 Sep 2017 15:13:02 GMT"
+        },
+        {
+            "text": "I added a <a href=\"http://my.this.how/users/davewiner/myOutlines/howtosInLittleOutliner.opml#1506529449000\">section</a> on customizing the howto's using CSS. ",
+            "created": "Wed, 27 Sep 2017 16:25:37 GMT"
+        },
+        {
+            "text": "Fixed a bug in \"Little Outliner\". If you deleted a file-level attribute, if would not save the deletion in the OPML file. v1.68a.",
+            "created": "Wed, 27 Sep 2017 15:47:12 GMT"
+        },
+        {
+            "text": "I used PagePark to implement this feature. <a href=\"https://github.com/scripting/pagePark/issues/9\">Here's how</a> I did it. ",
+            "created": "Wed, 27 Sep 2017 19:26:34 GMT"
+        }
+    ]
+}

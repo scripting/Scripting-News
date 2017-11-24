@@ -1,0 +1,79 @@
+{
+    "text": "September 15",
+    "created": "Fri, 15 Sep 2017 13:19:42 GMT",
+    "name": "15",
+    "subs": [
+        {
+            "text": "A couple of small improvements to \"Instant Dave\". 1. We now only show notifications for posts you are able to see in the timeline. 2. And we strip the HTML from the notifications, since they aren't correctly interpreted by the Notification Manager on the Mac. The new version, v0.5.4, is now available for download. ",
+            "created": "Fri, 15 Sep 2017 18:09:33 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "On <a href=\"http://podcatch.com/pages/19214.html\">today's Daily podcast</a>, an interview with Bernie Sanders about his bill to provide Medicare for everyone. The <a href=\"https://www.nytimes.com/2017/06/01/insider/inside-the-daily-with-michael-barbaro.html?mcubz=1&_r=0\">host</a> asks why introduce the bill if it has no chance of passing. \"You have to start somewhere.\" I agree. Obama always prenegotiated. Instead of saying what he really wanted, he proposed a compromise. The Repubs took advantage. Bernie says go for what you want. Accept less if you have to, but that's where the negotiating starts. Also gives Dems something to campaign on in 2018 and 2020. Good move. ",
+            "created": "Sat, 16 Sep 2017 00:47:40 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<i>Morning Coffee Notes</i> was the name of my early <a href=\"http://scripting.com/morningCoffeeNotes/\">podcast</a>, but before that it was a <a href=\"https://duckduckgo.com/?q=%22morning+coffee+notes%22+site%3Ascripting.com&t=h_&ia=web\">recurring title</a> here on \"Scripting News\". I created a MCN headline when I wanted to start over a new day. When the good morning message needed to be encapsulated so a new top item could appear. Today was <a href=\"http://scripting.com/2017/09/15.html#a095937\">one</a> of those days, the first in a long time. ",
+            "created": "Fri, 15 Sep 2017 15:35:38 GMT",
+            "type": "outline",
+            "image": "http:///scripting.com/images/2017/09/15/elizabethWarrenActionFigure.png"
+        },
+        {
+            "text": "<a href=\"https://www.newyorker.com/culture/annals-of-appearances/the-nightmare-faces-of-apple-engineering-and-cindy-shermans-instagram\">Re Apple's Face ID</a>: \"Who—for the price of a thousand bucks—owns whom?\" Good question. We loved personal computers in the beginning because they were off the grid, out of the reach of the priesthood and the military industrial state. One of the companies that made these liberating products was Apple Computer, Inc. Woz's Apple, not the Apple of 2017.",
+            "created": "Fri, 15 Sep 2017 15:33:02 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Rebooting our societal intellect",
+            "created": "Fri, 15 Sep 2017 13:59:58 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "At first I was ambivalent about Chelsea Manning as a fellow at <a href=\"https://www.hks.harvard.edu/\">HKS</a>. But seeing all that it has stirred up, I think she would be good. You <i>want</i> lightning rods to help identify issues and boundaries. I understand the objections, let's get those people at HKS too, and discuss the issues, like scholars. That's what universities are for. ",
+                    "created": "Fri, 15 Sep 2017 14:00:07 GMT"
+                },
+                {
+                    "text": "I know so many influential people in academia, many who were early participants in the web and blogosphere. We were there in the early days when online discourse held great promise for bringing the differences of the world together, to be accepted, de-weaponized. It turned out the opposite. We brought the differences together and enhanced them, and the rage spilled out into the real world. ",
+                    "created": "Fri, 15 Sep 2017 14:00:53 GMT"
+                },
+                {
+                    "text": "<a href=\"https://www.hks.harvard.edu/announcements/statement-dean-elmendorf-regarding-invitation-chelsea-manning-be-visiting-fellow\">Firing</a> Chelsea Manning was a <a href=\"http://talkingpointsmemo.com/livewire/harvard-revokes-chelsea-manning-visiting-fellow-title\">mistake</a>, but an understandable one. Let's get the <a href=\"http://nypost.com/2017/09/14/ex-cia-director-resigns-from-harvard-over-manning-fellowship/\">guy who quit</a> to come back and spend more time at HKS, and get more people on either side of this divide, study it, civil discourse it to death, and see what we're left with.",
+                    "created": "Fri, 15 Sep 2017 14:02:11 GMT"
+                },
+                {
+                    "text": "I think the university is our way out of the intelletual logjam we're in. We have to use all the tools at our disposal, including academic discourse. ",
+                    "created": "Fri, 15 Sep 2017 14:03:16 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Morning coffee notes",
+            "created": "Fri, 15 Sep 2017 13:59:37 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Good morning everyone. Nothing special on the calendar for today. Apple's products are announced. <a href=\"https://github.com/scripting/publicfolder\">publicFolder</a> package is released. I'm thinking about new projects for the fall and beyond. Hope everyone is healthy and happy. ",
+                    "created": "Fri, 15 Sep 2017 13:19:43 GMT",
+                    "type": "outline",
+                    "image": "http:///scripting.com/images/2017/09/15/uhuru.png"
+                },
+                {
+                    "text": "Wouldn't it be nice to have a random emoji? An emoji that when viewed generates a random choice every time? I'm going to simulate it now by closing my eyes and randomly clicking on a short code on this <a href=\"https://www.webpagefx.com/tools/emoji-cheat-sheet/\">page</a>. :pushpin: ",
+                    "created": "Fri, 15 Sep 2017 13:21:07 GMT",
+                    "type": "outline"
+                },
+                {
+                    "text": "JavaScript is getting <a href=\"https://blog.pragmatists.com/top-10-es6-features-by-example-80ac878794bb\">too big</a>. I wish that the Ecmascript working group, instead of adding more obscure features that <i>people will use</i> (and therefore I have to understand to be able to follow their code), would work on a profile (or subset) of the language, that includes a single construct to do each thing, and no more. One way to write a function, for example. No conditional assignment (even though I use it, and think it's clearer in some cases). Languages that get too <a href=\"https://en.wikipedia.org/wiki/Software_bloat\">big</a> become dinosaurs more quickly. What was the <a href=\"https://en.wikipedia.org/wiki/Ada_(programming_language)\">name</a> of that language that was supposed to replace C and Pascal because it had everything everyone could ever want? ",
+                    "created": "Fri, 15 Sep 2017 13:27:04 GMT",
+                    "type": "outline"
+                },
+                {
+                    "text": "Sometimes I do picture searches to find things for the right margin. I stumbled across <a href=\"https://www.nobelprize.org/nobel_prizes/physics/laureates/2004/wilczek_bio_1.jpg\">this picture</a> of my friend Betsy Devine, long before I knew her. People who are beautiful, like <a href=\"http://images.scripting.com/archiveScriptingCom/2005/01/27/63900005.jpg\">Betsy</a>, are beautiful their whole lives. ",
+                    "created": "Fri, 15 Sep 2017 13:32:44 GMT",
+                    "type": "outline"
+                }
+            ]
+        }
+    ]
+}

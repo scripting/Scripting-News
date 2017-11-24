@@ -1,0 +1,38 @@
+{
+    "text": "Another source code clue",
+    "created": "Mon, 29 May 2017 15:42:20 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "If I give a variable a short name or all lowercase, then you can bet it's very local. ",
+            "created": "Mon, 29 May 2017 15:42:25 GMT",
+            "permalink": "http://scripting.com/2017/05/29.html#a110525"
+        },
+        {
+            "text": "I thought I had stopped doing this, it came up in one of my talks with Brent last week, but I do still do it. I just did it in fact in some new code I wrote. ",
+            "created": "Mon, 29 May 2017 15:43:38 GMT",
+            "permalink": "http://scripting.com/2017/05/29.html#a110538"
+        },
+        {
+            "text": "And it shows up everywhere. ",
+            "created": "Mon, 29 May 2017 15:44:08 GMT",
+            "permalink": "http://scripting.com/2017/05/29.html#a110508"
+        },
+        {
+            "text": "For example, a string that just appears in a calculation to save time or space, or to make the code more debuggable (I can examine an intermediate value more easily) will probably be called <i>s</i>. ",
+            "created": "Mon, 29 May 2017 15:44:13 GMT",
+            "permalink": "http://scripting.com/2017/05/29.html#a110513"
+        },
+        {
+            "text": "A parameter to a callback routine that's used once in the first line of the callback might also be called <i>s, jsontext</i> or <i>htmltext</i>. If it was going to be used throughout the callback, or after a few lines of code, it would get a longer or more descriptive name. Probably would still be all lowercase though.",
+            "created": "Mon, 29 May 2017 15:44:53 GMT",
+            "permalink": "http://scripting.com/2017/05/29.html#a110553"
+        },
+        {
+            "text": "If it's a local declared at the top of a complex function, it would get a camelCase name, to signal to the reader that it's more important, and also to make it possible to search for it. A variable named <i>s</i> would be problematic because there might be more than one in different scopes, not the same variable. ",
+            "created": "Mon, 29 May 2017 15:46:16 GMT",
+            "permalink": "http://scripting.com/2017/05/29.html#a110516"
+        }
+    ],
+    "permalink": "http://scripting.com/2017/05/29.html#a110520"
+}

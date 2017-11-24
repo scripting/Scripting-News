@@ -1,0 +1,35 @@
+{
+    "text": "The publicFolder desktop app is starting to take shape",
+    "created": "Sun, 17 Sep 2017 14:20:37 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "<a href=\"http:///scripting.com/images/2017/09/17/publicFolderScreenShot.png\"><img src=\"http:///scripting.com/images/2017/09/17/pfHpScrSh.png\" width=\"426\" height=\"215\" border=\"0\" alt=\"A picture named pfHpScrSh.png\"></a>",
+            "created": "Sun, 17 Sep 2017 14:20:54 GMT"
+        },
+        {
+            "text": "Click the screen shot to see it full-size. ",
+            "created": "Sun, 17 Sep 2017 14:27:16 GMT"
+        },
+        {
+            "text": "Let me explain what's going on there...",
+            "created": "Sun, 17 Sep 2017 14:28:45 GMT"
+        },
+        {
+            "text": "That's an Electron shell. The publicFolder package is running inside it, and there's a web interface that shows you what's going on. The changes in the last two versions were to add stats gathering and to improve the interface betw the server components (running in Node) and the UI that's browser-based.",
+            "created": "Sun, 17 Sep 2017 14:28:52 GMT"
+        },
+        {
+            "text": "It's configured to have three concurrent processes, a file upload or deletion. All other operations are queued up, and when a slot becomes available, one of them is removed from the queue.",
+            "created": "Sun, 17 Sep 2017 14:29:50 GMT"
+        },
+        {
+            "text": "At least once a minute it gathers stats about the local folder and the S3 image. You can see how many files are in each and how much space they use. Obviously the numbers should be the same. ",
+            "created": "Sun, 17 Sep 2017 14:30:39 GMT"
+        },
+        {
+            "text": "There's a log of the last 500 operations. So you can scroll through them. The file name is linked to the public version, so you can see what's there (read a page, listen to a song, watch a movie, etc) by clicking the link. ",
+            "created": "Sun, 17 Sep 2017 14:31:13 GMT"
+        }
+    ]
+}

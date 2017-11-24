@@ -1,0 +1,93 @@
+{
+    "text": "August 6",
+    "created": "Sun, 06 Aug 2017 14:35:39 GMT",
+    "name": "06",
+    "subs": [
+        {
+            "text": "I've been modularizing my <a href=\"https://www.w3schools.com/nodejs/\">Node</a> work using <a href=\"https://en.wikipedia.org/wiki/Npm_(software)\">NPM packages</a>. Murphy-willing I'm going to be writing each of them up, in turn, <a href=\"http://scripting.com/2017/08/\">here</a> on Scripting News. You'll recognize the functionality as the kind of stuff you need to build DaveLand on the Internets in Node. The first one up is a really good OPML-to-and-from-JavaScript package. Naturally this stuff will mostly be of interest to developers and people who might want to become one.",
+            "created": "Sun, 06 Aug 2017 16:21:01 GMT",
+            "type": "outline",
+            "image": "http:///scripting.com/images/2017/08/06/wonderWoman.png"
+        },
+        {
+            "text": "The way you know podcasting isn't dominated by anyone is at the end of every podcast. There is no single place to go to hear a podcast. (This is in response to a <a href=\"https://www.bloomberg.com/news/articles/2017-07-31/spotify-is-coming-after-apple-with-a-new-podcast-initiative\">Bloomberg piece</a> that said among other things that Apple dominates podcasting and Spotify is going to challenge them, which I say is nuts.)",
+            "created": "Sun, 06 Aug 2017 16:53:34 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I did a <a href=\"http://scripting.com/2017/08/06/appleDoesNotDominatePodcasts.m4a\">voice memo</a> for Rex about Apple and podcast \"dominance.\"",
+            "created": "Sun, 06 Aug 2017 23:48:50 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2017/08/06/appleDoesNotDominatePodcasts.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "4293925"
+        },
+        {
+            "text": "I know this is unfashionable for someone with my values and friendships, but maybe the people who blame the press for the mess have a point.",
+            "created": "Sun, 06 Aug 2017 19:48:56 GMT",
+            "type": "tweet",
+            "tweetId": "894284218859233280",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "Watched a bit of <a href=\"https://en.wikipedia.org/wiki/Al_Sharpton\">Al Sharpton</a> today. He said Trump is of NYC in 80s and 90s. As of course was Sharpton. Sure he knows a lot about Trump.",
+            "created": "Sun, 06 Aug 2017 18:17:40 GMT",
+            "type": "tweet",
+            "tweetId": "894261630795751424",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "I think people want to <a href=\"https://twitter.com/davewiner/status/894240743166025728\">forget</a> that the US has stage 4 cancer. It's spreading to our bones. Whether we come back is in question",
+            "created": "Sun, 06 Aug 2017 18:21:17 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "If you can write a stinging editorial putting down a class of people, balance it with an example of someone in that class being good.",
+            "created": "Sun, 06 Aug 2017 17:49:34 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "If a million people <a href=\"https://twitter.com/davewiner/status/894204096516894720\">say</a> someone is wrong, my instinct is to find what's right.",
+            "created": "Sun, 06 Aug 2017 14:35:40 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "If you <a href=\"https://twitter.com/davewiner/status/894237830473535488\">fight</a> for free speech only for people who agree with you then you are not for free speech.",
+            "created": "Sun, 06 Aug 2017 16:46:19 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Remind me to tell you the tale of goatfuck.js.",
+            "created": "Sun, 06 Aug 2017 16:47:20 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "A lot of the hype about Node.js is bullshit",
+            "created": "Sun, 06 Aug 2017 17:51:40 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I think <a href=\"https://www.w3schools.com/\">w3schools</a> does a good job. I use their stuff as a reference all the time for net programming. I was looking at their new <a href=\"https://www.w3schools.com/nodejs/\">tutorial</a> for Node.js and on the first page they repeat the hype about Node that I've always suspected was BS, and now that I have a few years in, I know it is. ",
+                    "created": "Sun, 06 Aug 2017 17:51:49 GMT",
+                    "image": "http:///scripting.com/images/2017/08/06/hippieBus.png"
+                },
+                {
+                    "text": "Node is a fine environment, I use it as my main server runtime, and lately I've been <a href=\"http://this.how/electricRiver/\">building</a> a lot with <a href=\"https://electron.atom.io/\">Electron</a>, and there you're using Node on the desktop. I have a love-hate relationship with Node, I'm a prisoner to some bad design imho but it's great to have one syntax instead of two for client and server apps. ",
+                    "created": "Sun, 06 Aug 2017 17:52:52 GMT"
+                },
+                {
+                    "text": "But other environments like Java and Python are probably just as efficient as Node <i>without all the crazy callbacks. </i>Their runtimes can suspend a process until its I/O completes. All the other languages/environments do that. It is not something that only Node does. ",
+                    "created": "Sun, 06 Aug 2017 17:54:24 GMT"
+                },
+                {
+                    "text": "And Node is not single-threaded! You have many threads. A single-threaded server runtime is impossible. That's one of the reasons I strongly suspected all the hype when I was new to Node.",
+                    "created": "Sun, 06 Aug 2017 17:55:13 GMT"
+                },
+                {
+                    "text": "The difference between Node and other environments is that the others hide the suspending and resuming of your app behind an abstraction layer, <i>and that's good, </i>that makes your code <i>much</i> simpler. In every way imho the way JavaScript does I/O is a major step backwards. But like I said I love/hate JS. I've <a href=\"https://en.wikipedia.org/wiki/Stockholm_syndrome\">made my peace</a> with the <a href=\"http://callbackhell.com/\">way</a> I/O works in Node. :peach:",
+                    "created": "Sun, 06 Aug 2017 17:55:54 GMT"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "text": "My web-level document model",
+    "created": "Fri, 26 May 2017 14:38:06 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I've been digging around in the archive lately, looking at stuff I created 5, 10 and 20 years ago, because it's relevant again. ",
+            "created": "Fri, 26 May 2017 14:38:30 GMT",
+            "permalink": "http://scripting.com/2017/05/26.html#a100530"
+        },
+        {
+            "text": "And there's something I do differently from just about everyone else. ",
+            "created": "Fri, 26 May 2017 16:57:15 GMT",
+            "permalink": "http://scripting.com/2017/05/26.html#a120515"
+        },
+        {
+            "text": "I view a domain name as a very inexpensive commodity. I think of a domain name as if it were a file name. No more significant. So I have lots of them. And I'm creating more, because this model works, is rational and follows the grain of the web. ",
+            "created": "Fri, 26 May 2017 16:57:12 GMT",
+            "permalink": "http://scripting.com/2017/05/26.html#a120512"
+        },
+        {
+            "text": "It's interesting because while the web companies do lots of buildings *inside* domains, I see the whole Internet namespace as an interesting object to play with. ",
+            "created": "Fri, 26 May 2017 14:40:52 GMT",
+            "type": "markdown",
+            "permalink": "http://scripting.com/2017/05/26.html#a100552"
+        },
+        {
+            "text": "For example, when I documented the <a href=\"http://source.smallpict.com/2014/07/12/theSourceNamespace.html\">source namespace</a> for RSS feeds, it got its own domain. It's also just an OPML file in my Dropbox folder. You can't get to it through Dropbox, but you can most definitely get to it through the web.",
+            "created": "Fri, 26 May 2017 17:00:06 GMT",
+            "permalink": "http://scripting.com/2017/05/26.html#a010506"
+        }
+    ],
+    "permalink": "http://scripting.com/2017/05/26.html#a100506"
+}

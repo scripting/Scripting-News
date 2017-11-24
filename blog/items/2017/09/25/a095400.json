@@ -1,0 +1,23 @@
+{
+    "text": "Matt Mullenweg in 2006",
+    "created": "Mon, 25 Sep 2017 13:54:00 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "People are surprised that Russia was able to use <a href=\"http://scripting.com/2016/07/28/dontFeedDjTrump.html\">trolling</a> to change the outcome of our election, but I wasn't. I had experienced at the hands of some Russian-like tech companies in the early 2000s. I was reminded of it by a <a href=\"https://ma.tt/2006/04/feed-validator/\">screed</a> posted by Matt Mullenweg in 2006. Excellent stuff. All technologists should write and think this way.  ",
+            "created": "Mon, 25 Sep 2017 13:54:08 GMT"
+        },
+        {
+            "text": "Matt's post came near the end of a long story involving open technology and some very big tech companies. The <a href=\"https://www.feedvalidator.org/\">Feed Validator</a> app was written by people who worked at IBM and Google, the equivalent of Russia in this story. They ruled by flame. If you said something they didn't like, boom -- a swarm of trolls emerged to push you back. I assume they wanted \"RSS\" to fragment, the same way the Russians today want Americans to be divided. ",
+            "created": "Mon, 25 Sep 2017 13:54:39 GMT"
+        },
+        {
+            "text": "To this day it issues <a href=\"https://www.feedvalidator.org/check.cgi?url=http%3A%2F%2Fscripting.com%2Frss.xml\">warnings</a> about my feeds, which you might image would be pretty good RSS. I ignore their warnings and tell other people to ignore them too. Their feed validator, which is also being run by the W3C, is useful when you're developing feed-producing software. It <i>does</i> find bugs. ",
+            "created": "Mon, 25 Sep 2017 13:57:57 GMT"
+        },
+        {
+            "text": "But as <a href=\"https://ma.tt/2006/04/feed-validator/\">Matt</a> points out, the whole point of a standard is to bring people together. Which of course is why the big tech companies hated it. Their trolls had the same effect as the Russian trolls did, almost 20 years earlier. To drive us apart. ",
+            "created": "Mon, 25 Sep 2017 13:56:11 GMT"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "text": "Frontier's object database on GitHub",
+    "created": "Fri, 02 Jun 2017 14:32:01 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Thinking out loud...",
+            "created": "Fri, 02 Jun 2017 14:35:37 GMT",
+            "permalink": "http://scripting.com/2017/06/02.html#a100637"
+        },
+        {
+            "text": "I'm working with Brent and Ted Howard on a reboot of Frontier. ",
+            "created": "Fri, 02 Jun 2017 14:32:11 GMT",
+            "permalink": "http://scripting.com/2017/06/02.html#a100611"
+        },
+        {
+            "text": "Brent has been writing about it on inessential.com. Have a <a href=\"https://www.google.com/search?q=site%3Ainessential.com+frontier&rlz=1C5CHFA_enUS743&oq=site%3Ainessential.com+frontier&aqs=chrome..69i57j69i58.11687j0j4&sourceid=chrome&ie=UTF-8\">look</a>. ",
+            "created": "Fri, 02 Jun 2017 14:32:23 GMT",
+            "permalink": "http://scripting.com/2017/06/02.html#a100623"
+        },
+        {
+            "text": "One of the jobs I've taken on is figuring out how to make Frontier object database scripts available on GitHub. I want to do it so that it's easy to restore a bit of functionality that didn't make it into the new Frontier.root. I want it all to be at most one click away.  ",
+            "created": "Fri, 02 Jun 2017 14:32:36 GMT",
+            "image": "http://scripting.com/images/2017/06/02/frontierBox.png",
+            "permalink": "http://scripting.com/2017/06/02.html#a100636"
+        },
+        {
+            "text": "So this means storing the objects in multiple forms.",
+            "created": "Fri, 02 Jun 2017 14:33:43 GMT",
+            "subs": [
+                {
+                    "text": "1. A human-readable form. One of the nice things about GitHub is that there's a web interface, and you can click around and look at stuff. It's a nice way to view code. ",
+                    "created": "Fri, 02 Jun 2017 14:33:57 GMT",
+                    "permalink": "http://scripting.com/2017/06/02.html#a100657"
+                },
+                {
+                    "text": "2. A \"binary\" representation, in quotes because Frontier doesn't actually emit objects in binary. The most obfuscated format is a base64-encoded text file which we called <a href=\"http://scripting.com/fatpages/faq.html\">Fat Page</a> format.",
+                    "created": "Fri, 02 Jun 2017 14:34:27 GMT",
+                    "permalink": "http://scripting.com/2017/06/02.html#a100627"
+                },
+                {
+                    "text": "3. An OPML version. Many of the objects in the database are outlines. All the scripts are, for example. And menubars. The main things that aren't are tables which are what Frontier calls hashes. But the table structure will be represented as folders on GitHub.",
+                    "created": "Fri, 02 Jun 2017 14:35:47 GMT",
+                    "permalink": "http://scripting.com/2017/06/02.html#a100647"
+                },
+                {
+                    "text": "4. What else?",
+                    "created": "Fri, 02 Jun 2017 14:36:46 GMT",
+                    "permalink": "http://scripting.com/2017/06/02.html#a100646"
+                }
+            ],
+            "permalink": "http://scripting.com/2017/06/02.html#a100643"
+        },
+        {
+            "text": "How to proceed",
+            "created": "Fri, 02 Jun 2017 14:37:10 GMT",
+            "subs": [
+                {
+                    "text": "I'm going to do a prototype of a small section of the object database. First thought is to use workspace.userlandSamples. This is the place where I've been putting sample scripts over the years. ",
+                    "created": "Fri, 02 Jun 2017 14:37:13 GMT",
+                    "permalink": "http://scripting.com/2017/06/02.html#a100613"
+                }
+            ],
+            "permalink": "http://scripting.com/2017/06/02.html#a100610"
+        }
+    ],
+    "permalink": "http://scripting.com/2017/06/02.html#a100601"
+}

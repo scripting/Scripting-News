@@ -1,0 +1,39 @@
+{
+    "text": "Blog bugfix",
+    "created": "Sun, 09 Jul 2017 18:09:36 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "In my blogging software, <a href=\"https://en.wikipedia.org/wiki/Permalink\">permalinks</a> are constructed by smashing together the hour, minute and second a post was created into a string. So if a post was created at 11:52:02, its permalink would be 115202.",
+            "created": "Sun, 09 Jul 2017 18:09:42 GMT",
+            "image": "http://scripting.com/images/2017/07/09/mrTrumpInTheRightMargin.png",
+            "permalink": "http://scripting.com/2017/07/09.html#a060942"
+        },
+        {
+            "text": "But my code was erroneously constructing the permalink by smashing together the hour, <i>month</i> (the error) and second. The month is the same for all posts published on the same day. And that meant that if one item were posted at 11:02:53 and another at 11:17:53 they would have the same permalink, 110753 (07 is the month). Not a huge problem except we use the permalink to form the <a href=\"http://cyber.harvard.edu/rss/rss.html#ltguidgtSubelementOfLtitemgt\">guid</a>, and that's what feed readers use to determine if an item is new or not. So the second item would be ignored, erroneously because it has the same guid as the first. ",
+            "created": "Sun, 09 Jul 2017 18:11:11 GMT",
+            "permalink": "http://scripting.com/2017/07/09.html#a061111"
+        },
+        {
+            "text": "The error probably happened a few times in the approximately two months I've been using the new <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+%22old+school%22&t=h_&ia=web\">old school</a> system. It certainly happened yesterday (which is how I got on the trail of the bug). It was very deeply buried, but the rational code debugging method eventually revealed the problem and the fix for such problems is well-known. ",
+            "created": "Sun, 09 Jul 2017 18:13:26 GMT",
+            "permalink": "http://scripting.com/2017/07/09.html#a061326"
+        },
+        {
+            "text": "How could one make such a mistake you might ask? A month and a minute, what do they have in common that could confuse a computer? Well, in the language of <a href=\"https://www.npmjs.com/package/dateformat\">dateformat</a>, a package used to format dates, a month is noted as \"mm\" and the minute as \"MM\". So the errant programmer literally <i>asked</i> for the month by specifying the permalink as \"ddmmss\" when it should have been \"ddMMss\". This, my friends, is where the bug was buried. ;-)",
+            "created": "Sun, 09 Jul 2017 18:23:52 GMT",
+            "permalink": "http://scripting.com/2017/07/09.html#a062352"
+        },
+        {
+            "text": "But! You can't just fix it. Because that would change the guids of all previous posts, potentially, and cause posts that have already been seen, many of them perhaps, to be seen as new by feed readers. People don't like it when your feed does that. So I left the bug as-is for posts before today, and all new posts have correctly formed permalinks. This is the first post with a correct permalink. Let's <a href=\"http://scripting.com/2017/07/09.html#a020936\">see</a> if it worked! :-)",
+            "created": "Sun, 09 Jul 2017 18:14:28 GMT",
+            "permalink": "http://scripting.com/2017/07/09.html#a061428"
+        },
+        {
+            "text": "PS: Yes it did. And the old links worked too. Whew.",
+            "created": "Sun, 09 Jul 2017 20:19:46 GMT",
+            "permalink": "http://scripting.com/2017/07/09.html#a081946"
+        }
+    ],
+    "permalink": "http://scripting.com/2017/07/09.html#a060936"
+}

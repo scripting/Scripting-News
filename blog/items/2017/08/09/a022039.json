@@ -1,0 +1,23 @@
+{
+    "text": "Diving into IAM, but...",
+    "created": "Wed, 09 Aug 2017 18:20:39 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I decided to dive into IAM permissions for S3 and see if I could get a writing tool to hook up to S3 at least in a way that programmers and adventurous users could figure it out.",
+            "created": "Wed, 09 Aug 2017 18:21:02 GMT"
+        },
+        {
+            "text": "Basically I'm doing by-hand what OAuth automates.",
+            "created": "Wed, 09 Aug 2017 18:23:47 GMT"
+        },
+        {
+            "text": "However -- a simple Hello World program that uses the credentials gets <i>permission denied</i> so there's something wrong in the setup. ",
+            "created": "Wed, 09 Aug 2017 18:21:29 GMT"
+        },
+        {
+            "text": "Any help much <a href=\"https://github.com/scripting/Scripting-News/issues/19#issuecomment-321283869\">appreciated</a>. :apple:",
+            "created": "Wed, 09 Aug 2017 18:22:23 GMT"
+        }
+    ]
+}

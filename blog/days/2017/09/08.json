@@ -1,0 +1,56 @@
+{
+    "text": "September 8",
+    "created": "Fri, 08 Sep 2017 14:29:26 GMT",
+    "name": "08",
+    "subs": [
+        {
+            "text": "Gooooood morning everybody! :deciduous_tree: ",
+            "created": "Fri, 08 Sep 2017 14:29:27 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I did a <a href=\"https://twitter.com/davewiner/status/906191200838877184\">video demo</a> of Electric Pork, on Twitter. When you post a video direct to Twitter it works better than linking to a YouTube video. I had never tried it, never even thought to do it before.",
+            "created": "Fri, 08 Sep 2017 16:35:02 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/906191200838877184"
+        },
+        {
+            "text": "Really good piece <a href=\"http://fieldguide.gizmodo.com/why-rss-feeds-still-beat-facebook-and-twitter-for-track-1800722740?utm_medium=sharefromsite&utm_source=Field_Guide_twitter\">on Gizmodo</a> about why \"RSS\" is the best way to get news. Basically you  see what the news orgs publish, not what's popular or what Facebook wants you to see (for whatever reason). Gizmodo lists popular RSS readers. Let me put in a plug for my own \"Electric River\", which brings the power of \"River5\" (a server app) to the desktop. You get even more control when you run the aggregator. ",
+            "created": "Fri, 08 Sep 2017 17:53:40 GMT",
+            "type": "outline",
+            "image": "http:///scripting.com/images/2017/09/08/reaganActionFigure.png"
+        },
+        {
+            "text": "I'm looking at bringing back the tabs on \"Scripting News\". Technically it's straightforward, however on a blog, it raises a question. What about people who browse with JavaScript turned off? Tabs are implemented with JavaScript. I can make the page work as it does now for people without JavaScript, but that means it will be ugly for people with JavaScript turned on. Since I'm one of them, I resist doing that. I'd like to get an idea of what you all think, so I <a href=\"https://github.com/scripting/Scripting-News/issues/25\">started an issue</a> for this on GitHub. ",
+            "created": "Fri, 08 Sep 2017 18:05:06 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Davis Shaver is getting started with \"PagePark\" and wonders how to <a href=\"https://github.com/scripting/pagePark/issues/6\">make SSL work</a> in PagePark. I would like to know if there's anything I need to change to make it work. While I am opposed to the dance Google is trying to make us all do, I want my product to work for everyone it can work for. In other words I don't like to do strategy taxes if possible. ",
+            "created": "Fri, 08 Sep 2017 15:32:08 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/906266152623591424\">Poll</a>: Would you forgive me if my blog was only readable w JavaScript?",
+            "created": "Fri, 08 Sep 2017 21:24:42 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/906266152623591424"
+        },
+        {
+            "text": "Interesting <a href=\"http://nymag.com/daily/intelligencer/2017/09/5-reasons-why-a-dreamer-bill-could-really-happen.html\">piece</a> this morning by Jonathan Chait at NY Mag about why there might be a <a href=\"https://en.wikipedia.org/wiki/DREAM_Act\">Dream Act</a> that becomes law now, even though they've been trying in Congress for 16 years. One item he didn't mention -- as <a href=\"https://en.wikipedia.org/wiki/1972_Nixon_visit_to_China\">Nixon</a> was able to open American relations with China because he was such an outspoken <a href=\"https://www.washingtonpost.com/opinions/nixons-great-decision-on-china-40-years-later/2012/02/10/gIQAtFh34Q_story.html?utm_term=.6d97df88e5a5\">anti-communist</a>, Trump might be able to get Congress to do this because of his rep as anti-immigrant. The reasoning goes \"If it's ok with Trump it must be ok.\"",
+            "created": "Fri, 08 Sep 2017 14:29:46 GMT",
+            "type": "outline",
+            "image": "http:///scripting.com/images/2017/09/08/chairmanMaoActionFigure.png"
+        },
+        {
+            "text": "One more thing. When <a href=\"https://en.wikipedia.org/wiki/Jonathan_Chait\">Chait</a> took a vacation in August his presence was missed. He's such a lucid thinker and writer. He explains things so well, and finds connections everyone else misses. ",
+            "created": "Fri, 08 Sep 2017 14:38:19 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Sometimes when people misunderstand a product or feature they give you ideas for how it might work. Creativity sometimes comes just from not knowing something. Another reason it's important to listen, you never know how new ideas will arrive. ",
+            "created": "Fri, 08 Sep 2017 15:28:22 GMT",
+            "type": "outline"
+        }
+    ]
+}
