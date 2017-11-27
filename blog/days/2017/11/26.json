@@ -1,0 +1,59 @@
+{
+    "text": "November 26",
+    "created": "Sun, 26 Nov 2017 14:18:23 GMT",
+    "name": "26",
+    "subs": [
+        {
+            "text": "I'm doing <a href=\"http://scripting.com/images/2017/11/26/bikeAngel.png\">my part</a> to make biking work in NYC. ",
+            "created": "Sun, 26 Nov 2017 20:47:34 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/11/26/wonderWoman.png"
+        },
+        {
+            "text": "I'd like to see a Sunday news show that never invited people from the following categories: members of Congress, people who work in the current administration, reporters who cover politics, celebrities with political opinions. There might be other exclusions. But I am fed up with all the self-serving lies. I couldn't bring myself to listen to a single political podcast this Sunday. ",
+            "created": "Sun, 26 Nov 2017 18:43:09 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I'd like to try <i>What The Fox,</i> a fictional web browser that reverses all the strategies of Mozilla, Google and the EFF. For example, instead of complaining about HTTP sites, it would complain about HTTPS sites as being a silly waste of resources. Instead of making it virtually impossible to see the source of an RSS feed, it would make everything but RSS feeds virtually impossible to see the source of. Or maybe it would show the source of everything by default, and make it virtually impossible to see the rendered HTML. That might impact the usefulness of the web however, so should possibly be reconsidered.",
+            "created": "Sun, 26 Nov 2017 23:45:54 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "GitHub as S3?",
+            "created": "Sun, 26 Nov 2017 14:18:24 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<i>Can we use a GitHub repo as if it were an Amazon S3 bucket? It seems the answer is yes. The two are remarkably similar. Here's the writeup.. </i>",
+                    "created": "Sun, 26 Nov 2017 16:25:32 GMT",
+                    "image": "http://scripting.com/images/2017/11/26/madman.png"
+                },
+                {
+                    "text": "Long-term readers of this site know that I like Amazon S3 for storing public-facing web sites, and for object storage for web apps. I have support for S3 baked into a lot of my projects. I like it because it performs well, is inexpensive, and they worry about keeping the server running, so I don't have to. The more I can offload the more I can create and manage.",
+                    "created": "Sun, 26 Nov 2017 14:18:31 GMT"
+                },
+                {
+                    "text": "So, when I did the \"public folder\" project, without even thinking, I used S3 as the place where the publicly-accessible content was stored. <a href=\"https://blog.andrewshell.org/my-resume/\">Andrew Shell</a> wrote to ask if I had considered using GitHub as the public-facing store. I didn't even understand what he meant. He said that GitHub does what S3 does. <i>Think of a respository as a bucket. </i>We usually use it for storing program code and maybe some HTML and JSON, which also happens to be what we use S3 for. (Can you store an MP3 there? Yes. Verified.)",
+                    "created": "Sun, 26 Nov 2017 14:19:21 GMT"
+                },
+                {
+                    "text": "So I put it on my to-do list, and finally got around to it this weekend. I wanted to see if I could write to a repo directly from a Node app using their API. According to <a href=\"https://developer.github.com/v3/repos/contents/#update-a-file\">the docs</a>, you should be able to. ",
+                    "created": "Sun, 26 Nov 2017 14:22:24 GMT"
+                },
+                {
+                    "text": "A couple of days later, I have something working, a test app to see how reliable the connection is. Every night at midnight it uploads the previous day's Scripting News to the <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog\">blog folder</a> in the Scripting-News repo. It seems to work. I'm going to leave it running and come back to it after a time, to see if it's a dependable way to store and serve content. In the meantime, if you want to build something that uses this data, please do. That would be one of the reasons to use GitHub for this kind of application. ",
+                    "created": "Sun, 26 Nov 2017 14:23:33 GMT"
+                },
+                {
+                    "text": "I started a <a href=\"https://github.com/scripting/Scripting-News/issues/47\">thread</a> on the repo, seems appropriate, if there are questions, comments. I also explain what the data is that we're storing in the blog folder. Could prove useful if you want to do some experiments. ",
+                    "created": "Sun, 26 Nov 2017 14:32:50 GMT"
+                },
+                {
+                    "text": "PS: There are <a href=\"https://help.github.com/articles/conditions-for-large-files/\">limits</a> on file size and total size of a repository. ",
+                    "created": "Sun, 26 Nov 2017 16:56:02 GMT"
+                }
+            ]
+        }
+    ]
+}
