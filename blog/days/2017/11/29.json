@@ -1,0 +1,94 @@
+{
+    "text": "November 29",
+    "created": "Wed, 29 Nov 2017 14:10:42 GMT",
+    "name": "29",
+    "subs": [
+        {
+            "text": "Being President of the United States means something different now than it used to. If we survive Trump it won't snap back to what it was before. The next president will inherit a vastly different <i>normal</i> with different guardrails. It's good that <a href=\"https://en.wikipedia.org/wiki/The_West_Wing\">The West Wing</a> archive is around to preserve the <a href=\"https://www.youtube.com/watch?v=il-DowDFDo4\">idea</a> of what the presidency used to be.",
+            "created": "Thu, 30 Nov 2017 03:18:48 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/935931118930595840",
+            "image": "http://scripting.com/images/2017/07/21/trumpHead.png"
+        },
+        {
+            "text": "How do the <a href=\"https://duckduckgo.com/?q=ancestry+dna&t=hg&ia=web\">ancestry DNA</a> products find relatives? Are they silos? Do you only find relatives who used the product you used?",
+            "created": "Wed, 29 Nov 2017 16:46:30 GMT",
+            "type": "tweet",
+            "tweetId": "935912910492196865",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "One thing's for sure all future presidents are going to have to <a href=\"https://www.youtube.com/watch?v=ByeXMGqapnU\">razzle dazzle</a> the electorate. No more boring campaign speeches, too many details, or too much truth. ",
+            "created": "Wed, 29 Nov 2017 16:29:27 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "One of the news channels could be more fluid with personalities. I would like, for example, a half-hour at least once a week with <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+David+Frum&t=hf&ia=web\">David Frum</a>, <a href=\"https://en.wikipedia.org/wiki/Julia_Ioffe\">Julia Ioffe</a>, <a href=\"https://www.politico.com/story/2017/11/28/luis-gutierrez-retirement-chicago-illinois-267821\">Luis Gutiérrez</a> and <a href=\"http://scripting.com/liveblog/users/davewiner/2016/03/31/1154.html\">Barney Frank</a>. As the focus of news shifts, other experts are swapped in. Also Al Sharpton.",
+            "created": "Wed, 29 Nov 2017 16:15:18 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "JY <a href=\"https://twitter.com/jy/status/935603589283745797\">found</a> another Erik Sandberg-Diment <a href=\"http://www.nytimes.com/1986/04/01/science/personal-computers-new-software-for-making-note-scribbling-easier.html?&pagewanted=print\">review</a> of one of my products, Ready!, which was a <a href=\"https://en.wikipedia.org/wiki/Terminate_and_stay_resident_program\">TSR</a> <a href=\"https://en.wikipedia.org/wiki/Outliner\">outliner</a> shipped in 1986. We were so busy with a growing company at the time, I probably saw the review when it came out, but I was in the middle of a tornado then. Not many memories. I remember the first review, of course, always will, because it was the one that made the startup actually start up.",
+            "created": "Wed, 29 Nov 2017 15:28:22 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/11/29/racehorse.png"
+        },
+        {
+            "text": "Idea for the WP or NYT: Hire a psychologist to report on Trump. Develop a profile, explain each tweet in context. I'm not in any way competent, but I suspect a lot of what he does and says is trying to win the approval and love of his father.",
+            "created": "Wed, 29 Nov 2017 14:10:43 GMT",
+            "type": "tweet",
+            "tweetId": "935874883153776640",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "Using GitHub in a feed system",
+            "created": "Wed, 29 Nov 2017 15:02:40 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I'm working with <a href=\"https://twitter.com/dabeard\">David Beard</a> on an experiment. We want to teach editorial organizations how to run their own news \"superfeeds,\" so they can invest in news resources for their editorial people and for their readers. But first we had to do it ourselves, with David in the editorial role and me as his system developer.",
+                    "created": "Wed, 29 Nov 2017 15:02:59 GMT"
+                },
+                {
+                    "text": "In this setup, I'm running \"River5\" on my one of my AWS servers. It's generating my news sites, the <a href=\"http://nytimesriver.com/\">NYT river</a>, <a href=\"http://podcatch.com/\">podcasts</a>, <a href=\"http://mlbriver.com/\">MLB</a>, <a href=\"http://nbariver.com/\">NBA</a>, <a href=\"http://politics.newsriver.org/\">politics</a>, <a href=\"http://bloggers.scripting.com/\">bloggers</a>, and the <a href=\"http://scripting.com/river.html\">one</a> I do for the readers of my blog, and more. We're going to set it up so it generates David's river along with mine. ",
+                    "created": "Wed, 29 Nov 2017 15:04:39 GMT"
+                },
+                {
+                    "text": "David needs to create and update a list of feeds for his river. He's not a programmer. I decided to give GitHub a try.  ",
+                    "created": "Wed, 29 Nov 2017 15:06:55 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "I created a <a href=\"https://github.com/scripting/test2\">new repository</a> and invited him to be a collaborator.",
+                            "created": "Wed, 29 Nov 2017 15:08:48 GMT"
+                        },
+                        {
+                            "text": "I created a folder called lists, and a file called beard1.txt. I set it up <a href=\"https://github.com/scripting/test2/commit/fbf356a55a114e730e3076a69b6fdd48e9514923#diff-adaa18d5bfb99074a2656ce71c93dd32\">initially</a> with some of the example feeds included with River5. ",
+                            "created": "Wed, 29 Nov 2017 15:09:02 GMT"
+                        },
+                        {
+                            "text": "I told him where the list was, and said he should edit it, to add or remove feeds, and to let me know when it was ready. ",
+                            "created": "Wed, 29 Nov 2017 15:09:30 GMT"
+                        },
+                        {
+                            "text": "Then I created a script on the server that reads the <a href=\"https://github.com/scripting/test2/blob/master/lists/beard1.txt\">GitHub file</a> every five minutes and saves it into the <i>lists</i> folder on my River5 system. ",
+                            "created": "Wed, 29 Nov 2017 15:10:07 GMT"
+                        },
+                        {
+                            "text": "From there, \"River5\" does what it does with all lists. It creates a new river file, with the same name, and reads all the feeds in the list that it isn't already reading. When an item comes in from a feed he's subscribed to, it's added at the top of his river. ",
+                            "created": "Wed, 29 Nov 2017 15:10:46 GMT"
+                        },
+                        {
+                            "text": "Then I created a tiny <a href=\"http://scripting.com/misc/beardriver/\">HTML shell</a> that uses the <a href=\"https://github.com/scripting/riverBrowser\">RiverBrowser</a> module to display the river. I pointed it at his <a href=\"http://radio3.io/rivers/beard1.js\">river.js file</a>. It all worked! ",
+                            "created": "Wed, 29 Nov 2017 15:11:49 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "The most important thing is we have a workflow that allows him to change the contents of his river whenever he wants, without any tech support. That's the kind of system we all like. :boom:",
+                    "created": "Wed, 29 Nov 2017 15:12:38 GMT"
+                }
+            ]
+        }
+    ]
+}
