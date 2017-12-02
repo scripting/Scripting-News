@@ -1,0 +1,827 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>Scripting News</title>
+		<dateCreated>Wed, 24 May 2017 20:17:15 GMT</dateCreated>
+		<dateModified>Sun, 04 Jun 2017 00:34:56 GMT</dateModified>
+		<ownerName>Dave Winer</ownerName>
+		<ownerId>https://twitter.com/davewiner/</ownerId>
+		<expansionState>1</expansionState>
+		<vertScrollState>1</vertScrollState>
+		<windowTop>511</windowTop>
+		<windowLeft>585</windowLeft>
+		<windowBottom>929</windowBottom>
+		<windowRight>1299</windowRight>
+		<ownerTwitterScreenName>davewiner</ownerTwitterScreenName>
+		<lastCursor>15</lastCursor>
+		</head>
+	<body>
+		<outline text="May 2017" created="Wed, 03 May 2017 15:12:40 GMT" name="may2017">
+			<outline text="May 31" created="Wed, 31 May 2017 13:03:20 GMT" name="31">
+				<outline text="NYT &lt;a href=&quot;http://www.niemanlab.org/2017/05/the-new-york-times-is-eliminating-the-position-of-public-editor-heres-the-sulzberger-memo/&quot;&gt;eliminates&lt;/a&gt; the public editor position replacing it with a new way for users to make suggestions. The challenge for the Times is to figure out how to tap into the knowledge, experience and intellect of their community. As long as they see us as an audience we will continue to drift away." created="Wed, 31 May 2017 19:20:38 GMT" image="http://scripting.com/2016/10/19/fatcat.png" type="outline"/>
+				<outline text="I just tried to record a movie using QuickTime Player. First time I've done that since installing a new version of the OS. It was a good demo, but when I was done I couldn't find the little controller window that lets you stop recording. Fumbling around I did manage after a couple of minutes to quit the app and save the movie. But when I came back there was no audio so the whole thing was worthless. This is why I'm reluctant to upgrade. Apple always changes little stupid things. I end up losing work." created="Wed, 31 May 2017 17:16:02 GMT" type="outline"/>
+				<outline text="Innovation. I am now storing the OPML file for this blog in my Dropbox folder. I think I just recreated Fargo. I'll let you know. ;-)" created="Wed, 31 May 2017 16:13:09 GMT" type="outline"/>
+				<outline text="Wonder if El Presidente does things to hurt the country because his feelings are hurt?" created="Wed, 31 May 2017 15:22:59 GMT" type="outline"/>
+				<outline text="I get it. &lt;a href=&quot;https://www.hulu.com/live-tv&quot;&gt;Hulu&lt;/a&gt; is what you buy when you cancel your cable subscription. " created="Wed, 31 May 2017 15:06:41 GMT" type="outline"/>
+				<outline text="It comes back like swimming or riding a bike. When I start the day there's a blank section of the outline where my ideas will show up. I press the big &lt;a href=&quot;http://scripting.com/images/2017/05/31/bigPlus.png&quot;&gt;plus&lt;/a&gt; icon to create a new section and type: &lt;i&gt;Good morning sports fans! &lt;/i&gt;I have no idea where this came &lt;a href=&quot;https://en.wikipedia.org/wiki/Good_Morning_Sports_Fans&quot;&gt;from&lt;/a&gt;. But I used to do it in the old days, so it feels right. Later in the day the greeting might be deleted or move. But at the top of the day it's at the top of the page. " created="Wed, 31 May 2017 15:08:08 GMT" image="http://scripting.com/images/2017/05/31/bike.png" type="outline"/>
+				<outline text="Why I can't/won't point to Facebook blog posts" created="Wed, 31 May 2017 15:40:26 GMT" type="outline">
+					<outline text="Three reasons." created="Wed, 31 May 2017 15:40:39 GMT"/>
+					<outline text="1. It's impractical. I don't know what your privacy settings are. So if I point to your post, it's possible a lot of people might not be able to read it, and thus will bring the grief to me, not you, because they have no idea who you are or what you wrote. " created="Wed, 31 May 2017 15:40:49 GMT"/>
+					<outline text="2. It's supporting their downgrading and killing the web. Your post sucks because it doesn't contain links, styling, and you can't enclose a podcast if you want. The more people post there, the more the web dies. I'm sorry no matter how good your idea is fuck you I won't help you and Facebook kill the open web." created="Wed, 31 May 2017 15:40:53 GMT"/>
+					<outline text="3. Facebook might go out of business. I like to point to things that last. Facebook seems solid now, but they could go away or retire the service you posted on. Deprecate the links. Who knows. You might not even mind, but I do. I like my archives to last as long as possible." created="Wed, 31 May 2017 15:43:06 GMT"/>
+					<outline text="Get a blog. If your ideas have any value put them on the open web. Facebook is trying to kill it. Trust me you will hate yourself if they succeed. Same with &lt;a href=&quot;https://pxlnv.com/linklog/amp-taking-over/&quot;&gt;Google&lt;/a&gt;. " created="Wed, 31 May 2017 15:45:08 GMT"/>
+					</outline>
+				<outline text="Pinging with JY" created="Wed, 31 May 2017 14:58:10 GMT" type="outline">
+					<outline text="Good morning sports fans!" created="Wed, 31 May 2017 13:03:21 GMT" type="outline"/>
+					<outline text="An interesting morning of programming is planned. To kick it off I added a &lt;a href=&quot;http://scripting.com/misc/pingLog.json&quot;&gt;log&lt;/a&gt; of cloud pings generated by my blog, to help &lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/6&quot;&gt;JY and Andrew&lt;/a&gt; figure out where the bug is. I say this knowing full well that my code is indicted, it's the newest code in the mix. I really appreciate these two guys pitching in. And I'm glad to make the intro. Andrew and JY are two of the nicest most generous people I know in the programming world. " created="Wed, 31 May 2017 13:03:57 GMT" type="outline"/>
+					<outline text="Update: We seem to have solved the problem. Doing one more update to see if it works for real. " created="Wed, 31 May 2017 14:58:20 GMT"/>
+					</outline>
+				<outline text="Tweeting with Don Cheadle" created="Wed, 31 May 2017 13:14:09 GMT" type="outline">
+					<outline text="I had an interesting &lt;a href=&quot;https://twitter.com/davewiner/status/869657952864677890&quot;&gt;back and forth&lt;/a&gt; with &lt;a href=&quot;https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwi0s8vLnZrUAhUr_4MKHah-DncQFggoMAA&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FDon_Cheadle&amp;usg=AFQjCNHJDOUu9dm8ZEr-A1H9BjA7r_Q6dA&amp;sig2=d_NUIPp_25vuzrU3xXMYMg&quot;&gt;Don Cheadle&lt;/a&gt; on Twitter last night. I &lt;a href=&quot;https://twitter.com/davewiner/status/869650778247626752&quot;&gt;quote-tweeted&lt;/a&gt; a post of his echoing something I said &lt;a href=&quot;http://scripting.com/2017/05/29.html#a100542&quot;&gt;here&lt;/a&gt; on Monday. " created="Wed, 31 May 2017 13:10:20 GMT" image="http://scripting.com/images/2017/05/29/wonderWoman.png"/>
+					<outline text="If the all-women showings had happened on their own, without a company in the middle, it would have been less controversial imho. And whether or not their intentions are good, the product (a movie) gets exposure. The company profits. Appearances matter. Even though this is all I said, I got called names by people on Twitter. Emasculating things.  As if I were saying much more. Horrible things I don't believe and of course would never say." created="Wed, 31 May 2017 13:29:37 GMT"/>
+					<outline text="Check out the headline on this Huffpost &lt;a href=&quot;http://www.huffingtonpost.com/entry/don-cheadle-shuts-down-men-having-temper-tantrums-over-women-only-screenings_us_592dc0f6e4b0c0608e8beac5&quot;&gt;article&lt;/a&gt;. This is where this leads. You think that isn't abusive? You think men like to be described that way? I think most men shut up when they think they're about to be accused of this, no matter how temperate their ideas or relaxed they are, and of course that's the point. It may feel powerful to make people shut up, but remember they're people and that will breed resentment, and it's probably coming back to you in some way that's painful to &lt;i&gt;you.&lt;/i&gt;" created="Wed, 31 May 2017 13:18:35 GMT"/>
+					<outline text="All this is happening at a time when we're in real trouble because of decades of divisive opportunism. We are at war with ourselves in the US. We have to learn how to undo the divides and unite in our common interest. We are very sick. It's as if our country had heart disease and refused to stop smoking. There might still be time to turn this around, but it isn't going to happen until this behavior stops." created="Wed, 31 May 2017 13:23:38 GMT"/>
+					<outline text="So have all-women gatherings, as long as they're legal and ethical. And companies should stay out of it. And please, don't make it about humiliating men." created="Wed, 31 May 2017 13:28:35 GMT"/>
+					<outline text="As they say, thanks for listening. ;-)" created="Wed, 31 May 2017 13:47:19 GMT"/>
+					</outline>
+				</outline>
+			<outline text="May 30" created="Tue, 30 May 2017 13:17:23 GMT" name="30">
+				<outline text="If you have comments on the &lt;a href=&quot;http://scripting.com/2017/05/30.html#a110554&quot;&gt;JSON version&lt;/a&gt; of Scripting News, please post an &lt;a href=&quot;https://github.com/scripting/Scripting-News/issues&quot;&gt;issue&lt;/a&gt; on the GitHub section for Scripting News. " created="Tue, 30 May 2017 20:32:34 GMT" type="outline"/>
+				<outline text="I'd like to pay more for news, but..." created="Tue, 30 May 2017 20:27:35 GMT" type="outline">
+					<outline text="I pay some amount of money to the &lt;a href=&quot;https://www.nytimes.com/subscriptions/Multiproduct/lp8XKUR.html&quot;&gt;NYT&lt;/a&gt; every month, I think it's $20 per? Not sure. But these days I probably get as much value from the NYT as I would from the Washington Post. There are a couple of other pubs I'd subscribe to if the price were more reasonable, considering I only exceed their quota of free stories by about the middle of the month. The New Yorker is one for sure. And there are free-to-read pubs that deserve some of the money too, like &lt;a href=&quot;http://talkingpointsmemo.com/edblog&quot;&gt;TPM&lt;/a&gt; and &lt;a href=&quot;http://nymag.com/author/Jonathan%20Chait/&quot;&gt;New York Mag&lt;/a&gt;. It's not fair that I pay the NYT and not them. " created="Tue, 30 May 2017 20:27:43 GMT" image="http://static.scripting.com/larryKing/images/2013/12/10/cow.gif"/>
+					<outline text="But I'm not ready to create multiple pay-to-read accounts. I want a system." created="Tue, 30 May 2017 20:41:23 GMT"/>
+					<outline text="So how about forming a trust of some kind, and I pay money to it and that creates a allocates a certain number of reads for me per week across all participating publications. And the money is distributed at the end of the month according to how many articles I read on each site. " created="Tue, 30 May 2017 20:30:13 GMT"/>
+					<outline text="Maybe they should even give me credits for any reads that come from links I distribute? I have about 70K followers on Twitter and am a daily linkblogger. " created="Tue, 30 May 2017 20:31:14 GMT"/>
+					<outline text="I, and probably a lot of other news readers, would like to have the money flow more smoothly and to get a chance to spread it out instead of giving it all to one publication. " created="Tue, 30 May 2017 20:31:49 GMT"/>
+					<outline text="Not sure how such a service would get started though. " created="Tue, 30 May 2017 20:32:21 GMT"/>
+					</outline>
+				<outline text="JSON in Feed Land" created="Tue, 30 May 2017 15:18:54 GMT" type="outline">
+					<outline text="The last couple of weeks the idea of feeds that do more or less what RSS does, in JSON instead of XML, has been under consideration." created="Tue, 30 May 2017 15:19:03 GMT" image="http://scripting.com/images/2017/05/30/elephant.png"/>
+					<outline text="At the same time I was working on a &lt;a href=&quot;http://scripting.com/2017/05/05/iWantMyOldBlogBack.html&quot;&gt;new version&lt;/a&gt; of &lt;a href=&quot;http://scripting.com/&quot;&gt;my blog&lt;/a&gt;, codenamed &lt;i&gt;Old School. &lt;/i&gt;In doing the work, I found a bunch of problems with the code I was using to generate RSS feeds. I wrote it a long time ago, probably when I was first doing &lt;a href=&quot;http://radio3.io/&quot;&gt;Radio3&lt;/a&gt;. Parts of it came from &lt;a href=&quot;http://fargo.io/&quot;&gt;Fargo&lt;/a&gt;. It had an assumption baked into it that the items in the feed all went to or came from Twitter. That's not an assumption I can make about my current software. Twitter is important, but it's not &lt;i&gt;everything. &lt;/i&gt;;-)" created="Tue, 30 May 2017 15:23:22 GMT"/>
+					<outline text="So I decided to try an experiment. In addition to writing the feed in XML, I also wrote it in JSON. It's a very simple matter. I had done a prototype of it in 2012, that's &lt;a href=&quot;http://rssjs.org/&quot;&gt;archived&lt;/a&gt;. The comment thread there is very interesting. It is itself a historic document with comments from people who had strong opinions when core RSS was being discussed in the late 90s and early 00s." created="Tue, 30 May 2017 15:24:59 GMT"/>
+					<outline text="One &lt;a href=&quot;http://rssjs.org/#comment-652876959&quot;&gt;comment&lt;/a&gt; in particular, from Julian Bond, someone who rarely agreed with or supported my ideas, had a bit of advice that was, to me, stunning. He argued for not re-litigating the old disputes, and just accept RSS as-is, with all the scars and false starts in place. Of course he had no argument with me. That's exactly what i intended to do. I wasn't signing up for more years of misery on mail lists. I made a conscious decision about that in 2002. Never went back, never want to.  " created="Tue, 30 May 2017 15:26:33 GMT"/>
+					<outline text="Chuck Shotton, a longtime friend, provided a &lt;a href=&quot;http://rssjs.org/#comment-645922090&quot;&gt;justification&lt;/a&gt; for JSONifying RSS. It's a good one and one that I hadn't thought of. It's true that today's RSS-reading apps have to have an XML parser, but there may be new apps that are easier to make in JSON. Non-publishing uses for RSS. I tend only to think of publishing, but Chuck does commercial realtime stuff at considerable scale. I trust his judgement, even if I don't always take his advice. :-)" created="Tue, 30 May 2017 15:30:07 GMT"/>
+					<outline text="Back to the JSON version of Scripting's RSS 2.0 feed. The translation is very straightforward. It could have been done algorithmically but I decided to do it by hand, to force me to review and understand every element, not just of the base format, but also for a &lt;a href=&quot;http://source.scripting.com/&quot;&gt;namespace&lt;/a&gt; that I use in all my work. I wanted not only to understand how RSS could be transported with a different syntax, JSON, but also how the extension mechanism would make the jump. It worked without a hitch. And honestly I think it's beautiful. " created="Tue, 30 May 2017 15:32:40 GMT"/>
+					<outline text="I have much to write about this, but I wanted to introduce the idea, and also let people have a look at the result. And here it is." created="Tue, 30 May 2017 15:33:24 GMT"/>
+					<outline text="&lt;a href=&quot;http://scripting.com/rss.json&quot;&gt;http://scripting.com/rss.json&lt;/a&gt;" created="Tue, 30 May 2017 15:35:53 GMT"/>
+					</outline>
+				<outline text="NetNewsWire, please support titleless items" created="Tue, 30 May 2017 16:08:38 GMT" type="outline">
+					<outline text="I got an email from NetNewsWire user Frank Leahy, requesting that I add titles to my feed for items that don't have titles. " created="Tue, 30 May 2017 16:08:50 GMT" image="http://scripting.com/images/2017/05/30/loveRss.png"/>
+					<outline text="He sent a &lt;a href=&quot;http://scripting.com/images/2017/05/30/netnewswiretitlelessitems.png&quot;&gt;screen shot&lt;/a&gt; to illustrate how his reader deals with titleless items. " created="Tue, 30 May 2017 16:09:15 GMT"/>
+					<outline text="As you can see they represent an item without a title as &lt;i&gt;Untitled&lt;/i&gt; in the left panel, and as &lt;i&gt;No title&lt;/i&gt; in the right panel." created="Tue, 30 May 2017 16:11:26 GMT"/>
+					<outline text="I'm not sure what the right answer is, but this is not it." created="Tue, 30 May 2017 16:12:07 GMT"/>
+					<outline text="The words &lt;i&gt;Untitled&lt;/i&gt; and &lt;i&gt;No title&lt;/i&gt; do not appear in &lt;a href=&quot;http://scripting.com/rss.xml&quot;&gt;my feed&lt;/a&gt;." created="Tue, 30 May 2017 16:12:16 GMT"/>
+					<outline text="They must not appear in their display." created="Tue, 30 May 2017 16:12:32 GMT"/>
+					<outline text="An idea, they could do what Frank asked me to do, show the first few words from the post in the list view. And nothing in the right view. These items have no titles for artistic reasons. The author did not put them there. You, as a software developer, are not entitled to add them (haha that's a pun)." created="Tue, 30 May 2017 16:12:40 GMT"/>
+					<outline text="I think &lt;a href=&quot;https://blackpixel.com/contact/&quot;&gt;Black Pixel&lt;/a&gt; now owns NetNewsWire. If you know them could you send them a link to this post. Thanks! " created="Tue, 30 May 2017 16:13:34 GMT"/>
+					<outline text="We'll get this done. ;-)" created="Tue, 30 May 2017 16:14:03 GMT"/>
+					</outline>
+				<outline text="A story about Woz" created="Tue, 30 May 2017 15:07:57 GMT" type="outline">
+					<outline text="&lt;i&gt;I wrote this &lt;a href=&quot;https://www.facebook.com/dave.winer.12/posts/117622468445167?notif_t=like&amp;notif_id=1496147434459341&quot;&gt;piece&lt;/a&gt; on Facebook on this day in 2013. As far as I can tell I didn't post it on my blog. It should totally be in the archive. So here goes..&lt;/i&gt;" created="Tue, 30 May 2017 15:08:02 GMT" image="http://scripting.com/2016/08/11/hope.png"/>
+					<outline text="I was once giving a talk at MacWorld Expo, probably in 1986 or 1987. This was the peak of popularity of &lt;a href=&quot;http://scripting.com/dwiner/outlinersProgramming.html&quot;&gt;MORE&lt;/a&gt;. There were probably 500 people in the room." created="Tue, 30 May 2017 15:11:41 GMT"/>
+					<outline text="Just before I got up to speak, my marcom person, Kandes Bregman, showed me that Woz was sitting in one of the first rows, like an ordinary person. I had never met him at the time." created="Tue, 30 May 2017 15:17:56 GMT"/>
+					<outline text="Early in the talk, I asked for a show of hands of people who used MORE."/>
+					<outline text="Woz's arm shot straight up. Everyone else just raised their arm. He made a point of it."/>
+					<outline text="I thought how cool. Here's a guy who doesn't have to care, he's richer than god, and look at how passionate he is about the product."/>
+					<outline text="I felt like I had really accomplished something."/>
+					<outline text="The thing is that Woz is still doing it. Travelling around the world, meeting with regular people, listening to their dreams, and helping them if he can."/>
+					<outline text="He's like a technology elf. He believes in the power of people, not just as users of technology but also as creators of technology."/>
+					<outline text="These are my values too."/>
+					<outline text="I remember how empowered I was by Woz's most fantastic creation -- the Apple II. Up until then computers were far away, things you couldn't touch, only for the experts. I could program them, but I couldn't feel them."/>
+					<outline text="The best thing about the Apple II was the memory-mapped video. To display a character you just stored it in a magic memory location. And that was it. It appeared on the screen."/>
+					<outline text="My least favorite feature of the Apple II, cards that got unseated from their slots and fried the mother board. I had a few of those. I was pretty poor in those days so losing a mother board could really set me back! :-)"/>
+					<outline text="But I'd rather suffer for having too much power than being restricted from going places my imagination wants to go."/>
+					<outline text="That's what Woz gave us. That and that he puts his heart into his work. And the guy's got a big heart."/>
+					</outline>
+				<outline text="Morning cleanup notes" created="Tue, 30 May 2017 15:08:53 GMT" type="outline">
+					<outline text="Good morning sports fans! ;-) " created="Tue, 30 May 2017 13:17:24 GMT" type="outline"/>
+					<outline text="More cleanup work this morning. JY &lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/6&quot;&gt;reported&lt;/a&gt; that we're not pinging when the feed updates. That's true. Need to do that. Right now I'm looking into a bug in feed generation. A real mystery. " created="Tue, 30 May 2017 13:38:00 GMT" type="outline"/>
+					<outline text="Theoretically I am now pinging when the RSS feed updates. But I'm not seeing anything in the rsscloud.io log. Let's see if anything shows up after I've posted this item. Np. Oy. Later update: My pings are now showing up in the &lt;a href=&quot;http://rpc.rsscloud.io:5337/viewLog&quot;&gt;log&lt;/a&gt;. Whew. " created="Tue, 30 May 2017 14:37:12 GMT" type="outline"/>
+					</outline>
+				</outline>
+			<outline text="May 29" created="Mon, 29 May 2017 14:56:41 GMT" name="29">
+				<outline text="Twitter is a perverse way to tell stories. Even an early IBM PC w 640K was a more proficient communicator." created="Tue, 30 May 2017 03:01:00 GMT" type="outline"/>
+				<outline text="Have you noticed that Trump makes a really good sidebar image? There are &lt;a href=&quot;https://www.google.com/search?q=trump&amp;safe=off&amp;rlz=1C5CHFA_enUS743&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwim-qeHr5bUAhWF6oMKHTcMDccQ_AUIDCgD&amp;biw=1323&amp;bih=1059&amp;dpr=2#safe=off&amp;tbm=isch&amp;q=trump+head&quot;&gt;lots&lt;/a&gt; of these around the web. Other people must be doing something like this. " created="Tue, 30 May 2017 00:32:02 GMT" image="http://scripting.com/images/2017/05/29/trumpGiveMeABreak.png" type="outline"/>
+				<outline text="BTW, to people who follow &lt;a href=&quot;http://scripting.com/&quot;&gt;Scripting News&lt;/a&gt; in a feed reader, you may notice problems with some of the items, like the one you're reading now. In the new scheme, there will be posts that don't have titles. They're like tweets. Some of them &lt;i&gt;are&lt;/i&gt; tweets. Not this one because it has more than 140 chars. Anyway, there will be items without titles. If you have questions, please post an &lt;a href=&quot;https://github.com/scripting/Scripting-News/issues&quot;&gt;issue&lt;/a&gt; on the Scripting News repo on GitHub. " created="Tue, 30 May 2017 00:27:52 GMT" type="outline"/>
+				<outline text="Now I get to clean up all the loose ends after the upheaval that just happened in my content system. Lots of sawdust on the floor. Wires that haven't been hooked up yet. " created="Tue, 30 May 2017 00:26:45 GMT" type="outline"/>
+				<outline text="The new/old Scripting News" created="Mon, 29 May 2017 16:56:06 GMT" type="outline">
+					<outline text="At 12:55PM I flipped the switch and the new &lt;a href=&quot;http://scripting.com/&quot;&gt;Scripting News&lt;/a&gt; home page and sub-pages are now live. I'm sure now all hell will break loose! :balloon:" created="Mon, 29 May 2017 16:56:12 GMT" image="http://scripting.com/images/2017/05/18/trumpHead.png"/>
+					<outline text="It's the Old School approach that I &lt;a href=&quot;http://scripting.com/2017/05/05/iWantMyOldBlogBack.html&quot;&gt;wrote about&lt;/a&gt; at the beginning of May. It's taken me most of the month to make the new software. I did it carefully and slowly. With a lot of attention to detail, especially stuff that's not visible.  " created="Mon, 29 May 2017 16:56:47 GMT"/>
+					<outline text="There still are loose-ends to clean up. Changes that couldn't be made until the new site was in place. " created="Mon, 29 May 2017 16:57:49 GMT"/>
+					<outline text="There will be breakage. For example the &lt;a href=&quot;http://scripting.com/rss.xml&quot;&gt;RSS feed&lt;/a&gt; now has many titleless items in it. The new blogging system encourages that. Never should have moved away from that when Twitter came about. Now we're undoing that mistake." created="Mon, 29 May 2017 16:58:16 GMT"/>
+					<outline text="We'll see what else breaks. For now wheee! :-)" created="Mon, 29 May 2017 16:59:05 GMT"/>
+					<outline text="&lt;i&gt;Still diggin!&lt;/i&gt;" created="Mon, 29 May 2017 16:59:34 GMT"/>
+					<outline text="PS: The &lt;a href=&quot;http://scripting.com/links.html&quot;&gt;linkblog&lt;/a&gt;, &lt;a href=&quot;http://scripting.com/river.html&quot;&gt;river&lt;/a&gt; and &lt;a href=&quot;http://scripting.com/about.html&quot;&gt;about&lt;/a&gt; tabs are all still here, but now on their own pages. The old bookmarks should continue to work (they redirect to the new locations)." created="Mon, 29 May 2017 17:04:27 GMT"/>
+					</outline>
+				<outline text="Creation myths" created="Mon, 29 May 2017 15:33:31 GMT" type="outline">
+					<outline text="We all unconsciously remember the creation myths of companies, not the reality of who they are today. " created="Mon, 29 May 2017 15:33:34 GMT" image="http://scripting.com/images/2017/05/29/ronaldMcDonald.png"/>
+					<outline text="The companies encourage us to do this. " created="Mon, 29 May 2017 18:02:55 GMT"/>
+					<outline text="For example, Apple is Steve Jobs." created="Mon, 29 May 2017 15:34:06 GMT"/>
+					<outline text="RIght? We keep expecting a product Steve would make from the company he left behind. But it is just a company. Steve is &lt;a href=&quot;https://9to5mac.com/2017/05/29/woz-apple-future/&quot;&gt;gone&lt;/a&gt;." created="Mon, 29 May 2017 15:34:13 GMT"/>
+					<outline text="Who knows if there ever was a &lt;a href=&quot;https://en.wikipedia.org/wiki/Colonel_Sanders&quot;&gt;Colonel Sanders&lt;/a&gt;, but he's long gone now, and the character they get to play him helps us think that the company, which is a &lt;a href=&quot;https://en.wikipedia.org/wiki/KFC&quot;&gt;subsidiary&lt;/a&gt; of a giant &lt;a href=&quot;https://en.wikipedia.org/wiki/Yum!_Brands&quot;&gt;multinational&lt;/a&gt;, is run by a folksy hometown funny old dude. " created="Mon, 29 May 2017 15:34:48 GMT"/>
+					<outline text="There are examples everywhere. If in doubt look the company up on Wikipedia and see who owns it. " created="Mon, 29 May 2017 15:36:07 GMT"/>
+					</outline>
+				<outline text="Another source code clue" created="Mon, 29 May 2017 15:42:20 GMT" type="outline">
+					<outline text="If I give a variable a short name or all lowercase, then you can bet it's very local. " created="Mon, 29 May 2017 15:42:25 GMT"/>
+					<outline text="I thought I had stopped doing this, it came up in one of my talks with Brent last week, but I do still do it. I just did it in fact in some new code I wrote. " created="Mon, 29 May 2017 15:43:38 GMT"/>
+					<outline text="And it shows up everywhere. " created="Mon, 29 May 2017 15:44:08 GMT"/>
+					<outline text="For example, a string that just appears in a calculation to save time or space, or to make the code more debuggable (I can examine an intermediate value more easily) will probably be called &lt;i&gt;s&lt;/i&gt;. " created="Mon, 29 May 2017 15:44:13 GMT"/>
+					<outline text="A parameter to a callback routine that's used once in the first line of the callback might also be called &lt;i&gt;s, jsontext&lt;/i&gt; or &lt;i&gt;htmltext&lt;/i&gt;. If it was going to be used throughout the callback, or after a few lines of code, it would get a longer or more descriptive name. Probably would still be all lowercase though." created="Mon, 29 May 2017 15:44:53 GMT"/>
+					<outline text="If it's a local declared at the top of a complex function, it would get a camelCase name, to signal to the reader that it's more important, and also to make it possible to search for it. A variable named &lt;i&gt;s&lt;/i&gt; would be problematic because there might be more than one in different scopes, not the same variable. " created="Mon, 29 May 2017 15:46:16 GMT"/>
+					</outline>
+				<outline text="Thoughts about political thinking" created="Mon, 29 May 2017 14:56:42 GMT" type="outline">
+					<outline text="David Frum &lt;a href=&quot;http://www.mediaite.com/tv/david-frum-trump-teams-russian-contacts-not-a-crime-but-a-loyalty-issue/&quot;&gt;says&lt;/a&gt; rightly we need to think in terms of what we know not necessarily what is a crime. If we know our president thinks and acts like a Russian, we can't overlook that even if it isn't a crime. Think about the criteria you would use when deciding to fire or break up with someone. They don't have to have committed a crime for you to do either. " created="Mon, 29 May 2017 14:56:51 GMT" image="http://scripting.com/images/2017/05/29/wonderWoman.png"/>
+					<outline text="Another thought. Political groups and businesses use positioning to divide us into segments. Sometimes this is relatively harmless, as in positioning a product as appealing to &lt;a href=&quot;https://www.secret.com/en-us&quot;&gt;women&lt;/a&gt; or &lt;a href=&quot;https://www.youtube.com/watch?v=NcGhLcVqxf0&quot;&gt;upper middle class&lt;/a&gt; people. But when it segments us on racial lines, or appeals to hate, then it is something to call out. " created="Mon, 29 May 2017 14:58:39 GMT"/>
+					<outline text="A great example was the Wonder Woman movie. The promoters &lt;a href=&quot;https://thenextweb.com/facebook/2017/05/26/theater-decimates-facebook-critics-ladies-wonder-woman-screening/#.tnw_XcYQszSG&quot;&gt;used&lt;/a&gt; gender division to promote their product. It worked. And they left us with a wound and one more political division to deal with. It's always a good idea to put your circumstance, race, age, gender etc aside when deciding if a cause is worth supporting. It ought to matter a lot if there'e a for-profit product in the middle of the pitch." created="Mon, 29 May 2017 15:00:14 GMT"/>
+					</outline>
+				</outline>
+			<outline text="May 28" created="Sun, 28 May 2017 12:25:19 GMT" name="28">
+				<outline text="I bet many of the leaks Trump is so angry about come from people he hired, who he thinks of as loyal to him. " created="Mon, 29 May 2017 03:33:38 GMT" tweetId="869034154402426881" tweetUserName="davewiner" type="tweet"/>
+				<outline text="Leftovers, Handmaid, Fargo, all current TV series, w interlocking plots re the way the world is currently ending. They even share actors." created="Mon, 29 May 2017 03:31:07 GMT" tweetId="869033417773658112" tweetUserName="davewiner" type="tweet"/>
+				<outline text="Safari and Chrome go to great lengths to prevent us from viewing RSS files in the browser. This app circumvents them. " created="Sun, 28 May 2017 16:52:27 GMT" type="link" url="http://xmlviewer.scripting.com/?url=http%3A%2F%2Fscripting.com%2Frss.xml"/>
+				<outline text="Nearing the moment when the Old School version of Scripting News becomes the real version. The todo list is getting quite short. " created="Sun, 28 May 2017 13:33:34 GMT" type="outline"/>
+				<outline text="Some people are dicks and do ugly stuff like shitting on the floor in other people's houses. Social Justice Warriors on The Internet know just what to do. When they visit your house they shit on your floor just like the people they are oppressed by. That'll show them! :balloon:" created="Sun, 28 May 2017 12:25:20 GMT" type="outline"/>
+				<outline text="If we survive this" created="Mon, 29 May 2017 03:38:21 GMT" type="outline">
+					<outline text="So many sentences these days begin with &lt;i&gt;If we survive this. &lt;/i&gt;Well, if we survive this, there will certainly be a movie about Donald Trump. Probably many. Will there be something like the &lt;a href=&quot;https://www.youtube.com/watch?v=t7PmzdINGZk&quot;&gt;scene&lt;/a&gt; from the &lt;a href=&quot;https://en.wikipedia.org/wiki/Downfall_(2004_film)&quot;&gt;bunker&lt;/a&gt; where Hitler &lt;a href=&quot;https://www.youtube.com/watch?v=PivpCKEiQOQ&quot;&gt;hears&lt;/a&gt; how something is fucked up and gets really upset about it? Will we come to think of Trump as a joke? Or what?" created="Mon, 29 May 2017 03:38:51 GMT" image="http://scripting.com/images/2017/05/28/trumpHead.png"/>
+					<outline text="And who will play Trump? I have a feeling Brad Pitt will make a good Trump. I wouldn't be surprised if he's thinking about it now." created="Mon, 29 May 2017 03:40:03 GMT"/>
+					</outline>
+				<outline text="Feature request for AWS" created="Sun, 28 May 2017 14:25:32 GMT" type="outline">
+					<outline text="A URL that includes a path to a folder in S3. When you open that URL in the web browser, a page opens up with S3 viewing that path. This would save me a lot of steps and scrolling. Buckets can get very long, esp over many years!" created="Sun, 28 May 2017 14:25:42 GMT"/>
+					<outline text="Of course please let me know if this feature already exists." created="Sun, 28 May 2017 14:26:04 GMT"/>
+					<outline text="Update: Of course it does. Just &lt;a href=&quot;http://scripting.com/images/2017/05/28/s3url.png&quot;&gt;look&lt;/a&gt; in the address area in the browser. ;-)" created="Sun, 28 May 2017 14:31:19 GMT"/>
+					</outline>
+				<outline text="Why I don't generally give each variable declaration its own line" created="Sun, 28 May 2017 14:15:59 GMT" type="outline">
+					<outline text="Some variable declarations are code that needs to be read, and others are just declarations and only significant for where they are declared. " created="Sun, 28 May 2017 14:16:12 GMT"/>
+					<outline text="By putting a name in a long list, I'm telling the reader to just skip over this shit, it's not important. Some code needs to tucked out of the way. " created="Sun, 28 May 2017 14:20:21 GMT"/>
+					<outline text="If code stretches out vertically, slow down. You need to understand this. " created="Sun, 28 May 2017 14:17:54 GMT"/>
+					</outline>
+				<outline text="Two things that must make it into the next frontier.root" created="Sun, 28 May 2017 14:18:57 GMT" type="outline">
+					<outline text="1. When you create a new headline, it is automatically given a &lt;i&gt;created&lt;/i&gt; attribute with the value of clock.now ()." created="Sun, 28 May 2017 14:19:31 GMT"/>
+					<outline text="2. In the right-click menu, a command to open the atts of the BCH in a window. " created="Sun, 28 May 2017 14:19:40 GMT"/>
+					</outline>
+				</outline>
+			<outline text="May 27" created="Sat, 27 May 2017 15:42:49 GMT" name="27">
+				<outline text="Attributed to Albert Einstein: &quot;Everything should be made as simple as possible, but not simpler.&quot;" created="Sat, 27 May 2017 15:56:37 GMT" image="http://scripting.com/images/2017/05/27/eatAPeach.png" tweetId="868497407536975872" tweetUserName="davewiner" type="tweet"/>
+				<outline text="If you create a new format intended to improve on an existing format, and you include an element that does exactly what the element in the earlier format does, should you give it the same name? Unequivocally, without a doubt, yes. Why? Because the idea is to reduce complexity in the world, and having two names for the same thing increases complexity, unnecessarily." created="Sat, 27 May 2017 16:28:04 GMT" type="outline"/>
+				<outline text="The Quran and Bible have many of the &lt;a href=&quot;https://en.wikipedia.org/wiki/Biblical_and_Quranic_narratives&quot;&gt;same&lt;/a&gt; characters and stories. I always thought techies could learn from this." created="Sat, 27 May 2017 16:36:16 GMT" tweetId="868506248819421184" tweetUserName="davewiner" type="tweet" url="https://en.wikipedia.org/wiki/Biblical_and_Quranic_narratives"/>
+				<outline text="I saw a comment in a thread on Twitter comparing RSS to Markdown. Very different things. RSS is plumbing. No one types RSS in by hand." created="Sat, 27 May 2017 16:27:03 GMT" type="outline"/>
+				<outline text="Intelligent informed people who ignore germane  facts when stating an opinion, facts they are certainly aware of, are deplorable. (This note relates to politics not tech.)" created="Sat, 27 May 2017 15:42:50 GMT" type="outline"/>
+				<outline text="You're my blue sky, you're my sunny day" created="Sat, 27 May 2017 20:39:22 GMT" type="outline">
+					<outline text="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/wwyXQn9g40I&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;" created="Sat, 27 May 2017 20:39:30 GMT"/>
+					</outline>
+				</outline>
+			<outline text="May 26" created="Fri, 26 May 2017 14:35:18 GMT" name="26">
+				<outline text="Most people have never had to fight to regain control of a hacked server. That imho is the best analogy for what's happened to the US govt." created="Fri, 26 May 2017 18:57:51 GMT" tweetId="868179444200075268" tweetUserName="davewiner" type="tweet"/>
+				<outline text="I fear we don't have much time left to get smart about news distribution. " created="Fri, 26 May 2017 16:51:20 GMT" tweetId="868147576322830336" tweetUserName="davewiner" type="tweet"/>
+				<outline text="BTW, the last two posts, plus this one, have used the new Markdown capability. :-)" created="Fri, 26 May 2017 16:24:05 GMT" type="markdown"/>
+				<outline text="I just added simple Markdown support to *Old School*. If you set the type of a node to markdown, when it's rendered, either on a page, or in a feed, the text is passed through a Markdown renderer. I'm using [marked](https://github.com/chjj/marked). It's got a very nice ability to override renderer options. I was able to catch the rendering for a paragraph and not return the HTML markup for paragraphs because in this context it's redundant." created="Fri, 26 May 2017 16:11:15 GMT" image="http://scripting.com/images/2017/05/26/cat.png" type="markdown"/>
+				<outline text="This is a **test**. *Please* ignore. " created="Fri, 26 May 2017 15:50:23 GMT" type="markdown"/>
+				<outline text="My web-level document model" created="Fri, 26 May 2017 14:38:06 GMT" type="outline">
+					<outline text="I've been digging around in the archive lately, looking at stuff I created 5, 10 and 20 years ago, because it's relevant again. " created="Fri, 26 May 2017 14:38:30 GMT"/>
+					<outline text="And there's something I do differently from just about everyone else. " created="Fri, 26 May 2017 16:57:15 GMT"/>
+					<outline text="I view a domain name as a very inexpensive commodity. I think of a domain name as if it were a file name. No more significant. So I have lots of them. And I'm creating more, because this model works, is rational and follows the grain of the web. " created="Fri, 26 May 2017 16:57:12 GMT"/>
+					<outline text="It's interesting because while the web companies do lots of buildings *inside* domains, I see the whole Internet namespace as an interesting object to play with. " created="Fri, 26 May 2017 14:40:52 GMT" type="markdown"/>
+					<outline text="For example, when I documented the &lt;a href=&quot;http://source.smallpict.com/2014/07/12/theSourceNamespace.html&quot;&gt;source namespace&lt;/a&gt; for RSS feeds, it got its own domain. It's also just an OPML file in my Dropbox folder. You can't get to it through Dropbox, but you can most definitely get to it through the web." created="Fri, 26 May 2017 17:00:06 GMT"/>
+					</outline>
+				</outline>
+			<outline text="May 25" created="Thu, 25 May 2017 15:02:01 GMT" name="25">
+				<outline text="“You have to understand that I like Ted Cruz probably more than my colleagues like Ted Cruz,” Sen. Al Franken (D-MN) &lt;a href=&quot;http://www.mediaite.com/online/franken-jokes-about-relationship-with-cruz-i-like-him-more-than-colleagues-do-and-i-hate-ted-cruz/&quot;&gt;told&lt;/a&gt; USA Today this week. “And I hate Ted Cruz.”  " created="Fri, 26 May 2017 03:18:43 GMT" image="http://scripting.com/2016/03/10/clown.png" type="outline"/>
+				<outline text="I am now going to add an emoji short code: :balloon:" created="Thu, 25 May 2017 17:23:25 GMT" type="outline"/>
+				<outline text="I visited in Seattle this weekend with Paul Andrews, the now-retired &lt;a href=&quot;https://www.google.com/webhp?hl=en&amp;sa=X&amp;ved=0ahUKEwjclYv1tYvUAhUhwYMKHVizAhUQPAgD#safe=off&amp;hl=en&amp;q=paul+andrews+site:seattletimes.com&quot;&gt;tech reporter&lt;/a&gt; for the Seattle Times. In the 90s, we talked a lot about Microsoft's efforts to eat the web, which were prodigious, futile and more than a little evil. Paul is what I think of as a no-bullshit reporter. He asks the question that's obvious that most reporters either don't think of or don't have the guts to ask. Really aren't many of them. I want Paul to get back in the saddle, with a blog. I was very clear and open with that wish as people who know me surely must understand by now. ;-)" created="Thu, 25 May 2017 15:57:38 GMT" type="outline"/>
+				<outline text="To me, Twitter and JavaScript are merging. I may be the only one who feels that way. " created="Thu, 25 May 2017 15:21:57 GMT" type="outline"/>
+				<outline text="I'm caught up on &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Handmaid%27s_Tale_(TV_series)&quot;&gt;Handmaid's Tale&lt;/a&gt;. What a story, so well done. Can't wait for next episode. And the fear that this is who we are, so real." created="Thu, 25 May 2017 15:02:02 GMT" type="outline"/>
+				<outline text="Note to friend who is a JavaScript expert: &quot;Still doing lots of new JavaScript stuff. Slowly but surely seeping into my DNA.&quot;" created="Thu, 25 May 2017 15:18:57 GMT" tweetId="867765088035516417" tweetUserName="davewiner" type="tweet">
+					<outline text="@Twittergram: And that was it. The Twitter API that I'm using only returns replies from people other than myself. Must. Remember. Next. Time." created="Thu May 25 16:55:42 +0000 2017" tweetId="867786262446518272" tweetUserName="Twittergram" type="tweet"/>
+					<outline text="@Twittergram: Another reply test. This time from a different account. Maybe that's a variable??" created="Thu May 25 16:53:32 +0000 2017" tweetId="867785718382252032" tweetUserName="Twittergram" type="tweet"/>
+					</outline>
+				</outline>
+			<outline text="May 24" created="Wed, 24 May 2017 20:17:50 GMT" name="24">
+				<outline text="Perhaps part of the reason devs are so down on XML is that the browsers make it impossible for you to see what's in an XML file. Chrome, Safari, Firefox all either have bugs, or actively prevent you from seeing. I inevitably have to write a script when I want to look inside an RSS file. Every time that happens I mutter &lt;i&gt;Fuck You Google&lt;/i&gt; under my breath. I am a Chrome user. :-)" created="Wed, 24 May 2017 21:08:32 GMT" type="outline"/>
+				<outline text="This has been a week of goal-setting. One of my goals is to make the news distribution system more effective, and lessen the reliance on silos. To do so, I am committed to relaying links to important and interesting news when I am working at my desktop, and often when I have my iPad with me. With just a few more people doing the same we could have a richer more diverse news flow, without added cost, without the price extracted by the silos. " created="Wed, 24 May 2017 20:55:03 GMT" type="outline"/>
+				<outline text="RSS is for people with ideas who want to circumvent the gatekeepers of journalism. These days those gatekeepers are big tech companies, Google, Facebook, Twitter. It used to be the big news orgs. But the power has shifted. RSS stands ready to help the news industry regain control of distribution. It might or might not work, but it's probably the only way it can happen. " created="Wed, 24 May 2017 20:17:51 GMT" image="http://scripting.com/2017/05/20/rsshat.png" type="outline"/>
+				<outline text="I love the Internet part #830982" created="Thu, 25 May 2017 02:57:01 GMT" type="outline">
+					<outline text="&lt;img src=&quot;http://scripting.com/images/2017/05/24/trumpPopeEtc.png&quot; width=&quot;600&quot; height=&quot;381&quot; border=&quot;0&quot; alt=&quot;A picture named trumpPopeEtc.png&quot;&gt;" created="Thu, 25 May 2017 02:57:13 GMT"/>
+					</outline>
+				</outline>
+			<outline text="May 22" created="Tue, 23 May 2017 00:19:47 GMT" name="22">
+				<outline text="JSON file formats" created="Tue, 23 May 2017 00:19:48 GMT" type="outline">
+					<outline text="Examples of products of mine that have JSON file formats." created="Tue, 23 May 2017 00:19:51 GMT"/>
+					<outline text="1. In &lt;a href=&quot;http://1999.io/&quot;&gt;1999.io&lt;/a&gt; the entire blog is stored in a single &lt;a href=&quot;http://friends.farm/users/davewiner/chatLog.json&quot;&gt;JSON file&lt;/a&gt;. " created="Tue, 23 May 2017 00:20:04 GMT"/>
+					<outline text="2. All rivers produced by &lt;a href=&quot;https://github.com/scripting/river5&quot;&gt;River5&lt;/a&gt; are &lt;a href=&quot;http://riverjs.org/&quot;&gt;JSONP&lt;/a&gt; &lt;a href=&quot;http://radio3.io/rivers/tech.js&quot;&gt;files&lt;/a&gt;." created="Tue, 23 May 2017 00:20:24 GMT"/>
+					<outline text="3. Historically &lt;a href=&quot;https://github.com/scripting/river5/tree/master/lists&quot;&gt;subscription lists&lt;/a&gt; are OPML files. In River5 I relaxed this rule and we allow either JSON or simple text files alongside the original OPML format. " created="Tue, 23 May 2017 00:20:53 GMT"/>
+					<outline text="Lots of good stuff in the links hanging off this post. ;-)" created="Tue, 23 May 2017 00:26:21 GMT"/>
+					</outline>
+				</outline>
+			<outline text="May 21" created="Sun, 21 May 2017 16:57:13 GMT" name="21">
+				<outline text="Slack and metadata scraping?" created="Sun, 21 May 2017 16:57:14 GMT" type="outline">
+					<outline text="As you may know I am &lt;a href=&quot;http://scripting.com/2017/05/16/experimentingWithAPersonalTwitter.html&quot;&gt;flowing&lt;/a&gt; all my links through a Slack group. If you want to receive my links that way, you can request an invite following the instructions on this &lt;a href=&quot;http://scripting.com/2017/05/16/experimentingWithAPersonalTwitter.html&quot;&gt;page&lt;/a&gt; (scroll to the end). " created="Sun, 21 May 2017 16:57:22 GMT"/>
+					<outline text="It's all working well except it's hard to predict when Slack will be able to scrape metadata from the post to present it with an image, title and description. " created="Sun, 21 May 2017 16:57:46 GMT"/>
+					<outline text="Sometimes it works, but usually it doesn't." created="Sun, 21 May 2017 16:58:22 GMT"/>
+					<outline text="My posts all have Facebook and Twitter metadata." created="Sun, 21 May 2017 16:58:29 GMT"/>
+					<outline text="Here's an &lt;a href=&quot;http://scripting.com/2017/05/21/oneEnclosurePerItemOrMultiple.html&quot;&gt;example&lt;/a&gt;." created="Sun, 21 May 2017 16:58:40 GMT"/>
+					<outline text="I find if I paste a link to one of the pieces hours or days after it initially appeared, then Slack finds the metadata. But if I post the link immediately after the piece is posted, it doesn't. I know the metadata is there, Twitter and Facebook both pick it up properly." created="Sun, 21 May 2017 16:58:42 GMT"/>
+					<outline text="I tried searching for any techniques to work with this, does Slack require some kind of ping? Is there a cache that only updates so often? Is it possible there's some kind of bug in here? I'm anxious to get this working, so any help would be appreciated." created="Sun, 21 May 2017 16:59:39 GMT"/>
+					<outline text="You can message me on Twitter at @davewiner, or send email to dave@smallpicture.com. " created="Sun, 21 May 2017 17:00:31 GMT"/>
+					</outline>
+				</outline>
+			<outline text="May 20" created="Sat, 20 May 2017 17:07:47 GMT" name="20">
+				<outline text="Doing a demo of EO with OS ." created="Sat, 20 May 2017 19:27:16 GMT" type="outline"/>
+				<outline text="Re JSON feed" created="Sat, 20 May 2017 17:21:52 GMT" type="outline">
+					<outline text="People have asked what I think of JSON feed... " created="Sat, 20 May 2017 17:21:56 GMT" image="http://scripting.com/2017/05/20/rsshat.png"/>
+					<outline text="My longtime friend and collaborator, &lt;a href=&quot;http://inessential.com/2017/05/17/json_feed&quot;&gt;Brent Simmons&lt;/a&gt;, is one of the two guys who designed the format. In fact I am in Seattle right now visiting Brent, talking about another project, though of course we have discussed &lt;a href=&quot;https://jsonfeed.org/version/1&quot;&gt;JSON feed&lt;/a&gt;. I knew it was coming. Brent and I emailed about it about a month ago." created="Sat, 20 May 2017 17:22:05 GMT"/>
+					<outline text="My opinion is pretty neutral. Kind of a shoulder shrug. It reminds me of the &lt;a href=&quot;https://www.youtube.com/watch?v=6bOy3RNyWME&quot;&gt;slogan&lt;/a&gt; from Battlestar Galactica. &quot;All of this has happened before and will happen again.&quot;" created="Sat, 20 May 2017 17:22:46 GMT"/>
+					<outline text="The hype around this effort reminds me of the hype at the start of Atom. Thankfully the personal stuff does not seem to be coming along with it this time." created="Sat, 20 May 2017 17:22:54 GMT"/>
+					<outline text="Is this something we should be focusing on?" created="Sat, 20 May 2017 17:51:11 GMT"/>
+					<outline text="I think we have to work on climate change and the fascism that's trying to boot up in the US. Our systems for news suck, and there are obvious ways to improve them if we put our minds to it. And I think a new incompatible feed format not only doesn't move us toward solving those problems, in a very small way (not worth worrying about) it moves us &lt;i&gt;away&lt;/i&gt; from solving them. By using bandwidth that could be used to foster working-together, perhaps. By making things that would otherwise interop, not interop. " created="Sat, 20 May 2017 17:24:32 GMT"/>
+					<outline text="If developers have a hard time using XML in their apps, if that's the problem, why not attack it right there? Work to make it easier. I work in Node and the browser, and in both places XML and JSON are equally easy to use. The same could be done for any environment. In fact in the browser, XML is integrated deeply into the programming model, because the web is made out of XML. " created="Sat, 20 May 2017 17:35:19 GMT"/>
+					<outline text="As a developer of &lt;a href=&quot;http://scripting.com/2017/04/19/electricRiverV041b.html&quot;&gt;feed reading&lt;/a&gt; software, if any new format gains traction, my software will support the format. I don't believe in locking users in or out. So a new incompatible format makes my life slightly more difficult. But once the work is done, it moves out of the way, hopefully never to be thought of again." created="Sat, 20 May 2017 17:26:06 GMT"/>
+					<outline text="As a writer, and developer of feed-creating software I am going to stick with good old &lt;a href=&quot;http://cyber.harvard.edu/rss/rss.html&quot;&gt;RSS 2.0&lt;/a&gt; with the &lt;a href=&quot;http://source.smallpict.com/2014/07/12/theSourceNamespace.html&quot;&gt;source namespace&lt;/a&gt;. It has served me well, and doesn't want for any features. If it did, I would just add them to the namespace. " created="Sat, 20 May 2017 17:26:36 GMT"/>
+					<outline text="One more thought, a few years ago we played around with the &lt;a href=&quot;https://web.archive.org/web/20140218231452/http://rssjs.org:80/&quot;&gt;idea&lt;/a&gt; of JSONified RSS, a simple translation of the XML elements and attributes to JSON. Two observations. 1.  It didn't invent new names for things that already exist. 2. It didn't catch on." created="Sat, 20 May 2017 17:27:21 GMT"/>
+					<outline text="See my &lt;a href=&quot;http://scripting.com/2017/05/09/rulesForStandardsmakers.html&quot;&gt;Manifesto&lt;/a&gt; for standards-makers for other general thoughts. " created="Sat, 20 May 2017 17:28:13 GMT"/>
+					</outline>
+				<outline text="Re the NYT profile of Evan Williams" created="Sat, 20 May 2017 17:07:48 GMT" type="outline">
+					<outline text="Re today's &lt;a href=&quot;https://mobile.nytimes.com/2017/05/20/technology/evan-williams-medium-twitter-internet.html&quot;&gt;profile&lt;/a&gt; of Evan Williams and Medium in the NYT." created="Sat, 20 May 2017 17:07:55 GMT"/>
+					<outline text="A few off-the-top-of-my head thoughts..." created="Sat, 20 May 2017 17:20:02 GMT"/>
+					<outline text="The best art ignores money. It's driven by the desire of a human to express what's inside. &quot;I am human and I have something to say.&quot; " created="Sat, 20 May 2017 17:14:41 GMT"/>
+					<outline text="I wish Medium had strived to make crazy-great editing software, and had created a server that they operated for free, and free of advertising, and open source with a liberal license that let others build new kinds of collaborative systems with great editing at its core. " created="Sat, 20 May 2017 17:10:42 GMT"/>
+					<outline text="How do you make money from this? We don't have an opinion about that." created="Sat, 20 May 2017 17:21:28 GMT"/>
+					<outline text="Think of it as a way for a man who made billions from the open web to give back. It was never about any individual's greatness or worth, it was and is about our need as a species to apply our collective minds to our evolution. We still have fundamental changes to make for our species to survive. " created="Sat, 20 May 2017 17:11:28 GMT"/>
+					<outline text="I'd add that the whole idea of a Great Thinker solving our problems is itself part of the problem. It worked for us until we conquered and controlled nature. Now we have to find a new purpose for ourselves, a new mission. " created="Sat, 20 May 2017 17:13:19 GMT"/>
+					</outline>
+				</outline>
+			<outline text="May 19" created="Fri, 19 May 2017 22:22:52 GMT" name="19">
+				<outline text="Greetings from Seattle" created="Fri, 19 May 2017 22:22:53 GMT" type="outline">
+					<outline text="Where it's cooler than NYC, and sunny. " created="Fri, 19 May 2017 22:22:58 GMT"/>
+					<outline text="I hear that's not the usual Seattle weather." created="Fri, 19 May 2017 22:23:07 GMT"/>
+					<outline text="You can thank me later." created="Fri, 19 May 2017 22:23:16 GMT"/>
+					</outline>
+				<outline text="My Apple Watch however still thinks it's in NYC" created="Fri, 19 May 2017 22:23:36 GMT" type="outline">
+					<outline text="Three hours ahead and about 20 degrees warmer." created="Fri, 19 May 2017 22:23:46 GMT"/>
+					<outline text="It's been a comedy of errors trying to convince the iPhone that I have a watch and they should be talking with each other." created="Fri, 19 May 2017 22:23:55 GMT"/>
+					<outline text="One or both of these devices would prefer if I had not come to Seattle." created="Fri, 19 May 2017 22:24:26 GMT"/>
+					<outline text="Wondering if they know something I don't! :-)" created="Fri, 19 May 2017 22:24:41 GMT"/>
+					</outline>
+				</outline>
+			<outline text="May 18" created="Thu, 18 May 2017 09:56:22 GMT" name="18">
+				<outline text="If we ever get rid of Trump we're going to have to trash all the govt's computers because they will all have Russian spyware on them. " created="Thu, 18 May 2017 14:10:26 GMT" type="outline"/>
+				<outline text="In April I was &lt;a href=&quot;http://scripting.com/2017/04/14/journalismAndTheBraintrust.html&quot;&gt;writing&lt;/a&gt; about journalism and the braintrust. The braintrust is an important often overlooked idea. You have gathered a lot of brains around you. Do you trust them?" created="Thu, 18 May 2017 14:02:52 GMT" type="outline"/>
+				<outline text="This is a test. For the next sixty seconds this station will conduct a test of the emergency broadcast system. Had this been an actual emergency you would have been instructed to tune to a local station for news and other information. " created="Thu, 18 May 2017 13:54:00 GMT" type="outline"/>
+				<outline text="Matt Yglesias &lt;a href=&quot;https://www.vox.com/policy-and-politics/2017/5/18/15654566/trump-toddler&quot;&gt;says&lt;/a&gt; Trump is not a toddler, he's a product of America's culture of impunity for the rich. Oh yeah. I know all about it. And corporations. The press is totally complicit. Their idea of credibility is how much money you have. So you become a billionaire and now, the story goes, you're smarter than everyone else. What if a person, &lt;a href=&quot;http://scripting.com/davenet/2000/10/19/transcendentalMoney.html&quot;&gt;wisely&lt;/a&gt;, doesn't organize their creativity solely for the purpose of becoming obscenely rich? Is there any way to win? It would be great if journalism, becoming aware of this, works to change the culture. Look for good ideas that come from non-super-rich." created="Thu, 18 May 2017 13:02:46 GMT" image="http://scripting.com/images/2017/05/18/trumpHead.png" type="outline"/>
+				<outline text="New version of &lt;a href=&quot;https://github.com/scripting/river5&quot;&gt;River5&lt;/a&gt; delivered. New &lt;a href=&quot;https://www.npmjs.com/package/davereader&quot;&gt;NPM package&lt;/a&gt; contains the core of River5 which can be used in other apps. I converted my rssToSlack app (not released) to use the davereader engine. All seems to work. Blog &lt;a href=&quot;http://scripting.com/2017/05/18/davereaderIsTheEngineOfRiver5.html&quot;&gt;post&lt;/a&gt; written." created="Thu, 18 May 2017 12:51:35 GMT" type="outline"/>
+				<outline text="Also deployed the Old School CMS to a server. This only matters to me. Noted here for the archive. ;-)" created="Thu, 18 May 2017 12:56:33 GMT" type="outline"/>
+				<outline text="Trump suffers so America can be Great Again" created="Thu, 18 May 2017 18:54:09 GMT" type="outline">
+					<outline text="&lt;img src=&quot;http://scripting.com/images/2017/05/18/trumpSuffersSoAmericaCanBeGreatAgain.png&quot; width=&quot;400&quot; height=&quot;327&quot; border=&quot;0&quot; alt=&quot;A picture named trumpSuffersSoAmericaCanBeGreatAgain.png&quot;&gt;" created="Thu, 18 May 2017 18:54:18 GMT"/>
+					</outline>
+				</outline>
+			<outline text="May 17" created="Wed, 17 May 2017 15:34:00 GMT" name="17">
+				<outline text="Occam's Report for May 17: They all work for Russia, dummy." created="Thu, 18 May 2017 02:42:20 GMT" type="outline"/>
+				<outline text="Today's Daily &lt;a href=&quot;http://podcatch.com/pages/15389.html&quot;&gt;podcast&lt;/a&gt; has a pretty good summary of what happened with Comey and Trump. One thing Comey did right is keep Trump's requests away from the FBI agents doing the investigation. He didn't want Trump to influence them, and he didn't want them picking up any signals from him either. You can say you have nothing to say, but actually saying nothing is far more powerful. " created="Wed, 17 May 2017 19:57:28 GMT" image="http://scripting.com/images/2017/05/17/trump.png" type="outline"/>
+				<outline text="BTW, there's no doubt Pence is implicated along w Trump, as is Ryan. We don't have any good options, and they're narrowing all the time. " created="Wed, 17 May 2017 16:29:30 GMT" type="outline"/>
+				<outline text="BTW, Trump is much worse than Watergate. No Russian spies partied in Oval with Nixon. He was paranoid, not naive." created="Wed, 17 May 2017 16:24:48 GMT" type="outline"/>
+				<outline text="Comey set a trap for Trump" created="Wed, 17 May 2017 15:34:01 GMT" type="outline">
+					<outline text="The FBI was investigating Trump and the Repubs. " created="Wed, 17 May 2017 15:34:28 GMT"/>
+					<outline text="Trump is the top Repub, offers Comey, the FBI Director, a bribe. " created="Wed, 17 May 2017 15:34:40 GMT"/>
+					<outline text="Here's the offer he can't refuse. Comey gets to keep his job if he kills the Russia investigation. " created="Wed, 17 May 2017 16:06:10 GMT"/>
+					<outline text="Comey has no intention of doing this. He's going to call the boss's bluff. " created="Wed, 17 May 2017 15:44:29 GMT"/>
+					<outline text="He goes back to the office and writes it up as all cops do. (Note: Comey is a cop.) " created="Wed, 17 May 2017 15:35:06 GMT"/>
+					<outline text="Comey doesn't know if the threat is credible, but if it turns out that it is, he has his guy nailed. The top guy. No need to give anyone immunity. " created="Wed, 17 May 2017 15:35:20 GMT"/>
+					<outline text="It's as if &lt;a href=&quot;https://en.wikipedia.org/wiki/Vito_Corleone&quot;&gt;Don Corleone&lt;/a&gt; did his own hits. He would never be that stupid. But our president is. " created="Wed, 17 May 2017 15:44:51 GMT"/>
+					<outline text="Can you imagine a TV cop resigning just because he caught the perp in the act? That would make no sense. " created="Wed, 17 May 2017 15:37:12 GMT"/>
+					<outline text="If Trump was kidding, Comey keeps his job and has no cause to prosecute Trump. But if he makes good on the threat, it's all over. When I &lt;a href=&quot;https://twitter.com/davewiner/status/864663465478299649&quot;&gt;said&lt;/a&gt; yesterday that Comey set him up, this is what I meant. He must have known Trump would eventually, in an impulse, fire him. He probably was aware of that when he testified before Congress, just before he was fired. It's possible what he said, even the wording, was designed to make Trump blow his top. ;-)" created="Wed, 17 May 2017 15:37:49 GMT"/>
+					<outline text="And Trump even confessed on TV! It's unbelievable how fucked he is. That's at least partially because Comey is good at his job. " created="Wed, 17 May 2017 15:38:17 GMT"/>
+					<outline text="PS: It's so clean, Comey doesn't even have to recuse. He's a private citizen. Free to testify. " created="Wed, 17 May 2017 15:43:47 GMT"/>
+					<outline text="PPS: It seems Trump must have overlooked the fact that he was trying to bribe a cop." created="Wed, 17 May 2017 15:48:14 GMT"/>
+					</outline>
+				<outline text="Let us reason together" created="Wed, 17 May 2017 19:09:17 GMT" type="outline">
+					<outline text="Trump was kidding about wanting Comey's loyalty." created="Wed, 17 May 2017 19:09:23 GMT"/>
+					<outline text="He was joking when he said he would think about whether Comey could keep his job."/>
+					<outline text="When he asked Comey to kill the Flynn investigation, to let it go, he was just being silly."/>
+					<outline text="When he threatened Comey on Twitter he was just having good-natured fun. Same with Sally Yates."/>
+					<outline text="When he fired Comey, that was an elaborate prank!" created="Wed, 17 May 2017 19:09:47 GMT"/>
+					</outline>
+				<outline text="Echoes of history" created="Wed, 17 May 2017 16:01:32 GMT" type="outline">
+					<outline text="&lt;img src=&quot;http://scripting.com/images/2017/05/17/trumpWithKislyak.png&quot; width=&quot;297&quot; height=&quot;291&quot; border=&quot;0&quot; style=&quot;padding-right: 2px;&quot;&gt;" created="Wed, 17 May 2017 16:00:02 GMT"/>
+					<outline text="&lt;img src=&quot;http://scripting.com/images/2017/05/17/nixon.png&quot; width=&quot;297&quot; height=&quot;291&quot; border=&quot;0&quot; style=&quot;padding-right: 2px;&quot;&gt;" created="Wed, 17 May 2017 16:00:02 GMT"/>
+					<outline text="All of this has happened before and will happen again. " created="Wed, 17 May 2017 16:04:35 GMT"/>
+					</outline>
+				<outline text="Do I really look like a guy with a plan?" created="Wed, 17 May 2017 16:44:40 GMT" type="outline">
+					<outline text="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/NWeh4A600E0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;" created="Wed, 17 May 2017 16:44:47 GMT"/>
+					</outline>
+				</outline>
+			<outline text="May 16" created="Tue, 16 May 2017 15:24:02 GMT" name="16">
+				<outline text="If we survive Trump I bet Comey gets a record-setting book deal. And who plays Comey in the movie? " created="Wed, 17 May 2017 03:35:34 GMT" type="outline"/>
+				<outline text="We need the Occam Razor's channel now more than ever. The cable TV networks are acting like lawyers. Here's what's really going on. Trump has been in business with Russia for a decade. When you crack open Flynn you find he's a Russian agent. He was feeding secrets to the Russians before, during and after the campaign. So the question of Russia blackmailing Trump or Flynn is moot. They &lt;i&gt;are&lt;/i&gt; Russia.  " created="Tue, 16 May 2017 23:42:28 GMT" type="outline"/>
+				<outline text="As part of my next project, I needed to finish the daveutils package by giving it a &lt;a href=&quot;https://github.com/scripting/utils&quot;&gt;repository&lt;/a&gt; on GitHub. Formerly it was just available &lt;a href=&quot;https://www.npmjs.com/package/daveutils&quot;&gt;through&lt;/a&gt; NPM." created="Tue, 16 May 2017 16:30:31 GMT" type="outline"/>
+				<outline text="Here's the next new &lt;a href=&quot;https://github.com/scripting/rss&quot;&gt;repository&lt;/a&gt;, for the &lt;a href=&quot;https://www.npmjs.com/package/daverss&quot;&gt;daverss&lt;/a&gt; package. Cleaning up loose ends in the new world I'm trying to pull together.  " created="Tue, 16 May 2017 17:24:08 GMT" type="outline"/>
+				<outline text="This morning I posted on Scripting News the &lt;a href=&quot;http://scripting.com/2017/05/16/experimentingWithAPersonalTwitter.html&quot;&gt;story&lt;/a&gt; of the new Slack group, and created a &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSczq-JCEHdjxTzE916RImGgv7Zg_vwtsEpmi-IJzapYS2KxGg/viewform?c=0&amp;w=1&quot;&gt;Google Form&lt;/a&gt; that allows people to request an invite. This, I hope, is the first step of a bootstrap, on both the reading and the editorial side. I don't know if one blogger (me) will be able to hold the interest of the group, and I'm pretty sure Slack is not the right environment (it's configured for workgroups, not news). But this is an easy first step, and that's how you learn what the second step is, and on from there. " created="Tue, 16 May 2017 15:24:03 GMT" type="outline"/>
+				</outline>
+			<outline text="May 15" created="Mon, 15 May 2017 14:32:52 GMT" name="15">
+				<outline text="Unless the Repubs in Congress take a stand, they're going to be as responsible as Trump for what happens next." created="Tue, 16 May 2017 01:38:21 GMT" type="outline"/>
+				<outline text="So El Presidente is about to embark on his first international trip to visit other heads of state. With this incredible leak to the Russians on the front pages of all the papers in the world. Haha the guy running the US is bozo the clown. And btw, you gotta wonder if this doesn't put some American troops in greater danger. Or the sources we didn't want to reveal to our allies. " created="Mon, 15 May 2017 22:36:48 GMT" image="http://scripting.com/images/2017/05/15/tree.png" type="outline"/>
+				<outline text="This is a test. For the next sixty seconds this station will conduct a test of the emergency broadcast system. Had this been an actual emergency you would have been instructed to tune to a local station for news and other information. This has been a test." created="Mon, 15 May 2017 22:15:24 GMT" type="outline"/>
+				<outline text="&lt;img src=&quot;http://scripting.com/images/2017/05/15/accordionGuy.png&quot; width=&quot;81&quot; height=&quot;194&quot; border=&quot;0&quot; style=&quot;float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;&quot; alt=&quot;A picture named accordionGuy.png&quot;&gt;If you want an idea what we're up against, listen to the &lt;a href=&quot;http://podcatch.com/pages/15327.html&quot;&gt;Daily podcast&lt;/a&gt; for today. The &quot;right&quot; is focused on their opinion that &quot;the left&quot; are a bunch of &lt;a href=&quot;http://scripting.com/2016/12/05/theLeftHasBecomeADogWhistle.html&quot;&gt;silly effeminate elites&lt;/a&gt; who are hypocritical, stupid and clueless. I'd love to tell them that I used to vote Republican, and I'm not a coward. I would also like to ask them a simple question. Okay we get it, you think we're idiots. But what do &lt;i&gt;you&lt;/i&gt; think? Is the president above the law? Does it matter that the president is your guy? What line would he have to cross before you'd say okay we need to put a stop to this? Or maybe there is no line. Tell us what you think. We already understand you don't like us, so you can skip that part.  " created="Mon, 15 May 2017 21:42:23 GMT" type="outline"/>
+				<outline text="I keep forgetting how new EO is. I just encountered a problem where all of a sudden it's not correctly saving my outline. Well I wasn't logged in, and it's missing the defensive code that would keep it from trying to mirror the file to the server. If I'm not logged in it can't work. " created="Mon, 15 May 2017 21:38:18 GMT" type="outline"/>
+				<outline text="Figure this out" created="Mon, 15 May 2017 16:33:26 GMT" type="outline">
+					<outline text="I am now really using this blog for real blogging." created="Mon, 15 May 2017 16:33:35 GMT"/>
+					<outline text="It's not cool to have the content be stored at such a temporary location." created="Mon, 15 May 2017 16:33:46 GMT"/>
+					<outline text="Figure out how to merge this with the current Scripting News without removing the ability for me to write longer posts with 1999.io, which it turns out I still like to do (I put the Manifesto there. When text editing and formatting is important, and a piece having its own graphic for Twitter and Facebook." created="Mon, 15 May 2017 16:33:57 GMT"/>
+					</outline>
+				<outline text="EO changes" created="Mon, 15 May 2017 14:47:27 GMT" type="outline">
+					<outline text="Electron is ignoring the default directory in Open dialog.." created="Mon, 15 May 2017 16:29:28 GMT">
+						<outline text="After I reinstalled electron-packager, it now takes me to Documents folder. " created="Mon, 15 May 2017 16:28:26 GMT"/>
+						<outline text="This is not cool. I want to be able to set the default. " created="Mon, 15 May 2017 16:30:13 GMT"/>
+						<outline text="Update: Now it's not doing it. Oy." created="Mon, 15 May 2017 16:32:29 GMT"/>
+						</outline>
+					<outline text="When editing a header, if an item disappears, delete it. " created="Mon, 15 May 2017 14:47:31 GMT">
+						<outline text="For example if I change the name of a header value, the old one should not be present. " created="Mon, 15 May 2017 14:47:45 GMT"/>
+						</outline>
+					</outline>
+				<outline text="Old School todo for Monday" created="Mon, 15 May 2017 14:32:53 GMT" type="outline">
+					<outline text="New Scripts menu command, Add image" created="Mon, 15 May 2017 23:35:17 GMT">
+						<outline text="Sets three atts on current headline -- image, width, height. " created="Mon, 15 May 2017 23:35:53 GMT"/>
+						<outline text="The image is rendered in the server. " created="Mon, 15 May 2017 23:36:07 GMT"/>
+						</outline>
+					<outline text="Where to put Old School docs?" created="Mon, 15 May 2017 16:36:18 GMT">
+						<outline text="I've got to start writing them." created="Mon, 15 May 2017 16:36:25 GMT"/>
+						</outline>
+					<outline text="Get the current image from an OPML header." created="Mon, 15 May 2017 16:36:08 GMT"/>
+					<outline text="Let's do the footer! &lt;i&gt;done&lt;/i&gt;" created="Mon, 15 May 2017 14:32:59 GMT">
+						<outline text="Nothing hard here, just have to set it up." created="Mon, 15 May 2017 14:33:05 GMT"/>
+						<outline text="The usual elements." created="Mon, 15 May 2017 14:33:11 GMT">
+							<outline text="copyright notice, in header" created="Mon, 15 May 2017 14:33:37 GMT"/>
+							<outline text="Last update" created="Mon, 15 May 2017 14:33:52 GMT"/>
+							<outline text="Social media links" created="Mon, 15 May 2017 14:33:55 GMT">
+								<outline text="twitter (we have id)" created="Mon, 15 May 2017 14:34:00 GMT"/>
+								<outline text="facebook, in header" created="Mon, 15 May 2017 14:34:05 GMT">
+									<outline text="ownerFacebookAccount" created="Mon, 15 May 2017 14:36:39 GMT"/>
+									</outline>
+								<outline text="github, in header " created="Mon, 15 May 2017 14:34:08 GMT">
+									<outline text="ownerGithubAccount" created="Mon, 15 May 2017 14:36:44 GMT"/>
+									</outline>
+								<outline text="linked-in, in header" created="Mon, 15 May 2017 14:34:09 GMT">
+									<outline text="ownerLinkedInAccount" created="Mon, 15 May 2017 14:36:50 GMT"/>
+									</outline>
+								<outline text="rss" created="Mon, 15 May 2017 14:34:11 GMT">
+									<outline text="obviously we know the address of the feed" created="Mon, 15 May 2017 14:36:58 GMT"/>
+									</outline>
+								</outline>
+							</outline>
+						</outline>
+					</outline>
+				</outline>
+			<outline text="May 14" created="Sun, 14 May 2017 14:21:03 GMT" name="14">
+				<outline text="Jay &amp; Ethan read the Manifesto" created="Sun, 14 May 2017 14:47:36 GMT" type="outline">
+					<outline text="Jay Rosen has read my Manifesto, &lt;a href=&quot;https://twitter.com/jayrosen_nyu/status/863570950058647552&quot;&gt;apparently&lt;/a&gt; likes it, but says he only understands 40% of it. So I read it &lt;a href=&quot;http://scripting.com/2017/05/09/rulesForStandardsmakers.html&quot;&gt;again&lt;/a&gt;, this time with my Jay Rosen goggles on, and I see what he means. There's a lot of context to what I'm saying that isn't explained. It's not complicated though, it &lt;i&gt;could be&lt;/i&gt; explained. Tried to think of analogies. For example, standards are to programmers what laws are to lawyers. There is a code for lawyers, I should read it, I bet it has a lot to offer programmers." created="Sun, 14 May 2017 14:47:41 GMT">
+						<outline text="BTW, this is something Lessig wrote a book on if I recall correctly." created="Sun, 14 May 2017 14:54:12 GMT"/>
+						<outline text="But I think he got tripped up with the word &quot;code&quot; -- because code in his world means something different from what it means in ours. " created="Sun, 14 May 2017 15:02:18 GMT"/>
+						<outline text="Legal code is more like a &lt;i&gt;standard&lt;/i&gt; in software. " created="Sun, 14 May 2017 15:02:40 GMT"/>
+						</outline>
+					<outline text="Ethan Zuckerman, another longtime friend, &lt;a href=&quot;https://twitter.com/EthanZ/status/863567736244490241&quot;&gt;pointed&lt;/a&gt; to it, with a comment that interop is to standards-makers as the Hippocratic Oath is to doctors. I went back and read the &lt;a href=&quot;http://scripting.com/2017/05/09/rulesForStandardsmakers.html&quot;&gt;piece&lt;/a&gt; up to that point, and he's right, that is what I said. But it isn't what I meant. It's more broad. Interop is not the responsibility of just standards-makers, unless you believe that all developers make standards (there's an argument for that position, btw). Interop is the ethical responsibility for &lt;i&gt;all&lt;/i&gt; programmers. Imho of course. " created="Sun, 14 May 2017 14:49:19 GMT">
+						<outline text="Lots of good stuff falls out if you accept that. " created="Sun, 14 May 2017 14:50:57 GMT"/>
+						<outline text="For example, it would be unethical for Facebook to be willing to read HTML but not emit it. I can't use linking in Facebook posts, but they hoover up links from the open web, probably a lot more than we know. " created="Sun, 14 May 2017 15:14:13 GMT"/>
+						<outline text="Facebook extracts lots of value from the open web, and doesn't give back as much as they've gotten. &lt;i&gt;This is wrong. &lt;/i&gt;" created="Sun, 14 May 2017 14:56:02 GMT"/>
+						</outline>
+					</outline>
+				<outline text="Old School items" created="Sun, 14 May 2017 14:21:04 GMT" type="outline">
+					<outline text="save daily RSS feed?" created="Sun, 14 May 2017 14:22:11 GMT"/>
+					<outline text="investigate saving to git/github" created="Sun, 14 May 2017 14:22:56 GMT">
+						<outline text="HTML" created="Sun, 14 May 2017 14:23:04 GMT"/>
+						<outline text="OPML" created="Sun, 14 May 2017 14:23:40 GMT"/>
+						<outline text="RSS" created="Sun, 14 May 2017 14:23:46 GMT"/>
+						</outline>
+					<outline text="investigate a connection to slack" created="Sun, 14 May 2017 14:26:53 GMT">
+						<outline text="when a new item is published on Scripting News, or to the linkblog, we post it to the slack group. see if anyone subscribes?" created="Sun, 14 May 2017 14:26:59 GMT"/>
+						</outline>
+					<outline text="Link to RSS feed in the footer." created="Sun, 14 May 2017 14:24:47 GMT">
+						<outline text="Actually bring in social media links." created="Sun, 14 May 2017 14:25:00 GMT"/>
+						</outline>
+					<outline text="Hamburger icon/sidebar" created="Sun, 14 May 2017 14:25:43 GMT">
+						<outline text="Bring it in from Scripting News home page" created="Sun, 14 May 2017 14:25:54 GMT"/>
+						</outline>
+					<outline text="done" created="Sun, 14 May 2017 17:32:06 GMT">
+						<outline text="We are not reading the template on every build, but we should be." created="Sun, 14 May 2017 14:36:34 GMT"/>
+						<outline text="calendar.json" created="Sun, 14 May 2017 14:22:29 GMT">
+							<outline text="save/restore calendar.json" created="Sun, 14 May 2017 14:21:11 GMT">
+								<outline text="need this to do next/prev links efficiently" created="Sun, 14 May 2017 14:21:21 GMT"/>
+								<outline text="also a nice place to store data for other application" created="Sun, 14 May 2017 14:21:30 GMT"/>
+								</outline>
+							<outline text="add monthly archive pages to calendar.json" created="Sun, 14 May 2017 14:21:39 GMT"/>
+							<outline text="here's the &lt;a href=&quot;http://scripting.com/reboot/test/v3/dave/calendar.json&quot;&gt;calendar.json&lt;/a&gt; (so far) for this blog" created="Sun, 14 May 2017 14:29:08 GMT"/>
+							</outline>
+						<outline text="permalinks" created="Sun, 14 May 2017 17:12:48 GMT">
+							<outline text="on the home page, permalinks should point to the link on the daily archive page." created="Sun, 14 May 2017 17:12:51 GMT"/>
+							<outline text="titles should be anchors pointing to their permalinks. " created="Sun, 14 May 2017 17:13:08 GMT"/>
+							</outline>
+						</outline>
+					</outline>
+				<outline text="Trump and his inartistic PR" created="Sun, 14 May 2017 15:25:38 GMT" type="outline">
+					<outline text="At the moment Trump fired Comey, there was about to be a loud and wide call by Democrats and others that Comey should resign, because he had just, in his Congressional testimony, &lt;i&gt;again&lt;/i&gt; slimed HRC, and was spinning badly in a highly political manner, in the way law enforcement officials must not. " created="Sun, 14 May 2017 15:25:53 GMT"/>
+					<outline text="Then Comey could have either resigned or not. And guess what if Trump had fired him then, perhaps as the outcry was dying down, he could have turned this into a political win, instead of the disaster that it has become." created="Sun, 14 May 2017 15:29:18 GMT"/>
+					</outline>
+				</outline>
+			<outline text="May 13" created="Sat, 13 May 2017 13:38:30 GMT" name="13">
+				<outline text="&lt;img src=&quot;http://scripting.com/images/2017/05/13/smallCow.png&quot; width=&quot;125&quot; height=&quot;110&quot; border=&quot;0&quot; style=&quot;float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;&quot; alt=&quot;A picture named smallCow.png&quot;&gt;BTW, just because a post is short doesn't mean I don't fuss over it to get the wording right. If anything because it's a manageable size, it's easier for me to get right. " created="Sat, 13 May 2017 18:17:19 GMT" type="outline"/>
+				<outline text="When I heard about Jay Rosen's &lt;a href=&quot;http://pressthink.org/board/&quot;&gt;board&lt;/a&gt;, an adjunct to his &lt;a href=&quot;http://pressthink.org/&quot;&gt;blog&lt;/a&gt;, I thought they're slowly rebuilding what I had working 20 years ago. Seriously, the notepad form of blogging, that you're reading now, is how I blogged in 1996 and beyond. It wasn't til much later that I cast that all aside and adopted the title-and-description relatively long format favored by Google Reader and WordPress. What I've been missing is a guilt-free and easy way to post medium length stuff, like this post. " created="Sat, 13 May 2017 18:04:38 GMT" type="outline"/>
+				<outline text="On TV, recently, I heard a commentator say that everything Trump collides with he wrecks. The panel laughed. He was thinking of people and companies. But Trump has more than collided with the US, in many ways he &lt;i&gt;is&lt;/i&gt; the US. I don't think this has fully sunk in yet. And the power the US has to wreck things is almost absolute. It's only with great restraint that we &lt;i&gt;avoid&lt;/i&gt; wrecking everything. " created="Sat, 13 May 2017 18:01:54 GMT" type="outline"/>
+				<outline text="&lt;i&gt;Old School&lt;/i&gt; gets its first &lt;a href=&quot;http://scripting.com/2017/05/13/oldSchoolProgressAndWebsocketsForRiver5.html&quot;&gt;post&lt;/a&gt; on the mother blog. This is an example of a post with no title. It shows up in the &lt;a href=&quot;http://scripting.com/reboot/test/v3/dave/rss.xml&quot;&gt;feed&lt;/a&gt; just like you want it to. Google Reader wouldn't like it, but Google Reader is no more, it's pushing up daisies, pining for the fjords." created="Sat, 13 May 2017 17:23:40 GMT" type="outline"/>
+				<outline text="For test purposes I need another singular item here so I can see why the spacing isn't right between the date and the first item. &lt;i&gt;Fixed.&lt;/i&gt;" created="Sat, 13 May 2017 17:49:52 GMT"/>
+				<outline text="Here's a titled post" created="Sat, 13 May 2017 17:56:46 GMT" type="outline">
+					<outline text="I usually group these at the end, but I want to see what it looks like when it's at the top. Since it's in an outliner, I can easily slide it down to the bottom later. ;-)" created="Sat, 13 May 2017 17:56:50 GMT"/>
+					<outline text="Yeah it looks weird because it feels like the next two singular posts are part of this post. That's why I'm going to slide it down. " created="Sat, 13 May 2017 17:58:40 GMT"/>
+					</outline>
+				<outline text="Looks good on iPhone" created="Sat, 13 May 2017 13:38:31 GMT" type="outline">
+					<outline text="Not much more to say. I tweaked the style sheet so it looks good on an iPhone 6s in portrait mode. Haven't tested it on other mobile devices. I suspect this will cover a lot of them. Stay tuned. " created="Sat, 13 May 2017 13:38:37 GMT"/>
+					</outline>
+				</outline>
+			<outline text="May 12" created="Fri, 12 May 2017 13:49:55 GMT" name="12">
+				<outline text="Bug in Edit OPML headers command" created="Fri, 12 May 2017 14:05:49 GMT" type="outline">
+					<outline text="It deletes the urlUpdateSocket header. " created="Fri, 12 May 2017 14:06:06 GMT"/>
+					<outline text="Resolved: I commented the code that deletes headers. It was doing so on the theory that the users don't need to see these highly technical elements. Not a good idea to hide them. " created="Sat, 13 May 2017 12:28:50 GMT"/>
+					</outline>
+				<outline text="Loose ends from yesterday" created="Fri, 12 May 2017 13:49:56 GMT" type="outline">
+					<outline text="Code cleanup" created="Fri, 12 May 2017 03:56:00 GMT">
+						<outline text="There are some items with names that need changing. " created="Fri, 12 May 2017 03:56:05 GMT"/>
+						<outline text="Test, review all the bits to make sure nothing broke in the big factoring yesterday." created="Fri, 12 May 2017 03:56:18 GMT"/>
+						</outline>
+					<outline text="Done" created="Fri, 12 May 2017 14:44:40 GMT">
+						<outline text="Google Analytics code" created="Thu, 11 May 2017 22:56:52 GMT"/>
+						<outline text="Link from the blog title to the home page of the blog." created="Fri, 12 May 2017 14:21:11 GMT"/>
+						<outline text="Image flows into Facebook and Twitter metadata." created="Thu, 11 May 2017 22:44:04 GMT"/>
+						<outline text="Link to RSS feed from template, both in HTML and as a &lt;link&gt; element." created="Fri, 12 May 2017 04:01:43 GMT"/>
+						<outline text="Include outline source in the RSS feed using the &lt;i&gt;source&lt;/i&gt; namespace?" created="Fri, 12 May 2017 04:02:47 GMT"/>
+						</outline>
+					</outline>
+				</outline>
+			<outline text="May 11" created="Thu, 11 May 2017 15:05:32 GMT" name="11">
+				<outline text="Lots of loose ends" created="Thu, 11 May 2017 22:41:29 GMT" type="outline">
+					<outline text="Reading blog on phone, iPad." created="Fri, 12 May 2017 03:56:37 GMT"/>
+					<outline text="Add footer to the template.  " created="Fri, 12 May 2017 03:38:51 GMT">
+						<outline text="My name goes there, with a link to my bio page." created="Fri, 12 May 2017 03:41:02 GMT"/>
+						</outline>
+					<outline text="Next-prev links betw days and months." created="Fri, 12 May 2017 16:02:41 GMT"/>
+					<outline text="Could we get linking to work like it does in 1999?" created="Fri, 12 May 2017 04:22:58 GMT">
+						<outline text="I much prefer the popup to the Link icon." created="Fri, 12 May 2017 04:23:08 GMT"/>
+						</outline>
+					<outline text="Save a JSON data structure in the S3 bucket?" created="Fri, 12 May 2017 03:55:30 GMT"/>
+					<outline text="In EO, if you're not logged in, don't try to upload the OPML text. " created="Fri, 12 May 2017 03:37:31 GMT">
+						<outline text="It won't work." created="Fri, 12 May 2017 03:40:52 GMT"/>
+						</outline>
+					<outline text="What to do with the other tabs on Scripting News home page?" created="Fri, 12 May 2017 03:39:07 GMT"/>
+					<outline text="Server returns URL of home page of the site." created="Thu, 11 May 2017 22:41:34 GMT"/>
+					<outline text="Eye icon" created="Fri, 12 May 2017 03:30:35 GMT"/>
+					<outline text="Glossary" created="Thu, 11 May 2017 22:41:44 GMT"/>
+					<outline text="Emoji" created="Thu, 11 May 2017 22:42:02 GMT"/>
+					<outline text="Live updates of HTML page?" created="Thu, 11 May 2017 22:44:19 GMT"/>
+					<outline text="Disqus comments?" created="Thu, 11 May 2017 22:44:28 GMT"/>
+					<outline text="Customizing the icon bar." created="Thu, 11 May 2017 22:57:05 GMT">
+						<outline text="Part of a general plug-in architecture for EO." created="Fri, 12 May 2017 03:41:15 GMT"/>
+						</outline>
+					<outline text="River5 package." created="Fri, 12 May 2017 03:52:13 GMT"/>
+					</outline>
+				<outline text="Director Comey" created="Thu, 11 May 2017 22:41:01 GMT" type="outline">
+					<outline text="They love Director Comey at the FBI." created="Thu, 11 May 2017 22:41:06 GMT"/>
+					</outline>
+				<outline text="Just did a complete refactor of Old School" created="Thu, 11 May 2017 21:33:06 GMT" type="outline">
+					<outline text="I wanted to make it handle multiple blogs. " created="Thu, 11 May 2017 21:33:15 GMT"/>
+					<outline text="So all globals became part of a data structure." created="Thu, 11 May 2017 21:33:25 GMT"/>
+					<outline text="This is the time to do it. " created="Thu, 11 May 2017 21:33:35 GMT"/>
+					<outline text="Now let's see if it all worked! ;-)" created="Thu, 11 May 2017 21:33:39 GMT"/>
+					</outline>
+				<outline text="This is a prototype" created="Thu, 11 May 2017 18:45:50 GMT" type="outline">
+					<outline text="A prototype of the Old School blogging system." created="Thu, 11 May 2017 18:45:54 GMT"/>
+					<outline text="Short and long posts." created="Thu, 11 May 2017 18:46:04 GMT"/>
+					<outline text="Titled and untitled." created="Thu, 11 May 2017 18:46:14 GMT"/>
+					<outline text="Just like the old school Scripting News." created="Thu, 11 May 2017 18:46:17 GMT"/>
+					</outline>
+				<outline text="Strings are your friend" created="Thu, 11 May 2017 18:43:55 GMT" type="outline">
+					<outline text="js is a shit language" created="Thu, 11 May 2017 18:44:00 GMT"/>
+					<outline text="no one loved it" created="Thu, 11 May 2017 18:44:05 GMT"/>
+					<outline text="but i'm a knicks fan" created="Thu, 11 May 2017 18:44:06 GMT"/>
+					<outline text="so i deal well with imperfection" created="Thu, 11 May 2017 18:44:08 GMT"/>
+					</outline>
+				<outline text="Old School" created="Thu, 11 May 2017 15:05:33 GMT" type="outline">
+					<outline text="Done" created="Thu, 11 May 2017 16:48:16 GMT">
+						<outline text="Did a new version, v2, with the banner created with font at runtime. " created="Thu, 11 May 2017 16:48:18 GMT">
+							<outline text="Edit style sheet" created="Thu, 11 May 2017 15:07:41 GMT">
+								<outline text="Headline style should match current Scripting News home page styling." created="Thu, 11 May 2017 15:07:45 GMT"/>
+								</outline>
+							<outline text="I don't want the banners" created="Thu, 11 May 2017 15:08:09 GMT">
+								<outline text="Nice idea, but we need something newer and more modern. We can do much better today with fonts and real-time rendering." created="Thu, 11 May 2017 15:08:15 GMT"/>
+								<outline text="Also have to think about mobile reading. Ugh." created="Thu, 11 May 2017 15:08:36 GMT"/>
+								</outline>
+							</outline>
+						</outline>
+					</outline>
+				</outline>
+			<outline text="May 10" created="Wed, 10 May 2017 15:22:34 GMT" name="10">
+				<outline text="For working on the RSS feed I need an item without a title. This is that item." created="Wed, 10 May 2017 16:52:59 GMT"/>
+				<outline text="Just for fun let's add another item." created="Wed, 10 May 2017 17:19:28 GMT"/>
+				<outline text="And another." created="Wed, 10 May 2017 17:19:34 GMT"/>
+				<outline text="Idea for a new cable news show" created="Wed, 10 May 2017 23:37:58 GMT" type="outline">
+					<outline text="It's called Occam's Report." created="Wed, 10 May 2017 23:38:07 GMT"/>
+					<outline text="It's not journalism, instead it's what's obvious." created="Wed, 10 May 2017 23:38:13 GMT"/>
+					<outline text="Today the discussion would assume that Trump fired Comey because he had found enough dirt on Trump to put him in an orange prison jump suit. Arrest imminent. " created="Wed, 10 May 2017 23:38:28 GMT"/>
+					<outline text="This is obvious. Trump is obstructing an investigation that had him nailed. " created="Wed, 10 May 2017 23:39:22 GMT"/>
+					</outline>
+				<outline text="Could it be old school w/o header graphics?" created="Wed, 10 May 2017 19:02:21 GMT" type="outline">
+					<outline text="I saved all the header graphics from Ye Olde Scripting Nudes." created="Wed, 10 May 2017 19:02:36 GMT"/>
+					<outline text="I thought they might come in handy. ;-)" created="Wed, 10 May 2017 19:02:51 GMT"/>
+					</outline>
+				<outline text="Test post #3728" created="Wed, 10 May 2017 18:40:12 GMT" type="outline">
+					<outline text="I need another test post to check out if my feed is publishing in a way that River5 can read it. This is that post. Hahah. " created="Wed, 10 May 2017 18:40:21 GMT"/>
+					<outline text="Here's an item with three subs:" created="Wed, 10 May 2017 18:40:48 GMT">
+						<outline text="one" created="Wed, 10 May 2017 18:40:55 GMT"/>
+						<outline text="two" created="Wed, 10 May 2017 18:40:56 GMT"/>
+						<outline text="three" created="Wed, 10 May 2017 18:40:56 GMT"/>
+						</outline>
+					<outline text="Here's a list of three states:" created="Wed, 10 May 2017 18:40:57 GMT">
+						<outline text="California" created="Wed, 10 May 2017 18:41:13 GMT">
+							<outline text="Sacramento" created="Wed, 10 May 2017 18:41:26 GMT"/>
+							<outline text="San Diego" created="Wed, 10 May 2017 18:41:29 GMT"/>
+							<outline text="Yreka" created="Wed, 10 May 2017 18:41:32 GMT"/>
+							</outline>
+						<outline text="Idaho" created="Wed, 10 May 2017 18:41:16 GMT">
+							<outline text="Boise" created="Wed, 10 May 2017 18:41:22 GMT"/>
+							</outline>
+						<outline text="Vermont" created="Wed, 10 May 2017 18:41:17 GMT">
+							<outline text="Burlington" created="Wed, 10 May 2017 18:41:36 GMT"/>
+							<outline text="Montpelier" created="Wed, 10 May 2017 18:41:38 GMT"/>
+							</outline>
+						</outline>
+					<outline text="And in closing let me thank all the little people. Without you none of this would be possible. " created="Wed, 10 May 2017 18:41:43 GMT"/>
+					</outline>
+				<outline text="I am now subscribing to the RSS feed in my river" created="Wed, 10 May 2017 18:06:13 GMT" type="outline">
+					<outline text="Lets see if this mofo shows up there and if it does, how it looks." created="Wed, 10 May 2017 18:06:22 GMT"/>
+					<outline text="It should indent, but not in any fancy way, just using HTML ordered lists." created="Wed, 10 May 2017 18:06:32 GMT"/>
+					<outline text="For example this item has three subs" created="Wed, 10 May 2017 18:06:45 GMT">
+						<outline text="one" created="Wed, 10 May 2017 18:06:51 GMT"/>
+						<outline text="two" created="Wed, 10 May 2017 18:06:52 GMT"/>
+						<outline text="three" created="Wed, 10 May 2017 18:06:53 GMT"/>
+						</outline>
+					<outline text="They should appear indented in your RSS tool of choice." created="Wed, 10 May 2017 18:06:54 GMT"/>
+					<outline text="Here's the actual feed. " created="Wed, 10 May 2017 18:09:51 GMT" type="rss" xmlUrl="http://scripting.com/reboot/test/v1/dave/rss.xml"/>
+					</outline>
+				<outline text="OldSchool todo" created="Wed, 10 May 2017 15:31:17 GMT" type="outline">
+					<outline text="add popup menu to each item" created="Wed, 10 May 2017 15:31:30 GMT">
+						<outline text="need more than one command, so far all I have is permalink. there must be other things you need to do to an object. " created="Wed, 10 May 2017 15:31:40 GMT"/>
+						</outline>
+					<outline text="done" created="Wed, 10 May 2017 15:43:24 GMT">
+						<outline text="facebook and twitter metadata added to the template, processed by cms" created="Wed, 10 May 2017 15:47:46 GMT"/>
+						<outline text="add header to template" created="Wed, 10 May 2017 15:31:23 GMT"/>
+						<outline text="Make &lt;i&gt;daverss&lt;/i&gt; npm package and use it from Old School." created="Wed, 10 May 2017 18:24:50 GMT"/>
+						<outline text="RSS feed" created="Wed, 10 May 2017 15:33:45 GMT">
+							<outline text="It's in, now we have to debug it, and define permalinks, and whatever else we can. And also produce the daverss package. This is definitely one that will benefit from that treatment. " created="Wed, 10 May 2017 17:33:56 GMT"/>
+							<outline text="Must get it started soon. Without an RSS feed this isn't much of a blog." created="Wed, 10 May 2017 15:33:48 GMT"/>
+							</outline>
+						<outline text="monthly archive page" created="Wed, 10 May 2017 15:34:26 GMT">
+							<outline text="here's the &lt;a href=&quot;http://scripting.com/reboot/test/v1/dave/2017/05/index.html&quot;&gt;MAP&lt;/a&gt; for may." created="Wed, 10 May 2017 16:02:13 GMT"/>
+							</outline>
+						<outline text="tuned up the messages on the console" created="Wed, 10 May 2017 15:43:25 GMT"/>
+						<outline text="when the /build message comes in, don't return until it's all built" created="Wed, 10 May 2017 15:43:33 GMT"/>
+						</outline>
+					</outline>
+				<outline text="Running pre-built EO" created="Wed, 10 May 2017 15:22:35 GMT" type="outline">
+					<outline text="I did a build of the Electirc Outliner app, so I'm running it from the Mac desktop as I edit this. " created="Wed, 10 May 2017 15:22:50 GMT"/>
+					</outline>
+				</outline>
+			<outline text="May 9" created="Tue, 09 May 2017 13:44:49 GMT" name="09">
+				<outline text="Must watch new Olberman video. Follow the money! ;-)" created="Tue, 09 May 2017 21:30:33 GMT" type="link" url="https://twitter.com/KeithOlbermann/status/862053858129956864"/>
+				<outline text="Here's an idea. Add a popup menu to each post. Use a down-pointing wedge as its icon. Included in the menu is a permalink option. Not sure what else..." created="Tue, 09 May 2017 18:51:17 GMT" type="outline"/>
+				<outline text="When Trump failed to fire Flynn it was because being compromised by Russian blackmail was nothing new in this White House. They all are." created="Tue, 09 May 2017 18:37:35 GMT" type="outline"/>
+				<outline text="Idea for Facebook. We can emote over a post or a comment, how about thanking someone? After that, forgiveness." created="Tue, 09 May 2017 14:31:46 GMT" type="outline"/>
+				<outline text="We now have a &lt;a href=&quot;http://scripting.com/reboot/test/v1/dave/&quot;&gt;home page&lt;/a&gt; for the Old School blog. " created="Tue, 09 May 2017 14:30:36 GMT" type="outline"/>
+				<outline text="Comey fired" created="Tue, 09 May 2017 22:17:55 GMT" type="outline">
+					<outline text="This gets interesting." created="Tue, 09 May 2017 22:17:59 GMT"/>
+					</outline>
+				<outline text="I love WebSockets part #207" created="Tue, 09 May 2017 21:50:43 GMT" type="outline">
+					<outline text="I just hooked up OldSchool to the storage server through WebSockets. So now I get notified when the JSON file updates." created="Tue, 09 May 2017 21:50:51 GMT"/>
+					<outline text="It waits until the socket has been quiet for 5 seconds before doing the build. Don't want to wear out the CMS. :wink:" created="Tue, 09 May 2017 21:51:12 GMT"/>
+					<outline text="So I'm typing into EO, and the blog doesn't rebuild until I stop typing for five seconds."/>
+					<outline text="Control and data fly around the network, and the code is very simple."/>
+					</outline>
+				<outline text="OldSchool becomes realtime" created="Tue, 09 May 2017 21:42:31 GMT">
+					<outline text="I think it's time for OldSchool to check the feed once a minute for updates and rebuild the home page and the day archive page when there's been a change. Better: Hook up to the websocket and wait until there's been five seconds of silence on the line." created="Tue, 09 May 2017 18:52:07 GMT" type="outline"/>
+					</outline>
+				<outline text="Do you trust Comey?" created="Tue, 09 May 2017 15:41:06 GMT">
+					<outline text="Comey's testimony was &quot;inaccurate&quot; &lt;a href=&quot;https://www.propublica.org/article/comeys-testimony-on-huma-abedin-forwarding-emails-was-inaccurate&quot;&gt;according to&lt;/a&gt; ProPublica. Not on some little thing, but on the events that caused him to throw the election to Trump. Is he really the best person to run the FBI? It seems to me his resignation is long overdue. If not charges. " created="Tue, 09 May 2017 15:39:57 GMT" type="outline"/>
+					</outline>
+				<outline text="Rules for Standards-makers" created="Tue, 09 May 2017 15:32:17 GMT">
+					<outline text="It's coming along. Thinking about who to ask to review also. " created="Tue, 09 May 2017 13:44:50 GMT" type="outline"/>
+					<outline text="Also, have it mirrored on GitHub? That would be relatively easy to do. That way people could see changes over time, if any." created="Tue, 09 May 2017 15:32:41 GMT"/>
+					<outline text="Update: It's now &lt;a href=&quot;https://github.com/scripting/Scripting-News/blob/master/manifesto/rulesForStandardsMakers.md&quot;&gt;mirrored&lt;/a&gt; to GitHub." created="Tue, 09 May 2017 15:32:04 GMT"/>
+					</outline>
+				</outline>
+			<outline text="May 8" created="Mon, 08 May 2017 04:31:50 GMT" name="08">
+				<outline text="I love it when nations promote themselves as a good place for honorable technologists. Which nation wants to be home to the open web?" created="Mon, 08 May 2017 14:55:22 GMT" type="link" url="https://twitter.com/EmmanuelMacron/status/829849353867128832"/>
+				<outline text="My friend @jayrosen_nyu calls it the &lt;i&gt;&lt;a href=&quot;http://pressthink.org/2010/11/the-view-from-nowhere-questions-and-answers/&quot;&gt;View From Nowhere&lt;/a&gt;.&lt;/i&gt; The reality that news pretends doesn't exist. Today the reality is overwhelming, because the envelope that contains the news, the companies that own journalism, are such a huge part of the story, every story. Media has become much more pervasive in the last 20 years. That's why news has drifted further into Nowhere, and it's become more of a fantasy. " created="Mon, 08 May 2017 14:54:54 GMT" type="outline"/>
+				<outline text="Dear US friends, if you ever shake your head and wonder what's become of our country, the answer is nothing." created="Mon, 08 May 2017 14:34:44 GMT" type="link" url="https://www.youtube.com/watch?v=5V6GHnxEJjg"/>
+				<outline text="If news is going to work it's going to have to bite the hands that feed it. It's hard to imagine that happening." created="Mon, 08 May 2017 04:39:30 GMT" type="outline"/>
+				<outline text="This is a placeholder" created="Mon, 08 May 2017 15:09:23 GMT" type="outline">
+					<outline text="Its only purpose is to be here so it can be rendered in the demo so I can see what a consecutive pair of titled items looks like." created="Mon, 08 May 2017 15:09:28 GMT"/>
+					</outline>
+				<outline text="Old School is a node app" created="Mon, 08 May 2017 04:31:51 GMT" type="outline">
+					<outline text="It reads the JSON file for this outline, and processes it into pages of a blog." created="Mon, 08 May 2017 04:32:01 GMT"/>
+					<outline text="Each page is a day. " created="Mon, 08 May 2017 04:32:19 GMT"/>
+					<outline text="Permalinks on each item." created="Mon, 08 May 2017 04:32:34 GMT"/>
+					<outline text="Items can be single headlines with no subs." created="Mon, 08 May 2017 04:32:38 GMT">
+						<outline text="It appears in the feed as a item with no title." created="Mon, 08 May 2017 15:08:12 GMT"/>
+						</outline>
+					<outline text="Or a headline with subs. " created="Mon, 08 May 2017 04:32:57 GMT">
+						<outline text="The headline is the title of the item in the feed. " created="Mon, 08 May 2017 15:08:19 GMT"/>
+						</outline>
+					<outline text="For now the pages are stored at /scripting.com/reboot/test/dave/." created="Mon, 08 May 2017 04:33:54 GMT"/>
+					<outline text="Calendar structured folder. " created="Mon, 08 May 2017 04:34:12 GMT"/>
+					</outline>
+				</outline>
+			<outline text="May 7" created="Sun, 07 May 2017 15:24:24 GMT" name="07">
+				<outline text="Outline published in JSON too" created="Sun, 07 May 2017 18:09:04 GMT" type="outline">
+					<outline text="We already upload OPML, it was a simple matter to have it also maintain a JSON version of the file as well. " created="Sun, 07 May 2017 18:09:14 GMT"/>
+					<outline text="Here's the OPML version of this file." created="Sun, 07 May 2017 18:09:37 GMT" type="link" url="http://storage.littleoutliner.com/users/davewiner/electric/todo.opml"/>
+					<outline text="And the JSON version. " created="Sun, 07 May 2017 18:09:43 GMT" type="link" url="http://storage.littleoutliner.com/users/davewiner/electric/todo.json"/>
+					<outline text="The mapping should be kind of obvious." created="Sun, 07 May 2017 18:09:48 GMT"/>
+					<outline text="And the discussion ensues..." created="Sun, 07 May 2017 21:04:11 GMT">
+						<outline text="It's easy to read for sure, but I'm still kind of conflicted about the format. Because it takes something, OPML, that was singular and muddies it up. Which version of OPML should I expect? I have to produce both you say? What's the advantage of two versions over one?" created="Sun, 07 May 2017 21:04:17 GMT"/>
+						<outline text="I produced it because I reasoned at some point in the process of turning the outline into a blog it's going to probably become JSON. Might as well do it at the beginning, at the source." created="Sun, 07 May 2017 21:04:35 GMT"/>
+						<outline text="And all the software I've ever shipped expects OPML not the JSONization. Of course since my software will produce both formats there will be interop. But what happens when someone only produces one? What do I say when someone asks me which one should they support? Or is it ok if they just support .JSON. I want to be agreeable, but I would have to say you need to support both. So how did it get easier? Seems it only got harder." created="Sun, 07 May 2017 21:04:44 GMT"/>
+						</outline>
+					</outline>
+				<outline text="Plugins for EO" created="Sun, 07 May 2017 17:40:01 GMT" type="outline">
+					<outline text="The thing about outlines is that they can be rendered in so many different ways." created="Sun, 07 May 2017 17:40:06 GMT"/>
+					<outline text="Presentations, listicles, fact sheets, directories, status centers, blogs and probably a lot more. " created="Sun, 07 May 2017 17:40:18 GMT"/>
+					<outline text="The question is where do you want to put that code? " created="Sun, 07 May 2017 17:40:59 GMT">
+						<outline text="Best place to put it is EO." created="Sun, 07 May 2017 17:41:32 GMT"/>
+						<outline text="No server to run. Yet you have the full power of Node.js right here, and full access to the local system. No fooling around like we had to do with Dropbox. No rules. We're back in the app business, for real." created="Sun, 07 May 2017 17:41:37 GMT"/>
+						</outline>
+					<outline text="When does the code run?" created="Sun, 07 May 2017 17:43:12 GMT">
+						<outline text="As the outline is being uploaded. " created="Sun, 07 May 2017 17:43:22 GMT"/>
+						<outline text="For public outlines only." created="Sun, 07 May 2017 17:43:29 GMT"/>
+						</outline>
+					</outline>
+				<outline text="Electric Outliner" created="Sun, 07 May 2017 15:24:25 GMT" type="outline">
+					<outline text="Problem with saving" created="Sun, 07 May 2017 16:33:49 GMT">
+						<outline text="I do a bunch of work in toy.opml, switch back to todo.opml, the content in todo.opml has been replaced with toy.opml." created="Sun, 07 May 2017 16:33:54 GMT"/>
+						<outline text="I just changed the saving code to base the file on the tab, not the global currentFilePath. It's likely the bug was related to using that global. Never was a good idea. Keep one thing current the tab data structure. " created="Sun, 07 May 2017 16:43:05 GMT"/>
+						</outline>
+					<outline text="Done" created="Sun, 07 May 2017 16:31:53 GMT">
+						<outline text="Update logon menu items." created="Sun, 07 May 2017 15:24:45 GMT"/>
+						<outline text="No debugging message for getConfig." created="Sun, 07 May 2017 15:25:37 GMT"/>
+						<outline text="File path." created="Sun, 07 May 2017 15:25:01 GMT"/>
+						<outline text="Attributes display." created="Sun, 07 May 2017 15:24:33 GMT"/>
+						<outline text="Cmd-/ to run script from outline" created="Sun, 07 May 2017 16:28:55 GMT">
+							<outline text="12 + 12" created="Sun, 07 May 2017 16:31:27 GMT">
+								<outline text="24" isComment="true" created="Sun, 07 May 2017 16:32:42 GMT"/>
+								</outline>
+							<outline text="string.upper (&quot;oh the buzzing of the bees&quot;)" created="Sun, 07 May 2017 16:31:32 GMT">
+								<outline text="OH THE BUZZING OF THE BEES" isComment="true" created="Sun, 07 May 2017 16:32:45 GMT"/>
+								</outline>
+							</outline>
+						</outline>
+					</outline>
+				</outline>
+			<outline text="May 6" created="Sat, 06 May 2017 16:55:05 GMT" name="06">
+				<outline text="Using EO to write a blog" created="Sat, 06 May 2017 16:55:06 GMT" type="outline">
+					<outline text="The blog will be in a separate outline." created="Sat, 06 May 2017 16:55:20 GMT"/>
+					<outline text="Use the big Plus icon to create a new post." created="Sat, 06 May 2017 16:55:26 GMT"/>
+					<outline text="It can have a title or not." created="Sat, 06 May 2017 16:55:50 GMT"/>
+					<outline text="It can have indented material or not." created="Sat, 06 May 2017 16:55:55 GMT"/>
+					<outline text="The rendering happens when you press the Publish button." created="Sat, 06 May 2017 16:56:09 GMT">
+						<outline text="That sends a message to another app running on another machine, with the URL of the OPML file, and it does its thing. It sends back the URL of the page on the server, so you can implement an eyeball command." created="Sat, 06 May 2017 16:56:34 GMT"/>
+						</outline>
+					</outline>
+				<outline text="Little todo stuff" created="Sat, 06 May 2017 17:07:40 GMT" type="outline">
+					<outline text="In the tab, display the long name of subscribed-to files, if available." created="Sat, 06 May 2017 17:07:46 GMT"/>
+					<outline text="Display attributes" created="Sat, 06 May 2017 22:39:56 GMT"/>
+					</outline>
+				<outline text="I could also fix up LO2 based on what I did here" created="Sat, 06 May 2017 17:03:04 GMT" type="outline">
+					<outline text="My biggest complaint is the way the left sidebar icons work." created="Sat, 06 May 2017 17:03:12 GMT"/>
+					<outline text="I was having a bad day when I put those into LO2. " created="Sat, 06 May 2017 17:03:23 GMT"/>
+					<outline text="The EO version is perfect. " created="Sat, 06 May 2017 17:03:30 GMT"/>
+					</outline>
+				<outline text="Done" created="Sat, 06 May 2017 22:39:20 GMT" type="outline">
+					<outline text="I really need a Scripts menu in EO" created="Sat, 06 May 2017 17:04:36 GMT" type="outline">
+						<outline text="That would make it work a lot better. " created="Sat, 06 May 2017 17:04:44 GMT"/>
+						<outline text="If I could put commands in the menubar." created="Sat, 06 May 2017 17:04:49 GMT"/>
+						</outline>
+					<outline text="Wipe OPML" created="Sat, 06 May 2017 18:10:46 GMT" type="outline">
+						<outline text="Start fresh. Just nodeEditor.root and config.root." created="Sat, 06 May 2017 18:10:51 GMT"/>
+						<outline text="Watch for breakage in webland..." created="Sat, 06 May 2017 18:11:24 GMT"/>
+						</outline>
+					</outline>
+				</outline>
+			<outline text="May 5" created="Fri, 05 May 2017 14:30:08 GMT" name="05">
+				<outline text="Electric Outliner" created="Fri, 05 May 2017 14:30:09 GMT" type="outline">
+					<outline text="todo" created="Fri, 05 May 2017 14:30:13 GMT">
+						<outline text="Do a build so I can run another copy on my laptop" created="Fri, 05 May 2017 22:37:08 GMT">
+							<outline text="Having it be both a publisher and subscriber at the same time" created="Fri, 05 May 2017 22:37:19 GMT"/>
+							</outline>
+						<outline text="Why is it accessing files in Documents folder?" created="Fri, 05 May 2017 21:59:03 GMT">
+							<outline text="When I installed new Electron version the behavior changed." created="Fri, 05 May 2017 21:59:12 GMT"/>
+							<outline text="My code is explicitly telling it to default to the application's data folder. " created="Fri, 05 May 2017 21:59:23 GMT"/>
+							</outline>
+						<outline text="In some circumstance a local outline will be overwritten by a remote one." created="Fri, 05 May 2017 21:24:15 GMT">
+							<outline text="I found my todo.opml file contained the contents of my notes outline from LO2 which I had subscribed to" created="Fri, 05 May 2017 21:24:31 GMT"/>
+							<outline text="I don't know how this happened. But I will try to reproduce and read code. " created="Fri, 05 May 2017 21:25:05 GMT"/>
+							</outline>
+						</outline>
+					<outline text="done" created="Fri, 05 May 2017 14:30:16 GMT">
+						<outline text="try booting with no prefs.json" created="Wed, 03 May 2017 15:33:49 GMT"/>
+						<outline text="shake out errors in subscription implementation" created="Fri, 05 May 2017 14:30:14 GMT">
+							<outline text="" created="Fri, 05 May 2017 14:30:57 GMT"/>
+							</outline>
+						<outline text="change the title of the window to config.productnameForDisplay." created="Fri, 05 May 2017 14:30:18 GMT"/>
+						<outline text="subscribe command" created="Wed, 03 May 2017 21:37:42 GMT">
+							<outline text="implemented but untested and buggy" created="Thu, 04 May 2017 18:31:49 GMT"/>
+							<outline text="will get to this at the beginning of the next session" created="Thu, 04 May 2017 18:31:57 GMT"/>
+							</outline>
+						</outline>
+					</outline>
+				</outline>
+			<outline text="May 4" created="Thu, 04 May 2017 14:11:28 GMT" name="04">
+				<outline text="New stuff Brent should know about" created="Thu, 04 May 2017 17:01:19 GMT" type="outline">
+					<outline text="RSS items can have outlines" created="Thu, 04 May 2017 17:01:24 GMT">
+						<outline text="This is part of the source namespace." created="Thu, 04 May 2017 17:01:31 GMT"/>
+						<outline text="The outline represents the &quot;source code&quot; of the item." created="Thu, 04 May 2017 17:01:36 GMT"/>
+						<outline text="The description is the rendered text." created="Thu, 04 May 2017 17:02:01 GMT"/>
+						<outline text="This way you can present the outline, if your reader can handle outlines." created="Thu, 04 May 2017 17:02:07 GMT"/>
+						<outline text="River5 can. " created="Thu, 04 May 2017 17:02:28 GMT"/>
+						</outline>
+					<outline text="New header elements for OPML" created="Thu, 04 May 2017 17:02:39 GMT">
+						<outline text="Some are documented in OPML 2.0." created="Thu, 04 May 2017 17:02:46 GMT"/>
+						<outline text="Others are used in my new outliners..." created="Thu, 04 May 2017 17:02:54 GMT">
+							<outline text="Fargo" created="Thu, 04 May 2017 17:03:08 GMT"/>
+							<outline text="LO2" created="Thu, 04 May 2017 17:03:09 GMT"/>
+							<outline text="Electric Outliner" created="Thu, 04 May 2017 17:03:10 GMT"/>
+							</outline>
+						<outline text="I'm going to paste the URL of a demo file" created="Thu, 04 May 2017 17:03:15 GMT">
+							<outline text="Working around a bug..." created="Thu, 04 May 2017 17:03:25 GMT"/>
+							</outline>
+						</outline>
+					</outline>
+				<outline text="Slack connection" created="Thu, 04 May 2017 15:26:58 GMT" type="outline">
+					<outline text="I want to be able to post an item to Slack." created="Thu, 04 May 2017 15:27:02 GMT"/>
+					<outline text="Wouldn't it be cool if it updated in real time?" created="Thu, 04 May 2017 15:27:09 GMT"/>
+					<outline text="The cool thing about Slack is that when I email Stewart, he responds. " created="Thu, 04 May 2017 15:27:16 GMT"/>
+					</outline>
+				<outline text="Use this for Scripting News" created="Thu, 04 May 2017 15:25:44 GMT" type="outline">
+					<outline text="I want to go back to the original pre-Twitter model for Scripting News. " created="Thu, 04 May 2017 15:25:51 GMT"/>
+					<outline text="I got confused, and started putting my short ideas on Twitter. " created="Thu, 04 May 2017 15:26:06 GMT">
+						<outline text="Lost the archive. " created="Thu, 04 May 2017 15:26:17 GMT"/>
+						<outline text="Some ideas don't fit in 140." created="Thu, 04 May 2017 15:26:21 GMT"/>
+						</outline>
+					<outline text="If I can't get them on Twitter, so be it." created="Thu, 04 May 2017 15:26:32 GMT">
+						<outline text="They've had enough time to adapt. They don't care to. Fuck that." created="Thu, 04 May 2017 15:26:39 GMT"/>
+						</outline>
+					</outline>
+				<outline text="Electric  Outliner" created="Thu, 04 May 2017 14:11:29 GMT" type="outline">
+					<outline text="Todo" created="Thu, 04 May 2017 14:11:38 GMT">
+						<outline text="the long title for this outline is too damn long" created="Wed, 03 May 2017 23:01:32 GMT"/>
+						<outline text="when you log off the menus don't reflect the new state" created="Wed, 03 May 2017 15:33:38 GMT"/>
+						<outline text="get rid of start up error messages " created="Wed, 03 May 2017 15:26:02 GMT"/>
+						<outline text="make sure all project files are loaded locally not over the net" created="Wed, 03 May 2017 15:26:07 GMT">
+							<outline text="index.html" created="Wed, 03 May 2017 15:26:19 GMT"/>
+							<outline text="outlinerhomepage.js" created="Wed, 03 May 2017 15:26:24 GMT"/>
+							<outline text="the lib folder" created="Wed, 03 May 2017 15:26:28 GMT"/>
+							</outline>
+						<outline text="mirror code to github repo" created="Wed, 03 May 2017 15:26:33 GMT">
+							<outline text="private at least for now" created="Wed, 03 May 2017 15:26:43 GMT"/>
+							</outline>
+						</outline>
+					<outline text="Done" created="Thu, 04 May 2017 17:00:43 GMT">
+						<outline text="&lt;i&gt;Make Public&lt;/i&gt; command should use longtitle and description" created="Thu, 04 May 2017 17:12:38 GMT"/>
+						<outline text="header elements" created="Wed, 03 May 2017 22:46:57 GMT">
+							<outline text="ownerTwitterScreenName " created="Wed, 03 May 2017 22:47:00 GMT"/>
+							<outline text="ownerName " created="Wed, 03 May 2017 22:47:15 GMT"/>
+							<outline text="ownerId " created="Wed, 03 May 2017 22:47:27 GMT"/>
+							</outline>
+						<outline text="dialog to set description and titles of document" created="Wed, 03 May 2017 21:24:58 GMT">
+							<outline text="title" created="Wed, 03 May 2017 22:47:43 GMT"/>
+							<outline text="longTitle" created="Wed, 03 May 2017 22:47:46 GMT"/>
+							<outline text="description" created="Wed, 03 May 2017 22:47:48 GMT"/>
+							</outline>
+						</outline>
+					</outline>
+				</outline>
+			<outline text="May 3" created="Wed, 03 May 2017 15:12:41 GMT" name="03">
+				<outline text="Electric Outliner" created="Wed, 03 May 2017 15:12:42 GMT" type="outline">
+					<outline text="Todo" created="Wed, 03 May 2017 15:14:37 GMT"/>
+					<outline text="Done" created="Wed, 03 May 2017 15:36:14 GMT">
+						<outline text="only save after one second of inactivity" created="Wed, 03 May 2017 21:25:12 GMT"/>
+						<outline text="command to make an outline public" created="Wed, 03 May 2017 21:24:34 GMT"/>
+						<outline text="what needs to be in the head section?" created="Wed, 03 May 2017 21:24:43 GMT"/>
+						<outline text="what server to use?" created="Wed, 03 May 2017 15:14:40 GMT">
+							<outline text="the server will be responsible for storing public files and notification among the subscribers" created="Wed, 03 May 2017 15:14:49 GMT"/>
+							<outline text="the same one LO2 uses." created="Wed, 03 May 2017 15:21:31 GMT"/>
+							</outline>
+						<outline text="command to make the outline public" created="Wed, 03 May 2017 15:15:20 GMT">
+							<outline text="stored as a header value" created="Wed, 03 May 2017 15:15:45 GMT"/>
+							</outline>
+						</outline>
+					<outline text="Goals" created="Wed, 03 May 2017 15:14:35 GMT">
+						<outline text="The goal is to be able to participate in the network defined by LO2 from Electric Outliner. This helps give the server its own identity in the mix, and we're federating based on OPML." created="Wed, 03 May 2017 15:12:48 GMT"/>
+						<outline text="Also want to bring this as a meta-question to Brent's group. Here's a product that is a first cousin to Frontier, if not a sibling. How should this be tested? Should we use this Slack group, or start another. Give this some thought. We all understand the tradeoffs." created="Wed, 03 May 2017 15:13:20 GMT"/>
+						</outline>
+					</outline>
+				</outline>
+			</outline>
+		</body>
+	</opml>
