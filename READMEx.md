@@ -8,7 +8,10 @@ Let's see if this works! :-)
 
 #### Todo list
 
-*   The commit message is pretty random. Needs to be settable in the editor, not a constant on the server.
 *   Need more than one size headline. Right now we just have an H4.
 *   A link from the editor to the page in the repo.
 *   Obviously I'm going to want an outliner. I'm using Medium-Editor to try to create something generic first. I wish everyone loved outliners as much as I do.
+
+#### Done list
+
+*   The commit message is now settable through the UI.
