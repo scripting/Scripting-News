@@ -10,3 +10,4 @@ Let's see if this works! :-)
 
 *   The commit message is pretty random. Needs to be settable in the editor, not a constant on the server.
 *   Need more than one size headline. Right now we just have an H4.
+*   A link from the editor to the page in the repo.
