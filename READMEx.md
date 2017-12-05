@@ -6,11 +6,14 @@ But it's missing some capabilities, that's why I'm not editing the actual readme
 
 Let's see if this works! :-)
 
+#### Observations
+
+Obviously I'm going to want an outliner. I'm using Medium-Editor to try to create something generic first. I wish everyone loved outliners as much as I do.
+
 #### Todo list
 
 *   A link from the editor to the page in the repo.
 *   Make the toolbar contents customizable through settings.
-*   Obviously I'm going to want an outliner. I'm using Medium-Editor to try to create something generic first. I wish everyone loved outliners as much as I do.
 
 #### Done list
 
