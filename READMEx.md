@@ -8,11 +8,12 @@ Let's see if this works! :-)
 
 #### Todo list
 
-*   Need more than one size headline. Right now we just have an H4.
 *   A link from the editor to the page in the repo.
+*   Make the toolbar contents customizable through settings.
 *   Obviously I'm going to want an outliner. I'm using Medium-Editor to try to create something generic first. I wish everyone loved outliners as much as I do.
 
 #### Done list
 
 *   The commit message is now settable through the UI.
 *   No more hard-coded constants on the server, they all come through from the editor, and ones that the user can reasonably set are in the settings dialog.
+*   We have two headline sizes, h2 and h4.
