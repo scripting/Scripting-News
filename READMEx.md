@@ -15,3 +15,4 @@ Let's see if this works! :-)
 #### Done list
 
 *   The commit message is now settable through the UI.
+*   No more hard-coded constants on the server, they all come through from the editor, and ones that the user can reasonably set are in the settings dialog.
