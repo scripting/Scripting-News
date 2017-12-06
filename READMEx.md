@@ -13,7 +13,6 @@ Obviously I'm going to want an outliner. I'm using Medium-Editor to try to creat
 #### Todo list
 
 *   A link from the editor to the page in the repo. Also known as the Eye icon.
-*   Make the toolbar contents customizable through settings.
 
 #### Done list
 
