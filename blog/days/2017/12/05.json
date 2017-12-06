@@ -1,0 +1,34 @@
+{
+    "text": "December 5",
+    "created": "Tue, 05 Dec 2017 13:07:46 GMT",
+    "name": "05",
+    "subs": [
+        {
+            "text": "Here's a <a href=\"http://scripting.com/images/2017/12/05/englishEditorScreenShot.png\">screen shot</a> of the editor as it exists today.",
+            "created": "Tue, 05 Dec 2017 17:31:48 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I'm using the new editor to edit the <a href=\"https://github.com/scripting/Scripting-News/blob/master/READMEx.md\">readme file</a> for the repo. It's really more of a todo list right now for this project. But when it's done, probably tomorrow or the day after, it'll be for the actual readme. ",
+            "created": "Wed, 06 Dec 2017 04:03:00 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Speaking of convolution. I'm trying out the idea of a wizzy editor for GitHub readmes. A simple editor, based on <a href=\"https://github.com/yabwe/medium-editor\">Medium-Editor</a>, so you get styling, lists, heads. I found a <a href=\"https://github.com/IonicaBizau/medium-editor-markdown\">plug-in</a> that generates Markdown code. So what I push up to GitHub is Markdown, which is the only style that GH renders as HTML as far as I know. It works. Now the question is how to save the text locally between edits. Ideally it would be in Markdown, but the plug-in can't turn Markdown into HTML to initialize the editor. There was a <a href=\"https://github.com/IonicaBizau/medium-editor-markdown/issues/14\">thread</a> on the repo for the project where people asked for this but it appears not to have happened. I tried a hack. Use another MD processor to do the initial conversion, and go from there. Hey Markdown is enough of a standard that it appears to work. I love it. PS: I started a <a href=\"https://github.com/scripting/Scripting-News/issues/48\">thread</a> on my repo for this project if you have questions or opinions. ",
+            "created": "Tue, 05 Dec 2017 16:13:32 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/12/03/chocolateShake.png"
+        },
+        {
+            "text": "My eyes are playing weird tricks on me. I have to wear reading glasses for computer work, because of the weird arrangement of lenses in my eyes. Long story, have been told before. I've been trying out different prescriptions, but today I'm back to the lens I've been using for a year. But my eyesight on the computer has reverted to where it was two years ago. Virtually impossible for me to read. I make typing mistakes because I literally can't see what the characters are on the screen. Then I thought, let's just take off the glasses and see what happens. Amazingly I can read the screen without them. A little double vision, but that's nothing compared to what I was dealing with before. ",
+            "created": "Tue, 05 Dec 2017 16:08:47 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/07/21/trumpHead.png"
+        },
+        {
+            "text": "This <a href=\"https://www.nytimes.com/2017/12/05/well/family/gender-men-touch.html?partner=rss&emc=rss\">piece</a> gives you a very small idea of the hell that men live with, now that we're getting educated on the hell women deal with. You know the grass always looks greener on the other side. I don't think most women would like to be in a man's body in this world. We are human too, believe it or not, and when you carry on about how we're all evil or <a href=\"https://www.thedailybeast.com/women-are-getting-banned-from-facebook-for-calling-men-scum\">scum</a>, you're not being fair, kind or even in the ballpark of truth. We all need love and support. Men too. Thanks for listening. ",
+            "created": "Tue, 05 Dec 2017 13:18:50 GMT",
+            "type": "outline"
+        }
+    ]
+}
