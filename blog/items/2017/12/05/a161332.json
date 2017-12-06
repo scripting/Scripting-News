@@ -1,0 +1,6 @@
+{
+    "text": "Speaking of convolution. I'm trying out the idea of a wizzy editor for GitHub readmes. A simple editor, based on <a href=\"https://github.com/yabwe/medium-editor\">Medium-Editor</a>, so you get styling, lists, heads. I found a <a href=\"https://github.com/IonicaBizau/medium-editor-markdown\">plug-in</a> that generates Markdown code. So what I push up to GitHub is Markdown, which is the only style that GH renders as HTML as far as I know. It works. Now the question is how to save the text locally between edits. Ideally it would be in Markdown, but the plug-in can't turn Markdown into HTML to initialize the editor. There was a <a href=\"https://github.com/IonicaBizau/medium-editor-markdown/issues/14\">thread</a> on the repo for the project where people asked for this but it appears not to have happened. I tried a hack. Use another MD processor to do the initial conversion, and go from there. Hey Markdown is enough of a standard that it appears to work. I love it. PS: I started a <a href=\"https://github.com/scripting/Scripting-News/issues/48\">thread</a> on my repo for this project if you have questions or opinions. ",
+    "created": "Tue, 05 Dec 2017 16:13:32 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2017/12/03/chocolateShake.png"
+}
