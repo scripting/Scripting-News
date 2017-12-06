@@ -12,11 +12,10 @@ Obviously I'm going to want an outliner. I'm using Medium-Editor to try to creat
 
 #### Todo list
 
-*   A link from the editor to the page in the repo. Also known as the _Eye_ icon.
-
 #### Done list
 
 *   The commit message is now settable through the UI.
+*   A link from the editor to the page in the repo. Also known as the Eye icon.
 *   Option to not show Markdown preview.
 *   No more hard-coded constants on the server, they all come through from the editor, and ones that the user can reasonably set are in the settings dialog.
 *   We have two headline sizes, h2 and h4.
