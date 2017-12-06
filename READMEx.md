@@ -12,7 +12,7 @@ Obviously I'm going to want an outliner. I'm using Medium-Editor to try to creat
 
 #### Todo list
 
-*   A link from the editor to the page in the repo. Also known as the Eye icon.
+*   A link from the editor to the page in the repo. Also known as the _Eye_ icon.
 
 #### Done list
 
