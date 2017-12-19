@@ -1,0 +1,68 @@
+{
+    "text": "December 18",
+    "created": "Mon, 18 Dec 2017 16:36:21 GMT",
+    "name": "18",
+    "subs": [
+        {
+            "text": "I keep forgetting this is Monday. Feels totally like a Sunday.",
+            "created": "Mon, 18 Dec 2017 21:57:05 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Sci fi <a href=\"https://twitter.com/davewiner/status/942622236795592704\">plot</a> -- one day you check in on Twitter and you're the only one posting. People <i>like</i> your tweets, and RT them. But they can't post. You are the only person who can tweet. ",
+            "created": "Mon, 18 Dec 2017 22:32:40 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I wrote this <a href=\"https://github.com/scripting/pagepark\">simple HTTP server</a> to park domains I've bought but not yet used. But I kept going and added all the features I want to help me manage my own websites, far beyond just parking them.",
+            "created": "Tue, 19 Dec 2017 00:45:32 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "One of the new functions of my blog is as a place to save off noteworthy tweets. More true now that tweets can be long enough to express an idea in enough detail so people can actually understand it if they're willing to read. ",
+            "created": "Mon, 18 Dec 2017 22:33:40 GMT",
+            "type": "tweet",
+            "tweetId": "942885846415536128",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "I've had a <a href=\"https://en.wikipedia.org/wiki/Roku\">Roku</a> for a couple of weeks. I can watch my cable TV through a website, in Chrome, on my desktop. Works in any browser. Why can't I access my Roku from my desktop? We're on the same LAN. Hmmm. ;-)",
+            "created": "Mon, 18 Dec 2017 20:07:15 GMT",
+            "type": "tweet",
+            "image": "http://scripting.com/images/2017/12/18/roku.png",
+            "tweetId": "942855390592667648",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "I keep forgetting this is Monday. Feels totally like a Sunday.",
+            "created": "Mon, 18 Dec 2017 21:56:58 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I know we're not supposed to like Woody Allen, but the <a href=\"https://youtu.be/69W3-zV3gFE?t=2m5s\">very last part</a> of Annie Hall is a beautiful expression of human hope, of why, against all we learn, we still strive for love. ",
+            "created": "Mon, 18 Dec 2017 17:25:35 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Some time ago, I forget when, I stopped caring if other people use the software I create. It's not because I don't want them to, but no matter how much I try they don't come. So I started building things to amuse myself. And I am amused. ",
+            "created": "Mon, 18 Dec 2017 16:36:22 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"http://screen2.io/\">Screen2</a> is one of the things. Even though there aren't any users, it still needs to be cared for. The chatlog had grown enormous. Luckily there's an easy maintenence procedure to roll it over, which also creates a backup of the previous chatlog. Nothing is lost. And things get faster. ",
+            "created": "Mon, 18 Dec 2017 16:37:44 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "What shows up in Screen2? All the flows that I could get to go through \"RSS\", and the flow of Scripting News, which has special hooks in it for WebSockets-based updating. The same flow is presented in \"Instant Dave\" which is an Electron rendering of the same idea.",
+            "created": "Mon, 18 Dec 2017 16:39:23 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "BTW, I read a couple of pieces over the last week that dissed RSS as being too old. Please. The sign of a good basic technology, tech you can build on, is that it has survived many attempts to replace it. Its longevity tells you it's safe to build on.  For example, I never understood the point of Atom, why they felt there needed to be a new name for all the things that were already defined in RSS? Just giving things new names doesn't make it better. Analogously, Google can change its name to Alphabet, but in the end you learn that when you hear the new name they're really talking about the other thing, the one that used to be the #1 brand name in the world before they made it confusing. ",
+            "created": "Mon, 18 Dec 2017 16:40:44 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/12/18/rose.png"
+        }
+    ]
+}
