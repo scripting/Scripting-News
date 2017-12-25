@@ -1,0 +1,16 @@
+{
+    "text": "A Scripting News app",
+    "created": "Sun, 24 Dec 2017 19:52:41 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I'm thinking about ways to bring collaboration and community back into my blogging here on Scripting News. Toward that end, I've been thinking about doing an app, for Mac at first, designed to make it easy to write publicly and link it to stuff on my blog. Of course, the only way to do that that makes sense is with an outliner. That's the tool for relative writing, and that's what community writing is all about. ",
+            "created": "Sun, 24 Dec 2017 19:52:47 GMT",
+            "image": "http://scripting.com/images/2017/12/24/humbug.png"
+        },
+        {
+            "text": "At first such an app would only run on the Mac. But I would release the electron shell I use as open source (MIT license), so others could port it to Linux and Windows, and where ever else <a href=\"https://electronjs.org/\">Electron</a> gets us. Theoretically porting the shell is enough to pull it off. ",
+            "created": "Sun, 24 Dec 2017 19:54:42 GMT"
+        }
+    ]
+}
