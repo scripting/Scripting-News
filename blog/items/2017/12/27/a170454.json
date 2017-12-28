@@ -1,0 +1,5 @@
+{
+    "text": "Announce: <a href=\"https://github.com/scripting/electricPork\">Electric Pork as open source</a>. I like to start developer projects at this time of year, when people have time to poke around and think and try ideas out. This year, I'd like to <a href=\"https://github.com/scripting/Scripting-News/issues/55\">introduce a shell</a> that I've created for Electron apps called electronLand. It hooks into \"nodeStorage\" and Twitter for identity and storage. I use this framework in \"Public Folder\", \"Instant Dave\" and \"Electric Pork\". I also have some unreleased projects that use electronLand. When it's ported all the projects should port as well. And the framework could prove useful to others, I hope. :boom:",
+    "created": "Wed, 27 Dec 2017 17:04:54 GMT",
+    "type": "outline"
+}
