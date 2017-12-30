@@ -1,0 +1,6 @@
+{
+    "text": "A small technical change in the way \"Scripting News\" is generated. There are two kinds of posts, singular items, and titled items. This post is a singular item. Both kinds appear on the home page and on the archive pages. But now titled items also appear on their own pages. For example, here's a <a href=\"http://scripting.com/2017/12/29/160005.html\">titled item</a> from earlier today on its own page. And here's the <a href=\"http://scripting.com/2017/12/29.html\">archive page</a> for today. You may, in some RSS readers, see all the titled items from the month of December repeated, because their permalinks have changed. ",
+    "created": "Fri, 29 Dec 2017 23:27:30 GMT",
+    "type": "outline",
+    "image": "http://static.scripting.com/larryKing/images/2012/11/10/horse.gif"
+}
