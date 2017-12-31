@@ -1,0 +1,34 @@
+{
+    "text": "Permalinks in titled item subs",
+    "created": "Sat, 30 Dec 2017 15:29:20 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "On GitHub, a <a href=\"https://github.com/scripting/Scripting-News/issues/56\">report</a> of errors in permalinks in sub-items of titled items. ",
+            "created": "Sat, 30 Dec 2017 15:29:48 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "First, thanks for posting an issue there. I can see that the system is working. That was exactly the right thing to do. (It also would have been cool to use the Discuss tab.)",
+                    "created": "Sat, 30 Dec 2017 16:02:13 GMT"
+                },
+                {
+                    "text": "This wasn't a case of a programming error, more a case of a distracted programmer, who forgot there are permalinks at lower levels to consider.",
+                    "created": "Sat, 30 Dec 2017 16:02:32 GMT"
+                },
+                {
+                    "text": "So now, when it's generating the text subordinate to a titled item, it uses the permalink pointing to the title to form the permalink for subs. ",
+                    "created": "Sat, 30 Dec 2017 16:38:12 GMT"
+                },
+                {
+                    "text": "I have the new code running and will now try my first real build with the new code (already tested locally). ",
+                    "created": "Sat, 30 Dec 2017 16:38:52 GMT"
+                },
+                {
+                    "text": "It seems to work. Now the <a href=\"http://scripting.com/2017/12/30/152920.html#a164101\">permalink</a> to this paragraph points to the individual page for the titled item. ",
+                    "created": "Sat, 30 Dec 2017 16:41:01 GMT"
+                }
+            ]
+        }
+    ]
+}
