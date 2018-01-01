@@ -1,0 +1,77 @@
+{
+    "text": "December 31",
+    "created": "Sun, 31 Dec 2017 16:49:19 GMT",
+    "name": "31",
+    "subs": [
+        {
+            "text": "Source of a frustrating bug. Properly use <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch\">try/catch</a> to catch all errors, even in brand-new code. Fail to report an error in one branch. Forget to <a href=\"https://nodejs.org/api/modules.html#modules_require\">require</a> the <a href=\"https://nodejs.org/api/fs.html\">fs</a> package. But the error is inside the try, so the runtime doesn't trip an error either. Have the debugger not go into the code that has the error for some reason I won't try to determine. 1 hour later, unwind the mess. :boom:",
+            "created": "Sun, 31 Dec 2017 18:28:25 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "From a thread on Facebook. \"Boulder is great, but Denver can't be bad, it's Just that Boulder is relatively small, easy to grasp, like one of the towns on the peninsula in the Bay Area. I also like Santa Fe and Taos. Beautiful houses, low cost. Skiing right there. And New Hampshire and the Berkshires. I like places that have legal cannabis, says something about the voters even if you don't partake. But I couldn't live in Calif again, feels soulless to me. Not homey.\"",
+            "created": "Sun, 31 Dec 2017 18:33:29 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I venture to say no one has more experience with platforms than I have. Over the years I've never seen a vendor <i>really</i> try to tap into the power of independent developers. Everyone makes a first try, hit the same wall and bounce off it in predictable ways, usually giving up on getting much power from developers. So many examples. There's an art for compensating developers and choosing the ones you're going to work with. Yes you will piss people off. I imagine in Hollywood when they cast a movie the people who aren't chosen are pissed. But that doesn't stop them from making movies. There's a way to do it, and the vendor that gets it right will enjoy longevity and huge PE ratio. ",
+            "created": "Sun, 31 Dec 2017 16:58:34 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/12/10/thisIsNextYear.png"
+        },
+        {
+            "text": "Developers, here's how I suggest you think about the Twitter API. Pretend that up until 2018, Twitter didn't have an API. On January 1, there's an announcement. Twitter now has an API. Forget about the history. It's a fucking gift I tell you. Really works. I love building on it. ",
+            "created": "Sun, 31 Dec 2017 17:08:35 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Silent data loss",
+            "created": "Sun, 31 Dec 2017 20:21:42 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "The Repubs use a trolling technique that was pioneered as far as I know by the proponents of a certain format that was intending to replace RSS. ",
+                    "created": "Sun, 31 Dec 2017 20:21:48 GMT",
+                    "image": "http://scripting.com/images/2017/12/31/babyHuey.png"
+                },
+                {
+                    "text": "They would say: RSS has \"silent data loss.\"",
+                    "created": "Sun, 31 Dec 2017 20:44:32 GMT"
+                },
+                {
+                    "text": "This sounds terrible. Right? Well, it's just like Shariah Law or \"chain-immigration.\" It sounds like a technical thing, but in reality it's a problem they made up. In practice nothing really is lost. XML sometimes garbles stuff if it isn't properly encoded. The solution is to properly encode it. ;-)"
+                },
+                {
+                    "text": "By pointing at this and saying Oooooh silent data loss. Oooh RSS is bad, people who didn't understand would think, oh I need to change to use this new thing. Or so the proponents hope."
+                },
+                {
+                    "text": "Just like Shariah Law is not a problem in America, and chain-immigration simply means letting families come to the US (a good thing, most people would think, so why not say it that way, hah), the tech trolls were saying basically that \"RSS is XML,\" which their format was too. If everything is done right (a big assumption) you could possibly avoid \"data loss\" by using their format, or you could stick with RSS and properly encode the text. The latter approach is MUCH cheaper."
+                },
+                {
+                    "text": "Anyway, by the time you explained it the people listening were tuning out because it truly is boring, and thinking you're being pretty defensive, there must be something here."
+                }
+            ]
+        },
+        {
+            "text": "A feature request for Twitter",
+            "created": "Sun, 31 Dec 2017 16:49:20 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "A request for a simple addition to the Twitter API.",
+                    "created": "Sun, 31 Dec 2017 16:49:25 GMT",
+                    "subs": [
+                        {
+                            "text": "A way to get all the replies to a tweet, or if that's considered too much (some tweets have thousands of replies), all the replies to a tweet from the author of the original tweet. ",
+                            "created": "Sun, 31 Dec 2017 16:52:11 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "It would enable more beautiful and readable displays of Twitter threads. ",
+                    "created": "Sun, 31 Dec 2017 16:52:51 GMT"
+                }
+            ]
+        }
+    ]
+}
