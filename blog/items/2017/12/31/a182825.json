@@ -1,0 +1,5 @@
+{
+    "text": "Source of a frustrating bug. Properly use <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch\">try/catch</a> to catch all errors, even in brand-new code. Fail to report an error in one branch. Forget to <a href=\"https://nodejs.org/api/modules.html#modules_require\">require</a> the <a href=\"https://nodejs.org/api/fs.html\">fs</a> package. But the error is inside the try, so the runtime doesn't trip an error either. Have the debugger not go into the code that has the error for some reason I won't try to determine. 1 hour later, unwind the mess. :boom:",
+    "created": "Sun, 31 Dec 2017 18:28:25 GMT",
+    "type": "outline"
+}
