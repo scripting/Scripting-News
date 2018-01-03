@@ -1,0 +1,37 @@
+{
+    "text": "Feedback from a JavaScript user",
+    "created": "Tue, 02 Jan 2018 16:30:06 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I've always thought listening to users is a virtue. In that spirit, let me say as a JavaScript developer, who's been doing it pretty much every day for the last five years or so, I've mastered the <a href=\"http://callbackhell.com/\">callback</a> way of writing apps in JS. Now, in the latest version of the language, there are a number of alternatives to this.",
+            "created": "Tue, 02 Jan 2018 16:25:23 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/01/02/michaelJordan.png"
+        },
+        {
+            "text": "One of the advantages of having a <a href=\"http://scripting.com/davenet/1995/08/22/chinesehouseholdrevisited.html#5\">consensus platform</a> like JS is that we all do things the same way. It works just like standards. Two ways of doing something is worse than one, no matter how much better the second way is. That's another way of stating <a href=\"https://en.wikipedia.org/wiki/Robustness_principle\">Postel's Principle</a>. In this case, I already have so much code written using callbacks, and my brain works in callbacks (a bigger hurdle), and I <i>like</i> callbacks. The only reason to use one of the other forms of async programming is that other devs are using them to document their ideas. There goes the consensus. ",
+            "created": "Tue, 02 Jan 2018 16:30:45 GMT"
+        },
+        {
+            "text": "Agreement in tech is the most precious thing, and designers often <a href=\"https://en.wikipedia.org/wiki/Not_invented_here\">devalue</a> it. The more agreement there is the more leverage we have, and the faster we can move. Remove consensus and we actually take steps backward, which is all too common in software. It makes it difficult to do multi-year or even multi-decade projects. (Not a dream, I have projects I've been working on for multiple decades.)",
+            "created": "Tue, 02 Jan 2018 16:35:43 GMT"
+        },
+        {
+            "text": "Anyway...",
+            "created": "Tue, 02 Jan 2018 17:12:17 GMT"
+        },
+        {
+            "text": "I'm having a similar problem with <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let\">let</a>, but it's somewhat different. In this case <i>let</i> is how <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var\">var</a> should have always worked. It would make sense to replace <i>var</i> with <i>let</i> everywhere. But if I do that with search and replace, I know some things are going to break, and they're going to be hard to find. There's never going to be a good day to do that. And my brain still uses <i>var.</i> Also I think <i>let</i> should have been called <i>local, </i>to indicate what it does, instead of <i>let</i> which is just a H/T to Basic, as far as I can tell.",
+            "created": "Tue, 02 Jan 2018 16:31:32 GMT"
+        },
+        {
+            "text": "BTW, as an old Pascal programmer I am a big fan of <a href=\"http://www.gnu-pascal.de/gpc/Constant-Declaration.html\">const</a>. That <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const\">one</a> is usable without any conundrums. ",
+            "created": "Tue, 02 Jan 2018 16:37:53 GMT"
+        },
+        {
+            "text": "Anyway, just some feedback from a user of the language.",
+            "created": "Tue, 02 Jan 2018 16:33:07 GMT"
+        }
+    ]
+}
