@@ -1,0 +1,46 @@
+{
+    "text": "The Slow Burn podcast RSS feed",
+    "created": "Sat, 06 Jan 2018 17:02:37 GMT",
+    "type": "outline",
+    "description": "The author goes on a hunt for the URL of the feed of the Slow Burn podcast feed, and finds it. And yes it is always this hard. ;-)",
+    "subs": [
+        {
+            "text": "First, here is the URL of  the Slow Burn podcast feed. ",
+            "created": "Sat, 06 Jan 2018 17:19:20 GMT",
+            "subs": [
+                {
+                    "text": "<a href=\"http://feeds.megaphone.fm/watergate\">http://feeds.megaphone.fm/watergate</a>",
+                    "created": "Sat, 06 Jan 2018 17:26:18 GMT"
+                }
+            ]
+        },
+        {
+            "text": "And here's the story of how we found it...   ",
+            "created": "Sat, 06 Jan 2018 17:15:42 GMT"
+        },
+        {
+            "text": "On Maddow last night she had a segment on the <a href=\"http://www.slate.com/articles/slate_plus/watergate.html\">Slow Burn podcast</a>, a series from Slate that replays Watergate in real time (I think, not entirely clear). I had heard of the podcast but wasn't that interested because I lived through Watergate, and don't have fond memories of it, reliving it doesn't sound like fun. And I have podcasts that I regularly listen to that I'm falling behind on. There's a lot of good stuff out there. But Maddow said it was a must-listen, so I set out to see if I could find a link to its \"RSS\" feed, so I could add it to the rotation at \"podcatch.com\". This is always much more work than it should be but I always in the end get the feed. ",
+            "created": "Sat, 06 Jan 2018 17:22:10 GMT"
+        },
+        {
+            "text": "So I <a href=\"https://duckduckgo.com/?q=slow+burn+podcast+rss+feed+site%3Aslate.com&t=hg&ia=web\">looked</a>. There doesn't seem to be a single page for the podcast. There is RSS metadata in some of the pages, but none of them appear to point to a feed just for this podcast. ",
+            "created": "Sat, 06 Jan 2018 17:23:43 GMT"
+        },
+        {
+            "text": "So I did what I often do, I posted a <a href=\"https://twitter.com/davewiner/status/949678740317065216\">tweet</a> asking if anyone else can find the feed. This is often how I get it. People like to show off, and many of the people who follow me are technically proficient. This time a <a href=\"https://twitter.com/dabeard/status/949681646256652288\">friend</a> forwarded it to the show runner, and he responded, with instructions to become a member of Slate Plus, then the feed would be apparent. Well I'm not going to do that. I just wanted to try listening to it, and maybe tell people about it on my blog if I thought it was interesting. ",
+            "created": "Sat, 06 Jan 2018 17:02:48 GMT"
+        },
+        {
+            "text": "Lots of confusion, as you can see in the <a href=\"https://twitter.com/davewiner/status/949678740317065216\">ensuing thread</a>. It turns out you do not have to join Slate Plus to get the feed. <a href=\"https://twitter.com/Fahrni/status/949689356549156864\">Rob Fahrni</a> figured it out. \"To find it I had to subscribe to it from iTunes then go to the Podcast menu and select <i>Copy Podcast URL</i> to find it.\" Oh god. Any answer that involves using iTunes is total nonstarter. I wonder if people who produce podcasts know how bad iTunes rep is with users? ",
+            "created": "Sat, 06 Jan 2018 17:13:47 GMT"
+        },
+        {
+            "text": "Here's an <a href=\"http://xmlviewer.scripting.com/?url=http://feeds.megaphone.fm/watergate\">xmlviewer link</a> to the feed. It avoids all the disgusting tricks that browsers do to try to keep you from looking at the contents of a feed. ",
+            "created": "Sat, 06 Jan 2018 18:54:36 GMT"
+        },
+        {
+            "text": "We still have much to do here to make this stuff usable. I'd be happy to work with the people who produce them, but honestly almost none of them seem to know how podcasting came to be or what the value is in having an open ecosystem that isn't part of a silo. Podcasting still very much is open, but we're not getting much of the benefit, because it's so damn hard to <i>find</i> the openness. ;-)",
+            "created": "Sat, 06 Jan 2018 17:24:34 GMT"
+        }
+    ]
+}
