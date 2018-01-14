@@ -1,0 +1,113 @@
+{
+    "text": "January 13",
+    "created": "Sat, 13 Jan 2018 18:32:29 GMT",
+    "name": "13",
+    "subs": [
+        {
+            "text": "When I was a kid, at the height of the cold war, I had dreams of looking out my window and seeing dozens of <a href=\"https://duckduckgo.com/?q=mushroom+cloud&t=hf&iax=images&ia=images\">mushroom clouds</a> off in the distance.",
+            "created": "Sat, 13 Jan 2018 19:12:42 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/01/13/mushrooms.png"
+        },
+        {
+            "text": "The other night <a href=\"https://en.wikipedia.org/wiki/Julia_Ioffe\">Julia Ioffe</a> said something wise on one of the shows: Almost everyone who immigrates comes from a <a href=\"https://duckduckgo.com/?q=define+shithole&t=hg&ia=definition\">shithole</a>. Immigrating is no fun. It has to be worth it. People from Norway don't want to leave because it's not a shithole.",
+            "created": "Sun, 14 Jan 2018 02:52:22 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Theory: If two reporters use RSS systematically to gather news, and they combine lists, each reporter gets more value than they would on their own. If interests are aligned, but not too aligned, there's potential value beyond that.",
+            "created": "Sat, 13 Jan 2018 18:32:30 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Maybe the thing to do is to start a group of journalists who love and understand \"RSS\" and want to use it in new ways to make their journalism better. ",
+            "created": "Sun, 14 Jan 2018 01:36:50 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Wondering..",
+            "created": "Sat, 13 Jan 2018 20:23:57 GMT",
+            "type": "outline",
+            "description": "I don't make any money from the work. I do it because I am sure that unless news thrives on the net we are totally screwed.",
+            "subs": [
+                {
+                    "text": "I wonder sometimes what goes thru people's minds when you offer to help and it's something you're expert in, and they ignore you.    ",
+                    "created": "Sat, 13 Jan 2018 20:24:04 GMT"
+                },
+                {
+                    "text": "It's been happening with news people constantly since I stared working on news software and formats on the web.",
+                    "created": "Sat, 13 Jan 2018 20:24:11 GMT"
+                },
+                {
+                    "text": "I can't imagine what ulterior motive they think I have. I don't make any money from the work. I do it because I am sure that unless news thrives on the net we are totally screwed.",
+                    "created": "Sat, 13 Jan 2018 20:24:17 GMT"
+                },
+                {
+                    "text": "Don't they see that too?",
+                    "created": "Sat, 13 Jan 2018 20:24:46 GMT"
+                },
+                {
+                    "text": "\"curly\"",
+                    "created": "Sat, 13 Jan 2018 20:24:47 GMT"
+                }
+            ]
+        },
+        {
+            "text": "River5 file-reading problem",
+            "created": "Sat, 13 Jan 2018 18:34:33 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I've now had a chance to study the <a href=\"https://github.com/scripting/river5/issues/14#issuecomment-356401672\">problem</a> reported with \"River5\" a few days ago. ",
+                    "created": "Sat, 13 Jan 2018 18:34:39 GMT"
+                },
+                {
+                    "text": "The first part of solving it was writing down concisely what the problem was. <a href=\"https://github.com/csenger\">Carsten Senger</a> did a great job, but he isn't responsible for the fix, I am. And I wrote the code and am familiar with how it's organized and how it got to be how it is. ",
+                    "created": "Sat, 13 Jan 2018 18:35:23 GMT"
+                },
+                {
+                    "text": "<b>The problem statement</b>",
+                    "created": "Sat, 13 Jan 2018 18:36:22 GMT",
+                    "subs": [
+                        {
+                            "text": "There are two kinds of rivers, ones associated with a list, and ones associated with a feed. The problem applies to both kinds of rivers, but is more likely to show up in the feed-based ones. ",
+                            "created": "Sat, 13 Jan 2018 18:36:55 GMT"
+                        },
+                        {
+                            "text": "When a new item comes in, it is added to the rivers of all the lists it's in, and in the river for the feed it came from. The river files are stored in files on disk. We cache them in memory. When we want to add an item to a river, we first check if it's in memory. If is, we add the item and we're done. If it's not in memory, we read it from disk, and then add the item to the river. This is where we run into trouble.",
+                            "created": "Sat, 13 Jan 2018 18:37:30 GMT"
+                        },
+                        {
+                            "text": "The trouble is that there might be two or more new items from one feed for one river. The first item gets added okay. But when we try to add the second item, since reading the file takes so long, we will find it's not in the cache, so we start a second read. We add our item, but the first item probably isn't in the copy we loaded. It would be an amazing coincidence if it was. So no matter what, we just lost one of the new items from the river. If there are N new items in the first read, we will lose N-1 of them.",
+                            "created": "Sat, 13 Jan 2018 18:38:01 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "<b>The solution</b>",
+                    "created": "Sat, 13 Jan 2018 18:39:43 GMT",
+                    "subs": [
+                        {
+                            "text": "The best solution is this -- create a queue for each river when the first read is initiated. Add its callback as the first and at that time only item in the queue. If a new read comes in while we're still reading the first one, add its callback to the queue. Once the file is read, call all the callbacks in the queue, concurrently, and delete the queue for that file.",
+                            "created": "Sat, 13 Jan 2018 18:39:06 GMT"
+                        },
+                        {
+                            "text": "I also considered doing it brute force, simply reading all the rivers at startup before doing any feed reads. But I wanted to write the code. And when I did I was glad, it's really interesting how well JavaScript handles this kind of gymnastics. I laughed out loud a few times while putting it together. Code that makes you laugh is worth writing imho. :boom:",
+                            "created": "Sat, 13 Jan 2018 18:40:49 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "<b>Code review</b>",
+                    "created": "Sat, 13 Jan 2018 18:41:45 GMT",
+                    "subs": [
+                        {
+                            "text": "I put the queue code <a href=\"https://gist.github.com/scripting/bc335eed01215673cdc0738f8d147025\">into a Gist</a> for review. If you spot any problems, post a comment there. Thanks.",
+                            "created": "Sat, 13 Jan 2018 18:41:51 GMT"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
