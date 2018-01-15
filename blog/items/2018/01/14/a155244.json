@@ -1,0 +1,31 @@
+{
+    "text": "Re the River5 file-reading problem",
+    "created": "Sun, 14 Jan 2018 15:52:44 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Following up on yesterday's <a href=\"http://scripting.com/2018/01/13/183433.html\">report</a> on River5's file reading problem at startup, with futher thought I realized I did <i>not</i> have a solution to the problem. ",
+            "created": "Sun, 14 Jan 2018 15:52:50 GMT"
+        },
+        {
+            "text": "The way I proposed doing it yesterday would have resulted in just as many lost items at startup. The problem was that the central routine was sending the JSON text of the file to each of the callbacks. Each would then parse the text, producing a structure which it would then link into the cache. Only one of the structures would survive in the cache, the last one linked in, and it would have one of the new items. The other new items would be lost. In other words, no improvement.",
+            "created": "Sun, 14 Jan 2018 15:53:09 GMT"
+        },
+        {
+            "text": "So I changed the code and had the central routine parse the text, and call each of the callbacks with the resulting structure. Now all the callbacks add their items to the same struct, (unless I'm still missing something) and the result is zero lost items.",
+            "created": "Sun, 14 Jan 2018 15:55:06 GMT"
+        },
+        {
+            "text": "I've created a gist with the <a href=\"https://gist.github.com/scripting/6236ae821789e5f89b6d6e724322c546\">new code</a>, and left the old gist in place. I have not yet released a version of River5 that uses this new approach. Testing it here first then thinking about how I want to deploy. ",
+            "created": "Sun, 14 Jan 2018 15:56:18 GMT"
+        },
+        {
+            "text": "Note this version is more complex because it has to initialize the struct once and only once, so the central routne, readRiverFile, must receive a callback that initializes the structure when the read fails, which it will do when the river file is first created.",
+            "created": "Sun, 14 Jan 2018 15:59:49 GMT"
+        },
+        {
+            "text": "I haven't received any comments, but they are still welcome. ",
+            "created": "Sun, 14 Jan 2018 15:56:52 GMT"
+        }
+    ]
+}
