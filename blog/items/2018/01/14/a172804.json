@@ -1,0 +1,28 @@
+{
+    "text": "Open source feeds for journalists",
+    "created": "Sun, 14 Jan 2018 17:28:04 GMT",
+    "type": "outline",
+    "description": "An open source project to create a great list of feeds for journalists to follow.",
+    "subs": [
+        {
+            "text": "Yesterday Mathew Ingram, a longtime friend and professional journalist, put out a <a href=\"https://twitter.com/mathewi/status/952214692918734848\">call for feeds</a> for a reboot of his use of \"RSS\". ",
+            "created": "Sun, 14 Jan 2018 17:20:18 GMT"
+        },
+        {
+            "text": "This got me thinking. What if a community created such a list of feeds, and did it over a period of weeks or months, with discussion, and a certain amount of deliberation. ",
+            "created": "Sun, 14 Jan 2018 18:05:50 GMT"
+        },
+        {
+            "text": "We could use the tools of open source to do this project. ",
+            "created": "Sun, 14 Jan 2018 17:28:46 GMT"
+        },
+        {
+            "text": "So, I've set up a <a href=\"https://github.com/scripting/feedsForJournalists\">new GitHub repository</a> where we can work on that <a href=\"https://github.com/scripting/feedsForJournalists/blob/master/list.txt\">list</a> of feeds. I'll write a small piece of software that periodically turns that collection into an OPML file suitable for use in a feed reader. From there who knows what happens, but just getting a list of feeds for journalists to follow, collaboratively, while it doesn't involve much work or technical know-how, would be a major improvement over the way we all do this individually, for ourselves. ",
+            "created": "Sun, 14 Jan 2018 17:29:05 GMT"
+        },
+        {
+            "text": "I'll post updates on this project to this <a href=\"http://scripting.com/\">blog</a>.",
+            "created": "Sun, 14 Jan 2018 17:29:36 GMT"
+        }
+    ]
+}
