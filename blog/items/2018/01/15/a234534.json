@@ -1,0 +1,20 @@
+{
+    "text": "Yet more River5 michegas",
+    "created": "Mon, 15 Jan 2018 23:45:34 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "BTW, the \"river5\" discussion continues with Carsten. ",
+            "created": "Mon, 15 Jan 2018 23:52:03 GMT",
+            "image": "http://scripting.com/images/2018/01/15/mlkActionFigure.png"
+        },
+        {
+            "text": "He points out that the new method I proposed for adding items to rivers not only is more complex than the current method, and therefore more difficult to maintain, something I totally concur with, it still has a synchronization problem. Copying a pointer and deleting an object can't be an atomic operation. it's still possible something will be added to a queue betw the two steps. And that would result in a lost item. ",
+            "created": "Mon, 15 Jan 2018 23:52:47 GMT"
+        },
+        {
+            "text": "We're now somewhat in the weeds, possibly, but we all agree it's better to have an approach that loses zero items, than one that maybe loses one item on (possibly) rare occasions. So I have proposed yet another approach in a <a href=\"https://github.com/scripting/river5/issues/14#issuecomment-357813407\">comment</a>. This one has the advantage of retaining the current simplicity and hding a bell/whistle that didn't need to be there in the first place. ",
+            "created": "Mon, 15 Jan 2018 23:45:48 GMT"
+        }
+    ]
+}
