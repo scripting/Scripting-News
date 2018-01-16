@@ -1,0 +1,92 @@
+{
+    "text": "January 15",
+    "created": "Mon, 15 Jan 2018 15:31:58 GMT",
+    "name": "15",
+    "subs": [
+        {
+            "text": "The \"glory days\" of news readers are as irrelevant as the print edition of the NY Times. News readers were never that good. Twitter and Facebook are better as news readers. New news flows demand new approaches. ",
+            "created": "Mon, 15 Jan 2018 16:29:51 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "And RSS is <a href=\"https://twitter.com/davewiner/status/952936513008029696\">here</a> to help. ",
+            "created": "Mon, 15 Jan 2018 16:12:57 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/952936513008029696"
+        },
+        {
+            "text": "Yet more River5 michegas",
+            "created": "Mon, 15 Jan 2018 23:45:34 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "BTW, the \"river5\" discussion continues with Carsten. ",
+                    "created": "Mon, 15 Jan 2018 23:52:03 GMT",
+                    "image": "http://scripting.com/images/2018/01/15/mlkActionFigure.png"
+                },
+                {
+                    "text": "He points out that the new method I proposed for adding items to rivers not only is more complex than the current method, and therefore more difficult to maintain, something I totally concur with, it still has a synchronization problem. Copying a pointer and deleting an object can't be an atomic operation. it's still possible something will be added to a queue betw the two steps. And that would result in a lost item. ",
+                    "created": "Mon, 15 Jan 2018 23:52:47 GMT"
+                },
+                {
+                    "text": "We're now somewhat in the weeds, possibly, but we all agree it's better to have an approach that loses zero items, than one that maybe loses one item on (possibly) rare occasions. So I have proposed yet another approach in a <a href=\"https://github.com/scripting/river5/issues/14#issuecomment-357813407\">comment</a>. This one has the advantage of retaining the current simplicity and hding a bell/whistle that didn't need to be there in the first place. ",
+                    "created": "Mon, 15 Jan 2018 23:45:48 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Journalists, let's help journalism thrive on the net",
+            "created": "Mon, 15 Jan 2018 15:31:59 GMT",
+            "type": "outline",
+            "description": "I started this project because I am sure that unless news thrives on the net we are totally screwed. ",
+            "subs": [
+                {
+                    "text": "If you're a journalist and you love RSS, please join me in an easy project to improve both. Let's put together a list of starter feeds for journalists. ",
+                    "created": "Mon, 15 Jan 2018 15:50:47 GMT"
+                },
+                {
+                    "text": "I've kicked it off with a <a href=\"https://github.com/scripting/feedsForJournalists/blob/master/list.txt\">collection</a> of news feeds that I know provide good value. If you have favorites, please suggest a few in a comment in this <a href=\"https://github.com/scripting/feedsForJournalists/issues/3\">thread</a>. ",
+                    "created": "Mon, 15 Jan 2018 15:36:45 GMT"
+                },
+                {
+                    "text": "In order for this to work it has to be done primarily by journalists. I'm happy to help any way I can. ",
+                    "created": "Mon, 15 Jan 2018 15:45:05 GMT"
+                },
+                {
+                    "text": "I started this project because I am sure that unless news thrives on the net we are totally screwed. I've never felt that we could trust Facebook to be the official distribution system for journalism on the net. ",
+                    "created": "Mon, 15 Jan 2018 15:45:21 GMT"
+                },
+                {
+                    "text": "This is the first step to creating many distribution nets, so a competitive market can develop. I've bootstrapped successful tech projects before. This is how it begins! It's not that hard, it just requires cooperation and a clear goal.",
+                    "created": "Mon, 15 Jan 2018 15:45:35 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Facebook is not thriving, for me",
+            "created": "Mon, 15 Jan 2018 15:48:05 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I'm guessing what <a href=\"https://mondaynote.com/facebook-is-done-with-quality-journalism-deal-with-it-afc2475f1f84\">Facebook saw</a> in numbers is what I feel as a user. It's drying up.",
+                    "created": "Mon, 15 Jan 2018 15:48:18 GMT"
+                },
+                {
+                    "text": "The most interesting part of Facebook is the On This a Day In feature, and even that is starting to scare me as we relive 2016 and 2017.",
+                    "created": "Mon, 15 Jan 2018 15:49:30 GMT"
+                },
+                {
+                    "text": "It's very quiet on Facebook these days. And to the extent it's not quiet it's profoundly depressing.",
+                    "created": "Mon, 15 Jan 2018 15:49:27 GMT"
+                },
+                {
+                    "text": "I don't feel it's too hyper to say Facebook is dying.",
+                    "created": "Mon, 15 Jan 2018 15:49:25 GMT"
+                },
+                {
+                    "text": "Not sure there was anything they could have done to prevent it, but a dramatic U-turn away from news says, to me, they see it too now."
+                }
+            ]
+        }
+    ]
+}
