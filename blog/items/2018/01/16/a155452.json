@@ -1,0 +1,58 @@
+{
+    "text": "What open source means to me",
+    "created": "Tue, 16 Jan 2018 15:54:52 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "In putting together the \"Feeds for Journalists\" project, I had to figure out some new stuff about open source, because I had never seen the idea applied previously to a list of feeds. I haven't even seen it used for docs, novels or news, written work, but I'm sure it has been. ",
+            "created": "Tue, 16 Jan 2018 15:54:59 GMT"
+        },
+        {
+            "text": "I've been shipping open source <a href=\"https://github.com/scripting?tab=repositories\">stuff</a> mostly under the ultra-liberal <a href=\"https://github.com/scripting/feedsForJournalists/blob/master/LICENSE\">MIT license</a>.",
+            "created": "Tue, 16 Jan 2018 15:55:51 GMT"
+        },
+        {
+            "text": "I've also been <i>using</i> lots of open source stuff in my JavaScript work. It's why I switched my development to JavaScript a few years ago. When I need to use a relatively new technology, there always is a package that supports it. Debugged, maintained, and complete. It's like developer heaven. Not only is it all there, but it's not locked up inside a huge Silicon Valley company. But things I depend on still get <a href=\"https://en.wikipedia.org/wiki/Deprecation#Software_deprecation\">deprecated</a>. I try to find projects that don't do that so much. ",
+            "created": "Tue, 16 Jan 2018 15:56:18 GMT"
+        },
+        {
+            "text": "So when I <i>publish</i> something via open source, what does that mean? ",
+            "created": "Tue, 16 Jan 2018 16:01:03 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "I work alone. The projects I publish are my code. I am responsible for every aspect of it. I try not to hack stuff in. And people who don't work on the code regularly can only hack stuff in (unless their brains are empty or they're some kind of prodigy, I've heard they exist, but have never met one). So I don't accept pull requests. I prefer clearly written feature requests.",
+                    "created": "Tue, 16 Jan 2018 16:01:34 GMT"
+                },
+                {
+                    "text": "I know my code has quirks. I use an outliner to write it, for one thing. You're seeing the generated code. That's another reason why pull requests don't work. And because I use an outliner, I edit structures of code, and nesting doesn't have any impact on readability or maintainability. But everyone's code is quirky. Reading other people's code is like opening their refrigerator. ;-)",
+                    "created": "Tue, 16 Jan 2018 16:17:36 GMT"
+                },
+                {
+                    "text": "Almost all my packages are named dave-something. That's because the straightforward names were already taken. I'm a relative latecomer to the package world in JavaScript. So there's daveutils, davefilesystem, davehttp, daverss, daveopml, davetwitter, davereader. There are exceptions like oldschoolblog. Just because I fell in love with the name and it was available. I've been doing modules like this since <a href=\"https://en.wikipedia.org/wiki/UCSD_Pascal\">UCSD Pascal</a> days. Back then I called them \"czars\" so there was screenczar and keyboardczar etc. We were dealing with lower level concepts back then. ",
+                    "created": "Tue, 16 Jan 2018 16:20:27 GMT"
+                },
+                {
+                    "text": "When I find problems in other people's packages, and I do, I write up bug reports exactly as if I didn't have access to the source code. I try to stay within the three part framework -- 1. What I was doing. 2. What I expected to happen. 3. What actually happened. I have found it off-putting when the project owner asks me instead to submit a pull request. I don't have the bandwidth to learn how your codebase works internally.",
+                    "created": "Tue, 16 Jan 2018 16:02:51 GMT"
+                }
+            ]
+        },
+        {
+            "text": "For the \"Feeds for Journalists\" project, I own the list. You are encouraged to make feature requests, in the form of URLs of feeds you think should be on the list, or to question the inclusion of any feed I've put there. I'm totally open to discussion (with the usual caveat as long as it's respectful). ",
+            "created": "Tue, 16 Jan 2018 16:07:52 GMT"
+        },
+        {
+            "text": "But first, before proposing an idea, think about what the project is trying to create -- a collection of feeds that's likely to cover breaking news from a number of angles with forays into science, the arts, education, humor. I included a feed about torrents (because it's good, and they have many of the same values as journalists and I think it would be useful for you all to get to know each other).",
+            "created": "Tue, 16 Jan 2018 16:25:17 GMT"
+        },
+        {
+            "text": "1. Suggest feeds and 2. Tell me why you suggested it. Ultimately I'm going to decide if it goes in this collection. And because there's a liberal open source license, if you see another direction to take it, for a subset of journalists perhaps, or librarians, or Italian journalists, you can fork it and use it as the basis for your own list. ",
+            "created": "Tue, 16 Jan 2018 16:10:01 GMT"
+        },
+        {
+            "text": "PS: I think this piece will become a this.how doc, like the one about <a href=\"http://this.how/standards/\">standards</a>, which also began as a blog post. ",
+            "created": "Tue, 16 Jan 2018 16:31:51 GMT"
+        }
+    ]
+}
