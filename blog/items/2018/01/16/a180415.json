@@ -1,0 +1,27 @@
+{
+    "text": "River5 michegas continued",
+    "created": "Tue, 16 Jan 2018 18:04:15 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "The <a href=\"http://scripting.com/2018/01/15/234534.html\">thread</a> continues.",
+            "created": "Tue, 16 Jan 2018 18:04:21 GMT"
+        },
+        {
+            "text": "I believe I have found the least disruptive way to fix the file-read synchronization problem. ",
+            "created": "Tue, 16 Jan 2018 18:04:25 GMT"
+        },
+        {
+            "text": "Here's a <a href=\"https://gist.github.com/scripting/c3eab6e60073678325593c20c1f9fece#file-readxmlfeed-js-L36\">gist</a> containing a new local routine that reads an XML feed. ",
+            "created": "Tue, 16 Jan 2018 18:04:50 GMT"
+        },
+        {
+            "text": "Note that we save processing of new items for the end, and don't do any processing until the feed river is in the cache.  ",
+            "created": "Tue, 16 Jan 2018 18:05:45 GMT"
+        },
+        {
+            "text": "Update: I have the changes <a href=\"https://github.com/scripting/river5/issues/14#issuecomment-358075626\">implemented</a> locally, testing. ",
+            "created": "Tue, 16 Jan 2018 19:24:49 GMT"
+        }
+    ]
+}
