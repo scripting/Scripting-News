@@ -1,0 +1,106 @@
+{
+    "text": "January 20",
+    "created": "Sat, 20 Jan 2018 21:33:35 GMT",
+    "name": "20",
+    "subs": [
+        {
+            "text": "So much of what's tweeted amounts to this --> Trump is a piece of shit. You can stop saying it. We got it.",
+            "created": "Sun, 21 Jan 2018 00:48:55 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Can we trust the people?",
+            "created": "Sat, 20 Jan 2018 22:05:32 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Can the people be trusted to rate news sources?",
+                    "created": "Sat, 20 Jan 2018 22:01:44 GMT"
+                },
+                {
+                    "text": "What choice do we have? I know experts think they have the means that we don't, but they accept a set of premises about what news should be, that lead us to news that",
+                    "created": "Sat, 20 Jan 2018 22:05:49 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Accepts that the US had to go to war with Iraq, and doesn't question the assumption that there were WMDs and probably nukes in their arsenal. ",
+                            "created": "Sat, 20 Jan 2018 22:06:25 GMT"
+                        },
+                        {
+                            "text": "Shows endless clips of Trump rallies as if that was news. ",
+                            "created": "Sat, 20 Jan 2018 22:06:32 GMT"
+                        },
+                        {
+                            "text": "Asks ridiculous uninformed questions about Hillary Clinton's emails.  ",
+                            "created": "Sat, 20 Jan 2018 22:06:39 GMT"
+                        },
+                        {
+                            "text": "States conventional wisdom among reporters as fact.",
+                            "created": "Sat, 20 Jan 2018 22:11:02 GMT"
+                        },
+                        {
+                            "text": "Assumes the Trump story is pretty much Watergate, when it's clearly not.",
+                            "created": "Sat, 20 Jan 2018 22:07:45 GMT"
+                        },
+                        {
+                            "text": "Where reporters are all trying to get a prize or a raise, trying to catch politicians in gotchas, and filtering out all the politicians who just want to get shit done.",
+                            "created": "Sat, 20 Jan 2018 22:19:56 GMT"
+                        },
+                        {
+                            "text": "Endlessly analyzes what today's events mean for the 2020 election, when the answer is not one thing. ",
+                            "created": "Sat, 20 Jan 2018 22:08:07 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "The news orgs that report this way would be rated highest by the experts, no doubt. But we need news to be better. It's the one thing I agree about with Trump supporters. The standard \"trusted\" news attaches to ideas that they won't let go of. And reports on non-news endlessly. Can we rate that kind of stuff way way down?",
+                    "created": "Sat, 20 Jan 2018 22:06:47 GMT"
+                },
+                {
+                    "text": "We need a lot from news that they aren't giving us, because they do everything they can to <i>not listen to the users.</i> If Facebook really wants to do this, don't listen to the experts on this, they answer the wrong questions, imho. Find a way for the users to decide. I know they don't trust us, but we're all we got. ",
+                    "created": "Sat, 20 Jan 2018 22:09:19 GMT"
+                }
+            ]
+        },
+        {
+            "text": "IPC in Node",
+            "created": "Sat, 20 Jan 2018 21:33:36 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Here's a theoretical <a href=\"https://github.com/scripting/Scripting-News/issues/60\">question</a> with practical implications.",
+                    "created": "Sat, 20 Jan 2018 21:33:45 GMT",
+                    "image": "http://scripting.com/images/2018/01/20/rose.png"
+                },
+                {
+                    "text": "In Node.js, is there a way to do interprocess communication between Node apps? I could set it up so both apps have an HTTP server, and the apps could communicate using \"XML-RPC\", so at that level I know it's possible, but I'm wondering about a different, higher-performance, approach.",
+                    "created": "Sat, 20 Jan 2018 21:55:46 GMT"
+                },
+                {
+                    "text": "Suppose I launch two apps from my app. I would do it exactly the way the <a href=\"https://github.com/foreverjs/forever\">forever</a> utility does it. Is there some way for an app to call back to <i>forever, </i>and is there a way for <i>forever</i> to call into the app?",
+                    "created": "Sat, 20 Jan 2018 21:35:53 GMT"
+                },
+                {
+                    "text": "That way you could have all kinds of external interfaces abstracted. ",
+                    "created": "Sat, 20 Jan 2018 21:36:34 GMT"
+                },
+                {
+                    "text": "All of a sudden you could build a high-level OS for Node. A way for Node apps to share a data space. ",
+                    "created": "Sat, 20 Jan 2018 21:36:52 GMT"
+                },
+                {
+                    "text": "This is what we tried to do on the Mac with Frontier. We never convinced Apple to stay out of the way so we could do it. But in Node, with its open source culture, if there was a way for <i>forever</i> to do it, that means there's a way for you and I to too, because of course <i>forever</i> is open source. ;-)",
+                    "created": "Sat, 20 Jan 2018 21:37:32 GMT"
+                },
+                {
+                    "text": "Badaboom. :boom:",
+                    "created": "Sat, 20 Jan 2018 21:38:22 GMT"
+                },
+                {
+                    "text": "PS: Of course I may be missing something obvious, a way to do this that I spaced out about. That does happen from time to time. ",
+                    "created": "Sat, 20 Jan 2018 21:41:06 GMT"
+                }
+            ]
+        }
+    ]
+}
