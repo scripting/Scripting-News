@@ -1,0 +1,40 @@
+{
+    "text": "IPC in Node",
+    "created": "Sat, 20 Jan 2018 21:33:36 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Here's a theoretical <a href=\"https://github.com/scripting/Scripting-News/issues/60\">question</a> with practical implications.",
+            "created": "Sat, 20 Jan 2018 21:33:45 GMT",
+            "image": "http://scripting.com/images/2018/01/20/rose.png"
+        },
+        {
+            "text": "In Node.js, is there a way to do interprocess communication between Node apps? I could set it up so both apps have an HTTP server, and the apps could communicate using \"XML-RPC\", so at that level I know it's possible, but I'm wondering about a different, higher-performance, approach.",
+            "created": "Sat, 20 Jan 2018 21:55:46 GMT"
+        },
+        {
+            "text": "Suppose I launch two apps from my app. I would do it exactly the way the <a href=\"https://github.com/foreverjs/forever\">forever</a> utility does it. Is there some way for an app to call back to <i>forever, </i>and is there a way for <i>forever</i> to call into the app?",
+            "created": "Sat, 20 Jan 2018 21:35:53 GMT"
+        },
+        {
+            "text": "That way you could have all kinds of external interfaces abstracted. ",
+            "created": "Sat, 20 Jan 2018 21:36:34 GMT"
+        },
+        {
+            "text": "All of a sudden you could build a high-level OS for Node. A way for Node apps to share a data space. ",
+            "created": "Sat, 20 Jan 2018 21:36:52 GMT"
+        },
+        {
+            "text": "This is what we tried to do on the Mac with Frontier. We never convinced Apple to stay out of the way so we could do it. But in Node, with its open source culture, if there was a way for <i>forever</i> to do it, that means there's a way for you and I to too, because of course <i>forever</i> is open source. ;-)",
+            "created": "Sat, 20 Jan 2018 21:37:32 GMT"
+        },
+        {
+            "text": "Badaboom. :boom:",
+            "created": "Sat, 20 Jan 2018 21:38:22 GMT"
+        },
+        {
+            "text": "PS: Of course I may be missing something obvious, a way to do this that I spaced out about. That does happen from time to time. ",
+            "created": "Sat, 20 Jan 2018 21:41:06 GMT"
+        }
+    ]
+}
