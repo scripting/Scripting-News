@@ -1,0 +1,21 @@
+{
+    "text": "An XML vs JSON argument that's not bullshit",
+    "created": "Sun, 21 Jan 2018 14:51:56 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Most of the XML vs JSON stuff is <a href=\"http://thesaurus.land/?word=bullshit\">bullshit</a>, but <a href=\"https://news.ycombinator.com/item?id=11446984\">this one</a> is not. Having worked extensively with both formats, I have to say <a href=\"https://news.ycombinator.com/user?id=jerf\">jerf</a> has got it right. But there are two criteria that need to be added:",
+            "created": "Sun, 21 Jan 2018 14:49:49 GMT",
+            "subs": [
+                {
+                    "text": "4. If the format was designed before JSON existed, use XML.",
+                    "created": "Sun, 21 Jan 2018 14:50:30 GMT"
+                },
+                {
+                    "text": "5. If there already is an XML format that does what you're doing, it's better to just use it, instead of inventing a new \"better\" one in JSON, because you'll still have to support the XML way of doing it, and net-net that's more complicated, more work and more confusing.",
+                    "created": "Sun, 21 Jan 2018 14:50:59 GMT"
+                }
+            ]
+        }
+    ]
+}
