@@ -1,0 +1,5 @@
+{
+    "text": "Another possible \"River5\" problem. For the last two days the NYT Daily podcast hasn't shown up on \"podcatch.com\". I was willing to write it off as a one-time glitch yesterday, but when it happened again today, I'm starting to get concerned. Here's the <a href=\"http://www.feedvalidator.org/check.cgi?url=http%3A%2F%2Frss.art19.com%2Fthe-daily\">feedvalidator</a> link to the feed. As you can see it's saying it's not valid, but I also fed it through my own <a href=\"https://github.com/scripting/nodeFeedDebug\">feed debugger</a>, which exactly mimicks what River5 does with feeds, and it seems okay with it. I'm starting a <a href=\"https://github.com/scripting/Scripting-News/issues/62\">thread</a> for this. ",
+    "created": "Tue, 23 Jan 2018 18:04:49 GMT",
+    "type": "outline"
+}
