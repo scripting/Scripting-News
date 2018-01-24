@@ -1,0 +1,58 @@
+{
+    "text": "January 23",
+    "created": "Tue, 23 Jan 2018 15:17:22 GMT",
+    "name": "23",
+    "subs": [
+        {
+            "text": "Five years. Between 1994 and 1999, there was a brief period when the web was truly open. There was no one who could veto you. No one who, if they took offense to what you said or did, could knock you off the net. There were people who tried. That made it dramatic. But there was <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+blue+sky&t=hg&ia=web\">blue sky</a> everywhere. Now the web is divided into silos controlled by big companies. A little bit of light shows through between the cracks. I keep hoping that one crack will open into a new world that's open where we can play where we have users to serve, and competitors to compete with. I go from slightly optimistic to get-a-clue-Dave-it-ain't-happening. ",
+            "created": "Tue, 23 Jan 2018 16:55:28 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/01/01/bear.png"
+        },
+        {
+            "text": "Another possible \"River5\" problem. For the last two days the NYT Daily podcast hasn't shown up on \"podcatch.com\". I was willing to write it off as a one-time glitch yesterday, but when it happened again today, I'm starting to get concerned. Here's the <a href=\"http://www.feedvalidator.org/check.cgi?url=http%3A%2F%2Frss.art19.com%2Fthe-daily\">feedvalidator</a> link to the feed. As you can see it's saying it's not valid, but I also fed it through my own <a href=\"https://github.com/scripting/nodeFeedDebug\">feed debugger</a>, which exactly mimicks what River5 does with feeds, and it seems okay with it. I'm starting a <a href=\"https://github.com/scripting/Scripting-News/issues/62\">thread</a> for this. ",
+            "created": "Tue, 23 Jan 2018 18:04:49 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I'm sure people don't get why I keep saying people should use the web. It's selfish, I admit it. I want to be able to make tools for you. And to connect your ideas with others. If you do it inside a silo, only the employees of the silo can help. I can't, unless you use the web.",
+            "created": "Tue, 23 Jan 2018 16:04:18 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "What's really killing us, not just our country, is this idea that we're all in it for ourselves. To feed our families. It's a dream, from evolution. It's no longer a survival trait. The only way we survive is if we see our fates as intertwined, co-dependent. That's reality.",
+            "created": "Tue, 23 Jan 2018 16:17:37 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/955835575239675905"
+        },
+        {
+            "text": "MSNBC stories",
+            "created": "Tue, 23 Jan 2018 15:18:20 GMT",
+            "type": "outline",
+            "description": "Before you make it about the Repubs, make it about the dream. ",
+            "subs": [
+                {
+                    "text": "I heard a familiar idea at the end of the Chris Hayes show on MSNBC last night. The organizer of the Women's March and a reporter for the New Yorker both say they were ignored by Democratic legislators fighting for Dreamers. It's true, they were ignored. I didn't notice it until they said so. Why didn't the Dems use the fact that there were over a million people marching in America and more in other countries? The New Yorker writer says it's because they are women, to which I say two things: 1. I doubt it. 2. If it is, why not broaden the movement to be more inclusive? Can't we just have People's Marches? Why are women's issues the only ones that matter?",
+                    "created": "Tue, 23 Jan 2018 15:18:31 GMT",
+                    "image": "http://scripting.com/images/2018/01/16/librarianActionFigure.png"
+                },
+                {
+                    "text": "Earlier on the Ari Melber show, another woman whose name I didn't catch, made a similar powerful statement. Why is everything politicos talk about procedural? The Dreamers make an incredibly compelling story. How about some ads, you know the president is still campaigning, that show how the Dreamers are Americans! The stupid fucking Repubs want to deport Americans. But this idea if it's mentioned at all is only mentioned in passing. There's a powerful emotional story here, yet it is largely invisible. It's up to the Democrats, the opposition, to speak up for them. Not just procedurally, but personally. ",
+                    "created": "Tue, 23 Jan 2018 15:20:25 GMT"
+                },
+                {
+                    "text": "In other words before you make it about the Repubs, make it about the dream. I keep pointing back to the incredibly emotional Bernie Sanders <a href=\"https://twitter.com/davewiner/status/955826325255852032\">America ad</a> from 2016. An ad like that showing a day in the life of dreamers across America would, as <a href=\"https://twitter.com/GeorgeLakoff?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor\">Lakoff</a> says, frame the debate in terms that make sense, not the procedural ones that to most people, including me, don't.",
+                    "created": "Tue, 23 Jan 2018 15:33:18 GMT"
+                },
+                {
+                    "text": "But the big problem is even bigger. Only a certain kind of person is given a voice. I think that's why the marchers were ignored. They don't work for Harvard or write for the New Yorker (sorry, but you get a lot of attention for your ideas there, I don't feel sorry for you). Unless you're a billionaire, or on the payroll of billionaires, your ideas and dreams don't mean shit. ",
+                    "created": "Tue, 23 Jan 2018 15:22:55 GMT"
+                },
+                {
+                    "text": "That's what Trump sold, and he's right. I feel it. I feel left out of the conversation. I read a <a href=\"http://nymag.com/daily/intelligencer/2018/01/democracy-survived-a-year-of-trump-but-the-fights-not-over.html\">piece</a> by an excellent writer in New York magazine, who says we have to do more, well the biggest thing <i>he</i> could do is figure out how to empower people who don't have columns in his publication,  people who want to do anything they can to help but feel sidelined. ",
+                    "created": "Tue, 23 Jan 2018 15:24:17 GMT"
+                }
+            ]
+        }
+    ]
+}
