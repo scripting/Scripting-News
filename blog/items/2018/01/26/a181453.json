@@ -1,0 +1,29 @@
+{
+    "text": "Does Facebook really do open source?",
+    "created": "Fri, 26 Jan 2018 18:14:53 GMT",
+    "type": "outline",
+    "description": "Yes, technically Facebook is doing open source, but not in the way most people think. It doesn't make Facebook open. Quite the opposite.",
+    "subs": [
+        {
+            "text": "I spied an <a href=\"https://twitter.com/jackwilliambell/status/956934330290286593\">exchange</a> on Twitter between <a href=\"https://en.wikipedia.org/wiki/Bruce_Sterling\">Bruce Sterling</a> and an open source advocate. Sterling's account is private, so I had to check for permission. Not sure how much you'll be able to see of the exchange.  ",
+            "created": "Fri, 26 Jan 2018 18:15:10 GMT",
+            "image": "http://scripting.com/2016/10/19/fatcat.png"
+        },
+        {
+            "text": "The <a href=\"https://twitter.com/jackwilliambell\">other guy</a> said philathropists like <a href=\"https://www.theguardian.com/business/2018/jan/25/george-soros-facebook-and-google-are-a-menace-to-society\">George Soroos</a> should get behind open source as a way of balancing the power of BigCo's like Google and Facebook. ",
+            "created": "Fri, 26 Jan 2018 18:17:45 GMT"
+        },
+        {
+            "text": "Sterling pointed out that <a href=\"https://code.facebook.com/projects/\">Facebook does</a> a lot of open source. It's true they do. But it's different. Then I realized it's the same confusion news people created about blogging when they <a href=\"http://www.nytimes.com/interactive/blogs/directory.html\">claimed</a> to be bloggers a number of years ago. Yes, technically Facebook is doing open source, but not the way most people think. It doesn't make Facebook open. Quite the opposite, it's a huge death trap for the web. <a href=\"https://nypost.com/1999/01/23/microsoft-exec-on-the-hot-seat/\">Suffocates</a> it. A roach motel for the open web.",
+            "created": "Fri, 26 Jan 2018 18:18:19 GMT"
+        },
+        {
+            "text": "So Facebook is not open as in the <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+open+web&t=hg&ia=web\">open web</a>. And reporters aren't bloggers, they're still professionals with all the limits that come from working for other people. You're getting a corporate product in both cases, yet the implication is that you're getting something open and uncontrolled. But open source projects sponsored by big tech companies are as controlled as their products and user experience. ",
+            "created": "Fri, 26 Jan 2018 18:19:09 GMT"
+        },
+        {
+            "text": "There ought to be a different name for what they do. Or we have to help people understand that there's a difference between platforms without platform vendors and what Facebook and Google do. ",
+            "created": "Fri, 26 Jan 2018 18:19:48 GMT"
+        }
+    ]
+}
