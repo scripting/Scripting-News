@@ -1,0 +1,55 @@
+{
+    "text": "January 28",
+    "created": "Sun, 28 Jan 2018 16:52:59 GMT",
+    "name": "28",
+    "subs": [
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/64\">A feature request</a> for Amazon re S3, case-insensitive URLs. ",
+            "created": "Sun, 28 Jan 2018 21:38:29 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Years ago we were excited that humanity was moving on to the web. About what it meant. One of the things I liked to talk about then is how we all have the same size bodies on the web. That's still somewhat true. We invented follower counts, to give the illusion that some bodies are bigger. The illusion is proving elusive. :boom:",
+            "created": "Sun, 28 Jan 2018 22:19:41 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Twitter is a source of \"fake followers\"",
+            "created": "Sun, 28 Jan 2018 16:53:00 GMT",
+            "type": "outline",
+            "description": "Twitter itself gifted followers to people they like, personal friends of the founders, journalists who wrote about them favorably.",
+            "subs": [
+                {
+                    "text": "Noted the NYT has a <a href=\"https://www.nytimes.com/interactive/2018/01/27/technology/100000005704904.app.html\">piece</a> out today that reports on famous people buying more followers on Twitter. It's written as an <a href=\"https://duckduckgo.com/?q=define+expos%C3%A9&t=hg&ia=definition\">exposé</a>. ",
+                    "created": "Sun, 28 Jan 2018 16:53:07 GMT"
+                },
+                {
+                    "text": "Until now, no journalistic organization has questioned the ethics of buying fake followers. I've always felt it was unethical to inflate your follower count non-organically, but when I've <a href=\"http://scripting.com/stories/2009/11/22/reportersAcceptingFreebies.html\">written</a> about it, I've mostly been alone. ",
+                    "created": "Sun, 28 Jan 2018 16:53:49 GMT"
+                },
+                {
+                    "text": "The <a href=\"http://mediagazer.com/180127/p3#a180127p3\">story</a> is actually bigger than the NYT reports, and Twitter's <a href=\"https://twitter.com/twittercomms/status/957316490889347072\">disclaimer</a> that this is against their policy doesn't mention that they gifted followers to people they like, personal friends of the founders, journalists who wrote about them favorably. It was even shown that they removed publications and bloggers from the Suggested Users List when they reported on information about the company that was leaked to them from the company's board of directors. ",
+                    "created": "Sun, 28 Jan 2018 16:55:00 GMT",
+                    "subs": [
+                        {
+                            "text": "I first became aware of what Twitter was doing when I was online at the same time as <a href=\"https://twitter.com/anamariecox\">Ana Marie Cox</a>, a popular blogger, as her follower count was <a href=\"http://scripting.com/stories/2009/03/12/whyItsTimeToBreakOutOfTwit.html#p4\">exploding</a> minute by minute. We couldn't figure out what was going on. Thought it might be a bug in Twitter. ",
+                            "created": "Sun, 28 Jan 2018 17:01:11 GMT"
+                        },
+                        {
+                            "text": "But it was also happening on other accounts. It turned out that Twitter was promoting them to new users. But we don't really know where the followers come from. Because Twitter is a closed system, not an open web protocol, only they know. ",
+                            "created": "Sun, 28 Jan 2018 17:17:15 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "I don't think anything can or should be done about it at this late date. But people should know that if someone has a million followers that doesn't mean a million actual people chose to follow them. And don't assume that if someone with a million followers RTs you that will get you more attention than someone with a smaller follower count. ",
+                    "created": "Sun, 28 Jan 2018 16:56:51 GMT"
+                },
+                {
+                    "text": "Anyway, here's a <a href=\"https://www.google.com/search?q=site%3Ascripting.com+twitter+suggested+users+list&rlz=1C5CHFA_enUS743US747&oq=site%3Ascripting.com+twitter+suggested+users+list&aqs=chrome..69i57j69i58.2638j0j8&sourceid=chrome&ie=UTF-8\">search query</a> that links back to my writing about this issue in the archive of this blog. ",
+                    "created": "Sun, 28 Jan 2018 16:58:13 GMT"
+                }
+            ]
+        }
+    ]
+}
