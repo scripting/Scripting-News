@@ -1,0 +1,20 @@
+{
+    "text": "A feature request for Amazon re S3",
+    "created": "Sun, 28 Jan 2018 17:36:45 GMT",
+    "type": "outline",
+    "description": "Give us an option to make URLs case insensitive. ",
+    "subs": [
+        {
+            "text": "Give us an option to make URLs case-insensitive. ",
+            "created": "Sun, 28 Jan 2018 17:38:27 GMT"
+        },
+        {
+            "text": "Background: I ported my <a href=\"http://scripting.com/\">blog</a> to S3 a few years ago. It works great. Love it. But I ported from a server that has case-insensitive names. That has resulted in broken links. I discover them when I have to go back through the archive myself. ",
+            "created": "Sun, 28 Jan 2018 17:39:31 GMT"
+        },
+        {
+            "text": "I can patch things up manually with redirects, and do, but it would fix a lot of broken links to have the option to make URLs case-insensitive. ",
+            "created": "Sun, 28 Jan 2018 17:40:19 GMT"
+        }
+    ]
+}
