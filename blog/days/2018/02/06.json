@@ -1,0 +1,44 @@
+{
+    "text": "February 6",
+    "created": "Tue, 06 Feb 2018 16:02:15 GMT",
+    "name": "06",
+    "subs": [
+        {
+            "text": "I love how Google <a href=\"http://scripting.com/images/2018/02/06/notMobileFriendly.png\">tells me</a> an archive <a href=\"http://scripting.com/2004/05.html\">page</a> from 2004 is not mobile-friendly. There was very little <i>mobile</i> in 2004. ",
+            "created": "Tue, 06 Feb 2018 17:22:31 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Dries tries cross-posting",
+            "created": "Tue, 06 Feb 2018 16:02:16 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Dries Buytaert <a href=\"https://dri.es/to-pesos-or-to-posse\">wrote</a> about how he wants to cross-post from his Drupal blog to Facebook. My experience with cross-posting to silos is that it doesn't work. I wrote a comment on his post relating my experience. (No fancy tech, just copy/paste.) ",
+                    "created": "Tue, 06 Feb 2018 16:02:22 GMT",
+                    "subs": [
+                        {
+                            "text": "Hi Dries -- I use Facebook and Twitter, and have no plans to stop either, but the primary place I write is my blog. I tried to make cross-posting work, for years, and finally realized it cant work, unless each of the silos want it to, and of course none of them do.",
+                            "created": "Tue, 06 Feb 2018 16:05:02 GMT"
+                        },
+                        {
+                            "text": "I also included Medium in my attempt to set up a cross-posting system."
+                        },
+                        {
+                            "text": "I wrote this <a href=\"http://scripting.com/2016/09/04/endingAnExperiment.html\">blog post</a> when I gave up. ",
+                            "created": "Tue, 06 Feb 2018 16:06:02 GMT"
+                        },
+                        {
+                            "text": "I do however mirror my linkblog to both Twitter and Facebook, and the <a href=\"http://scripting.com/?tab=links\">Links tab</a> on my blog, and its own <a href=\"http://radio3.io/users/davewiner/rss.xml\">RSS feed</a>. I guess that's a POSSE approach. I use my own linkblogging software, \"Radio3\".",
+                            "created": "Tue, 06 Feb 2018 16:06:40 GMT"
+                        },
+                        {
+                            "text": "That's about as good as you can get. Cross-posting blog posts imho doesn't and can't work. Links? That works.",
+                            "created": "Tue, 06 Feb 2018 16:07:34 GMT"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
