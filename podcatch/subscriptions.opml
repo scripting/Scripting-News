@@ -3,7 +3,7 @@
 	<head>
 		<title>My Podcast Feeds</title>
 		<dateCreated>Mon, 06 Apr 2015 16:19:35 GMT</dateCreated>
-		<dateModified>Fri, 02 Feb 2018 20:42:55 GMT</dateModified>
+		<dateModified>Tue, 06 Feb 2018 20:23:58 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="99% Invisible" title="99% Invisible" type="rss" xmlUrl="http://feeds.99percentinvisible.org/99percentinvisible" />
@@ -56,7 +56,7 @@
 		<outline text="New Yorker: Out Loud" title="New Yorker: Out Loud" type="rss" xmlUrl="http://www.newyorker.com/services/rss/feeds/newyorker_outloud.xml" />
 		<outline text="No Agenda" title="No Agenda" type="rss" xmlUrl="http://feed.nashownotes.com/rss.xml" />
 		<outline text="NPR Politics Podcast" title="NPR Politics Podcast" type="rss" xmlUrl="http://www.npr.org/rss/podcast.php?id=510310" />
-		<outline text="NYT Daily" title="NYT Daily" type="rss" xmlUrl="https://api.nytimes.com/podcasts-rss/zKq6WZZLTlbM?apikey=18736e07a8184bf2a3f1a9ed57ed5152" />
+		<outline text="NYT Daily" title="NYT Daily" type="rss" xmlUrl="http://rss.art19.com/the-daily" />
 		<outline text="NYT Run-up podcast" title="NYT Run-up podcast" type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/podcasts/run-up.xml" />
 		<outline text="Off Camera" title="Off Camera" type="rss" xmlUrl="http://podcast.offcamera.com/feed/" />
 		<outline text="Official Website of Bill Burr" title="Official Website of Bill Burr" type="rss" xmlUrl="http://www.billburr.com/feed" />
