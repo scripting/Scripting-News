@@ -1,0 +1,62 @@
+{
+    "text": "February 7",
+    "created": "Wed, 07 Feb 2018 19:40:16 GMT",
+    "name": "07",
+    "subs": [
+        {
+            "text": "<a href=\"http://www.oregonlive.com/portland/index.ssf/2018/02/seniors_trying_cannabis_extrac.html\">Jeff Sessions</a> is concerned that cannabis is <a href=\"https://greencamp.com/jeff-sessions-thinks-many-heroin-addictions-start-marijuana/\">bad</a> for us, but I have to say never have I seen someone so much in need of a buzz. Chill out, maybe with a vape, munchies, a Netflix movie, maybe Big Lebowski. Comfortable shoes. Takeout Chinese.",
+            "created": "Thu, 08 Feb 2018 03:13:23 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/961437388999417857",
+            "image": "http://scripting.com/images/2018/02/07/budForJeffSessions.png"
+        },
+        {
+            "text": "I often complain about podcasts that hide their \"RSS\" feed. It's only fair to call out one for doing it well. Here's a new <a href=\"https://www.wnycstudios.org/shows/trumpinc\">podcast</a> from WNYC. Over on <a href=\"http://scripting.com/images/2018/02/07/trumpIncHomePage.png\">the left</a>, impossible to miss, is a Subscribe button. Click it, and see a <a href=\"http://scripting.com/images/2018/02/07/menu.png\">list of choices</a>, one of which is <a href=\"http://feeds.wnyc.org/trumpinc\">via RSS</a>. It links to the <a href=\"http://feeds.wnyc.org/trumpinc\">podcast feed</a>, ready to subscribe to, which I have done in \"podcatch.com\".",
+            "created": "Wed, 07 Feb 2018 23:07:19 GMT",
+            "type": "outline",
+            "description": "I often complain about podcasts that hide their \"RSS\" feed. It's only fair to call out one for doing it well."
+        },
+        {
+            "text": "One of the things I've learned is that contrary to popular belief you <i>can</i> make (some) people change -- if they were depending on you not changing. You have to change first. Then, too bad, they have to change too.",
+            "created": "Wed, 07 Feb 2018 23:01:20 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "We need a <a href=\"https://en.wikipedia.org/wiki/Catnip\">name</a> for a shiny new toy Trump gives us to take attention away from the serious damage. The military parade is just such a toy.",
+            "created": "Wed, 07 Feb 2018 19:40:17 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "A massive bit-burning",
+            "created": "Wed, 07 Feb 2018 19:41:20 GMT",
+            "type": "outline",
+            "description": "There's an implicit public trust with having the dominant web browser. Except the public hasn't yet understood how important and valuable that trust is.",
+            "subs": [
+                {
+                    "text": "Let's put <a href=\"https://blog.mozilla.org/security/2015/04/30/deprecating-non-secure-http/\">this</a> in stark but realistic terms. The cost of what Mozilla et al are <a href=\"https://blog.mozilla.org/security/2018/01/15/secure-contexts-everywhere/\">planning</a> is that we will lose almost all of the archives of the web. A massive <a href=\"https://medium.com/swlh/a-moment-for-all-of-our-data-lost-in-time-260a54fef86\">bit-burning</a>, which is just as awful as it sounds. ",
+                    "created": "Wed, 07 Feb 2018 19:41:27 GMT"
+                },
+                {
+                    "text": "It's as if the pharma industry decided to delete all their records going back to the beginning of drug research. Except it isn't the industry doing it, it's a few large companies.",
+                    "created": "Wed, 07 Feb 2018 19:42:15 GMT"
+                },
+                {
+                    "text": "And the web doesn't even belong to the industry.  It belongs to no one.",
+                    "created": "Wed, 07 Feb 2018 19:42:33 GMT"
+                },
+                {
+                    "text": "There's an implicit public trust with having the dominant web browser. Except the public hasn't yet understood how important and valuable that trust is. And of course the companies will take whatever they can.",
+                    "created": "Wed, 07 Feb 2018 19:42:52 GMT"
+                },
+                {
+                    "text": "My friend <a href=\"https://twitter.com/blogdiva\">blogdiva</a> calls this colonialism and I think she's right.",
+                    "created": "Wed, 07 Feb 2018 19:43:06 GMT"
+                },
+                {
+                    "text": "PS: What alerted to me how <a href=\"https://github.com/w3ctag/design-principles/pull/75\">crazy</a> this has gotten, they're <a href=\"https://github.com/tc39/ecma262/issues/1093\">talking</a> about how to break <i>JavaScript</i> on non-HTTPS connections. I use JS for plenty of stuff that never touches the net. ",
+                    "created": "Wed, 07 Feb 2018 19:59:44 GMT"
+                }
+            ]
+        }
+    ]
+}
