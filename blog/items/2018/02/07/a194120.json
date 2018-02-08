@@ -1,0 +1,32 @@
+{
+    "text": "A massive bit-burning",
+    "created": "Wed, 07 Feb 2018 19:41:20 GMT",
+    "type": "outline",
+    "description": "There's an implicit public trust with having the dominant web browser. Except the public hasn't yet understood how important and valuable that trust is.",
+    "subs": [
+        {
+            "text": "Let's put <a href=\"https://blog.mozilla.org/security/2015/04/30/deprecating-non-secure-http/\">this</a> in stark but realistic terms. The cost of what Mozilla et al are <a href=\"https://blog.mozilla.org/security/2018/01/15/secure-contexts-everywhere/\">planning</a> is that we will lose almost all of the archives of the web. A massive <a href=\"https://medium.com/swlh/a-moment-for-all-of-our-data-lost-in-time-260a54fef86\">bit-burning</a>, which is just as awful as it sounds. ",
+            "created": "Wed, 07 Feb 2018 19:41:27 GMT"
+        },
+        {
+            "text": "It's as if the pharma industry decided to delete all their records going back to the beginning of drug research. Except it isn't the industry doing it, it's a few large companies.",
+            "created": "Wed, 07 Feb 2018 19:42:15 GMT"
+        },
+        {
+            "text": "And the web doesn't even belong to the industry.  It belongs to no one.",
+            "created": "Wed, 07 Feb 2018 19:42:33 GMT"
+        },
+        {
+            "text": "There's an implicit public trust with having the dominant web browser. Except the public hasn't yet understood how important and valuable that trust is. And of course the companies will take whatever they can.",
+            "created": "Wed, 07 Feb 2018 19:42:52 GMT"
+        },
+        {
+            "text": "My friend <a href=\"https://twitter.com/blogdiva\">blogdiva</a> calls this colonialism and I think she's right.",
+            "created": "Wed, 07 Feb 2018 19:43:06 GMT"
+        },
+        {
+            "text": "PS: What alerted to me how <a href=\"https://github.com/w3ctag/design-principles/pull/75\">crazy</a> this has gotten, they're <a href=\"https://github.com/tc39/ecma262/issues/1093\">talking</a> about how to break <i>JavaScript</i> on non-HTTPS connections. I use JS for plenty of stuff that never touches the net. ",
+            "created": "Wed, 07 Feb 2018 19:59:44 GMT"
+        }
+    ]
+}
