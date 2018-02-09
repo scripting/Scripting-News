@@ -1,0 +1,49 @@
+{
+    "text": "February 8",
+    "created": "Thu, 08 Feb 2018 14:52:49 GMT",
+    "name": "08",
+    "subs": [
+        {
+            "text": "If HTTPS is a such great idea, there's no need to force anyone to use it, it should sell itself. ",
+            "created": "Thu, 08 Feb 2018 14:53:12 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/01/16/librarianActionFigure.png"
+        },
+        {
+            "text": "I chose to write software and create content for the web because there was no platform vendor who could break my software or writing. Even if HTTPS was a great idea, and worth the investment, if there was a company trying to <i>force</i> me to use it, I would resist. I'd rather let my software and writing disappear than submit to another corporate platform vendor. I was finished with that a long time ago. So as long as you can read \"Scripting News\" you know that the web is still basically an open and uncontrolled platform. The day you can't, you know it isn't (or Amazon S3 might be down, that's always a possibility).",
+            "created": "Thu, 08 Feb 2018 14:54:29 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I can even show you <a href=\"http://scripting.com/davenet/1994/10/18/billgatesvstheinternet.html\">the moment</a> I made the choice to write software and content for the open web. And it's also a demo of the power of the web. I can show you something I was thinking in 1994. It's going to be there as long as I pay the bills, no matter what Google does to cripple its browser. Clearly my work has no value to Google, Mozilla and the EFF. But that's not the same as it having no value. :boom:",
+            "created": "Thu, 08 Feb 2018 14:58:01 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "The openness of the open web is as important to free speech as the First Amendment. But we don't have the legal protection of the Constitution to keep the web open.",
+            "created": "Thu, 08 Feb 2018 14:52:50 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "A fake news problem Facebook should address",
+            "created": "Fri, 09 Feb 2018 03:36:35 GMT",
+            "type": "outline",
+            "description": "It should be possible to remove links to fake stories on Facebook even if the person who posted it doesn't show up for days.",
+            "subs": [
+                {
+                    "text": "A few days ago a Facebook friend posted a screen shot of a fake tweet. It made it appear as if Trump had said something that he had not. It had been debunked by Snopes. So I immediately posted a link to the Snopes piece, and asked my friend to remove the post. A few hours go by, another commenter says it's fake, and another says it's funny. It's already been shared a few times. I posted another comment. Please let's get this off Facebook. After a few days it's been shared more and it's still there.",
+                    "created": "Fri, 09 Feb 2018 03:44:34 GMT",
+                    "image": "http://scripting.com/images/2018/02/08/trumpHead.png"
+                },
+                {
+                    "text": "It seems there ought to be a button that says <i>this has been debunked</i> on Snopes, and that ought to be enough to put the post in quarantine until the author shows up. And if they don't show up after a couple of days, just delete it (and all the shares please).",
+                    "created": "Fri, 09 Feb 2018 03:45:55 GMT"
+                },
+                {
+                    "text": "BTW, it's actually very easy to use a browser debugger to change the words of any tweet. For example, I can make it appear that <a href=\"http://scripting.com/images/2018/02/08/uncleJohnTrump.png\">Trump is a deadhead</a>. I think we know for sure Trump has never sang <a href=\"https://www.youtube.com/watch?v=TSIajKGHZRk\">Uncle John's Band</a> in a tweet. :rocket:",
+                    "created": "Fri, 09 Feb 2018 03:36:50 GMT"
+                }
+            ]
+        }
+    ]
+}
