@@ -1,0 +1,39 @@
+{
+    "text": "McAfee security theater",
+    "created": "Fri, 09 Feb 2018 13:18:42 GMT",
+    "type": "outline",
+    "description": "In 2010 people who read my blog told me all of a sudden McAfee corporate anti-virus software was saying my site was evil and wouldn't let people read it. I was curious why. It's just a blog. ",
+    "subs": [
+        {
+            "text": "In <a href=\"http://scripting.com/stories/2010/11/04/scriptingBlockedByMcafee.html\">2010</a> people who read my blog told me all of a sudden McAfee corporate anti-virus software was saying my site was evil and wouldn't let people read it. I was curious why. It's just a blog. As far as I know, there never has been software on this site that justified such a label.",
+            "created": "Fri, 09 Feb 2018 13:20:32 GMT",
+            "image": "http://scripting.com/images/2018/02/09/salute.png"
+        },
+        {
+            "text": "Here's the story. One day, I had the whole site in a folder on a local disk, and thought, why not zip this up and make it a download on the site. Maybe someday in case there's a failure on my server, in the 23rd Century perhaps, it might be nice to have a few spare copies out there. Or someone might think of something neat to do with it today. I figured there weren't too many archives that linked-out as much as mine does, that go back as far as it does. ",
+            "created": "Fri, 09 Feb 2018 13:20:41 GMT",
+            "subs": [
+                {
+                    "text": "There were actually a few of these files, and a DLL for \"Frontier\" and a zip file containing Frontier 4.2.3, a long-lived release for the Mac from the mid-90s. Widely deployed. Curiously Frontier and the DLL are the files I would have been most concerned about, but they gave them a low \"annoyance level.\" The others, which <i>really</i> freaked them out, were zip files containing HTML and OPML files. Obviously harmless, but you'd have to look inside the archive to see that, I guess. Here's the <a href=\"http://scripting.com/stories/2010/11/04/scriptingBlockedByMcafee.html\">writeup</a>.",
+                    "created": "Fri, 09 Feb 2018 13:38:15 GMT"
+                }
+            ]
+        },
+        {
+            "text": "McAfee, on crawling my site, saw a zip file, and without looking inside, figured I was doing something bad, and kept their customers out of the whole site. When I contacted them, they said basically what Google says about HTTPS, you can get rid of the problem by getting rid of the file. I said no no thanks. I am not going to let a mindless bot tell me what I can and can't write. What comes next? Will it be considered malware to criticize the government? And will Google, next year, consider criticism of Google to be \"not secure?\"",
+            "created": "Fri, 09 Feb 2018 13:22:49 GMT"
+        },
+        {
+            "text": "I'd rather not even take the first step down that slippery slope. We know how this goes. Feeling empowered, Google will want to exercise more control. AMP is a good example. I don't support that either. They took over RSS readers, and then dumped the users. Was that benign or malicious? It doesn't matter, the net-effect is the same. They are royalty and we are subjects. I know programmers get that way. I've seen it over and over. They know, without looking, better than everyone else, what's best for us. They don't. But that doesn't stop them from acting on the belief that they do.",
+            "created": "Fri, 09 Feb 2018 13:25:01 GMT"
+        },
+        {
+            "text": "My policy: When in doubt, basic 1990s web functionality is fine for me. If they don't want to let their users read my site, that's okay. The workaround is easy. Get a different browser. :rocket:",
+            "created": "Fri, 09 Feb 2018 13:25:47 GMT"
+        },
+        {
+            "text": "PS: McAfee apparently fixed the problem. They now <a href=\"http://www.siteadvisor.com/sitereport.html?url=scripting.com\">say</a> scripting.com <a href=\"http://scripting.com/images/2018/02/09/mcafeeReport2018.png\">looks</a> safe. That's right. They could have even said \"It's even worse than it appears\" and I would have been okay with that. Just don't say I'm malicious unless you can prove it (and you can't, I'm not).",
+            "created": "Fri, 09 Feb 2018 13:33:46 GMT"
+        }
+    ]
+}
