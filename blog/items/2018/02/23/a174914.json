@@ -1,0 +1,92 @@
+{
+    "text": "HTTP still under attack",
+    "created": "Fri, 23 Feb 2018 17:49:14 GMT",
+    "type": "outline",
+    "description": "The web is like the Grand Canyon. It's a big natural thing, a resource, an inspiration, and like the canyon it deserves our protection.",
+    "subs": [
+        {
+            "text": "Lots of incoming challenges on Twitter from people who think all my sites should be converted from HTTP to HTTPS. ",
+            "created": "Fri, 23 Feb 2018 18:23:00 GMT"
+        },
+        {
+            "text": "They make three main points: ",
+            "created": "Fri, 23 Feb 2018 17:49:38 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "Google is going to warn people about my site being \"not secure.\" ",
+                    "created": "Fri, 23 Feb 2018 17:50:16 GMT"
+                },
+                {
+                    "text": "Something bad could happen to my pages in transit from a HTTP server to the user's web browser. ",
+                    "created": "Fri, 23 Feb 2018 17:49:45 GMT"
+                },
+                {
+                    "text": "It's not hard to convert and it doesn't cost a lot.",
+                    "created": "Fri, 23 Feb 2018 17:50:07 GMT"
+                }
+            ]
+        },
+        {
+            "text": "I think that covers it. I list them here to prove I've been listening and understand what they say, so hopefully someone doesn't try to explain it to me yet again.",
+            "created": "Fri, 23 Feb 2018 18:06:47 GMT"
+        },
+        {
+            "text": "The second reason, something bad could happen -- well lots of bad things could happen. I can't afford to protect against all of them. I wonder if they ever think about the human being who is supposed to do the work? We have lives, and priorities, we must make choices about how we spend time. Maybe our websites aren't our number one priority? Even if they were, I would much rather develop new stuff than invest in protecting archives of blogs and old docs against hypothetical problems. ",
+            "created": "Fri, 23 Feb 2018 17:52:10 GMT"
+        },
+        {
+            "text": "Nothing is going to happen to the pages themselves, btw -- they're worried about how people view the docs through their browser. If the web becomes so polluted with man-in-the-middle attacks, I can think of quicker workarounds. For example, I could send the reader a zipped archive of a website. That would be an easy place to add encryption. No need to transition all my sites. And if the problems never materialize, a possibility even Google must admit, we could make a new kind of web browser, that's another option. One which unlike Google's, will let you browse the full web, not just Google's limited idea of what the web is. I think this represents a good opportunity to get Google out of the way. If we get there it will be worth a try.",
+            "created": "Fri, 23 Feb 2018 18:24:53 GMT"
+        },
+        {
+            "text": "Re the third point, it's quick and easy -- it wouldn't be for me. I <a href=\"http://scripting.com/2017/11/08.html#a095905\">experimented</a> for a few years with the idea that a domain could be the address of a document, or a shortened link. I have hundreds of such domains. ",
+            "created": "Fri, 23 Feb 2018 19:50:46 GMT"
+        },
+        {
+            "text": "One more thing before I get to the point. Some of the people Google thinks are going to convert to HTTP have moved on. There's no one there to do the thing Google wants them to do. What then?",
+            "created": "Fri, 23 Feb 2018 18:09:59 GMT"
+        },
+        {
+            "text": "<b>Why we must say no to Google</b>",
+            "created": "Fri, 23 Feb 2018 18:26:24 GMT"
+        },
+        {
+            "text": "The first reason, <a href=\"http://scripting.com/2018/02/23/174914.html#a174938\">above</a>, is the most important one, by far. And the lack of thought and care on the part of Google illustrates exactly why it's so incredibly important.",
+            "created": "Fri, 23 Feb 2018 17:55:24 GMT",
+            "description": " The web is like the Grand Canyon. It's a big natural thing, a resource, an inspiration, and like the canyon it deserves our protection."
+        },
+        {
+            "text": "The numbers they present are misleading, they talk about web traffic, not web sites. If you add up Amazon, Netflix, Wikipedia, Google, Wordpress, Facebook and a dozen more sites, I bet that's 99 percent of the traffic of the web. But that does not represent the size of the problem. Some sites get almost no traffic, yet the information they contain could be valuable to someone in the future. Does Google cite the wrong stat because they don't know how much of the web's content is served through HTTP? Or, more likely, they know and therefore understand how what they're trying to do, if they don't plan to leave anything behind, amounts to boiling the ocean. I don't see an alternative explanation.",
+            "created": "Fri, 23 Feb 2018 20:11:37 GMT"
+        },
+        {
+            "text": "Before the web, I spent a decade working on three corporate-owned platforms, the Apple II, IBM PC and Macintosh. I would say all companies tried reasonably hard to bring developers forward, most of the time, and for the most part I was able to make the transition. But, in all cases, I had a company behind me. Today I'm just one person. And in no case had I spent more than three years doing the work that required transitioning, so the job was relatively small by today's standards. Even so, given the short time, and the generally good intentions of the vendors, by the time we got to the Mac, they were already using breakage as a weapon against developers they didn't like, or who were occupying market segments they wanted to own. ",
+            "created": "Fri, 23 Feb 2018 17:56:47 GMT"
+        },
+        {
+            "text": "Before the web, I couldn't see a way to be an independent developer, as long as there was a platform vendor who ultimately would decide whether or not I would be allowed to continue. But the web changed all that. And it's why I can point to an <a href=\"http://scripting.com/autowebdocs/autoweb10docs_119.html\">archive site</a> for a tool I created <i>in 1994</i> that still works. That's 24 years of compatibility. That's some kind of record in the tech world. ",
+            "created": "Fri, 23 Feb 2018 17:59:06 GMT"
+        },
+        {
+            "text": "BTW, it's not <i>my</i> accomplishment, all I had to do was assure that the files stayed where they were. The accomplishment is the social agreement not to break things that we call the World Wide Web. It's like the Grand Canyon. It's a big natural thing, a resource, an inspiration, and like the canyon it deserves our protection. ",
+            "created": "Fri, 23 Feb 2018 18:18:15 GMT"
+        },
+        {
+            "text": "So now Google points a gun at the web and says \"Do as we say or we'll tell users your site is not secure.\" What they're saying doesn't stand up to a basic bullshit-test. There's nothing insecure about my site. Okay I suppose it's <i>possible</i> you could get hurt using it, I'll grant you that. But I could get hurt getting up out of my chair and going into the kitchen to refill my coffee cup. Life is insecure. When Google says my old site is insecure what they really mean is \"This is our platform now, and you do as we say or your site won't work.\" I don't believe for a minute that Google's motivation is protecting users. They seem to believe they can confuse users (they can) and that means they can do anything to the web they like. I suppose they can do that too. But it doesn't mean the web will cooperate. Imho, it won't.",
+            "created": "Fri, 23 Feb 2018 18:00:32 GMT"
+        },
+        {
+            "text": "There was an old joke in the days of MS-DOS. A new version doesn't ship until Lotus 1-2-3 doesn't run. Probably wasn't true, but it did illustrate the extraordinary power Microsoft had over its then-chief competitor. This is the power Google thinks it has now over the web. ",
+            "created": "Fri, 23 Feb 2018 18:19:59 GMT"
+        },
+        {
+            "text": "I'm not going back to corporate platforms. And I have to admit, I <i>like</i> this kind of fight. All my career I've had my sandcastles knocked over by small people at big companies who envy me for my freedom. The web got them out of the way. And I'm determined to keep it that way, or I'll just let them knock my sites off the air. ",
+            "created": "Fri, 23 Feb 2018 18:02:17 GMT"
+        },
+        {
+            "text": "I saw <a href=\"https://en.wikipedia.org/wiki/Darkest_Hour_(film)\">Darkest Hour</a> the other day. If you've seen it, you understand <a href=\"https://youtu.be/GRU9tUpPrfc?t=2m04s\">what</a> I'm talking about. Even if I could convert the hundreds of domains I have on platforms that don't easily support HTTPS, even if it were just a matter of time, cost, volume of work, even if it were easy and quick as they say, <i>I still wouldn't do it. </i>I love the web. It gave me another 24 years as an independent software developer. What a gift. I'm not going to abandon it now. If this is where my 24-year run ends, so be it. There's no negotiating about this. Some things are absolute.",
+            "created": "Fri, 23 Feb 2018 18:03:41 GMT"
+        }
+    ]
+}
