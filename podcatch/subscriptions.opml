@@ -3,7 +3,7 @@
 	<head>
 		<title>My Podcast Feeds</title>
 		<dateCreated>Mon, 06 Apr 2015 16:19:35 GMT</dateCreated>
-		<dateModified>Fri, 23 Feb 2018 01:56:24 GMT</dateModified>
+		<dateModified>Sat, 24 Feb 2018 04:13:32 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="99% Invisible" title="99% Invisible" type="rss" xmlUrl="http://feeds.99percentinvisible.org/99percentinvisible" />
@@ -11,6 +11,7 @@
 		<outline text="Accidental Technology" title="Accidental Technology" type="rss" xmlUrl="http://atp.fm/episodes?format=rss" />
 		<outline text="Ahead of their Time" title="Ahead of their Time" type="rss" xmlUrl="http://fivethirtyeight.com/tag/ahead-of-their-time/feed/" />
 		<outline text="All Songs Considered" title="All Songs Considered" type="rss" xmlUrl="http://www.npr.org/rss/podcast.php?id=510019" />
+		<outline text="All-in with Chris Hayes" title="All-in with Chris Hayes" type="rss" xmlUrl="http://podcastfeeds.nbcnews.com/drone/api/query/audio/podcast/1.0/MSNBC-All-In.xml" />
 		<outline text="Ars Technica" title="Ars Technica" type="rss" xmlUrl="http://arsdecrypted.libsyn.com/rss" />
 		<outline text="BBC Documentary" title="BBC Documentary" type="rss" xmlUrl="http://podcasts.files.bbci.co.uk/p02nq0lx.rss" />
 		<outline text="Benjamen Walker’s Theory of Everything" title="Benjamen Walker’s Theory of Everything" type="rss" xmlUrl="http://feeds.prx.org/TOE" />
@@ -67,6 +68,7 @@
 		<outline text="Planet Money" title="Planet Money" type="rss" xmlUrl="http://www.npr.org/rss/podcast.php?id=510289" />
 		<outline text="Product People" title="Product People" type="rss" xmlUrl="http://productpeople.tv/feed/" />
 		<outline text="ProPublica" title="ProPublica" type="rss" xmlUrl="http://feeds.propublica.org/propublica/podcast" />
+		<outline text="Rachel Maddow" title="Rachel Maddow" type="rss" xmlUrl="http://podcastfeeds.nbcnews.com/audio/podcast/MSNBC-MADDOW-NETCAST-MP3.xml" />
 		<outline text="Radio Diaries" title="Radio Diaries" type="rss" xmlUrl="http://feed.radiodiaries.org/radio-diaries" />
 		<outline text="Radio Open Source" title="Radio Open Source" type="rss" xmlUrl="http://podcatch.com/feeds/radioOpenSource.xml" />
 		<outline text="Radiolab from WNYC" title="Radiolab from WNYC" type="rss" xmlUrl="http://feeds.wnyc.org/radiolab" />
