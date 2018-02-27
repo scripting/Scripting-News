@@ -1,0 +1,41 @@
+{
+    "text": "BigCo's out of the web's driver seat",
+    "created": "Mon, 26 Feb 2018 15:15:13 GMT",
+    "type": "outline",
+    "description": "Let's change our thinking about what is and isn't the web. It's not defined by the software used to browse it, it's defined by a spec. When we start from there we reach a different, better conclusion imho.",
+    "subs": [
+        {
+            "text": "I've been writing a lot about <a href=\"http://this.how/googleAndHttp/\">Google</a> and <a href=\"http://scripting.com/2018/02/23/174914.html\">HTTP</a>, but getting them to ease up on the web is not the only option. We could change how we view Chrome and Firefox. Instead of thinking of them as web browsers, think of them as browsing a new thing that's a descendant of the web, a fork of the web but not the whole web.<i> </i>Which creates a need for web browsers, i.e. ones that include parts of the pre-2018 web that Google is deprecating. If they don't budge, and my guess is they won't, this will be our only recourse. But it may not be that bad.",
+            "created": "Mon, 26 Feb 2018 15:09:42 GMT",
+            "image": "http://scripting.com/images/2018/02/26/snowboarder.png"
+        },
+        {
+            "text": "Just putting that out there. I'm not going to create this web browser, at least not yet. I have an idea that it could be created using <a href=\"https://electronjs.org/\">Electron</a>. Not sure. Ironic that the browser inside Electron is (drum roll) Chrome. What made me think of this was a documentary on Olympic snowboarding and how the racers sometimes improvise even if it means losing the competition. They interviewed leading snowboarders, and they emphatically said these are the values of the sport. I loved the way they talked about it and it struck a chord. Well imho they are the values of  what web developers do. ",
+            "created": "Mon, 26 Feb 2018 15:29:25 GMT"
+        },
+        {
+            "text": "So perhaps we are called on to improvise. It could be the best thing ever. The web might have more than one life. We don't know. But getting the BigCo's out of the <a href=\"https://www.youtube.com/watch?v=M30XXrrK3lY\">driver's seat</a>, that alone would be worth trying out just to see what it feels like. It might be like 1995? :boom:",
+            "created": "Mon, 26 Feb 2018 15:30:08 GMT"
+        },
+        {
+            "text": "Another analogy. There's a concept of a pre-CBS Fender guitar. Back in the day, guitarists wanted the old <a href=\"https://en.wikipedia.org/wiki/Fender_Telecaster\">Telecasters</a> and <a href=\"https://en.wikipedia.org/wiki/Fender_Stratocaster\">Stratocasters</a>, not the new ones, made by Fender after they were <a href=\"https://reverb.com/news/fender-and-the-cbs-takeover\">acquired</a> by CBS. In this analogy, you and I are guitarists, the web is <a href=\"https://twitter.com/xecretcode/status/968229861633470466\">Fender</a>, and CBS is Google.",
+            "created": "Mon, 26 Feb 2018 15:31:50 GMT"
+        },
+        {
+            "text": "<b>More ideas...</b>",
+            "created": "Mon, 26 Feb 2018 21:16:46 GMT"
+        },
+        {
+            "text": "I'd like to tackle other problems having to do with the integrity of the web. If the issue is assuring that what you're looking at is the original content, I think there must be a less heavy-handed solution than replacing the web server. Why not store a checksum in some place you can only get to if you're authentic (use your Twitter or Facebook account, for example). Then the browser gets the checksum and compares it with the checksum it computed. Of course the location that stores the checksum is accessed over HTTPS. Goodbye man-in-the-middle attacks. (Obviously I haven't vetted this, I'm not by any means a security expert.)",
+            "created": "Mon, 26 Feb 2018 21:13:13 GMT"
+        },
+        {
+            "text": "Another idea I'd like to try is a new concept I call <i>retired domains.</i> I don't think it should be possible to buy gawker.com, for example, and put whatever you like there. Just as sports teams retire numbers, I'd like to make it possible to retire domains. Maybe you have to pay a comparatively large amount of money to retire a domain, say $10K. But at that point the content of the site is downloaded, stored on a hardened server, and the domain is automatically renewed every year, for perpetuity. Go ahead and make it work over HTTPS. I think this is technologically and financially doable. I would definitely pay $10K to freeze certain domains. I'd sign an agreement that survives me. ",
+            "created": "Mon, 26 Feb 2018 15:35:28 GMT"
+        },
+        {
+            "text": "I'm sure there are other things. Maybe the web will become an entrepreneurial space now that Chrome and Firefox are effectively withdrawing from it.",
+            "created": "Mon, 26 Feb 2018 15:37:27 GMT"
+        }
+    ]
+}
