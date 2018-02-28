@@ -1,0 +1,40 @@
+{
+    "text": "What is a web browser?",
+    "created": "Wed, 28 Feb 2018 02:29:36 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Being a web browser is simple:",
+            "created": "Wed, 28 Feb 2018 02:29:43 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "What you do: Browse.",
+                    "created": "Wed, 28 Feb 2018 02:30:16 GMT"
+                },
+                {
+                    "text": "What you browse: The web.",
+                    "created": "Wed, 28 Feb 2018 02:30:17 GMT"
+                }
+            ]
+        },
+        {
+            "text": "The web consists of a format and a protocol:",
+            "created": "Wed, 28 Feb 2018 02:30:08 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "Format: HTML.",
+                    "created": "Wed, 28 Feb 2018 02:30:19 GMT"
+                },
+                {
+                    "text": "Protocol: HTTP.",
+                    "created": "Wed, 28 Feb 2018 02:30:20 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Everything else is extra."
+        }
+    ]
+}
