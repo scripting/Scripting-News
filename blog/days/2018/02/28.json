@@ -1,0 +1,67 @@
+{
+    "text": "February 28",
+    "created": "Wed, 28 Feb 2018 14:26:03 GMT",
+    "name": "28",
+    "subs": [
+        {
+            "text": "Drag and drop doesn't need a target. If you want an app to handle drag and drop, if it can do things other than edit files, just be willing to accept a drop anywhere in the window. When the user lets up, confirm that's what they intended to do. Prior art is Google's <a href=\"https://images.google.com/\">image search</a> page.  ",
+            "created": "Wed, 28 Feb 2018 17:08:37 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Re the NRA. <a href=\"https://www.npr.org/sections/thetwo-way/2018/02/28/589436112/dicks-sporting-goods-ends-sale-of-assault-style-rifles-citing-florida-shooting\">Dick's Sporting Goods</a> is no longer selling assault rifles. And won't sell guns to people under 21. This is a huge deal. We need more like this. But -- trying to get <a href=\"https://www.mediaite.com/online/roku-keeps-nratv-despite-pressure-to-drop-channel-we-dont-censor-based-on-viewpoint/\">Roku</a> to drop NRA TV, that's not only not useful, it's very very very bad. The <a href=\"https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution\">First Amendment</a> is super important, as is <a href=\"https://en.wikipedia.org/wiki/Golden_Rule\">The Golden Rule</a>. Speech is a good thing, even if you detest what they're saying. And discounts to NRA members? Please that's harmless. NRA members are not the problem. Go to the source. Picket gun stores until they follow DSG's lead. <i>That</i> will save lives. Measure success for now as stopping sales of new weapons of war. ",
+            "created": "Wed, 28 Feb 2018 14:29:32 GMT",
+            "type": "outline",
+            "image": "http://static.scripting.com/larryKing/images/2013/08/28/guns.gif"
+        },
+        {
+            "text": "Google is famous for its AI and machine learning. With that in mind, how much trouble would it be for Google to determine that \"Little Card Editor\" never asks for a credit card number, and they can stop lying to users saying that it might.",
+            "created": "Wed, 28 Feb 2018 14:26:04 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Bottom line, things that are free are not safe. You have to use your mind at all times when using the web (or Gmail for that matter). Google can if they want make a browser that's like Disneyland. But to try to turn the open web into Disneyland, that's a travesty.",
+            "created": "Wed, 28 Feb 2018 14:55:29 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "RSS is <a href=\"https://twitter.com/kaytejudge/status/968758312295596032\">everywhere</a>.",
+            "created": "Wed, 28 Feb 2018 16:39:19 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/kaytejudge/status/968758312295596032"
+        },
+        {
+            "text": "Making a browser out of Electron",
+            "created": "Wed, 28 Feb 2018 16:47:05 GMT",
+            "type": "outline",
+            "description": "An email from friend Allen Wirfs-Brock saying Brave browser is an Electron app. So it's possible to create a web browser that doesn't work like Chrome, without starting from scratch.",
+            "subs": [
+                {
+                    "text": "An email from friend <a href=\"http://www.wirfs-brock.com/allen/\">Allen Wirfs-Brock</a>, one of the most interesting emails I've ever received. Seriously. ",
+                    "created": "Wed, 28 Feb 2018 16:42:54 GMT",
+                    "subs": [
+                        {
+                            "text": "Dave, I saw your tweet about building a browser by using <a href=\"https://electronjs.org/\">Electron</a> hosting Chromium.  You know, that is exactly how Brendan Eich’s <a href=\"https://brave.com/\">Brave</a> browser is implemented.  I highly recommend it as an alternative to Chrome.",
+                            "created": "Wed, 28 Feb 2018 16:43:17 GMT"
+                        },
+                        {
+                            "text": "Brave very much thinks of itself as an “user agent” and that the user is the ultimate authority on what the browser does.  For example, all of their ad blocking and tracking protection (they call these shields)  mechanisms are  easily user enabled or disabled globally or  on a per site basis."
+                        },
+                        {
+                            "text": "I suspect it wouldn’t be hard to define “shields” that instead of simply marking http sites as “insecure”did an alert on first user input to http sites or have other various levels of protection. It’s the sort of user control that I think they would be on-board with once they fully understood the user perspective.  (On the other hand they are immersed  in the Bay Area's HTTPS-should-be-used-everywhere culture so they might not immediately get it.)",
+                            "created": "Wed, 28 Feb 2018 16:44:28 GMT"
+                        },
+                        {
+                            "text": "In either case, their most likely immediate response would be “it's open source, do the work and submit a pull request”.  That is easier said then done, but you might want to take a look at what it would actually take.",
+                            "created": "Wed, 28 Feb 2018 16:54:41 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "It's exciting to know that it's possible to build a useful browser with Electron. Thanks Allen! DW",
+                    "created": "Wed, 28 Feb 2018 16:45:25 GMT"
+                }
+            ]
+        }
+    ]
+}
