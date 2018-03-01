@@ -1,0 +1,31 @@
+{
+    "text": "Making a browser out of Electron",
+    "created": "Wed, 28 Feb 2018 16:42:48 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "An email from friend <a href=\"http://www.wirfs-brock.com/allen/\">Allen Wirfs-Brock</a>, one of the most interesting emails I've ever received. Seriously. ",
+            "created": "Wed, 28 Feb 2018 16:42:54 GMT",
+            "subs": [
+                {
+                    "text": "I saw your tweet about building a browser by using Electron hosting Chromium.  You know, that is exactly how Brendan Eich’s Brave browser is implemented.  I highly recommend it as an alternative to Chrome.",
+                    "created": "Wed, 28 Feb 2018 16:43:17 GMT"
+                },
+                {
+                    "text": "Brave very much thinks of itself as an “user agent” and that the user is the ultimate authority on what the browser does.  For example, all of their ad blocking and tracking protection (they call these shields)  mechanisms are  easily user enabled or disabled globally or  on a per site basis."
+                },
+                {
+                    "text": "I suspect it wouldn’t be hard to define “shields” that instead of simply marking http sites as “insecure”did an alert on first user input to http sites or have other various levels of protection. It’s the sort of user control that I think they would be on-board with once they fully understood the user perspective.  (On the other hand they are immersed  in the Bay Area's HTTPS-should-be-used-everywhere culture so they might not immediately get it.)",
+                    "created": "Wed, 28 Feb 2018 16:44:28 GMT"
+                },
+                {
+                    "text": "In either case, their most likely immediate response would be “it open source, do the work and submit a pull request”.  That is easier said then done, but you might want to take a look at what it would actually take."
+                }
+            ]
+        },
+        {
+            "text": "It's exciting to know that it's possible to build a useful browser with Electron. My investment in an Electron shell might just pay off. I have a good framework. ",
+            "created": "Wed, 28 Feb 2018 16:45:25 GMT"
+        }
+    ]
+}
