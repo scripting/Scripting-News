@@ -1,0 +1,67 @@
+{
+    "text": "March 8",
+    "created": "Thu, 08 Mar 2018 13:22:53 GMT",
+    "name": "08",
+    "subs": [
+        {
+            "text": "Podcast metadata varies widely. Here's a <a href=\"http://scripting.com/images/2018/03/08/podcastMetadataScreen.png\">screen shot</a> of four podcasts.  ",
+            "created": "Thu, 08 Mar 2018 19:12:20 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I just updated the Google and <a href=\"https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol\">HTTP</a> faq, adding a <a href=\"http://this.how/googleAndHttp/#1520523527000\">new section</a> about the web and safety, and quite a few other edits and reorgs.",
+            "created": "Thu, 08 Mar 2018 15:43:46 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/07/25/brienneOfTarthActionFigure.png"
+        },
+        {
+            "text": "Matt Webb is a <a href=\"https://twitter.com/genmon/status/971673956829859840\">new voice</a> in opposition to Google's treating the web as if it were a corporate platform. I added <a href=\"https://twitter.com/davewiner/status/971735689741176832\">this</a> to his tweets: \"Google is trying to force people to change. I can accept them doing that for APIs and platforms they created, but not for the web. They are a guest here, as we all are. Guests don't make the rules.\"",
+            "created": "Thu, 08 Mar 2018 13:22:54 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/genmon/status/971673956829859840"
+        },
+        {
+            "text": "As I read <a href=\"https://twitter.com/davewiner/status/968969856665182208\">this</a>, I kept thinking, this is the company that thinks they can run the web better than the people who were running it before (i.e. no one).",
+            "created": "Thu, 08 Mar 2018 16:23:38 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/968969856665182208"
+        },
+        {
+            "text": "I often get asked if I hate <a href=\"https://www.theverge.com/2018/3/8/17095078/google-amp-accelerated-mobile-page-announcement-standard-web-packaging-urls\">AMP</a> -- I don't, but maybe I'm missing something. As far as I know, Google isn't trying to force people to use it, rather providing incentives to do so.  This is a key difference.",
+            "created": "Fri, 09 Mar 2018 03:38:10 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "But the web isn't safe!",
+            "created": "Thu, 08 Mar 2018 19:03:11 GMT",
+            "type": "outline",
+            "description": "Lots of things aren't safe. Skiing. Bike riding in Manhattan. We do them anyway. You can't be safe all the time. Life itself isn't safe. ",
+            "subs": [
+                {
+                    "text": "<i>A new <a href=\"http://this.how/googleAndHttp/#1520523527000\">section</a> in the Google and HTTP faq, cross-posted.</i>",
+                    "created": "Thu, 08 Mar 2018 19:03:54 GMT"
+                },
+                {
+                    "text": "Twitter and Facebook are like <a href=\"https://en.wikipedia.org/wiki/AOL\">AOL</a> in the old pre-web days. They are run by companies who are committed to provide a safe experience. They make tradeoffs for that. Limited linking. No style. Character limits. Blocking, muting, reporting, norms. Etc etc. Think of them as Disney-like experiences. ",
+                    "created": "Thu, 08 Mar 2018 15:38:53 GMT"
+                },
+                {
+                    "text": "Google says the web is not safe. That is correct. We don't want every place to be safe. So people can be wild and experiment and try out new ideas. It's why the web has been the proving ground for so much incredible stuff over its history.  ",
+                    "created": "Thu, 08 Mar 2018 15:40:00 GMT"
+                },
+                {
+                    "text": "Lots of things aren't safe. Skiing. Bike riding in Manhattan. We do them anyway. You can't be safe all the time. Life itself isn't safe. ",
+                    "created": "Thu, 08 Mar 2018 19:05:39 GMT"
+                },
+                {
+                    "text": "If Google succeeds in making the web controlled and bland, we'll just have to reinvent the web outside of Google's sphere. Let's save some time, and create the new web out of the web itself. ",
+                    "created": "Thu, 08 Mar 2018 15:40:47 GMT"
+                },
+                {
+                    "text": "PS: Of course we want parts of the web to be safe. Banking websites, for example. But my blog archive from 1997? Really there's no need for special provisions there. ",
+                    "created": "Thu, 08 Mar 2018 15:49:26 GMT"
+                }
+            ]
+        }
+    ]
+}
