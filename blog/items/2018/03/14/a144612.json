@@ -1,0 +1,31 @@
+{
+    "text": "Umlauts in River5",
+    "created": "Wed, 14 Mar 2018 14:46:12 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/68\">Braintrust query</a>: Christoph Knopf reports re River5 a problem with reading umlauts.",
+            "created": "Wed, 14 Mar 2018 14:36:21 GMT"
+        },
+        {
+            "text": " He offers a <a href=\"https://www.presseportal.de/rss/dienststelle_110972.rss2\">feed</a> that illustrates the problem. ",
+            "created": "Wed, 14 Mar 2018 14:48:12 GMT"
+        },
+        {
+            "text": "I wrote a simple Node app that reads the file using the standard request package, and what he reports is observed. The umlauts appear as � characters. ",
+            "created": "Wed, 14 Mar 2018 14:46:58 GMT"
+        },
+        {
+            "text": "I found this Stack Overflow <a href=\"https://stackoverflow.com/questions/32958475/node-js-request-turns-umlauts-to\">thread</a> that says the answer is to use <a href=\"https://www.npmjs.com/package/iconv-lite\">iconv-lite</a>. Others seem to confirm this is the way to go. ",
+            "created": "Wed, 14 Mar 2018 14:47:06 GMT"
+        },
+        {
+            "text": "Before I contemplate making a change to \"RIver5\", I wanted to get the opinion of the braintrust. ",
+            "created": "Wed, 14 Mar 2018 14:46:46 GMT"
+        },
+        {
+            "text": "Thanks in advance. ",
+            "created": "Wed, 14 Mar 2018 14:46:51 GMT"
+        }
+    ]
+}
