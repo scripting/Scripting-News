@@ -1,0 +1,5 @@
+{
+    "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/68\">Braintrust query</a>: Christoph Knopf reports re River5 a problem with reading umlauts. He offers a <a href=\"https://www.presseportal.de/rss/dienststelle_110972.rss2\">feed</a> that illustrates the problem. I wrote a simple Node app that reads the file using the standard request package, and what he reports is observed. The umlauts appear as � characters. I found this Stack Overflow <a href=\"https://stackoverflow.com/questions/32958475/node-js-request-turns-umlauts-to\">thread</a> that says the answer is to use <a href=\"https://www.npmjs.com/package/iconv-lite\">iconv-lite</a>. Others seem to confirm this is the way to go. Before I contemplate making a change to RIver5, I wanted to get the opinion of the braintrust. Thanks in advance. ",
+    "created": "Wed, 14 Mar 2018 14:36:21 GMT",
+    "type": "outline"
+}
