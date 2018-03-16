@@ -1,0 +1,100 @@
+{
+    "text": "March 15",
+    "created": "Thu, 15 Mar 2018 15:04:12 GMT",
+    "name": "15",
+    "subs": [
+        {
+            "text": "The other day a friend asked for a reference that showed the role I played in the bootstrap of podcasting. I looked around, and most of the stories written by journalists are wildly innaccurate. Then I realized there's a better way to show the work. I archived the earliest podcasts so they'd be <a href=\"http://scripting.com/2017/03/07/theEarliestLydonPodcasts.html\">easily found</a>. This is imho the best anchor point. There's no question these are podcasts. They were a collaboration between <a href=\"http://scripting.com/2015/09/30/aPodcastAboutPodcasting.html\">myself</a>, Chris Lydon and <a href=\"http://www.dtvgroup.com/Chris_Lydon/\">Bob Doyle</a>. There was important work that predated it, with myself and Adam Curry, and podcasting came together as a growing medium in the summer of 2004 after the DNC with the iPodder group, all independent of what we were doing at Harvard. But these podcasts, the BloggerCon sessions, and the Berkman Thursday meetups, all were central to the bootstrap. Others have managed to insert themselves into the story, they don't belong there. It's important, if we want to create more open media types, to tell the story accurately.",
+            "created": "Thu, 15 Mar 2018 20:32:17 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/12/17/melo.png"
+        },
+        {
+            "text": "Linkrot is a kind of API breakage",
+            "created": "Thu, 15 Mar 2018 15:14:59 GMT",
+            "type": "outline",
+            "description": "Users don't like steps backwards. This applies equally to word processers and spreadsheets and websites. It's all software.",
+            "subs": [
+                {
+                    "text": "There are APIs everywhere you look on the web.  ",
+                    "created": "Thu, 15 Mar 2018 15:20:20 GMT",
+                    "image": "http://scripting.com/images/2018/03/15/weTryHarder.png"
+                },
+                {
+                    "text": "Yesterday, Jay Rosen <a href=\"https://twitter.com/jayrosen_nyu/status/974014807329288192\">reported</a> on Twitter that the NYT, in a redesign, had eliminated its paragraph-level permalinks (like the ones <a href=\"http://scripting.com/2005/11/30.html#When:9:20:49PM\">you</a> <a href=\"http://scripting.com/2018/03/03/135246.html\">see</a> on Scripting News). He was peeved, for sure, and imho had every right to be. I <a href=\"https://twitter.com/davewiner/status/974067062661439488\">asked</a> if this broke existing links, i.e. had he been using the feature (I assume so) and did the links still point to paragraphs on the NYT site (yes, of course they pointed there, but did the links work when clicked). It's hard to phrase this question for non-developers, but the issue is real.",
+                    "created": "Thu, 15 Mar 2018 15:20:33 GMT"
+                },
+                {
+                    "text": "Users don't like steps backwards. This applies equally to word processers and websites. It's all software. Only in this case they're developers too because URLs are an API, and as we know APIs break. :boom:",
+                    "created": "Thu, 15 Mar 2018 18:15:35 GMT"
+                },
+                {
+                    "text": "Does the NYT have an obligation to continue to support this feature? Of course not. But one of the unwritten rules of the web, going way back, is that <a href=\"https://en.wikipedia.org/wiki/Link_rot\">linkrot</a> <a href=\"https://ratcreature.livejournal.com/573375.html\">sucks</a> and we should do everything we can to minimize it.  The NYT has been conspicuously <i>excellent</i> at not breaking links, btw, over the 20-plus year history of news on the web. ",
+                    "created": "Thu, 15 Mar 2018 15:15:13 GMT"
+                },
+                {
+                    "text": "To get an idea of how bad linkrot is, here's an <a href=\"http://scripting.com/1999/11.html\">archive page</a> for this blog for November 1999. Try clicking on some links. So many of them are broken. ",
+                    "created": "Thu, 15 Mar 2018 15:19:11 GMT"
+                },
+                {
+                    "text": "PS: As far as I'm concerned credit for the concept and the term <i>linkrot</i> goes to <a href=\"https://en.wikipedia.org/wiki/Jakob_Nielsen_(usability_consultant)\">Jakob Nielsen</a>, but it's hard to find any references to his <a href=\"https://www.nngroup.com/articles/fighting-linkrot/\">authoritative piece</a> on the subject. How nice that his 20-year-old piece is still there and renders nicely in a 2018 browser. It would be ironic if it had been lost to linkrot. :rocket:",
+                    "created": "Thu, 15 Mar 2018 15:31:22 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Umlauts, day 2",
+            "created": "Thu, 15 Mar 2018 15:06:07 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Re: yesterday's River5 <a href=\"https://github.com/scripting/Scripting-News/issues/68\">issue</a>.",
+                    "created": "Thu, 15 Mar 2018 15:09:34 GMT"
+                },
+                {
+                    "text": "Okay we know what the problem is, and the solution as well.",
+                    "created": "Thu, 15 Mar 2018 15:06:16 GMT"
+                },
+                {
+                    "text": "Of course it's an encoding issue. ",
+                    "created": "Thu, 15 Mar 2018 15:06:28 GMT"
+                },
+                {
+                    "text": "Explained <a href=\"https://github.com/scripting/Scripting-News/issues/68#issuecomment-373121395\">here</a>. ",
+                    "created": "Thu, 15 Mar 2018 15:06:35 GMT"
+                }
+            ]
+        },
+        {
+            "text": "My eyes, day 2",
+            "created": "Thu, 15 Mar 2018 15:04:13 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "My <a href=\"http://scripting.com/2018/03/14/140221.html\">eyes</a> don't work very well this week. As a result I can barely see when I'm out walking. To look at the price on a cash register I have to put my face in it. Add to that my hearing isn't so great, it's like a comedy when I'm out and about.",
+                    "created": "Thu, 15 Mar 2018 15:04:16 GMT"
+                },
+                {
+                    "text": "It's kind of fun to walk around Manhattan barely being able to see. No chance of eye contact. Which means I win every faceoff. That's one of the rules of being a pedestrian in NY, if fail to avert your eyes, you lose. ​",
+                    "created": "Thu, 15 Mar 2018 15:08:28 GMT"
+                },
+                {
+                    "text": "With the hearing it's age. I've had it tested and functionally it's fine.The brain, as you age, has trouble separating sounds in noisy places. So at Chipotle, for example, that plays fairly loud music as background, renders my hearing pretty much useless.",
+                    "created": "Thu, 15 Mar 2018 15:04:26 GMT"
+                },
+                {
+                    "text": "However it activates my sense of humor. And wonderment that I can function like this. I couldn't drive a car, however. And I might have trouble navigating a new neighborhood, because I can't read street signs.",
+                    "created": "Thu, 15 Mar 2018 15:04:33 GMT"
+                },
+                {
+                    "text": "Until Monday I'm kind of in limbo. ",
+                    "created": "Thu, 15 Mar 2018 15:04:57 GMT"
+                },
+                {
+                    "text": "It's bad timing because I just started working with a bunch of testers on my new product. Please stay tuned, hopefully my eyes will be back in commission next week. Until then it's going to be a lot of Netflix and book reading for Davey.",
+                    "created": "Thu, 15 Mar 2018 15:05:05 GMT"
+                }
+            ]
+        }
+    ]
+}
