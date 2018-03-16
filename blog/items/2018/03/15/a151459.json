@@ -1,0 +1,33 @@
+{
+    "text": "Linkrot is a kind of API breakage",
+    "created": "Thu, 15 Mar 2018 15:14:59 GMT",
+    "type": "outline",
+    "description": "Users don't like steps backwards. This applies equally to word processers and spreadsheets and websites. It's all software.",
+    "subs": [
+        {
+            "text": "There are APIs everywhere you look on the web.  ",
+            "created": "Thu, 15 Mar 2018 15:20:20 GMT",
+            "image": "http://scripting.com/images/2018/03/15/weTryHarder.png"
+        },
+        {
+            "text": "Yesterday, Jay Rosen <a href=\"https://twitter.com/jayrosen_nyu/status/974014807329288192\">reported</a> on Twitter that the NYT, in a redesign, had eliminated its paragraph-level permalinks (like the ones <a href=\"http://scripting.com/2005/11/30.html#When:9:20:49PM\">you</a> <a href=\"http://scripting.com/2018/03/03/135246.html\">see</a> on Scripting News). He was peeved, for sure, and imho had every right to be. I <a href=\"https://twitter.com/davewiner/status/974067062661439488\">asked</a> if this broke existing links, i.e. had he been using the feature (I assume so) and did the links still point to paragraphs on the NYT site (yes, of course they pointed there, but did the links work when clicked). It's hard to phrase this question for non-developers, but the issue is real.",
+            "created": "Thu, 15 Mar 2018 15:20:33 GMT"
+        },
+        {
+            "text": "Users don't like steps backwards. This applies equally to word processers and websites. It's all software. Only in this case they're developers too because URLs are an API, and as we know APIs break. :boom:",
+            "created": "Thu, 15 Mar 2018 18:15:35 GMT"
+        },
+        {
+            "text": "Does the NYT have an obligation to continue to support this feature? Of course not. But one of the unwritten rules of the web, going way back, is that <a href=\"https://en.wikipedia.org/wiki/Link_rot\">linkrot</a> <a href=\"https://ratcreature.livejournal.com/573375.html\">sucks</a> and we should do everything we can to minimize it.  The NYT has been conspicuously <i>excellent</i> at not breaking links, btw, over the 20-plus year history of news on the web. ",
+            "created": "Thu, 15 Mar 2018 15:15:13 GMT"
+        },
+        {
+            "text": "To get an idea of how bad linkrot is, here's an <a href=\"http://scripting.com/1999/11.html\">archive page</a> for this blog for November 1999. Try clicking on some links. So many of them are broken. ",
+            "created": "Thu, 15 Mar 2018 15:19:11 GMT"
+        },
+        {
+            "text": "PS: As far as I'm concerned credit for the concept and the term <i>linkrot</i> goes to <a href=\"https://en.wikipedia.org/wiki/Jakob_Nielsen_(usability_consultant)\">Jakob Nielsen</a>, but it's hard to find any references to his <a href=\"https://www.nngroup.com/articles/fighting-linkrot/\">authoritative piece</a> on the subject. How nice that his 20-year-old piece is still there and renders nicely in a 2018 browser. It would be ironic if it had been lost to linkrot. :rocket:",
+            "created": "Thu, 15 Mar 2018 15:31:22 GMT"
+        }
+    ]
+}
