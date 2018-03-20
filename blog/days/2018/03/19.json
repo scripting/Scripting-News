@@ -1,0 +1,115 @@
+{
+    "text": "March 19",
+    "created": "Mon, 19 Mar 2018 13:25:44 GMT",
+    "name": "19",
+    "subs": [
+        {
+            "text": "I like public transit. I don't use cars much. I identify with the <a href=\"https://www.reuters.com/article/us-autos-selfdriving-uber/woman-dies-in-arizona-after-being-hit-by-uber-self-driving-suv-idUSKBN1GV296\">pedestrian</a> who was killed in Tempe. I often cross streets outside crosswalks. I ride bikes in the city. I depend on interaction with drivers to stay safe. No one asked me if I want self-driving cars. If they did I'd say no. Let's invest in mass transit, and concentrate people, so we have a chance at saving our species. More reliance on cars is the wrong way to go. ",
+            "created": "Mon, 19 Mar 2018 20:37:48 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/03/19/citibike.png"
+        },
+        {
+            "text": "George Girton: \"OMG thank you for posting such a <a href=\"https://www.theguardian.com/technology/2018/mar/16/powder-mountain-ski-resort-summit-elite-club-rich-millennials?CMP=share_btn_tw&utm_source=digg&utm_medium=email\">funny article</a> about Powder Mountain, formerly a ski resort in a relatively flat area of the Wasatch Mountains in Utah. I skied there about 30 years ago with my young daughter. We had a great time. In a good year, they still get enough snow that you can ski there. I think the only ski areas  for sale these days are the ones that aren’t really worth anything anymore.(At least as ski areas). Anyway, thanks for that Guardian article, what a send up. That was great!\"",
+            "created": "Mon, 19 Mar 2018 14:29:21 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I'm no fan of Facebook, but...",
+            "created": "Mon, 19 Mar 2018 20:01:18 GMT",
+            "type": "outline",
+            "description": "We may not like what Cambridge Analytica did with the data, but I don't think they did anything that every other company that makes products that work with Facebook doesn't already do. Including of course Facebook itself. ",
+            "subs": [
+                {
+                    "text": "I've been writing about tech companies mishandling PR catastrophes for the whole time I've been blogging, about 24 years. The first one was <a href=\"http://scripting.com/davenet/1994/12/26/intelgate.html\">Intel</a>, with their <a href=\"http://threads2.scripting.com/2013/june/whyTechRespondsSoPoorlyToPrProblems\">Pentium</a> chip and its floating point errors. When it came out that it made errors at times, that would show up in Excel spreadsheets, the press had a field day. Intel protested, we've always said floating point has errors, it's not news, but they ended up losing the argument and had to replace a lot of chips. ",
+                    "created": "Mon, 19 Mar 2018 20:01:30 GMT",
+                    "image": "http://scripting.com/images/2017/10/13/fatcat.png"
+                },
+                {
+                    "text": "Microsoft of the 1990s was a series of self-inflicted PR disasters, culminating in a consent decree. They seemed to feel at the time, about the Windows economy, the same way President Trump feels today about the Department of Justice. ",
+                    "created": "Mon, 19 Mar 2018 20:03:33 GMT"
+                },
+                {
+                    "text": "Now Facebook is dealing with <a href=\"https://techcrunch.com/2018/03/18/move-fast-and-fake-things/\">something</a> similar. They have been providing free of charge, through their API, the ability to crawl the social graph and get info about many times more people than use your app. Like Intel with the Pentium floating point problem, this isn't news. But the press is reporting it as a data breach, and implying that the users weren't asked for permission, when they certainly were, and certainly gave it. The problem imho isn't what Facebook does, it's the naïveté of users, and the press not knowing or caring how the systems actually work. This should have been a story a long time ago. Users of Facebook have known about it for a long time. There's even a <a href=\"https://duckduckgo.com/?q=On+Facebook+you%27re+not+the+customer%2C+you%27re+the+product&t=hb&ia=web\">cute way</a> to explain it. \"On Facebook you're not the customer, you're the product.\"",
+                    "created": "Mon, 19 Mar 2018 20:04:28 GMT"
+                },
+                {
+                    "text": "I've written software against the Facebook API, and accessing information about the social graph is part of the API. We may not like what Cambridge Analytica did with the data, but I don't think they did anything that every other company that makes products that work with Facebook doesn't already do. Including of course Facebook itself. ",
+                    "created": "Mon, 19 Mar 2018 20:07:23 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Techmeme's new podcast",
+            "created": "Mon, 19 Mar 2018 13:28:48 GMT",
+            "type": "outline",
+            "description": "The Techmeme podcast takes a different approach, one more like radio news programs of the past, where the presenter, Brian McCullough, reads summaries of stories that are presumably the top items for the day on Techmeme. ",
+            "subs": [
+                {
+                    "text": "I've listened to a couple of episodes of the new <a href=\"https://techmeme.com/techmeme-ride-home-feed\">Techmeme podcast</a>. I was really <a href=\"http://scripting.com/2018/03/06.html\">excited</a> to hear about it. I imagined something like the <a href=\"https://www.nytimes.com/podcasts/the-daily\">Daily podcast</a> or <a href=\"https://www.npr.org/podcasts/381444908/fresh-air\">Fresh Air</a>, or any number of podcasts built around an interview with an interesting person, with the focus on tech. The Techmeme podcast takes a different approach, one more like radio news programs of the past, where the presenter, <a href=\"https://twitter.com/brianmcc\">Brian McCullough</a>, reads summaries of stories that are presumably the top items for the day on <a href=\"https://www.techmeme.com/\">Techmeme</a>.  ",
+                    "created": "Mon, 19 Mar 2018 13:25:45 GMT",
+                    "image": "http://scripting.com/images/2018/03/19/mrWhite.png"
+                },
+                {
+                    "text": "Called <i>Ride Home,</i> each episode begins with the headlines followed by what I assume is its positioning statement:  \"Here's what you missed today in the world of tech,\" followed by a synopsis of each story, read from a script. There are other podcasts that assume this voice -- notably the <a href=\"http://www.slate.com/articles/podcasts/whistlestop.html\">Whistlestop podcast</a> with CBS newsperson John Dickerson.  ",
+                    "created": "Mon, 19 Mar 2018 13:33:50 GMT"
+                },
+                {
+                    "text": "I want to like this podcast because I'm a longtime reader of Techmeme, and a fan of McCullough's <a href=\"http://www.internethistorypodcast.com/\">Internet History Podcast</a>. I was hoping it would be like a short version of that podcast every day, a candid interview with a tech newsmaker or a reporter at one of the pubs that Techmeme covers. I will keep listening because this is potentially an important podcast. ",
+                    "created": "Mon, 19 Mar 2018 13:37:18 GMT"
+                },
+                {
+                    "text": "On the other hand, I understand that this is the format they would arrive at by adapting Techmeme to a podcast. But sometimes a literal translation isn't the most useful approach. Techmeme is of course useful as a web page, refreshed many times during the day. Voice offers an opportunity to approach the mind through a different channel, to spread new ideas, more than \"what you missed.\" ",
+                    "created": "Mon, 19 Mar 2018 14:10:15 GMT"
+                },
+                {
+                    "text": "It is of course one of the podcasts available at \"podcatch.com\". ",
+                    "created": "Mon, 19 Mar 2018 13:40:19 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Eye report",
+            "created": "Mon, 19 Mar 2018 16:05:11 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "My right eye is much better.",
+                    "created": "Mon, 19 Mar 2018 16:05:18 GMT"
+                },
+                {
+                    "text": "Went to the doctor. Now I'm taking a steroid.",
+                    "created": "Mon, 19 Mar 2018 16:05:28 GMT"
+                },
+                {
+                    "text": "Next appointment on Wednesday.",
+                    "created": "Mon, 19 Mar 2018 16:05:43 GMT"
+                },
+                {
+                    "text": "Until then I can't wear the contact in the right eye.",
+                    "created": "Mon, 19 Mar 2018 16:05:50 GMT"
+                },
+                {
+                    "text": "So my vision remains very dysfunctional.",
+                    "created": "Mon, 19 Mar 2018 16:06:01 GMT"
+                },
+                {
+                    "text": "I have managed to be able to write and write code, even. ",
+                    "created": "Mon, 19 Mar 2018 16:06:10 GMT"
+                },
+                {
+                    "text": "My brain is learning to cope. At all levels. ",
+                    "created": "Mon, 19 Mar 2018 16:06:19 GMT"
+                },
+                {
+                    "text": "And the sense of humor we develop with age is helping a lot.",
+                    "created": "Mon, 19 Mar 2018 16:07:22 GMT"
+                },
+                {
+                    "text": "\"curly\"",
+                    "created": "Mon, 19 Mar 2018 16:07:40 GMT"
+                }
+            ]
+        }
+    ]
+}
