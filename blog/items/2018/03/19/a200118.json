@@ -1,0 +1,25 @@
+{
+    "text": "I'm no fan of Facebook, but...",
+    "created": "Mon, 19 Mar 2018 20:01:18 GMT",
+    "type": "outline",
+    "description": "We may not like what Cambridge Analytica did with the data, but I don't think they did anything that every other company that makes products that work with Facebook doesn't already do. Including of course Facebook itself. ",
+    "subs": [
+        {
+            "text": "I've been writing about tech companies mishandling PR catastrophes for the whole time I've been blogging, about 24 years. The first one was <a href=\"http://scripting.com/davenet/1994/12/26/intelgate.html\">Intel</a>, with their <a href=\"http://threads2.scripting.com/2013/june/whyTechRespondsSoPoorlyToPrProblems\">Pentium</a> chip and its floating point errors. When it came out that it made errors at times, that would show up in Excel spreadsheets, the press had a field day. Intel protested, we've always said floating point has errors, it's not news, but they ended up losing the argument and had to replace a lot of chips. ",
+            "created": "Mon, 19 Mar 2018 20:01:30 GMT",
+            "image": "http://scripting.com/images/2017/10/13/fatcat.png"
+        },
+        {
+            "text": "Microsoft of the 1990s was a series of self-inflicted PR disasters, culminating in a consent decree. They seemed to feel at the time, about the Windows economy, the same way President Trump feels today about the Department of Justice. ",
+            "created": "Mon, 19 Mar 2018 20:03:33 GMT"
+        },
+        {
+            "text": "Now Facebook is dealing with <a href=\"https://techcrunch.com/2018/03/18/move-fast-and-fake-things/\">something</a> similar. They have been providing free of charge, through their API, the ability to crawl the social graph and get info about many times more people than use your app. Like Intel with the Pentium floating point problem, this isn't news. But the press is reporting it as a data breach, and implying that the users weren't asked for permission, when they certainly were, and certainly gave it. The problem imho isn't what Facebook does, it's the naïveté of users, and the press not knowing or caring how the systems actually work. This should have been a story a long time ago. Users of Facebook have known about it for a long time. There's even a <a href=\"https://duckduckgo.com/?q=On+Facebook+you%27re+not+the+customer%2C+you%27re+the+product&t=hb&ia=web\">cute way</a> to explain it. \"On Facebook you're not the customer, you're the product.\"",
+            "created": "Mon, 19 Mar 2018 20:04:28 GMT"
+        },
+        {
+            "text": "I've written software against the Facebook API, and accessing information about the social graph is part of the API. We may not like what Cambridge Analytica did with the data, but I don't think they did anything that every other company that makes products that work with Facebook doesn't already do. Including of course Facebook itself. ",
+            "created": "Mon, 19 Mar 2018 20:07:23 GMT"
+        }
+    ]
+}
