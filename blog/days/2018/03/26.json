@@ -1,0 +1,88 @@
+{
+    "text": "March 26",
+    "created": "Mon, 26 Mar 2018 13:20:05 GMT",
+    "name": "26",
+    "subs": [
+        {
+            "text": "In July 1979, I left a backup of my software project, a very early version of ThinkTank, at my parents' house in Queens. My brother <a href=\"http://scripting.com/images/2018/03/26/backupFrom1979.png\">just found it</a>. 8-inch floppies, formatted in UCSD-Pascal on top of CP-M. How the hell we're going to read the disks is a good question, but this is lost software. I definitely want to read it. Who knows it might even run. ;-)",
+            "created": "Mon, 26 Mar 2018 23:08:34 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Our number one biggest problem is that we divide ourselves into groups. These people are good and those are bad. Everyone does it. It's stupid. It's the bug. Stop it.",
+            "created": "Mon, 26 Mar 2018 13:39:14 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "A database of feeds",
+            "created": "Mon, 26 Mar 2018 14:55:15 GMT",
+            "type": "outline",
+            "description": "I want to separate the management of my RSS subscription list from feed readers. That way I can tell two different apps about my subscription list and they can do different things with it. Or ten different apps. ",
+            "subs": [
+                {
+                    "text": "I want to tell you about a new product I've been working on. I want to separate the management of my RSS subscription list from feed readers. That way I can tell two different apps about my subscription list and they can do different things with it. Or ten different apps. ",
+                    "created": "Mon, 26 Mar 2018 14:55:22 GMT",
+                    "image": "http://scripting.com/images/2018/03/26/soldier.png"
+                },
+                {
+                    "text": "It's a version of <a href=\"https://en.wikipedia.org/wiki/Doc_Searls\">Doc's</a> vision of <a href=\"https://en.wikipedia.org/wiki/Vendor_relationship_management\">VRM</a>. In the Facebook world it would be like telling them who my friends are. I can give access to the same information to any other app that might be competing with Facebook. I think this is a healthier situation. Tech companies are put in their proper place. Providing us with services, as opposed to defining who we are. We get to do that for ourselves, which was always the idea of the open web.",
+                    "created": "Mon, 26 Mar 2018 14:57:36 GMT"
+                },
+                {
+                    "text": "This was part of the original vision of \"RSS\". That subscription could be simple, one-button-click, and not just exportable, but dynamic. A huge difference in possibilities.",
+                    "created": "Mon, 26 Mar 2018 14:59:33 GMT"
+                },
+                {
+                    "text": "So the first step is to fill the database with feeds, and give people a way to subscribe and unsubscribe. To accept OPML files as input too. And to publish a list of subscriptions that is dynamic, that other apps will in turn subscribe to. I'm working with the developers of two new RSS reader apps that will hook into this feed database. And my own \"River5\" already does, it was built that way from the start, to accept externally defined subscription lists.  ",
+                    "created": "Mon, 26 Mar 2018 14:58:46 GMT"
+                },
+                {
+                    "text": "I'm debugging and documenting now. Should have a pointer to the app soon. :rocket:",
+                    "created": "Mon, 26 Mar 2018 15:00:07 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Apple software is broken, part 20299",
+            "created": "Mon, 26 Mar 2018 13:20:06 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I have to take my watch off to wash my hands. ",
+                    "created": "Mon, 26 Mar 2018 13:20:13 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "I put the watch in my pocket.",
+                            "created": "Mon, 26 Mar 2018 13:20:23 GMT"
+                        },
+                        {
+                            "text": "When I take it out it <a href=\"http://scripting.com/images/2018/03/26/wrongPasscode.png\">says</a>: \"Wrong passcode, open the Apple Watch app on your iPhone, go to Passcode, then tap Re-enable Passcode Entry to try again.\" Note I never entered a passcode. I'm guessing it interprets my movement as the watch is in my pocket as a human entering a passcode. ",
+                            "created": "Mon, 26 Mar 2018 13:20:29 GMT"
+                        },
+                        {
+                            "text": "I open the Apple Watch app on my iPhone. Locate the Re-enable Passcode entry, tap it. Nothing happens. Tap again. Nothing. Again, again. Nothing, nothing. ",
+                            "created": "Mon, 26 Mar 2018 13:22:22 GMT"
+                        },
+                        {
+                            "text": "Now what?",
+                            "created": "Mon, 26 Mar 2018 13:23:06 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "Believe it or not the watch has to be <a href=\"https://discussions.apple.com/thread/7898495\">erased and restored</a> from a backup. I might get around to doing that in September or October. ",
+                    "created": "Mon, 26 Mar 2018 14:39:23 GMT"
+                },
+                {
+                    "text": "Hold on, after powering off and on, I get a <a href=\"http://scripting.com/images/2018/03/26/tryAgainIn59.png\">new message</a>. ",
+                    "created": "Mon, 26 Mar 2018 14:41:23 GMT"
+                },
+                {
+                    "text": "Epilog: After 59 minutes, it let me enter the password. Moral of the story -- never put the watch in your pocket. ",
+                    "created": "Mon, 26 Mar 2018 15:54:58 GMT"
+                }
+            ]
+        }
+    ]
+}
