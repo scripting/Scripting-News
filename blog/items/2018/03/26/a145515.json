@@ -1,0 +1,29 @@
+{
+    "text": "A database of feeds",
+    "created": "Mon, 26 Mar 2018 14:55:15 GMT",
+    "type": "outline",
+    "description": "I want to separate the management of my RSS subscription list from feed readers. That way I can tell two different apps about my subscription list and they can do different things with it. Or ten different apps. ",
+    "subs": [
+        {
+            "text": "I want to tell you about a new product I've been working on. I want to separate the management of my RSS subscription list from feed readers. That way I can tell two different apps about my subscription list and they can do different things with it. Or ten different apps. ",
+            "created": "Mon, 26 Mar 2018 14:55:22 GMT",
+            "image": "http://scripting.com/images/2018/03/26/soldier.png"
+        },
+        {
+            "text": "It's a version of <a href=\"https://en.wikipedia.org/wiki/Doc_Searls\">Doc's</a> vision of <a href=\"https://en.wikipedia.org/wiki/Vendor_relationship_management\">VRM</a>. In the Facebook world it would be like telling them who my friends are. I can give access to the same information to any other app that might be competing with Facebook. I think this is a healthier situation. Tech companies are put in their proper place. Providing us with services, as opposed to defining who we are. We get to do that for ourselves, which was always the idea of the open web.",
+            "created": "Mon, 26 Mar 2018 14:57:36 GMT"
+        },
+        {
+            "text": "This was part of the original vision of \"RSS\". That subscription could be simple, one-button-click, and not just exportable, but dynamic. A huge difference in possibilities.",
+            "created": "Mon, 26 Mar 2018 14:59:33 GMT"
+        },
+        {
+            "text": "So the first step is to fill the database with feeds, and give people a way to subscribe and unsubscribe. To accept OPML files as input too. And to publish a list of subscriptions that is dynamic, that other apps will in turn subscribe to. I'm working with the developers of two new RSS reader apps that will hook into this feed database. And my own \"River5\" already does, it was built that way from the start, to accept externally defined subscription lists.  ",
+            "created": "Mon, 26 Mar 2018 14:58:46 GMT"
+        },
+        {
+            "text": "I'm debugging and documenting now. Should have a pointer to the app soon. :rocket:",
+            "created": "Mon, 26 Mar 2018 15:00:07 GMT"
+        }
+    ]
+}
