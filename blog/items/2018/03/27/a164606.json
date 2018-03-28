@@ -1,0 +1,42 @@
+{
+    "text": "First feedBase demo",
+    "created": "Tue, 27 Mar 2018 16:46:06 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/pkLbhqGO8F0\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
+            "created": "Tue, 27 Mar 2018 16:47:04 GMT"
+        },
+        {
+            "text": "Well here it is folks! A quick video demo of my new product. ",
+            "created": "Tue, 27 Mar 2018 16:46:13 GMT"
+        },
+        {
+            "text": "Here are some quick notes about what you're seeing here.",
+            "created": "Tue, 27 Mar 2018 16:47:25 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "The new app both consumes and generates OPML files. ",
+                    "created": "Tue, 27 Mar 2018 16:48:39 GMT"
+                },
+                {
+                    "text": "You upload your OPML files, exported from various feed readers you use. All the feeds are added to a database, tagged with your name. Then we produce a new OPML file of all the feeds you've subscribed to. ",
+                    "created": "Tue, 27 Mar 2018 16:48:51 GMT"
+                },
+                {
+                    "text": "There are other ways of adding and removing feeds, but this is the basic input out. You give us OPML files, we give you back a single OPML file.",
+                    "created": "Tue, 27 Mar 2018 16:49:52 GMT"
+                },
+                {
+                    "text": "<i>It's a bootstrap. </i>This is where the leap of faith comes in. The new OPML file is fairly useless until feed reader apps add the ability to subscribe to an OPML file. Right now very few have this feature. But if even just a few of them do support the feature, all of a sudden we have a bootstrap. And a new way to share flows of news on the web. This was always part of the vision of RSS. Let's see if we can make this happen now in 2018. In a very real sense, we all can be part of history, if it works. :boom:",
+                    "created": "Tue, 27 Mar 2018 16:50:16 GMT"
+                },
+                {
+                    "text": "Please watch <a href=\"https://www.youtube.com/watch?v=pkLbhqGO8F0&feature=youtu.be\">the video</a> and ask any questions you have in <a href=\"https://github.com/scripting/Scripting-News/issues/71\">this topic</a> on our GitHub site. This is the beginning of something new, and hopefully fun!",
+                    "created": "Tue, 27 Mar 2018 16:52:46 GMT"
+                }
+            ]
+        }
+    ]
+}
