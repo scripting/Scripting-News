@@ -1,0 +1,48 @@
+{
+    "text": "Here comes feedBase!",
+    "created": "Wed, 28 Mar 2018 13:19:28 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Today is the official unveiling of feedBase. ",
+            "created": "Wed, 28 Mar 2018 13:19:41 GMT",
+            "image": "http://scripting.com/2016/01/30/strongman.png"
+        },
+        {
+            "text": "The <a href=\"http://feedbase.io/\">home page</a> is the hotlist. Click on the name of a feed to see who subscribes. Click on a user's name to see what they follow. If you see something that interests you, click the Subscribe button and it will be added to your public subscription list.  ",
+            "created": "Wed, 28 Mar 2018 15:04:19 GMT"
+        },
+        {
+            "text": "The next thing to do is to <a href=\"http://scripting.com/2018/03/27/164606.html\">upload</a> an OPML file with your subscriptions. If you have more than one, upload both. We take care of duplicates. ",
+            "created": "Wed, 28 Mar 2018 13:20:15 GMT"
+        },
+        {
+            "text": "Read the <a href=\"http://this.how/feedBase/\">docs</a>.",
+            "created": "Wed, 28 Mar 2018 13:20:55 GMT"
+        },
+        {
+            "text": "And the <a href=\"https://github.com/scripting/feedBase\">technical docs</a>. Including a description of the <a href=\"https://github.com/scripting/feedBase/blob/master/docs/database.md\">database</a>, and the feedBase <a href=\"https://github.com/scripting/feedBase/blob/master/feedbase.js\">source</a> (it's written in JavaScript of course, runs in node.js).",
+            "created": "Wed, 28 Mar 2018 13:21:00 GMT"
+        },
+        {
+            "text": "If you're a developer, here's a feedBase-generated <a href=\"http://opml.feedbase.io/davewiner/main.opml\">OPML file</a> you can test with. What to do with it? Listen to the 8-minute <a href=\"http://scripting.com/2018/03/27.html#a172435\">podcast</a> I posted yesterday. It'll explain the vision. It's a bootstrap. You are part of it. :rocket:",
+            "created": "Wed, 28 Mar 2018 13:22:32 GMT"
+        },
+        {
+            "text": "Here's the <a href=\"http://opml.feedbase.io/hotlist.opml\">hotlist</a> in OPML.",
+            "created": "Wed, 28 Mar 2018 14:24:03 GMT"
+        },
+        {
+            "text": "If you have technical questions or concerns, post an <a href=\"https://github.com/scripting/feedBase/issues/new\">issue</a> on the repo.",
+            "created": "Wed, 28 Mar 2018 13:21:34 GMT"
+        },
+        {
+            "text": "If you have user questions, you can post them there too, or as a comment on the docs. ",
+            "created": "Wed, 28 Mar 2018 13:21:49 GMT"
+        },
+        {
+            "text": "I still have more work to do, and there will be more features to add. Bugs to fix. Etc. ",
+            "created": "Wed, 28 Mar 2018 13:22:06 GMT"
+        }
+    ]
+}
