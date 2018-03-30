@@ -1,0 +1,78 @@
+{
+    "text": "March 29",
+    "created": "Thu, 29 Mar 2018 14:33:31 GMT",
+    "name": "29",
+    "subs": [
+        {
+            "text": "I love this <a href=\"https://www.youtube.com/watch?v=bwz9X6ejuiQ\">GEICO commercial</a> because it reminds me how journalists talk with readers. \"Isn't it cute. The human knows how to speak.\"",
+            "created": "Fri, 30 Mar 2018 02:44:04 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=bwz9X6ejuiQ"
+        },
+        {
+            "text": "Re the <a href=\"https://en.wikipedia.org/wiki/Royal_we\">Royal We</a>. I use it in the piece below. I finally understand why it's not arrogant. When I say \"we\" I mean of course \"me\" but also the readers of this blog. I haven't been shy in my praise of Scott in the past. So if they were paying attention, they know Scott too, from the early days of the web. ",
+            "created": "Thu, 29 Mar 2018 14:54:05 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Axios has it right",
+            "created": "Thu, 29 Mar 2018 14:33:32 GMT",
+            "type": "outline",
+            "description": "On this blog, I've been writing about how Facebook is screwing all of us, Google too, but of course the press just sees how Facebook screws journalism. We all see the world through our own eyes, that's why it's so important to have a variety of different perspectives in the news. Today's journalism is a disaster in that way. ",
+            "subs": [
+                {
+                    "text": "I am a big fan of Axios, as I've <a href=\"http://scripting.com/2017/06/14.html\">written</a> in the past. They continue to impress. And they have something very important right today in this <a href=\"https://www.axios.com/media-vs-facebook-this-time-its-personal-1522183448-542df9fc-f4a5-41fe-964f-7c955bbb96c9.html\">piece</a> by Scott Rosenberg. ",
+                    "created": "Thu, 29 Mar 2018 14:33:37 GMT",
+                    "image": "http://scripting.com/2015/10/26/mrmet.png"
+                },
+                {
+                    "text": "As a user of news, who pretty regularly gets condescended to by press people, I'm fed up with them for not at least disclosing their conflict re Facebook. Just because it's huge, doesn't make it okay to ignore it.",
+                    "created": "Thu, 29 Mar 2018 14:46:15 GMT"
+                },
+                {
+                    "text": "To be clear, the press obsession with Hillary's email server, covering Trump for his entertainment value, and broadcasting the hacked Democratic emails, were all examples of press malpractice during the 2016 election. I'm pretty sure all of this <i>swamps</i> any mistakes Facebook might have made in throwing the election to Trump. ",
+                    "created": "Thu, 29 Mar 2018 14:34:05 GMT"
+                },
+                {
+                    "text": "Scott leaves bloggers out of his analysis, btw. We don't worry about access, nor do we care what the press thinks of us (other than in a personal way). On this blog, I've been writing about how Facebook is screwing all of us, Google too, but of course the press just sees how Facebook screws journalism. We all see the world through our own eyes, that's why it's so important to have a variety of different perspectives in the news. Today's journalism is a disaster in that way.  :boom:",
+                    "created": "Thu, 29 Mar 2018 14:49:39 GMT"
+                },
+                {
+                    "text": "Finally, congrats to Scott and <a href=\"https://www.axios.com/\">Axios</a> on hooking up. We know Scott from his pioneering work at Salon in the <a href=\"http://essaysfromexodus.scripting.com/stories/storyReader$2106#scottros\">early days</a> of the web. Finally one of the new media pubs has depth in their coverage of tech issues. They all still need depth in the technology itself, the lack of which makes a lot of their coverage laughably wrong.",
+                    "created": "Thu, 29 Mar 2018 14:35:03 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Interview answer",
+            "created": "Thu, 29 Mar 2018 15:13:38 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<i>I was just email-interviewed for a story about the resilience of RSS. This the kind of story I love. It means the open web still has a shot. Here's what I wrote. </i>",
+                    "created": "Thu, 29 Mar 2018 15:13:43 GMT"
+                },
+                {
+                    "text": "Hey thanks for acknowledging that RSS is resilient. I've noticed it too. I can't really explain it, I would have thought given all the abuse it's taken over the years that it would be stumbling worse. ",
+                    "created": "Thu, 29 Mar 2018 15:15:07 GMT",
+                    "image": "http://scripting.com/images/2018/03/29/mrMetTheOtherWay.png"
+                },
+                {
+                    "text": "Interesting timing, I just launched a new project called \"feedbase\". It's a reincarnation of something we had in the early days of RSS, a registry of the known RSS feeds. Back then it was possible to put them all on a single website. Eventually it couldn't scale, and it fell into disuse because there were so many other discovery mechanisms.",
+                    "created": "Thu, 29 Mar 2018 15:15:20 GMT"
+                },
+                {
+                    "text": "But now things are going nice and slow. It's been five years since Google Reader shut down. And there are lots of readers, the knowledge is out there, and the utility is known. So I thought it might be a good time to try to add an important feature to RSS that was always part of the vision, dynamic subscription lists. This will allow a user to feed their subs to a variety of apps, which makes it easier to start new apps if you can quickly boot up an installed base. ",
+                    "created": "Thu, 29 Mar 2018 15:16:00 GMT"
+                },
+                {
+                    "text": "This was the way the open web wants its feed readers to work, as opposed to the silos. ;-)"
+                },
+                {
+                    "text": "Re competition from Twitter and Faceboo, I think feed readers work well with social networks. I'm an avid Twitter user, esp since they upped the limit from 140 to 280. I have a pretty good synergy with it and my blog, which I have reverted back to its old format, because I no longer have to accommodate Google Reader which didn't support the full RSS spec (a fact that very few are aware of, if you never saw a feature, you don't know it's not there). I also use and value Facebook, for the classic purpose of keeping in touch with friends. I find it doesn't work well for news. ",
+                    "created": "Thu, 29 Mar 2018 15:16:27 GMT"
+                }
+            ]
+        }
+    ]
+}
