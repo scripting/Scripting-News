@@ -1,0 +1,31 @@
+{
+    "text": "Interview answer",
+    "created": "Thu, 29 Mar 2018 15:13:38 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "<i>I was just email-interviewed for a story about the resilience of RSS. This the kind of story I love. It means the open web still has a shot. Here's what I wrote. </i>",
+            "created": "Thu, 29 Mar 2018 15:13:43 GMT"
+        },
+        {
+            "text": "Hey thanks for acknowledging that RSS is resilient. I've noticed it too. I can't really explain it, I would have thought given all the abuse it's taken over the years that it would be stumbling worse. ",
+            "created": "Thu, 29 Mar 2018 15:15:07 GMT",
+            "image": "http://scripting.com/images/2018/03/29/mrMetTheOtherWay.png"
+        },
+        {
+            "text": "Interesting timing, I just launched a new project called \"feedbase\". It's a reincarnation of something we had in the early days of RSS, a registry of the known RSS feeds. Back then it was possible to put them all on a single website. Eventually it couldn't scale, and it fell into disuse because there were so many other discovery mechanisms.",
+            "created": "Thu, 29 Mar 2018 15:15:20 GMT"
+        },
+        {
+            "text": "But now things are going nice and slow. It's been five years since Google Reader shut down. And there are lots of readers, the knowledge is out there, and the utility is known. So I thought it might be a good time to try to add an important feature to RSS that was always part of the vision, dynamic subscription lists. This will allow a user to feed their subs to a variety of apps, which makes it easier to start new apps if you can quickly boot up an installed base. ",
+            "created": "Thu, 29 Mar 2018 15:16:00 GMT"
+        },
+        {
+            "text": "This was the way the open web wants its feed readers to work, as opposed to the silos. ;-)"
+        },
+        {
+            "text": "Re competition from Twitter and Faceboo, I think feed readers work well with social networks. I'm an avid Twitter user, esp since they upped the limit from 140 to 280. I have a pretty good synergy with it and my blog, which I have reverted back to its old format, because I no longer have to accommodate Google Reader which didn't support the full RSS spec (a fact that very few are aware of, if you never saw a feature, you don't know it's not there). I also use and value Facebook, for the classic purpose of keeping in touch with friends. I find it doesn't work well for news. ",
+            "created": "Thu, 29 Mar 2018 15:16:27 GMT"
+        }
+    ]
+}
