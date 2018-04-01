@@ -1,0 +1,6 @@
+{
+    "text": "New <a href=\"https://www.npmjs.com/package/davefeedread\">davefeedread</a> package. Back when I was doing all my server work in Frontier, I had a <a href=\"http://scripting.com/images/2018/03/31/xml.rss.getFeedItems.png\">verb</a> that, given a URL, would parse a feed and return a struct. It did all the work behind a simple interface. When it came time to fix encoding in feedBase, I decided to invest in having it be that simple in Node. I have the new <a href=\"https://github.com/scripting/feedRead\">package</a> running inside \"feedbase\" now. It seems to work. You're welcome to use it in your projects as well, of course. ",
+    "created": "Sat, 31 Mar 2018 21:44:15 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2018/01/18/travis.png"
+}
