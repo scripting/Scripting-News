@@ -1,0 +1,6 @@
+{
+    "text": "Version <a href=\"https://github.com/scripting/feedBase/commit/6d680151d6932bbc50568dd1a1e3434d9743b9ff#diff-37ed9f574cf75afffb27a510967992f0\">0.6.2</a> of the feedBase server. Uses new functionality of <a href=\"https://www.npmjs.com/package/davefeedread\">davefeedread</a>, so we should handle feeds that use different charsets. Also dereference the feed URL before adding a subscription. This should help eliminate duplicates. Still remaining -- use canonical URLs for existing subscriptions. I want to do that carefully because I'm still an SQL novice. ",
+    "created": "Sun, 01 Apr 2018 18:23:43 GMT",
+    "type": "outline",
+    "image": "http://static.scripting.com/larryKing/images/2014/05/25/goodHumor.gif"
+}
