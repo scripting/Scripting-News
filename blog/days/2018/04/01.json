@@ -1,0 +1,38 @@
+{
+    "text": "April 1",
+    "created": "Sun, 01 Apr 2018 16:56:54 GMT",
+    "name": "01",
+    "subs": [
+        {
+            "text": "Number of feeds in feedBase: 25452. ",
+            "created": "Sun, 01 Apr 2018 21:25:06 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Version <a href=\"https://github.com/scripting/feedBase/commit/6d680151d6932bbc50568dd1a1e3434d9743b9ff#diff-37ed9f574cf75afffb27a510967992f0\">0.6.2</a> of the feedBase server. Uses new functionality of <a href=\"https://www.npmjs.com/package/davefeedread\">davefeedread</a>, so we should handle feeds that use different charsets. Also dereference the feed URL before adding a subscription. This should help eliminate duplicates. Still remaining -- use canonical URLs for existing subscriptions. I want to do that carefully because I'm still an SQL novice. ",
+            "created": "Sun, 01 Apr 2018 18:23:43 GMT",
+            "type": "outline",
+            "image": "http://static.scripting.com/larryKing/images/2014/05/25/goodHumor.gif"
+        },
+        {
+            "text": "BTW, the next things I want to look at for \"feedBase\" -- getting a better handle on feeds you've subscribed to that we couldn't read. It's a common feature request. Not exactly sure how I want to do it, but I have ideas. Again, I'm going slow, considering every step carefully, using all the experience we've gotten in 21 years of feed parsing. (Yikes!)",
+            "created": "Sun, 01 Apr 2018 18:46:01 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Another thing. I loved the <a href=\"https://www.wired.com/story/rss-readers-feedly-inoreader-old-reader/\">Wired article</a> about the RSS revival. But I hope it doesn't create the kind of hyper atmosphere we had in the early days. We moved way too fast and created chaos. I want to move slowly and do tech that can last for another 20 years, and hopefully without all the fits and starts and major steps <a href=\"https://www.wired.com/2013/06/why-google-reader-got-the-ax/\">backwards</a>. ",
+            "created": "Sun, 01 Apr 2018 18:47:37 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "The <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/opml/2018/03.opml\">OPML archive</a> for this blog for March 2018. ",
+            "created": "Sun, 01 Apr 2018 17:02:34 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "A simple <a href=\"https://gist.github.com/scripting/c12569ed806744f0c6f531cbd4c02f21\">Node function</a> to dereference a URL, i.e. find out what it points to through redirects.",
+            "created": "Sun, 01 Apr 2018 16:56:55 GMT",
+            "type": "outline"
+        }
+    ]
+}
