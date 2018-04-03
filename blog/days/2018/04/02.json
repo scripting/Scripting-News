@@ -1,0 +1,80 @@
+{
+    "text": "April 2",
+    "created": "Mon, 02 Apr 2018 14:00:03 GMT",
+    "name": "02",
+    "subs": [
+        {
+            "text": "Another feedBase change. When viewing a <a href=\"http://feedbase.io/?username=davewiner\">user's feed list</a>, we sort the feeds alphabetically by title, and don't include the follower count. It makes sense on the hotlist, but not when looking at the feeds an individual user subscribes to.",
+            "created": "Mon, 02 Apr 2018 22:07:50 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "We now merge duplicate items on the feedBase <a href=\"http://feedbase.io/\">hotlist</a>. So if there are two ways to reference a feed, we add the two counts, and remove one of them. I did it by hand, by looking for duplicates, added code that does the merging. If you spot other duplicates please let me know. ",
+            "created": "Mon, 02 Apr 2018 19:17:43 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I need a MySQL mentor or two. While I was working on BingeWorthy and early versions of feedBase, I had two really good mentors, JY Stervinou and Scott Hanson. I don't want to lean just on them, so I'm putting out a call for a few people with MySQL experience so I can ask questions, and get answers based on experience. Saves a lot of time, and it will make feedBase more robust. With that in mind I have a <a href=\"https://github.com/scripting/Scripting-News/issues/73\">basic question</a> today, posted here. Thanks in advance! :boom:",
+            "created": "Mon, 02 Apr 2018 16:36:59 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "The importance of criticism",
+            "created": "Mon, 02 Apr 2018 14:09:29 GMT",
+            "type": "outline",
+            "description": "I love it when people take the time to respond to what I write, or give me a good bug report on my software. As long as it's thoughtful and makes a point. I even appreciate the effort when they don't.",
+            "subs": [
+                {
+                    "text": "Usually when I criticize a professional journalist they ignore it. Not very often they respond. I don't mind if they disagree, and push back, but I most definitely do mind if they question the idea of my criticizing their work at all. Last week I had such an encounter, privately. ",
+                    "created": "Mon, 02 Apr 2018 14:09:38 GMT",
+                    "image": "http://scripting.com/images/2018/04/02/yosemiteSam.png"
+                },
+                {
+                    "text": "The criticism of a blogger, a user, someone who isn't trying to maintain access, or please advertisers, is imho more likely to locate a truth about your product, from their point of view, of course.. I never maintain that mine is the only valid point of view, just that it is mine. Take it for what it's worth.",
+                    "created": "Mon, 02 Apr 2018 14:12:13 GMT"
+                },
+                {
+                    "text": "I also have been wrong many times. Famously when <a href=\"https://en.wikipedia.org/wiki/Desktop_publishing\">desktop publishing</a> was the rage in the mid-80s, I said no one wanted to do it. Hah. It turned out that <i>everyone</i> did, at least at the time.  ",
+                    "created": "Mon, 02 Apr 2018 14:12:57 GMT"
+                },
+                {
+                    "text": "That <a href=\"http://scripting.com/davenet/2003/07/28/harvardHostsKeyWeblogSpec.html\">said</a>, <a href=\"http://scripting.com/davenet/1999/05/24/editThisPage.html\">I've</a> <a href=\"http://scripting.com/davenet/1998/02/27/rpcOverHttpViaXml.html\">also</a> <a href=\"http://scripting.com/davenet/2003/07/31/chrisLydonsWeblogForTheEar.html\">been</a> <a href=\"http://scripting.com/davenet/1995/02/18/billionsofwebsites.html\">right</a>. ",
+                    "created": "Mon, 02 Apr 2018 14:16:00 GMT"
+                },
+                {
+                    "text": "I love it when people take the time to respond to what I write, or give me a good bug report on my software. As long as it's thoughtful and makes a point. I even appreciate the effort when they don't. But to outright invalidate the criticism without response? Only <a href=\"http://thesaurus.land/?word=scoundrel\">scoundrels</a> do that. :boom:",
+                    "created": "Mon, 02 Apr 2018 14:13:08 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Why I click on Axios links",
+            "created": "Mon, 02 Apr 2018 14:00:04 GMT",
+            "type": "outline",
+            "description": "Axios gets to the point right away, in the first paragraph. And they name names, in a skimmable way. It's designed to be read on the web.",
+            "subs": [
+                {
+                    "text": "I've written <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+axios&t=hh&ia=web\">here</a>, a couple of times, why I like Axios. ",
+                    "created": "Mon, 02 Apr 2018 14:00:13 GMT"
+                },
+                {
+                    "text": "Today I did a little video demo of Axios and Fast Company, to illustrate.",
+                    "created": "Mon, 02 Apr 2018 14:00:24 GMT"
+                },
+                {
+                    "text": "Axios gets to the point right away, in the first paragraph. And they name names, in a skimmable way. It's designed to be read on the web, <i>quickly.</i>",
+                    "created": "Mon, 02 Apr 2018 14:00:42 GMT"
+                },
+                {
+                    "text": "Other publications, such as Fast Company, have evolved in a different way. Their goal is to keep you reading, by never getting to the point. I almost always give up before figuring out what it was. Which has trained me not to click on FC links.",
+                    "created": "Mon, 02 Apr 2018 14:09:03 GMT"
+                },
+                {
+                    "text": "Here's the <a href=\"https://www.youtube.com/watch?v=Lfod33eH4Ro&feature=youtu.be\">demo</a>.",
+                    "created": "Mon, 02 Apr 2018 14:01:03 GMT",
+                    "urlvideo": "https://www.youtube.com/watch?v=Lfod33eH4Ro"
+                }
+            ]
+        }
+    ]
+}
