@@ -1,0 +1,5 @@
+{
+    "text": "We now merge duplicate items on the feedBase <a href=\"http://feedbase.io/\">hotlist</a>. So if there are two ways to reference a feed, we add the two counts, and remove one of them. I did it by hand, by looking for duplicates, added code that does the merging. If you spot other duplicates please let me know. ",
+    "created": "Mon, 02 Apr 2018 19:17:43 GMT",
+    "type": "outline"
+}
