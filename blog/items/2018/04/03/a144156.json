@@ -1,0 +1,5 @@
+{
+    "text": "Re the <a href=\"http://scripting.com/2018/04/02.html#a220750\">change</a> I made yesterday to subscriber counts on user-feed-lists in feedBase, I changed it per this <a href=\"https://github.com/scripting/feedBase/issues/27\">feature request</a>. Now we sort by name but include the subscriber count. An <a href=\"http://feedbase.io/?username=davewiner\">example</a>. I think this is the more rational approach. It's useful to see the subscriber counts. Note that the counts are not the <a href=\"http://scripting.com/2018/04/02.html#a191743\">combined</a> counts, so you'll only see the counts for the specific feed URL you're subscribed to, not the combination of all the aliases.",
+    "created": "Tue, 03 Apr 2018 14:41:56 GMT",
+    "type": "outline"
+}
