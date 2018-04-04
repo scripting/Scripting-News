@@ -1,0 +1,114 @@
+{
+    "text": "April 3",
+    "created": "Tue, 03 Apr 2018 13:39:31 GMT",
+    "name": "03",
+    "subs": [
+        {
+            "text": "It's good that people are <a href=\"https://twitter.com/judell/status/981185151987101698\">discussing</a> the <a href=\"https://www.google.com/reader/about/\">Google Reader</a> <a href=\"https://duckduckgo.com/?q=Google+Reader+debacle&t=hb&ia=web\">debacle</a>. Important to not let Google repeat their bad behavior with <a href=\"http://this.how/googleAndHttp/\">whole web</a>.",
+            "created": "Tue, 03 Apr 2018 18:26:51 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Lots of responses to yesterday's <a href=\"http://scripting.com/2018/04/02.html#a163659\">query</a> about backing up the feedBase MySQL database. I posed another <a href=\"https://github.com/scripting/Scripting-News/issues/73#issuecomment-378347210\">question</a> in the thread just now. How do you all feel about writing JSON files from Node.js code? Backing up is a prerequisite to all adventures that might risk the data in the database. ",
+            "created": "Tue, 03 Apr 2018 18:19:08 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/12/23/sarahLynn.png"
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/feedBase/issues/22#issuecomment-378329367\">Braintrust question</a>: Re MySQL and Unicode. I assumed the text would all be UTF-8, but apparently not so. I can use help/advice from the MySQL mentors. Thanks! :-)",
+            "created": "Tue, 03 Apr 2018 17:22:49 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://www.youtube.com/watch?v=hBriMV_QeGo\">Demo</a> of new \"feedBase\" feature: \"Sometimes you have the URL of a feed, and don't want to go to the trouble of adding it to an OPML file so you can upload it. This command lets you just enter the URL to feedBase and it processes it as if it were part of an OPML file.\"",
+            "created": "Tue, 03 Apr 2018 16:26:03 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=hBriMV_QeGo"
+        },
+        {
+            "text": "So it follows from Trump's desperate tweeting re Bezos that the Washington Post must have him nailed but good.",
+            "created": "Tue, 03 Apr 2018 14:50:18 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "An experiment. I changed the text font on \"Scripting News\" today to Georgia 20. It had been Ubuntu 18. A little bigger and a serif font. I think this is easier to read. I always planned to take another look at this after things settled in on the new design. (Update: I undid the change. I prefer the more compact format.)",
+            "created": "Tue, 03 Apr 2018 14:47:55 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Re the <a href=\"http://scripting.com/2018/04/02.html#a220750\">change</a> I made yesterday to subscriber counts on user-feed-lists in feedBase, I changed it per this <a href=\"https://github.com/scripting/feedBase/issues/27\">feature request</a>. Now we sort by name but include the subscriber count. An <a href=\"http://feedbase.io/?username=davewiner\">example</a>. I think this is the more rational approach. It's useful to see the subscriber counts. Note that the counts are not the <a href=\"http://scripting.com/2018/04/02.html#a191743\">combined</a> counts, so you'll only see the counts for the specific feed URL you're subscribed to, not the combination of all the aliases.",
+            "created": "Tue, 03 Apr 2018 14:41:56 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Watch <a href=\"https://twitter.com/Fandor/status/981231387062648832\">this</a>. ",
+            "created": "Tue, 03 Apr 2018 18:08:18 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/Fandor/status/981231387062648832"
+        },
+        {
+            "text": "If you don't believe in the rule of law...",
+            "created": "Tue, 03 Apr 2018 14:56:42 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "It stands to reason..",
+                    "created": "Tue, 03 Apr 2018 14:56:51 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "If people who like Trump feel he should rule as a dictator, then",
+                            "created": "Tue, 03 Apr 2018 14:56:57 GMT"
+                        },
+                        {
+                            "text": "We're going to have a civil war. ",
+                            "created": "Tue, 03 Apr 2018 14:57:18 GMT"
+                        },
+                        {
+                            "text": "Imho better sooner than later.",
+                            "created": "Tue, 03 Apr 2018 14:57:22 GMT"
+                        },
+                        {
+                            "text": "So stop worrying about what they think.",
+                            "created": "Tue, 03 Apr 2018 14:57:24 GMT"
+                        },
+                        {
+                            "text": "They are literally the enemy. ",
+                            "created": "Tue, 03 Apr 2018 14:57:25 GMT"
+                        },
+                        {
+                            "text": "No aid or comfort for them.",
+                            "created": "Tue, 03 Apr 2018 14:57:27 GMT"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "What if Bezos bought Twitter?",
+            "created": "Tue, 03 Apr 2018 13:39:32 GMT",
+            "type": "outline",
+            "description": "'What if Jeff Bezos bought Twitter with the change in his pocket and shut Trump's account?'",
+            "subs": [
+                {
+                    "text": "Today on Twitter, former US Attorney <a href=\"https://twitter.com/PreetBharara/status/981015547126140929\">Preet Bharara</a> dreams: \"What if Jeff Bezos bought Twitter with the change in his pocket and shut Trump's account?\" ",
+                    "created": "Tue, 03 Apr 2018 13:39:38 GMT",
+                    "urltweet": "https://twitter.com/PreetBharara/status/981015547126140929"
+                },
+                {
+                    "text": "Twitter's <a href=\"https://finance.yahoo.com/quote/TWTR/\">market cap</a> is $21 billion, and Bezos or some other very rich person <i>could</i> buy them. But it would be a problem if the new owner interfered with the content of Twitter. Because, as with a trade war, it would invite retaliation. And isn't it good that we can keep tabs on Trump through his public tweetings? Would you rather he only rant privately? I wouldn't. Remember the president has an incredibly powerful podium, with or without Twitter, he will be heard over us. Consider this <a href=\"https://www.washingtonpost.com/opinions/jill-mccabe-the-president-attacked-my-reputation-its-time-to-set-the-record-straight/2018/04/02/e6bbcf66-366b-11e8-8fd2-49fe3c675a89_story.html?utm_term=.b1fb8073404c\">piece</a> by Jill McCabe, an emergency room pediatrician, married to former FBI deputy director Andrew McCabe, as she defends her family from attacks from the president. Consider the power Trump has with or without Twitter to ruin lives. ",
+                    "created": "Tue, 03 Apr 2018 13:40:05 GMT"
+                },
+                {
+                    "text": "I <a href=\"https://twitter.com/davewiner/status/981161916189040645\">responded</a>, on Twitter: \"It's just as easy to imagine the Koch Brothers buying Twitter and shutting down <i>your</i> account. This is a weakness that we all have with Twitter being so vulnerable yet so indispensable.\" ",
+                    "created": "Tue, 03 Apr 2018 13:43:09 GMT",
+                    "urltweet": "https://twitter.com/davewiner/status/981161916189040645"
+                },
+                {
+                    "text": "PS: I've long wanted Amazon to either buy or create a competitor to Twitter, so we could have <a href=\"http://scripting.com/2016/04/28/1223.html\">Twitter-as-a-service</a>. It would be very nice. ",
+                    "created": "Tue, 03 Apr 2018 13:50:07 GMT"
+                }
+            ]
+        }
+    ]
+}
