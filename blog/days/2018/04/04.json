@@ -1,0 +1,66 @@
+{
+    "text": "April 4",
+    "created": "Wed, 04 Apr 2018 13:58:31 GMT",
+    "name": "04",
+    "subs": [
+        {
+            "text": "Trying out a <a href=\"https://github.com/scripting/feedBase/issues/28\">new feedBase feature</a>. ",
+            "created": "Wed, 04 Apr 2018 19:00:18 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "feedBase now <a href=\"https://github.com/scripting/feedBase/blob/master/backup/feedbasebackup.js\">includes an app</a> that backs up the database every ten minutes. ",
+            "created": "Thu, 05 Apr 2018 00:45:50 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I gravitate to writers who are in my experience always right. But when they are wrong, and eventually they are, it's spectacular how wrong they are. Not naming names, of course. :boom:",
+            "created": "Wed, 04 Apr 2018 18:21:47 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "She attacked a silo for being a silo",
+            "created": "Wed, 04 Apr 2018 14:03:24 GMT",
+            "type": "outline",
+            "description": "There was a message in yesterday's shooting at YouTube, covered in a NYT story.",
+            "subs": [
+                {
+                    "text": "<i>Note: Of course the greater crime is shooting innocent workers at a tech company, there is no excuse for that. But it is worth noting why Nasim Najafi Aghdam attacked YouTube yesterday.  </i>",
+                    "created": "Wed, 04 Apr 2018 14:14:41 GMT"
+                },
+                {
+                    "text": "I read about the woman who shot up YouTube yesterday, and found <a href=\"https://www.nytimes.com/2018/04/04/us/youtube-shooting-nasim-najafi-aghdam.html?partner=rss&emc=rss\">her story</a> sympathetic. Translated to the terminology of net architecture, she attacked a silo that dominated her online existence, both through YouTube and through Google's search engine. ",
+                    "created": "Wed, 04 Apr 2018 14:03:50 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "I sympathize because Google lowers the rank of <a href=\"http://scripting.com/\">my blog</a> because I use HTTP. As if that had anything to do with the authority of the information posted here (it doesn't). ",
+                            "created": "Wed, 04 Apr 2018 14:04:27 GMT"
+                        },
+                        {
+                            "text": "And they <a href=\"http://scripting.com/images/2018/04/04/notMobileFriendly.png\">complain</a> that pages that were posted before there were mobile devices aren't mobile-friendly. How can I tell them how ridiculous that is? ",
+                            "created": "Wed, 04 Apr 2018 14:06:45 GMT"
+                        },
+                        {
+                            "text": "And the ultimate humiliation, calling my sites NOT SECURE and their own sites SECURE. Nice going. Who appointed them arbiter of what is and isn't secure on the web? Where do I go to appeal this ruling? ",
+                            "created": "Wed, 04 Apr 2018 14:10:35 GMT"
+                        },
+                        {
+                            "text": "I also don't like that they took down her videos after the shooting. In coming days, might they take down posts like this one beause it is critical of Google? Of course they will. ",
+                            "created": "Wed, 04 Apr 2018 14:05:17 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "I am a non-violent person, they have nothing to fear from me on that count, but I think one lesson they could take from this experience is they should exercise as little control as possible over the content they serve, or get out of the content serving business. ",
+                    "created": "Wed, 04 Apr 2018 14:05:33 GMT"
+                },
+                {
+                    "text": "",
+                    "created": "Wed, 04 Apr 2018 13:58:32 GMT",
+                    "type": "outline"
+                }
+            ]
+        }
+    ]
+}
