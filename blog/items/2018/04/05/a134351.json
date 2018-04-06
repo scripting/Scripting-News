@@ -1,0 +1,5 @@
+{
+    "text": "More work today on \"feedBase\". Yesterday I got the backup routine working, and <a href=\"https://github.com/scripting/feedBase/blob/master/backup/feedbasebackup.js\">released</a> the code. Next, I'm going to get a copy of the database running on my desktop Mac. Then I'm going to try the conversion so it can handle UTF-8 characters. If it works, I'll do the same on the deployed version. Then <a href=\"https://github.com/scripting/feedBase/issues/22\">this issue</a> will be closed. ",
+    "created": "Thu, 05 Apr 2018 13:43:51 GMT",
+    "type": "outline"
+}
