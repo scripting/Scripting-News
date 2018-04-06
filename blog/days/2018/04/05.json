@@ -1,0 +1,47 @@
+{
+    "text": "April 5",
+    "created": "Thu, 05 Apr 2018 13:43:40 GMT",
+    "name": "05",
+    "subs": [
+        {
+            "text": "Good morning sports fans!",
+            "created": "Thu, 05 Apr 2018 13:43:41 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "More work today on \"feedBase\". Yesterday I got the backup routine working, and <a href=\"https://github.com/scripting/feedBase/blob/master/backup/feedbasebackup.js\">released</a> the code. Next, I'm going to get a copy of the database running on my desktop Mac. Then I'm going to try the conversion so it can handle UTF-8 characters. If it works, I'll do the same on the deployed version. Then <a href=\"https://github.com/scripting/feedBase/issues/22\">this issue</a> will be closed. ",
+            "created": "Thu, 05 Apr 2018 13:43:51 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Also, I fixed a bug yesterday that prevented \"feedBase\" from working in Safari, even though for some reason it worked for me in Safari. The bug was pretty <a href=\"http://thesaurus.land/?word=egregious\">egregious</a>, and it should have prevented it from working anywhere. Mysterious. But fixed. ",
+            "created": "Thu, 05 Apr 2018 13:48:14 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "All of a sudden I was surrounded by Hasidim on bikes with yellow flags. They were everywhere.",
+            "created": "Thu, 05 Apr 2018 13:53:57 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/981648187306934272"
+        },
+        {
+            "text": "In defense of Facebook",
+            "created": "Thu, 05 Apr 2018 13:52:41 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Re Facebook's social graph -- they chose to do something visionary. No one else was up to the challenge of such a huge database, and they pulled it off, at a huge ever-increasing scale. ",
+                    "created": "Thu, 05 Apr 2018 13:54:26 GMT"
+                },
+                {
+                    "text": "In hindsight <i>maybe</i> it seems like a bad idea, but you'd have to know in advance that users would have no idea what was going on, and wouldn't care about privacy (until journalists told them they should). An open protocol was never going to get adopted, most individual devs like to reinvent, not build on others' work. ",
+                    "created": "Thu, 05 Apr 2018 13:53:25 GMT"
+                },
+                {
+                    "text": "You won't often hear me defend Facebook, but please, some of the critics are seriously misinformed about how the tech works, and how we got here. Yes, it matters. ",
+                    "created": "Thu, 05 Apr 2018 13:53:11 GMT"
+                }
+            ]
+        }
+    ]
+}
