@@ -1,0 +1,65 @@
+{
+    "text": "April 6",
+    "created": "Fri, 06 Apr 2018 13:24:51 GMT",
+    "name": "06",
+    "subs": [
+        {
+            "text": "<a href=\"https://github.com/scripting/feedBase/issues/31\">For feedBase users</a>, I'm interested in creating a connection with two or three readers as a proof of concept for a contemplated feature. So I'd just like to know what reader you use. That's all. :cherry_blossom:",
+            "created": "Sat, 07 Apr 2018 00:26:05 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Some credible j-schools, in conjunction with their CS departments, should hold boot camps for reporters when aspects of tech become hot news. Right now we need reporters to get up to speed on APIs.",
+            "created": "Sat, 07 Apr 2018 00:19:21 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "BTW, it seems Facebook's <a href=\"https://techcrunch.com/2018/04/04/facebook-instagram-api-shut-down/\">response</a> to the heat it's getting is to kill the Instagram API and to limit the Facebook API. This is not a good thing for the web, or it may be a very good thing for the web. Hard to say.  ",
+            "created": "Fri, 06 Apr 2018 16:17:17 GMT",
+            "type": "tweet",
+            "tweetId": "982296244482641920",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "We're in a tight corner in the conversion of feedBase to Unicode support. But I'm sure there's an answer because anyone who has developed a feed reader with MySQL as the database has had to answer this question. I recorded a <a href=\"http://scripting.com/2018/04/06/mySQLAndUnicodeConundrum.m4a\">17-minute podcast</a> that explains the question in detail, and why this is a good time to slow down and get it right. The question: What should be the maximum length for the URL of a feed? But please listen before <a href=\"https://github.com/scripting/feedBase/issues/22\">answering</a>. <i><b>Update</b>: The problem <a href=\"https://github.com/scripting/feedBase/issues/22#issuecomment-379306899\">appears to be solved</a>. </i>The trick was to not convert the URLs and shorten the username to 32 chars and convert that (because it can be unicode and it's part of the key for the subscriptions table). It will take some time to fix all the feeds, but it seems we have the problem solved. Knock wood. I can't believe it. I get to take a break now. Haha. Let's see. :rocket:",
+            "created": "Fri, 06 Apr 2018 15:35:48 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2018/04/06/mySQLAndUnicodeConundrum.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "8349775",
+            "image": "http://scripting.com/2016/01/30/strongman.png"
+        },
+        {
+            "text": "Just <a href=\"https://help.twitter.com/en/managing-your-account/twitter-username-rules\">learned</a> maximum length for Twitter user names is 15 characters. That's good, believe it or not. :boom:",
+            "created": "Fri, 06 Apr 2018 16:16:27 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "A Twitter <a href=\"https://twitter.com/davewiner/status/982251570426298369\">thread</a> I just posted about privacy. It's funny sometimes I write better in Twitter than in my outliner. I'll transcribe this fully later. ",
+            "created": "Fri, 06 Apr 2018 14:01:26 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/982251570426298369"
+        },
+        {
+            "text": "My religion is factoring",
+            "created": "Sat, 07 Apr 2018 00:20:35 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "We all have our persuasions of programming, lots of cults and religions.",
+                    "created": "Sat, 07 Apr 2018 00:20:41 GMT"
+                },
+                {
+                    "text": "I realize now I am of the cult of <i>factoring.</i>",
+                    "created": "Sat, 07 Apr 2018 00:20:46 GMT"
+                },
+                {
+                    "text": "I spend a lot more time than I have to reducing the complexity of my code."
+                },
+                {
+                    "text": "The theory being the more time you spend factoring the higher you can build."
+                }
+            ]
+        }
+    ]
+}
