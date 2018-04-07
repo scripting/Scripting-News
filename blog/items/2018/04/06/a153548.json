@@ -1,0 +1,9 @@
+{
+    "text": "We're in a tight corner in the conversion of feedBase to Unicode support. But I'm sure there's an answer because anyone who has developed a feed reader with MySQL as the database has had to answer this question. I recorded a <a href=\"http://scripting.com/2018/04/06/mySQLAndUnicodeConundrum.m4a\">17-minute podcast</a> that explains the question in detail, and why this is a good time to slow down and get it right. The question: What should be the maximum length for the URL of a feed? But please listen before <a href=\"https://github.com/scripting/feedBase/issues/22\">answering</a>. <i><b>Update</b>: The problem <a href=\"https://github.com/scripting/feedBase/issues/22#issuecomment-379306899\">appears to be solved</a>. </i>The trick was to not convert the URLs and shorten the username to 32 chars and convert that (because it can be unicode and it's part of the key for the subscriptions table). It will take some time to fix all the feeds, but it seems we have the problem solved. Knock wood. I can't believe it. I get to take a break now. Haha. Let's see. :rocket:",
+    "created": "Fri, 06 Apr 2018 15:35:48 GMT",
+    "type": "outline",
+    "enclosure": "http://scripting.com/2018/04/06/mySQLAndUnicodeConundrum.m4a",
+    "enclosureType": "audio/mpeg",
+    "enclosureLength": "8349775",
+    "image": "http://scripting.com/2016/01/30/strongman.png"
+}
