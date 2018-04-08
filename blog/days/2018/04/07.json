@@ -1,0 +1,101 @@
+{
+    "text": "April 7",
+    "created": "Sat, 07 Apr 2018 13:01:17 GMT",
+    "name": "07",
+    "subs": [
+        {
+            "text": "I love the way the <a href=\"http://apps-of-a-feather.com/\">Twitter devs</a> joined up and <i>respectfully</i> documented a <a href=\"https://www.theverge.com/2018/4/6/17206524/twitter-tweetbot-twitterrific-apps-features-api-changes\">problem</a> they were <a href=\"https://www.techmeme.com/180406/p14#a180406p14\">having</a> with the Twitter API. No powerlessness. Just facts. And I love that Twitter read what they wrote, and <a href=\"https://twitter.com/TwitterDev/status/982346372719378432\">said</a> they'd work with them. Everyone involved deserves maximum credit.",
+            "created": "Sat, 07 Apr 2018 16:02:55 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "BTW lost in all the Trump hooplah, there was a successful teacher's march in West Virginia and Oklahoma, and one on the way in Arizona. The <a href=\"http://podcatch.com/archive/2018/04/05/636283.html\">Open Source podcast</a> covers it, as always, in a thoughtful and exciting way. ",
+            "created": "Sat, 07 Apr 2018 22:25:40 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"http://bloggercon.scripting.com/ruleoflinks.html\">The rule of links</a>: \"Linking is an art. It's a choice. You don't link from every word or even every noun, or from the subject of every sentence. But when a reader reasonably would want to know more about the subject, the Rule of Links says you should link to it.\" ",
+            "created": "Sat, 07 Apr 2018 20:15:19 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "UX tip. I clicked on a wrong link in my bank website. I wanted to quickly get out. I clicked the Cancel button. A dialog appeared asking if I really want to cancel. Yes or no. This is dissonant. I do not want to click YES when I'm saying get me the fcuk out of here now.",
+            "created": "Sat, 07 Apr 2018 16:53:50 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I have a new credit card. This morning I paid for a Starbuck's using Apple Pay. I expected it to fail because I hadn't updated the number. It worked. When I looked it already had the new number. Before I did.",
+            "created": "Sat, 07 Apr 2018 16:02:42 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I generally don't like to look at how mailbox-type readers render this site. The best I've seen are ones that ignore titleless posts. At least they don't show the reader a mangled version of my writing. Then there's the ones that repeat the body of titleless posts in the title. So you see my writing twice, as if I had a stutter. It's not my stutter, the text only appears once in my feed. Readers that get on board with titleless posts are helping to open the door for new kinds of blogging. I've chosen to ignore their ignoring and just plow ahead. BTW, when I say \"new way\" I really mean \"old way.\" My blog, the original one, esp for RSS support, had titleless posts years before RSS existed. And the format allows titleless posts. So those that don't support them can't really claim to support \"RSS\". ",
+            "created": "Sat, 07 Apr 2018 15:45:55 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/04/07/loveRss.png"
+        },
+        {
+            "text": "BTW, here's an <a href=\"http://scripting.com/frontier/admin/oldNewsPages/archives96/jun.html\">archive page</a> from this blog in 1996. Look at how the format is evolving. Lots of title-less posts. It's a good format. A lot like Twitter, btw. :boom:",
+            "created": "Sat, 07 Apr 2018 15:58:05 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Linking feedBase to readers",
+            "created": "Sat, 07 Apr 2018 15:36:21 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Michael Uffer had a <a href=\"https://github.com/scripting/feedBase/issues/30\">great idea</a>. Link the orange feed icon next to every feed title to the user's favorite reader's page for that feed. ",
+                    "created": "Sat, 07 Apr 2018 15:36:26 GMT"
+                },
+                {
+                    "text": "I added the <a href=\"https://www.youtube.com/watch?v=SH51Qe_P2fs&feature=youtu.be\">feature</a>, and was immediately able to get it to work with Feedly. Here's an <a href=\"https://feedly.com/i/subscription/feed%2Fhttp%3A%2F%2Fdaringfireball.net%2Findex.xml\">example</a> of a URL that we generate, to view the items it has for the Daring Fireball blog. ",
+                    "created": "Sat, 07 Apr 2018 15:37:00 GMT"
+                },
+                {
+                    "text": "Then we got it to work with Inoreader. Same idea, here's a <a href=\"https://www.inoreader.com/feed/http%3A%2F%2Ffeeds.kottke.org%2Fmain\">link</a> to an Inoreader page for Kottke.",
+                    "created": "Sat, 07 Apr 2018 15:37:34 GMT"
+                },
+                {
+                    "text": "I haven't been able to find the equivalent URL for <a href=\"https://theoldreader.com/\">Old Reader</a>, but if it's there, we'll find it. ",
+                    "created": "Sat, 07 Apr 2018 15:39:31 GMT"
+                },
+                {
+                    "text": "Here's the <a href=\"https://github.com/scripting/feedBase/issues/31#issuecomment-379474687\">thread</a>.",
+                    "created": "Sat, 07 Apr 2018 15:39:54 GMT"
+                }
+            ]
+        },
+        {
+            "text": "The trials of encoding",
+            "created": "Sat, 07 Apr 2018 13:01:18 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "If you've been reading this blog for the last week or so, it must be very confusing. The result of <i>my</i> confusion. I finally had to understand encoding on the web. I wanted \"feedBase\" to work for feeds in all languages. The web went through a transition to make it work that way. At UserLand, Jake and Brent did the encoding stuff. I hoped that my new app, \"feedBase\", would \"just work.\" Didn't happen.",
+                    "created": "Sat, 07 Apr 2018 13:01:29 GMT",
+                    "image": "http://scripting.com/images/2018/04/07/lifesavers.png"
+                },
+                {
+                    "text": "There were two problems:",
+                    "created": "Sat, 07 Apr 2018 13:15:22 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "My connection to the <a href=\"https://github.com/danmactough/node-feedparser\">feedparser</a> package was not encoding-aware. This, btw, is also true in \"River5\". Rather than do a solution just for feedBase, I did a general solution, coming up with the API that I wanted on Node, basically the same API that we have in Frontier. I will use <a href=\"https://www.npmjs.com/package/davefeedread\">that package</a> in River5. Hopefully that will make the transition much easier than it otherwise would be. ",
+                            "created": "Sat, 07 Apr 2018 13:02:34 GMT"
+                        },
+                        {
+                            "text": "My SQL database wasn't set up for Unicode. So I had to figure out the magic incantations to make it work that way. As with feed parsing, I had hoped it would just work. But I had some excellent help from the newly assembled MySQL mentorship group, again mostly consisting, of course, of JY. He's a real life-saver. ",
+                            "created": "Sat, 07 Apr 2018 13:04:28 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "Anyway, I'm keeping my eye on it, but I'm hoping now to be able to move on. :boom:",
+                    "created": "Sat, 07 Apr 2018 13:05:46 GMT"
+                }
+            ]
+        }
+    ]
+}
