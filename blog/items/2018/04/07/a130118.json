@@ -1,0 +1,31 @@
+{
+    "text": "The trials of encoding",
+    "created": "Sat, 07 Apr 2018 13:01:18 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "If you've been reading this blog for the last week or so, it must be very confusing. The result of <i>my</i> confusion. I finally had to understand encoding on the web. I wanted \"feedBase\" to work for feeds in all languages. The web went through a transition to make it work that way. At UserLand, Jake and Brent did the encoding stuff. I hoped that my new app, \"feedBase\", would \"just work.\" Didn't happen.",
+            "created": "Sat, 07 Apr 2018 13:01:29 GMT",
+            "image": "http://scripting.com/images/2018/04/07/lifesavers.png"
+        },
+        {
+            "text": "There were two problems:",
+            "created": "Sat, 07 Apr 2018 13:15:22 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "My connection to the <a href=\"https://github.com/danmactough/node-feedparser\">feedparser</a> package was not encoding-aware. This, btw, is also true in \"River5\". Rather than do a solution just for feedBase, I did a general solution, coming up with the API that I wanted on Node, basically the same API that we have in Frontier. I will use <a href=\"https://www.npmjs.com/package/davefeedread\">that package</a> in River5. Hopefully that will make the transition much easier than it otherwise would be. ",
+                    "created": "Sat, 07 Apr 2018 13:02:34 GMT"
+                },
+                {
+                    "text": "My SQL database wasn't set up for Unicode. So I had to figure out the magic incantations to make it work that way. As with feed parsing, I had hoped it would just work. But I had some excellent help from the newly assembled MySQL mentorship group, again mostly consisting, of course, of JY. He's a real life-saver. ",
+                    "created": "Sat, 07 Apr 2018 13:04:28 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Anyway, I'm keeping my eye on it, but I'm hoping now to be able to move on. :boom:",
+            "created": "Sat, 07 Apr 2018 13:05:46 GMT"
+        }
+    ]
+}
