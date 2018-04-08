@@ -1,0 +1,27 @@
+{
+    "text": "Linking feedBase to readers",
+    "created": "Sat, 07 Apr 2018 15:36:21 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Michael Uffer had a <a href=\"https://github.com/scripting/feedBase/issues/30\">great idea</a>. Link the orange feed icon next to every feed title to the user's favorite reader's page for that feed. ",
+            "created": "Sat, 07 Apr 2018 15:36:26 GMT"
+        },
+        {
+            "text": "I added the <a href=\"https://www.youtube.com/watch?v=SH51Qe_P2fs&feature=youtu.be\">feature</a>, and was immediately able to get it to work with Feedly. Here's an <a href=\"https://feedly.com/i/subscription/feed%2Fhttp%3A%2F%2Fdaringfireball.net%2Findex.xml\">example</a> of a URL that we generate, to view the items it has for the Daring Fireball blog. ",
+            "created": "Sat, 07 Apr 2018 15:37:00 GMT"
+        },
+        {
+            "text": "Then we got it to work with Inoreader. Same idea, here's a <a href=\"https://www.inoreader.com/feed/http%3A%2F%2Ffeeds.kottke.org%2Fmain\">link</a> to an Inoreader page for Kottke.",
+            "created": "Sat, 07 Apr 2018 15:37:34 GMT"
+        },
+        {
+            "text": "I haven't been able to find the equivalent URL for <a href=\"https://theoldreader.com/\">Old Reader</a>, but if it's there, we'll find it. ",
+            "created": "Sat, 07 Apr 2018 15:39:31 GMT"
+        },
+        {
+            "text": "Here's the <a href=\"https://github.com/scripting/feedBase/issues/31#issuecomment-379474687\">thread</a>.",
+            "created": "Sat, 07 Apr 2018 15:39:54 GMT"
+        }
+    ]
+}
