@@ -1,0 +1,32 @@
+{
+    "text": "April 8",
+    "created": "Sun, 08 Apr 2018 16:10:41 GMT",
+    "name": "08",
+    "subs": [
+        {
+            "text": "New version of \"River5\". After burning in the new feed reading package in feedBase, I made the same <a href=\"https://github.com/scripting/reader/blob/master/davereader.js#L752\">fix</a> in the <a href=\"https://www.npmjs.com/package/davereader\">davereader</a> package, which is the core of River5. If you were <a href=\"https://github.com/scripting/river5/issues/20\">seeing</a> garbled text in feeds in German, for example, this version should fix that. To update, quit the app, type <i>npm update</i> at the command line, then restart the app. ",
+            "created": "Sun, 08 Apr 2018 16:10:42 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/04/08/stalin.png"
+        },
+        {
+            "text": "Brent Simmons <a href=\"http://inessential.com/2018/04/08/blogging_system_rewrite\">rewrote</a> his blogging software so to handle titleless posts. It's more significant because Brent is developing a feed reader that will do a nice job of supporting titleless posts. Eventually imho all readers <a href=\"http://scripting.com/2014/04/07/howToDisplayTitlelessFeedItems.html\">will</a>. ",
+            "created": "Sun, 08 Apr 2018 18:49:33 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "It's amazing to me how slowly progress is made while people prove they don't have to listen to some other person. It is true. You don't have to listen to anyone (except a cop, or your mother). But you <i>could</i> listen, if you wanted to know what someone else thought? Would it kill you? :boom:",
+            "created": "Sun, 08 Apr 2018 19:22:57 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Facebook built a system for sharing information. When you grant access to your Facebook account to someone else, they get access to the info you shared. That's it. That's what's going on. If you gave access to Cambridge Analytica, they got the info you shared. When you give access to any other company, same deal. If you don't want them to have your info, <i>don't grant them access. </i>",
+            "created": "Sun, 08 Apr 2018 16:17:16 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<div style=\"font-size: 60px; margin-top: 30px;\">❤️</div>",
+            "created": "Sun, 08 Apr 2018 22:29:29 GMT"
+        }
+    ]
+}
