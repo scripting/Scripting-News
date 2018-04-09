@@ -1,0 +1,6 @@
+{
+    "text": "New version of \"River5\". After burning in the new feed reading package in feedBase, I made the same <a href=\"https://github.com/scripting/reader/blob/master/davereader.js#L752\">fix</a> in the <a href=\"https://www.npmjs.com/package/davereader\">davereader</a> package, which is the core of River5. If you were <a href=\"https://github.com/scripting/river5/issues/20\">seeing</a> garbled text in feeds in German, for example, this version should fix that. To update, quit the app, type <i>npm update</i> at the command line, then restart the app. ",
+    "created": "Sun, 08 Apr 2018 16:10:42 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2018/04/08/stalin.png"
+}
