@@ -1,0 +1,85 @@
+{
+    "text": "April 9",
+    "created": "Mon, 09 Apr 2018 14:03:30 GMT",
+    "name": "09",
+    "subs": [
+        {
+            "text": "If \"RSS\" was a startup and had a CEO that TechCrunch needed access to, or was backed by  VCs, or even a big tech company, they would temper their <a href=\"https://techrunch.com/2018/04/07/rss-is-undead/\">judgment</a>. Instead it's a punching bag, a technology <a href=\"https://en.wikipedia.org/wiki/Pi%C3%B1ata\">piñata</a>. But people love RSS. It's still here, ready to bring you the news. And honestly they probably wouldn't beat on it if it weren't threatening someone.  :heart:",
+            "created": "Mon, 09 Apr 2018 15:18:16 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/04/09/loveRss.png"
+        },
+        {
+            "text": "I have been playing with the source for the <i>forever</i> utility. I want to try adding a few features, see what happens. But I have a basic <a href=\"https://github.com/scripting/Scripting-News/issues/74\">question</a>.",
+            "created": "Mon, 09 Apr 2018 21:12:14 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Note to self, <a href=\"https://github.com/scripting/river5/issues/21\">find a CDN</a> for common files needed by River5 apps.",
+            "created": "Mon, 09 Apr 2018 16:39:13 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Dan MacTough <a href=\"https://github.com/scripting/feedBase/issues/22#issuecomment-379707884\">answers</a> the question I posed in my <a href=\"http://scripting.com/2018/04/06.html#a153548\">podcast</a>, asking about how to treat URLs of feeds in a MySQL database.",
+            "created": "Mon, 09 Apr 2018 16:40:54 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I've had Frontier running on my desktop for over a month. Using it all day every day for writing code and documenting stuff. I never noticed how reliable it is, even in 2018, many years after its last overhaul. A testimony to fine engineering by André Radke and Ted C Howard, two programmers who probably have never met. Just wanted to put a H/T out there and a big thank you. (In comparison, I have to restart my JavaScript apps every day or they are way too slow.)",
+            "created": "Mon, 09 Apr 2018 16:15:37 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I have developed all kinds of JavaScript stuff and have never used <a href=\"https://davidwalsh.name/dark-side-promises\">promises</a>. I like <a href=\"https://github.com/scripting/opml/blob/master/daveopml.js#L119\">callbacks</a>. They aren't too complicated for me. I know I'm probably the only one.",
+            "created": "Mon, 09 Apr 2018 16:02:31 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Sometimes a company asks a great question on Facebook, and wtf, I answer it. Like <a href=\"https://www.facebook.com/TheCapitolTheatre/photos/a.267679886623979.64631.219398564785445/1772920619433224/?type=3&comment_id=2071785499766054&notif_id=1523286834553335&notif_t=like&ref=notif\">this</a> one. They asked us to name a concert that totally blew your mind. Here's what I wrote. \"Beach Boys as the surprise guest act with the Dead at the Fillmore East in <a href=\"https://www.youtube.com/watch?v=6A1GW1LZDlg\">1971</a>. When they were setting up no one knew who they were, they had grown their hair, turned into hippies. Then they played a hit, <a href=\"https://youtu.be/6A1GW1LZDlg?t=1h10m01s\">Heroes and Villains</a>, and the place came apart.\"",
+            "created": "Mon, 09 Apr 2018 15:31:49 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I hate possessions. With my mom dying earlier this year, the house I grew up in will soon be out of the family. All this stuff, if we threw it out, would be gone forever. It was nice that she was keeping it all. Then I think of all the possessions I've taken from that house in the past. Where are they now? Not anywhere I can put my hands on them. I have shed all my possessions several times in my life. Yet I keep accumulating them. This year I got far more than I ever wanted. What will become of them? I really can't be trusted with things. ;-)",
+            "created": "Mon, 09 Apr 2018 16:07:54 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Today, anyone can write the news",
+            "created": "Mon, 09 Apr 2018 14:03:31 GMT",
+            "type": "outline",
+            "description": "A famous journalism quote: The job of the newspaper is to comfort the afflicted and afflict the comfortable. The irony is that today they are the comfortable being afflicted.",
+            "subs": [
+                {
+                    "text": "Is journalism serving us? I doubt if this question comes up much in the hallowed halls of the New York Times. The answer to them is self-evident, of course news serves the people. ",
+                    "created": "Mon, 09 Apr 2018 14:03:43 GMT",
+                    "image": "http://scripting.com/images/2018/04/09/charlesFosterKane.png"
+                },
+                {
+                    "text": "What I, one of the people, see is something very different, an impenetrable wall that ideas and news can't enter, except for the ways of stature, access, and ad dollars, and occasionally something to do with the interests of the audience. ",
+                    "created": "Mon, 09 Apr 2018 14:47:19 GMT"
+                },
+                {
+                    "text": "In 2016, just after the election, I wrote an <a href=\"http://scripting.com/2016/12/18/pressFreedomIsNotMyFreedom.html\">angry piece</a> about the press, which had just sold us out, giving us an idiot-despot as president. Now they're trying to rewrite history to say that Facebook did it. I know a lot of the facts, far more than what they report, and almost certainly more than the reporters do. I also watched the build-up to this campaign, where they openly ran editorials and op-eds saying that \"public opinion\" was about to turn against Facebook. That's insider-talk for \"we're looking for a good opportunity to attack them.\" They found it in Cambridge Analytica, a non-scandal, non-story, but one that could be presented as one.",
+                    "created": "Mon, 09 Apr 2018 14:05:09 GMT"
+                },
+                {
+                    "text": "In journalism-land <a href=\"https://getyarn.io/yarn-clip/4a72ac86-e7a3-4e3c-b1dc-f9a551a6ab56\">people will think</a> what they tell us to think. ",
+                    "created": "Mon, 09 Apr 2018 14:13:40 GMT"
+                },
+                {
+                    "text": "<a href=\"https://en.wikipedia.org/wiki/Dean_Baquet\">Dean Baquet</a>, executive editor of the NYT, <a href=\"http://money.cnn.com/2018/04/08/media/dean-baquet-new-york-times/index.html?utm_source=CNN%2BMedia:%2BReliable%2BSources&utm_campaign=4fd19770c7-EMAIL_CAMPAIGN_2017_06_06&utm_medium=email&utm_term=0_e95cdc16a9-4fd19770c7-81590981\">says</a> this is a terrible time for journalism because local news is failing. There is a way out. Knock down the wall and let us in, while there still is a modicum of respect for the great old names of journalism. Let's grow journalism by an order of magnitude. There must be a million capable people who believe in free speech who are ready to write news, for free, for the glory of it, for the chance to set things straight, to tell the story as they see it, as it is actually happening. Of course, in order for that to happen, the people who currently write the news will have to take a demotion, from the originators of public opinion to teachers and editors, coaches and quality-assurers. Innovators. And historic adjusters of news to the realities of a world where anyone can write the news. ",
+                    "created": "Mon, 09 Apr 2018 14:13:44 GMT"
+                },
+                {
+                    "text": "<i>A world where anyone can write the news. </i>That's both the weakness and the strength of news in this century. If there is no quality to the writing, we get Trump, a product of the current antiquated, vestigial, news system, the one the high priests of journalism wrongly tell us we must protect. We tried it their way, it didn't work. ",
+                    "created": "Mon, 09 Apr 2018 14:42:49 GMT"
+                },
+                {
+                    "text": "Now we should try another approach. It will be different, it feel uncomfortable, <a href=\"https://www.brainyquote.com/quotes/finley_peter_dunne_154262\">but</a> the job of journalism \"is to comfort the afflicted and afflict the comfortable.\" Fate has a sense of humor because now the comfortable who are afflicted are the journalists themselves. ",
+                    "created": "Mon, 09 Apr 2018 14:16:06 GMT"
+                }
+            ]
+        }
+    ]
+}
