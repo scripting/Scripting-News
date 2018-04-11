@@ -1,0 +1,5 @@
+{
+    "text": "A couple of technical/strategic questions came up yesterday that are still outstanding. First, I need to <a href=\"https://github.com/scripting/river5/issues/21\">pick a CDN</a> to use for River5 files that are used in user apps. Right now they're served on domains that I own that could go away. That would be a lot of breakage. Which one should I use? Second, I want to make some mods to the <i>forever</i> app we use to keep Node apps running. I need to <a href=\"https://github.com/scripting/Scripting-News/issues/74\">figure out how</a> to set it up so the new version installs the way <i>forever</i> currently installs. I don't want/need to do this differently, but it's outside my expertise. As always, help appreciated. ",
+    "created": "Tue, 10 Apr 2018 17:05:27 GMT",
+    "type": "outline"
+}
