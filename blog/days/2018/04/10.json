@@ -1,0 +1,85 @@
+{
+    "text": "April 10",
+    "created": "Tue, 10 Apr 2018 16:07:03 GMT",
+    "name": "10",
+    "subs": [
+        {
+            "text": "New \"feedBase\" feature. <a href=\"http://scripting.com/images/2018/04/10/checkboxesOnFeedbase.png\">Checkboxes on feed lists</a>. If it's checked you're subscribed, if not, you're not. Click click click. You're in charge. Easy and super-fast. :cow2:",
+            "created": "Tue, 10 Apr 2018 21:49:58 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/04/10/drNick.png"
+        },
+        {
+            "text": "Wait till the press figures out that Google knows everywhere you go. Not only on the web, but also in the world.",
+            "created": "Tue, 10 Apr 2018 18:06:32 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "A couple of technical/strategic questions came up yesterday that are still outstanding. First, I need to <a href=\"https://github.com/scripting/river5/issues/21\">pick a CDN</a> to use for River5 files that are used in user apps. Right now they're served on domains that I own that could go away. That would be a lot of breakage. Which one should I use? Second, I want to make some mods to the <i>forever</i> app we use to keep Node apps running. I need to <a href=\"https://github.com/scripting/Scripting-News/issues/74\">figure out how</a> to set it up so the new version installs the way <i>forever</i> currently installs. I don't want/need to do this differently, but it's outside my expertise. As always, help appreciated. ",
+            "created": "Tue, 10 Apr 2018 17:05:27 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Sarcasm has no place in serious discourse.",
+            "created": "Tue, 10 Apr 2018 16:31:28 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "The press is the real political power in the US.",
+            "created": "Tue, 10 Apr 2018 16:30:19 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I love Apu, and that's the problem",
+            "created": "Tue, 10 Apr 2018 22:17:56 GMT",
+            "type": "outline",
+            "description": "I now better-understand the concern of South Asians re Apu. They are getting bullied, reduced to stereotype.",
+            "subs": [
+                {
+                    "text": "I now better-understand the <a href=\"https://en.wikipedia.org/wiki/The_Problem_with_Apu\">concern</a> of South Asians re <a href=\"https://en.wikipedia.org/wiki/Apu_Nahasapeemapetilon\">Apu</a>. They are getting bullied, reduced to stereotype. Apu is funny to us, but not to them.",
+                    "created": "Tue, 10 Apr 2018 22:18:02 GMT",
+                    "image": "http://scripting.com/images/2018/04/10/krusty.png"
+                },
+                {
+                    "text": "The analogy is not true. As a Jew, I've never had someone call me <a href=\"https://en.wikipedia.org/wiki/Krusty_the_Clown\">Krusty</a>. If it happened I would have no idea what they were talking about. Not so with Apu and Indians.",
+                    "created": "Tue, 10 Apr 2018 22:19:46 GMT"
+                },
+                {
+                    "text": "We have trouble understanding the problem with Apu because we love him. But they don't love him. I'm not sure what to do about it, but the people who write The Simpsons said pretty much exactly the <a href=\"https://www.theverge.com/2018/4/10/17216420/the-simpsons-problem-with-apu-response-politically-incorrect-stereotype-hari-kondabolu\">worst thing</a> about it in the latest episode.",
+                    "created": "Tue, 10 Apr 2018 22:20:20 GMT"
+                }
+            ]
+        },
+        {
+            "text": "A thought on JavaScript syntax",
+            "created": "Tue, 10 Apr 2018 16:07:04 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I find it hard to remember this syntax. ",
+                    "created": "Tue, 10 Apr 2018 16:07:11 GMT",
+                    "subs": [
+                        {
+                            "text": "let checked = (flSubscribed) ? \"checked\" : \"\"; ",
+                            "created": "Tue, 10 Apr 2018 16:07:16 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "This would be easy to remember:",
+                    "created": "Tue, 10 Apr 2018 16:07:35 GMT",
+                    "subs": [
+                        {
+                            "text": "let checked = (flSubscribed) then \"checked\"else \"\"; ",
+                            "created": "Tue, 10 Apr 2018 16:07:48 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "Not saying anything should change, of course. :boom:",
+                    "created": "Tue, 10 Apr 2018 16:08:10 GMT"
+                }
+            ]
+        }
+    ]
+}
