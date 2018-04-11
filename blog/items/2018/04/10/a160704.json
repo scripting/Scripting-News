@@ -1,0 +1,31 @@
+{
+    "text": "A thought on JavaScript syntax",
+    "created": "Tue, 10 Apr 2018 16:07:04 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I find it hard to remember this syntax. ",
+            "created": "Tue, 10 Apr 2018 16:07:11 GMT",
+            "subs": [
+                {
+                    "text": "let checked = (flSubscribed) ? \"checked\" : \"\"; ",
+                    "created": "Tue, 10 Apr 2018 16:07:16 GMT"
+                }
+            ]
+        },
+        {
+            "text": "This would be easy to remember:",
+            "created": "Tue, 10 Apr 2018 16:07:35 GMT",
+            "subs": [
+                {
+                    "text": "let checked = (flSubscribed) then \"checked\"else \"\"; ",
+                    "created": "Tue, 10 Apr 2018 16:07:48 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Not saying anything should change, of course. :boom:",
+            "created": "Tue, 10 Apr 2018 16:08:10 GMT"
+        }
+    ]
+}
