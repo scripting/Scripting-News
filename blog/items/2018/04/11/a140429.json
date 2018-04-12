@@ -1,0 +1,154 @@
+{
+    "text": "Where we're at with Facebook",
+    "created": "Wed, 11 Apr 2018 14:04:29 GMT",
+    "type": "outline",
+    "description": "It's a confusing and complicated story, and also not well-reported. The bottom-line is that this is the tip of a very large iceberg. Its nature and scope of must be understood, now.",
+    "subs": [
+        {
+            "text": "Here is my summary of what I've been writing on my <a href=\"http://scripting.com/\">blog</a> for the last few weeks while the <a href=\"https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal\">CA/FB</a> <a href=\"https://www.techmeme.com/180411/p7#a180411p7\">controversy</a> was brewing.",
+            "created": "Wed, 11 Apr 2018 14:04:35 GMT",
+            "flNumberedSubs": "true"
+        },
+        {
+            "text": "<b>There are two stories, advertising and world domination</b>",
+            "created": "Wed, 11 Apr 2018 14:06:42 GMT",
+            "flNumberedSubs": "false"
+        },
+        {
+            "text": "First, there's targeted advertising. Facebook has an ad system, a web app like Facebook itself, where people enter credit card information, keywords and demographics to determine who sees their ad. They don't get any information about the users this way.",
+            "created": "Wed, 11 Apr 2018 14:34:57 GMT"
+        },
+        {
+            "text": "Second, there's the API. This is how Cambridge Analytica got the data.",
+            "created": "Wed, 11 Apr 2018 15:32:46 GMT"
+        },
+        {
+            "text": "Here's that story. In <a href=\"https://mashable.com/2010/04/21/facebook-open-graph/#XlsVmbOnEkq8\">2010</a> Facebook announced with huge fanfare <i>and press coverage</i> that they were opening up Facebook's data to developers. They called it The Social Graph. They would accumulate every fact in the world, and turn that into a platform for developers.",
+            "created": "Wed, 11 Apr 2018 14:08:21 GMT"
+        },
+        {
+            "text": "They weren't doing this out of the goodness of their heart, though there is some of that (seriously, not kidding). This is how tech companies achieve dominance. They capture developers and potential competitors by being the environment everyone makes software for. We become part of their ecosystem, they control us. I'm sure Bill Gates and Steve Jobs schooled him on how to do this. It's how power is expressed in tech.",
+            "created": "Wed, 11 Apr 2018 15:09:51 GMT"
+        },
+        {
+            "text": "<b>Was it a breach?</b>",
+            "created": "Wed, 11 Apr 2018 14:11:44 GMT"
+        },
+        {
+            "text": "<a href=\"https://www.consumer.ftc.gov/blog/2017/09/equifax-data-breach-what-do\">Equifax</a> was a bonafide breach. The information captured was what you need to impersonate someone in financial transactions. 148 million identities.",
+            "created": "Wed, 11 Apr 2018 14:11:49 GMT"
+        },
+        {
+            "text": "In 2008, the <a href=\"https://www.wired.com/2009/10/probe-targets-archives-handling-of-data-on-70-million-vets/\">US government</a> had a massive data breach of veterans data, 70 million records. Again the kind of data that can be used to impersonate people to steal money. ",
+            "created": "Wed, 11 Apr 2018 14:12:59 GMT"
+        },
+        {
+            "text": "We're not sure all that has leaked through the Facebook API. In the last few days people have been saying that direct messages, which feel very private, were shared through the API. If so, yes this was a breach. However everything else was pretty well disclosed.",
+            "created": "Wed, 11 Apr 2018 14:38:48 GMT"
+        },
+        {
+            "text": "The reason it's a shock is the press failed to report on it in 2010 and after. Facebook does a thorough job of disclosing it to users. Zuckerberg was being dishonest in other ways in his testimony, but in this respect, he was being truthful. Not necssarily kind or fair, however, because they, like everyone in tech, are aware that users don't understand what they're giving up.",
+            "created": "Wed, 11 Apr 2018 15:13:54 GMT"
+        },
+        {
+            "text": "<b>What's unique about Cambridge Analytica?</b>",
+            "created": "Wed, 11 Apr 2018 14:19:15 GMT"
+        },
+        {
+            "text": "Not much. Every developer that has access to the Facebook API, and it's more or less open to the world. Any of them could have done what CA did. The API been around for 8 years, and in that time companies formed solely to use the data that you can get through the API. Many of them. ",
+            "created": "Wed, 11 Apr 2018 14:19:26 GMT"
+        },
+        {
+            "text": "An analogy. This would be like saying a leaky faucet in Manhattan is a crisis. It would be wrong. The crisis could be all the leaky faucets everywhere. The intersection of CA with Facebook, while it sounds big is actually pretty small in comparison to the actual scope of the problem.",
+            "created": "Wed, 11 Apr 2018 14:20:33 GMT"
+        },
+        {
+            "text": "<b>Were users hurt?</b>",
+            "created": "Wed, 11 Apr 2018 14:05:40 GMT"
+        },
+        {
+            "text": "Because I am a developer who uses the same API as CA I knew what was going on. Even so -- I used some of the data capture services that masqueraded as tests and quizzes. But relative to Equifax, other credit companies, doctors I've used, banks, many of which have had real data breaches, Facebook really doesn't have much if any info that isn't already out there. ",
+            "created": "Wed, 11 Apr 2018 14:11:21 GMT"
+        },
+        {
+            "text": "It's really hard to find much damage done to users here. Much less so than with Equifax or NARA, for example. ",
+            "created": "Wed, 11 Apr 2018 14:24:10 GMT"
+        },
+        {
+            "text": "<b>First Amendment</b>",
+            "created": "Wed, 11 Apr 2018 14:18:34 GMT"
+        },
+        {
+            "text": "Facebook is a silo, and that's bad for freedom, but it is a place where a lot of speech happens, so there are First Amendment issues with regulating Facebook. ",
+            "created": "Wed, 11 Apr 2018 14:18:37 GMT"
+        },
+        {
+            "text": "<b>Should there be regulation?</b>",
+            "created": "Wed, 11 Apr 2018 14:42:00 GMT"
+        },
+        {
+            "text": "Yes. On privacy disclosure, and prohibiting the most draconian uses of user data. It should not be possible for users to give those rights up in exchange for use of a social system like Facebook. The idea is similar to the law in California that says that most non-competes are not enforceable. The benefit you receive has to be somewhat equivalent to the data you give up. ",
+            "created": "Wed, 11 Apr 2018 14:42:04 GMT"
+        },
+        {
+            "text": "<b>What about Google, Apple, Amazon?</b>",
+            "created": "Wed, 11 Apr 2018 14:24:48 GMT"
+        },
+        {
+            "text": "This is the really important stuff.",
+            "created": "Wed, 11 Apr 2018 14:47:45 GMT"
+        },
+        {
+            "text": "This affair should get users, government and the press to look at other tech companies who have business models based on getting users to disclose ever-more-intimate information. Here are some examples.",
+            "created": "Wed, 11 Apr 2018 14:24:58 GMT"
+        },
+        {
+            "text": "Google, through Android, knows every place you go. They use that data. Do they sell it? I don't know, but I'm pretty sure you can use it to target ads. Apple, through the iPhone also knows where you go.",
+            "created": "Wed, 11 Apr 2018 14:48:44 GMT"
+        },
+        {
+            "text": "Apps on Android or iPhones can be told where you go. Many of them are only useful if you let them have the info. Apps can also have all your pictures, contacts. Face recognition makes it possible to construct a social graph without any access to the Facebook API.",
+            "created": "Wed, 11 Apr 2018 14:50:25 GMT"
+        },
+        {
+            "text": "Google and Apple can listen to all your phone calls.",
+            "created": "Wed, 11 Apr 2018 14:50:18 GMT"
+        },
+        {
+            "text": "Google, through their Chrome browser, knows everywhere you go on the web, and everything you type into the browser. ",
+            "created": "Wed, 11 Apr 2018 14:49:11 GMT"
+        },
+        {
+            "text": "Amazon Echo and Google Home are always listening. Imagine a leak based on conversations at home, phone calls, personal habits, arguments you have with your spouse, kids, any illegal activities that might be going on in your home. ",
+            "created": "Wed, 11 Apr 2018 14:26:29 GMT"
+        },
+        {
+            "text": "If you have a Gmail account, Google reads your mail, and targets ads at you based on what you're writing about. They also read the email that people send to you, people who may not also be Gmail users. Some examples of how creepy this can be -- they seem to know what my investments are, btw -- I assume they figured this out through email. Recently they told me when a friend's flight to NYC was arriving. I don't know how they made this connection. I assume it was through email.",
+            "created": "Wed, 11 Apr 2018 14:27:41 GMT"
+        },
+        {
+            "text": "Amazon, of course, knows everything you buy through Amazon. ",
+            "created": "Wed, 11 Apr 2018 14:29:11 GMT"
+        },
+        {
+            "text": "Google knows everything you search for. ",
+            "created": "Wed, 11 Apr 2018 14:29:29 GMT"
+        },
+        {
+            "text": "And on and on. We've reconstructed our whole society around companies having all the data about us that they want. It's kind of funny that we're all freaking out about Cambridge Analytica and Facebook. The problem is so much bigger. ",
+            "created": "Wed, 11 Apr 2018 14:53:04 GMT"
+        },
+        {
+            "text": "<b>Summary</b>",
+            "created": "Wed, 11 Apr 2018 14:29:52 GMT"
+        },
+        {
+            "text": "It seems like a non-event to me. The press knew all about the API going back to 2012. That they didn't foresee the problem then is a result of the press accepting the hype of big tech companies on their terms, and not trying to find out what the implications of technology are from non-partisan experts. This was a story that could have and should have been written in 2010, warning users of a hidden cost to Facebook.",
+            "created": "Wed, 11 Apr 2018 14:29:54 GMT"
+        },
+        {
+            "text": "Today's scandal, the equivalent of the one in 2010, is that Google is <a href=\"http://this.how/googleAndHttp/\">attempting</a> to turn the web into a corporate platform. Once they control the web as Facebook controls the Social Graph, we'll have another impossibly huge problem to deal with. Better to head this one off with regulation, now, when it can do some good. ",
+            "created": "Wed, 11 Apr 2018 14:31:40 GMT"
+        }
+    ]
+}
