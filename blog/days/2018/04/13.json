@@ -1,0 +1,46 @@
+{
+    "text": "April 13",
+    "created": "Fri, 13 Apr 2018 15:23:07 GMT",
+    "name": "13",
+    "subs": [
+        {
+            "text": "Made a lot of progress today on using <a href=\"https://www.jsdelivr.com/\">jsdelivr</a> as a <a href=\"https://github.com/scripting/river5/issues/21\">CDN for River5</a>. Expect to have something to release tomorrow. ",
+            "created": "Fri, 13 Apr 2018 22:07:29 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Uber, AirBnB and ?",
+            "created": "Fri, 13 Apr 2018 15:23:08 GMT",
+            "type": "outline",
+            "description": "Where is the analog in news for Uber drivers and AirBnB hosts.",
+            "subs": [
+                {
+                    "text": "I posed a query on Twitter this morning. \"Uber is to taxis as AirBnB is to hotels as x is for news. What is x?\"",
+                    "created": "Fri, 13 Apr 2018 15:23:20 GMT",
+                    "urltweet": "https://twitter.com/davewiner/status/984777644976861184"
+                },
+                {
+                    "text": "Jim Parsons <a href=\"https://twitter.com/JPWP/status/984781958310973440\">said</a> the answer is RSS.  ",
+                    "created": "Fri, 13 Apr 2018 15:23:56 GMT"
+                },
+                {
+                    "text": "To which I said: \"Sorry that's not what I was getting at. RSS is a channel for news. The others are replacements for taxis and hotels. Not analogous.\"",
+                    "created": "Fri, 13 Apr 2018 15:24:49 GMT"
+                },
+                {
+                    "text": "Then I thought about it and changed my mind.",
+                    "created": "Fri, 13 Apr 2018 15:25:15 GMT"
+                },
+                {
+                    "text": "Uber and AirBnB <i>are</i> channels, not the cars or homes that are shared. So RSS is perfectly analogous. The question I was really asking is this: Where is the analog in news for Uber drivers and AirBnB hosts. I once thought and still do that blogging was the seed for that movement. It faltered, perhaps because roadblocks were put in its way in the form of Google Reader and the pretense among news people that they were bloggers, and perhaps the relatively low value users place on news. We know what a taxi ride is worth, and a hotel room, but we have a less precise understanding of the value of news.",
+                    "created": "Fri, 13 Apr 2018 15:25:22 GMT",
+                    "image": "http://scripting.com/images/2017/12/20/shrek.png"
+                },
+                {
+                    "text": "I still think that blogging is the answer. I know news people find it abhorrent, but I think to the extent they do, they are actually anti-news people, like the <a href=\"https://en.wikipedia.org/wiki/Hans_Brinker,_or_The_Silver_Skates\">Dutch boy</a> with his finger in the dike. ",
+                    "created": "Fri, 13 Apr 2018 15:27:48 GMT"
+                }
+            ]
+        }
+    ]
+}
