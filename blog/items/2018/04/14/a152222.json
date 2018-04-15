@@ -1,0 +1,27 @@
+{
+    "text": "CDN overhaul for River5",
+    "created": "Sat, 14 Apr 2018 15:22:22 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "The new releases of \"river5\" and <a href=\"https://github.com/scripting/reader\">davereader</a> are out.",
+            "created": "Sat, 14 Apr 2018 15:22:41 GMT"
+        },
+        {
+            "text": "It felt like it was going to be a small change, but it wasn't. ",
+            "created": "Sat, 14 Apr 2018 15:22:28 GMT"
+        },
+        {
+            "text": "That said, there are still references to fargo.io in the code. That'll take more time to shake out because this code is shared with my other projects. But the main files for displaying rivers are now in <a href=\"https://www.jsdelivr.com/\">jsdelivr</a>.",
+            "created": "Sat, 14 Apr 2018 15:23:01 GMT"
+        },
+        {
+            "text": "Please update your \"River5\" installation, <a href=\"https://github.com/scripting/river5/issues/21\">watch for problems </a>.",
+            "created": "Sat, 14 Apr 2018 15:23:15 GMT"
+        },
+        {
+            "text": "If you want to see all the code that's being accessed through the CDN, it's in the <a href=\"https://github.com/scripting/river5/tree/master/includes\">River5 repository</a> on GitHub.",
+            "created": "Sat, 14 Apr 2018 15:40:52 GMT"
+        }
+    ]
+}
