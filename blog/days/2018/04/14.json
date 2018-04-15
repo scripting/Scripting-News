@@ -1,0 +1,73 @@
+{
+    "text": "April 14",
+    "created": "Sat, 14 Apr 2018 15:22:21 GMT",
+    "name": "14",
+    "subs": [
+        {
+            "text": "Open source developers need as much support as the users of their products. With that in mind, I want to congratulate the developers of <a href=\"https://www.jsdelivr.com/\">jsDelivr</a>. I just <a href=\"http://scripting.com/2018/04/14/152222.html\">adapted</a> my project to use it as a CDN. The process was hard work, but made much easier by the docs and design of jsDelivr. That part was a breeze. They tell you just what you need to know when you need to know it with no extra fluff. This is really rare. Good work! :boom:",
+            "created": "Sat, 14 Apr 2018 15:51:01 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/11/26/wonderWoman.png"
+        },
+        {
+            "text": "BTW, development on \"feedbase\" is on pause, but I'm going to swing back around to it. I find it's good that once the initial problems are shaken out of a new product, it's good to step back and let it settle down before the next major construction project. (Update: as soon as I wrote this, I found two glaring problems. I'm going to fix them now, not going to wait for the next round of work.)",
+            "created": "Sat, 14 Apr 2018 15:42:14 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I wrote an <a href=\"http://scripting.com/2018/04/11/140429.html\">overview</a> of Cambridge Analytica and Facebook, the piece I feel the press hasn't written. In case you haven't seen it. :rocket:",
+            "created": "Sat, 14 Apr 2018 15:30:07 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Future of News con for devs",
+            "created": "Sat, 14 Apr 2018 19:10:13 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I want a future-of-news conference where we plan new open systems for news publishing and reading, without sponsorship of big tech companies such as Facebook or Google. ",
+                    "created": "Sat, 14 Apr 2018 19:10:34 GMT"
+                },
+                {
+                    "text": "There would be a session at the conference entitled How To Get Facebook and Google to Give Us Money, and it would be off-topic at every other session. That way the sessions wouldn't all be repetitive expressions of powerlessness and we could get some work done.",
+                    "created": "Sat, 14 Apr 2018 19:10:39 GMT"
+                },
+                {
+                    "text": "People who were at BloggerCon will recognize this as the How To Make Money With Your Blog session at that conference. We swept up all the powerlessness into one session, and made it off-topic at every other one. It worked.",
+                    "created": "Sat, 14 Apr 2018 19:10:56 GMT"
+                },
+                {
+                    "text": "Artists when they get together, all they want to talk about is how they need to make money. I've never seen a discussion among creative people that didn't immediately devolve to this. In F-O-N, big tech companies encourage this. They want all the attention focused on them.",
+                    "created": "Sat, 14 Apr 2018 19:11:16 GMT"
+                }
+            ]
+        },
+        {
+            "text": "CDN overhaul for River5",
+            "created": "Sat, 14 Apr 2018 15:22:22 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "The new releases of \"river5\" and <a href=\"https://github.com/scripting/reader\">davereader</a> are out.",
+                    "created": "Sat, 14 Apr 2018 15:22:41 GMT"
+                },
+                {
+                    "text": "It felt like it was going to be a small change, but it wasn't. ",
+                    "created": "Sat, 14 Apr 2018 15:22:28 GMT"
+                },
+                {
+                    "text": "That said, there are still references to fargo.io in the code. That'll take more time to shake out because this code is shared with my other projects. But the main files for displaying rivers are now in <a href=\"https://www.jsdelivr.com/\">jsdelivr</a>.",
+                    "created": "Sat, 14 Apr 2018 15:23:01 GMT"
+                },
+                {
+                    "text": "Please update your \"River5\" installation, <a href=\"https://github.com/scripting/river5/issues/21\">watch for problems </a>.",
+                    "created": "Sat, 14 Apr 2018 15:23:15 GMT"
+                },
+                {
+                    "text": "If you want to see all the code that's being accessed through the CDN, it's in the <a href=\"https://github.com/scripting/river5/tree/master/includes\">River5 repository</a> on GitHub.",
+                    "created": "Sat, 14 Apr 2018 15:40:52 GMT"
+                }
+            ]
+        }
+    ]
+}
