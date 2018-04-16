@@ -1,0 +1,32 @@
+{
+    "text": "April 15",
+    "created": "Sun, 15 Apr 2018 16:32:14 GMT",
+    "name": "15",
+    "subs": [
+        {
+            "text": "Future-safing the web",
+            "created": "Sun, 15 Apr 2018 16:36:13 GMT",
+            "type": "outline",
+            "description": "This is something users of the web, news orgs, librarians, historians, researchers, should care about.",
+            "subs": [
+                {
+                    "text": "As you know <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+future-safe+web&t=hh&ia=web\">from</a> reading this blog, I am a big fan of efforts to make the web long-lived. And that's why I was interested in <a href=\"http://www.niemanlab.org/2018/04/heres-how-the-new-york-times-is-trying-to-preserve-millions-of-old-pages-the-way-they-were-originally-published/\">this story</a> about how the NYT is creating new archives of old stories so they appear on the web exactly as they did when the stories ran. ",
+                    "created": "Sun, 15 Apr 2018 16:37:05 GMT",
+                    "image": "http://scripting.com/images/2018/01/16/librarianActionFigure.png"
+                },
+                {
+                    "text": "For example, here's an <a href=\"https://archive.nytimes.com/www.nytimes.com/indexes/2001/09/11/\">archive</a> of the NYT home page for 9/11/2001. Interestingly, I took a <a href=\"http://scripting.com/images/nyTimesHomeBombing7AM2.gif\">screen shot</a> of that page earlier in the day, as the story was unfolding. There was no question history was happening <a href=\"http://scripting.com/2001/09/11.html\">that day</a>.",
+                    "created": "Sun, 15 Apr 2018 17:43:27 GMT"
+                },
+                {
+                    "text": "It's good, but who is going to do this for historic weblogs? I've kept my blog around, and various experiments I've done over the years. I have generally tried to use technology that I believed was going to stick around, so I've never built on Flash, for example. I've used static HTML files as much as possible. But even so, there are quite a few gaps in my archive, esp where I have let domains lapse. ",
+                    "created": "Sun, 15 Apr 2018 16:36:36 GMT"
+                },
+                {
+                    "text": "And of course a huge bonfire of breakage is coming as Google tries to turn off HTTP. This is something users of the web, news orgs, libraries, historians, researchers, should join me in condemning. Changing to a new protocol is fine if you want to do it, but trying to force people to? That's a company that needs to be told to stay in its lane. More on this on the <a href=\"http://this.how/googleAndHttp/\">Google and HTTP</a> faq.",
+                    "created": "Sun, 15 Apr 2018 16:37:01 GMT"
+                }
+            ]
+        }
+    ]
+}
