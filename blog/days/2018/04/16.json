@@ -1,0 +1,73 @@
+{
+    "text": "April 16",
+    "created": "Mon, 16 Apr 2018 14:33:45 GMT",
+    "name": "16",
+    "subs": [
+        {
+            "text": "18-minute <a href=\"http://scripting.com/2018/04/16/denverPostAndBerkeleyside.m4a\">podcast</a> about the <a href=\"https://www.denverpost.com/2018/04/06/as-vultures-circle-the-denver-post-must-be-saved/\">Denver</a> <a href=\"https://boulderfreepress.blog/2018/04/14/private-equity-owners-endanger-cameras-future/\">newspapers</a> and <a href=\"https://www.lenfestinstitute.org/solution-set/2018/04/12/local-news-site-berkeleyside-raised-1-million-direct-public-offering/\">Berkeleyside</a>. The Denver news orgs are doing something unusual, crossing the wall between publishing and editorial. And <a href=\"http://www.berkeleyside.com/\">Berkeleyside</a>, a local news org who just did a public <a href=\"http://invest.berkeleyside.com/\">offering</a> of stock, and <i>eliminated</i> the wall between publishing and editorial. Have a listen and think if perhaps this isn't a better way forward for news than paywalls and hedge-fund ownership.",
+            "created": "Mon, 16 Apr 2018 20:20:33 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2018/04/16/denverPostAndBerkeleyside.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "8814002"
+        },
+        {
+            "text": "I wish the Democrats were self-aware enough to choose the strongest candidate to run against Trump or whoever is the Republican nominee in 2020. People still think in terms of a perfect candidate. Dems don't have any. But that's not a problem because the Repubs don't have any either. Imho what we need is someone who appeals to the massive core of American voters, without betraying us to the super-rich. Never mind who appeals to <i>you</i> -- you're going to vote rationally. Think about the massive number of voters who don't. I don't think they're fascists or KKKs, I think they are emotional and want to feel good. Who can give a rousing even angry speech that gets people to feel good about themselves without tearing other people down (except for Trump of course). That's the one. Imho",
+            "created": "Mon, 16 Apr 2018 17:27:32 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/04/16/sealOfThePresident.png"
+        },
+        {
+            "text": "Sometimes things have to fall apart before they can start to make sense again. When they write the history of the web, if they get the story right, a big event will be the San Francisco newspaper strike in 1994. A lot of ideas came together there, across a wide divide. It showed us how news and tech are inextricably entwined.",
+            "created": "Mon, 16 Apr 2018 15:44:41 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "The best part of the <a href=\"http://abcnews.go.com/Site/transcript-james-comeys-interview-abc-news-chief-anchor/story?id=54488723\">Comey interview</a> last night was when he asked what the f*ck were <a href=\"https://www.politico.com/magazine/story/2017/05/10/james-comey-firing-trump-lavrov-putin-215124\">Russians</a> doing in the Oval Office, without any Americans there other than the president (who is obviously a Russian tool).",
+            "created": "Mon, 16 Apr 2018 15:11:16 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Installing the latest River5",
+            "created": "Mon, 16 Apr 2018 14:33:46 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "There have been a couple of reports of trouble installing the latest \"RIver5\", both having to do with the <a href=\"https://www.npmjs.com/package/iconv\">iconv package</a>, which is a <a href=\"http://scripting.com/2018/04/08.html\">relatively new</a> addition to River5. Here's the <a href=\"https://github.com/scripting/river5/issues/20#issuecomment-381571359\">latest report</a>.",
+                    "created": "Mon, 16 Apr 2018 14:33:58 GMT"
+                },
+                {
+                    "text": "I don't know what the problem is, I had no problems installing it on my Mac or on a Linux server. ",
+                    "created": "Mon, 16 Apr 2018 14:43:22 GMT"
+                },
+                {
+                    "text": "When I have trouble with NPM, this is what I do:",
+                    "created": "Mon, 16 Apr 2018 14:37:09 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Delete the node_modules folder and do an <i>npm install. </i>",
+                            "created": "Mon, 16 Apr 2018 14:37:37 GMT"
+                        },
+                        {
+                            "text": "If that doesn't work, <a href=\"https://docs.npmjs.com/troubleshooting/try-clearing-the-npm-cache\">clear</a> NPM's cache, delete the node_modules folder and do an <i>npm install. </i>",
+                            "created": "Mon, 16 Apr 2018 14:38:00 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "What's unusual about iconv is that it's written in C, and as part of the npm install process it needs to compile it to machine code. ",
+                    "created": "Mon, 16 Apr 2018 14:44:01 GMT"
+                },
+                {
+                    "text": "I am anything but an expert in NPM problems, that's why I'm raising a flag <a href=\"http://scripting.com/2018/04/16/143346.html\">here</a> on Scripting News. ",
+                    "created": "Mon, 16 Apr 2018 14:38:36 GMT"
+                },
+                {
+                    "text": "Update: I think <a href=\"https://github.com/scripting/river5/issues/21#issuecomment-381623181\">Anton</a> got to the bottom of it. Some systems have it set up so that you can't run downloaded stuff without modifying permissions. ",
+                    "created": "Mon, 16 Apr 2018 15:17:06 GMT"
+                }
+            ]
+        }
+    ]
+}
