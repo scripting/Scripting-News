@@ -1,0 +1,42 @@
+{
+    "text": "Installing the latest River5",
+    "created": "Mon, 16 Apr 2018 14:33:46 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "There have been a couple of reports of trouble installing the latest \"RIver5\", both having to do with the <a href=\"https://www.npmjs.com/package/iconv\">iconv package</a>, which is a <a href=\"http://scripting.com/2018/04/08.html\">relatively new</a> addition to River5. Here's the <a href=\"https://github.com/scripting/river5/issues/20#issuecomment-381571359\">latest report</a>.",
+            "created": "Mon, 16 Apr 2018 14:33:58 GMT"
+        },
+        {
+            "text": "I don't know what the problem is, I had no problems installing it on my Mac or on a Linux server. ",
+            "created": "Mon, 16 Apr 2018 14:43:22 GMT"
+        },
+        {
+            "text": "When I have trouble with NPM, this is what I do:",
+            "created": "Mon, 16 Apr 2018 14:37:09 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "Delete the node_modules folder and do an <i>npm install. </i>",
+                    "created": "Mon, 16 Apr 2018 14:37:37 GMT"
+                },
+                {
+                    "text": "If that doesn't work, <a href=\"https://docs.npmjs.com/troubleshooting/try-clearing-the-npm-cache\">clear</a> NPM's cache, delete the node_modules folder and do an <i>npm install. </i>",
+                    "created": "Mon, 16 Apr 2018 14:38:00 GMT"
+                }
+            ]
+        },
+        {
+            "text": "What's unusual about iconv is that it's written in C, and as part of the npm install process it needs to compile it to machine code. ",
+            "created": "Mon, 16 Apr 2018 14:44:01 GMT"
+        },
+        {
+            "text": "I am anything but an expert in NPM problems, that's why I'm raising a flag <a href=\"http://scripting.com/2018/04/16/143346.html\">here</a> on Scripting News. ",
+            "created": "Mon, 16 Apr 2018 14:38:36 GMT"
+        },
+        {
+            "text": "Update: I think <a href=\"https://github.com/scripting/river5/issues/21#issuecomment-381623181\">Anton</a> got to the bottom of it. Some systems have it set up so that you can't run downloaded stuff without modifying permissions. ",
+            "created": "Mon, 16 Apr 2018 15:17:06 GMT"
+        }
+    ]
+}
