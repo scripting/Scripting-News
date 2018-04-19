@@ -1,0 +1,36 @@
+{
+    "text": "Long ago, I designed a language",
+    "created": "Wed, 18 Apr 2018 16:46:09 GMT",
+    "type": "outline",
+    "description": "Most people don't know about Frontier. But you probably do know about things that were developed in Frontier. Like the first blogs, podcasts, RSS feeds, readers and content creation tools, XML-RPC and lots of other good shit.",
+    "subs": [
+        {
+            "text": "Little-known fact: I designed and developed a programming language.",
+            "created": "Wed, 18 Apr 2018 16:46:20 GMT"
+        },
+        {
+            "text": "My goal was to create an <a href=\"http://scripting.com/frontier/beginning/whatFrontierIs.html\">environment</a> I would work in for the rest of my career. I just realized it's exactly <i>30 years later, </i>and I'm still using it.",
+            "created": "Wed, 18 Apr 2018 16:46:34 GMT"
+        },
+        {
+            "text": "<b>30 fucking years</b>. I think I earned the right to say it that way. :rocket:",
+            "created": "Wed, 18 Apr 2018 16:52:54 GMT"
+        },
+        {
+            "text": "Now that I also work in JavaScript, it amazes me how easy the simple things are in \"Frontier\", compared to JS, esp when you have to tack on a database. You really have to work at seeing what's going on. In Frontier, you just click around expanding things. You can even look at the runtime stack that way.",
+            "created": "Wed, 18 Apr 2018 16:46:57 GMT"
+        },
+        {
+            "text": "We hacked and optimized and reworked things. In comparison, JS was developed in a more chaotic way. Too many ways to do the same thing imho. In Frontier there tended to be one, which is my preference. However there are missing features. Maybe at some point I'll try to rebuild Frontier in JavaScript. I think I'm now good enough to do it. The original was written in straight C.",
+            "created": "Wed, 18 Apr 2018 16:47:13 GMT"
+        },
+        {
+            "text": "Where would I start? <a href=\"https://github.com/scripting/frontier/blob/master/Common/source/db.c\">db.c </a>of course. :boom:",
+            "created": "Wed, 18 Apr 2018 16:47:39 GMT"
+        },
+        {
+            "text": "PS: Most people don't know <a href=\"http://scripting.com/images/2018/04/18/aboutFrontier.png\">about</a> Frontier. But you probably do know about things that were developed in Frontier. Like the first blogs, podcasts, RSS feeds, readers and content creation tools, XML-RPC and lots of other good shit. People would ask me how I got so much done. \"Great tools.\" That's Frontier.",
+            "created": "Wed, 18 Apr 2018 16:49:35 GMT"
+        }
+    ]
+}
