@@ -1,0 +1,28 @@
+{
+    "text": "feedBase fixes",
+    "created": "Thu, 19 Apr 2018 16:47:52 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I found a \"feedbase\" problem, an interaction with the new checkboxes, de-duping and dereferencing feed URLs. It would manifest this way: Click a checkbox for a feed, reload the page, the feed is unchecked. But only for a few feeds. For most feeds it worked as it should (that's why I didn't catch the problem the first time around).",
+            "created": "Thu, 19 Apr 2018 16:47:56 GMT",
+            "image": "http://scripting.com/images/2018/04/19/roastBeefSandwich.png"
+        },
+        {
+            "text": "The common denominator -- the feeds were one of the de-duped feeds on the hotlist. The solution is to be careful with the de-duping map, to always map to the one that's preferred by the server, because we deref the URL before subscribing. We weren't doing that for a few of the de-duped feeds. The problem may come up with future mappings and I want to be sure we don't have to repeat the debugging process. ",
+            "created": "Thu, 19 Apr 2018 17:22:13 GMT"
+        },
+        {
+            "text": "Another thing -- when dereferencing a URL, if the only difference is the protocol, don't use the deref, stick with what you have.",
+            "created": "Thu, 19 Apr 2018 16:48:27 GMT"
+        },
+        {
+            "text": "I'm beginning to realize that we need feeds to have a guid, to take all the guesswork out of this. It's a real mess! Once you try to maintain a database of feeds, something I've not actually done myself before, you buy into trying to come up with a canonical ID for a feed. The URL works pretty well, until you realize that there are several different URLs for each feed. ",
+            "created": "Thu, 19 Apr 2018 16:49:15 GMT"
+        },
+        {
+            "text": "Also realizing we should have popped the protocol off the URL before using it as a key so http://xxx would be the same feed as https://xxx.",
+            "created": "Thu, 19 Apr 2018 17:23:35 GMT"
+        }
+    ]
+}
