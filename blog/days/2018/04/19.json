@@ -1,0 +1,70 @@
+{
+    "text": "April 19",
+    "created": "Thu, 19 Apr 2018 14:28:37 GMT",
+    "name": "19",
+    "subs": [
+        {
+            "text": "<a href=\"http://scripting.com/2018/04/11/140429.html\">As of April 11</a>, you had no excuse for not knowing that the privacy scandal was much <a href=\"http://scripting.com/2018/04/11/140429.html#a142448\">bigger</a> than Cambridge Analytica and Facebook. ",
+            "created": "Thu, 19 Apr 2018 22:23:52 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I'm five episodes into <a href=\"https://en.wikipedia.org/wiki/Babylon_Berlin#Broadcast\">Babylon Berlin</a> and loving it. ",
+            "created": "Thu, 19 Apr 2018 14:28:38 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "This <a href=\"https://www.youtube.com/watch?v=30PPdLTLlko\">song</a> is the point in Babylon Berlin when I knew I was hooked. It was about three episodes in, and i can see now that many of the main characters are in this scene. I didn't know that the first time around. ",
+            "created": "Thu, 19 Apr 2018 15:30:07 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=30PPdLTLlko"
+        },
+        {
+            "text": "Sometimes by chance <a href=\"https://twitter.com/davewiner/status/986983844103577603\">Twitter pairs</a> two messages that totally belong together. Death is very real, and unambiguous. People who care about language should leave it to do it's work when it's what's really happening. Speaking as someone with recent experience with actual death. And I doubly hate it when that word is applied to something I care about.",
+            "created": "Thu, 19 Apr 2018 15:20:30 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/986983844103577603"
+        },
+        {
+            "text": "Anyway not only is blogging not xxx, but look at all the new features here on \"Scripting News\". Many of these things have never been done in blogs before, or for that matter on news org sites. You only believe it's xxx if you <a href=\"http://thesaurus.land/?word=ignore\">ignore</a> everything outside your little piece of the blogging world (which for many is limited to their own blog). Just as we need to branch out and share innnovations in the <a href=\"http://scripting.com/2018/04/18.html#a214730\">land of RSS</a>, we must do that for blogging too, so that when people say it's xxx, we can <i>show them</i> how it's anything but. You want blogging to thrive? It can, if you're willing to look, and tell the story.",
+            "created": "Thu, 19 Apr 2018 15:31:37 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/01/26/falloutShelterGuy.png"
+        },
+        {
+            "text": "Maybe one of the problems is that the main blogging platforms aren't moving. Or if they are moving, only in increments, and not in features that readers can appreciate. What a blog is isn't changing much. And that's not good, or necessary. ",
+            "created": "Thu, 19 Apr 2018 15:53:51 GMT",
+            "type": "tweet",
+            "tweetId": "986996643294863361",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "feedBase fixes",
+            "created": "Thu, 19 Apr 2018 16:47:52 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I found a \"feedbase\" problem, an interaction with the new checkboxes, de-duping and dereferencing feed URLs. It would manifest this way: Click a checkbox for a feed, reload the page, the feed is unchecked. But only for a few feeds. For most feeds it worked as it should (that's why I didn't catch the problem the first time around).",
+                    "created": "Thu, 19 Apr 2018 16:47:56 GMT",
+                    "image": "http://scripting.com/images/2018/04/19/roastBeefSandwich.png"
+                },
+                {
+                    "text": "The common denominator -- the feeds were one of the de-duped feeds on the hotlist. The solution is to be careful with the de-duping map, to always map to the one that's preferred by the server, because we deref the URL before subscribing. We weren't doing that for a few of the de-duped feeds. The problem may come up with future mappings and I want to be sure we don't have to repeat the debugging process. ",
+                    "created": "Thu, 19 Apr 2018 17:22:13 GMT"
+                },
+                {
+                    "text": "Another thing -- when dereferencing a URL, if the only difference is the protocol, don't use the deref, stick with what you have.",
+                    "created": "Thu, 19 Apr 2018 16:48:27 GMT"
+                },
+                {
+                    "text": "I'm beginning to realize that we need feeds to have a guid, to take all the guesswork out of this. It's a real mess! Once you try to maintain a database of feeds, something I've not actually done myself before, you buy into trying to come up with a canonical ID for a feed. The URL works pretty well, until you realize that there are several different URLs for each feed. ",
+                    "created": "Thu, 19 Apr 2018 16:49:15 GMT"
+                },
+                {
+                    "text": "Also realizing we should have popped the protocol off the URL before using it as a key so http://xxx would be the same feed as https://xxx.",
+                    "created": "Thu, 19 Apr 2018 17:23:35 GMT"
+                }
+            ]
+        }
+    ]
+}
