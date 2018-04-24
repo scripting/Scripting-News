@@ -1,0 +1,6 @@
+{
+    "text": "A new kind of software I want to do. Starting with Node.js on the server and JavaScript in the browser as the foundation, ship sample apps or code examples that solve common problems with a neat simple API. We did this inside Frontier for many years, so there's plenty of prior art. The first one is a <a href=\"https://github.com/scripting/feedRead/blob/master/examples/readurl/read.js\">simple</a> feed reading <a href=\"https://www.npmjs.com/package/davefeedread\">API</a>. It takes the URL of a feed and calls back with either an error, or a JavaScript object containing the content of the feed, in a standard form, flattening the differences between the formats. Your code doesn't care. It also handles charset encoding. It's as simple as it can be. Now there's no excuse for not adding a feed reading capability to your Node app. ",
+    "created": "Mon, 23 Apr 2018 15:20:21 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2017/06/29/accordionGuy.png"
+}
