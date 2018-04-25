@@ -1,0 +1,57 @@
+{
+    "text": "Glitch and River5",
+    "created": "Tue, 24 Apr 2018 12:49:32 GMT",
+    "type": "outline",
+    "description": "River5 maintains the data about the feeds its following and the stories it has seen in the local filesystem. That gets recreated when the server is shut down and then restarted.",
+    "subs": [
+        {
+            "text": "TL;DR -- We're seeing if it's possible to run \"River5\" on <a href=\"http://glitch.com/\">Glitch</a>. ",
+            "created": "Tue, 24 Apr 2018 13:16:23 GMT"
+        },
+        {
+            "text": "Update #2 -- the current <a href=\"http://newriver5.glitch.me/\">demo server</a> has been configured to write all of River5's data into a folder named .data -- this folder is supposed to persist across launches. The proof will be if the <a href=\"http://newriver5.glitch.me/dashboard\">server</a> is still updating in 12 hours, i.e. 2:30AM Eastern time.",
+            "created": "Tue, 24 Apr 2018 18:28:06 GMT"
+        },
+        {
+            "text": "Update #1 -- maybe there is a way forward. They do something special with a folder named .data -- and luckily River5 can be told to maintain its data anywhere you like <a href=\"https://github.com/scripting/river5/blob/master/docs/CONFIG.md\">through</a> config.json. We may be back in business here. See the <a href=\"https://github.com/scripting/river5/issues/22#issuecomment-383989763\">thread</a> for details. ",
+            "created": "Tue, 24 Apr 2018 16:53:56 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<b>Notes from earlier in the day follow...</b>",
+            "created": "Tue, 24 Apr 2018 18:34:09 GMT"
+        },
+        {
+            "text": "Yesterday I posted a <a href=\"http://newriver5.glitch.me/\">link</a> to a \"River5\" server running on <a href=\"https://glitch.com/\">Glitch</a>, the result of a braintrust <a href=\"https://github.com/scripting/river5/issues/22\">query</a> earlier in the day. This was significant because Glitch is easy to get started with for people new to running servers, a good thing, and it's free. Seeing it run River5 was great. Alas, when I came back an hour later, the server had lost its memory of previous stories and had started over. You can see this by watching the <a href=\"http://newriver5.glitch.me/dashboard\">dashboard</a> page on the server.",
+            "created": "Tue, 24 Apr 2018 12:52:36 GMT"
+        },
+        {
+            "text": "I found a <a href=\"https://glitch.com/faq#restrictions\">doc</a> that explains its technical limits, notably:",
+            "created": "Tue, 24 Apr 2018 12:58:23 GMT"
+        },
+        {
+            "text": "<i>Projects sleep after 5 minutes if they are not used, and those running for more than 12 hours are stopped. Both wake again when they receive a HTTP request.</i> ",
+            "created": "Tue, 24 Apr 2018 12:59:53 GMT"
+        },
+        {
+            "text": "This is similar to what happens on Heroku with free projects. So I tried what had worked for Heroku, I wrote a script that runs on my desktop that reads a fast page on the server once a minute. It should, according to their warning, keep the server running. ",
+            "created": "Tue, 24 Apr 2018 13:04:38 GMT"
+        },
+        {
+            "text": "River5 maintains the data about the feeds its following and the stories it has seen in the local filesystem. That gets recreated when the server is shut down and then restarted. So, even with a keep-alive script, it will lose its memory after 12 hours. ",
+            "created": "Tue, 24 Apr 2018 13:05:44 GMT"
+        },
+        {
+            "text": "However this paragraph seems to contradict that conclusion --",
+            "created": "Tue, 24 Apr 2018 13:09:31 GMT"
+        },
+        {
+            "text": "<i>Projects have a limit of 128MB of space on the container. Though things written to '/tmp' don't count towards that, nor do your Node modules, and we use compression to squeeze the most out of that space. Plus, there's an additional 512MB of assets storage space too.</i> ",
+            "created": "Tue, 24 Apr 2018 13:09:37 GMT"
+        },
+        {
+            "text": "I'm guessing they have an API for this? Not sure. River5 just keeps JSON files in the filesystem. It uses the Node <a href=\"https://www.w3schools.com/nodejs/nodejs_filesystem.asp\">fs package</a> to read and write. ",
+            "created": "Tue, 24 Apr 2018 13:09:45 GMT"
+        }
+    ]
+}
