@@ -1,0 +1,35 @@
+{
+    "text": "April 25",
+    "created": "Wed, 25 Apr 2018 14:05:46 GMT",
+    "name": "25",
+    "subs": [
+        {
+            "text": "<a href=\"https://daringfireball.net/linked/2018/04/25/30-years-of-frontier\">Nice write-up</a> for 30 years of Frontier on Daring Fireball. <i>Thanks! </i>",
+            "created": "Wed, 25 Apr 2018 21:48:23 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "The <a href=\"https://newriver5.glitch.me/\">demo river</a> on Glitch now runs in HTTPS. (Yes, I support it in my products, when I can, but my websites won't, not until we get Google to kick back. No one owns the web. That's an absolute.)",
+            "created": "Wed, 25 Apr 2018 19:36:42 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://www.goldenhillsoftware.com/2018/04/unread-193/\">Unread 1.9.3</a> supports titleless items in feeds. Thanks! Next, let's ask Inoreader and NewsBlur to do so as well. Here's a <a href=\"http://scripting.com/rss.xml\">feed</a> to test with. This is an important <a href=\"https://duckduckgo.com/?q=title-less+posts+site%3Ascripting.com&t=hy&ia=web\">historic</a> feature dating back to the origins of \"RSS\". Today, it's how blogging can grow into Twitter's space, without its limits (with <a href=\"https://en.wikipedia.org/wiki/Hyperlink\">linking</a>, <i>styles</i>, and no length limit). It was there before Twitter even existed, btw. If you look at the archive of my blog going back to the 90s you'll <a href=\"http://scripting.com/2001/07.html\">see</a> lots of titleless items. This is one of the ways Google Reader screwed up the blogging world, by refusing to support this required feature. Let's undo that mistake and grow our world. It's really <a href=\"http://scripting.com/2014/04/07/howToDisplayTitlelessFeedItems.html\">easy</a>. :boom:",
+            "created": "Wed, 25 Apr 2018 17:14:04 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/04/25/spiderMan.png"
+        },
+        {
+            "text": "You might try listening to someone who is sure they're right, no matter what their age. Sometimes they're right, I've found.",
+            "created": "Wed, 25 Apr 2018 15:09:23 GMT",
+            "type": "tweet",
+            "tweetId": "989159500589527040",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "An <a href=\"https://github.com/scripting/river5/issues/22#issuecomment-384299080\">update</a> on the work with \"River5\" and <a href=\"http://glitch.com/\">Glitch</a>. The <a href=\"http://newriver5.glitch.me/\">demo river</a> is still working, amazingly. Before I close the thread, I'd like to do a little cleanup work so there's a good example to build on for others, and for when we pick the thread up in the future. ",
+            "created": "Wed, 25 Apr 2018 14:05:47 GMT",
+            "type": "outline"
+        }
+    ]
+}
