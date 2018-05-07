@@ -1,0 +1,152 @@
+{
+    "text": "May 6",
+    "created": "Sun, 06 May 2018 13:20:06 GMT",
+    "name": "06",
+    "subs": [
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/77\">Braintrust query</a>: I'm looking to connect to the people at Lexis/Nexis who are running weblogs.com. There's a new configuration problem.",
+            "created": "Sun, 06 May 2018 18:51:37 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "A <a href=\"http://scripting.com/images/2018/05/06/skyscraper.png\">building</a> going up in my neighborhood. I usually view it from way up in the air. It's more impressive viewed from the ground. ",
+            "created": "Mon, 07 May 2018 02:37:10 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "With <a href=\"http://scripting.com/images/2018/05/06/rudy.png\">Rudy</a> it's all about the eyes. ",
+            "created": "Sun, 06 May 2018 16:15:50 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"http://podcatch.com/archive/2018/05/06/182805.html\">On podcatch.com</a>, I have removed Facebook comments and replaced them with Disqus comments.",
+            "created": "Sun, 06 May 2018 14:54:54 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I don't know how to report a bug re the Washington Post website, so I'll try <a href=\"https://github.com/scripting/Scripting-News/issues/76\">posting it here</a>. ",
+            "created": "Sun, 06 May 2018 13:52:39 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "There were two incredible basketball <a href=\"https://www.sbnation.com/2018/5/6/17323718/celtics-sixers-game-3-nba-playoffs-brad-stevens-al-horford-ben-simmons-boston-philadelphia\">games</a> yesterday, both with <a href=\"https://www.youtube.com/watch?v=XIG_WeDdSJw\">exciting</a> <a href=\"https://finance.yahoo.com/news/watch-lebron-james-hits-game-winning-buzzer-beater-cavaliers-take-3-0-series-lead-toronto-034252231.html\">scores</a>.",
+            "created": "Sun, 06 May 2018 14:02:57 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "The Angry Founders of the Internet",
+            "created": "Sun, 06 May 2018 18:36:51 GMT",
+            "type": "outline",
+            "description": "We've had it with your crapware. We're The Angry Founders of the Internet. ",
+            "subs": [
+                {
+                    "text": "We should start an \"Angry Founders of the Internet\" social club to discuss what the fuck happened and how can we tell people about the magic that underlies the crapware that the bigco's are shoveling at us. It really is beautiful and amazing in there. ",
+                    "created": "Sun, 06 May 2018 18:37:00 GMT",
+                    "image": "http://scripting.com/images/2018/05/06/yosemiteSam.png"
+                },
+                {
+                    "text": "Think of it this way. It's easier to take the Interstate highway everywhere, but if you do that, you miss the charming B&Bs, the dramatic beaches, restaurants, jazz clubs. The thrill of riding a bike, hiking the Appalachian Trail, skiing. All that intellectually unperpins this.",
+                    "created": "Sun, 06 May 2018 18:37:07 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Instant outlining in LO2",
+            "created": "Sun, 06 May 2018 17:07:28 GMT",
+            "type": "outline",
+            "description": "A simple howto checklist for a self-demo of the Instant Outlining feature in LO2. ",
+            "subs": [
+                {
+                    "text": "To test this <a href=\"https://www.xml.com/pub/a/ws/2002/04/01/outlining.html\">feature</a>, open <a href=\"http://littleoutliner.com/\">LO2</a> in two different browsers.",
+                    "created": "Sun, 06 May 2018 17:07:44 GMT"
+                },
+                {
+                    "text": "They could be on the same machine or different machines. I am using Safari and Chrome on my desktop Mac.",
+                    "created": "Sun, 06 May 2018 17:10:44 GMT"
+                },
+                {
+                    "text": "Arrange the windows so you can see both at the same time.",
+                    "created": "Sun, 06 May 2018 17:08:02 GMT"
+                },
+                {
+                    "text": "In one of the copies of LO2:",
+                    "subs": [
+                        {
+                            "text": "Create a new outline -- File/New."
+                        },
+                        {
+                            "text": "Make it public -- File/Get public link"
+                        },
+                        {
+                            "text": "Copy the URL in the dialog to the clipboard."
+                        }
+                    ]
+                },
+                {
+                    "text": "In the other copy of LO2:",
+                    "subs": [
+                        {
+                            "text": "Subscribe -- File/Subscribe to outline "
+                        },
+                        {
+                            "text": "Paste the URL from above."
+                        }
+                    ]
+                },
+                {
+                    "text": "Back in the first copy",
+                    "created": "Sun, 06 May 2018 17:09:30 GMT",
+                    "subs": [
+                        {
+                            "text": "Start typing. Note that what you type appears in the other copy of LO2."
+                        },
+                        {
+                            "text": "It waits for you to let up on the typing for a couple of seconds before sending."
+                        },
+                        {
+                            "text": "Then the update happens instantaneously through the magic of WebSockets!"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "I ❤️ Michelle Wolf",
+            "created": "Sun, 06 May 2018 13:20:07 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "A few comments on Michelle Wolf's correspondent dinner routine. ",
+                    "created": "Sun, 06 May 2018 13:20:46 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Please listen to her podcast <a href=\"http://podcatch.com/archive/2018/05/01/143479.html\">interview</a> with Terry Gross on Fresh Air. ",
+                            "created": "Sun, 06 May 2018 13:20:52 GMT"
+                        },
+                        {
+                            "text": "I think one of the reasons people might have thought she was body-shaming Sarah Huckabee Sanders is when she said <i>she burns facts</i> it sounded at first like she said <i>she burns fat. </i>That's what I thought she said at first. If she had said that it would have been body-shaming, but since she didn't, it wasn't.",
+                            "created": "Sun, 06 May 2018 13:21:25 GMT"
+                        },
+                        {
+                            "text": "She points out that no one has complained about the actual body-shaming she did. She made fun of Mitch McConnell's neck and Chris Christie's obesity. McConnell wasn't there, but Christie was. The camera showed him eating and laughing. Why exactly is it more terrible to body-shame women than men? (Answer: It's not. We're hypocrites when we denounce one and not the other.) ",
+                            "created": "Sun, 06 May 2018 13:22:28 GMT"
+                        },
+                        {
+                            "text": "She does make fun of her own body, and her voice. Especially with the voice she uses it to make a bigger point about how people treated Hillary Clinton as a candidate. ",
+                            "created": "Sun, 06 May 2018 13:32:17 GMT"
+                        },
+                        {
+                            "text": "She talks about why she doesn't want to have kids or to marry. I love her more for that. She even has good jokes about how \"having it all\" isn't that great. I won't spoil the jokes here, you should listen to the podcast. :rocket:",
+                            "created": "Sun, 06 May 2018 13:24:39 GMT"
+                        },
+                        {
+                            "text": "She is a gift, a gift of truth, intelligence and guts. She is exactly what we need now. I'm very happy she <a href=\"https://www.youtube.com/watch?v=OP5UiXEbgJk\">has</a> a <a href=\"https://www.netflix.com/title/80239459\">Netflix show</a> premiering at the end of May. I expect to be a regular viewer. ",
+                            "created": "Sun, 06 May 2018 13:30:08 GMT"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
