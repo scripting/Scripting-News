@@ -1,0 +1,60 @@
+{
+    "text": "Instant outlining in LO2",
+    "created": "Sun, 06 May 2018 17:07:28 GMT",
+    "type": "outline",
+    "description": "A simple howto checklist for a self-demo of the Instant Outlining feature in LO2. ",
+    "subs": [
+        {
+            "text": "To test this <a href=\"https://www.xml.com/pub/a/ws/2002/04/01/outlining.html\">feature</a>, open <a href=\"http://littleoutliner.com/\">LO2</a> in two different browsers.",
+            "created": "Sun, 06 May 2018 17:07:44 GMT"
+        },
+        {
+            "text": "They could be on the same machine or different machines. I am using Safari and Chrome on my desktop Mac.",
+            "created": "Sun, 06 May 2018 17:10:44 GMT"
+        },
+        {
+            "text": "Arrange the windows so you can see both at the same time.",
+            "created": "Sun, 06 May 2018 17:08:02 GMT"
+        },
+        {
+            "text": "In one of the copies of LO2:",
+            "subs": [
+                {
+                    "text": "Create a new outline -- File/New."
+                },
+                {
+                    "text": "Make it public -- File/Get public link"
+                },
+                {
+                    "text": "Copy the URL in the dialog to the clipboard."
+                }
+            ]
+        },
+        {
+            "text": "In the other copy of LO2:",
+            "subs": [
+                {
+                    "text": "Subscribe -- File/Subscribe to outline "
+                },
+                {
+                    "text": "Paste the URL from above."
+                }
+            ]
+        },
+        {
+            "text": "Back in the first copy",
+            "created": "Sun, 06 May 2018 17:09:30 GMT",
+            "subs": [
+                {
+                    "text": "Start typing. Note that what you type appears in the other copy of LO2."
+                },
+                {
+                    "text": "It waits for you to let up on the typing for a couple of seconds before sending."
+                },
+                {
+                    "text": "Then the update happens instantaneously through the magic of WebSockets!"
+                }
+            ]
+        }
+    ]
+}
