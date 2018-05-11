@@ -1,0 +1,55 @@
+{
+    "text": "Bad news re radio.weblogs.com, etc",
+    "created": "Thu, 10 May 2018 20:44:08 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I got the response from Lexis/Nexis re the <a href=\"https://github.com/scripting/Scripting-News/issues/77\">mapping</a> of radio.weblogs.com, doc.weblogs.com and scoble.weblogs.com. Here's what they <a href=\"http://scripting.com/images/2018/05/10/lexisNexisWeblogsCom.png\">said</a>.",
+            "created": "Thu, 10 May 2018 20:44:14 GMT",
+            "subs": [
+                {
+                    "text": "<img src=\"http://scripting.com/images/2018/05/10/lexisNexisWeblogsCom.png\">",
+                    "created": "Thu, 10 May 2018 21:00:04 GMT"
+                },
+                {
+                    "text": "\"During a recent security audit related to the GDPR, we removed the DNS entries for doc.weblogs.com, radio.weblogs.com , and scoble.weblogs.com . We had concerns about cross-domain issues such as cookie sharing, along with general concerns about having subdomains that were not under our control. At this point, the only suggestion we can make is for you to update the links on scripting.com  to point to the newer domain names that are under your control.\"",
+                    "created": "Thu, 10 May 2018 20:48:09 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Of course it's not just links from scripting.com that are broken. <a href=\"https://en.wikipedia.org/wiki/Radio_UserLand\">Radio UserLand</a> was a large early blogging community. Links into the archive of these weblogs are also broken.",
+            "created": "Thu, 10 May 2018 20:45:08 GMT"
+        },
+        {
+            "text": "The sites are still on the web, but at this address:",
+            "created": "Thu, 10 May 2018 20:45:52 GMT",
+            "subs": [
+                {
+                    "text": "<a href=\"http://radio-weblogs.com/\">http://radio-weblogs.com/</a>",
+                    "created": "Thu, 10 May 2018 20:46:00 GMT"
+                }
+            ]
+        },
+        {
+            "text": "That isn't going to change in the immediate future.  ",
+            "created": "Thu, 10 May 2018 20:46:07 GMT"
+        },
+        {
+            "text": "Also thanks to Automattic for hosting the archive of the Radio UserLand sites.",
+            "created": "Thu, 10 May 2018 20:49:29 GMT"
+        },
+        {
+            "text": "We will have to do something special for doc.weblogs.com.",
+            "created": "Thu, 10 May 2018 20:54:08 GMT"
+        },
+        {
+            "text": "And you can access Scoble's Radio blog at <a href=\"http://scoble.scripting.com/\">scoble.scripting.com</a>. That's a completely new name, there are no links to it anywhere on the net (except here of course).",
+            "created": "Thu, 10 May 2018 20:54:17 GMT"
+        },
+        {
+            "text": "Earlier today I <a href=\"http://scripting.com/2018/05/10/133513.html#a134034\">wrote</a> about making the web more long-lived. This is how the web's history disappears. A cut here another one there, sooner or later, it'll all be gone. ",
+            "created": "Thu, 10 May 2018 20:55:13 GMT"
+        }
+    ]
+}
