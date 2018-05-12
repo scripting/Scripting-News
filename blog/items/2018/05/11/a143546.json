@@ -1,0 +1,5 @@
+{
+    "text": "Lesson learned on <a href=\"http://scripting.com/2018/05/10/204408.html\">radio.weblogs.com</a>. We should have mapped to one of my servers, where I did a permanent redirect to radio-weblogs.com, which points to the archive on Automattic. If you are left with the task of preserving a community of static sites, as I was, don't just point a CNAME at the site, have it pass through a redirect. That gives you the flexibility to, after a certain amount of time, make the mapping permanent. I didn't understand this when we originally did the mapping when I sold weblogs.com.",
+    "created": "Fri, 11 May 2018 14:35:46 GMT",
+    "type": "outline"
+}
