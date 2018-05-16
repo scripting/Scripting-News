@@ -1,0 +1,31 @@
+{
+    "text": "Collapsible post text",
+    "created": "Tue, 15 May 2018 14:18:55 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Back in the old days of Scripting News I had a feature that let me collapse the text under a given headline by default. An in-place footnote. Parenthetical text that doesn't disrupt the flow of a story. ",
+            "created": "Tue, 15 May 2018 14:19:05 GMT",
+            "collapse": "true",
+            "subs": [
+                {
+                    "text": "This would be an example of such text if the feature were in the current version of my blogging software called Old School, which btw, was opened to the public around this time last year. ",
+                    "created": "Tue, 15 May 2018 14:19:07 GMT"
+                },
+                {
+                    "text": "And this would be a second sub-element. Let's see how this works.",
+                    "created": "Tue, 15 May 2018 14:57:11 GMT"
+                }
+            ]
+        },
+        {
+            "text": "The way the feature worked is you would put an attribute on the headline named <i>collapse</i> and set its value to true. When the page is displayed the subordinate text is collapsed with a dark wedge to its left. If you click the wedge it expands, as you would expect.",
+            "created": "Tue, 15 May 2018 14:20:00 GMT"
+        },
+        {
+            "text": "I have the feature in Old School for videos and tweets. For example, this line references a tweet. It has an attribute named urltweet whose value is (doh) the <a href=\"https://twitter.com/davewiner/status/996395982161137665\">url</a> of the tweet. :boom:",
+            "created": "Tue, 15 May 2018 14:21:01 GMT",
+            "urltweet": "https://twitter.com/davewiner/status/996395982161137665"
+        }
+    ]
+}
