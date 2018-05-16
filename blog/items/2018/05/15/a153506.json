@@ -1,0 +1,41 @@
+{
+    "text": "More rigorous test of collapsible text",
+    "created": "Tue, 15 May 2018 15:35:06 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "This is a collapsible headline",
+            "created": "Tue, 15 May 2018 15:35:40 GMT",
+            "collapse": "true",
+            "subs": [
+                {
+                    "text": "sub 1",
+                    "created": "Tue, 15 May 2018 15:35:50 GMT"
+                },
+                {
+                    "text": "sub 2 -- also collapsible",
+                    "created": "Tue, 15 May 2018 15:35:53 GMT",
+                    "collapse": "true",
+                    "subs": [
+                        {
+                            "text": "Orange",
+                            "created": "Tue, 15 May 2018 15:36:22 GMT"
+                        },
+                        {
+                            "text": "Blue",
+                            "created": "Tue, 15 May 2018 15:36:25 GMT"
+                        },
+                        {
+                            "text": "Silver",
+                            "created": "Tue, 15 May 2018 15:36:27 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "sub 3",
+                    "created": "Tue, 15 May 2018 15:35:55 GMT"
+                }
+            ]
+        }
+    ]
+}
