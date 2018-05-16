@@ -1,0 +1,44 @@
+{
+    "text": "Collapsible post text ",
+    "created": "Tue, 15 May 2018 15:29:20 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Back in the old days of \"Scripting News\" I had a feature that let me collapse the text under a given headline. An in-place footnote. Parenthetical text that doesn't disrupt the flow of a story. ",
+            "created": "Tue, 15 May 2018 14:19:05 GMT",
+            "collapse": "true",
+            "image": "http://scripting.com/images/2018/05/15/beetlejuice.png",
+            "subs": [
+                {
+                    "text": "This is an example of such text. ",
+                    "created": "Tue, 15 May 2018 14:19:07 GMT"
+                },
+                {
+                    "text": "Think of it as another form of linking.",
+                    "created": "Tue, 15 May 2018 15:30:52 GMT"
+                },
+                {
+                    "text": "Not off-site and not as far away as a standard link.",
+                    "created": "Tue, 15 May 2018 15:32:27 GMT"
+                }
+            ]
+        },
+        {
+            "text": "The way the feature works is you put an attribute on the headline named <i>collapse</i> and set its value to true. When the page is displayed the subordinate text is hidden (display: none in CSS) with a gray wedge to its left. If you click the wedge it expands, as you would expect. ",
+            "created": "Tue, 15 May 2018 14:20:00 GMT"
+        },
+        {
+            "text": "I have the feature in Old School for videos and tweets. For example, this line references a tweet. It has an attribute named urltweet whose value is (doh) the <a href=\"https://twitter.com/davewiner/status/996395982161137665\">url</a> of the tweet. :boom:",
+            "created": "Tue, 15 May 2018 14:21:01 GMT",
+            "urltweet": "https://twitter.com/davewiner/status/996395982161137665"
+        },
+        {
+            "text": "And as of this morning, it's in the current version of Old School, so you will be seeing me use this feature on Scripting News. ",
+            "created": "Tue, 15 May 2018 15:28:37 GMT"
+        },
+        {
+            "text": "PS: Here's a <a href=\"http://scripting.com/2018/05/15/blog.opml\">snapshot</a> of the OPML file for the blog that shows how the collapse attribute is represented. It's pretty simple.",
+            "created": "Tue, 15 May 2018 15:47:55 GMT"
+        }
+    ]
+}
