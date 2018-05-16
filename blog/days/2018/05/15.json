@@ -1,0 +1,168 @@
+{
+    "text": "May 15",
+    "created": "Tue, 15 May 2018 14:17:54 GMT",
+    "name": "15",
+    "subs": [
+        {
+            "text": "The problem with <a href=\"https://www.nytimes.com/2018/05/15/sports/warriors-rockets-finals-west.html\">juggernauts</a> like the Golden State Warriors is that they become boring. It's the same act as last year. They're bored, and I can tell I will be bored too, soon. And next year? Not again, please. This happened with the Miami Heat. Once you win three championships in say five years, the team should be required to reset. Otherwise the NBA itself is doomed to be boring.",
+            "created": "Tue, 15 May 2018 20:41:25 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Yes, Michael Avenatti is <a href=\"http://oliverwillis.com/2018/05/15/how-the-porn-star-lawyer-is-making-the-white-house-beat-look-sad/\">showing</a> what the press could do if it didn't care about access or what other journalists think. He's showing us what's out there for journalists to discover. Inevitably they'll rise to the challenge. He and <a href=\"https://idahostatejournal.com/opinion/columns/michelle-wolf-stole-her-jokes-from-donald-trump/article_ff41c598-b5e9-546d-936b-6533f12ba1c4.html\">Michelle Wolf</a> are taking advantage of the <a href=\"https://twitter.com/davewiner/status/996423337508245504\">lameness</a> of journalism in 2018. <i>Good!</i>",
+            "created": "Tue, 15 May 2018 16:00:12 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/05/15/yesMaam.png"
+        },
+        {
+            "text": "I've been thinking about how we were told not to accept <a href=\"https://twitter.com/davewiner/status/996393521178447873\">this stuff</a> as normal, but people are misinterpreting that as \"do not accept it.\" That's a bug. Because until we accept that we have a royal family, we won't be able to mobilize to oust it. We're lucky because we still have a legal system that's designed to overthrow monarchs. ",
+            "created": "Tue, 15 May 2018 15:02:47 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/996393521178447873"
+        },
+        {
+            "text": "One could argue reasonably that the <a href=\"https://en.wikipedia.org/wiki/Citizens_United_v._FEC\">Citizens United decision</a> made an American monarchy inevitable.",
+            "created": "Tue, 15 May 2018 15:40:18 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://signal.org/download/\">Signal</a> which I started using a few weeks ago and am encouraging others to use is open source. The desktop version is an <a href=\"https://github.com/signalapp/Signal-Desktop\">Electron app</a>. ",
+            "created": "Tue, 15 May 2018 14:33:41 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Collapsible post text ",
+            "created": "Tue, 15 May 2018 15:29:20 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Back in the old days of \"Scripting News\" I had a feature that let me collapse the text under a given headline. An in-place footnote. Parenthetical text that doesn't disrupt the flow of a story. ",
+                    "created": "Tue, 15 May 2018 14:19:05 GMT",
+                    "collapse": "true",
+                    "image": "http://scripting.com/images/2018/05/15/beetlejuice.png",
+                    "subs": [
+                        {
+                            "text": "This is an example of such text. ",
+                            "created": "Tue, 15 May 2018 14:19:07 GMT"
+                        },
+                        {
+                            "text": "Think of it as another form of linking.",
+                            "created": "Tue, 15 May 2018 15:30:52 GMT"
+                        },
+                        {
+                            "text": "Not off-site and not as far away as a standard link.",
+                            "created": "Tue, 15 May 2018 15:32:27 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "The way the feature works is you put an attribute on the headline named <i>collapse</i> and set its value to true. When the page is displayed the subordinate text is hidden (display: none in CSS) with a gray wedge to its left. If you click the wedge it expands, as you would expect. ",
+                    "created": "Tue, 15 May 2018 14:20:00 GMT"
+                },
+                {
+                    "text": "I have the feature in Old School for videos and tweets. For example, this line references a tweet. It has an attribute named urltweet whose value is (doh) the <a href=\"https://twitter.com/davewiner/status/996395982161137665\">url</a> of the tweet. :boom:",
+                    "created": "Tue, 15 May 2018 14:21:01 GMT",
+                    "urltweet": "https://twitter.com/davewiner/status/996395982161137665"
+                },
+                {
+                    "text": "And as of this morning, it's in the current version of Old School, so you will be seeing me use this feature on Scripting News. ",
+                    "created": "Tue, 15 May 2018 15:28:37 GMT"
+                },
+                {
+                    "text": "PS: Here's a <a href=\"http://scripting.com/2018/05/15/blog.opml\">snapshot</a> of the OPML file for the blog that shows how the collapse attribute is represented. It's pretty simple.",
+                    "created": "Tue, 15 May 2018 15:47:55 GMT"
+                }
+            ]
+        },
+        {
+            "text": "More rigorous test of collapsible text",
+            "created": "Tue, 15 May 2018 15:35:06 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "This is a collapsible headline",
+                    "created": "Tue, 15 May 2018 15:35:40 GMT",
+                    "collapse": "true",
+                    "subs": [
+                        {
+                            "text": "sub 1",
+                            "created": "Tue, 15 May 2018 15:35:50 GMT"
+                        },
+                        {
+                            "text": "sub 2 -- also collapsible",
+                            "created": "Tue, 15 May 2018 15:35:53 GMT",
+                            "collapse": "true",
+                            "subs": [
+                                {
+                                    "text": "Orange",
+                                    "created": "Tue, 15 May 2018 15:36:22 GMT"
+                                },
+                                {
+                                    "text": "Blue",
+                                    "created": "Tue, 15 May 2018 15:36:25 GMT"
+                                },
+                                {
+                                    "text": "Silver",
+                                    "created": "Tue, 15 May 2018 15:36:27 GMT"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "sub 3",
+                            "created": "Tue, 15 May 2018 15:35:55 GMT"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Another collapsible text test",
+            "created": "Tue, 15 May 2018 19:50:14 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "one",
+                    "created": "Tue, 15 May 2018 19:50:22 GMT"
+                },
+                {
+                    "text": "two",
+                    "created": "Tue, 15 May 2018 19:50:24 GMT",
+                    "collapse": "true",
+                    "subs": [
+                        {
+                            "text": "nevada",
+                            "created": "Tue, 15 May 2018 19:50:26 GMT"
+                        },
+                        {
+                            "text": "south dakota",
+                            "created": "Tue, 15 May 2018 19:50:30 GMT",
+                            "collapse": "true",
+                            "subs": [
+                                {
+                                    "text": "orange",
+                                    "created": "Tue, 15 May 2018 19:50:46 GMT"
+                                },
+                                {
+                                    "text": "blue",
+                                    "created": "Tue, 15 May 2018 19:50:51 GMT"
+                                },
+                                {
+                                    "text": "pink",
+                                    "created": "Tue, 15 May 2018 19:50:52 GMT"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "massachusetts",
+                            "created": "Tue, 15 May 2018 19:50:38 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "three",
+                    "created": "Tue, 15 May 2018 19:50:25 GMT"
+                }
+            ]
+        }
+    ]
+}
