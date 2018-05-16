@@ -1,0 +1,49 @@
+{
+    "text": "Another collapsible text test",
+    "created": "Tue, 15 May 2018 19:50:14 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "one",
+            "created": "Tue, 15 May 2018 19:50:22 GMT"
+        },
+        {
+            "text": "two",
+            "created": "Tue, 15 May 2018 19:50:24 GMT",
+            "collapse": "true",
+            "subs": [
+                {
+                    "text": "nevada",
+                    "created": "Tue, 15 May 2018 19:50:26 GMT"
+                },
+                {
+                    "text": "south dakota",
+                    "created": "Tue, 15 May 2018 19:50:30 GMT",
+                    "collapse": "true",
+                    "subs": [
+                        {
+                            "text": "orange",
+                            "created": "Tue, 15 May 2018 19:50:46 GMT"
+                        },
+                        {
+                            "text": "blue",
+                            "created": "Tue, 15 May 2018 19:50:51 GMT"
+                        },
+                        {
+                            "text": "pink",
+                            "created": "Tue, 15 May 2018 19:50:52 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "massachusetts",
+                    "created": "Tue, 15 May 2018 19:50:38 GMT"
+                }
+            ]
+        },
+        {
+            "text": "three",
+            "created": "Tue, 15 May 2018 19:50:25 GMT"
+        }
+    ]
+}
