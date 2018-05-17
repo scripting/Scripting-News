@@ -1,0 +1,57 @@
+{
+    "text": "Another little feature for this blog",
+    "created": "Wed, 16 May 2018 14:05:54 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Previously I could put numbers in front of items in a list by adding an a flNuberedSubs attribute on the parent with the value true. Like this: ",
+            "created": "Wed, 16 May 2018 14:06:02 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "One",
+                    "created": "Wed, 16 May 2018 14:06:46 GMT"
+                },
+                {
+                    "text": "Two",
+                    "created": "Wed, 16 May 2018 14:06:49 GMT"
+                },
+                {
+                    "text": "Three",
+                    "created": "Wed, 16 May 2018 14:06:51 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Yesterday, when I was digging around in Old School to add collapsible headlines, I realized I could easily add bulleted items, for when numbers aren't right. The attribute is flBulletedSubs. Here's a demo.",
+            "created": "Wed, 16 May 2018 14:07:08 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "This is a bulleted item.",
+                    "created": "Wed, 16 May 2018 14:07:59 GMT"
+                },
+                {
+                    "text": "As is this.",
+                    "created": "Wed, 16 May 2018 14:08:04 GMT"
+                },
+                {
+                    "text": "And so is this.",
+                    "created": "Wed, 16 May 2018 14:08:07 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Let's see if it works!",
+            "created": "Wed, 16 May 2018 14:08:31 GMT",
+            "collapse": "true",
+            "flBulletedList": "true",
+            "subs": [
+                {
+                    "text": "Yes, it does.",
+                    "created": "Wed, 16 May 2018 14:14:28 GMT"
+                }
+            ]
+        }
+    ]
+}
