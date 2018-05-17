@@ -1,0 +1,199 @@
+{
+    "text": "May 16",
+    "created": "Wed, 16 May 2018 14:05:53 GMT",
+    "name": "16",
+    "subs": [
+        {
+            "text": "I checked in on the <a href=\"http://newriver5.glitch.me/\">River5 instance</a> we set up on Glitch in <a href=\"http://scripting.com/2018/04/24/124932.html\">April</a>, and it's still running. Quite nicely, actually. Good work! :boom:",
+            "created": "Wed, 16 May 2018 20:12:30 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "A Guardian <a href=\"https://web.archive.org/web/20040628084531/http://www.guardian.co.uk/online/story/0,3605,989783,00.html\">piece</a> about blogging at Harvard in 2003. I was pretty radical back then. But you see Twitter as an extension of blogging, pretty much everything I said actually happened. I thought there was a chance of journalism getting on board, that seems so naive today. I've become a lot more cynical, for good cause. ",
+            "created": "Wed, 16 May 2018 20:10:27 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Another idea for a new social media app/feature. A club of peers, people with the same number of followers, a similar kind of following, similar background, similar influence with others. Let an algorithm decide all this. Say 40 peers per group. You get one coupon for each, and with that coupon you can send a message to an individual. It's labeled as such. The one shot you have to influence another person. No second chances, no discussion, just a simple pitch. You can use as much text as you like, but beware the recipient is under no obligation to read any of it. You can use links, simple styling, paragraphs.",
+            "created": "Wed, 16 May 2018 16:08:28 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/05/16/pitcher.png"
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/78\">Braintrust query</a>: I'm confused by what Twitter is doing with their API. ",
+            "created": "Wed, 16 May 2018 18:05:05 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "NBA playoff report",
+            "created": "Wed, 16 May 2018 14:25:43 GMT",
+            "type": "outline",
+            "description": "I'm hoping for Celtics vs Golden State in the finals. That could be an epic contest. Multiple threats, who knows where the ball is going to go at any moment, and a sharp contrast in perspective, youth vs royalty.",
+            "subs": [
+                {
+                    "text": "I love the NBA because without much effort anyone can see what's going on. It's a very accessible sport.",
+                    "created": "Wed, 16 May 2018 14:26:22 GMT",
+                    "image": "http://scripting.com/images/2018/05/16/alHorford.png"
+                },
+                {
+                    "text": "And this time of year, the second-to-last round of the playoffs, is when it gets most dramatic. The teams with the most to lose are in a contest where all but one will lose. The trick is to figure out who, and why. ",
+                    "created": "Wed, 16 May 2018 14:58:38 GMT"
+                },
+                {
+                    "text": "And then there's hope. Who do you <i>want</i> to win? For me it's totally predictable, unless the Knicks are involved, I always root for the talented underdog. The one everyone assumes will not win. Especially if earlier I thought myself that they would not win. Right now that team is, of course, the Celtics. ",
+                    "created": "Wed, 16 May 2018 14:27:16 GMT"
+                },
+                {
+                    "text": "I like them because like the Warriors, they can win in a variety of ways, where the other two teams, the Rockets and the Cavs have basically one way to win, an isolation play with a star player who can drive to the basket and also has a good jump shot. The Rockets have two of these guys, James Harden and Chris Paul, and the Cavs have LeBron James. It's easy to defend against a team with one or two ways to win, just concentrate the defense on the strong player, and force the ball to come out through one of the others. Last night at first James looked like he might carry the Cavs, but it turns out he is human, he clearly got tired and hurt as the game went on. The shots that were going down like daggers in the first quarter were missing the mark in the third and fourth. HIs defense was porous. For the last two nights, against the Celtics, he couldn't carry the team. ",
+                    "created": "Wed, 16 May 2018 14:28:40 GMT"
+                },
+                {
+                    "text": "The Celtics on the other hand, move the ball around on offense until they find a play. This means you can't double-team anyone, everyone is a threat. You really can't defend against that. They're pretty much always going to get off a shot. And people get to rest, so they don't play exhausted as LeBron was.",
+                    "created": "Wed, 16 May 2018 14:31:23 GMT"
+                },
+                {
+                    "text": "Of course the Warriors are even better at the distributed multi-threat offense than the Celtics, but they're also worn out by so much winning. Their tiredness comes from boredom. Who cares if they win another championship. I imagine even Bay Area fans are looking for something more interesting and less predictable to watch. The players still have to show up. But they can't be even slightly hungry for a win. ",
+                    "created": "Wed, 16 May 2018 14:32:48 GMT"
+                },
+                {
+                    "text": "On the other hand this Celtics team has everything to prove. Not only are they very young, they are playing without their two biggest stars who are injured. You have to wonder, no matter what the outcome this year, what they're going to be like next year if <a href=\"https://en.wikipedia.org/wiki/Kyrie_Irving\">Kyrie Irving</a> and <a href=\"https://en.wikipedia.org/wiki/Gordon_Hayward\">Gordon Hayward</a> are healthy. ",
+                    "created": "Wed, 16 May 2018 14:33:59 GMT"
+                },
+                {
+                    "text": "So I'm hoping for Celtics vs Golden State in the finals. That could be an epic contest. Multiple threats, who knows where the ball is going to go at any moment, and a sharp contrast in perspective, youth vs royalty.",
+                    "created": "Wed, 16 May 2018 14:41:15 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Another little feature for this blog",
+            "created": "Wed, 16 May 2018 14:05:54 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Previously I could put numbers in front of items in a list by adding an a flNuberedSubs attribute on the parent with the value true. Like this: ",
+                    "created": "Wed, 16 May 2018 14:06:02 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "One",
+                            "created": "Wed, 16 May 2018 14:06:46 GMT"
+                        },
+                        {
+                            "text": "Two",
+                            "created": "Wed, 16 May 2018 14:06:49 GMT"
+                        },
+                        {
+                            "text": "Three",
+                            "created": "Wed, 16 May 2018 14:06:51 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "Yesterday, when I was digging around in Old School to add collapsible headlines, I realized I could easily add bulleted items, for when numbers aren't right. The attribute is flBulletedSubs. Here's a demo.",
+                    "created": "Wed, 16 May 2018 14:07:08 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "This is a bulleted item.",
+                            "created": "Wed, 16 May 2018 14:07:59 GMT"
+                        },
+                        {
+                            "text": "As is this.",
+                            "created": "Wed, 16 May 2018 14:08:04 GMT"
+                        },
+                        {
+                            "text": "And so is this.",
+                            "created": "Wed, 16 May 2018 14:08:07 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "Let's see if it works!",
+                    "created": "Wed, 16 May 2018 14:08:31 GMT",
+                    "collapse": "true",
+                    "flBulletedList": "true",
+                    "subs": [
+                        {
+                            "text": "Yes, it does.",
+                            "created": "Wed, 16 May 2018 14:14:28 GMT"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "A refinement of the new feature",
+            "created": "Wed, 16 May 2018 15:51:16 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Liudvikas Bukys, in a comment <a href=\"http://scripting.com/?tab=discuss\">here</a>, suggested that items with flNumberedSubs set true be rendered as ordered lists in the RSS feed. Good idea. It was pretty easy to implement. If it works, this list should appear in your RSS reader as a numbered list, not a bulleted list.  ",
+                    "created": "Wed, 16 May 2018 15:51:23 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "George Washington",
+                            "created": "Wed, 16 May 2018 15:52:44 GMT"
+                        },
+                        {
+                            "text": "John Adams",
+                            "created": "Wed, 16 May 2018 15:52:54 GMT"
+                        },
+                        {
+                            "text": "Thomas Jefferson",
+                            "created": "Wed, 16 May 2018 15:52:58 GMT"
+                        },
+                        {
+                            "text": "James Madison",
+                            "created": "Wed, 16 May 2018 15:53:02 GMT"
+                        },
+                        {
+                            "text": "James Monroe",
+                            "created": "Wed, 16 May 2018 15:53:29 GMT"
+                        },
+                        {
+                            "text": "John Quincy Adams",
+                            "created": "Wed, 16 May 2018 15:53:34 GMT"
+                        },
+                        {
+                            "text": "Andrew Jackson",
+                            "created": "Wed, 16 May 2018 15:53:42 GMT"
+                        },
+                        {
+                            "text": "Martin Van Buren",
+                            "created": "Wed, 16 May 2018 15:53:44 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "And to be sure that bulleted lists still work...",
+                    "created": "Wed, 16 May 2018 15:53:53 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "New Jersey",
+                            "created": "Wed, 16 May 2018 15:54:07 GMT"
+                        },
+                        {
+                            "text": "Florida",
+                            "created": "Wed, 16 May 2018 15:54:19 GMT"
+                        },
+                        {
+                            "text": "Mississippi",
+                            "created": "Wed, 16 May 2018 15:54:21 GMT"
+                        },
+                        {
+                            "text": "Alabama",
+                            "created": "Wed, 16 May 2018 15:54:26 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "Update: Here's a <a href=\"http://scripting.com/images/2018/05/16/feedlyScreen.png\">screen shot</a> of what this post looks like in Feedly. ",
+                    "created": "Wed, 16 May 2018 16:03:49 GMT"
+                }
+            ]
+        }
+    ]
+}
