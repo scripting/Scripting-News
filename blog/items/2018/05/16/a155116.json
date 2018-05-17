@@ -1,0 +1,73 @@
+{
+    "text": "A refinement of the new feature",
+    "created": "Wed, 16 May 2018 15:51:16 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Liudvikas Bukys, in a comment <a href=\"http://scripting.com/?tab=discuss\">here</a>, suggested that items with flNumberedSubs set true be rendered as ordered lists in the RSS feed. Good idea. It was pretty easy to implement. If it works, this list should appear in your RSS reader as a numbered list, not a bulleted list.  ",
+            "created": "Wed, 16 May 2018 15:51:23 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "George Washington",
+                    "created": "Wed, 16 May 2018 15:52:44 GMT"
+                },
+                {
+                    "text": "John Adams",
+                    "created": "Wed, 16 May 2018 15:52:54 GMT"
+                },
+                {
+                    "text": "Thomas Jefferson",
+                    "created": "Wed, 16 May 2018 15:52:58 GMT"
+                },
+                {
+                    "text": "James Madison",
+                    "created": "Wed, 16 May 2018 15:53:02 GMT"
+                },
+                {
+                    "text": "James Monroe",
+                    "created": "Wed, 16 May 2018 15:53:29 GMT"
+                },
+                {
+                    "text": "John Quincy Adams",
+                    "created": "Wed, 16 May 2018 15:53:34 GMT"
+                },
+                {
+                    "text": "Andrew Jackson",
+                    "created": "Wed, 16 May 2018 15:53:42 GMT"
+                },
+                {
+                    "text": "Martin Van Buren",
+                    "created": "Wed, 16 May 2018 15:53:44 GMT"
+                }
+            ]
+        },
+        {
+            "text": "And to be sure that bulleted lists still work...",
+            "created": "Wed, 16 May 2018 15:53:53 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "New Jersey",
+                    "created": "Wed, 16 May 2018 15:54:07 GMT"
+                },
+                {
+                    "text": "Florida",
+                    "created": "Wed, 16 May 2018 15:54:19 GMT"
+                },
+                {
+                    "text": "Mississippi",
+                    "created": "Wed, 16 May 2018 15:54:21 GMT"
+                },
+                {
+                    "text": "Alabama",
+                    "created": "Wed, 16 May 2018 15:54:26 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Update: Here's a <a href=\"http://scripting.com/images/2018/05/16/feedlyScreen.png\">screen shot</a> of what this post looks like in Feedly. ",
+            "created": "Wed, 16 May 2018 16:03:49 GMT"
+        }
+    ]
+}
