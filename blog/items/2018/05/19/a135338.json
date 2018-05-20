@@ -1,0 +1,29 @@
+{
+    "text": "Side-stepping Google",
+    "created": "Sat, 19 May 2018 13:53:38 GMT",
+    "type": "outline",
+    "description": "What if there was a site, accessible through HTTPS, that acted as a proxy for any site on the web, including sites that use HTTP, the protocol of the web, that Google is trying to kill?",
+    "subs": [
+        {
+            "text": "<a href=\"https://en.wikiquote.org/wiki/John_Gilmore\">John Gilmore</a>: \"The Net interprets censorship as damage and routes around it.\"",
+            "created": "Sat, 19 May 2018 14:19:20 GMT"
+        },
+        {
+            "text": "For the latest on Google's plans to turn the open web into Disneyland, read their May 17 <a href=\"https://blog.chromium.org/2018/05/evolving-chromes-security-indicators.html\">announcement</a>. I've written a <a href=\"http://this.how/googleAndHttp/\">backgrounder</a> on the issue of Google and HTTP. Before jumping to any conclusions about what I think, please read it. ",
+            "created": "Sat, 19 May 2018 14:09:15 GMT",
+            "image": "http://scripting.com/images/2018/05/19/bigBrother.png"
+        },
+        {
+            "text": "Anyway, I had an <a href=\"https://github.com/scripting/Scripting-News/issues/80\">idea</a> that there might be a route-around. Suppose there was a site that was a container for the web. It has an address bar at the top where you enter the address of a site. It then displays the contents of the site below. It accepts HTTP or HTTPS. But the container site is accessible via HTTPS.",
+            "created": "Sat, 19 May 2018 14:08:18 GMT"
+        },
+        {
+            "text": "Problem solved? It seems we've restored access to the sites Google doesn't like. Yes you have to access us in a compatibility box, and that's hopefully just a temporary fix until one of Google's competitors decides to try a more cooperative approach to whatever it is Google is trying to do (and I don't believe it has anything to do with our security, it's their ad revenue they're worried about).",
+            "created": "Sat, 19 May 2018 14:14:51 GMT"
+        },
+        {
+            "text": "PS: Here's a <a href=\"https://github.com/scripting/Scripting-News/issues/80\">place</a> to comment on the <i>technical</i> merits of this idea. If you have a political statement please post it on your blog. Thanks. ",
+            "created": "Sat, 19 May 2018 15:02:54 GMT"
+        }
+    ]
+}
