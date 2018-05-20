@@ -1,0 +1,78 @@
+{
+    "text": "May 19",
+    "created": "Sat, 19 May 2018 13:53:37 GMT",
+    "name": "19",
+    "subs": [
+        {
+            "text": "I noticed this feature on <a href=\"https://talkingpointsmemo.com/news/aaron-schlossberg-is-our-duke-of-the-week\">TPM</a>, a little control that increases and decreases the text size. I <i>reallllly</i> appreciate this, even though their story text is already quite readable. I decided to add it to my <a href=\"http://scripting.com/2018/05/10/133513.html\">story pages</a> and <a href=\"http://scripting.com/2018/05/19.html\">day archive</a> pages. A nice little addition. Doesn't clutter things up, and its purpose is fairly obvious, I hope. :boom:",
+            "created": "Sat, 19 May 2018 18:18:35 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I watched the American Experience <a href=\"https://www.youtube.com/watch?v=F1KdhWwSckY\">biography</a> of Nikola Tesla. Great story. He invented alternating current, designed the motor that used it. Also invented radio, though Marconi claimed credit. Tesla ultimately won, posthumously. ",
+            "created": "Sat, 19 May 2018 17:16:34 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Fiddling while earth burns",
+            "created": "Sat, 19 May 2018 16:53:10 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I'm going to Trieste to speak at the <a href=\"http://sotn.it/\">State of the Net</a> conference on June 15. My second time.   ",
+                    "created": "Sat, 19 May 2018 16:53:15 GMT",
+                    "image": "http://scripting.com/images/2018/05/19/romanCoin.png"
+                },
+                {
+                    "text": "I really appreciate the opportunity, going to Italy in June is nice. Great food, wine and spirited discussion.  ",
+                    "created": "Sat, 19 May 2018 17:14:13 GMT"
+                },
+                {
+                    "text": "I want to talk about breaking down the walls of journalism to get the people involved. I believe that's still where we're going, and the urgency is all the more severe given the way journalism has been shrinking and drifting. ",
+                    "created": "Sat, 19 May 2018 16:54:24 GMT"
+                },
+                {
+                    "text": "Journalism got us Trump. ",
+                    "created": "Sat, 19 May 2018 16:58:36 GMT"
+                },
+                {
+                    "text": "If the press were more of the people we'd have had a chance to have a serious talk among ourselves and ask if we really want to go this route. The core problem is the lack of respect we, the people, have for each other, and the extent to which we let politics and journalism herd us. They do it so well, optimized to make us succumb to advertisements, same as the giants of tech. And get us to accept, even desire!, inadequate health care and education, or even safe water and disaster relief. ",
+                    "created": "Sat, 19 May 2018 17:15:10 GMT"
+                },
+                {
+                    "text": "Meanwhile the climate keeps warming, and the earth becomes less habitable. ",
+                    "created": "Sat, 19 May 2018 17:00:04 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Side-stepping Google",
+            "created": "Sat, 19 May 2018 13:53:38 GMT",
+            "type": "outline",
+            "description": "What if there was a site, accessible through HTTPS, that acted as a proxy for any site on the web, including sites that use HTTP, the protocol of the web, that Google is trying to kill?",
+            "subs": [
+                {
+                    "text": "<a href=\"https://en.wikiquote.org/wiki/John_Gilmore\">John Gilmore</a>: \"The Net interprets censorship as damage and routes around it.\"",
+                    "created": "Sat, 19 May 2018 14:19:20 GMT"
+                },
+                {
+                    "text": "For the latest on Google's plans to turn the open web into Disneyland, read their May 17 <a href=\"https://blog.chromium.org/2018/05/evolving-chromes-security-indicators.html\">announcement</a>. I've written a <a href=\"http://this.how/googleAndHttp/\">backgrounder</a> on the issue of Google and HTTP. Before jumping to any conclusions about what I think, please read it. ",
+                    "created": "Sat, 19 May 2018 14:09:15 GMT",
+                    "image": "http://scripting.com/images/2018/05/19/bigBrother.png"
+                },
+                {
+                    "text": "Anyway, I had an <a href=\"https://github.com/scripting/Scripting-News/issues/80\">idea</a> that there might be a route-around. Suppose there was a site that was a container for the web. It has an address bar at the top where you enter the address of a site. It then displays the contents of the site below. It accepts HTTP or HTTPS. But the container site is accessible via HTTPS.",
+                    "created": "Sat, 19 May 2018 14:08:18 GMT"
+                },
+                {
+                    "text": "Problem solved? It seems we've restored access to the sites Google doesn't like. Yes you have to access us in a compatibility box, and that's hopefully just a temporary fix until one of Google's competitors decides to try a more cooperative approach to whatever it is Google is trying to do (and I don't believe it has anything to do with our security, it's their ad revenue they're worried about).",
+                    "created": "Sat, 19 May 2018 14:14:51 GMT"
+                },
+                {
+                    "text": "PS: Here's a <a href=\"https://github.com/scripting/Scripting-News/issues/80\">place</a> to comment on the <i>technical</i> merits of this idea. If you have a political statement please post it on your blog. Thanks. ",
+                    "created": "Sat, 19 May 2018 15:02:54 GMT"
+                }
+            ]
+        }
+    ]
+}
