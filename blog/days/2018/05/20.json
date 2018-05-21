@@ -1,0 +1,95 @@
+{
+    "text": "May 20",
+    "created": "Sun, 20 May 2018 15:38:50 GMT",
+    "name": "20",
+    "subs": [
+        {
+            "text": "I’m skipping the Sunday news shows, first time in many months. I broke the habit. Why? The news just tells us how sick we are. I understand. Let me know when the news starts helping us dig out.",
+            "created": "Sun, 20 May 2018 16:25:42 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/998213941246464000"
+        },
+        {
+            "text": "We need to be organized",
+            "created": "Sun, 20 May 2018 18:25:45 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Once you give up on the idea that the solution to our problems will ever show up in the news, it leads to new observations. ",
+                    "created": "Sun, 20 May 2018 18:32:01 GMT",
+                    "image": "http://scripting.com/images/2018/05/20/uncleSam.png"
+                },
+                {
+                    "text": "Like this. The opposition, basically American <a href=\"https://en.wikipedia.org/wiki/Oligarchy\">oligarchs</a>, who thanks to Citizens United have been able to buy enough of the government to dismantle our democracy, is somewhat organized. The rest of us, who, combined, have huge economic power if we could just organize ourselves, are without leadership. Waiting for something unspecified to happen. ",
+                    "created": "Sun, 20 May 2018 18:34:10 GMT"
+                },
+                {
+                    "text": "The best the Democrats can do is <a href=\"https://en.wikipedia.org/wiki/Tom_Perez\">Tom Perez</a>. He has zero charisma, no ideas, not even slightly bold. I listen to him, but it's painful.",
+                    "created": "Sun, 20 May 2018 18:34:04 GMT"
+                },
+                {
+                    "text": "Our problem isn't knowing <a href=\"http://scripting.com/2018/05/08/194430.html\">what we stand for</a>, we know. We need to organize our power to balance that of the oligarchs. The fact that we can't get organized is not an accident. The owners of the media are oligarchs too.",
+                    "created": "Sun, 20 May 2018 18:35:29 GMT"
+                },
+                {
+                    "text": "Start by looking to people who have done amazing jobs of organizing in the past. I would start with civil rights leaders. Union leaders. The Parkland kids. Teachers. Find people who can speak and write passionately. ",
+                    "created": "Sun, 20 May 2018 18:35:37 GMT"
+                },
+                {
+                    "text": "It's not enough to win elections, we have to elect powerful leadership to oppose the already organized and powerful leadership on the other side. ",
+                    "created": "Sun, 20 May 2018 18:37:09 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Mysterious AWS problem",
+            "created": "Sun, 20 May 2018 15:38:51 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<i>Important: This is not a request for support from Amazon.</i>",
+                    "created": "Sun, 20 May 2018 15:38:55 GMT"
+                },
+                {
+                    "text": "I had an issue on one of my EC2 servers starting last night. A few of the apps running on it were not accessible over the net.",
+                    "created": "Sun, 20 May 2018 15:39:07 GMT"
+                },
+                {
+                    "text": "I figured one of my code updates had broken something, but I couldn't find a common thread between the apps. They were <a href=\"http://xmlviewer.scripting.com/?url=http://rss.art19.com/the-daily\">xmlviewer</a>, <a href=\"http://river5.scripting.com/\">river5</a> and <a href=\"http://json.chat/\">jsonchat</a>. ",
+                    "created": "Sun, 20 May 2018 15:40:09 GMT"
+                },
+                {
+                    "text": "xmlviewer is the simplest so I started with that. ",
+                    "created": "Sun, 20 May 2018 15:41:08 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Ran it locally. Works fine. ",
+                            "created": "Sun, 20 May 2018 15:48:20 GMT"
+                        },
+                        {
+                            "text": "Checked if the request was making it to the server. It wasn't. ",
+                            "created": "Sun, 20 May 2018 15:41:26 GMT"
+                        },
+                        {
+                            "text": "Checked if DNS was properly mapped. It was. ",
+                            "created": "Sun, 20 May 2018 15:41:39 GMT"
+                        },
+                        {
+                            "text": "Then I checked if the port was open in the EC2 firewall. It wasn't. There was the problem. I opened the three ports for the three apps and voila, they are working again.",
+                            "created": "Sun, 20 May 2018 15:41:51 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "Which leaves me with a mystery. I can't imagine I woke up in the middle of the night, in a dream, opened the EC2 console and deleted the entries for the three ports. But they weren't there.",
+                    "created": "Sun, 20 May 2018 15:42:31 GMT"
+                },
+                {
+                    "text": "What happened? I may never know! :rocket:",
+                    "created": "Sun, 20 May 2018 15:49:28 GMT"
+                }
+            ]
+        }
+    ]
+}
