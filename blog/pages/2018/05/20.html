@@ -1,0 +1,33 @@
+<div class="divDayTitle"><a href="http://scripting.com/2018/05/20.html">Sunday, May 20, 2018</a></div>
+<div class="divSingularItem" data-type="outline" data-urltweet="https://twitter.com/davewiner/status/998213941246464000"><a name="a162542"></a>I’m skipping the Sunday news shows, first time in many months. I broke the habit. Why? The news just tells us how sick we are. I understand. Let me know when the news starts helping us dig out.<span class="spPermaLink"><a href="http://scripting.com/2018/05/20.html#a162542" title="Direct link to this item.">#</a></span></div>
+<div class="divTitledItem">
+	<div class="divTitle"><a name="a182545"></a><a href="http://scripting.com/2018/05/20/182545.html"><span class="spTitleLink">We need to be organized</a></a><span class="spPermaLink"><a href="http://scripting.com/2018/05/20/182545.html" title="Direct link to this item.">#</a></span></div>
+	<ul class="ulLevel0">
+	<li data-image="http://scripting.com/images/2018/05/20/uncleSam.png"><a name="a183201"></a><img src="http://scripting.com/images/2018/05/20/uncleSam.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Once you give up on the idea that the solution to our problems will ever show up in the news, it leads to new observations. <span class="spPermaLink"><a href="http://scripting.com/2018/05/20/182545.html#a183201" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a183410"></a>Like this. The opposition, basically American <a href="https://en.wikipedia.org/wiki/Oligarchy">oligarchs</a>, who thanks to Citizens United have been able to buy enough of the government to dismantle our democracy, is somewhat organized. The rest of us, who, combined, have huge economic power if we could just organize ourselves, are without leadership. Waiting for something unspecified to happen. <span class="spPermaLink"><a href="http://scripting.com/2018/05/20/182545.html#a183410" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a183404"></a>The best the Democrats can do is <a href="https://en.wikipedia.org/wiki/Tom_Perez">Tom Perez</a>. He has zero charisma, no ideas, not even slightly bold. I listen to him, but it's painful.<span class="spPermaLink"><a href="http://scripting.com/2018/05/20/182545.html#a183404" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a183529"></a>Our problem isn't knowing <a href="http://scripting.com/2018/05/08/194430.html">what we stand for</a>, we know. We need to organize our power to balance that of the oligarchs. The fact that we can't get organized is not an accident. The owners of the media are oligarchs too.<span class="spPermaLink"><a href="http://scripting.com/2018/05/20/182545.html#a183529" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a183537"></a>Start by looking to people who have done amazing jobs of organizing in the past. I would start with civil rights leaders. Union leaders. The Parkland kids. Teachers. Find people who can speak and write passionately. <span class="spPermaLink"><a href="http://scripting.com/2018/05/20/182545.html#a183537" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a183709"></a>It's not enough to win elections, we have to elect powerful leadership to oppose the already organized and powerful leadership on the other side. <span class="spPermaLink"><a href="http://scripting.com/2018/05/20/182545.html#a183709" title="Direct link to this item.">#</a></span></li>
+	</ul>
+
+	</div>
+<div class="divTitledItem">
+	<div class="divTitle"><a name="a153851"></a><a href="http://scripting.com/2018/05/20/153851.html"><span class="spTitleLink">Mysterious AWS problem</a></a><span class="spPermaLink"><a href="http://scripting.com/2018/05/20/153851.html" title="Direct link to this item.">#</a></span></div>
+	<ul class="ulLevel0">
+	<li><a name="a153855"></a><i>Important: This is not a request for support from Amazon.</i><span class="spPermaLink"><a href="http://scripting.com/2018/05/20/153851.html#a153855" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a153907"></a>I had an issue on one of my EC2 servers starting last night. A few of the apps running on it were not accessible over the net.<span class="spPermaLink"><a href="http://scripting.com/2018/05/20/153851.html#a153907" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a154009"></a>I figured one of my code updates had broken something, but I couldn't find a common thread between the apps. They were <a href="http://xmlviewer.scripting.com/?url=http://rss.art19.com/the-daily">xmlviewer</a>, <a href="http://river5.scripting.com/">river5</a> and <a href="http://json.chat/">jsonchat</a>. <span class="spPermaLink"><a href="http://scripting.com/2018/05/20/153851.html#a154009" title="Direct link to this item.">#</a></span></li>
+	<li data-flBulletedSubs="true"><a name="a154108"></a>xmlviewer is the simplest so I started with that. <span class="spPermaLink"><a href="http://scripting.com/2018/05/20/153851.html#a154108" title="Direct link to this item.">#</a></span></li>
+	<ul class="ulLevel1 ulBulletedSubs">
+	<li><a name="a154820"></a>Ran it locally. Works fine. <span class="spPermaLink"><a href="http://scripting.com/2018/05/20/153851.html#a154820" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a154126"></a>Checked if the request was making it to the server. It wasn't. <span class="spPermaLink"><a href="http://scripting.com/2018/05/20/153851.html#a154126" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a154139"></a>Checked if DNS was properly mapped. It was. <span class="spPermaLink"><a href="http://scripting.com/2018/05/20/153851.html#a154139" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a154151"></a>Then I checked if the port was open in the EC2 firewall. It wasn't. There was the problem. I opened the three ports for the three apps and voila, they are working again.<span class="spPermaLink"><a href="http://scripting.com/2018/05/20/153851.html#a154151" title="Direct link to this item.">#</a></span></li>
+	</ul>
+
+	<li><a name="a154231"></a>Which leaves me with a mystery. I can't imagine I woke up in the middle of the night, in a dream, opened the EC2 console and deleted the entries for the three ports. But they weren't there.<span class="spPermaLink"><a href="http://scripting.com/2018/05/20/153851.html#a154231" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a154928"></a>What happened? I may never know! <span class="spOldSchoolEmoji">🚀</span><span class="spPermaLink"><a href="http://scripting.com/2018/05/20/153851.html#a154928" title="Direct link to this item.">#</a></span></li>
+	</ul>
+
+	</div>
