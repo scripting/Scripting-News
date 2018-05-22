@@ -1,0 +1,43 @@
+{
+    "text": "May 21",
+    "created": "Mon, 21 May 2018 13:21:38 GMT",
+    "name": "21",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/998769405390712837\">Poll</a>: Which teams will be in the NBA Finals?",
+            "created": "Tue, 22 May 2018 03:36:42 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/998769405390712837"
+        },
+        {
+            "text": "A 15-minute <a href=\"http://scripting.com/2018/05/21/weAreThePower.m4a\">podcast</a> explains why I'm finished waiting for journalism or the Democrats to lead us out of the abyss. We don't have to be riveted on the stream of minutiae coming out of journalism. Instead we have to organize and get the focus where it belongs, on the people. We're considered spectators, part of a wave that might or might not exist. The only way out of this for the people to organize. And that means <i>doing things, </i>not just watching.",
+            "created": "Mon, 21 May 2018 16:26:44 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2018/05/21/weAreThePower.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "7709824",
+            "image": "http://scripting.com/images/2018/05/20/uncleSam.png"
+        },
+        {
+            "text": "I have an <a href=\"https://electronjs.org/\">Electron</a> app that's developing into a \"Frontier\"-like thing, but there are still many things Frontier does better or easier. Then I had a flash, why not call Frontier from the Electron app. How? Using <a href=\"http://xmlrpc.scripting.com/\">XML-RPC</a> of course. So I wrote an XML-RPC client in JavaScript. Doesn't yet support all the types. It works! I was able to call <a href=\"https://books.google.com/books?id=cZ7RAQAAQBAJ&pg=PA97&lpg=PA97&dq=examples.getStateName&source=bl&ots=0d1hw6T5tq&sig=UxqJEDleugSOvKoSIfKLxjH3QC8&hl=en&sa=X&ved=2ahUKEwjCm_Xv85bbAhVyuVkKHZGYD70Q6AEwB3oECAEQTg#v=onepage&q=examples.getStateName&f=false\">examples.getStateName (23)</a> and sure enough it returns Minnesota. This might be very interesting. ",
+            "created": "Mon, 21 May 2018 13:21:39 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Last month, XML-RPC was 20 years old. Here's a <a href=\"http://scripting.com/davenet/2002/04/04/fourYearsOfXmlrpc.html\">piece</a> written on its fourth anniversary in 2002. Thanks once again to Bob, Mohsen and Don for the best collaboration of my career.",
+            "created": "Mon, 21 May 2018 13:39:27 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "O'Reilly XML-RPC <a href=\"https://www.amazon.com/Programming-Services-XML-RPC-OReilly-Internet/dp/0596001193\">book</a>. They have the <a href=\"https://books.google.com/books?id=l40nvlrjWL0C&printsec=frontcover&dq=xml-rpc+o%27reilly+book&hl=en&sa=X&ved=0ahUKEwirp9SJr5jbAhWHtlkKHWeyBqIQ6AEIKTAA#v=onepage&q=xml-rpc%20o'reilly%20book&f=false\">full text</a> on Google Books.",
+            "created": "Tue, 22 May 2018 03:24:06 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "We're cleaning out the family home before selling it. My mom had a picture of me from the 1980s on the fireplace mantle. It's a publicity shot from Living Videotext that appeared in a fair number of press stories about our company. A good picture, but it had a lot of exposure to the sun over the years. That's what the white spots are from. :boom:",
+            "created": "Mon, 21 May 2018 15:12:52 GMT",
+            "type": "outline",
+            "urlexpandableimage": "http://scripting.com/images/2018/05/21/dwPublicityShotFrom1980s.png"
+        }
+    ]
+}
