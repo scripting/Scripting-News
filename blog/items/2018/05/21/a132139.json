@@ -1,0 +1,5 @@
+{
+    "text": "I have an <a href=\"https://electronjs.org/\">Electron</a> app that's developing into a \"Frontier\"-like thing, but there are still many things Frontier does better or easier. Then I had a flash, why not call Frontier from the Electron app. How? Using <a href=\"http://xmlrpc.scripting.com/\">XML-RPC</a> of course. So I wrote an XML-RPC client in JavaScript. Doesn't yet support all the types. It works! I was able to call <a href=\"https://books.google.com/books?id=cZ7RAQAAQBAJ&pg=PA97&lpg=PA97&dq=examples.getStateName&source=bl&ots=0d1hw6T5tq&sig=UxqJEDleugSOvKoSIfKLxjH3QC8&hl=en&sa=X&ved=2ahUKEwjCm_Xv85bbAhVyuVkKHZGYD70Q6AEwB3oECAEQTg#v=onepage&q=examples.getStateName&f=false\">examples.getStateName (23)</a> and sure enough it returns Minnesota. This might be very interesting. ",
+    "created": "Mon, 21 May 2018 13:21:39 GMT",
+    "type": "outline"
+}
