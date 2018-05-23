@@ -1,0 +1,29 @@
+{
+    "text": "May 22",
+    "created": "Tue, 22 May 2018 12:14:33 GMT",
+    "name": "22",
+    "subs": [
+        {
+            "text": "There's a disconnect in developerland. Thinking about the cost of a change, the advocate only contemplates how much it costs for new development, not the cost to transition existing applications, or in the case of the web, websites or domains. The longer the technology has been deployed, the larger the cost, and the more widely deployed the larger the cost. HTTP, the protocol of the web, has been constant for 25 years, and is probably the most widely deployed protocol in existence. The cost to do a major transformation of HTTP is huge. Yet when we discuss it, advocates generally speak in terms of how much it would cost to put up a new website. ",
+            "created": "Tue, 22 May 2018 15:34:36 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/05/09/shrug.png"
+        },
+        {
+            "text": "Sometimes the advocates are aware that there is an installed base. They give it a <a href=\"https://en.wikipedia.org/wiki/Legacy_system\">disparaging name</a> that makes it seem okay to ignore it. Or they say that the new protocol will be so much better that any sane person will want to switch right away (and who cares about insane people). Or the new protocol is so compelling the installed base will swamp the base of the old klunky one. What happens is the new way is over-done and too complex and gets very slow adoption even from new applications. And if the proponent is a bigco, like Apple or Google, the market ends up with a hairball. Too many hairballs and the market fades away. Never actually disappears, but people lose interest. (This is what happened with SOAP and all the WS-xxx protocols.)",
+            "created": "Tue, 22 May 2018 16:12:43 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I have a question. Why don't they use Walt Frazier as a commentator on TNT instead of the Stan Van Gundy and Mark Jackson. They are so awful and Frazier is so good.",
+            "created": "Tue, 22 May 2018 14:31:10 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=rxe3pxxcxSY"
+        },
+        {
+            "text": "Idea processing. In your brain a complex project in all its facets is just there. To implement the project, you must serialize it and communicate it, so that the same blob appears in the individual minds of the team. If they understand how their work relates to others, it triggers their instinctive sense of teamwork. We’re a social species, we’re more functional if we understand where we fit in. This is why software that lets you visualize, organize, and communicate your understanding of a project makes you a more effective leader.",
+            "created": "Tue, 22 May 2018 12:14:34 GMT",
+            "type": "outline"
+        }
+    ]
+}
