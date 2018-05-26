@@ -1,0 +1,37 @@
+{
+    "text": "May 25",
+    "created": "Fri, 25 May 2018 13:34:38 GMT",
+    "name": "25",
+    "subs": [
+        {
+            "text": "Getting close with my \"XML-RPC\" client and server for Node. You can hook the server up to anything, easily. Factoring is good. Also a client that runs in browser. It’s like getting a classic car running. This is how I have fun. ",
+            "created": "Fri, 25 May 2018 22:38:41 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Debugging Node apps",
+            "created": "Fri, 25 May 2018 13:34:39 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I got the <a href=\"https://github.com/scripting/Scripting-News/issues/81#issuecomment-391938121\">answer</a> to yesterday's <a href=\"http://scripting.com/2018/05/24.html#a145021\">query</a> about getting at the data in a Node app using the debugger. There's a new way to do it. First you have to install a <a href=\"https://chrome.google.com/webstore/detail/nodejs-v8-inspector-manag/gnhhdgbaldcilmgcpfddgdbkhjohddkj\">Chrome app</a>. Then launch the Node app with a --inspect flag.",
+                    "created": "Fri, 25 May 2018 13:35:26 GMT",
+                    "subs": [
+                        {
+                            "text": "<code>node --inspect test.js</code>",
+                            "created": "Fri, 25 May 2018 13:35:32 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "The app launches. It displays a URL to open in Chrome. Copy it, paste it into the browser address bar, and the debugger opens. Your files are in the left margin. Click one. Set a breakpoint. When the app stops there you'll see the data in the right panel, and when you click the wedge, it expands. ",
+                    "created": "Fri, 25 May 2018 13:35:41 GMT"
+                },
+                {
+                    "text": "One concern, this process requires using Chrome, and I'm expecting to have to stop using it soon because it <a href=\"http://this.how/googleAndHttp/\">breaks</a> all my sites. ",
+                    "created": "Fri, 25 May 2018 13:39:46 GMT"
+                }
+            ]
+        }
+    ]
+}
