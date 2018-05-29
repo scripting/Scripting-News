@@ -1,0 +1,23 @@
+{
+    "text": "May 28",
+    "created": "Mon, 28 May 2018 04:06:39 GMT",
+    "name": "28",
+    "subs": [
+        {
+            "text": "My test XML-RPC server is up at betty.scripting.com. Same calling conventions as the original betty.<i>userland</i>.com (which is not up at the moment). The idea is to test this server, verify interop, or fix it, iterate, and when it's solid, make this the definitive test server. Here's <a href=\"https://github.com/scripting/xml-rpc/blob/master/client/code.js\">example code</a> in JavaScript that calls this server, but any of the <a href=\"https://duckduckgo.com/?q=betty.userland.com&t=h_&ia=web\">docs</a> for betty.userland.com should work. More tomorrow.",
+            "created": "Tue, 29 May 2018 00:18:45 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/05/28/tramp.png"
+        },
+        {
+            "text": "Joi Ito <a href=\"https://joi.ito.com/weblog/2018/05/28/citing-blogs.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+joi-ito/weblog+(Joi+Ito%27s+Weblog\">makes</a> the case for citing blogs in academic writing. It doesn’t seem controversial to me. Blogs are where sources write. Same reason journalists cite blogs (and tweets). The record is where it is. For example, I’ve spent the last week rebuilding XML-RPC in JavaScript. The original work was done in 1998, and the process was started with a <a href=\"http://scripting.com/davenet/1998/02/27/rpcOverHttpViaXml.html\">blog post</a>. That post is very much part of the record. Conclusion -- as with journalism, it's a case of apples and oranges. I've never written an academic paper, and don't expect to. But if you were doing research on networking protocols, the source material for at least some of your work, would be on blogs. Which of course, makes it clear why we should be doing more to <a href=\"https://www.google.com/search?q=future-safe+archives+site%3Ascripting.com&rlz=1C5CHFA_enUS743US747&oq=future-safe+archives+site%3Ascripting.com&aqs=chrome..69i57.6911j0j3&sourceid=chrome&ie=UTF-8\">preserve</a> the record. ",
+            "created": "Mon, 28 May 2018 18:42:41 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Life lesson -- if you're going to say something that you know is going to bring up someone else's pain, be sure there's a good reason.",
+            "created": "Mon, 28 May 2018 04:06:40 GMT",
+            "type": "outline"
+        }
+    ]
+}
