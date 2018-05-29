@@ -1,0 +1,6 @@
+{
+    "text": "My test XML-RPC server is up at betty.scripting.com. Same calling conventions as the original betty.<i>userland</i>.com (which is not up at the moment). The idea is to test this server, verify interop, or fix it, iterate, and when it's solid, make this the definitive test server. Here's <a href=\"https://github.com/scripting/xml-rpc/blob/master/client/code.js\">example code</a> in JavaScript that calls this server, but any of the <a href=\"https://duckduckgo.com/?q=betty.userland.com&t=h_&ia=web\">docs</a> for betty.userland.com should work. More tomorrow.",
+    "created": "Tue, 29 May 2018 00:18:45 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2018/05/28/tramp.png"
+}
