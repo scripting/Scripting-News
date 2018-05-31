@@ -1,0 +1,64 @@
+{
+    "text": "May 30",
+    "created": "Wed, 30 May 2018 12:38:00 GMT",
+    "name": "30",
+    "subs": [
+        {
+            "text": "Here's the new <a href=\"http://scripting.com/code/xmlrpcdebugger/\">XML-RPC debugger</a>. May it help get the ball rolling! ",
+            "created": "Wed, 30 May 2018 17:29:49 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"http://this.how/forTheRecordBlogging/\">For-the-record blogging</a>. For a few years Medium became the place that people would post essays that were meant to be on the public record. This was not a good idea, because Medium is a venture-backed startup, and was likely to pivot. What's on-the-record today must at least have the stated intention of being accessible tomorrow. That was never true of Medium.  ",
+            "created": "Wed, 30 May 2018 14:04:58 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/05/30/target.png"
+        },
+        {
+            "text": "Now that I have my <a href=\"https://github.com/scripting/xml-rpc\">XML-RPC server and client</a> for JavaScript, I've started to look for activity if any, in the RPC world, not just in XML but also JSON. Here's a <a href=\"https://www.artima.com/weblogs/viewpost.jsp?thread=334124\">survey</a> written by Bruce Eckel in 2011. I could very easily add JSON support to my XML-RPC package, because it converts the request to JSON before processing it. Thinking about next steps. ",
+            "created": "Wed, 30 May 2018 15:38:07 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1001832389746753536\">Elitism is obsolete</a>. Yet journalism and tech cling to the concept. ",
+            "created": "Wed, 30 May 2018 14:31:25 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/82\">Braintrust query</a>: Developer Tools Access it trying to take control of another process. Does my Mac have a virus? How can I get rid of this menacing dialog? Any help much appreciated. ",
+            "created": "Wed, 30 May 2018 12:38:01 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Whataboutism",
+            "created": "Wed, 30 May 2018 15:24:00 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "One of the cool things about the advent of Trump and the influence of Russia is that we have a new concept, <a href=\"https://en.wikipedia.org/wiki/Whataboutism\">whataboutism</a>. It's useful because Americans do it too. Here's a conversation that illustrates.",
+                    "created": "Wed, 30 May 2018 15:24:04 GMT",
+                    "subs": [
+                        {
+                            "text": "Joe: \"It hurt when you stepped on my toe. Please don't do it again.\"",
+                            "created": "Wed, 30 May 2018 15:24:58 GMT"
+                        },
+                        {
+                            "text": "Bob: \"But you drove my car last week without asking.\"",
+                            "created": "Wed, 30 May 2018 15:25:04 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "Whether Joe drove Bob's car last week has nothing to do with the toe stepping. What if instead Bob didn't want to hurt Joe, and appreciates knowing that there's a way to improve their friendship. ",
+                    "created": "Wed, 30 May 2018 15:26:15 GMT",
+                    "subs": [
+                        {
+                            "text": "Bob: \"I'm sorry I hurt you. I will try not to do it again.\"",
+                            "created": "Wed, 30 May 2018 15:27:31 GMT"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
