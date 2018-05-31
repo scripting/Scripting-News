@@ -1,0 +1,5 @@
+{
+    "text": "Now that I have my <a href=\"https://github.com/scripting/xml-rpc\">XML-RPC server and client</a> for JavaScript, I've started to look for activity if any, in the RPC world, not just in XML but also JSON. Here's a <a href=\"https://www.artima.com/weblogs/viewpost.jsp?thread=334124\">survey</a> written by Bruce Eckel in 2011. I could very easily add JSON support to my XML-RPC package, because it converts the request to JSON before processing it. Thinking about next steps. ",
+    "created": "Wed, 30 May 2018 15:38:07 GMT",
+    "type": "outline"
+}
