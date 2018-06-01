@@ -1,0 +1,5 @@
+{
+    "text": "Script runtimes should have a parameter supplied by the \"supervisor\" app (the one that's running the code) that says \"only accept constant expressions.\" Anything involving a name that isn't a constant, like <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN\">NaN</a> or <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity\">infinity</a> is a fatal error. Having this level of security inside the runtime is essential. ",
+    "created": "Thu, 31 May 2018 20:10:21 GMT",
+    "type": "outline"
+}
