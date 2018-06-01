@@ -14,6 +14,8 @@ Single-param call
 
 <td>
 
+<pre>
+
 &lt;methodCall>
 
 &lt;methodName>examples.getStateName&lt;/methodName>
@@ -30,9 +32,13 @@ Single-param call
 
 &lt;/methodCall>
 
+</pre>
+
 </td>
 
 <td>
+
+<pre>
 
 {
 
@@ -49,6 +55,8 @@ Single-param call
 }
 
 }
+
+</pre>
 
 </td>
 
