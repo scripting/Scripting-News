@@ -1,0 +1,58 @@
+{
+    "text": "June 1",
+    "created": "Fri, 01 Jun 2018 15:55:08 GMT",
+    "name": "01",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1002640404884475911\">Poll</a>: Which big company would you like to buy GitHub? ",
+            "created": "Fri, 01 Jun 2018 20:00:15 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1002640404884475911",
+            "image": "http://scripting.com/images/2018/06/01/accordionGuy.png"
+        },
+        {
+            "text": "More work on the <a href=\"http://scripting.com/code/xmlrpcdebugger/\">XML-RPC debugger</a>. It now <a href=\"http://scripting.com/images/2018/06/01/xmlRpcDebuggerScreenShot.png\">looks</a> reasonable on an iPad. Added displays for the XML call and response. Helps to see what's going over the wire. More thinking about a JSON syntax, and what I would do differently a second time around. The original XML-RPC design was rushed, the work of four people with different perspectives and visions for where it would go. Now, 20 years later, what was speculative is now settled. And JSON has built-in syntax for the types that XML-RPC had define. So the resulting packet is smaller. I've kept the names, methodResponse, fault, etc, on the <a href=\"http://this.how/standards/#1497798798000\">principle</a> that fewer formats is better and <a href=\"http://this.how/standards/#1497798834000\">perfection</a> is a waste of time.",
+            "created": "Fri, 01 Jun 2018 15:55:23 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Here's a <a href=\"http://scripting.com/misc/xmlrpc-in-json.html\">page</a> comparing the XML format RPC calls and response with the same items in JSON.",
+            "created": "Fri, 01 Jun 2018 17:10:41 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Welcome to June 2018. My how time flies. ",
+            "created": "Fri, 01 Jun 2018 15:55:09 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "On GitHub being acquired",
+            "created": "Fri, 01 Jun 2018 20:04:46 GMT",
+            "type": "outline",
+            "description": "Would Microsoft stay out of the way of people using it? ",
+            "subs": [
+                {
+                    "text": "I use <a href=\"https://www.techmeme.com/#a180601p20\">GitHub</a> as an <a href=\"https://github.com/scripting?tab=repositories\">integral part</a> of my development environment. More all the time. As such, I don't like to think of GitHub as an owned thing, even though I understand that it is. I never worry about what's going to become of them. I probably should.",
+                    "created": "Fri, 01 Jun 2018 20:04:57 GMT",
+                    "image": "http://scripting.com/images/2018/06/01/gitHubLogo.png"
+                },
+                {
+                    "text": "Would Microsoft stay out of the way of people using it? I have no idea. ",
+                    "created": "Fri, 01 Jun 2018 20:15:00 GMT"
+                },
+                {
+                    "text": "I bet they would integrate their cloud services with GitHub in some way. A button on your project to instantly deploy it in Microsoft's cloud, turnkey provisioning? Might be attractive. But it would be better for users (such as myself) if that were itself a platform that lots of service providers could plug into.",
+                    "created": "Fri, 01 Jun 2018 20:15:04 GMT"
+                },
+                {
+                    "text": "I think <a href=\"https://www.cnbc.com/2018/06/01/microsoft--github-acquisition-talks-resume.html\">this</a> <a href=\"http://www.businessinsider.com/2-billion-startup-github-could-be-for-sale-microsoft-2018-5?op=1\">acquisition</a>, if it happens, illustrates why we should have non-profits at the center of the open development world. I can't imagine trusting Microsoft indefinitely. And if Google were to acquire it, that would send me immediately looking for other places to host my projects.   ",
+                    "created": "Fri, 01 Jun 2018 20:11:06 GMT"
+                },
+                {
+                    "text": "Amazon seems like a better match, although I understand Microoft might use GitHub to draw more attention to its cloud hosting services. ",
+                    "created": "Fri, 01 Jun 2018 20:12:03 GMT"
+                }
+            ]
+        }
+    ]
+}
