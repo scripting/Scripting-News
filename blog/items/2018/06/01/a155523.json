@@ -1,0 +1,5 @@
+{
+    "text": "More work on the <a href=\"http://scripting.com/code/xmlrpcdebugger/\">XML-RPC debugger</a>. It now <a href=\"http://scripting.com/images/2018/06/01/xmlRpcDebuggerScreenShot.png\">looks</a> reasonable on an iPad. Added displays for the XML call and response. Helps to see what's going over the wire. More thinking about a JSON syntax, and what I would do differently a second time around. The original XML-RPC design was rushed, the work of four people with different perspectives and visions for where it would go. Now, 20 years later, what was speculative is now settled. And JSON has built-in syntax for the types that XML-RPC had define. So the resulting packet is smaller. I've kept the names, methodResponse, fault, etc, on the <a href=\"http://this.how/standards/#1497798798000\">principle</a> that fewer formats is better and <a href=\"http://this.how/standards/#1497798834000\">perfection</a> is a waste of time.",
+    "created": "Fri, 01 Jun 2018 15:55:23 GMT",
+    "type": "outline"
+}
