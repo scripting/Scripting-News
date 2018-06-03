@@ -1,0 +1,27 @@
+{
+    "text": "A good alternative to Disqus?",
+    "created": "Sat, 02 Jun 2018 13:47:55 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I am a longtime user of <a href=\"https://disqus.com/\">Disqus</a> and have been aware that it could become a problem at some point in the future. I think we may be at that point now, or close to it, because the ads they're putting on my otherwise ad-free pages are somewhat objectionable. ",
+            "created": "Sat, 02 Jun 2018 13:56:32 GMT"
+        },
+        {
+            "text": "Here's a <a href=\"http://scripting.com/images/2018/06/02/disqusAd.png\">screen shot</a> of a <a href=\"http://podcatch.com/archive/2018/06/01/147981.html\">page</a> on \"podcatch.com\".",
+            "created": "Sat, 02 Jun 2018 13:48:07 GMT"
+        },
+        {
+            "text": "They've always reserved the right to put ads there, so I'm not saying they're doing anything wrong. But it's time to start thinking about a comment system that I can include in my site that I can run on one of my servers. ",
+            "created": "Sat, 02 Jun 2018 13:49:14 GMT"
+        },
+        {
+            "text": "It's not a simple job, of course, because of spam. You need a robust set of options for moderation, and it takes a while to iterate to the right set. ",
+            "created": "Sat, 02 Jun 2018 13:50:09 GMT"
+        },
+        {
+            "text": "Right now I've put on my to-do list, ways to disable it on various sites I've created over the years that have Disqus comments. Or at least have the default set to <i>hidden</i> and not visible. ",
+            "created": "Sat, 02 Jun 2018 13:50:55 GMT"
+        }
+    ]
+}
