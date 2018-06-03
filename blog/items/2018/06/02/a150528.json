@@ -1,0 +1,51 @@
+{
+    "text": "Public storage for end-users",
+    "created": "Sat, 02 Jun 2018 15:05:28 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "We still need public storage for end-users. I'm assuming the tech industry doesn't want this because it gives users and developers too much power?? With this one feature we would really become independent of the giant companies. ",
+            "created": "Sat, 02 Jun 2018 15:24:56 GMT"
+        },
+        {
+            "text": "Here's the idea:",
+            "created": "Sat, 02 Jun 2018 15:05:39 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "Let's say the service is called the Acme Storage Service or Acme for short.",
+                    "created": "Sat, 02 Jun 2018 15:06:38 GMT"
+                },
+                {
+                    "text": "The user creates an account on Acme, providing a credit card, agrees to terms of service, etc.",
+                    "created": "Sat, 02 Jun 2018 15:07:25 GMT"
+                },
+                {
+                    "text": "There's a browser-based file system editor, like the one Dropbox provides. ",
+                    "created": "Sat, 02 Jun 2018 15:08:47 GMT"
+                },
+                {
+                    "text": "The user grants access to folders within the storage to browser-based and desktop apps via OAuth. Apps can read and write, but are restricted, by default, to their own folder. It's important that the user have the flexibility to grant two or more apps access to the same folder, making it possible to use different editors, possibly from different developers, on the same data. ",
+                    "created": "Sat, 02 Jun 2018 15:09:13 GMT",
+                    "collapse": "true"
+                },
+                {
+                    "text": "The files are accessible over the web. It's <i>public</i> storage. Only the user can write, of course.",
+                    "created": "Sat, 02 Jun 2018 15:09:50 GMT"
+                },
+                {
+                    "text": "The user can, for an extra charge, map a domain to any location within their storage, or to the whole thing. ",
+                    "created": "Sat, 02 Jun 2018 15:11:01 GMT"
+                },
+                {
+                    "text": "Acme sends users a monthly bill that's a function of amount of storage used and how much it is accessed. ",
+                    "created": "Sat, 02 Jun 2018 15:13:13 GMT"
+                }
+            ]
+        },
+        {
+            "text": "That's it. It's all mature technology, easy to deploy. As I've <a href=\"http://scripting.com/2017/01/18/enduserStorageFromAmazon.html\">written</a> before I wish Amazon would just do this, they're the logical ones. But the need is so great, I'm starting to think of other ways to get this done. I'm sure a vibrant developer community would develop, esp if the APIs were simple. And new media types would develop. Right now this kind of service mainly exists for blogs. WordPress would also be a logical place to put this service. ",
+            "created": "Sat, 02 Jun 2018 15:11:29 GMT"
+        }
+    ]
+}
