@@ -1,0 +1,135 @@
+{
+    "text": "June 2",
+    "created": "Sat, 02 Jun 2018 13:47:54 GMT",
+    "name": "02",
+    "subs": [
+        {
+            "text": "I was looking forward to the first episode of <a href=\"https://en.wikipedia.org/wiki/The_Break_with_Michelle_Wolf\">The Break</a> with <a href=\"https://en.wikipedia.org/wiki/Michelle_Wolf\">Michelle Wolf</a> on Netflix, but it was really the shits because of all the body shaming jokes. I'm willing to cut her all kinds of slack for a first episode because I <a href=\"http://scripting.com/2018/05/06/132007.html\">like</a> the way she thinks and I find her comedy funny. But she <a href=\"http://scripting.com/2018/05/06/132007.html#a132228\">knows</a> she's doing it, and still does it, and that's not cool.",
+            "created": "Sat, 02 Jun 2018 17:46:50 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/06/02/hillaryClntonActionFigure.png"
+        },
+        {
+            "text": "When a president lies as much and as boldly as Trump does, not only does the press have to <a href=\"https://www.teenvogue.com/story/thigh-high-politics-donald-trump-lying-journalists-need-to-call-him-out\">call him on it</a>, but new forms of journalism have to develop around this new norm, to report on why he's lying. We can have a robust discussion about that. ",
+            "created": "Sat, 02 Jun 2018 17:40:29 GMT",
+            "type": "tweet",
+            "tweetId": "1002968643209134080",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "My <i>this.how</i> pages now have the date posted at the top of the page, instead of when they were last updated. The mod date is at the bottom of the page. <a href=\"http://this.how/standards/\">Example</a>. I edited the default outline <a href=\"http://fargo.io/code/pagepark/templates/opml/template.txt\">template</a> for \"PagePark\" to do this, so if you're running PagePark and using it to view OPML files, you'll get this change too. You can override it by providing a custom template. ",
+            "created": "Sat, 02 Jun 2018 14:41:13 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Public storage for end-users",
+            "created": "Sat, 02 Jun 2018 15:05:28 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "We still need public storage for end-users. I'm assuming the tech industry doesn't want this because it gives users and developers too much power?? With this one feature we would really become independent of the giant companies. ",
+                    "created": "Sat, 02 Jun 2018 15:24:56 GMT"
+                },
+                {
+                    "text": "Here's the idea:",
+                    "created": "Sat, 02 Jun 2018 15:05:39 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Let's say the service is called the Acme Storage Service or Acme for short.",
+                            "created": "Sat, 02 Jun 2018 15:06:38 GMT"
+                        },
+                        {
+                            "text": "The user creates an account on Acme, providing a credit card, agrees to terms of service, etc.",
+                            "created": "Sat, 02 Jun 2018 15:07:25 GMT"
+                        },
+                        {
+                            "text": "There's a browser-based file system editor, like the one Dropbox provides. ",
+                            "created": "Sat, 02 Jun 2018 15:08:47 GMT"
+                        },
+                        {
+                            "text": "The user grants access to folders within the storage to browser-based and desktop apps via OAuth. Apps can read and write, but are restricted, by default, to their own folder. It's important that the user have the flexibility to grant two or more apps access to the same folder, making it possible to use different editors, possibly from different developers, on the same data. ",
+                            "created": "Sat, 02 Jun 2018 15:09:13 GMT",
+                            "collapse": "true"
+                        },
+                        {
+                            "text": "The files are accessible over the web. It's <i>public</i> storage. Only the user can write, of course.",
+                            "created": "Sat, 02 Jun 2018 15:09:50 GMT"
+                        },
+                        {
+                            "text": "The user can, for an extra charge, map a domain to any location within their storage, or to the whole thing. ",
+                            "created": "Sat, 02 Jun 2018 15:11:01 GMT"
+                        },
+                        {
+                            "text": "Acme sends users a monthly bill that's a function of amount of storage used and how much it is accessed. ",
+                            "created": "Sat, 02 Jun 2018 15:13:13 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "That's it. It's all mature technology, easy to deploy. As I've <a href=\"http://scripting.com/2017/01/18/enduserStorageFromAmazon.html\">written</a> before I wish Amazon would just do this, they're the logical ones. But the need is so great, I'm starting to think of other ways to get this done. I'm sure a vibrant developer community would develop, esp if the APIs were simple. And new media types would develop. Right now this kind of service mainly exists for blogs. WordPress would also be a logical place to put this service. ",
+                    "created": "Sat, 02 Jun 2018 15:11:29 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Should you care about GitHub?",
+            "created": "Sat, 02 Jun 2018 13:58:39 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "If you're a user, should you care about GitHub possibly being <a href=\"https://www.techmeme.com/180601/p20#a180601p20\">acquired</a> by Microsoft? I imagine most non-developers have no idea such a thing as GitHub exists. ",
+                    "created": "Sat, 02 Jun 2018 14:01:31 GMT",
+                    "image": "http://scripting.com/images/2018/04/08/stalin.png"
+                },
+                {
+                    "text": "It's a fairly remarkable thing, kind of invisible, not much talked-about, but vital and appreciated. And well-done. It's what I call a <i>consensus platform.</i> It means that if you're starting an open source project, GitHub is the default place to do it. Most projects are hosted there. All of mine are. And I've been deploying new ones on a regular basis, and updating existing ones. It's important to me that they be preserved. For some reason it feels to me it's more likely they will persist because GitHub is such a consensus. ",
+                    "created": "Sat, 02 Jun 2018 14:01:49 GMT"
+                },
+                {
+                    "text": "In other words, no one gets fired for using GitHub (to paraphrase an ancient slogan about IBM).",
+                    "created": "Sat, 02 Jun 2018 14:09:12 GMT"
+                },
+                {
+                    "text": "It woke me up a bit to consider the possibility that it might be acquired. And then the ramifications of it, and the potential. It <i>could</i> be a good thing. But in tech, even a good thing somehow gets perverted by big companies, has atrocious business models attached to it, ends up being managed by someone more qualified to sell cars than manage a highly technical <a href=\"http://www.dictionary.com/browse/nuanced\">nuanced</a> development platform. ",
+                    "created": "Sat, 02 Jun 2018 14:02:17 GMT"
+                },
+                {
+                    "text": "What you want is steadiness. Gradual improvements. <i>No breakage. </i>",
+                    "created": "Sat, 02 Jun 2018 14:03:42 GMT"
+                },
+                {
+                    "text": "It could be that Microsoft would run GitHub better somehow than the current management, who I don't now, have never met, etc etc. But it's hard to see how it could be better. GitHub is what we want it to be, quiet, out of the way, taken for granted, there when we need it, a constant and dependable option. ",
+                    "created": "Sat, 02 Jun 2018 14:04:00 GMT"
+                }
+            ]
+        },
+        {
+            "text": "A good alternative to Disqus?",
+            "created": "Sat, 02 Jun 2018 13:47:55 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I am a longtime user of <a href=\"https://disqus.com/\">Disqus</a> and have been aware that it could become a problem at some point in the future. I think we may be at that point now, or close to it, because the ads they're putting on my otherwise ad-free pages are somewhat objectionable. ",
+                    "created": "Sat, 02 Jun 2018 13:56:32 GMT"
+                },
+                {
+                    "text": "Here's a <a href=\"http://scripting.com/images/2018/06/02/disqusAd.png\">screen shot</a> of a <a href=\"http://podcatch.com/archive/2018/06/01/147981.html\">page</a> on \"podcatch.com\".",
+                    "created": "Sat, 02 Jun 2018 13:48:07 GMT"
+                },
+                {
+                    "text": "They've always reserved the right to put ads there, so I'm not saying they're doing anything wrong. But it's time to start thinking about a comment system that I can include in my site that I can run on one of my servers. ",
+                    "created": "Sat, 02 Jun 2018 13:49:14 GMT"
+                },
+                {
+                    "text": "It's not a simple job, of course, because of spam. You need a robust set of options for moderation, and it takes a while to iterate to the right set. ",
+                    "created": "Sat, 02 Jun 2018 13:50:09 GMT"
+                },
+                {
+                    "text": "Right now I've put on my to-do list, ways to disable it on various sites I've created over the years that have Disqus comments. Or at least have the default set to <i>hidden</i> and not visible. ",
+                    "created": "Sat, 02 Jun 2018 13:50:55 GMT"
+                }
+            ]
+        }
+    ]
+}
