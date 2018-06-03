@@ -1,0 +1,5 @@
+{
+    "text": "My <i>this.how</i> pages now have the date posted at the top of the page, instead of when they were last updated. The mod date is at the bottom of the page. <a href=\"http://this.how/standards/\">Example</a>. I edited the default outline <a href=\"http://fargo.io/code/pagepark/templates/opml/template.txt\">template</a> for \"PagePark\" to do this, so if you're running PagePark and using it to view OPML files, you'll get this change too. You can override it by providing a custom template. ",
+    "created": "Sat, 02 Jun 2018 14:41:13 GMT",
+    "type": "outline"
+}
