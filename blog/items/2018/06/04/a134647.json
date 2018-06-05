@@ -1,0 +1,56 @@
+{
+    "text": "Microsoft buys GitHub",
+    "created": "Mon, 04 Jun 2018 13:46:47 GMT",
+    "type": "outline",
+    "description": "GitHub was that rare thing, a consensus platform. Everyone used it. If you used some other git server, you'd have to explain why. Now that consensus will very likely break up.",
+    "subs": [
+        {
+            "text": "The Microsoft-GitHub <a href=\"https://www.techmeme.com/180604/p10#a180604p10\">deal</a> is <a href=\"https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/\">announced</a>. I wrote about it twice <a href=\"http://scripting.com/2018/06/02/135839.html\">over</a> the <a href=\"http://scripting.com/2018/06/01/200446.html\">weekend</a>. Now we have a lot to think about.",
+            "created": "Mon, 04 Jun 2018 13:49:58 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "GitHub was that rare thing, a consensus platform. Everyone used it. If you used some other git server, you'd have to explain why. Now that consensus will very likely break up. Where will people go? Will a new consensus emerge? Seems unlikely, you pretty much need a vacuum for that to happen, though there have been exceptions.",
+                    "created": "Mon, 04 Jun 2018 13:53:07 GMT",
+                    "image": "http://scripting.com/images/2018/06/01/gitHubLogo.png"
+                },
+                {
+                    "text": "Microsoft may have better intentions than they used to, but I'm from <a href=\"https://en.wikipedia.org/wiki/Willard_Duncan_Vandiver\">Missouri</a>. And oftentimes acquistions are ruined because of incompetence, or key people leaving. They don't have to be <a href=\"https://twitter.com/shanselman/status/1003590025462681600\">evil</a> for this to go bad.",
+                    "created": "Mon, 04 Jun 2018 13:52:04 GMT"
+                },
+                {
+                    "text": "It'll be interesting to see if any of the mainstream press talks to and understands developers. This acquisition is totally about developers.",
+                    "created": "Mon, 04 Jun 2018 13:54:20 GMT"
+                },
+                {
+                    "text": "Who will Microsoft acquire next? Stack Exchange perhaps? <a href=\"https://en.wikipedia.org/wiki/Joel_Spolsky\">Joel</a> originally came from Microsoft. They've been developing new products that would make sense in Microsoft's cloud lineup.",
+                    "created": "Mon, 04 Jun 2018 14:15:32 GMT"
+                },
+                {
+                    "text": "Microsoft's competitors will probably stop using GitHub and may launch competitors, esp if GitHub integrates with Microsoft's cloud services. ",
+                    "created": "Mon, 04 Jun 2018 14:23:00 GMT"
+                },
+                {
+                    "text": "Microsoft could ease a lot of fears by offering to redirect any project to another git server. If anyone from either company is listening, consider that a suggestion. Otherwise we have a problem with all the github.com URLs out there on the web.",
+                    "created": "Mon, 04 Jun 2018 13:54:38 GMT"
+                },
+                {
+                    "text": "They chose an interesting day to announce, the first day of Apple's WWDC. This of course is not a coincidence. (See note below. Microsoft says the timing <i>is</i> a coincidence.)",
+                    "created": "Mon, 04 Jun 2018 13:56:47 GMT"
+                },
+                {
+                    "text": "What's <i>our</i> exit strategy? The founders and investors have theirs. ",
+                    "created": "Mon, 04 Jun 2018 13:50:28 GMT"
+                },
+                {
+                    "text": "I ignored their acquisition of LinkedIn, I have an account there, but I hardly use it. But GitHub is different. I use it as a backup of all my development work. I use it as a platform, and I've written tools that only work with GitHub. It's hard to imagine that I would have done that with Microsoft as the owner.",
+                    "created": "Mon, 04 Jun 2018 13:50:58 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Update: <a href=\"https://twitter.com/fxshaw?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor\">Frank X Shaw</a>, top Microsoft PR guy, writes: \"Hi Dave, I saw your post just a bit ago. One thing -- it actually is not intentional to announce concurrent w/ WWDC. Mergers/Acquisitions get announced when they are signed, not when we want them to. Thoughtful points on the rest of the post, but wanted to call that one out.\"",
+            "created": "Mon, 04 Jun 2018 14:09:48 GMT"
+        }
+    ]
+}
