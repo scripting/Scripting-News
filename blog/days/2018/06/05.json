@@ -1,0 +1,61 @@
+{
+    "text": "June 5",
+    "created": "Tue, 05 Jun 2018 13:47:52 GMT",
+    "name": "05",
+    "subs": [
+        {
+            "text": "20-minute <a href=\"http://scripting.com/2018/06/05/lovingGithubUsers.m4a\">podcast</a> on lessons learned from Microsoft's acquisition of GitHub.  Show notes follow. The Battlestar Galactica quote: \"All of this has happened before and all of this will happen again.\" <a href=\"https://en.wikipedia.org/wiki/Douglas_Adams\">Douglas Adams</a> wrote <a href=\"https://en.wikipedia.org/wiki/The_Restaurant_at_the_End_of_the_Universe\">The Restaurant at the End of the Universe</a>. Microsoft's first CFO was <a href=\"http://community.seattletimes.nwsource.com/archive/?date=19930423&slug=1697384\">Frank Gaudette</a>.  Microsoft's 2017 sales <a href=\"https://www.marketwatch.com/investing/stock/msft/financials\">were</a> approx $90 billion. Bottom-line: Advice to MS, add a feature that allows users to redirect from their GitHub repos, and consider a \"loyalty dividend\" for pre-Microsoft GitHub users, and establish a new tradition in tech acquisitions, a windfall for users. ",
+            "created": "Tue, 05 Jun 2018 15:03:06 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2018/06/05/lovingGithubUsers.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "9945938",
+            "image": "http://scripting.com/images/2018/06/05/hitchHikersGuide.png"
+        },
+        {
+            "text": "<a href=\"https://gist.github.com/scripting/a69f2dcd4f6c40d3418670c7611a1b73\">JS code</a> to ask AWS if an S3 path is a folder with files in it.",
+            "created": "Tue, 05 Jun 2018 17:45:07 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Government. Journalism. The people. Tech. They are all connected and indistinguishable. You can’t understand one without understanding them all.",
+            "created": "Wed, 06 Jun 2018 00:27:40 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "The <a href=\"http://scripting.com/2018/05/25/133439.html\">Node debugger</a> is great. Finally I have a full server-side debugger, and it's making it possible for me to make more complex code. I added a <a href=\"https://github.com/scripting/pagepark#v0719-6418-by-dw\">feature</a> to PagePark that allows it to serve from an S3 location. Not just delegate to Amazon's server, which it could do before, you get the full PagePark functionality for S3-stored content. It's done through config.json in the domain's folder. I'm going to use it in conjunction with <a href=\"http://publicfolder.io/\">publicfolder</a>, finally, to get the Dropbox delay out of my writing for the this.how site, which I do with a desktop outliner. ",
+            "created": "Tue, 05 Jun 2018 15:36:45 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "And here's a <a href=\"http://this.how/publicFolder/\">doc</a> about \"publicFolder\" that's managed by publicFolder. ",
+            "created": "Tue, 05 Jun 2018 20:58:54 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Apparently a lot of people don't know there's a <a href=\"https://www.starbucks.com/coffeehouse/mobile-apps\">Starbucks app</a>. There is. And it's great. You can order anything, ahead of your arrival, and it's waiting for you when you get there. Totally takes the hassle out of Starbucks. ",
+            "created": "Tue, 05 Jun 2018 15:35:19 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Mindfulness is observing your own behavior.",
+            "created": "Tue, 05 Jun 2018 13:57:02 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Idea for a cable news show. Every night they poll a random group of Americans with questions relating to the news of the day. A cross-section, not just liberals or conservatives, all regions, races, etc. They don't know that it's the show polling them. A real polling organization runs it. Pundits discuss what the people think. Last night they would have asked <a href=\"https://twitter.com/davewiner/status/1003700531569872897\">this question</a>. Do you think the president should be able to pardon him or herself? The choices would be: Yes but only Repubs, Yes but only Dems, Yes, No. ",
+            "created": "Tue, 05 Jun 2018 13:48:17 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "What inspired the idea. In all the talk on MSNBC last night about the president <a href=\"https://www.npr.org/sections/thetwo-way/2018/06/04/616724965/giuliani-president-trump-has-constitutional-authority-to-pardon-himself\">pardoning himself</a> not once did anyone ask if there was a benefit to American people in the president being able to do so. Seems the journalism, if you can call it that, has lost the tune. The tune is this: A government of the people, by the people and for the people. Part of <a href=\"https://en.wikipedia.org/wiki/Gettysburg_Address\">Gettysburg Address</a>.",
+            "created": "Tue, 05 Jun 2018 13:57:48 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Why Trump lied about the Eagles kneeling. He was embarrassed that most of the players didn’t want to hang out with him, so he made up a story to hide that.",
+            "created": "Tue, 05 Jun 2018 13:47:53 GMT",
+            "type": "outline"
+        }
+    ]
+}
