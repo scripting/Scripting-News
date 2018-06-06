@@ -1,0 +1,5 @@
+{
+    "text": "The <a href=\"http://scripting.com/2018/05/25/133439.html\">Node debugger</a> is great. Finally I have a full server-side debugger, and it's making it possible for me to make more complex code. I added a <a href=\"https://github.com/scripting/pagepark#v0719-6418-by-dw\">feature</a> to PagePark that allows it to serve from an S3 location. Not just delegate to Amazon's server, which it could do before, you get the full PagePark functionality for S3-stored content. It's done through config.json in the domain's folder. I'm going to use it in conjunction with <a href=\"http://publicfolder.io/\">publicfolder</a>, finally, to get the Dropbox delay out of my writing for the this.how site, which I do with a desktop outliner. ",
+    "created": "Tue, 05 Jun 2018 15:36:45 GMT",
+    "type": "outline"
+}
