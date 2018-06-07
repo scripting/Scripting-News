@@ -1,0 +1,34 @@
+{
+    "text": "June 6",
+    "created": "Wed, 06 Jun 2018 14:45:59 GMT",
+    "name": "06",
+    "subs": [
+        {
+            "text": "I hit a milestone today. My XML-RPC implementation for JavaScript now also speaks JSON, end-to-end. Here's a <a href=\"http://scripting.com/images/2018/06/06/milestone.png\">screen shot</a> of the updated debugger. A bit of cleanup work remains.",
+            "created": "Wed, 06 Jun 2018 23:40:49 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "There's an <a href=\"http://scripting.com/images/2018/06/06/acquiredByMicrosoft.png\">Acquired By Microsoft</a> ad at the top of all the pages on all my sites on GitHub. Not sure this was an overly bright move. One week I'm on the definitive open source site, and the next week it's Microsoft. That's like switching religions. And no one asked me, and I didn't get anything in return. They must think we're completely spineless idiots. ",
+            "created": "Wed, 06 Jun 2018 18:19:59 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1004428892806017024"
+        },
+        {
+            "text": "New PagePark <a href=\"https://github.com/scripting/pagePark/blob/master/docs/config.md#redirect-from-the-file-thats-being-redirected\">feature</a>.  Now you can redirect from the file that's being redirected. An idea stolen from MacHTTP of the 1990s. ",
+            "created": "Wed, 06 Jun 2018 16:59:05 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Journalism nerds: How about a tech-industry-free place to post notes of general interest. When I see it's on Medium, I skim to see if it's absolutely essential that I read it, if not, I quickly hit the Back button. Come on everyone we can do better than this.",
+            "created": "Wed, 06 Jun 2018 15:44:54 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1004387992402841600"
+        },
+        {
+            "text": "Some days you need a stupid warmup project to get your mind going. For me, today, that was <a href=\"http://slogan.scripting.com/\">this ridiculous site</a>, which was a bad idea to begin with, and only got worse as it developed. :boom:",
+            "created": "Wed, 06 Jun 2018 14:46:00 GMT",
+            "type": "outline"
+        }
+    ]
+}
