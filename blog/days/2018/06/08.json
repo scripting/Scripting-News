@@ -1,0 +1,71 @@
+{
+    "text": "June 8",
+    "created": "Fri, 08 Jun 2018 13:37:39 GMT",
+    "name": "08",
+    "subs": [
+        {
+            "text": "New site: <a href=\"http://reboot.xmlrpc.com/\">reboot.xmlrpc.com</a>.",
+            "created": "Fri, 08 Jun 2018 13:37:40 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "On GitHub, there's a <a href=\"https://github.com/scripting/xml-rpc\">new repo</a> for the XML-RPC client and server in JavaScript. ",
+            "created": "Fri, 08 Jun 2018 14:15:39 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "As with earlier versions, there's a <a href=\"https://github.com/scripting/xml-rpc/blob/master/examples/betty/betty.js\">demo server</a> called Betty, and it does exactly what the original version did. Same procedure calls implemented. If your client worked with Betty 1 it should work with Betty 2. ",
+            "created": "Fri, 08 Jun 2018 14:18:17 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "There's a Node package called <a href=\"https://www.npmjs.com/package/davexmlrpc\">davexmlrpc</a>. Betty <i>requires</i> it. ",
+            "created": "Fri, 08 Jun 2018 14:19:34 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "A new <a href=\"http://scripting.com/code/xmlrpcdebugger/\">XML-RPC Debugger</a> browser-based app. Yesterday's <a href=\"https://www.youtube.com/watch?v=XgdOIAlY0bQ&feature=youtu.be\">video</a> is a demo of that app.",
+            "created": "Fri, 08 Jun 2018 14:20:19 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Important: Everywhere XML is supported, so is JSON. Want to know how they compare? I did a <a href=\"http://scripting.com/misc/xmlrpc-in-json.html\">cribsheet</a> that shows you. I needed this to keep moderately sane while I added the JSON implementation alongside the XML implementation.",
+            "created": "Fri, 08 Jun 2018 14:22:14 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Why the internet didn't reboot democracy",
+            "created": "Fri, 08 Jun 2018 16:25:30 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Our institutions, government, journalism, even tech, didn’t embrace its power. Obama, for example, used it to organize his campaign in incredible ways, but didn't use it to organize as he governed. Even now the tech giants, Google and Facebook, are turning what’s left of the open web into Disneyland.",
+                    "created": "Fri, 08 Jun 2018 16:25:58 GMT"
+                },
+                {
+                    "text": "<img src=\"http://scripting.com/images/2018/06/08/disneyCharacters.png\">",
+                    "created": "Fri, 08 Jun 2018 20:00:10 GMT"
+                },
+                {
+                    "text": "PS: <a href=\"https://www.vox.com/policy-and-politics/2018/6/8/17202918/internet-democracy-facebook-cambridge-analytica-alec-ross-clay-shirky-jeff-jarvis\">See also</a>.",
+                    "created": "Fri, 08 Jun 2018 16:26:58 GMT"
+                }
+            ]
+        },
+        {
+            "text": "What changes when your parents die",
+            "created": "Fri, 08 Jun 2018 16:27:21 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Your parents get to give you all your trips when you’re too young to know. They load you up with all their parents' BS, and their parents as it was passed down to them, the good and bad. As powerful as the genes. Maybe more so.",
+                    "created": "Fri, 08 Jun 2018 16:27:35 GMT"
+                },
+                {
+                    "text": "But then, when they die, assuming you survive them, the power switches. You get to define who they were. More important, you get to define who <i>you</i> are, to reject the values of previous generations,  choose the ones you want to keep and discard the rest.",
+                    "created": "Fri, 08 Jun 2018 16:28:13 GMT"
+                }
+            ]
+        }
+    ]
+}
