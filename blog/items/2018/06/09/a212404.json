@@ -1,0 +1,6 @@
+{
+    "text": "One of the things I'm learning is that there is are <a href=\"https://www.sitepen.com/blog/2007/10/02/xmlrpc-php-dates/\">problems</a> with date-time values. The question is whether or not the date part of the date-time should have hyphens. The Frontier implementation does not. The <a href=\"http://xmlrpc.scripting.com/spec.html\">XML-RPC spec</a> says not. But <a href=\"https://en.wikipedia.org/wiki/ISO_8601\">ISO 8601</a> seems to say they must be present. The built-in <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toISOString\">JavaScript function</a> includes the hyphens. I don't have any other implementations that I can easily check against, so I don't know what offers the most interop with other XML-RPCs. For now I'm <a href=\"https://github.com/scripting/xml-rpc/issues/3\">documenting the issue</a>, and leaving the JavaScript implementation as it is, for now. This means in this area it does not interop with Frontier, in that Frontier will not understand the JavaScript date-time values. Going in the other direction there is no problem, because I've included a workaround. ",
+    "created": "Sat, 09 Jun 2018 21:24:04 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2018/06/09/threeStooges.png"
+}
