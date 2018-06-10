@@ -1,0 +1,5 @@
+{
+    "text": "Next up: I'm going to write the <a href=\"http://xmlrpc.scripting.com/validator1Docs.html\">validator handlers</a> in JavaScript so I can test my implementation. And perhaps others can test theirs. (It was a good idea. Just found a bug in my implementation. &lt;struct>s can be empty. My server was throwing an error on an empty struct.)",
+    "created": "Sat, 09 Jun 2018 15:57:51 GMT",
+    "type": "outline"
+}
