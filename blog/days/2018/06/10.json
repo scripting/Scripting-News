@@ -1,0 +1,121 @@
+{
+    "text": "June 10",
+    "created": "Sun, 10 Jun 2018 14:56:53 GMT",
+    "name": "10",
+    "subs": [
+        {
+            "text": "BTW, next year will be the 20th anniversary of RSS.",
+            "created": "Sun, 10 Jun 2018 18:40:51 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I'm traveling later this week, so am trying to wrap up my work on the JavaScript <a href=\"https://github.com/scripting/xml-rpc\">implementation</a> of <a href=\"http://reboot.xmlrpc.com/\">XML-RPC</a> in the next couple of days. There are issues that will linger, as there always are in projects like this. :boom:",
+            "created": "Sun, 10 Jun 2018 15:57:16 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Podcasts are feeds",
+            "created": "Sun, 10 Jun 2018 19:23:26 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "If it doesn't have an \"RSS\" feed it isn't a podcast ",
+                    "created": "Sun, 10 Jun 2018 19:33:19 GMT"
+                },
+                {
+                    "text": "Please if you make a podcast, remember that. It's actually a lot more important than you probably realize.",
+                    "created": "Sun, 10 Jun 2018 19:23:34 GMT"
+                },
+                {
+                    "text": "The reason it's important is this. As long as there are RSS feeds for every podcast, no tech company, like Google, Apple, Amazon, etc can own podcasting. It remains an open platform. It and HTML/HTTP are pretty much the last bastions of the open web.",
+                    "created": "Sun, 10 Jun 2018 19:23:41 GMT"
+                },
+                {
+                    "text": "A reporter told me the other day that he was doing a podcast in the 1990s. Not possible, I said. RSS didn't exist until 1999, and we didn't define the podcasting features until 2001.",
+                    "created": "Sun, 10 Jun 2018 19:24:45 GMT"
+                }
+            ]
+        },
+        {
+            "text": "A JSON design problem",
+            "created": "Sun, 10 Jun 2018 15:23:33 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I did implement a JSON version of <a href=\"http://reboot.xmlrpc.com/\">XML-RPC</a> as part of the <a href=\"https://github.com/scripting/xml-rpc\">package</a>, and it works really nicely, but has at least one major undecided feature. I'm asking that people who think about JSON give this some thought, and perhaps suggest prior art to look at. ",
+                    "created": "Sun, 10 Jun 2018 15:25:55 GMT"
+                },
+                {
+                    "text": "The problem: representing certain types. ",
+                    "created": "Sun, 10 Jun 2018 15:30:40 GMT"
+                },
+                {
+                    "text": "First the types that work. These XML-RPC types are <i>not</i> a problem because JSON understands them. When it sees one of these in JSON text, the <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse\">parser</a> will create a property or object with the correct type. ",
+                    "created": "Sun, 10 Jun 2018 15:26:11 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "int",
+                            "created": "Sun, 10 Jun 2018 15:26:46 GMT"
+                        },
+                        {
+                            "text": "boolean",
+                            "created": "Sun, 10 Jun 2018 15:27:45 GMT"
+                        },
+                        {
+                            "text": "string",
+                            "created": "Sun, 10 Jun 2018 15:27:57 GMT"
+                        },
+                        {
+                            "text": "double",
+                            "created": "Sun, 10 Jun 2018 15:30:12 GMT"
+                        },
+                        {
+                            "text": "struct",
+                            "created": "Sun, 10 Jun 2018 15:41:41 GMT"
+                        },
+                        {
+                            "text": "array",
+                            "created": "Sun, 10 Jun 2018 15:41:43 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "However these two types are problematic because there is no way to communicate through JSON that we're looking at a value of this type. ",
+                    "created": "Sun, 10 Jun 2018 15:30:52 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "dateTime.iso8601",
+                            "created": "Sun, 10 Jun 2018 15:31:01 GMT"
+                        },
+                        {
+                            "text": "base64",
+                            "created": "Sun, 10 Jun 2018 15:31:12 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "What happens in the current implementation? The value is converted to and transmitted as a string. You can test it by running the <a href=\"https://github.com/scripting/xml-rpc/tree/master/examples/betty\">betty test app</a> locally and calling examples.echoParams using the <a href=\"http://scripting.com/code/xmlrpcdebugger/\">debugger</a>. Here's a <a href=\"http://scripting.com/images/2018/06/10/base64Example.png\">screen shot</a> showing a setup for testing base64 data, and <a href=\"http://scripting.com/images/2018/06/10/dateTimeExample.png\">here's one</a> that tests a dateTime.iso8601.",
+                    "created": "Sun, 10 Jun 2018 15:34:32 GMT"
+                },
+                {
+                    "text": "As you can see from the screen shots above, dateTime.iso8601 and base64 types are converted to strings. The server toolkit will pass them up the stack as strings, where the XML-based version will pass up Date and Buffer types.",
+                    "created": "Sun, 10 Jun 2018 15:42:12 GMT"
+                },
+                {
+                    "text": "I put this out there as a design problem for JSON experts to consider.",
+                    "created": "Sun, 10 Jun 2018 15:45:52 GMT"
+                },
+                {
+                    "text": "Update: An egregious hack for adding date and base64 types to JSON.",
+                    "created": "Sun, 10 Jun 2018 19:49:27 GMT"
+                },
+                {
+                    "text": "<script src=\"https://gist.github.com/scripting/67fd46d35998a0beda354e638d563cbf.js\"></script>",
+                    "created": "Sun, 10 Jun 2018 19:49:44 GMT"
+                }
+            ]
+        }
+    ]
+}
