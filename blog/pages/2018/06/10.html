@@ -1,0 +1,42 @@
+<div class="divDayTitle"><a href="http://scripting.com/2018/06/10.html">Sunday, June 10, 2018</a></div>
+<div class="divSingularItem" data-type="outline"><a name="a184051"></a>BTW, next year will be the 20th anniversary of RSS.<span class="spPermaLink"><a href="http://scripting.com/2018/06/10.html#a184051" title="Direct link to this item.">#</a></span></div>
+<div class="divSingularItem" data-type="outline"><a name="a155716"></a>I'm traveling later this week, so am trying to wrap up my work on the JavaScript <a href="https://github.com/scripting/xml-rpc">implementation</a> of <a href="http://reboot.xmlrpc.com/">XML-RPC</a> in the next couple of days. There are issues that will linger, as there always are in projects like this. <span class="spOldSchoolEmoji">💥</span><span class="spPermaLink"><a href="http://scripting.com/2018/06/10.html#a155716" title="Direct link to this item.">#</a></span></div>
+<div class="divTitledItem">
+	<div class="divTitle"><a name="a192326"></a><a href="http://scripting.com/2018/06/10/192326.html"><span class="spTitleLink">Podcasts are feeds</a></a><span class="spPermaLink"><a href="http://scripting.com/2018/06/10/192326.html" title="Direct link to this item.">#</a></span></div>
+	<ul class="ulLevel0">
+	<li><a name="a193319"></a>If it doesn't have an <a href="http://cyber.law.harvard.edu/rss/rss.html" title="The official RSS 2.0 spec.">RSS</a> feed it isn't a podcast <span class="spPermaLink"><a href="http://scripting.com/2018/06/10/192326.html#a193319" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a192334"></a>Please if you make a podcast, remember that. It's actually a lot more important than you probably realize.<span class="spPermaLink"><a href="http://scripting.com/2018/06/10/192326.html#a192334" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a192341"></a>The reason it's important is this. As long as there are RSS feeds for every podcast, no tech company, like Google, Apple, Amazon, etc can own podcasting. It remains an open platform. It and HTML/HTTP are pretty much the last bastions of the open web.<span class="spPermaLink"><a href="http://scripting.com/2018/06/10/192326.html#a192341" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a192445"></a>A reporter told me the other day that he was doing a podcast in the 1990s. Not possible, I said. RSS didn't exist until 1999, and we didn't define the podcasting features until 2001.<span class="spPermaLink"><a href="http://scripting.com/2018/06/10/192326.html#a192445" title="Direct link to this item.">#</a></span></li>
+	</ul>
+
+	</div>
+<div class="divTitledItem">
+	<div class="divTitle"><a name="a152333"></a><a href="http://scripting.com/2018/06/10/152333.html"><span class="spTitleLink">A JSON design problem</a></a><span class="spPermaLink"><a href="http://scripting.com/2018/06/10/152333.html" title="Direct link to this item.">#</a></span></div>
+	<ul class="ulLevel0">
+	<li><a name="a152555"></a>I did implement a JSON version of <a href="http://reboot.xmlrpc.com/">XML-RPC</a> as part of the <a href="https://github.com/scripting/xml-rpc">package</a>, and it works really nicely, but has at least one major undecided feature. I'm asking that people who think about JSON give this some thought, and perhaps suggest prior art to look at. <span class="spPermaLink"><a href="http://scripting.com/2018/06/10/152333.html#a152555" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a153040"></a>The problem: representing certain types. <span class="spPermaLink"><a href="http://scripting.com/2018/06/10/152333.html#a153040" title="Direct link to this item.">#</a></span></li>
+	<li data-flBulletedSubs="true"><a name="a152611"></a>First the types that work. These XML-RPC types are <i>not</i> a problem because JSON understands them. When it sees one of these in JSON text, the <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse">parser</a> will create a property or object with the correct type. <span class="spPermaLink"><a href="http://scripting.com/2018/06/10/152333.html#a152611" title="Direct link to this item.">#</a></span></li>
+	<ul class="ulLevel1 ulBulletedSubs">
+	<li><a name="a152646"></a>int<span class="spPermaLink"><a href="http://scripting.com/2018/06/10/152333.html#a152646" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a152745"></a>boolean<span class="spPermaLink"><a href="http://scripting.com/2018/06/10/152333.html#a152745" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a152757"></a>string<span class="spPermaLink"><a href="http://scripting.com/2018/06/10/152333.html#a152757" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a153012"></a>double<span class="spPermaLink"><a href="http://scripting.com/2018/06/10/152333.html#a153012" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a154141"></a>struct<span class="spPermaLink"><a href="http://scripting.com/2018/06/10/152333.html#a154141" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a154143"></a>array<span class="spPermaLink"><a href="http://scripting.com/2018/06/10/152333.html#a154143" title="Direct link to this item.">#</a></span></li>
+	</ul>
+
+	<li data-flBulletedSubs="true"><a name="a153052"></a>However these two types are problematic because there is no way to communicate through JSON that we're looking at a value of this type. <span class="spPermaLink"><a href="http://scripting.com/2018/06/10/152333.html#a153052" title="Direct link to this item.">#</a></span></li>
+	<ul class="ulLevel1 ulBulletedSubs">
+	<li><a name="a153101"></a>dateTime.iso8601<span class="spPermaLink"><a href="http://scripting.com/2018/06/10/152333.html#a153101" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a153112"></a>base64<span class="spPermaLink"><a href="http://scripting.com/2018/06/10/152333.html#a153112" title="Direct link to this item.">#</a></span></li>
+	</ul>
+
+	<li><a name="a153432"></a>What happens in the current implementation? The value is converted to and transmitted as a string. You can test it by running the <a href="https://github.com/scripting/xml-rpc/tree/master/examples/betty">betty test app</a> locally and calling examples.echoParams using the <a href="http://scripting.com/code/xmlrpcdebugger/">debugger</a>. Here's a <a href="http://scripting.com/images/2018/06/10/base64Example.png">screen shot</a> showing a setup for testing base64 data, and <a href="http://scripting.com/images/2018/06/10/dateTimeExample.png">here's one</a> that tests a dateTime.iso8601.<span class="spPermaLink"><a href="http://scripting.com/2018/06/10/152333.html#a153432" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a154212"></a>As you can see from the screen shots above, dateTime.iso8601 and base64 types are converted to strings. The server toolkit will pass them up the stack as strings, where the XML-based version will pass up Date and Buffer types.<span class="spPermaLink"><a href="http://scripting.com/2018/06/10/152333.html#a154212" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a154552"></a>I put this out there as a design problem for JSON experts to consider.<span class="spPermaLink"><a href="http://scripting.com/2018/06/10/152333.html#a154552" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a194927"></a>Update: An egregious hack for adding date and base64 types to JSON.<span class="spPermaLink"><a href="http://scripting.com/2018/06/10/152333.html#a194927" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a194944"></a><script src="https://gist.github.com/scripting/67fd46d35998a0beda354e638d563cbf.js"></script><span class="spPermaLink"><a href="http://scripting.com/2018/06/10/152333.html#a194944" title="Direct link to this item.">#</a></span></li>
+	</ul>
+
+	</div>
