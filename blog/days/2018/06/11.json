@@ -1,0 +1,64 @@
+{
+    "text": "June 11",
+    "created": "Mon, 11 Jun 2018 14:26:29 GMT",
+    "name": "11",
+    "subs": [
+        {
+            "text": "Here's an <a href=\"https://www.quod.us/assets/us-newspapers.opml\">OPML file</a> of the top US news sites, created by <a href=\"https://www.quod.us/home\">Quod.us</a>. I added it to my \"River5\" installation, so now we're getting <a href=\"http://river5.scripting.com/?panel=us%20news\">updates</a> from all these pubs. You're welcome to bookmark it. ",
+            "created": "Mon, 11 Jun 2018 17:48:36 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/09/02/mrFrog.png"
+        },
+        {
+            "text": "Here's a <a href=\"https://s3.amazonaws.com/scripting.com/code/testhttps/index.html\">page</a>, being served over HTTPS, that includes HTTP files. None of the code works. Look in the JS console, you'll <a href=\"http://scripting.com/images/2018/06/11/console.png\">see</a> lots of errors. Converting to HTTPS isn't just about servers, you'll have to deal with a lot of old HTML, styles and script files.  ",
+            "created": "Mon, 11 Jun 2018 20:28:25 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Trump is Obama-inverse. He hates the <a href=\"https://en.wikipedia.org/wiki/Group_of_Seven\">G7</a> because they loved Obama. He loves <a href=\"https://en.wikipedia.org/wiki/Kim_Jong-un\">KJU</a> because he and Obama hated each other. He hates Iran because Obama did a deal with them. He loves coal because Obama loves clean energy. Etc etc.",
+            "created": "Mon, 11 Jun 2018 20:10:59 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Kevin Marks <a href=\"https://twitter.com/kevinmarks/status/1005961630709178368\">suggested</a> looking at <a href=\"http://json-schema.org/\">json-schema.org</a> for ideas on how to handle <a href=\"http://scripting.com/2018/06/10/152333.html\">date and base64</a> values in the JSON version of XML-RPC. It gave me an idea for <a href=\"https://gist.github.com/scripting/67fd46d35998a0beda354e638d563cbf#file-rpccall2-json\">another approach</a>. Basically, when JSON has a syntax for a type, just include the data (int, double, boolean, string, struct, array). When it doesn't, represent it with an object with two properties, #type and #value. The <a href=\"https://gist.github.com/scripting/67fd46d35998a0beda354e638d563cbf#file-rpccall2-json\">second example</a> illustrates this approach. ",
+            "created": "Mon, 11 Jun 2018 17:54:20 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "At what point will non-Repubs feel compelled to do more than wait for the Repubs to do something? They obviously are <a href=\"https://twitter.com/NYMag/status/1006191608629481473\">not going to</a>.",
+            "created": "Mon, 11 Jun 2018 15:27:27 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/NYMag/status/1006191608629481473"
+        },
+        {
+            "text": "<a href=\"http://this.how/googleAndHttp/\">Google and HTTP</a> is getting a lot of engagement today. ",
+            "created": "Mon, 11 Jun 2018 14:26:30 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Craig's generosity",
+            "created": "Mon, 11 Jun 2018 18:20:57 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Craig Newmark <a href=\"http://www.nydailynews.com/new-york/education/ny-metro-craigslist-founder-gives-cuny-j-school-20-million-20180611-story.html\">gave $20 million</a> to CUNY school of journalism.",
+                    "created": "Mon, 11 Jun 2018 18:21:12 GMT"
+                },
+                {
+                    "text": "Unfortunately I don't have that kind of money, but if I did I would endow something different."
+                },
+                {
+                    "text": "A program to teach all high school students the basics of journalism."
+                },
+                {
+                    "text": "To spread the values through the whole society.",
+                    "created": "Mon, 11 Jun 2018 18:21:16 GMT"
+                },
+                {
+                    "text": "If we had done that 30 years ago, we'd be looking at a different situation now. But maybe it's not too late to plant the seeds for a truly democratic and informed society.",
+                    "created": "Mon, 11 Jun 2018 18:21:22 GMT"
+                }
+            ]
+        }
+    ]
+}
