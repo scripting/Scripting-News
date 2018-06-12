@@ -1,0 +1,5 @@
+{
+    "text": "Here's a <a href=\"https://s3.amazonaws.com/scripting.com/code/testhttps/index.html\">page</a>, being served over HTTPS, that includes HTTP files. None of the code works. Look in the JS console, you'll <a href=\"http://scripting.com/images/2018/06/11/console.png\">see</a> lots of errors. Converting to HTTPS isn't just about servers, you'll have to deal with a lot of old HTML, styles and script files.  ",
+    "created": "Mon, 11 Jun 2018 20:28:25 GMT",
+    "type": "outline"
+}
