@@ -1,0 +1,67 @@
+{
+    "text": "June 22",
+    "created": "Fri, 22 Jun 2018 12:34:35 GMT",
+    "name": "22",
+    "subs": [
+        {
+            "text": "Our government is the enemy of the people.",
+            "created": "Fri, 22 Jun 2018 19:35:54 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Here's a <a href=\"http://scripting.com/code/testchromedialog/\">prototype</a> of the dialog Chrome users will see when they try to read this blog, after Google starts saying it's not secure. If you don't use Chrome, you'll just see a picture of Abraham Lincoln. (To save you the trouble of launching Chrome, here's a <a href=\"http://scripting.com/images/2018/06/22/dialog.png\">screen shot</a>.)",
+            "created": "Fri, 22 Jun 2018 16:10:03 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "There was a problem with <a href=\"http://littleoutliner.com/\">LO2</a> due to a <a href=\"https://twittercommunity.com/t/action-required-sign-in-with-twitter-users-must-whitelist-callback-urls/105342\">change</a> in Twitter's API. I was able to figure out what it was asking me to do, and am pretty sure I got it working again. Probably all my apps that use the Twitter API for identity are affected. I'll start checking them now. (Note: At first I was baffled. This kind of stuff is easily forgotten once it's working.)",
+            "created": "Fri, 22 Jun 2018 12:34:36 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/06/22/webIsDeadFreeGift.png"
+        },
+        {
+            "text": "I tried to update the callback URL for <a href=\"http://happyfriends.camp/\">happyfriends.camp</a>, doing the same thing I did for LO2 and it didn't work. So I guess that app is <a href=\"http://gonebutnotforgotten.scripting.com/\">gone</a>, unless I think of something else to do. I have a feeling in the next few months a lot of the stuff I've created over the last few years is going to get knocked down by big tech companies. ",
+            "created": "Fri, 22 Jun 2018 12:57:31 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "BTW, there was an ominous sign, <a href=\"https://techcrunch.com/2018/06/21/twitter-smytes-customers/\">news this morning</a> that when Twitter acquired a company their APIs went off the air with 1/2 hour warning, knocking some very important infrastructure off the air. I think maybe it's time for a conference among tech leaders, a quiet one, to discuss what the big companies are trying to do to the web, and maybe this is all unintentional. I'm really tired. It could be the jetlag from my European trip, or it could be that I'm getting weary of working so hard with so little reward, but I will not be updating my stuff. I'm going to let them knock my sites off. I've given a lot to the web, as much as I care to. ",
+            "created": "Fri, 22 Jun 2018 12:58:44 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Dave's rules of Twitter discourse",
+            "created": "Fri, 22 Jun 2018 15:20:04 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "The rules:",
+                    "created": "Fri, 22 Jun 2018 15:21:50 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Don’t waste time arguing with trolls.",
+                            "created": "Fri, 22 Jun 2018 15:20:13 GMT"
+                        },
+                        {
+                            "text": "Everyone who wants to argue with you is a troll.",
+                            "created": "Fri, 22 Jun 2018 15:20:29 GMT"
+                        },
+                        {
+                            "text": "Don’t RT Trump.",
+                            "created": "Fri, 22 Jun 2018 15:20:33 GMT"
+                        },
+                        {
+                            "text": "For crying out loud don’t paste an image of a Trump tweet into your post.",
+                            "created": "Fri, 22 Jun 2018 15:20:37 GMT"
+                        },
+                        {
+                            "text": "Unfollow people who RT Trump.",
+                            "created": "Fri, 22 Jun 2018 15:20:51 GMT"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
