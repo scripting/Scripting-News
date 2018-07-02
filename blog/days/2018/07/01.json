@@ -1,0 +1,90 @@
+{
+    "text": "July 1",
+    "created": "Sun, 01 Jul 2018 12:51:32 GMT",
+    "name": "01",
+    "subs": [
+        {
+            "text": "Five years ago <a href=\"https://www.google.com/reader/about/\">Google Reader</a> shut <a href=\"https://www.newyorker.com/tech/elements/reading-the-web-alone-together\">down</a>. What went wrong? We centralized a decentralizing technology, and of course that eventually broke. Google had no incentive to keep \"RSS\" afloat because it couldn't be turned into a silo. It's like politics and journalism. We <i>all</i> have to do it if we want it to work. Independent developers should have worked together better. And users could have chosen independent developers over the single big company, which turned out to be the point of failure. If we want the world to work -- journalism, tech and politics, the people have to consider the big picture in our small picture choices. ",
+            "created": "Sun, 01 Jul 2018 21:53:50 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/07/01/stayPuft.png"
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1013460720430837761\">Poll</a>: Batman or Jesus, who would win?",
+            "created": "Sun, 01 Jul 2018 18:08:54 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1013460720430837761"
+        },
+        {
+            "text": "The best defense against <a href=\"https://www.theatlantic.com/politics/archive/2018/07/the-great-russian-disinformation-campaign/564032/\">Putin and Trump</a> is to teach every student the basics of journalism. Not just how to <a href=\"https://twitter.com/ctonk144/status/1013384894976798721\">detect</a> fake news, but how to write a news story. If we do it now, we'll be glad we did in a few years.",
+            "created": "Sun, 01 Jul 2018 12:51:33 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "An art show in the web",
+            "created": "Sun, 01 Jul 2018 17:27:33 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Dear blog friends -- ",
+                    "created": "Sun, 01 Jul 2018 17:27:41 GMT"
+                },
+                {
+                    "text": "Here's an art show in your web browser.",
+                    "created": "Sun, 01 Jul 2018 17:28:00 GMT"
+                },
+                {
+                    "text": "<a href=\"http://artshow.scripting.com/\">http://artshow.scripting.com/</a>",
+                    "created": "Sun, 01 Jul 2018 17:27:49 GMT"
+                },
+                {
+                    "text": "Leave it open for a bit, every ten seconds there's a new work of art. "
+                },
+                {
+                    "text": "I'm grabbing the art from the <a href=\"https://twitter.com/ArtPicsChannel/media\">@artpicschannel</a> Twitter feed. I loved having it on Twitter, I wondered what it would be like on its own. I love it even more. ",
+                    "created": "Sun, 01 Jul 2018 17:28:06 GMT"
+                },
+                {
+                    "text": "I have an app running on my server that generates a static JSON file that the browser-based app reads. So you're not calling Twitter from the <a href=\"http://artshow.scripting.com/\">Art Show</a> page, that's why you don't have to log on. It's more efficient this way. ",
+                    "created": "Sun, 01 Jul 2018 17:28:48 GMT"
+                },
+                {
+                    "text": "Dave",
+                    "created": "Sun, 01 Jul 2018 17:29:59 GMT"
+                },
+                {
+                    "text": "PS: Here's the <a href=\"http://this.how/artshow/\">Art Show Howto</a>.",
+                    "created": "Sun, 01 Jul 2018 18:03:36 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Reclaiming RSS",
+            "created": "Sun, 01 Jul 2018 15:27:43 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Aral Balkan wrote recently about <a href=\"https://ar.al/2018/06/29/reclaiming-rss/\">reclaiming RSS</a>. He talks about rebooting feed discovery, as the browsers are abandoning it. There is a simple discovery mechanism for RSS feeds, a meta tag you can put into the HTML head section that tells anyone who cares where your feed is.",
+                    "created": "Sun, 01 Jul 2018 15:27:54 GMT",
+                    "image": "http://scripting.com/images/2018/07/01/loveRss.png"
+                },
+                {
+                    "text": "My site has one of these, of course -- this is what it looks like:",
+                    "created": "Sun, 01 Jul 2018 15:31:38 GMT"
+                },
+                {
+                    "text": "<span style=\"font-size: 14px\">&lt;link rel=\"alternate\" type=\"application/rss+xml\" href=\"http://scripting.com/rss.xml\"></span>",
+                    "created": "Sun, 01 Jul 2018 15:27:48 GMT"
+                },
+                {
+                    "text": "Balkan says (and I agree) it can't hurt to also link in the visible part of your page to your RSS feed, as I do here. I am thinking about doing that for my blog. There are links to my feeds in the About tab, but maybe I should make it more visible. ",
+                    "created": "Sun, 01 Jul 2018 15:28:43 GMT"
+                },
+                {
+                    "text": "Actually there is a link to the RSS feed for this blog at the <a href=\"http://scripting.com/images/2018/07/01/bottomOfPage.png\">bottom</a> of every page, along with a link to my Twitter, Facebook, GitHub and LinkedIn accounts. ",
+                    "created": "Sun, 01 Jul 2018 15:33:36 GMT"
+                }
+            ]
+        }
+    ]
+}
