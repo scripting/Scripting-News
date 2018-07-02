@@ -1,0 +1,38 @@
+{
+    "text": "An art show in the web",
+    "created": "Sun, 01 Jul 2018 17:27:33 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Dear blog friends -- ",
+            "created": "Sun, 01 Jul 2018 17:27:41 GMT"
+        },
+        {
+            "text": "Here's an art show in your web browser.",
+            "created": "Sun, 01 Jul 2018 17:28:00 GMT"
+        },
+        {
+            "text": "<a href=\"http://artshow.scripting.com/\">http://artshow.scripting.com/</a>",
+            "created": "Sun, 01 Jul 2018 17:27:49 GMT"
+        },
+        {
+            "text": "Leave it open for a bit, every ten seconds there's a new work of art. "
+        },
+        {
+            "text": "I'm grabbing the art from the <a href=\"https://twitter.com/ArtPicsChannel/media\">@artpicschannel</a> Twitter feed. I loved having it on Twitter, I wondered what it would be like on its own. I love it even more. ",
+            "created": "Sun, 01 Jul 2018 17:28:06 GMT"
+        },
+        {
+            "text": "I have an app running on my server that generates a static JSON file that the browser-based app reads. So you're not calling Twitter from the <a href=\"http://artshow.scripting.com/\">Art Show</a> page, that's why you don't have to log on. It's more efficient this way. ",
+            "created": "Sun, 01 Jul 2018 17:28:48 GMT"
+        },
+        {
+            "text": "Dave",
+            "created": "Sun, 01 Jul 2018 17:29:59 GMT"
+        },
+        {
+            "text": "PS: Here's the <a href=\"http://this.how/artshow/\">Art Show Howto</a>.",
+            "created": "Sun, 01 Jul 2018 18:03:36 GMT"
+        }
+    ]
+}
