@@ -1,0 +1,28 @@
+{
+    "text": "Reclaiming RSS",
+    "created": "Sun, 01 Jul 2018 15:27:43 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Aral Balkan wrote recently about <a href=\"https://ar.al/2018/06/29/reclaiming-rss/\">reclaiming RSS</a>. He talks about rebooting feed discovery, as the browsers are abandoning it. There is a simple discovery mechanism for RSS feeds, a meta tag you can put into the HTML head section that tells anyone who cares where your feed is.",
+            "created": "Sun, 01 Jul 2018 15:27:54 GMT",
+            "image": "http://scripting.com/images/2018/07/01/loveRss.png"
+        },
+        {
+            "text": "My site has one of these, of course -- this is what it looks like:",
+            "created": "Sun, 01 Jul 2018 15:31:38 GMT"
+        },
+        {
+            "text": "<span style=\"font-size: 14px\">&lt;link rel=\"alternate\" type=\"application/rss+xml\" href=\"http://scripting.com/rss.xml\"></span>",
+            "created": "Sun, 01 Jul 2018 15:27:48 GMT"
+        },
+        {
+            "text": "Balkan says (and I agree) it can't hurt to also link in the visible part of your page to your RSS feed, as I do here. I am thinking about doing that for my blog. There are links to my feeds in the About tab, but maybe I should make it more visible. ",
+            "created": "Sun, 01 Jul 2018 15:28:43 GMT"
+        },
+        {
+            "text": "Actually there is a link to the RSS feed for this blog at the <a href=\"http://scripting.com/images/2018/07/01/bottomOfPage.png\">bottom</a> of every page, along with a link to my Twitter, Facebook, GitHub and LinkedIn accounts. ",
+            "created": "Sun, 01 Jul 2018 15:33:36 GMT"
+        }
+    ]
+}
