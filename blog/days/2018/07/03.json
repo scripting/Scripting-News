@@ -1,0 +1,71 @@
+{
+    "text": "July 3",
+    "created": "Tue, 03 Jul 2018 04:11:45 GMT",
+    "name": "03",
+    "subs": [
+        {
+            "text": "\"Art Show\" now fades out and back in on picture switches.",
+            "created": "Tue, 03 Jul 2018 20:58:12 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I love the NBA, and this is by far the best part of the season which is an interesting statement, because the NBA isn't playing basketball right now. They're playing power and money. The money is huge and the power is shifting. The Lakers get LeBron because of Magic, Kobe, Shaq, Kareem, Wilt, Jerry, Phil and Pat et al. And Golden State gets Cousins because  <a href=\"https://www.sbnation.com/2018/7/3/17529428/demarcus-cousins-signs-warriors-nba-free-agency-reactions\">they can</a>. So many interesting conversations to be had. I've heard it said that the East is now a backwater, but wait until a western star realizes they can play a completely different game in the East. Free agency isn't over yet for 2018. And I can't wait to see Philadelphia and Boston compete, and somehow hope the Knicks get into it, but so far, not.  ",
+            "created": "Tue, 03 Jul 2018 13:42:28 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/05/16/alHorford.png"
+        },
+        {
+            "text": "Tech, journalism, politics and the people. They are everything, and the same thing.",
+            "created": "Tue, 03 Jul 2018 13:25:19 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1013992330196672512"
+        },
+        {
+            "text": "I asked a couple of questions <a href=\"https://twitter.com/davewiner/status/1014121937533046784\">on Twitter</a> about wordpress.com and Tumblr, two blog hosting sites that seem like they might allow authors freedom to move. What you want is the same freedom you get from an email service -- when its time to move, you can forward all requests to the new service. I've posted the <a href=\"https://github.com/scripting/Scripting-News/issues/86\">same questions</a> in the issues section of the repo for this blog. Turns out it isn't that simple, and while WordPress <a href=\"https://twitter.com/pmaiorana/status/1014123762441228288\">claims</a> to do it, at least <a href=\"https://twitter.com/thDigitalReader/status/1014125804148658176\">one</a> of their users says they don't. This is worth exploring. ",
+            "created": "Tue, 03 Jul 2018 12:41:46 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/07/03/cow.png"
+        },
+        {
+            "text": "Did you know you can download the <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog/opml\">source</a> for Scripting News in OPML? Every month I refresh the archive in my GitHub repository. I started doing this when I switched to the new blogging <a href=\"https://github.com/scripting/oldSchoolBlog\">software</a> in May 2017. Here's the <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/opml/2018/06.opml\">OPML</a> for last month. ",
+            "created": "Tue, 03 Jul 2018 12:29:51 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "A spontaneous <a href=\"https://twitter.com/davewiner/status/1013990253395435521\">Twitter thread</a>, late at night, Eastern time in North America. They're just waking up now in Europe. I'm tweeting and reading, watching Rachel on the second monitor, also watching \"Art Show\".",
+            "created": "Tue, 03 Jul 2018 04:11:46 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1013990253395435521"
+        },
+        {
+            "text": "We need TBL, and you..",
+            "created": "Tue, 03 Jul 2018 12:15:27 GMT",
+            "type": "outline",
+            "isComment": "false",
+            "description": "Where is Tim now that Google is attempting to corporatize the web platform? ",
+            "subs": [
+                {
+                    "text": "I read the recent <a href=\"https://www.vanityfair.com/news/2018/07/the-man-who-created-the-world-wide-web-has-some-regrets\">piece</a> about <a href=\"https://en.wikipedia.org/wiki/Tim_Berners-Lee\">TBL</a> and posted it to my linkblog. I appreciate the invention of the web. It came at just the right time. I had been knocked out of the software game by Apple. The software I made threatened them, so they launched a competitor. I was looking for a platform without a platform vendor, and had no hope of ever finding one, when just the right thing showed up -- the web. You can see my excitement in the <a href=\"http://scripting.com/davenet/\">early posts</a> to DaveNet, my early weblog and email newsletter, in 1994. But where is Tim now that <a href=\"http://this.how/googleAndHttp/\">Google</a> is attempting to corporatize the web platform? He's still talking about writing software that will fix the problem. At this point software won't do it, imho. Way too late for that. ",
+                    "created": "Tue, 03 Jul 2018 12:15:36 GMT",
+                    "image": "http://scripting.com/images/2018/07/03/tbl.png"
+                },
+                {
+                    "text": "We need <i>him, </i>and we need everyone else who profited from the open web. Why am I the only one <a href=\"http://this.how/googleAndHttp/\">protesting</a>? Could it be that everyone else hopes to get a job from Google? Or a grant? Aren't you aware of how much we depend on the open ecosystem? And how fragile it is? Could it be they don't remember that Google loses interest in projects that we depend on and dumps them? It's one thing when they created the thing they dump, but quite another when it's something that was once a public resource that they took over. ",
+                    "created": "Tue, 03 Jul 2018 12:15:42 GMT"
+                },
+                {
+                    "text": "We will be fighting for our freedom for the rest of our lives. But this is an easy battle to win. If enough thought leaders speak out in favor of the open web now, I think Google will back down. Let's get them to the table where we can talk creatively about the problem they see, and find a way to solve it wtihout them taking over the web. ",
+                    "created": "Tue, 03 Jul 2018 12:17:27 GMT"
+                },
+                {
+                    "text": "We're all guests here, and guests don't make the rules. ",
+                    "created": "Tue, 03 Jul 2018 13:08:59 GMT"
+                },
+                {
+                    "text": "The thing to do is to write a blog post in support of the open web. Send me a link if you like. I will read it. Let's start small and build it up. I shouldn't be the only one speaking out. ",
+                    "created": "Tue, 03 Jul 2018 12:18:55 GMT"
+                }
+            ]
+        }
+    ]
+}
