@@ -1,0 +1,39 @@
+{
+    "text": "July 5",
+    "created": "Thu, 05 Jul 2018 14:48:26 GMT",
+    "name": "05",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/GreatDismal/status/1015029011246768129\">William Gibson</a>: The GOP senators in Moscow, promised a briefing video, are all shown the pee tape, while being taped watching it, together. Their subsequent silence about this constitutes brutally powerful group kompromat leverage.",
+            "created": "Fri, 06 Jul 2018 00:45:47 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/GreatDismal/status/1015029011246768129"
+        },
+        {
+            "text": "Sad day. Twitter suspended the <a href=\"https://twitter.com/nyt\">NYT</a> account. I've been running that since long before they were on Twitter. They knew about it. I offered to let them have it, but they said no. I guess someone there must have complained? Who knows. It's a corporate world. ",
+            "created": "Thu, 05 Jul 2018 18:51:13 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "BTW, I forgot to mention that the exact same links are available at <a href=\"http://nytimesriver.com\">nytimesriver.com</a>  -- which is on the open web, so there is (for now at least) no company (like Twitter) that can turn it off. The NYT has to talk to me before it comes down. ",
+            "created": "Thu, 05 Jul 2018 21:27:39 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://twitter.com/nbariver\">nbariver</a> is still there.",
+            "created": "Thu, 05 Jul 2018 18:52:54 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "How different things would be if Apple had partnered with <a href=\"https://arstechnica.com/information-technology/2018/07/the-beos-filesystem/\">Be</a> instead of Next. I would have liked it because the <a href=\"https://en.wikipedia.org/wiki/Jean-Louis_Gass%C3%A9e\">CEO</a> of Be was an <a href=\"http://outliners.com/\">outliner</a> guy. Blogging would have found a natural home there. They probably wouldn't have resisted the web as the Jobs version of Apple did.",
+            "created": "Thu, 05 Jul 2018 18:26:37 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I love it when I find a bug in four-year-old code. Today, the culprit was a routine called <a href=\"https://github.com/scripting/utils/blob/master/daveutils.js#L564\">decodeXml</a> in <a href=\"https://www.npmjs.com/package/daveutils\">daveutils</a>. It was decoding four special strings, &amp;lt; &amp;gt;How different things would be if Apple had partnered with Be instead of Next. I would have liked it because the CEO of Be was an outliner guy. Blogging would have found a natural home there. They probably wouldn't have resisted the web as the Jobs Apple did. &amp;amp; and &amp;quot;. But there's a fifth string it wasn't decoding -- &amp;apos;. This showed in an app called <a href=\"https://github.com/scripting/riverToTweets\">riverToTweets</a>, which routes tweets from rivers to Twitter accounts, such as <a href=\"https://twitter.com/nyt\">nyt</a> and <a href=\"https://twitter.com/nbariver\">nbariver</a>. It would show up with undecoded &amp;apos; strings in tweets. For <a href=\"https://twitter.com/nbariver/status/1014837759322750976\">example</a>. I had seen this for a long time and assumed the problem was deeply buried in a utility I didn't care a lot about, but it turns out it was in code that's included in almost every project I do, including sites such as \"Scripting News\". It's now fixed and deployed. Not every app has been updated yet to include the fix. These are the best bugs to fix. Ones that have been sitting there for years waiting to cause problems. :boom:",
+            "created": "Thu, 05 Jul 2018 14:48:27 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/07/05/grandpa.png"
+        }
+    ]
+}
