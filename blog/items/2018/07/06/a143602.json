@@ -1,0 +1,6 @@
+{
+    "text": "Something changed somewhere and the blogging I was doing in 2012 and 2013 stopped working. Turns out that files without extensions were previously interpreted as text/html even if the returned Content-Type was text/plain. So I added a <a href=\"https://github.com/scripting/pagePark/blob/master/docs/config.md#setting-the-default-content-type-for-a-domain\">feature</a> to \"PagePark\" that lets you set the default type for a site. That was what was needed. Here's a <a href=\"http://threads2.scripting.com/2013/march/\">list of the posts</a> from March 2013 that now should work properly, again. When you have as much web history as I do, keeping things running is <a href=\"https://www.youtube.com/watch?v=bvEexTomE1I\">a lot of work</a>.",
+    "created": "Fri, 06 Jul 2018 14:36:02 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2018/04/10/drNick.png"
+}
