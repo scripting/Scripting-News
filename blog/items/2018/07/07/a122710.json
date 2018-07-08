@@ -1,0 +1,61 @@
+{
+    "text": "Restoring posts from 2012-13",
+    "created": "Sat, 07 Jul 2018 12:27:10 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I'm going to take notes here as I do this work. ",
+            "created": "Sat, 07 Jul 2018 12:30:49 GMT",
+            "flNumberedSubs": "false",
+            "subs": [
+                {
+                    "text": "Finding the OPML source for the stories",
+                    "created": "Sat, 07 Jul 2018 12:30:05 GMT",
+                    "subs": [
+                        {
+                            "text": "In doing the restoration of threads2 yesterday I got distracted, because the stories were in a special place not in scripting.com, which is a bucket on Amazon S3.",
+                            "created": "Sat, 07 Jul 2018 12:27:58 GMT"
+                        },
+                        {
+                            "text": "I used a special dynamic server then. Now I want to archive them like all the other posts. Some features are not preserved, such as comments and paragraph-level permalinks. However it is an improvement over what was here previously, i.e. nothing. ",
+                            "created": "Sat, 07 Jul 2018 13:22:35 GMT"
+                        },
+                        {
+                            "text": "First, I wanted to see if I could find the OPML for each of the stories. That took a bit of detective work, because they were in a worldoutline structure, but they were safe, in another S3 bucket, fargo.io. Long story how they came to be there. But I had left a crumb trail, deliberately, so that if someone wanted to find the source, not only would it likely still be there, but it would be relatively easy to find. ",
+                            "created": "Sat, 07 Jul 2018 12:28:05 GMT"
+                        },
+                        {
+                            "text": "Next step is to generate pages for each of the stories in preparation for putting them in a logical place, as HTML and OPML, in the scripting.com bucket.",
+                            "created": "Sat, 07 Jul 2018 12:29:18 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "Working on a template and build script",
+                    "created": "Sat, 07 Jul 2018 13:41:14 GMT",
+                    "collapse": "false",
+                    "subs": [
+                        {
+                            "text": "I have one working locally, now have to set it up so it iterates over all the stories. Taking a break for a bit. Back soon.",
+                            "created": "Sat, 07 Jul 2018 13:41:24 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "Should finish tomorrow",
+                    "created": "Sat, 07 Jul 2018 23:57:17 GMT",
+                    "subs": [
+                        {
+                            "text": "It was too nice a day in NYC to spend the day indoors. I did do a bit more work, and here's the outline for what I have left to do, tomorrow.",
+                            "created": "Sat, 07 Jul 2018 23:57:25 GMT"
+                        },
+                        {
+                            "text": "At about 8PM I have all the pages building and have a script that uploads them. Tomorrow I want to generate the redirects from the old threads website, and do some testing. I'll also release the OPML source code through the Scripting-News repository. This post will be linked to from every page that was part of the restoration. ",
+                            "created": "Sat, 07 Jul 2018 23:55:07 GMT"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
