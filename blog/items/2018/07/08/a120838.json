@@ -1,0 +1,30 @@
+{
+    "text": "Restoring posts from 2012-13",
+    "created": "Sun, 08 Jul 2018 12:08:38 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Here's a list of all the deliverables for the restoration.",
+            "created": "Sun, 08 Jul 2018 12:41:30 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "<a href=\"http://scripting.com/misc/restoration2012/storylist.html\">A list of all the stories</a>, on scripting.com.  Hopefully this will get the search engines to index the stories in their new locations.",
+                    "created": "Sun, 08 Jul 2018 12:41:42 GMT"
+                },
+                {
+                    "text": "<a href=\"http://scripting.com/misc/restoration2012/stories.opml\">An OPML file</a> containing the newly restored stories. There are a bunch more that weren't restored because they're already present, but we didn't have the OPML for them before. Note, it takes a long time to load, the file is quite large.",
+                    "created": "Sun, 08 Jul 2018 12:45:59 GMT"
+                },
+                {
+                    "text": "I also uploaded the OPML file to the <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/misc/restoration2012/scripting.opml\">GitHub</a> repository. It also has trouble with the size of the file. ",
+                    "created": "Sun, 08 Jul 2018 13:13:02 GMT"
+                },
+                {
+                    "text": "I uploaded the <a href=\"http://scripting.com/misc/restoration2012/renderedPages.zip\">folder</a> containing the newly restored pages in HTML.",
+                    "created": "Sun, 08 Jul 2018 13:06:10 GMT"
+                }
+            ]
+        }
+    ]
+}
