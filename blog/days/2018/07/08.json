@@ -1,0 +1,72 @@
+{
+    "text": "July 8",
+    "created": "Sun, 08 Jul 2018 12:08:37 GMT",
+    "name": "08",
+    "subs": [
+        {
+            "text": "If JavaScript had the equivalent of <a href=\"http://mirror.informatimago.com/next/developer.apple.com/documentation/mac/Toolbox/Toolbox-51.html\">WaitNextEvent</a> from the original <a href=\"https://en.wikipedia.org/wiki/Carbon_(API)#Event_handling\">Mac OS</a>, you could turn it into a decent scripting language. And btw, I love <a href=\"http://scripting.com/2017/08/30.html#a111904\">callback hell</a>. I really do. But sometimes you just need to be synchronous, for everything. Including network requests.",
+            "created": "Sun, 08 Jul 2018 20:31:57 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "One of the things I liked about <a href=\"https://en.wikipedia.org/wiki/Fleabag\">Fleabag</a>, which I just finished, is that all the characters are trying so hard, but the punchline of the six-part series, which I won't spoil, is given to a middle-aged man. So often men are portrayed as childish, clueless and mean. It's nice to see a story, one that centers on women, but lets men have dignity and wisdom while being vulnerable and wanting to be happy. :rocket:",
+            "created": "Sun, 08 Jul 2018 12:47:45 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "We're complicit",
+            "created": "Mon, 09 Jul 2018 01:17:14 GMT",
+            "type": "outline",
+            "description": "We could do more to stop Trump. We're all hoping to continue with our lives and careers, that somehow we'll get through this without having to give up anything as individuals. That someone else will make the sacrifice.",
+            "subs": [
+                {
+                    "text": "Back in the 90s, when Microsoft was doing horrible things to the web and hoping to get away with it, I had friends who worked there. I often wondered how they explained it to themselves. They must know that what Microsoft is doing is wrong, and those of us outside of the company don't make a distinction they would probably like us to make. I didn't see a difference between the company and the people who worked there. It was hard to reconcile the affection I felt for them personally with the actions of the company. ",
+                    "created": "Mon, 09 Jul 2018 01:17:20 GMT",
+                    "image": "http://scripting.com/images/2018/07/08/redAndBlueStates.png"
+                },
+                {
+                    "text": "I mention this now, long after the events are past, because of an image and a <a href=\"https://twitter.com/krassenstein/status/1015951386050224130\">tweet</a> that showed that thousands of people in Brussels are marching against our president. I thought, that's cool, but soon they will be marching against the United States. They won't and shouldn't make a distinction between the country and our president, for the same reason we didn't make a distinction between <a href=\"https://en.wikipedia.org/wiki/Bill_Gates\">Bill Gates</a> and the people who worked at Microsoft. ",
+                    "created": "Mon, 09 Jul 2018 01:18:50 GMT"
+                },
+                {
+                    "text": "When you go to Europe, there isn't a change in attitude that you can perceive. I went there when we invaded Iraq, creating the refugee crisis that is now causing so many problems there. No one seemed to blame me for what our government was doing. Same thing in June when I visited Italy. People seem to understand that Americans who travel outside the United States aren't to blame for Trump. But in fact, <i>we are.</i>",
+                    "created": "Mon, 09 Jul 2018 01:20:08 GMT"
+                },
+                {
+                    "text": "We could do more to stop Trump. We're all <a href=\"https://twitter.com/StephenKing/status/1015987159642394625\">hoping</a> to continue with our lives and careers, that somehow we'll get through this without having to give up anything as individuals. That someone else will make the sacrifice. I don't think that's how it works. We're missing chance after chance to stop this. We all have to work for each other, not just for ourselves. This is a change that Americans are not yet ready to make. I hope when and if it happens it isn't too late. ",
+                    "created": "Mon, 09 Jul 2018 01:22:57 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Restoring posts from 2012-13",
+            "created": "Sun, 08 Jul 2018 12:08:38 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Here's a list of all the deliverables for the restoration.",
+                    "created": "Sun, 08 Jul 2018 12:41:30 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "<a href=\"http://scripting.com/misc/restoration2012/storylist.html\">A list of all the stories</a>, on scripting.com.  Hopefully this will get the search engines to index the stories in their new locations.",
+                            "created": "Sun, 08 Jul 2018 12:41:42 GMT"
+                        },
+                        {
+                            "text": "<a href=\"http://scripting.com/misc/restoration2012/stories.opml\">An OPML file</a> containing the newly restored stories. There are a bunch more that weren't restored because they're already present, but we didn't have the OPML for them before. Note, it takes a long time to load, the file is quite large.",
+                            "created": "Sun, 08 Jul 2018 12:45:59 GMT"
+                        },
+                        {
+                            "text": "I also uploaded the OPML file to the <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/misc/restoration2012/scripting.opml\">GitHub</a> repository. It also has trouble with the size of the file. ",
+                            "created": "Sun, 08 Jul 2018 13:13:02 GMT"
+                        },
+                        {
+                            "text": "I uploaded the <a href=\"http://scripting.com/misc/restoration2012/renderedPages.zip\">folder</a> containing the newly restored pages in HTML.",
+                            "created": "Sun, 08 Jul 2018 13:06:10 GMT"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
