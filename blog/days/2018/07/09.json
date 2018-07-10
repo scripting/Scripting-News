@@ -1,0 +1,54 @@
+{
+    "text": "July 9",
+    "created": "Mon, 09 Jul 2018 12:39:42 GMT",
+    "name": "09",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/silentmoviegifs/status/1016531734773534725\">One</a> of my favorite Twitter feeds to follow.",
+            "created": "Tue, 10 Jul 2018 03:59:23 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/silentmoviegifs/status/1016531734773534725"
+        },
+        {
+            "text": "It might just be dawning on Steven Miller that his life will suck after Trump fires him.",
+            "created": "Mon, 09 Jul 2018 20:14:17 GMT",
+            "type": "tweet",
+            "tweetId": "1016415311145459712",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "We need a political party that spans international boundaries. I want to read a blog written by a Brit that explains what's going on. Who is their Lindsey Graham? Nancy Pelosi? Al Sharpton? I want to know who I should be reading from Canada, Germany, Japan, Russia, Italy, etc.",
+            "created": "Mon, 09 Jul 2018 14:59:42 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "For years I was really confused about what blogging is, after Twitter and Facebook. In May last year I decided I <a href=\"http://scripting.com/2017/05/05/iWantMyOldBlogBack.html\">wanted</a> my old blog back, the one I started in 1997. Now, a year later, I realize it really works. The 280 char limit in Twitter helps because I can cross-post shorter posts there. Here's a <a href=\"http://scripting.com/images/2018/07/09/blogScreenShot.png\">screen shot</a>.",
+            "created": "Mon, 09 Jul 2018 12:48:49 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Just did a little shopping. Went to Whole Foods to pick up fruit, bread, Italian sparkling water (a habit I developed on my recent trip). I used the newly installed Whole Foods app using my Amazon ID to get a discount. I used Apple Pay to pay for it. On my way out the store I used the Starbuck's app to buy an <a href=\"http://scripting.com/images/2018/07/09/coffeeLabel.png\">iced coffee</a> and breakfast sandwich, which was there when I arrived two minutes later. I remarked to the checkout guy at Whole Foods that this is the future. He asked if I was a robot. I thought a bit, smiled, and said yeah almost. :boom:",
+            "created": "Mon, 09 Jul 2018 12:39:43 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "How Twitter displays threads",
+            "created": "Mon, 09 Jul 2018 14:35:33 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I tried an experiment to see how Twitter displays thread structures. ",
+                    "created": "Mon, 09 Jul 2018 14:40:44 GMT"
+                },
+                {
+                    "text": "I entered a <a href=\"http://scripting.com/images/2018/07/09/statesSubset.png\">subset</a> of the standard states outline. <a href=\"https://twitter.com/Twittergram/status/1016328508128288768\">United States</a> is at the root. It has one sub, <a href=\"https://twitter.com/Twittergram/status/1016328530328805377\">Far West</a>. And from there I list the six states, and provide detail under <a href=\"https://twitter.com/Twittergram/status/1016328618899902464\">Nevada</a>. ",
+                    "created": "Mon, 09 Jul 2018 14:36:45 GMT"
+                },
+                {
+                    "text": "I'm wondering what the algorithm is. Because sometimes it shows nodes at multiple levels, and how they choose them isn't clear.",
+                    "created": "Mon, 09 Jul 2018 14:43:21 GMT"
+                }
+            ]
+        }
+    ]
+}
