@@ -1,0 +1,19 @@
+{
+    "text": "How Twitter displays threads",
+    "created": "Mon, 09 Jul 2018 14:35:33 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I tried an experiment to see how Twitter displays thread structures. ",
+            "created": "Mon, 09 Jul 2018 14:40:44 GMT"
+        },
+        {
+            "text": "I entered a <a href=\"http://scripting.com/images/2018/07/09/statesSubset.png\">subset</a> of the standard states outline. <a href=\"https://twitter.com/Twittergram/status/1016328508128288768\">United States</a> is at the root. It has one sub, <a href=\"https://twitter.com/Twittergram/status/1016328530328805377\">Far West</a>. And from there I list the six states, and provide detail under <a href=\"https://twitter.com/Twittergram/status/1016328618899902464\">Nevada</a>. ",
+            "created": "Mon, 09 Jul 2018 14:36:45 GMT"
+        },
+        {
+            "text": "I'm wondering what the algorithm is. Because sometimes it shows nodes at multiple levels, and how they choose them isn't clear.",
+            "created": "Mon, 09 Jul 2018 14:43:21 GMT"
+        }
+    ]
+}
