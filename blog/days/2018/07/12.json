@@ -1,0 +1,93 @@
+{
+    "text": "July 12",
+    "created": "Thu, 12 Jul 2018 14:25:45 GMT",
+    "name": "12",
+    "subs": [
+        {
+            "text": "Brits want to know why Donald Trump is such a.. you should <a href=\"https://www.youtube.com/watch?v=dbwEqyFgqEQ&list=RDdbwEqyFgqEQ&t=14\">listen</a>. ",
+            "created": "Fri, 13 Jul 2018 02:34:28 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=dbwEqyFgqEQ"
+        },
+        {
+            "text": "<a href=\"https://twitter.com/silentmoviegifs\">Silent Movie GIFs</a> is great. They show you tiny scenes from a silent movie, and then another and another, spaced out over hours. Here's a <a href=\"https://twitter.com/silentmoviegifs/status/1017446111571841025\">scene</a> from the <a href=\"https://en.wikipedia.org/wiki/Buster_Keaton\">Buster Keaton</a> movie <a href=\"https://en.wikipedia.org/wiki/One_Week_(1920_film)\">One Week</a>.",
+            "created": "Thu, 12 Jul 2018 16:31:23 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/silentmoviegifs/status/1017446111571841025"
+        },
+        {
+            "text": "I did a bit more development work <a href=\"http://scripting.com/2018/07/12.html#a142546\">today</a> on a project that stores stuff on GitHub as if it were a long-term place, a place to create a historic record. Of course I question that, I did when they were an independent company. Now that GitHub is owned by Microsoft, I still question it. Not sure if it's more or less likely to survive as-is for the indefinite future. Made me wonder what Microsoft could do to reassure developers, so we'd feel comfortable treating it as a permanent resource. Clearly that's in their interest. Microsoft has embraced open source, now I wonder if they have what it takes to be a leader. ",
+            "created": "Thu, 12 Jul 2018 16:35:21 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/07/12/peach.png"
+        },
+        {
+            "text": "I wonder why more American congresspeople don’t have blogs and podcasts. It seems they would want to communicate regularly with their constituents. Twitter has severe limits, as everyone knows.",
+            "created": "Thu, 12 Jul 2018 15:00:09 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I'm now archiving the RSS file for Scripting News <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/rss.xml\">in the GitHub repo</a>, every night, along with the content of the blog for the day (in JSON, OPML and HTML). It'll be interesting to be able to track the changes to the file over (knock wood) long periods of time. Here's the <a href=\"https://github.com/scripting/oldSchoolNightly/blob/master/oldschoolnightly.js\">source</a> of the app that does the uploading. It's proven to be very reliable. :boom:",
+            "created": "Thu, 12 Jul 2018 14:25:46 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Real ideas yesterday on MSNBC",
+            "created": "Thu, 12 Jul 2018 15:49:40 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Most of the time I spend watching MSNBC is a waste, but yesterday there were two items that were important. ",
+                    "created": "Thu, 12 Jul 2018 15:50:03 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "On MTP Daily, an interview with <a href=\"https://www.msnbc.com/mtp-daily/watch/rounds-sounds-the-alarm-on-trump-trade-strategy-1275006531827\">Senator Mike Rounds, R-SD</a>, carefully explaining how Trump still has the support of his constituents, but they don't like what he's doing with tariffs. I think this is a must-listen, a real milestone, imho.",
+                            "created": "Thu, 12 Jul 2018 15:50:14 GMT"
+                        },
+                        {
+                            "text": "On The Beat, author <a href=\"http://www.msnbc.com/the-beat-with-ari-melber/watch/trump-baby-blimp-organizer-moral-outrage-doesn-t-work-on-trump-1275099715785\">Tony Schwartz</a>, interviewed about the angry Trump baby blimp in London, said it's funny (it is!) but is far from where we should be focused. He says getting non-voters to vote is where our attention should be. Couldn't agree more. I want a system, where voters have buddies, like sponsors in a 12-step program, who they commit to voting, and they engage on Election Day and make sure they do. They escort them to the poll if necessary. We should have drills. What an incredible demonstration that would be. Far more powerful than a march. Think about it.",
+                            "created": "Thu, 12 Jul 2018 15:50:22 GMT",
+                            "image": "http://scripting.com/images/2018/07/12/angryTrumpBabyBlimp.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "A mutual defense pact against racism",
+            "created": "Thu, 12 Jul 2018 14:34:59 GMT",
+            "type": "outline",
+            "description": "As a white person I can't become black. But I can make a statement that I stand with them. ",
+            "subs": [
+                {
+                    "text": "A Twitter account called <a href=\"https://twitter.com/BlkAndPr0ud/status/1016367865400832000\">Black and Proud</a> addresses white people: ",
+                    "created": "Thu, 12 Jul 2018 14:35:08 GMT",
+                    "subs": [
+                        {
+                            "text": "<i>Please stop saying 'I don't see color.' Instead -- I see you and your struggle, because of your skin color. I will stand with you to end racism. </i>",
+                            "created": "Thu, 12 Jul 2018 14:51:50 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "I agree. Race <i>is</i> visible, and the statement that you don't see it is ludicrous. We see it. To say otherwise is to push it aside. I've written about this a few times before, once in an explainer about <a href=\"http://scripting.com/liveblog/users/davewiner/2016/01/17/0880.html\">Black Lives Matter</a>, and what it means, from a white person's perspective. ",
+                    "created": "Thu, 12 Jul 2018 14:37:24 GMT"
+                },
+                {
+                    "text": "I want to do more. I feel compelled, not just to make life safer and simpler for people of color, but also to put up a roadblock to racism, to let it know that it will encounter resistance. Some things are better kept under cover. Racism for sure is one of them. ",
+                    "created": "Thu, 12 Jul 2018 14:39:01 GMT"
+                },
+                {
+                    "text": "In the past I've <a href=\"http://scripting.com/2016/12/30/theMlkButtonsArrived.html\">proposed</a> that we all wear Martin Luther King buttons. I felt his <a href=\"http://scripting.com/images/2017/12/09/mlk.png\">image</a> was perfect because he's a black man, he preached non-violence, and was active, not passive, in his quest for equality and fairness. A white person wearing a <a href=\"http://scripting.com/images/2017/12/09/mlk.png\">MLK button</a> makes a statement of equivalence. Treat me as you would treat a black person. If a majority of whites wore these buttons it would make a promise to our fellow citizens, that if there's trouble, we're standing with you. <i>When</i> there's trouble. ",
+                    "created": "Thu, 12 Jul 2018 14:39:49 GMT",
+                    "image": "http://scripting.com/images/2017/12/09/mlk.png"
+                },
+                {
+                    "text": "It would be like Article 5 in NATO. An attack on one of us is an attack on all of us. As a white person I can't become black. But I can make a statement that I stand with people of color. ",
+                    "created": "Thu, 12 Jul 2018 14:49:50 GMT"
+                }
+            ]
+        }
+    ]
+}
