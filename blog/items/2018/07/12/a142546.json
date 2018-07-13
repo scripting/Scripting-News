@@ -1,0 +1,5 @@
+{
+    "text": "I'm now archiving the RSS file for Scripting News <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/rss.xml\">in the GitHub repo</a>, every night, along with the content of the blog for the day (in JSON, OPML and HTML). It'll be interesting to be able to track the changes to the file over (knock wood) long periods of time. Here's the <a href=\"https://github.com/scripting/oldSchoolNightly/blob/master/oldschoolnightly.js\">source</a> of the app that does the uploading. It's proven to be very reliable. :boom:",
+    "created": "Thu, 12 Jul 2018 14:25:46 GMT",
+    "type": "outline"
+}
