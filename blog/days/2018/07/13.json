@@ -1,0 +1,114 @@
+{
+    "text": "July 13",
+    "created": "Fri, 13 Jul 2018 12:44:11 GMT",
+    "name": "13",
+    "subs": [
+        {
+            "text": "The hideous <a href=\"https://twitter.com/JimCarrey/status/1017790212544450560\">entity</a> that walks among us as “Paul Manafort” slips on its human skin-suit for a quick mugshot.",
+            "created": "Fri, 13 Jul 2018 15:21:26 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/JimCarrey/status/1017790212544450560"
+        },
+        {
+            "text": "Follow-up to yesterday's <a href=\"http://scripting.com/2018/07/12.html#a163521\">addition</a>. Here's why it's interesting to put <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/rss.xml\">the RSS</a> in the GitHub repo. You can <a href=\"https://github.com/scripting/Scripting-News/commit/240114c407b13fe3468790d2f8b82a451c5708ef#diff-3413fd3f6a62e71ebb8dc6460e14f78f\">see what changed</a>. Of course that's what \"River5\" is for. But it's interesting to see it in GitHub. Like many things on the net, both GitHub and RSS are about \"what changed.\"",
+            "created": "Fri, 13 Jul 2018 13:22:19 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "What we need from news orgs re fake news",
+            "created": "Fri, 13 Jul 2018 17:52:14 GMT",
+            "type": "outline",
+            "description": "I have an idea of how we can collaborate to make news work in an open network environment. We need leadership from news orgs to make it work. And it won't happen quickly, it must be iterated and evolve. ",
+            "subs": [
+                {
+                    "text": "Here's a timeline.   ",
+                    "created": "Fri, 13 Jul 2018 17:57:36 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Each news org should produce a list of news orgs they feel produce news that's not fake. Each should use whatever criteria they feel is right. Publish the list.",
+                            "created": "Fri, 13 Jul 2018 17:52:25 GMT"
+                        },
+                        {
+                            "text": "Evolve the lists over time. This problem is not going to be solved overnight. The process will take years to sort out. In the process we will learn a lot. If it works, it will transform news to make it much more useful because it's online and not print. ",
+                            "created": "Fri, 13 Jul 2018 17:53:55 GMT"
+                        },
+                        {
+                            "text": "Techies, both companies and individuals, will build news products based on the feeds. For example, Facebook might offer a choice of news selected by different news orgs. An open source group could create software that flows Twitter-like news feeds from the lists. ",
+                            "created": "Fri, 13 Jul 2018 17:54:10 GMT"
+                        },
+                        {
+                            "text": "This will become competitive. Some pubs lists will fall out, others will rise to the top. There will be surprises. ",
+                            "created": "Fri, 13 Jul 2018 17:54:50 GMT"
+                        },
+                        {
+                            "text": "Include blogs in the list, blogs that cover territory that you cover. For example, the NYT would include bloggers who cover neighborhoods. Tech pubs would include tech bloggers.",
+                            "created": "Fri, 13 Jul 2018 17:53:06 GMT"
+                        },
+                        {
+                            "text": "Include your entire news flow in your list. Amazingly some news orgs do not have a comprehensive list of every news article they publish in reverse-chronologic order. ",
+                            "created": "Fri, 13 Jul 2018 17:55:13 GMT"
+                        },
+                        {
+                            "text": "You may choose to make your list a feature of your news site. You may also use other organizations lists as a feature on your news site.  ",
+                            "created": "Fri, 13 Jul 2018 17:55:56 GMT"
+                        },
+                        {
+                            "text": "Let's discuss our experiences at a future-of-news conference. After a few months' experience we should be ready to learn from each other. ",
+                            "created": "Fri, 13 Jul 2018 17:56:59 GMT"
+                        },
+                        {
+                            "text": "This is not something tech companies can do for you. People whose work is producing news should come up with ideas for figuring out what is and isn't reliable news.",
+                            "created": "Fri, 13 Jul 2018 17:58:04 GMT"
+                        },
+                        {
+                            "text": "The canonical \"fake news\" site, Infowars, will of course produce their own list of reliable feeds. Totally valid. People who want to be informed by them may choose to do so. ",
+                            "created": "Fri, 13 Jul 2018 17:58:36 GMT"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Notes on xrefs",
+            "created": "Fri, 13 Jul 2018 14:00:09 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"http://scripting.com/2017/07/13.html\">One year ago today</a> I introduced a feature that allowed me to include a post from Scripting News within another post. Here's the <a href=\"http://scripting.com/2017/07/13.html#a033236\">example</a>, and the video <a href=\"http://scripting.com/2017/07/13.html#a052616\">demo</a>. I wondered if I would use the feature. I haven't. But I forgot it was there, and forgot how it works. There's a <a href=\"http://scripting.com/images/2018/07/13/headlineTooBig.png\">CSS problem</a> that's shown up, when I increased the size of the titles on the story pages. I'll fix that now.",
+                    "created": "Fri, 13 Jul 2018 12:44:12 GMT"
+                },
+                {
+                    "text": "This is a test. Breakage fixed. I changed the way permalinks to stories work. If an item has subs it's rendered on its own page. The URL will be different, so it has to be parsed differently when setting up the xref node. So this points to a story on its own page, and I'm going to work on the code to detect this and properly compute the location of its corresponding JSON file.  ",
+                    "created": "Fri, 13 Jul 2018 14:00:48 GMT",
+                    "xref": "http://scripting.com/2018/07/09/143533.html"
+                },
+                {
+                    "text": "For the test above, the xref value is http://scripting.com/2018/07/09/143533.html",
+                    "created": "Fri, 13 Jul 2018 14:04:56 GMT"
+                },
+                {
+                    "text": "The JSON derived from that URL should be http://scripting.com/items/2018/07/09/a143533.json",
+                    "created": "Fri, 13 Jul 2018 14:14:48 GMT"
+                },
+                {
+                    "text": "This node is an xref. That means that in the OPML, it has an <i>xref</i> attribute, which is a <a href=\"http://scripting.com/2018/07/10/133309.html\">link</a> to a story on this blog. It's converted to the URL of a JSON file, which is then read, and included under this headline when it's expanded. ",
+                    "created": "Fri, 13 Jul 2018 13:28:00 GMT",
+                    "xref": "http://scripting.com/2018/07/12.html#a163521"
+                }
+            ]
+        },
+        {
+            "text": "Google isn't going to like this",
+            "created": "Fri, 13 Jul 2018 12:51:33 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "After forcing a change to HTTPS, there are going to be other requirements. They'll try to eliminate fake news from the web as Facebook is trying (and failing) to eliminate it from their silo. That's the slippery slope they are starting down. They may not feel they have a lot to lose, but <i>we</i> do. Last year I wrote a <a href=\"http://scripting.com/2017/07/13.html#a033345\">piece</a> about why I like to develop on the open web. If I get an idea for a feature, I can just do it. I could wait forever for Facebook, they don't listen to me (neither does Google) but <i>I</i> listen to me. I can do it without getting the approval of a big company -- that's the magic of an open platform. I will never give that up. I'd rather retire to Italy and make pottery and drink espresso and bubbly water. Grazie! ",
+                    "created": "Fri, 13 Jul 2018 12:51:40 GMT",
+                    "image": "http://scripting.com/images/2018/07/13/vase.png"
+                }
+            ]
+        }
+    ]
+}
