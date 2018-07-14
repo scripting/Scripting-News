@@ -1,0 +1,6 @@
+{
+    "text": "This node is an xref. That means that in the OPML, it has an <i>xref</i> attribute, which is a <a href=\"http://scripting.com/2018/07/10/133309.html\">link</a> to a story on this blog. It's converted to the URL of a JSON file, which is then read, and included under this headline when it's expanded. ",
+    "created": "Fri, 13 Jul 2018 13:28:00 GMT",
+    "type": "outline",
+    "xref": "http://scripting.com/2018/07/12.html#a163521"
+}
