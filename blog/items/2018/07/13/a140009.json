@@ -1,0 +1,29 @@
+{
+    "text": "Notes on xrefs",
+    "created": "Fri, 13 Jul 2018 14:00:09 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "<a href=\"http://scripting.com/2017/07/13.html\">One year ago today</a> I introduced a feature that allowed me to include a post from Scripting News within another post. Here's the <a href=\"http://scripting.com/2017/07/13.html#a033236\">example</a>, and the video <a href=\"http://scripting.com/2017/07/13.html#a052616\">demo</a>. I wondered if I would use the feature. I haven't. But I forgot it was there, and forgot how it works. There's a <a href=\"http://scripting.com/images/2018/07/13/headlineTooBig.png\">CSS problem</a> that's shown up, when I increased the size of the titles on the story pages. I'll fix that now.",
+            "created": "Fri, 13 Jul 2018 12:44:12 GMT"
+        },
+        {
+            "text": "This is a test. Breakage fixed. I changed the way permalinks to stories work. If an item has subs it's rendered on its own page. The URL will be different, so it has to be parsed differently when setting up the xref node. So this points to a story on its own page, and I'm going to work on the code to detect this and properly compute the location of its corresponding JSON file.  ",
+            "created": "Fri, 13 Jul 2018 14:00:48 GMT",
+            "xref": "http://scripting.com/2018/07/09/143533.html"
+        },
+        {
+            "text": "For the test above, the xref value is http://scripting.com/2018/07/09/143533.html",
+            "created": "Fri, 13 Jul 2018 14:04:56 GMT"
+        },
+        {
+            "text": "The JSON derived from that URL should be http://scripting.com/items/2018/07/09/a143533.json",
+            "created": "Fri, 13 Jul 2018 14:14:48 GMT"
+        },
+        {
+            "text": "This node is an xref. That means that in the OPML, it has an <i>xref</i> attribute, which is a <a href=\"http://scripting.com/2018/07/10/133309.html\">link</a> to a story on this blog. It's converted to the URL of a JSON file, which is then read, and included under this headline when it's expanded. ",
+            "created": "Fri, 13 Jul 2018 13:28:00 GMT",
+            "xref": "http://scripting.com/2018/07/12.html#a163521"
+        }
+    ]
+}
