@@ -1,0 +1,94 @@
+{
+    "text": "July 14",
+    "created": "Sat, 14 Jul 2018 12:08:17 GMT",
+    "name": "14",
+    "subs": [
+        {
+            "text": "Have you ever had a thought \"Geez this person just needs to read the article,\" so you say so, and they reply with something like \"Thanks. I <i>did</i> need to read it.\"",
+            "created": "Sun, 15 Jul 2018 01:51:27 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Try a new form of protest. Block <a href=\"https://twitter.com/realDonaldTrump\">Trump</a> on Twitter. ",
+            "created": "Sat, 14 Jul 2018 20:02:18 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/87\">Braintrust query</a>: I'm thinking about using an SQL database in an Electron app. I want to bake the database software into the app. Looks like <a href=\"https://www.npmjs.com/package/electron-sqlite3\">SQLite</a> is the best option. Any other ideas?",
+            "created": "Sat, 14 Jul 2018 17:39:37 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"http://thesaurus.land/?word=humiliated\">Humiliated</a>. That's the word for how the United States is.",
+            "created": "Sat, 14 Jul 2018 15:42:57 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "It seems to me <a href=\"https://en.wikipedia.org/wiki/Amazon_Web_Services\">AWS</a>, with the combination of <a href=\"https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html\">S3</a>, <a href=\"https://en.wikipedia.org/wiki/Amazon_Route_53\">Route 53</a> and the fact they have your credit card and shipping address, could turn HTTPS support into a checkbox. ",
+            "created": "Sat, 14 Jul 2018 12:08:18 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Listening when it's especially hard",
+            "created": "Sat, 14 Jul 2018 12:26:32 GMT",
+            "type": "outline",
+            "description": "If you care about the other person, you want to know that something you're doing is trouble for them, so you can stop doing it.",
+            "subs": [
+                {
+                    "text": "As I <a href=\"http://scripting.com/2018/07/10/133458.html\">wrote</a> earlier this week, listening is hard. It's even more difficult when someone wants to report a problem. This comes up in all kinds of relationships, it even models software bug reporting.",
+                    "created": "Sat, 14 Jul 2018 12:28:43 GMT"
+                },
+                {
+                    "text": "Here's a scenario. A person with a missing leg says \"When you push me, I fall over and that hurts.\" Here's a list of possible responses, from best to worst.",
+                    "created": "Sat, 14 Jul 2018 12:32:48 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "If you understand what they're saying, just say that, literally: \"I understand what you're saying.\" If you don't understand, then say that, but only if you really don't understand.",
+                            "created": "Thu, 12 Jul 2018 16:07:02 GMT"
+                        },
+                        {
+                            "text": "Don't defend yourself. For example \"I didn't know you only had one leg,\" or \"I didn't know if I push you you'll fall over.\" The person just wants to know you heard them. You're changing the topic to something about yourself. This leaves the question of whether you understood out there, unanswered.",
+                            "created": "Thu, 12 Jul 2018 16:08:03 GMT"
+                        },
+                        {
+                            "text": "Don't argue. \"The leg you say is missing is really just shorter than the other one, it's not actually missing.\" We're getting very far away from \"I understand what you're saying.\"",
+                            "created": "Thu, 12 Jul 2018 16:09:58 GMT"
+                        },
+                        {
+                            "text": "Even worse. \"It never happened\" or \"I didn't push you over.\" ",
+                            "created": "Thu, 12 Jul 2018 16:10:26 GMT"
+                        },
+                        {
+                            "text": "Worst. \"What about the time you said I was stupid.\" ",
+                            "created": "Thu, 12 Jul 2018 16:10:36 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "I'm sure you see the analogy to software bug reporting. We want to know that something went wrong, so we can fix it, and make the product work properly. Same thing in personal relationships. If you care about the other person, you want to know that something you're doing is trouble for them, so you can stop doing it. There really is no better way to show that you care for them than listening when it's especially hard to. ",
+                    "created": "Sat, 14 Jul 2018 12:37:07 GMT"
+                },
+                {
+                    "text": "Finally, why keep the response focused on the problem?",
+                    "created": "Sat, 14 Jul 2018 12:35:28 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "It builds trust. ",
+                            "created": "Thu, 12 Jul 2018 16:11:12 GMT"
+                        },
+                        {
+                            "text": "It encourages the other person to report other problems, so the relationship can be further optimized.",
+                            "created": "Thu, 12 Jul 2018 16:11:20 GMT"
+                        },
+                        {
+                            "text": "It makes for a happy family!",
+                            "created": "Thu, 12 Jul 2018 16:25:39 GMT"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
