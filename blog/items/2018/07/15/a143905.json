@@ -1,0 +1,5 @@
+{
+    "text": "Happy to report that an <a href=\"https://github.com/scripting/Scripting-News/issues/87\">SQLite</a> test app took about ten minutes to write and install. They make it sound like installing the native portion is some huge deal. It's not. I would share what I have so far, but I just followed the instructions on <a href=\"https://www.npmjs.com/package/electron-sqlite3\">this page</a>. They work, and the demo app works. I have an interesting project in mind, but first I have to learn more about SQLite to see if it's feasible. Still diggin. :rocket:",
+    "created": "Sun, 15 Jul 2018 14:39:05 GMT",
+    "type": "outline"
+}
