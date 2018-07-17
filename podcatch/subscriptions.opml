@@ -3,7 +3,7 @@
 	<head>
 		<title>My Podcast Feeds</title>
 		<dateCreated>Mon, 06 Apr 2015 16:19:35 GMT</dateCreated>
-		<dateModified>Fri, 29 Jun 2018 18:52:22 GMT</dateModified>
+		<dateModified>Mon, 16 Jul 2018 19:07:36 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="99% Invisible" title="99% Invisible" type="rss" xmlUrl="http://feeds.99percentinvisible.org/99percentinvisible" />
@@ -13,6 +13,7 @@
 		<outline text="All Songs Considered" title="All Songs Considered" type="rss" xmlUrl="http://www.npr.org/rss/podcast.php?id=510019" />
 		<outline text="All-in with Chris Hayes" title="All-in with Chris Hayes" type="rss" xmlUrl="http://podcastfeeds.nbcnews.com/drone/api/query/audio/podcast/1.0/MSNBC-All-In.xml" />
 		<outline text="American Masters" title="American Masters" type="rss" xmlUrl="http://feeds.feedburner.com/AmericanMastersPBS" />
+		<outline text="Ari Melber" title="Ari Melber" type="rss" xmlUrl="http://podcastfeeds.nbcnews.com/drone/api/query/audio/podcast/1.0/the-beat-with-ari-melber.xml" />
 		<outline text="Ars Technica" title="Ars Technica" type="rss" xmlUrl="http://arsdecrypted.libsyn.com/rss" />
 		<outline text="BBC Documentary" title="BBC Documentary" type="rss" xmlUrl="http://podcasts.files.bbci.co.uk/p02nq0lx.rss" />
 		<outline text="Benjamen Walker’s Theory of Everything" title="Benjamen Walker’s Theory of Everything" type="rss" xmlUrl="http://feeds.prx.org/TOE" />
