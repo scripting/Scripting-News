@@ -3,7 +3,7 @@
 	<head>
 		<title>My Podcast Feeds</title>
 		<dateCreated>Mon, 06 Apr 2015 16:19:35 GMT</dateCreated>
-		<dateModified>Mon, 16 Jul 2018 19:07:36 GMT</dateModified>
+		<dateModified>Tue, 17 Jul 2018 14:50:04 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="99% Invisible" title="99% Invisible" type="rss" xmlUrl="http://feeds.99percentinvisible.org/99percentinvisible" />
@@ -95,6 +95,7 @@
 		<outline text="Sporkful" title="Sporkful" type="rss" xmlUrl="http://feeds.feedburner.com/sporkful" />
 		<outline text="StarTalk Radio" title="StarTalk Radio" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:38128127/sounds.rss" />
 		<outline text="StartUp Podcast" title="StartUp Podcast" type="rss" xmlUrl="http://feeds.gimletmedia.com/hearstartup" />
+		<outline text="State of the Net" title="State of the Net" type="rss" xmlUrl="https://sotn.podbean.com/feed.xml" />
 		<outline text="Studio 360" title="Studio 360" type="rss" xmlUrl="http://feeds.wnyc.org/studio360/podcast" />
 		<outline text="Sunday Calling w Joan Walsh" title="Sunday Calling w Joan Walsh" type="rss" xmlUrl="http://www.wnyc.org/feeds/shows/sundaycalling" />
 		<outline text="Team Human" title="Team Human" type="rss" xmlUrl="http://teamhuman.fm/feed/episodes" />
