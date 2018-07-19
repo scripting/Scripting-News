@@ -3,7 +3,7 @@
 	<head>
 		<title>My Podcast Feeds</title>
 		<dateCreated>Mon, 06 Apr 2015 16:19:35 GMT</dateCreated>
-		<dateModified>Tue, 17 Jul 2018 14:50:04 GMT</dateModified>
+		<dateModified>Wed, 18 Jul 2018 21:44:10 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="99% Invisible" title="99% Invisible" type="rss" xmlUrl="http://feeds.99percentinvisible.org/99percentinvisible" />
@@ -19,6 +19,7 @@
 		<outline text="Benjamen Walker’s Theory of Everything" title="Benjamen Walker’s Theory of Everything" type="rss" xmlUrl="http://feeds.prx.org/TOE" />
 		<outline text="Book Review" title="Book Review" type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/podcasts/bookupdate.xml" />
 		<outline text="CNN SOTU" title="CNN SOTU" type="rss" xmlUrl="http://rss.cnn.com/services/podcasting/sotu/rss.xml" />
+		<outline text="Coin Talk" title="Coin Talk" type="rss" xmlUrl="https://rss.simplecast.com/podcasts/4094/rss" />
 		<outline text="Context Matters" title="Context Matters" type="rss" xmlUrl="http://contextmatters.libsyn.com/rss" />
 		<outline text="Coverville" title="Coverville" type="rss" xmlUrl="http://feeds.feedburner.com/coverville" />
 		<outline text="Dan Carlin" title="Dan Carlin" type="rss" xmlUrl="http://feeds.feedburner.com/dancarlin/commonsense" />
