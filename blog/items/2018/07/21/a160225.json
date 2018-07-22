@@ -1,0 +1,32 @@
+{
+    "text": "I think IFTTT supports rssCloud",
+    "created": "Sat, 21 Jul 2018 16:02:25 GMT",
+    "type": "outline",
+    "isComment": "true",
+    "subs": [
+        {
+            "text": "This is why I think that.",
+            "created": "Sat, 21 Jul 2018 16:02:54 GMT"
+        },
+        {
+            "text": "When I post an item to my <a href=\"http://scripting.com/?tab=links\">linkblog</a>, it also goes to an <a href=\"http://radio3.io/users/davewiner/rss.xml\">RSS feed</a>.",
+            "created": "Sat, 21 Jul 2018 16:02:58 GMT"
+        },
+        {
+            "text": "I have an <a href=\"https://ifttt.com/\">IFTTT</a> app that <a href=\"https://ifttt.com/applets/15217689d-if-new-feed-item-from-http-radio3-io-users-davewiner-rss-xml-then-post-a-tweet-to-bullmancuso\">watches</a> that feed, and when something new shows up posts it to this <a href=\"https://twitter.com/bullmancuso\">Twitter account</a>.",
+            "created": "Sat, 21 Jul 2018 16:03:09 GMT"
+        },
+        {
+            "text": "I also ping the <a href=\"http://scripting.com/opmlHowto/dave/rssCloud/walkthrough.html\">rssCloud</a> notifier, the one that's pointed to from the &lt;cloud> <a href=\"http://scripting.com/images/2018/07/21/cloudElement.png\">element</a> in the feed. It tells an app how to be notified immediately of an update.",
+            "created": "Sat, 21 Jul 2018 16:03:32 GMT"
+        },
+        {
+            "text": "Here's the thing. The Twitter feed gets the update immediately now. Sometime in the last year (?) or so it started being instantaneous. Unless they're polling the feed ridiculously often, they must be hooked in through the &lt;cloud> element. ",
+            "created": "Sat, 21 Jul 2018 16:04:09 GMT"
+        },
+        {
+            "text": "If they did, I think this is very cool. :boom:",
+            "created": "Sat, 21 Jul 2018 16:04:58 GMT"
+        }
+    ]
+}
