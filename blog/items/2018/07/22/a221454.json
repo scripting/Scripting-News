@@ -1,0 +1,5 @@
+{
+    "text": "I've been working on hoisting for the core outliner in \"LO2\". Just got it working today. Saving while stuff is hoisted was the hardest part. I don't seem to have <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+hoisting&t=h_&ia=web\">hoisting</a> defined on my blog, probably because the outliner in Frontier didn't have the feature. There are two operations, hoist and dehoist. Put the bar cursor on a headline. If you <i>hoist</i> it, everything that's subordinate to the headline becomes your world. The other stuff is still there, but you can't see it or edit it. You can focus on just this part of the outline. I need it for my blog, when I'm working on a long post and want to quickly scroll to the beginning or end. <i>Dehoist</i> as you might imagine undoes the last hoist. ",
+    "created": "Sun, 22 Jul 2018 22:14:54 GMT",
+    "type": "outline"
+}
