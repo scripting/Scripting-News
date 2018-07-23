@@ -1,0 +1,69 @@
+{
+    "text": "July 22",
+    "created": "Sun, 22 Jul 2018 15:53:43 GMT",
+    "name": "22",
+    "subs": [
+        {
+            "text": "Here's a quick <a href=\"https://www.youtube.com/watch?v=y6OZBNiOk5A&feature=youtu.be\">video demo</a> of hoisting.",
+            "created": "Sun, 22 Jul 2018 22:25:46 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=y6OZBNiOk5A"
+        },
+        {
+            "text": "I've been working on hoisting for the core outliner in \"LO2\". Just got it working today. Saving while stuff is hoisted was the hardest part. I don't seem to have <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+hoisting&t=h_&ia=web\">hoisting</a> defined on my blog, probably because the outliner in Frontier didn't have the feature. There are two operations, hoist and dehoist. Put the bar cursor on a headline. If you <i>hoist</i> it, everything that's subordinate to the headline becomes your world. The other stuff is still there, but you can't see it or edit it. You can focus on just this part of the outline. I need it for my blog, when I'm working on a long post and want to quickly scroll to the beginning or end. <i>Dehoist</i> as you might imagine undoes the last hoist. ",
+            "created": "Sun, 22 Jul 2018 22:14:54 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1021149464273223682\">Poll</a>: When Trump is impeached, will you watch it?",
+            "created": "Sun, 22 Jul 2018 21:46:40 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1021149464273223682"
+        },
+        {
+            "text": "If you give a shit, and don’t want to end up in a concentration camp, stop fighting with others who care and close ranks.",
+            "created": "Sun, 22 Jul 2018 21:53:19 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "As I get older I have more confidence in the power of deliberation. Give my mind the time to weigh the alternatives, and I'll come to a better decision in 24 hours than I would in 2, and if it's important, it's worth it. ",
+            "created": "Sun, 22 Jul 2018 17:51:43 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "How to improve Twitter in 2018",
+            "created": "Sun, 22 Jul 2018 15:53:44 GMT",
+            "type": "outline",
+            "description": "Eliminate the char limit, help news orgs evolve, make an irreversible deal with developers.",
+            "subs": [
+                {
+                    "text": "So Jack Dorsey is looking for ways to improve Twitter. ",
+                    "created": "Sun, 22 Jul 2018 15:53:55 GMT"
+                },
+                {
+                    "text": "There are three I can think of:",
+                    "created": "Sun, 22 Jul 2018 15:54:04 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Eliminate the character limit, allow for linking, simple styles, titles and enclosures (for podcasting). The move to 280 chars was so successful, that should be a clue. Remove the barriers to expression and let the whole web in via linking. Handle length the way Facebook does with a <a href=\"http://scripting.com/2015/10/02/whatWouldAFatTweetLookLike.html\">see more</a> link. It's good prior art. ",
+                            "created": "Sun, 22 Jul 2018 15:54:17 GMT"
+                        },
+                        {
+                            "text": "Help news orgs create collections of news feeds for people to follow on Twitter and on the open web. I think ultimately that's what news orgs will become. Experts on where to find the people who are saying newsworthy stuff. It's not much of an evolution, it's what they've been doing for as long as I can remember. The web gives us the ability to create new structures for that. Since Twitter is a place people go for news, it's a natural evolution for Twitter. I have a <a href=\"http://scripting.com/2018/07/13/175214.html\">roadmap</a> for how to do this.",
+                            "created": "Sun, 22 Jul 2018 15:54:19 GMT"
+                        },
+                        {
+                            "text": "Make a commitment to developers and make it irreversible. What exactly this means is subject to negotiation. But no one company can do what a medium does. As great a company as Twitter might be, its not something companies were meant to do, imho.",
+                            "created": "Sun, 22 Jul 2018 15:54:21 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "Bonus: A new rule. For every original tweet you write you have to RT someone else's.",
+                    "created": "Sun, 22 Jul 2018 16:06:10 GMT"
+                }
+            ]
+        }
+    ]
+}
