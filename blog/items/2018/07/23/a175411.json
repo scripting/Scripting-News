@@ -1,0 +1,5 @@
+{
+    "text": "<a href=\"http://scripting.com/2018/07/22.html\">Yesterday</a> I wrote that Frontier does not have hoisting. This is incorrect. It does. I found it in the docs written in <a href=\"http://scripting.com/frontier/manual/chapter07.html\">1996</a> and <a href=\"http://scripting.com/opmlHowto/dave/editorOpmlOrg/helpMenu.html#commandsInTheOutlinerMenu\">2008</a>, and tested it with the two built-in verbs, <a href=\"http://docserver.userland.com/op/hoist\">op.hoist ()</a> and <a href=\"http://docserver.userland.com/op/deHoist\">op.dehoist ()</a>. My memory is imperfect. What I should have said is that I didn't use the feature, even though it was there.  ",
+    "created": "Mon, 23 Jul 2018 17:54:11 GMT",
+    "type": "outline"
+}
