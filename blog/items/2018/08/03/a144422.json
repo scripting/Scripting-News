@@ -1,0 +1,54 @@
+{
+    "text": "Little Outliner v1.8.0 testing",
+    "created": "Fri, 03 Aug 2018 14:44:22 GMT",
+    "type": "outline",
+    "description": "The big new features are hoisting and the crumb trail. ",
+    "subs": [
+        {
+            "text": "Good morning. The <a href=\"http://littleoutliner.com/testing/1.8.0/\">new version</a> of LO2 is ready for testing.  ",
+            "created": "Fri, 03 Aug 2018 14:44:32 GMT"
+        },
+        {
+            "text": "I've completed most of the features planned for this release, so it's a good time for people who'd like to help to start using the new version. I've made a backup of all the outlines, in case there are any data-losing bugs in the software. I don't think there are, because I've used it myself fairly thoroughly, and there aren't many changes to the core outliner in this release. ",
+            "created": "Fri, 03 Aug 2018 14:44:45 GMT"
+        },
+        {
+            "text": "If you encounter any problems or have questions, please post an item in <a href=\"https://github.com/scripting/Scripting-News/issues/91\">this thread</a> on the Scripting News repo. ",
+            "created": "Fri, 03 Aug 2018 14:46:25 GMT"
+        },
+        {
+            "text": "Here's a quick list of the new stuff.",
+            "created": "Fri, 03 Aug 2018 14:46:44 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "Hoisting. There are two new commands in the Outliner menu, Hoist and Dehoist, and two icons in the sidebar, the two pushpins. The commands and pushpins are enabled when the operations are possible. For example, you can only hoist if a headline has subs. You can only dehoist if something is hoisted. You can nest hoists. As far as I know there is no limit to the number of levels. ",
+                    "created": "Fri, 03 Aug 2018 14:47:02 GMT"
+                },
+                {
+                    "text": "The crumbtrail. At the top of the outline display is the crumb trail that leads back to the summit from the location of the bar cursor. You can click on any of the links to move the cursor back to that spot. The navigation undoes hoists if necessary. It's a good way to keep track of your context while you're focusing on a specific part of your outline.",
+                    "created": "Fri, 03 Aug 2018 14:47:50 GMT"
+                },
+                {
+                    "text": "The SAVED/NOT SAVED indicator. LO2 automatically saves your work. You can keep track of that by watching this indicator, just above the tabs, in the right margin. You may find it reassuring to know that your work is saved. <a href=\"https://www.youtube.com/watch?v=qgsMANmu9qo&feature=youtu.be\">Demo</a>.",
+                    "created": "Fri, 03 Aug 2018 14:48:54 GMT"
+                },
+                {
+                    "text": "Integrated thesaurus. To start navigating the thesaurus, enter a word in a headline, click the suitcase icon and add a <i>type</i> attribute with the value word. Expand it the headline, and synonyms for the word, if any can be found, will fill in as subheads. Then you can expand any of its subheads to find synonyms. It is the basic functionality of the <a href=\"http://thesaurus.land/\">thesaurus.land</a> application, integrated in LO2.",
+                    "created": "Fri, 03 Aug 2018 14:50:32 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Known problems",
+            "created": "Fri, 03 Aug 2018 14:52:36 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "There are problems with hoisting in readonly outlines. ",
+                    "created": "Fri, 03 Aug 2018 14:52:39 GMT"
+                }
+            ]
+        }
+    ]
+}
