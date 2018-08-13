@@ -1,0 +1,32 @@
+{
+    "text": "Silos vs decentralized networks",
+    "created": "Mon, 13 Aug 2018 01:05:36 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "As I wrote in this <a href=\"https://twitter.com/davewiner/status/1028630757856751616\">tweet</a>, Johannes Ernst is smart and brave. He <a href=\"https://upon2020.com/blog/2018/08/why-decentralized-social-networking-never-makes-it-ever-heard-of-crossing-the-chasm/\">says</a> decentralized networks never make it, and there are reasons for this. I agree, in a way, but ultimately think his theory is wrong. Because <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+decentralized&t=hi&ia=web\">decentralized</a> networks have blossomed and survived, and imho will still be operating when the silos are gone. ",
+            "created": "Mon, 13 Aug 2018 01:05:45 GMT"
+        },
+        {
+            "text": "Consider the case of RSS vs Twitter. When Twitter came along it grew fast, it overtook RSS. It didn't do away with RSS, because it's still here co-existing with Twitter. It still has advantages over Twitter. Richer data. Extensibility. Podcasting. Titles. Styling. Multiple links per item. No character limit. If RSS has so much going for it, why did Twitter surpass it? Not for any of the reasons Johannes cites. Imho it was because subscribing was done with a single click. That could have been done with RSS too, in fact we had it working in our own RSS network at UserLand, we called it the <a href=\"http://radio.userland.com/userGuide/reference/macros/xmlCoffeeMug\">coffee mug</a>. One click to subscribe. it could have become a universal one-click subscribe, if our competitors were willing to go along with UserLand's leadership, but they weren't. One  click to subscribe was an important survival trait in the Darwinian ecosystem of online social nets. Twitter had it, RSS didn't.",
+            "created": "Mon, 13 Aug 2018 01:08:31 GMT",
+            "image": "http://scripting.com/2018/08/12/fatLady.png"
+        },
+        {
+            "text": "Johannes mentions two other features: trending topics and search. I guess he's right about trending topics, but the feature has no value for me, it's there on the Twitter screen, but I never look at it. For search, it's been proven that search works well on distributed networks. Google is a good example. There's no reason an equivalent search function couldn't be created for blogs or feeds, in fact last week I wrote a <a href=\"http://scripting.com/2018/08/09/141354.html\">post</a> about features that would make search much better for distributed systems. All are technologically possible and none are implemented on Twitter.",
+            "created": "Mon, 13 Aug 2018 01:11:48 GMT"
+        },
+        {
+            "text": "There will come a time when Twitter shuts down. But it's hard to imagine that day coming for the network of RSS feeds. It's been wishful thinking for TechCrunch and the VCs and BigCos they serve, a kind of wet dream that open systems will bend to the will of tech titans, that vast wealth is what makes the nets work, but it hasn't happened, even though they've been reporting its demise for a decade now. Really it has been that long! You can even <a href=\"https://www.google.com/reader/about/\">shut down</a> the beating heart of the RSS network, and it routes around the damage, quickly.  (A corollary to <a href=\"https://en.wikiquote.org/wiki/John_Gilmore\">Gilmore's Law</a>, perhaps.)",
+            "created": "Mon, 13 Aug 2018 01:14:05 GMT"
+        },
+        {
+            "text": "I'm not sure why Mastodon didn't use RSS, I think they should have. Then the power of the two open distirbuted nets would combine, there would be more interfaces, greater know-how among developers, and more choice for users. I have to dig into it. I think Johannes' theory depends on using Mastodon as the counter-example to Twitter, because while Mastodon is strong and growing, it hasn't withstood the <a href=\"http://scripting.com/2017/03/30/rssOnTheDesktop15YearsLater.html\">challenges</a> that RSS has. I suspect it will. And I also suspect it will still be running when Twitter is gone. ",
+            "created": "Mon, 13 Aug 2018 01:15:50 GMT"
+        },
+        {
+            "text": "I really appreciate his post, no sarcasm. It's great when we step outside the silos and use our own disparate tools to discourse about things that matter.  ",
+            "created": "Mon, 13 Aug 2018 01:17:31 GMT"
+        }
+    ]
+}
