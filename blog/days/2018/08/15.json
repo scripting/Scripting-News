@@ -1,0 +1,75 @@
+{
+    "text": "August 15",
+    "created": "Wed, 15 Aug 2018 14:10:03 GMT",
+    "name": "15",
+    "subs": [
+        {
+            "text": "I have a Brainy Quotes <a href=\"https://www.brainyquote.com/authors/dave_winer\">page</a>, for what it's worth. ",
+            "created": "Wed, 15 Aug 2018 21:41:32 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "If you want to read feeds of any kind in a Node app, my <a href=\"https://github.com/scripting/feedread\">feedRead package</a> is the easiest way to get something up and running super quick. Simple example code for reading a feed over <a href=\"https://github.com/scripting/feedRead/blob/master/examples/readurl/read.js\">the web</a> or from a <a href=\"https://github.com/scripting/feedRead/blob/master/examples/readfile/read.js\">local file</a>. I <a href=\"https://github.com/scripting/reader/blob/master/davereader.js\">use</a> it in \"River5\" so it's been extensively burned in <a href=\"http://river5.scripting.com/\">with</a> all manner of feeds. ",
+            "created": "Wed, 15 Aug 2018 19:02:16 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/07/01/loveRss.png"
+        },
+        {
+            "text": "Yesterday I <a href=\"http://scripting.com/2018/08/14.html#a194320\">asked</a> <a href=\"https://twitter.com/davewiner/status/1029453411262054400\">about</a> bike-mounted speakers, and got lots of great advice. For some reason a <a href=\"https://www.amazon.com/s?url=search-alias%3Daps&field-keywords=bike+speaker\">search</a> on Amazon yielded nothing but crap, but if you know what you're looking for you get some pretty nice stuff. Rex Hammock recommended <a href=\"https://www.amazon.com/JBL-Waterproof-Portable-Bluetooth-Black/dp/B01MSYQWNY\">JBL Flip</a>. And Jason Gilman recommended <a href=\"https://www.amazon.com/dp/B01MXDNA2O/ref=cm_sw_r_cp_ep_dp_-L1CBbV67GDBM\">Clearon</a>. Roland Tanglao <a href=\"https://twitter.com/rtanglao/status/1029534796957933568\">said</a> he loves his <a href=\"https://www.amazon.com/Ultimate-Ears-Wireless-Bluetooth-Waterproof/dp/B01FFV59PY\">UE Roll 2</a>, and I have one of those, but it didn't occur to me it could be bike-mounted. The bungee that's built in works fine on a bike, and I took it for a spin just now and it's perfect. Great sound. Totally loud enough to be heard over NYC street noise, with great frequency range and thumpin base to keep the wheels turning. A really great answer. Davey's a happy cyclist. Thanks everyone for the great advice. I want to try all of these speakers. ",
+            "created": "Wed, 15 Aug 2018 19:13:53 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "100 pointless editorials",
+            "created": "Wed, 15 Aug 2018 15:09:02 GMT",
+            "type": "outline",
+            "description": "Hopefully on Friday morning, in the non-existent afterglow of the pointless editorial demonstration, they will start looking outside their cocoon for answers. ",
+            "subs": [
+                {
+                    "text": "I don't see what good <a href=\"http://www.gctelegram.com/opinion/20180814/some-newspapers-are-buying-into-ill-conceived-protest\">100 editorials</a> tomorrow will do. The problem journalism has is that it is at war with a formidable adversary, the head of the US government. It's time to consult with people who have studied war. I suspect they will say that 100 editorials wouldn't have had much impact on Japan or Germany at the beginning of World War II. We never would have thought to respond to the 9/11 attacks with 100 stinging editorials. When attacked in an outright and clear act of war, aim at the power of the enemy, analyze and develop our own power, and fight back, to win.",
+                    "created": "Wed, 15 Aug 2018 15:13:06 GMT",
+                    "image": "http://scripting.com/images/2018/08/15/paratrooper.png"
+                },
+                {
+                    "text": "In this case, the enemy is very powerful. His greatest power is that he didn't demobilize his supporters when he took office as every other presidential incumbent has. It's smart. I pleaded with Obama to do exactly that when he took office in 2009. The web was ready to take Obama's message of intellectual and just government all around the world. Instead he stuck to norms. And ran head-on into a Republican blockade. Nothing could get him out of the Rose Garden and back on the campaign trail. ",
+                    "created": "Wed, 15 Aug 2018 15:15:17 GMT"
+                },
+                {
+                    "text": "Let this be a lesson from now on: Presidents must stay on the campaign trail at all times. The power of the presidency is to rally the people, and when done best it's a unifying campaign, not a divisive one, like the one Trump persists.",
+                    "created": "Wed, 15 Aug 2018 15:16:25 GMT"
+                },
+                {
+                    "text": "And that, imho is exactly what journalism must do. ",
+                    "created": "Wed, 15 Aug 2018 15:35:27 GMT"
+                },
+                {
+                    "text": "Journalism has to break the biggest norm it has. Break the wall that separates it from their supposed audience, which is <i>rapidly</i> dissipating. They've lost the ones that follow Trump. The rest of us are losing patience. Hopefully on Friday morning, in the non-existent afterglow of the pointless editorial demonstration, they will start looking outside their cocoon for answers. ",
+                    "created": "Wed, 15 Aug 2018 15:15:59 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Berkman weblogs, followup",
+            "created": "Wed, 15 Aug 2018 14:10:04 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "A followup to my post <a href=\"http://scripting.com/2018/08/10.html#a121444\">last Friday</a>. I had just heard about something happening with the blogs we hosted in <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+berkman+weblogs&t=hi&ia=web\">2003</a> and beyond at <a href=\"http://blogs.harvard.edu/\">blogs.harvard.edu</a>. I'm still not clear on what happened. I would like to know, and to see if there's anything we can do to keep the archived content available at the same address it has been at all along. ",
+                    "created": "Wed, 15 Aug 2018 14:10:09 GMT"
+                },
+                {
+                    "text": "I got a <a href=\"https://twitter.com/zittrain/status/1027936755796860928\">response</a> to one of my tweets from Jonathan Zittrain, a former colleague at <a href=\"http://cyber.harvard.edu/\">Berkman</a>, who is still there. He pointed me to the <a href=\"https://blogs.harvard.edu/blog/2018/07/13/upcoming-changes/\">FAQ</a> they posted. Not much information there about what was about to happen, or has happened since. At the very least we should know what remains, what is gone, and what is the plan for the future. And perhaps we, outside of Harvard, can help in some way. We have some experience with these issues. ",
+                    "created": "Wed, 15 Aug 2018 14:11:21 GMT"
+                },
+                {
+                    "text": "I think a great university like <a href=\"https://en.wikipedia.org/wiki/Harvard_University\">Harvard</a> that places a high value on learning, history, tradition, and played a big role in fostering the development of social media, both as the home of <a href=\"https://en.wikipedia.org/wiki/Mark_Zuckerberg#College_years\">Mark Zuckerberg</a> in the early Facebook days, and <i>at the very same time</i> to the nascent blogging and podcasting community, should take an active interest not only in preserving the record, but in helping to set standards for how the web can continue long-term, even in the age of silos and corporate ownership. We, collectively, have a responsibility imho to do this well. ",
+                    "created": "Wed, 15 Aug 2018 14:12:34 GMT"
+                },
+                {
+                    "text": "PS: Imho this is a project that should interest <a href=\"https://library.harvard.edu/\">librarians</a> at Harvard and elsewhere. There are a lot of great libraries there.",
+                    "created": "Wed, 15 Aug 2018 14:28:27 GMT"
+                }
+            ]
+        }
+    ]
+}
