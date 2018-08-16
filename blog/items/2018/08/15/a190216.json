@@ -1,0 +1,6 @@
+{
+    "text": "If you want to read feeds of any kind in a Node app, my <a href=\"https://github.com/scripting/feedread\">feedRead package</a> is the easiest way to get something up and running super quick. Simple example code for reading a feed over <a href=\"https://github.com/scripting/feedRead/blob/master/examples/readurl/read.js\">the web</a> or from a <a href=\"https://github.com/scripting/feedRead/blob/master/examples/readfile/read.js\">local file</a>. I <a href=\"https://github.com/scripting/reader/blob/master/davereader.js\">use</a> it in \"River5\" so it's been extensively burned in <a href=\"http://river5.scripting.com/\">with</a> all manner of feeds. ",
+    "created": "Wed, 15 Aug 2018 19:02:16 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2018/07/01/loveRss.png"
+}
