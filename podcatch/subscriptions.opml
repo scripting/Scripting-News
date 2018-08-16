@@ -3,7 +3,7 @@
 	<head>
 		<title>My Podcast Feeds</title>
 		<dateCreated>Mon, 06 Apr 2015 16:19:35 GMT</dateCreated>
-		<dateModified>Sat, 28 Jul 2018 13:22:22 GMT</dateModified>
+		<dateModified>Wed, 15 Aug 2018 23:50:39 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="99% Invisible" title="99% Invisible" type="rss" xmlUrl="http://feeds.99percentinvisible.org/99percentinvisible" />
@@ -109,6 +109,7 @@
 		<outline text="The Moment with Brian Koppelman" title="The Moment with Brian Koppelman" type="rss" xmlUrl="http://feeds.feedburner.com/the-moment" />
 		<outline text="The Moth Podcast" title="The Moth Podcast" type="rss" xmlUrl="http://feeds.themoth.org/themothpodcast" />
 		<outline text="The Talk Show With John Gruber" title="The Talk Show With John Gruber" type="rss" xmlUrl="http://daringfireball.net/thetalkshow/rss" />
+		<outline text="The Way I Heard It" title="The Way I Heard It" type="rss" xmlUrl="http://thewayiheardit.rsvmedia.com/rss/" />
 		<outline text="This American Life" title="This American Life" type="rss" xmlUrl="http://feeds.thisamericanlife.org/talpodcast" />
 		<outline text="This is Criminal" title="This is Criminal" type="rss" xmlUrl="http://thisiscriminal.com/feed/" />
 		<outline text="This Week in Startups" title="This Week in Startups" type="rss" xmlUrl="http://feeds.feedburner.com/twist-audio" />
