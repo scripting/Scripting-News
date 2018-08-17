@@ -1,0 +1,49 @@
+{
+    "text": "August 16",
+    "created": "Thu, 16 Aug 2018 13:20:54 GMT",
+    "name": "16",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1030143516045918208\">Poll</a>: Is Manafort guilty or not guilty?",
+            "created": "Thu, 16 Aug 2018 19:41:00 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1030143516045918208"
+        },
+        {
+            "text": "One of the great things about having archives that go back to the dawn of time is you re-discover gems like this <a href=\"https://www.youtube.com/watch?v=qf81H4v4ByM\">Apple vs PC ad</a> from <a href=\"http://scripting.com/2009/06/02.html\">2009</a>.",
+            "created": "Thu, 16 Aug 2018 17:28:24 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=qf81H4v4ByM"
+        },
+        {
+            "text": "<a href=\"http://scripting.com/davenet/1996/01/08/gottabearetha.html\">My plan for Apple in 1996</a>. It wasn't that far from the plan that Jobs implemented when he came back to Apple in 1997. I describe the iMac, very clearly. The major difference is that I wanted to invest in developers. Jobs pretty much did the opposite. ",
+            "created": "Thu, 16 Aug 2018 14:52:15 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Automattic and speech",
+            "created": "Thu, 16 Aug 2018 13:20:55 GMT",
+            "type": "outline",
+            "description": "What if it was decided that any site that didn't show proper reverence for Dear Leader Chairman Trump should be denied access to the public square? ",
+            "subs": [
+                {
+                    "text": "<i>Update: After writing this piece, I got a correction via Twitter DM from Automattic founder and CEO Matt Mullenweg: \"Automattic doesn't host Alex Jones and I don't think ever has.\" I probably didn't read the <a href=\"https://www.nytimes.com/2018/08/13/business/media/sandy-hook-conspiracies-leonard-pozner.html\">NYT piece</a> carefully enough, and came to the incorrect conclusion about the sites in question. However the gist of this piece remains valid. There is a higher level question to answer, where if anywhere is there a line that protects speech on the net, or does every service vendor have a say in what their platform is used for, or are some required to be neutral?</i>",
+                    "created": "Thu, 16 Aug 2018 17:07:07 GMT"
+                },
+                {
+                    "text": "We're having an ill-defined debate over when silos have to yield to public pressure and deny access to members who are deemed undesirable by a vocal group of objectors. There's no process. People have pointed out that as private companies they are free to do as they please. I'm not entirely sure that's true, especially when combined they control virtually all the speech on the net. While that might not be a violation of the First Amendment, it could easily be a violation of antitrust laws. Having run a couple of companies I know how often companies come up against those laws, even small companies, far from having a controlling stake in a large market.  ",
+                    "created": "Thu, 16 Aug 2018 13:23:39 GMT",
+                    "image": "http://scripting.com/images/2018/08/16/theTruthCanBeAdjusted.png"
+                },
+                {
+                    "text": "Alex Jones is the first major test of this new system of speech governance. He has been banned by Facebook, YouTube, and put on a timeout by Twitter. Now the question has been raised whether Automattic, the operators of <a href=\"https://wordpress.com/\">Wordpress.com</a> should be pressured to force the Jones site off their platform. A major <a href=\"https://www.nytimes.com/2018/08/13/business/media/sandy-hook-conspiracies-leonard-pozner.html\">article</a> in Monday's NY Times raises that question, and my friend Davis Shaver <a href=\"https://davisshaver.com/2018/08/16/automattic-needs-to-rebalance-its-hate-speech-free-speech-protections-as-soon-as-possible/\">opines</a>. But there's a problem in this analysis because Wordpress.com isn't like the others, it isn't a silo, so banning him from that service will not necessarily have any affect on the presence of his site. He will be able to export his site, set up his own server, point the DNS entry at that server, and proceed on the open web and it will appear to outside viewers as if nothing happened. This will be the end of the discussion, unless the anti-speech advocates try to exert pressure on the open web. There they will find there is no CEO, no corporate headquarters, no shareholders afraid of losing value, none of the usual pressure points. If the web maintains its integrity, Alex Jones will be able to spread his vile <a href=\"https://sandyhookstalkers.wordpress.com/\">hateful</a> and possibly libelous <a href=\"https://sandyhooked.wordpress.com/\">ideas</a> without further accosting. I for one am rooting for the open web, and in this way rooting for Mr. Jones. ",
+                    "created": "Thu, 16 Aug 2018 13:23:44 GMT"
+                },
+                {
+                    "text": "People should take two steps back from this debate and think. Where exactly is the line? What if a vocal minority of Internet users decided the ACLU shouldn't have a place to opine its hateful and disloyal fake news? What if it was decided that any site that didn't show proper reverence for Dear Leader Chairman Trump should be denied access to the public square? There must be a line in here somewhere. I ask the thinkers to consider, where exactly is that line? Alex Jones is on the wrong side, but who is on the right side, whose speech do we want to protect? Or is there a line at all? Perhaps dissent a quaint old idea of the past?",
+                    "created": "Thu, 16 Aug 2018 13:29:19 GMT"
+                }
+            ]
+        }
+    ]
+}
