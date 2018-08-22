@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <opml version="2.0">
 	<head>
-		<title>Untitled-3</title>
+		<title>Glossary</title>
 		<dateCreated>Tue, 13 Jun 2017 13:42:31 GMT</dateCreated>
-		<dateModified>Tue, 21 Aug 2018 16:12:04 GMT</dateModified>
+		<dateModified>Wed, 22 Aug 2018 20:38:12 GMT</dateModified>
 		<ownerName>scripting.com</ownerName>
 		<ownerId>https://twitter.com/davewiner/</ownerId>
 		<expansionState>3,5,8,12,16,22,24,29,46,55,73,76,86</expansionState>
@@ -19,6 +19,8 @@
 		<urlJson>http://electricserver.scripting.com/users/davewiner/electric/glossary.json</urlJson>
 		<urInstant>http://instantoutliner.com/63</urInstant>
 		<urlUpdateSocket>ws://electricserver.scripting.com:5383/</urlUpdateSocket>
+		<longTitle>Dave Winer's glossary for Scripting News</longTitle>
+		<description>The top level items are terms, the second-level items are the value of the term. As text is rendered, it's run through this list, and substitutions made. </description>
 		</head>
 	<body>
 		<outline text="&quot;1999.io&quot;" created="Tue, 13 Jun 2017 16:16:46 GMT">
