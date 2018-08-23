@@ -1,0 +1,6 @@
+{
+    "text": "Today I learned that calls to <a href=\"https://www.npmjs.com/package/davegithub\">davegithub</a> are not re-entrant, meaning you have to wait till call N completes before starting call N+1. ",
+    "created": "Wed, 22 Aug 2018 17:14:13 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2017/07/25/brienneOfTarthActionFigure.png"
+}
