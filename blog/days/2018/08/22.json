@@ -1,0 +1,115 @@
+{
+    "text": "August 22",
+    "created": "Wed, 22 Aug 2018 14:07:04 GMT",
+    "name": "22",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1032428816797454337\">Poll</a>: Do you think Mueller has Trump's tax returns?",
+            "created": "Thu, 23 Aug 2018 00:46:35 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1032428816797454337"
+        },
+        {
+            "text": "I've always thought the home page of the NYT should be a simple reverse chronologic <a href=\"http://nyt.newsriver.org/\">list of stories</a>. Like the teletype of days gone by. It's how I like to get my news. The newest stuff first.",
+            "created": "Wed, 22 Aug 2018 22:04:44 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/08/22/nastyDog.png"
+        },
+        {
+            "text": "Here's a <a href=\"https://github.com/scripting/oldSchoolNightly/blob/master/oldschoolnightly.js\">Node app</a> that backs up a bunch of files from my blog onto a GitHub repository every night. So in case my servers ever go offline, there's another copy of the content, kept current automatically, on GitHub. It's good starter code for your own backup app. I rewrote it in the last couple of days to also back up the <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/misc/glossary.opml\">glossary</a> and a few <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/rss.xml\">other</a> <a href=\"https://github.com/scripting/Scripting-News/blob/master/podcatch/subscriptions.opml\">files</a> that were being copied by another process running in Frontier. ",
+            "created": "Wed, 22 Aug 2018 20:33:22 GMT"
+        },
+        {
+            "text": "John Dvorak <a href=\"https://www.youtube.com/watch?v=NMQv0j29WHA\">shares</a> the secret of successful trolling of Mac zealots.",
+            "created": "Wed, 22 Aug 2018 20:46:06 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=NMQv0j29WHA"
+        },
+        {
+            "text": "<a href=\"https://www.insidehighered.com/news/2018/08/20/end-era-old-harvard-blogging-site\">Inside Higher Ed</a> has a story about the <a href=\"http://scripting.com/2018/08/15/141004.html\">Berkman blogs</a>. They raise the right issues. Can't we do better than just throwing away archives, esp from a project that yielded such good results. I'm also not sure what Berkman meant about the blogs being antiquated. They seem to be saying people would be better off writing on Facebook or Twitter. Blogs have significant advantages over writing for social networks. There are tradeoffs. Perhaps the server software hasn't been updated. That could be a problem. We can help with the decisions Harvard is making. But there has to be communication first.",
+            "created": "Wed, 22 Aug 2018 19:42:59 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Today I learned that calls to <a href=\"https://www.npmjs.com/package/davegithub\">davegithub</a> are not re-entrant, meaning you have to wait till call N completes before starting call N+1. ",
+            "created": "Wed, 22 Aug 2018 17:14:13 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/07/25/brienneOfTarthActionFigure.png"
+        },
+        {
+            "text": "Just got <a href=\"http://scripting.com/images/2018/08/22/anotherGoogleEmailWarning.png\">this email</a> from Google saying that some pages of mine are violating their Adsense policy. As far as I can recall, I don't have Google ads on any of my pages. Maybe at one time I tried it out on the XML-RPC site, but I don't think they're there anymore. Whatever. I tried to find a listing somewhere of the errors, and their site doesn't make it easy to find, if it's there at all. ",
+            "created": "Wed, 22 Aug 2018 17:24:40 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Emptying a folder with over 5 million items, it's already taken an hour, I get <a href=\"http://scripting.com/images/2018/08/22/dialog.png\">dialogs</a> like this at random times. The current Mac OS is 25-plus years old. It took 10 minutes to preflight the deletion, couldn't all the confirmations be up front, so it can do this operation unattended?",
+            "created": "Wed, 22 Aug 2018 16:45:56 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "On the Mac we had a phonebook size doc called <a href=\"https://en.wikipedia.org/wiki/Inside_Macintosh\">Inside Macintosh</a>. It was divided into toolkits, which were analogous to <a href=\"https://docs.npmjs.com/getting-started/packages\">packages</a>. At the beginning of each chapter was the theory, tightly written and edited. You might have to read a couple of times before grokking. Then all the calls you could make against the objects. As a result devs not only understood how to program the platform, but also understood the theory. I realize now that we are missing the equivalent doc for the web. Of course it wouldn't be printed. As a result you fumble around in the dark on a lot of stuff, not really understanding why things are the way they are, what the designers were thinking, and then years later it dawns on you. It's not too late imho to fill in this missing piece. ",
+            "created": "Wed, 22 Aug 2018 15:38:47 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Thinking about where I am in re a <a href=\"http://scripting.com/2018/08/21.html#a144138\">Linux version</a> of Frontier. I just realized that my collection of <a href=\"https://github.com/scripting?tab=repositories\">GitHub projects</a> amount to the built-in verb set of Frontier. There are big missing pieces, and they aren't tied together in an object database, but the functionality is there. I am often reminded of this, when writing a utility script that would take minutes in Frontier, and I'm already on Day Two in JavaScript.  For example, here's the <a href=\"https://github.com/scripting/utils/blob/master/daveutils.js\">JS code</a> for the <a href=\"https://www.npmjs.com/package/daveutils\">daveutils</a> package. I even use the same names as in Frontier, but without the Frontier syntax. ",
+            "created": "Wed, 22 Aug 2018 14:07:05 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/2016/01/30/strongman.png"
+        },
+        {
+            "text": "We, who accuse the Repubs of cowardice, are just as scared as they are. Or we'd start striking, with picket lines. Shut the economy down until Trump leaves. It may ultimately come to that, but who knows, by then it might be too late. It's not too late now.",
+            "created": "Wed, 22 Aug 2018 15:24:20 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Trolls die in darkness",
+            "created": "Wed, 22 Aug 2018 15:11:34 GMT",
+            "type": "outline",
+            "description": "I am fed up with supposed members of The Resistance who RT the troll. You are every bit as bad as Fox News.",
+            "subs": [
+                {
+                    "text": "I've completely had it with people who RT the troller-in-chief.",
+                    "created": "Wed, 22 Aug 2018 15:11:46 GMT",
+                    "image": "http://static.scripting.com/larryKing/images/2013/12/08/indianaJones.gif"
+                },
+                {
+                    "text": "I have zero tolerance for Trump RTers.",
+                    "created": "Wed, 22 Aug 2018 15:12:24 GMT"
+                },
+                {
+                    "text": "When you RT him you shine the light on him.",
+                    "created": "Wed, 22 Aug 2018 15:12:45 GMT"
+                },
+                {
+                    "text": "It makes no difference to the troll whether you like or dislike.",
+                    "created": "Wed, 22 Aug 2018 15:12:52 GMT"
+                },
+                {
+                    "text": "You're feeding the troll either way.",
+                    "created": "Wed, 22 Aug 2018 15:13:03 GMT"
+                },
+                {
+                    "text": "I am fed up with supposed members of The Resistance who RT the troll. You are every bit as bad as Fox News. If people stopped RTing him now, he'd lose his power. You can help by shaming people who RT him, no matter what their stated intention. I'm going a step further and <a href=\"https://twitter.com/davewiner/status/1032293670161211393\">namechecking</a> them as I unfollow. Help bring notoriety to the troll-feeders. ",
+                    "created": "Wed, 22 Aug 2018 15:13:08 GMT"
+                },
+                {
+                    "text": "For more info see my <a href=\"http://this.how/trolls/\">FAQ on trolling</a>. ",
+                    "created": "Wed, 22 Aug 2018 15:14:29 GMT"
+                },
+                {
+                    "text": "Trolls are light-powered. Trolls die in darkness. ",
+                    "created": "Wed, 22 Aug 2018 15:12:01 GMT"
+                },
+                {
+                    "text": "Trolls die in darkness. And that's a good thing. ",
+                    "created": "Wed, 22 Aug 2018 15:14:51 GMT"
+                },
+                {
+                    "text": "PS: With apologies to the <a href=\"https://www.washingtonpost.com/lifestyle/style/the-washington-posts-new-slogan-turns-out-to-be-an-old-saying/2017/02/23/cb199cda-fa02-11e6-be05-1a3817ac21a5_story.html\">Washington Post</a>.",
+                    "created": "Wed, 22 Aug 2018 15:14:39 GMT"
+                }
+            ]
+        }
+    ]
+}
