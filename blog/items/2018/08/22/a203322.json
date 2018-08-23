@@ -1,0 +1,4 @@
+{
+    "text": "Here's a <a href=\"https://github.com/scripting/oldSchoolNightly/blob/master/oldschoolnightly.js\">Node app</a> that backs up a bunch of files from my blog onto a GitHub repository every night. So in case my servers ever go offline, there's another copy of the content, kept current automatically, on GitHub. It's good starter code for your own backup app. I rewrote it in the last couple of days to also back up the <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/misc/glossary.opml\">glossary</a> and a few <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/rss.xml\">other</a> <a href=\"https://github.com/scripting/Scripting-News/blob/master/podcatch/subscriptions.opml\">files</a> that were being copied by another process running in Frontier. ",
+    "created": "Wed, 22 Aug 2018 20:33:22 GMT"
+}
