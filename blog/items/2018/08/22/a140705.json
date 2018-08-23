@@ -1,0 +1,6 @@
+{
+    "text": "Thinking about where I am in re a <a href=\"http://scripting.com/2018/08/21.html#a144138\">Linux version</a> of Frontier. I just realized that my collection of <a href=\"https://github.com/scripting?tab=repositories\">GitHub projects</a> amount to the built-in verb set of Frontier. There are big missing pieces, and they aren't tied together in an object database, but the functionality is there. I am often reminded of this, when writing a utility script that would take minutes in Frontier, and I'm already on Day Two in JavaScript.  For example, here's the <a href=\"https://github.com/scripting/utils/blob/master/daveutils.js\">JS code</a> for the <a href=\"https://www.npmjs.com/package/daveutils\">daveutils</a> package. I even use the same names as in Frontier, but without the Frontier syntax. ",
+    "created": "Wed, 22 Aug 2018 14:07:05 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/2016/01/30/strongman.png"
+}
