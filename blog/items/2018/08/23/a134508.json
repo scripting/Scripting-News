@@ -1,0 +1,6 @@
+{
+    "text": "The last couple of days I did a bunch of farting around with programmatic access to GitHub via <a href=\"https://github.com/scripting/oldSchoolNightly/blob/master/oldschoolnightly.js\">Node app</a>. I came across a <a href=\"https://github.com/scripting/Scripting-News/blob/master/READMEx.md\">readme</a> that said it was done with the <a href=\"http://this.how/english/\">English editor</a>, a project I vaguely remembered. I did a little digging and found the software and the <a href=\"https://github.com/scripting/Scripting-News/issues/48\">thread</a> I wrote documenting the work. The idea is to use GitHub as a blogging database. So what I did was get an instance of <a href=\"https://github.com/yabwe/medium-editor\">Medium-Editor</a> to edit stuff on GitHub. Couple that with <a href=\"https://www.npmjs.com/package/githubpub\">GitHubPub</a> that maps subdomains on locations within GitHub repos, and you've got a nice dynamic blogging system with almost $0 hosting costs. Oh if only I had the time to chase down all these <a href=\"https://en.wikipedia.org/wiki/Down_the_Rabbit_Hole\">rabbit holes</a>. 🐇",
+    "created": "Thu, 23 Aug 2018 13:45:08 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2018/08/23/whiteRabbit.png"
+}
