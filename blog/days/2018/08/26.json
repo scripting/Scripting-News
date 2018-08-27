@@ -1,0 +1,83 @@
+{
+    "text": "August 26",
+    "created": "Sun, 26 Aug 2018 16:07:41 GMT",
+    "name": "26",
+    "subs": [
+        {
+            "text": "The OPML Editor is my fork of the Frontier code base, started in 2004. It runs on today's Macs. In the flurry of activity in April, I broke the Mac part of the <a href=\"http://home.opml.org/#1506805469000\">download page</a>. I have now fixed it. :boom:",
+            "created": "Sun, 26 Aug 2018 16:28:51 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "The best reason to vote Democratic: Real <a href=\"https://www.axios.com/2018-midterm-elections-republicans-preparation-investigations-180abf7b-0de8-4670-ae8a-2e6da123c584.html\">oversight</a> of Trump.",
+            "created": "Mon, 27 Aug 2018 00:50:29 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I've decided to get involved on Instagram. My name is <a href=\"https://www.instagram.com/davew/\">davew</a> there. It's weird they don't let you post pictures from the desktop web browser. You have to go into the JS debugger and tell it to emulate a phone browser. Then you can upload an image.",
+            "created": "Mon, 27 Aug 2018 01:17:08 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I'm also going to start using <a href=\"https://mastodon.social/about\">Mastodon</a>. I see they call their posts toots. I'm sorry but that makes me think of farts. If they'd have asked me I'd have said to call them grunts or snorts. After all I can't imagine a <a href=\"https://en.wikipedia.org/wiki/Mastodon\">mastodon</a> tooting. That's the kind of thing a monkey might do. BTW, little known fact, my handle on CompuServe back in the 80s was Mastodon. PS: I absolutely despise dark backgrounds. Hurts my eyes. I can only read dark text on light backgrounds. ",
+            "created": "Mon, 27 Aug 2018 01:17:43 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/08/26/mastodon.png"
+        },
+        {
+            "text": "Ever since Facebook turned off the API, doing something new with \"Little Card Editor\" has been on my todo list. One thing I wanted to be able to do is include a card in my blog, the same way I include a tweet. I thought I'd have to factor out the card renderer in the app, so I could call it from my blog renderer, but there's a much dumber and simpler approach, just include the image of the card as it appears in Twitter. It works. As you can see in <a href=\"http://scripting.com/2018/08/26.html#a160926\">this post</a>. So I am able to do that now. Bingo. ✓",
+            "created": "Sun, 26 Aug 2018 16:09:26 GMT",
+            "type": "outline",
+            "urlexpandableimage": "http://pbs.twimg.com/media/DlidPjaVsAA35y9.jpg:large"
+        },
+        {
+            "text": "Inclusivity",
+            "created": "Sun, 26 Aug 2018 16:15:33 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "What it means to be inclusive",
+                    "created": "Sun, 26 Aug 2018 16:16:07 GMT",
+                    "subs": [
+                        {
+                            "text": "I don’t care how you got to the party. Whether you took the subway, walked, came by spaceship or were driven by your chauffeur. What’s important is you’re here.",
+                            "created": "Sun, 26 Aug 2018 16:15:48 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "Non-inclusive vs inclusive",
+                    "created": "Sun, 26 Aug 2018 16:15:52 GMT",
+                    "subs": [
+                        {
+                            "text": "You can advocate for your cause by pushing away people who you don't identify with, or you can be inclusive, and take support where you get it. Most of the great causes we remember are the inclusive kind. The ones that demonize or ridicule \"others\" tend to result in war.",
+                            "created": "Sun, 26 Aug 2018 16:16:56 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "Two views of America",
+                    "created": "Sun, 26 Aug 2018 16:17:55 GMT",
+                    "subs": [
+                        {
+                            "text": "The Constitution is inclusive. It started out with some huge holes. Over the generations we've been closing them. That's been the clear trend.",
+                            "created": "Sun, 26 Aug 2018 16:17:59 GMT"
+                        },
+                        {
+                            "text": "The Trump movement is non-inclusive. It says there are <i>real</i> Americans, white, rural, Christian, male-dominated. They say these are traditional American values. This isn't new, this thread has been a constant since the beginning. It's the regulator on change happening too fast.",
+                            "created": "Sun, 26 Aug 2018 16:18:35 GMT"
+                        },
+                        {
+                            "text": "One of the reasons the Trump style America is ascendant is that the inclusive America has been moving forward at a rapid pace in the last few generations, post-World War II. Recently, we had an African-American president, the ultimate in other-ness, and we have removed gender from the concept of marriage. That's a lot of change happening very quickly, <i>within ten years. </i>",
+                            "created": "Sun, 26 Aug 2018 16:19:38 GMT"
+                        },
+                        {
+                            "text": "To heal we have to come out the other side with our inclusive principles intact.",
+                            "created": "Sun, 26 Aug 2018 16:21:31 GMT"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
