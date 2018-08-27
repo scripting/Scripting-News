@@ -1,0 +1,6 @@
+{
+    "text": "Ever since Facebook turned off the API, doing something new with \"Little Card Editor\" has been on my todo list. One thing I wanted to be able to do is include a card in my blog, the same way I include a tweet. I thought I'd have to factor out the card renderer in the app, so I could call it from my blog renderer, but there's a much dumber and simpler approach, just include the image of the card as it appears in Twitter. It works. As you can see in <a href=\"http://scripting.com/2018/08/26.html#a160926\">this post</a>. So I am able to do that now. Bingo. ✓",
+    "created": "Sun, 26 Aug 2018 16:09:26 GMT",
+    "type": "outline",
+    "urlexpandableimage": "http://pbs.twimg.com/media/DlidPjaVsAA35y9.jpg:large"
+}
