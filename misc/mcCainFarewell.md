@@ -1,4 +1,4 @@
-**Senator McCain's farewell statement after his passing at age 81**
+## Senator McCain's farewell statement after his passing at age 81
 
 My fellow Americans, whom I have gratefully served for sixty years, and especially my fellow Arizonans,
 
