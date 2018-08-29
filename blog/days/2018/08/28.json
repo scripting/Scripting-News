@@ -1,0 +1,80 @@
+{
+    "text": "August 28",
+    "created": "Tue, 28 Aug 2018 14:15:58 GMT",
+    "name": "28",
+    "subs": [
+        {
+            "text": "What can <i>you</i> do to help? Unfollow people who RT the <a href=\"http://this.how/trolls/\">troll</a>. Trolls feed on flow. Deprive them of flow, they shrivel up and die. People who RT him are undermining our future. Unfollow without a second thought. Eventually they'll get the message that RTing him has a cost.",
+            "created": "Tue, 28 Aug 2018 14:36:56 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "The First Amendment is more than a law",
+            "created": "Tue, 28 Aug 2018 21:17:23 GMT",
+            "type": "outline",
+            "description": "The First Amendment is a basic American value, it's more than a law.",
+            "subs": [
+                {
+                    "text": "There’s a big disconnect about what the First Amendment is. ",
+                    "created": "Tue, 28 Aug 2018 21:17:43 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "As a law it applies to the relationship between the govt and citizens.",
+                            "created": "Tue, 28 Aug 2018 21:18:01 GMT"
+                        },
+                        {
+                            "text": "But it’s more than a law, it represents a basic American  value. We believe that speech is a right and must be protected.",
+                            "created": "Tue, 28 Aug 2018 21:18:15 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "So when in doubt a company should protect the speech of its employees and customers. Not must but should. Esp if it wants us to see it as American.",
+                    "created": "Tue, 28 Aug 2018 21:18:50 GMT"
+                },
+                {
+                    "text": "I should be able to keep my job even if I have opinions that are different from my employer, if it doesn’t affect my ability to do my job.",
+                    "created": "Tue, 28 Aug 2018 21:19:03 GMT"
+                },
+                {
+                    "text": "If you try to get someone fired because you don’t like their opinion, you may be entitled to do that, but you are being intolerant and un-American. You should support everyone’s right to express their ideas. You don’t have to, but you should, if you want to be an American.",
+                    "created": "Tue, 28 Aug 2018 21:19:15 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Puzzling Mac download behavior",
+            "created": "Tue, 28 Aug 2018 14:15:59 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "On the Frontier-User list, Frank Meeuwsen <a href=\"https://groups.google.com/forum/#!topic/frontier-user/i13XoQ6Rq_I\">reports</a> a problem using the <a href=\"http://home.opml.org/#1506805469000\">DMG</a> that installs the OPML Editor.",
+                    "created": "Tue, 28 Aug 2018 14:16:09 GMT",
+                    "subs": [
+                        {
+                            "text": "He downloads the DMG, extracts the OPML folder, runs the app, and gets a dialog asking where the root is. You're not supposed to get this dialog. OPML.app is supposed to look for and automatically open opml.root in the same folder as the app. This isn't happening.",
+                            "created": "Tue, 28 Aug 2018 14:35:57 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "I have been able to reproduce it here. To try to narrow down the problem, I created a virgin OPML folder, zipped it, copied it to another folder, unzipped it, ran the app and it worked as it's supposed to. I then uploaded the zipped file, downloaded it, unzipped as before, ran the app, and got the behavior Frank describes. If you want to try it, you can download the <a href=\"https://www.dropbox.com/s/39lkdbd5cu2kc5e/OPML.zip?dl=1\">zip file</a> from my Dropbox.",
+                    "created": "Tue, 28 Aug 2018 14:17:25 GMT"
+                },
+                {
+                    "text": "I wrote a script to compare the original zip file with the downloaded file. They are identical. Something is happening when the zip file is uncompressed? Not sure. I don't have the ability to look inside the OPML app to see what's tripping it up. This is new behavior. I am having trouble coming up with theories to try. ",
+                    "created": "Tue, 28 Aug 2018 14:19:07 GMT"
+                },
+                {
+                    "text": "I've started a <a href=\"https://github.com/scripting/Scripting-News/issues/93\">thread</a> for this issue. ",
+                    "created": "Tue, 28 Aug 2018 14:20:40 GMT"
+                },
+                {
+                    "text": "Update: Ted Howard <a href=\"https://github.com/tedchoward/Frontier/issues/9\">solved</a> this problem in April. Issue closed. ",
+                    "created": "Tue, 28 Aug 2018 15:54:08 GMT"
+                }
+            ]
+        }
+    ]
+}
