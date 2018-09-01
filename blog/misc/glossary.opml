@@ -3,7 +3,7 @@
 	<head>
 		<title>Glossary</title>
 		<dateCreated>Tue, 13 Jun 2017 13:42:31 GMT</dateCreated>
-		<dateModified>Tue, 28 Aug 2018 02:04:33 GMT</dateModified>
+		<dateModified>Fri, 31 Aug 2018 19:36:27 GMT</dateModified>
 		<ownerName>scripting.com</ownerName>
 		<ownerId>https://twitter.com/davewiner/</ownerId>
 		<expansionState></expansionState>
@@ -13,7 +13,7 @@
 		<windowBottom>831</windowBottom>
 		<windowRight>1472</windowRight>
 		<flPublic>true</flPublic>
-		<lastCursor>26</lastCursor>
+		<lastCursor>6</lastCursor>
 		<ownerTwitterScreenName>davewiner</ownerTwitterScreenName>
 		<urlPublic>http://electricserver.scripting.com/users/davewiner/electric/glossary.opml</urlPublic>
 		<urlJson>http://electricserver.scripting.com/users/davewiner/electric/glossary.json</urlJson>
@@ -40,6 +40,9 @@
 			</outline>
 		<outline text="&quot;imho&quot;" created="Wed, 09 May 2018 16:00:01 GMT">
 			<outline text="&lt;a href=&quot;http://scripting.com/imho/&quot;&gt;IMHO&lt;/a&gt;" created="Wed, 09 May 2018 16:00:03 GMT"/>
+			</outline>
+		<outline text=":check:" created="Fri, 31 Aug 2018 19:35:45 GMT">
+			<outline text="✓" created="Fri, 31 Aug 2018 19:35:51 GMT"/>
 			</outline>
 		<outline text="&quot;cheesecake&quot;" created="Tue, 14 Nov 2017 15:38:02 GMT">
 			<outline text="&lt;a href=&quot;http://en.wikipedia.org/wiki/Cheesecake&quot;&gt;&lt;img src=&quot;http://scripting.com/images/2012/05/30/cheesecake.gif&quot; width=&quot;50&quot; height=&quot;42&quot; border=&quot;0&quot; alt=&quot;A picture of a slice of cheese cake.&quot;&gt;&lt;/a&gt;"/>
