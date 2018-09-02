@@ -1,0 +1,45 @@
+{
+    "text": "Different kinds of archives",
+    "created": "Sat, 01 Sep 2018 16:10:56 GMT",
+    "type": "outline",
+    "description": "Imagine the difference between the ruins of ancient Rome, and a museum filled with artifacts from that time.",
+    "subs": [
+        {
+            "text": "<a href=\"http://scripting.com/2018/08/31.html\">Yesterday</a> we heard that the <a href=\"https://www.villagevoice.com/\">Village Voice</a> is ending, but they are sticking around long enough to be sure their archive is accessible for historic purposes. This is much appreciated by all who value the Voice, its history, and the human knowledge it represents. As far as I know, it's the first time a news organization, or a blog, when shutting down, has put effort into assuring the archive remains accessible. (If there are other examples, I'd like to hear about them.) ",
+            "created": "Sat, 01 Sep 2018 16:11:02 GMT",
+            "image": "http://scripting.com/images/2018/09/01/voicePattiSmith.png"
+        },
+        {
+            "text": "So then the question is, what kind of archive? I'll try to explain.",
+            "created": "Sat, 01 Sep 2018 16:12:26 GMT"
+        },
+        {
+            "text": "Imagine the difference between the <a href=\"https://www.lonelyplanet.com/italy/rome/things-to-do/rome-s-ruins\">ruins</a> of ancient <a href=\"https://en.wikipedia.org/wiki/Roman_Forum\">Rome</a>, and a museum filled with artifacts from that time. In the actual ruin, you're standing where the great <a href=\"https://en.wikipedia.org/wiki/List_of_ancient_Romans\">figures</a> of Roman history stood. There's more data available to you, things a museum curator might not think to preserve.  It also invokes the imagination and inspires in ways a museum can't. ",
+            "created": "Sat, 01 Sep 2018 16:13:19 GMT"
+        },
+        {
+            "text": "And there's also great value in museums and libraries! Sometimes the things that were created are more important. So you can visit the US Capitol (a place) in Washington DC, or see the <a href=\"https://www.archives.gov/founding-docs/declaration\">Declaration of Independence</a> (a document) at the National Archives.",
+            "created": "Sat, 01 Sep 2018 16:16:04 GMT"
+        },
+        {
+            "text": "You can see the <a href=\"https://www.tripadvisor.com/ShowUserReviews-g186338-d187555-r376233744-The_British_Museum-London_England.html\">handwritten lyrics</a> of Eleanor Rigby by Lennon and McCartney at the British Museum, but the Beatles are no longer performing the song. When the thing itself no longer exists, it's good to have the artifacts.",
+            "created": "Sat, 01 Sep 2018 16:16:56 GMT"
+        },
+        {
+            "text": "You want it all if you really care about the history.",
+            "created": "Sat, 01 Sep 2018 16:17:29 GMT"
+        },
+        {
+            "text": "As it is with the web. Most of the content of the Village Voice is probably already safely <a href=\"https://web.archive.org/web/*/http://www.villagevoice.com/\">stored</a> at archive.org. But what about the villagevoice.com domain? Don't we also want to preserve the links into the site, for ongoing web sites that point to the Voice? Or when someone reads the preserved Scripting News, if I'm able to get that done, be able to click a link to a great Voice article and not get a 404? That's analogous to preserving ancient Rome in addition to remembering its history. (BTW, some of it's already gone. Here's a <a href=\"http://scripting.com/2004/03.html#When:2:56:16AM\">post</a> on this blog from 2004 that links to a VV article. Not found. Ouch.)",
+            "created": "Sat, 01 Sep 2018 16:17:40 GMT"
+        },
+        {
+            "text": "With the web we have the technical means to create a perfect archive, but without planning ahead, all we will have are the museums. And we are not doing the planning. The web, as a historic medium is far less than imperfect, it's temporary. Only present as long as someone keeps paying the bills. And there's no way to pay the bills far in advance, so the historic record has a literally no chance of surviving, given the current state of things. ",
+            "created": "Sat, 01 Sep 2018 16:19:32 GMT"
+        },
+        {
+            "text": "The Village Voice offers a chance for us to learn how to do this right. So we can do it again, and again, until we've got a method that has a reasonable chance of working.",
+            "created": "Sat, 01 Sep 2018 16:21:02 GMT"
+        }
+    ]
+}
