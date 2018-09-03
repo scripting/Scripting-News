@@ -12,9 +12,9 @@ The <a href="https://github.com/scripting/oldSchoolNightly/blob/master/oldschool
 
 If you're a tech blogger, please consider archiving your blog in a similar way. 
 
-#### Issues
+#### Braintrust query -> issue
 
-When I have a technical issue I want to discuss with readers of Scripting News, I open an issue on this repo. I find that GitHub has all the collaboration tools we need, and it's a familiar interface to programmers. 
+When I have a technical <a href="https://duckduckgo.com/?q=site%3Ascripting.com+%22braintrust+query%22&t=hi&ia=web">subject</a> I want to discuss with readers of Scripting News, I open an <a href="https://github.com/scripting/Scripting-News/issues">issue</a> on this repo. I find that GitHub has all the collaboration tools we need, and it's a familiar interface to programmers.  
 
 #### How to use this repo
 
