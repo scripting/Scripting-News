@@ -48,3 +48,5 @@ Lesson learned. We save the glossary along with all the other bits of the websit
 
 A blog post <a href="http://scripting.com/2018/09/01/161056.html">explains</a> two ways to archive, in-place or curated.
 
+This document is <a href="https://github.com/scripting/Scripting-News/blob/master/blog/readme.md">mirrored</a> in the GitHub repo, as a bit of added future-safety.
+
