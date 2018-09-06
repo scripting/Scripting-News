@@ -1,0 +1,41 @@
+{
+    "text": "September 5",
+    "created": "Wed, 05 Sep 2018 12:52:07 GMT",
+    "name": "05",
+    "subs": [
+        {
+            "text": "John Gruber <a href=\"https://daringfireball.net/linked/2018/09/04/medium-domain-name\">says</a> what we're thinking. Why, if you can't map a domain to your site on Medium, would you use it to host a blog. Rafat Ali, another longtime blogger, <a href=\"https://twitter.com/rafat/status/1037371592496570372\">says</a> once Medium shuts down there should be an ethical replacement. I wonder <a href=\"https://twitter.com/davewiner/status/1037372465599668225\">why</a> they can't co-exist, and then <a href=\"https://twitter.com/davewiner/status/1037372969520168961\">answer</a> my own question. The problem isn't cost, or the tech -- it's users. Medium has momentum, still, as the place-of-record for web writing, much as YouTube is it for video. It's a shaky foundation. No business model, huge money already invested. Not a good situation.",
+            "created": "Wed, 05 Sep 2018 16:22:20 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/09/05/bug.png"
+        },
+        {
+            "text": "Here's a conundrum. <a href=\"http://scripting.com/images/2018/09/05/potusOnTwitter.png\">This</a> appeared in my Twitter timeline. It's from @potus. I must have followed that account when Obama was president. Now Trump is using it. 24 million followers. Do I have to block it? What about the next president? For now I'll just unfollow, but it might have to be blocked, if he uses it in a more troll-like fashion. ",
+            "created": "Wed, 05 Sep 2018 15:45:22 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I think there's a place for a simple RSS-based Instagram clone. Subscribe as in an RSS reader, with the URL of a feed. It displays items with &lt;enclosure>s that are images. Wouldn't have as many users as IG, but IG was fun before it had so many users.",
+            "created": "Wed, 05 Sep 2018 14:34:09 GMT",
+            "type": "tweet",
+            "tweetId": "1037348784710279168",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/opmlToGitHub\">opmlToGitHub</a> is a new demo app that reads an OPML file, converts it to Markdown and uploads it to GitHub. I think outliners are a great way to write readme files, that's how I've always done it. I just added this feature to my nightly archive app, and created this little demo app as a byproduct. It contains a fair amount of <a href=\"https://github.com/scripting/opmlToGitHub/blob/master/opmltogithub.js\">code</a> that might prove useful in other apps. MIT license. :check:",
+            "created": "Wed, 05 Sep 2018 14:01:49 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/09/05/darwin.png"
+        },
+        {
+            "text": "I'm using GitHub more and more as a platform. Part of the reason is that it was on my path. My GitHub code has been maturing, and my project to get more future-safe is progressing. But I am aware that it's now owned by Microsoft. I wonder if they see GitHub in a compatible way to how I'm using it? That's something you have to worry about when building on a corporate platform. ",
+            "created": "Wed, 05 Sep 2018 14:11:54 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Continuing to scrub my Twitter feed of troll RTers. A few every day. When will people figure out that <a href=\"http://scripting.com/2018/08/22/151134.html\">RTing a troll</a> just gives them power.",
+            "created": "Wed, 05 Sep 2018 12:52:08 GMT",
+            "type": "outline"
+        }
+    ]
+}
