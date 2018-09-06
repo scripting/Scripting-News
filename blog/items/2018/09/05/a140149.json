@@ -1,0 +1,6 @@
+{
+    "text": "<a href=\"https://github.com/scripting/opmlToGitHub\">opmlToGitHub</a> is a new demo app that reads an OPML file, converts it to Markdown and uploads it to GitHub. I think outliners are a great way to write readme files, that's how I've always done it. I just added this feature to my nightly archive app, and created this little demo app as a byproduct. It contains a fair amount of <a href=\"https://github.com/scripting/opmlToGitHub/blob/master/opmltogithub.js\">code</a> that might prove useful in other apps. MIT license. :check:",
+    "created": "Wed, 05 Sep 2018 14:01:49 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2018/09/05/darwin.png"
+}
