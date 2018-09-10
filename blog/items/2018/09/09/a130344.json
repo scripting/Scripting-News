@@ -1,0 +1,54 @@
+{
+    "text": "Why Ghost is not Medium",
+    "created": "Sun, 09 Sep 2018 13:03:44 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Yesterday I posted a <a href=\"https://twitter.com/davewiner/status/1038449969374613504\">poll</a> on Twitter basically asking if there were a rational not-for-profit place-of-record essay site, would people use it. This is intended as an alternative to <a href=\"http://medium.com/\">Medium</a>, which has received <a href=\"https://www.crunchbase.com/organization/medium\">$132 million</a> in investment, and therefore must at some point find a business model, leaving the for-the-recordness of it in question. ",
+            "created": "Sun, 09 Sep 2018 13:03:52 GMT"
+        },
+        {
+            "text": "In order to be a Medium replacement, it must be possible to do this:",
+            "created": "Sun, 09 Sep 2018 13:05:16 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "Log on using a Twitter identity.",
+                    "created": "Sun, 09 Sep 2018 13:05:33 GMT"
+                },
+                {
+                    "text": "Write something and post it. ",
+                    "created": "Sun, 09 Sep 2018 13:05:44 GMT"
+                }
+            ]
+        },
+        {
+            "text": "The amazing thing about <a href=\"https://ghost.org/\">Ghost</a>, while it might be a very nice piece of software, is this -- they hide it. It's one of the hardest pieces of open software to actually get to try. Maybe <a href=\"https://asana.com/\">Asana</a> is worse (there you have to have a corporation to get a look). I've never actually been able to use it, though it sounds like something I'd find interesting. I did get a trial Ghost account when they were in beta, but it expired in a few weeks. ",
+            "created": "Sun, 09 Sep 2018 13:05:50 GMT"
+        },
+        {
+            "text": "Ghost is about the furthest thing from Medium imaginable because they have hidden it so well. Yet people persist in saying Oh you mean Ghost, when what I mean is Medium. Somehow they have confused the software's UI with its function. ",
+            "created": "Sun, 09 Sep 2018 13:06:59 GMT"
+        },
+        {
+            "text": "Also <a href=\"https://micro.blog/\">micro.blog</a>, another piece of software with a vocal community that thinks it's everything to everyone. It also is hard to get started with. I did figure it out once, but I haven't been able to do it again. I actually <a href=\"http://dave.micro.blog/\">have</a> a micro.blog site. How to post to it? I don't know. ",
+            "created": "Sun, 09 Sep 2018 13:07:31 GMT"
+        },
+        {
+            "text": "The great thing about Medium, the thing people like about it, is that they have crafted its design so that getting started isn't even three steps. That's hard to do. If one wants to replicate its functionality start there.",
+            "created": "Sun, 09 Sep 2018 13:08:13 GMT"
+        },
+        {
+            "text": "So if you think Ghost is the answer, tell me (or anyone else) where they go to get a free site that doesn't expire after a few weeks. If it doesn't exist, you haven't solved the problem. ",
+            "created": "Sun, 09 Sep 2018 13:09:25 GMT"
+        },
+        {
+            "text": "PS: I have written about Ghost in <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+ghost&t=h_&ia=web\">the past</a>, and have gotten blasted personally by the founder, publicly. Maybe that's how they keep people from writing negatively about it. No I don't have anything against it. I've tried to write about my experience accurately. If I made a mistake I am happy to correct it.",
+            "created": "Sun, 09 Sep 2018 13:14:28 GMT"
+        },
+        {
+            "text": "PPS: A 6-minute <a href=\"http://scripting.com/2018/09/09/forTheRecordPublishing.m4a\">podcast</a> explaining why I'm interested in creating something that functions like Medium, but has as its stated goal to be long-lived. ",
+            "created": "Sun, 09 Sep 2018 13:57:04 GMT"
+        }
+    ]
+}
