@@ -1,0 +1,39 @@
+<div class="divDayTitle"><a href="http://scripting.com/2018/09/17.html">Monday, September 17, 2018</a></div>
+<div class="divSingularItem" data-type="outline" data-image="http://scripting.com/images/2018/09/17/peeweeHerman.png"><a name="a030123"></a><img src="http://scripting.com/images/2018/09/17/peeweeHerman.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">It's been a long time since the Repubs were playing something other than the bully or obstructionist. Now the politics gets more complicated. This might be the moment when Repubs switch parties. The stars are lining up for that.<span class="spPermaLink"><a href="http://scripting.com/2018/09/17.html#a030123" title="Direct link to this item.">#</a></span></div>
+<div class="divSingularItem" data-type="outline"><a name="a203013"></a>RSS was successful not because of the efforts of people on mail lists debating the merits of various formats. It happened because Netscape seeded the market with a few <a href="http://scripting.com/davenet/1999/10/27/salonherringwiredfoolcom.html">popular feeds</a>. Blogging software supported the format, so all blogs had feeds. Then software developed that made it easy to use the feeds, and finally the mother of all news pubs, the NYT, jumped in and everyone else followed. With the benefit of hindsight, the mail list people thought was so important, wasn't. <span class="spPermaLink"><a href="http://scripting.com/2018/09/17.html#a203013" title="Direct link to this item.">#</a></span></div>
+<div class="divSingularItem" data-type="outline"><a name="a202554"></a>There's a reality distortion field around mail lists. You feel you have arrived at The Place where all decisions are made. Yet when you decide something then what next? Who wants to tell the subjects they have to change? ;-)<span class="spPermaLink"><a href="http://scripting.com/2018/09/17.html#a202554" title="Direct link to this item.">#</a></span></div>
+<div class="divTitledItem">
+	<div class="divTitle"><a name="a145629"></a><a href="http://scripting.com/2018/09/17/145629.html"><span class="spTitleLink">File-level metadata in Markdown?</a></a><span class="spPermaLink"><a href="http://scripting.com/2018/09/17/145629.html" title="Direct link to this item.">#</a></span></div>
+	<ul class="ulLevel0">
+	<li><a name="a150620"></a>I wonder if anyone's thought about a way to add file-level metadata to a Markdown document. This just came up in a project I'm working on, but it's not the first time I've encountered it. <span class="spPermaLink"><a href="http://scripting.com/2018/09/17/145629.html#a150620" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a145749"></a>In Frontier's <a href="http://scripting.com/frontier/netScripting/web.html">website framework</a>, we used a # to delimit a value, something like: <span class="spPermaLink"><a href="http://scripting.com/2018/09/17/145629.html#a145749" title="Direct link to this item.">#</a></span></li>
+	<ul class="ulLevel1">
+	<li><a name="a145812"></a>#title "My Test Page" <span class="spPermaLink"><a href="http://scripting.com/2018/09/17/145629.html#a145812" title="Direct link to this item.">#</a></span></li>
+	</ul>
+
+	<li><a name="a150001"></a>We borrowed the idea from C on Unix in the 70s:<span class="spPermaLink"><a href="http://scripting.com/2018/09/17/145629.html#a150001" title="Direct link to this item.">#</a></span></li>
+	<ul class="ulLevel1">
+	<li><a name="a150016"></a>#include "mymacros.h"<span class="spPermaLink"><a href="http://scripting.com/2018/09/17/145629.html#a150016" title="Direct link to this item.">#</a></span></li>
+	</ul>
+
+	<li><a name="a145925"></a>We have the same thing in HTML and OPML, in the &lt;head> section:<span class="spPermaLink"><a href="http://scripting.com/2018/09/17/145629.html#a145925" title="Direct link to this item.">#</a></span></li>
+	<ul class="ulLevel1">
+	<li><a name="a145948"></a>&lt;title>My Test Page&lt;/title><span class="spPermaLink"><a href="http://scripting.com/2018/09/17/145629.html#a145948" title="Direct link to this item.">#</a></span></li>
+	</ul>
+
+	<li><a name="a150024"></a>The directives are not part of the rendering. You don't see them when you read the document. But the values are available to software processing the document.<span class="spPermaLink"><a href="http://scripting.com/2018/09/17/145629.html#a150024" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a150738"></a>It seems since we're in <i>The Age of JSON, </i>something in JSON, delimited by a # might be appropriate? <span class="spPermaLink"><a href="http://scripting.com/2018/09/17/145629.html#a150738" title="Direct link to this item.">#</a></span></li>
+	<ul class="ulLevel1">
+	<li><a name="a150855"></a>#metadata = {<span class="spPermaLink"><a href="http://scripting.com/2018/09/17/145629.html#a150855" title="Direct link to this item.">#</a></span></li>
+	<ul class="ulLevel2">
+	<li><a name="a150901"></a>title: "Hello World",<span class="spPermaLink"><a href="http://scripting.com/2018/09/17/145629.html#a150901" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a150910"></a>tags: ["fun", "wisdom", "greetings"]<span class="spPermaLink"><a href="http://scripting.com/2018/09/17/145629.html#a150910" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a150857"></a>}<span class="spPermaLink"><a href="http://scripting.com/2018/09/17/145629.html#a150857" title="Direct link to this item.">#</a></span></li>
+	</ul>
+
+	</ul>
+
+	<li><a name="a150224"></a>I started a <a href="https://github.com/scripting/Scripting-News/issues/95">thread</a> on this on the Scripting News repo.<span class="spPermaLink"><a href="http://scripting.com/2018/09/17/145629.html#a150224" title="Direct link to this item.">#</a></span></li>
+	</ul>
+
+	</div>
