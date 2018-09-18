@@ -1,0 +1,96 @@
+{
+    "text": "September 17",
+    "created": "Mon, 17 Sep 2018 13:45:20 GMT",
+    "name": "17",
+    "subs": [
+        {
+            "text": "It's been a long time since the Repubs were playing something other than the bully or obstructionist. Now the politics gets more complicated. This might be the moment when Repubs switch parties. The stars are lining up for that.",
+            "created": "Tue, 18 Sep 2018 03:01:23 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/09/17/peeweeHerman.png"
+        },
+        {
+            "text": "RSS was successful not because of the efforts of people on mail lists debating the merits of various formats. It happened because Netscape seeded the market with a few <a href=\"http://scripting.com/davenet/1999/10/27/salonherringwiredfoolcom.html\">popular feeds</a>. Blogging software supported the format, so all blogs had feeds. Then software developed that made it easy to use the feeds, and finally the mother of all news pubs, the NYT, jumped in and everyone else followed. With the benefit of hindsight, the mail list people thought was so important, wasn't. ",
+            "created": "Mon, 17 Sep 2018 20:30:13 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "There's a reality distortion field around mail lists. You feel you have arrived at The Place where all decisions are made. Yet when you decide something then what next? Who wants to tell the subjects they have to change? ;-)",
+            "created": "Mon, 17 Sep 2018 20:25:54 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "File-level metadata in Markdown?",
+            "created": "Mon, 17 Sep 2018 14:56:29 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I wonder if anyone's thought about a way to add file-level metadata to a Markdown document. This just came up in a project I'm working on, but it's not the first time I've encountered it. ",
+                    "created": "Mon, 17 Sep 2018 15:06:20 GMT"
+                },
+                {
+                    "text": "In Frontier's <a href=\"http://scripting.com/frontier/netScripting/web.html\">website framework</a>, we used a # to delimit a value, something like: ",
+                    "created": "Mon, 17 Sep 2018 14:57:49 GMT",
+                    "subs": [
+                        {
+                            "text": "#title \"My Test Page\" ",
+                            "created": "Mon, 17 Sep 2018 14:58:12 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "We borrowed the idea from C on Unix in the 70s:",
+                    "created": "Mon, 17 Sep 2018 15:00:01 GMT",
+                    "subs": [
+                        {
+                            "text": "#include \"mymacros.h\"",
+                            "created": "Mon, 17 Sep 2018 15:00:16 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "We have the same thing in HTML and OPML, in the &lt;head> section:",
+                    "created": "Mon, 17 Sep 2018 14:59:25 GMT",
+                    "subs": [
+                        {
+                            "text": "&lt;title>My Test Page&lt;/title>",
+                            "created": "Mon, 17 Sep 2018 14:59:48 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "The directives are not part of the rendering. You don't see them when you read the document. But the values are available to software processing the document.",
+                    "created": "Mon, 17 Sep 2018 15:00:24 GMT"
+                },
+                {
+                    "text": "It seems since we're in <i>The Age of JSON, </i>something in JSON, delimited by a # might be appropriate? ",
+                    "created": "Mon, 17 Sep 2018 15:07:38 GMT",
+                    "subs": [
+                        {
+                            "text": "#metadata = {",
+                            "created": "Mon, 17 Sep 2018 15:08:55 GMT",
+                            "subs": [
+                                {
+                                    "text": "title: \"Hello World\",",
+                                    "created": "Mon, 17 Sep 2018 15:09:01 GMT"
+                                },
+                                {
+                                    "text": "tags: [\"fun\", \"wisdom\", \"greetings\"]",
+                                    "created": "Mon, 17 Sep 2018 15:09:10 GMT"
+                                },
+                                {
+                                    "text": "}",
+                                    "created": "Mon, 17 Sep 2018 15:08:57 GMT"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "I started a <a href=\"https://github.com/scripting/Scripting-News/issues/95\">thread</a> on this on the Scripting News repo.",
+                    "created": "Mon, 17 Sep 2018 15:02:24 GMT"
+                }
+            ]
+        }
+    ]
+}
