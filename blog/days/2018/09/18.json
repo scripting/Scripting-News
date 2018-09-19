@@ -1,0 +1,30 @@
+{
+    "text": "September 18",
+    "created": "Tue, 18 Sep 2018 14:14:06 GMT",
+    "name": "18",
+    "subs": [
+        {
+            "text": "Why is our software so bloated? The problem is that when we get a consensus platform, so we can all focus our energies on optimizing, instead another platform gets invented, so we have to spread our resources paddling hard just to stay in place. It takes years and years to go from prototype to a well-oiled machine. In cars, how many years were there between Ford's Model A and Model T? What were they doing? Gratuitously changing indenting styles? Creating more hacks to try to solve callback hell by introducing fresh new hells? Or writing your docs in some arcane syntax built on top of the language everyone uses? We have 10000 times too many programmers for what we're getting done. Create limits. There are only so many MLB or NBA players. If there were fewer programmers we'd have to stop reinventing and try to be efficient. There's a math to this I'm sure of it.",
+            "created": "Tue, 18 Sep 2018 17:09:36 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/08/21/bloatwareBoss.png"
+        },
+        {
+            "text": "It's not well known that <a href=\"http://www.aaronsw.com/\">Aaron Swartz</a> made a contribution to RSS 2.0, wrt the &lt;cloud> element. We were initially only supporting XML-RPC and SOAP protocols, but <a href=\"https://en.wikipedia.org/wiki/Aaron_Swartz\">Aaron</a> suggested also supporting HTTP-POST. It was a good idea, and it came during the comment period for RSS 2.0, so it was possible to add it, so I did. ",
+            "created": "Tue, 18 Sep 2018 17:32:57 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1042053246599217155\">Poll</a>: Will Kavanaugh ultimately be confirmed? ",
+            "created": "Tue, 18 Sep 2018 14:14:07 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1042053246599217155"
+        },
+        {
+            "text": "My own opinion. Kavanaugh will not be confirmed. I expect <a href=\"https://en.wikipedia.org/wiki/Christine_Blasey_Ford\">Christine Ford</a> to be a compelling witness. Reporters will interview <a href=\"https://www.vox.com/policy-and-politics/2018/9/17/17870642/mark-judge-brett-kavanaugh-friend-christine-ford\">classmates</a> of hers and of Kavanaugh's. Some Repubs on the <a href=\"https://www.judiciary.senate.gov/\">Judiciary Committee</a> understand enough about the issue to be far more <a href=\"https://www.motherjones.com/politics/2018/09/lindsey-graham-kavanaughs-christine-ford-accusations/\">sensitive</a> than they were with <a href=\"https://en.wikipedia.org/wiki/Anita_Hill\">Anita Hill</a>. But <a href=\"https://nypost.com/2018/09/17/orrin-hatch-says-kavanaugh-accuser-may-be-mixed-up/\">some</a> will not, and this will spark rage at Republicans including from within their own base. A lot of <a href=\"https://www.thenation.com/article/the-reasons-why-white-women-vote-republican-and-what-to-do-about-it/\">women</a> vote Republican. There's a decent chance a handful of Repub senators will quit the party, or even become Democrats. As I said <a href=\"http://scripting.com/2018/09/17.html#a030123\">yesterday</a>, governing has become a burden for the Repubs. They know how to bully, they know how to <a href=\"https://en.wikipedia.org/wiki/Merrick_Garland\">obstruct</a>, but this is far more complex. They won't be able to hold their coalition together. Think of it as an intra-party wedge issue for the Repubs.",
+            "created": "Tue, 18 Sep 2018 14:15:48 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/09/18/sadElephant.png"
+        }
+    ]
+}
