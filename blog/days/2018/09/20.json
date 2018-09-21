@@ -1,0 +1,41 @@
+{
+    "text": "September 20",
+    "created": "Thu, 20 Sep 2018 15:29:11 GMT",
+    "name": "20",
+    "subs": [
+        {
+            "text": "Progress on my GitHub-as-CMS-database work. The concept it simple. Internet storage is a problem, there aren't many places to do it, where there are also interactive interfaces, and where you can store small amounts of stuff, personal stuff, for free, that has a chance of persisting into the future. Why do we need storage? When I want to write something, I need a place to store it. The stuff that the rendering for my blog is build from. All CMSes raise this question. There was an aha moment when I realized that GitHub's basic data structure, the repository, is similar to the basic data structure of Frontier, the object database. I wondered if some of the techniques we used for managing data in Frontier, the work that led to blogging, feed reading, podcasting, etc -- could work in GitHub. There are a lot of patterns that worked there, that might work here. I haven't gotten an answer yet, but I am learning, and getting data for more thought. ",
+            "created": "Fri, 21 Sep 2018 02:46:21 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I watched the 8-episode <a href=\"https://en.wikipedia.org/wiki/Forever_(2018_TV_series)\">Forever</a> series on Amazon. I really liked it, totally worth watching. It's a love story, but anything beyond that would be a spoiler. Episode 6 is the oddball, it's totally standalone, you can watch it first if you want, it won't spoil anything. The two characters don't appear in any of the other episodes. It's an artistic flourish you see in shows like Breaking Bad or Better Call Saul, and in this case while the rest of the series is excellent, episode 6 is killer. ",
+            "created": "Fri, 21 Sep 2018 02:29:05 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/09/20/forever.png"
+        },
+        {
+            "text": "Please <a href=\"https://secure.actblue.com/donate/scripting\">give $25 or more</a> to the Democratic nominee for <a href=\"https://en.wikipedia.org/wiki/Susan_Collins\">Susan Collins</a>' senate seat in 2020. No strings attached. The money goes to the candidate whether or not Collins votes for Kavanaugh. Help spread the word. :rocket:",
+            "created": "Thu, 20 Sep 2018 15:29:50 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Today's <a href=\"https://www.nytimes.com/2018/09/20/podcasts/the-daily/kavanaugh-christine-blasey-ford-caitlin-flanagan-sexual-assault.html\">Daily podcast</a> is a must-listen. It's an interview with a woman who was sexually assaulted in high school. She talks about how depressed and suicidal she was after, but got relief when the assailant apologized in writing and in person. Being able to forgive is a vastly different situation from an attacker who denies. Provides a new perspective (for me) on the situation with Kavanaugh. ",
+            "created": "Thu, 20 Sep 2018 19:51:50 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/09/21/mask.png"
+        },
+        {
+            "text": "Saving the web and saving democracy are related projects.",
+            "created": "Thu, 20 Sep 2018 15:29:12 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1039933430446866434"
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1042787973354414082\">Poll</a>: Will we, in the next 10 or 20 years, talk about \"the former United States\" in the same way we talk about the <a href=\"https://en.wikipedia.org/wiki/Post-Soviet_states\">former</a> Soviet Union?",
+            "created": "Thu, 20 Sep 2018 18:14:45 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1042787973354414082"
+        }
+    ]
+}
