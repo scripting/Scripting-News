@@ -1,0 +1,5 @@
+{
+    "text": "Progress on my GitHub-as-CMS-database work. The concept it simple. Internet storage is a problem, there aren't many places to do it, where there are also interactive interfaces, and where you can store small amounts of stuff, personal stuff, for free, that has a chance of persisting into the future. Why do we need storage? When I want to write something, I need a place to store it. The stuff that the rendering for my blog is build from. All CMSes raise this question. There was an aha moment when I realized that GitHub's basic data structure, the repository, is similar to the basic data structure of Frontier, the object database. I wondered if some of the techniques we used for managing data in Frontier, the work that led to blogging, feed reading, podcasting, etc -- could work in GitHub. There are a lot of patterns that worked there, that might work here. I haven't gotten an answer yet, but I am learning, and getting data for more thought. ",
+    "created": "Fri, 21 Sep 2018 02:46:21 GMT",
+    "type": "outline"
+}
