@@ -1,0 +1,5 @@
+{
+    "text": "I've got <a href=\"http://yaml.org/\">YAML</a> working with my <a href=\"http://scripting.com/2018/09/17/145629.html\">GitHub as CMS</a> experiment. Here's an <a href=\"https://github.com/scripting/myEnglishBlog/blob/master/blog/posts/2018/09/22/174921.md\">example</a> of a post so you can see what it looks like. This is exactly equivalent to using JSON, my server converts back and forth between YAML and JSON, so my app only ever sees the JSON. Every time I have to teach my software a new text-to-binary format, I shake my fist at a cloud and curse humanity. Some kid is going to come along in five years and not like YAML and there will be ZML or JDAUGHTER or whatever. Will they all do the same thing? Yes of course they will. ",
+    "created": "Sat, 22 Sep 2018 17:44:47 GMT",
+    "type": "outline"
+}
