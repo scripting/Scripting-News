@@ -1,0 +1,5 @@
+{
+    "text": "Continuing work on the new githubpub. One of the ideas I've been working towards is a similar kind of <a href=\"http://scripting.com/frontier/netScripting/web.html\">hierarchy</a> in the repo as we had in the Frontier object database. I don't think it's practical to do the data gathering the website framework does as part of building a page. But there's a compromise, the idea of a default location. If I look for a template, for example, and don't find it in your database (i.e. repository), I then look in the system repo. It works. Not as cool as a completely hierarchic system, but two levels is better than one.",
+    "created": "Wed, 26 Sep 2018 19:41:50 GMT",
+    "type": "outline"
+}
