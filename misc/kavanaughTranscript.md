@@ -1,3 +1,5 @@
+See this <a href="http://scripting.com/2018/10/02.html">post</a> for context. 
+
 Mr. Chairman, Ranking Member Feinstein, members of the committee, thank you for allowing me to make my statement. I wrote it myself yesterday afternoon and evening. No one has seen a draft, or it, except for one of my former law clerks. This is my statement.
 
 Less than two weeks ago, Dr. Ford publicly accused me of committing wrongdoing at an event more than 36 years ago when we were both in high school. I denied the allegation immediately, categorically and unequivocally. All four people allegedly at the event, including Dr. Ford’s longtime friend, Ms. Keyser, have said they recall no such event. Her longtime friend, Ms. Keyser, said under penalty of felony that she does not know me, and does not believe she ever saw me at a party, ever.
