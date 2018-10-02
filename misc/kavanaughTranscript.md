@@ -1,6 +1,6 @@
 ## Kavanaugh's opening statement to Senate Judiciary Committee
 
-See this <a href="http://scripting.com/2018/10/02.html">post</a> for context. 
+_See this <a href="http://scripting.com/2018/10/02.html">post</a> for context. _
 
 Mr. Chairman, Ranking Member Feinstein, members of the committee, thank you for allowing me to make my statement. I wrote it myself yesterday afternoon and evening. No one has seen a draft, or it, except for one of my former law clerks. This is my statement.
 
