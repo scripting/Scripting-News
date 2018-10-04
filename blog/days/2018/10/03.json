@@ -1,0 +1,70 @@
+{
+    "text": "October 3",
+    "created": "Wed, 03 Oct 2018 14:37:46 GMT",
+    "name": "03",
+    "subs": [
+        {
+            "text": "Trump pretended he didn't know what the KKK is when David Duke endorsed him. He led cheers of \"Lock her up\" referring to Hillary Clinton. He praised Nazis who marched in Charlottesville and ran down a crowd, killing a woman. And so much more. This is a depraved narcissistic madman. A very dangerous person. So you're surprised he dissed Dr Ford? It was 100% predictable.",
+            "created": "Wed, 03 Oct 2018 16:36:12 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I had a thought, I wonder if it's true, that most tech begins open, as a skunkworks project by a geek or two. If it catches on, inevitably someone tries to commercialize it. Often they are successful and the open version languishes. We should pay attention <i>before</i> it's commercialized, and understand the freedom that comes from its openness. This came up in a <a href=\"http://scripting.com/2018/10/01/141620.html\">piece</a> I wrote on Monday. Let's appreciate the Joni Mitchell <a href=\"https://www.youtube.com/watch?v=CUo9C1vUt0A\">view</a> of things: there's something inherently good and sweet about the \"one-man band by the quick lunch stand.\"",
+            "created": "Wed, 03 Oct 2018 16:16:52 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=CUo9C1vUt0A",
+            "image": "http://scripting.com/images/2018/10/03/joni.png"
+        },
+        {
+            "text": "Font Awesome and Medium-Editor",
+            "created": "Wed, 03 Oct 2018 14:37:47 GMT",
+            "type": "outline",
+            "description": "It appears FA changed the name of an icon that Medium-Editor uses in its toolbar.",
+            "subs": [
+                {
+                    "text": "I've become email friends with <a href=\"https://twitter.com/davegandy\">Dave Gandy</a>, the founder of <a href=\"https://fontawesome.com/\">Font Awesome</a>. I can't sing the praises of that product high enough. It's a life saver, if it didn't exist, I'd still be stealing graphics and they'd suck as icons. FA takes care of an important part of the UI of the web. ",
+                    "created": "Wed, 03 Oct 2018 14:37:58 GMT"
+                },
+                {
+                    "text": "Second disclaimer, I juggle so many external technologies I don't have the bandwidth to dive into any of them too deeply, so when I think I uncover a problem, very often it's just a lack of info, a misunderstanding, or due to the fact that I exist in a perpetual state of developer fog.",
+                    "created": "Wed, 03 Oct 2018 14:39:11 GMT"
+                },
+                {
+                    "text": "OK with those disclaimers, here's the narrative:",
+                    "created": "Wed, 03 Oct 2018 14:46:26 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "I use <a href=\"https://github.com/yabwe/medium-editor\">Medium-Editor</a> in some of my projects. It uses Font Awesome for parts of its UI. I also use Font Awesome in all my projects. I recently upgraded to version 5.2.0. ",
+                            "created": "Wed, 03 Oct 2018 14:40:09 GMT"
+                        },
+                        {
+                            "text": "I notice that the tool bar in my Medium Editor instance has breakage. The big H for H2 and H4 are missing their H's which are Font Awesome objects. <a href=\"https://fontawesome.com/v4.7.0/icon/header/\">fa-header</a> specifically. ",
+                            "created": "Wed, 03 Oct 2018 14:41:02 GMT"
+                        },
+                        {
+                            "text": "Here's a <a href=\"http://scripting.com/images/2018/10/03/mediumEditorToolbar.png\">screen shot</a> showing what the toolbar looks like when it's working properly. ",
+                            "created": "Wed, 03 Oct 2018 19:05:09 GMT"
+                        },
+                        {
+                            "text": "On investigation it appears it is missing in 5.2.0. But the <a href=\"https://fontawesome.com/icons/heading\">fa-heading</a> object looks very much like the original fa-header. Is it possible they changed its name?",
+                            "created": "Wed, 03 Oct 2018 14:42:23 GMT"
+                        },
+                        {
+                            "text": "I look to see what version of Font Awesome the Medium-Editor <a href=\"http://yabwe.github.io/medium-editor/\">demo</a> uses. It's 4.4.0. So I try including that version in my app and <i>the H's come back.</i>",
+                            "created": "Wed, 03 Oct 2018 14:43:40 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "So my conclusion is there is breakage between Medium-Editor and Font Awesome. I am downgrading this app to use the old version of FA. However, there was a reason I upgraded, so my software is in a weird state of disrepair as a result of this workaround.",
+                    "created": "Wed, 03 Oct 2018 14:44:16 GMT"
+                },
+                {
+                    "text": "If they did indeed change from fa-header to fa-heading, my request is DON'T DO THAT.  The world has built on your icons. The <a href=\"https://en.wikipedia.org/wiki/Aesthetics\">aesthetics</a> at this point do not matter. If you think the icons are misnamed, you are wrong. Please refer to the disclaimers at the top of this post. ",
+                    "created": "Wed, 03 Oct 2018 14:45:14 GMT"
+                }
+            ]
+        }
+    ]
+}
