@@ -1,0 +1,55 @@
+{
+    "text": "October 9",
+    "created": "Tue, 09 Oct 2018 17:44:55 GMT",
+    "name": "09",
+    "subs": [
+        {
+            "text": "There’s this great line at the end of an episode of <a href=\"https://en.wikipedia.org/wiki/Law_%26_Order\">Law & Order</a>. Jack McCoy says the person who was convicted got a tough sentence. The DA, an old man, says when he gets out he’ll be 35. “I’d take it,” he said. When a young cute person mocks others’ pain, I think of this story.",
+            "created": "Tue, 09 Oct 2018 18:01:11 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I found a perfect use-case for <a href=\"https://www.w3schools.com/css/css3_variables.asp\">CSS variables</a>. <a href=\"https://getbootstrap.com/\">Bootstrap</a> hard-codes the size of &lt;h4> elements at 17.5 pixels. In the editor I'm developing, the default size is 18px. I find it's the most readable size for editing. Anyway, when you put a small head in the text using &lt;h4> the text is actually <i>smaller</i> than the surrounding text. Not good. Enter CSS variables. Declare --normal-font-size as 18px, override Bootstrap's idea of the size of &lt;h4>, and use the same variable in defining the size of all the other text. That way the relationship is clear in the code, and if we ever want to change the size of normal text, it's easy to do. This is progress. Code just got more maintainable. 👍",
+            "created": "Tue, 09 Oct 2018 17:44:56 GMT",
+            "type": "outline",
+            "image": "http://static.scripting.com/larryKing/images/2014/10/27/dog.gif"
+        },
+        {
+            "text": "My donations so far",
+            "created": "Tue, 09 Oct 2018 20:29:38 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "$25 each to:",
+                    "created": "Tue, 09 Oct 2018 20:29:42 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Jacky Rosen -- Nevada",
+                            "created": "Tue, 09 Oct 2018 20:29:43 GMT"
+                        },
+                        {
+                            "text": "Bill Nelson -- Florida"
+                        },
+                        {
+                            "text": "Heidi Heitkamp -- North Dakota"
+                        },
+                        {
+                            "text": "Kyrsten Sinema -- Arizona"
+                        },
+                        {
+                            "text": "Claire McCaskill -- Missouri"
+                        },
+                        {
+                            "text": "Beto O'Rourke -- Texas"
+                        }
+                    ]
+                },
+                {
+                    "text": "From <a href=\"http://scripting.com/misc/senate2018/\">this list</a>. :boom:",
+                    "created": "Tue, 09 Oct 2018 20:30:06 GMT"
+                }
+            ]
+        }
+    ]
+}
