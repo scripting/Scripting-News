@@ -1,0 +1,6 @@
+{
+    "text": "I found a perfect use-case for <a href=\"https://www.w3schools.com/css/css3_variables.asp\">CSS variables</a>. <a href=\"https://getbootstrap.com/\">Bootstrap</a> hard-codes the size of &lt;h4> elements at 17.5 pixels. In the editor I'm developing, the default size is 18px. I find it's the most readable size for editing. Anyway, when you put a small head in the text using &lt;h4> the text is actually <i>smaller</i> than the surrounding text. Not good. Enter CSS variables. Declare --normal-font-size as 18px, override Bootstrap's idea of the size of &lt;h4>, and use the same variable in defining the size of all the other text. That way the relationship is clear in the code, and if we ever want to change the size of normal text, it's easy to do. This is progress. Code just got more maintainable. 👍",
+    "created": "Tue, 09 Oct 2018 17:44:56 GMT",
+    "type": "outline",
+    "image": "http://static.scripting.com/larryKing/images/2014/10/27/dog.gif"
+}
