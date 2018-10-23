@@ -1,0 +1,29 @@
+{
+    "text": "Radio UserLand's coffee mug",
+    "created": "Mon, 22 Oct 2018 14:11:11 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Just for fun, I reconstructed the Radio UserLand coffee mug icon in 2002.",
+            "created": "Mon, 22 Oct 2018 14:14:18 GMT",
+            "subs": [
+                {
+                    "text": "<a href=\"http://127.0.0.1:5335/system/pages/subscriptions?url=http://scripting.com/rss.xml\" title=\"Click on the XML coffee mug to subscribe to &quot;Scripting News&quot; in Radio UserLand.\"><img src=\"http://scripting.com/images/2018/10/22/coffeeMugIcon.png\" border=\"0\" width=\"36\" height=\"36\" alt=\"Subscribe to &quot;Dave's Handsome Radio Blog!&quot; in Radio UserLand.\"></a>",
+                    "created": "Mon, 22 Oct 2018 14:11:27 GMT"
+                }
+            ]
+        },
+        {
+            "text": "The icon appeared on every Radio blog, and Manila site, and on the Scripting News home page. At the time that was a lot of support believe it or not. ",
+            "created": "Mon, 22 Oct 2018 14:14:53 GMT"
+        },
+        {
+            "text": "If you click the icon it sends a message to the server running on port 5335 of the local machine, which was Radio UserLand, telling it to subscribe to the URL for Scripting News' RSS feed. The app would come to the front, confirm that you want to subscribe, and if so it would add the feed to the database. ",
+            "created": "Mon, 22 Oct 2018 14:11:59 GMT"
+        },
+        {
+            "text": "It could have worked for any feed on any blog. It was our hope that it would catch on, but that wasn't the mood of the time. People wanted to blaze their own trail. And it probably should have moved to a centralized publicly owned resource, the commons (like DNS perhaps). But it wasn't meant to be, it didn't happen, and easy subscription became a feature-advantage of the silos over open blogging. ",
+            "created": "Mon, 22 Oct 2018 14:13:02 GMT"
+        }
+    ]
+}
