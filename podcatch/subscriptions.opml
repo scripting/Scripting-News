@@ -3,7 +3,7 @@
 	<head>
 		<title>My Podcast Feeds</title>
 		<dateCreated>Mon, 06 Apr 2015 16:19:35 GMT</dateCreated>
-		<dateModified>Thu, 23 Aug 2018 23:55:42 GMT</dateModified>
+		<dateModified>Tue, 23 Oct 2018 02:21:18 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="99% Invisible" title="99% Invisible" type="rss" xmlUrl="http://feeds.99percentinvisible.org/99percentinvisible" />
@@ -15,6 +15,7 @@
 		<outline text="American Masters" title="American Masters" type="rss" xmlUrl="http://feeds.feedburner.com/AmericanMastersPBS" />
 		<outline text="Ari Melber" title="Ari Melber" type="rss" xmlUrl="http://podcastfeeds.nbcnews.com/drone/api/query/audio/podcast/1.0/the-beat-with-ari-melber.xml" />
 		<outline text="Ars Technica" title="Ars Technica" type="rss" xmlUrl="http://arsdecrypted.libsyn.com/rss" />
+		<outline text="Bagman" title="Bagman" type="rss" xmlUrl="https://rss.art19.com/bagman" />
 		<outline text="BBC Documentary" title="BBC Documentary" type="rss" xmlUrl="http://podcasts.files.bbci.co.uk/p02nq0lx.rss" />
 		<outline text="Benjamen Walker’s Theory of Everything" title="Benjamen Walker’s Theory of Everything" type="rss" xmlUrl="http://feeds.prx.org/TOE" />
 		<outline text="Book Review" title="Book Review" type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/podcasts/bookupdate.xml" />
