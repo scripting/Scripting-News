@@ -1,47 +1,47 @@
 
 #### 10/28/18; 1:54:15 PM by DW
 
-    * This is an example of a worknotes outline.
-        * I take notes in this format as I work.
-        * It forms my todolist for today and subsequent days.
-        * It's the way I manage my projects. 
-        * Been doing this for decades.
-    * I want to publish these outlines to GitHub
-        * But there doesn't seem to be a good way to do it.
+* This is an example of a worknotes outline.
+    * I take notes in this format as I work.
+    * It forms my todolist for today and subsequent days.
+    * It's the way I manage my projects. 
+    * Been doing this for decades.
+* I want to publish these outlines to GitHub
+    * But there doesn't seem to be a good way to do it.
 
 #### 2/22/14 by DW
 
-    * v2.49 -- xmlToOutline takes a new optional param, flSetFocus. Defaults true. If false, we don't set the focus in the outline. This is useful when using the outliner to display text in a web page. If the outline is two screens down, you don't want the page to scroll down to it on reload. 
-    * Thanks to <a href="http://k4shif.blogspot.com/">Kashif Khan</a> for finding this fix. ;-)
+* v2.49 -- xmlToOutline takes a new optional param, flSetFocus. Defaults true. If false, we don't set the focus in the outline. This is useful when using the outliner to display text in a web page. If the outline is two screens down, you don't want the page to scroll down to it on reload. 
+* Thanks to <a href="http://k4shif.blogspot.com/">Kashif Khan</a> for finding this fix. ;-)
 
 #### 9/20/13 by DW
 
-    * Example1 -- Hello Outliner
-        * Change the initial value of renderMode from false to true.
-        * Added a separator before Concord Docs in the Source menu.
-        * Changed version number to 0.52.
-    * Markdown renderer
-        * As part of the build process for turning my OPML files into flat files for the GitHub repo, I have a script that does a simple rendering of an outline in Markdown. Previously it only understood one level hierarchies, but I was already using more levels without realizing the text was not showing up. 
-        * So I updated the renderer to handle multiple levels. It's a little tricky to get Markdown do indentation, but I ended up using with with &amp;nbsp; characters, which works since you can include HTML in Markdown. :-)
+* Example1 -- Hello Outliner
+    * Change the initial value of renderMode from false to true.
+    * Added a separator before Concord Docs in the Source menu.
+    * Changed version number to 0.52.
+* Markdown renderer
+    * As part of the build process for turning my OPML files into flat files for the GitHub repo, I have a script that does a simple rendering of an outline in Markdown. Previously it only understood one level hierarchies, but I was already using more levels without realizing the text was not showing up. 
+    * So I updated the renderer to handle multiple levels. It's a little tricky to get Markdown do indentation, but I ended up using with with &amp;nbsp; characters, which works since you can include HTML in Markdown. :-)
 
 #### 9/19/13 by DW
 
-    * Added worknotes section to readme.md.
-    * Rendering worknotes as <a href="https://github.com/scripting/concord/blob/master/worknotes.md">worknotes.md</a> at the top level of the repo.
+* Added worknotes section to readme.md.
+* Rendering worknotes as <a href="https://github.com/scripting/concord/blob/master/worknotes.md">worknotes.md</a> at the top level of the repo.
 
 #### 9/18/13 by DW
 
-    * Created the worknotes outline (this file). 
-    * Added a bunch of utility routines to concordUtils.js. 
-    * Example 2, the Reader app is working. 
-        * It works with any OPML file.
-        * Handles includes. 
-        * Anything Concord can display it can display, because it builds on Concord. ;-)
-    * Added a call to console.log in opKeystrokeCallback in example1. 
-    * Fixed opExpandCallback in Example 1, expanding <i>include</i> nodes was broken.
-    * Added commands in Hello Outliner/Source menu to open the Worknotes outline and the source for Example 2.
+* Created the worknotes outline (this file). 
+* Added a bunch of utility routines to concordUtils.js. 
+* Example 2, the Reader app is working. 
+    * It works with any OPML file.
+    * Handles includes. 
+    * Anything Concord can display it can display, because it builds on Concord. ;-)
+* Added a call to console.log in opKeystrokeCallback in example1. 
+* Fixed opExpandCallback in Example 1, expanding <i>include</i> nodes was broken.
+* Added commands in Hello Outliner/Source menu to open the Worknotes outline and the source for Example 2.
 
 #### 10/26/18; 9:55:44 AM by DW
 
-    * The problem with this way of doing it is the text doesn't wrap. So if there's a paragraph in the outline, forget about reading it in the GitHub view, it won't work. But if you put a .md extension on the file, there is no indentation. If you try to indent with lists, you get bullet characters on the left. If you use blockquotes you get vertical lines which are distracting. 
-    * I think outlines are an important enough format that they deserve their own file type in GitHub. I would be happy to develop the drivers, or help guide the development. I have a lot of experience with this media type. 
+* The problem with this way of doing it is the text doesn't wrap. So if there's a paragraph in the outline, forget about reading it in the GitHub view, it won't work. But if you put a .md extension on the file, there is no indentation. If you try to indent with lists, you get bullet characters on the left. If you use blockquotes you get vertical lines which are distracting. 
+* I think outlines are an important enough format that they deserve their own file type in GitHub. I would be happy to develop the drivers, or help guide the development. I have a lot of experience with this media type. 
