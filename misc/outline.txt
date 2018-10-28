@@ -1,0 +1,23 @@
+10/28/18; 1:54:15 PM by DW
+	This is an example of a worknotes outline.
+		I take notes in this format as I work.
+		It forms my todolist for today and subsequent days.
+		It's the way I manage my projects. 
+		Been doing this for decades.
+	I want to publish these outlines to GitHub
+		But there doesn't seem to be a good way to do it.
+10/27/18; 10:32:32 AM by DW
+	add this notes file to the GHP repo
+	write docs for config.json for GHP
+	send the accesstoken along with every call so the user can be ratelimited by GH, not GHP or the client.
+	done
+		create a separate app on github for the minimal editor
+			this also has to be configured on GHP server, it has to know the URL of the editor, so it can redirect properly based on which editor is involved. 
+		review interface out of githubpubApp, some routines aren't needed.
+			some need to be added
+				repoget and reposave
+					read and write from locations defined by username/repository/path
+					low-level routines, not part of blogging
+10/26/18; 9:55:44 AM by DW
+	The problem with this way of doing it is the text doesn't wrap. So if there's a paragraph in the outline, forget about reading it in the GitHub view, it won't work. But if you put a .md extension on the file, there is no indentation. If you try to indent with lists, you get bullet characters on the left. If you use blockquotes you get vertical lines which are distracting. 
+	I think outlines are an important enough format that they deserve their own file type in GitHub. I would be happy to develop the drivers, or guide the development. I have a lot of experience with this. 
