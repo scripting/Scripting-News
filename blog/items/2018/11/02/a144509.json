@@ -1,0 +1,34 @@
+{
+    "text": "Twitter's new API-wall",
+    "created": "Fri, 02 Nov 2018 14:45:09 GMT",
+    "type": "outline",
+    "description": "One of the nicest things about Twitter is they'd let anyone create an app. Those days are now over.",
+    "subs": [
+        {
+            "text": "One of the nicest things about Twitter is they'd let anyone create an <a href=\"https://apps.twitter.com/\">app</a>. This has made it possible to build platforms that users can run on their own servers, using Twitter as the identity system. ",
+            "created": "Fri, 02 Nov 2018 14:41:19 GMT",
+            "image": "http://scripting.com/images/2018/11/02/twitterTheParakeet.png"
+        },
+        {
+            "text": "Well those days are over. ",
+            "created": "Sat, 03 Nov 2018 01:08:25 GMT"
+        },
+        {
+            "text": "Now you have to <a href=\"http://scripting.com/images/2018/11/02/apply.png\">apply</a> to become a developer. I am trying to complete my application. I have been <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+twitter+api&t=h_&ia=web\">using</a> the Twitter API as long as they've had one. But I'm pretty sure I don't match their idea of what a developer is.",
+            "created": "Fri, 02 Nov 2018 14:45:51 GMT"
+        },
+        {
+            "text": "Luckily GitHub has as liberal a policy re devs as Twitter used to, and I have been (coincidentally) tooling up for GitHub as a development platform pretty intensely for the last month or so. Good timing I guess. ",
+            "created": "Fri, 02 Nov 2018 14:46:03 GMT"
+        },
+        {
+            "text": "But it's a sad moment. I'm guessing this is part of getting control over Russian bots, which is understandable. Maybe what we need is what GitHub is providing. There, the identity system isn't connected to a mass communication system as with Facebook and Twitter. Facebook effectively closed off their API a few months ago.",
+            "created": "Fri, 02 Nov 2018 14:46:22 GMT"
+        },
+        {
+            "text": "Update: My application was <a href=\"https://twitter.com/davewiner/status/1058389061583417347\">approved</a>. ",
+            "created": "Fri, 02 Nov 2018 16:03:42 GMT",
+            "urltweet": "https://twitter.com/davewiner/status/1058389061583417347"
+        }
+    ]
+}
