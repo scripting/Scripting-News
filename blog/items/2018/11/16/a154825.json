@@ -1,0 +1,7 @@
+{
+    "text": "<a href=\"https://github.com/scripting/likes\">Likes</a> is a Node-based server that manages an SQL database of triplets: username, URL of the thing they liked, and a timestamp. When you like something, it adds a record to the database. When you unlike, the record is removed. There's a <a href=\"http://scripting.com/code/nodelikes/client/\">demo app</a> that shows how to hook up to the server in your own web apps. I've factored the code so there's an <a href=\"https://github.com/scripting/likes/tree/master/browser/api\">API</a> and <a href=\"https://github.com/scripting/likes/tree/master/browser\">UI</a>. You probably will only use the API in your stuff. We use Twitter for identity. If you want to run your own server, which is fine with me, you will need to create an app on <a href=\"https://apps.twitter.com/\">Twitter</a>. Questions are <a href=\"https://github.com/scripting/likes/issues/1\">welcome</a>. ",
+    "created": "Fri, 16 Nov 2018 15:48:25 GMT",
+    "type": "outline",
+    "fllikeable": "true",
+    "image": "http://scripting.com/images/2017/10/10/maude.png"
+}
