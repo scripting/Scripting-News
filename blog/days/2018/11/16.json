@@ -1,0 +1,42 @@
+{
+    "text": "November 16",
+    "created": "Fri, 16 Nov 2018 15:01:50 GMT",
+    "name": "16",
+    "subs": [
+        {
+            "text": "<a href=\"https://github.com/scripting/likes\">Likes</a> is a Node-based server that manages an SQL database of triplets: username, URL of the thing they liked, and a timestamp. When you like something, it adds a record to the database. When you unlike, the record is removed. There's a <a href=\"http://scripting.com/code/nodelikes/client/\">demo app</a> that shows how to hook up to the server in your own web apps. I've factored the code so there's an <a href=\"https://github.com/scripting/likes/tree/master/browser/api\">API</a> and <a href=\"https://github.com/scripting/likes/tree/master/browser\">UI</a>. You probably will only use the API in your stuff. We use Twitter for identity. If you want to run your own server, which is fine with me, you will need to create an app on <a href=\"https://apps.twitter.com/\">Twitter</a>. Questions are <a href=\"https://github.com/scripting/likes/issues/1\">welcome</a>. ",
+            "created": "Fri, 16 Nov 2018 15:48:25 GMT",
+            "type": "outline",
+            "fllikeable": "true",
+            "image": "http://scripting.com/images/2017/10/10/maude.png"
+        },
+        {
+            "text": "I wrote <a href=\"https://github.com/scripting/likes#api-for-the-node-app\">docs</a> for the API for the Node app.",
+            "created": "Fri, 16 Nov 2018 17:20:30 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I was having an offline discussion with a famous journalist. He objected to me making general statements about journalism. But to me journalism is often, in some ways, a monolith. Yes I know some writers are better than others. And I know all tech isn't the same (his counter-example), but I also understand that as a user, I see tech companies acting in concert. I see limits they impose to give themselves power that I can't have. Same in journalism. So it's totally valid to write about journalism as an entity, because in some ways, for me, that's how I experience it. As with all writing, I only write about my experience.",
+            "created": "Fri, 16 Nov 2018 15:10:36 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "It would be great to have one writing system for the web that blow by all the limits imposed by the journalism and tech. No character limit. Full use of HTML. Titles, podcasts. RSS feeds in and out, so it's not a silo. ",
+            "created": "Fri, 16 Nov 2018 15:09:14 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I changed my Twitter because <i>One more thing</i> it seems to be how I preface every tweet. Might as well add it to the chrome. :boom:",
+            "created": "Fri, 16 Nov 2018 15:01:51 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1063445585733275653"
+        },
+        {
+            "text": "BTW, I'm writing better stuff on Twitter these days than I am here on my blog. It sucks. It should be the other way around. But once I get started typing in Twitter I can't stop. I guess the page never gets full? Have to figure it out. ",
+            "created": "Fri, 16 Nov 2018 15:03:10 GMT",
+            "type": "tweet",
+            "tweetId": "1063447644738076673",
+            "tweetUserName": "davewiner"
+        }
+    ]
+}
