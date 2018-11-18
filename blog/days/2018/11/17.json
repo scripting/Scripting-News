@@ -1,0 +1,53 @@
+{
+    "text": "November 17",
+    "created": "Sat, 17 Nov 2018 18:15:38 GMT",
+    "name": "17",
+    "subs": [
+        {
+            "text": "So what does a <i>Like</i> mean <a href=\"http://scripting.com/2018/11/17.html\">here</a> on Scripting News? It's a way to tell me that you saw what I wrote and found it likeable. It doesn't mean you necessarily agree. You're also registering your presence to other people who read this blog. Maybe it's more like a ping? Hmmm. I know the Like icon doesn't show up in your feed reader (maybe that can change) but it may be worth a trip to <a href=\"http://scripting.com/\">my blog</a> if you want to say hi to me and others who read this blog. That's what it means. ",
+            "created": "Sat, 17 Nov 2018 20:02:27 GMT",
+            "type": "outline",
+            "fllikeable": "true",
+            "image": "http://scripting.com/images/2018/11/17/patriot.png"
+        },
+        {
+            "text": "19-minute <a href=\"http://scripting.com/2018/11/17/theEthosOfListeningToUsers.m4a\">podcast</a> on the ethos of listening to users, not passively but <i>passionately</i> as if your existence depends on it. Today imho, that's where journalism is at. It's not hard to do, but it's going to make journalism more competitive which is a good thing! :boom:",
+            "created": "Sat, 17 Nov 2018 19:28:29 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2018/11/17/theEthosOfListeningToUsers.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "9324230",
+            "fllikeable": "true"
+        },
+        {
+            "text": "Thursday's <a href=\"https://www.nytimes.com/2018/11/15/podcasts/the-daily/abigail-spanberger-house-democrat-interview.html\">Daily podcast</a>, an interview with a newly elected Rep, is exactly what I'm looking for in journalism, in my podcast <a href=\"http://scripting.com/2018/11/17.html#a192829\">above</a>. Journalism needs the kind of sensible overhaul that Spamberger is bringing to Congress (except I do not support replacing Pelosi, we're totally lucky to have her now).",
+            "created": "Sat, 17 Nov 2018 19:57:00 GMT",
+            "type": "outline",
+            "fllikeable": "true"
+        },
+        {
+            "text": "Trump is a <a href=\"https://qz.com/1467787/trump-suggests-raking-might-have-spared-california-from-camp-fire/\">mix</a> of <a href=\"https://en.wikipedia.org/wiki/Being_There\">Being There</a>, <a href=\"https://en.wikipedia.org/wiki/Idiocracy\">Idiocracy</a> and <a href=\"https://en.wikipedia.org/wiki/Goodfellas\">Goodfellas</a>.",
+            "created": "Sat, 17 Nov 2018 23:27:07 GMT",
+            "type": "outline",
+            "fllikeable": "true"
+        },
+        {
+            "text": "I am no longer watching TV coverage of Trump. That means no more MSNBC. When Mueller indicts or Congress investigates, or if he resigns,  I'll be happy to watch. But I don't need any more on the depravity of El Orange. I know it all. And btw, so do you.",
+            "created": "Sat, 17 Nov 2018 23:38:08 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/11/17/marshmallowMan.png"
+        },
+        {
+            "text": "New feature: The <a href=\"http://likes.scripting.com/\">home page</a> of my Likes server <a href=\"http://scripting.com/images/2018/11/17/myLikes.png\">shows</a> a list of URLs that you've liked. To see the list, click the <i>Sign on Twitter</i> button at the bottom of the page. There's a new <a href=\"https://github.com/scripting/likes/commit/bd69d93b33a22fc246c0c09074970c744141c3c7#diff-6dca39da7c199d5eed52a31f2b11fda7\">version</a> of the server with the call that returns this list. You can only see the items you've liked. The call requires an access token. Comments and questions welcome <a href=\"https://github.com/scripting/likes/issues/1\">here</a>. ",
+            "created": "Sat, 17 Nov 2018 18:15:39 GMT",
+            "type": "outline",
+            "fllikeable": "true"
+        },
+        {
+            "text": "I've got a <a href=\"https://github.com/scripting/likes/blob/master/worknotes/notes.md\">worknotes page</a> for this project. ",
+            "created": "Sat, 17 Nov 2018 18:21:03 GMT",
+            "type": "outline",
+            "fllikeable": "true"
+        }
+    ]
+}
