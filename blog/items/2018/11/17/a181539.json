@@ -1,0 +1,6 @@
+{
+    "text": "New feature: The <a href=\"http://likes.scripting.com/\">home page</a> of my Likes server <a href=\"http://scripting.com/images/2018/11/17/myLikes.png\">shows</a> a list of URLs that you've liked. To see the list, click the <i>Sign on Twitter</i> button at the bottom of the page. There's a new <a href=\"https://github.com/scripting/likes/commit/bd69d93b33a22fc246c0c09074970c744141c3c7#diff-6dca39da7c199d5eed52a31f2b11fda7\">version</a> of the server with the call that returns this list. You can only see the items you've liked. The call requires an access token. Comments and questions welcome <a href=\"https://github.com/scripting/likes/issues/1\">here</a>. ",
+    "created": "Sat, 17 Nov 2018 18:15:39 GMT",
+    "type": "outline",
+    "fllikeable": "true"
+}
