@@ -1,0 +1,7 @@
+{
+    "text": "I did some work today on the <a href=\"http://scripting.com/code/xmlrpcdebugger/\">XML-RPC debugger</a>. Look in the <a href=\"http://scripting.com/images/2018/11/19/testsMenu.png\">Tests menu</a>. It populates the form with one of the <a href=\"https://github.com/scripting/xml-rpc/blob/master/examples/betty/betty.js\">standard tests</a> <a href=\"http://xmlrpc.scripting.com/validator1Docs.html\">from</a> <a href=\"http://xmlrpc.scripting.com/\">the</a> <a href=\"http://frontier.userland.com/reference/xml/xmlRpc/\">old days</a>. It's also preconfigured to talk to betty.userland.com, the same server we used in the late 90s, with all new code, written in JavaScript running in Node. Should be 100 percent backward compatible. More work to come, but wanted to show this to you all now. Ask questions <a href=\"https://github.com/scripting/xml-rpc/issues/6\">here</a>. ",
+    "created": "Mon, 19 Nov 2018 20:55:02 GMT",
+    "type": "outline",
+    "fllikeable": "true",
+    "image": "http://scripting.com/images/2018/11/19/mrKoolAid.png"
+}
