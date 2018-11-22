@@ -1,0 +1,6 @@
+{
+    "text": "A journey of a thousand miles begins with a single step. Here's a <a href=\"http://scripting.com/code/xmlrpcbrowserclient/\">new version</a> of a client that runs the standard \"XML-RPC\" test suite from the late 90s. In theory if an implementation passed the test 18 years ago, it should still pass it today. Consider this a ping asking the question Are You There? If you use or maintain an implementation of XML-RPC, please try the test and report the result in <a href=\"https://github.com/scripting/xml-rpc/issues/7\">this thread</a>. From this we'll start to rebuilt the XML-RPC clients list, showing only ones that are known to be alive. ",
+    "created": "Wed, 21 Nov 2018 16:30:29 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2018/05/17/mrNatural.png"
+}
