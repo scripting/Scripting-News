@@ -1,0 +1,41 @@
+{
+    "text": "November 21",
+    "created": "Wed, 21 Nov 2018 13:24:41 GMT",
+    "name": "21",
+    "subs": [
+        {
+            "text": "My next project is to find out how much life is left in XML-RPC.",
+            "created": "Wed, 21 Nov 2018 14:03:24 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "A journey of a thousand miles begins with a single step. Here's a <a href=\"http://scripting.com/code/xmlrpcbrowserclient/\">new version</a> of a client that runs the standard \"XML-RPC\" test suite from the late 90s. In theory if an implementation passed the test 18 years ago, it should still pass it today. Consider this a ping asking the question Are You There? If you use or maintain an implementation of XML-RPC, please try the test and report the result in <a href=\"https://github.com/scripting/xml-rpc/issues/7\">this thread</a>. From this we'll start to rebuilt the XML-RPC clients list, showing only ones that are known to be alive. ",
+            "created": "Wed, 21 Nov 2018 16:30:29 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/05/17/mrNatural.png"
+        },
+        {
+            "text": "Here's a <a href=\"https://www.youtube.com/watch?v=b9j4b2kyryc\">video demo</a> of the XML-RPC test suite.",
+            "created": "Wed, 21 Nov 2018 16:52:59 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=b9j4b2kyryc"
+        },
+        {
+            "text": "My two <a href=\"http://scripting.com/images/2018/11/21/annaAndFaffa.png\">Torino friends</a>. The <a href=\"http://thesaurus.land/?word=magnificent\">magnificent</a> Anna Masera, and the <a href=\"http://thesaurus.land/?word=insurgent\">insurgent</a> Raffaele Angius. ",
+            "created": "Wed, 21 Nov 2018 13:24:42 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "The Knicks season is now fully underway. We are at the point where when you look at the schedule the thought forms \"Who are the Knicks going to lose to tonight?\"",
+            "created": "Wed, 21 Nov 2018 13:31:42 GMT",
+            "type": "tweet",
+            "tweetId": "1065282752591917056",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "Sports has so many lessons for life. <a href=\"http://www.espn.com/nba/story/_/id/25287539/carmelo-anthony-part-ways-rockets-playing-10-games\">Melo</a> should have accepted, even embraced <a href=\"https://nypost.com/2016/07/13/how-carmelo-amare-pushed-jeremy-lin-out-mike-dantoni/\">Linsanity</a>. And the rest of us must stand behind Nancy Pelosi, because we need a winner on top of the Democratic Party during the presidential election year of 2020. We can't fuck around now. Trump must be sent on his way, resoundingly. ",
+            "created": "Wed, 21 Nov 2018 13:32:19 GMT",
+            "type": "outline"
+        }
+    ]
+}
