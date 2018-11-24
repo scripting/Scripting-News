@@ -1,0 +1,97 @@
+{
+    "text": "November 23",
+    "created": "Fri, 23 Nov 2018 16:57:42 GMT",
+    "name": "23",
+    "subs": [
+        {
+            "text": "Never forget. Last year <a href=\"http://scripting.com/images/2018/11/23/onePersonShoots600.png\">one person</a> shot over 600 people in <a href=\"https://en.wikipedia.org/wiki/2017_Las_Vegas_shooting\">Las Vegas</a>. It shouldn't be that easy for one person to shoot so many people.",
+            "created": "Fri, 23 Nov 2018 18:40:26 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/01/18/travis.png"
+        },
+        {
+            "text": "There's a new element, <a href=\"http://source.scripting.com/#1542988644000\">source:likes</a> in the <a href=\"http://source.scripting.com/\">source</a> namespace. It appears in the <a href=\"http://xmlviewer.scripting.com/?url=http://scripting.com/rss.xml\">RSS feed</a> for Scripting News. Feed readers can use the server URL to form a Like icon for each item that integrates with other feed readers. Perhaps the beginning of a way to build connections between people who read a blog via various feed readers. Updated the <a href=\"https://github.com/scripting/likes/blob/master/readme.md\">docs</a> for my Likes server to include a third <a href=\"https://github.com/scripting/likes#api-for-the-node-app\">API</a> endpoint. I'm probably going to support this in River5 to complete the circle.",
+            "created": "Fri, 23 Nov 2018 17:56:04 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I fixed \"likes\" for titled items. There <a href=\"http://scripting.com/2018/11/23/205133.html\">are</a> <a href=\"http://scripting.com/2018/11/23/175550.html\">two</a> on this page. The counts show on home page and on the story page. They should agree. :rocket:",
+            "created": "Fri, 23 Nov 2018 22:40:25 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I added notes about these changes in the <a href=\"https://github.com/scripting/likes/blob/master/worknotes/notes.md\">worknotes doc</a> for the Likes server.",
+            "created": "Fri, 23 Nov 2018 17:59:09 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Klobuchar for America",
+            "created": "Fri, 23 Nov 2018 20:51:33 GMT",
+            "type": "outline",
+            "description": "Her competence, coolness and good manners say everything I as an American would like to say to the world. ",
+            "subs": [
+                {
+                    "text": "I think <a href=\"https://en.wikipedia.org/wiki/Amy_Klobuchar\">Amy Klobuchar</a> would be a great candidate for president in 2020. Her competence, coolness and good manners say everything I as an American would like to say to the world. She's young, but not too young. A liberal who presents as a moderate. Thoughtful. Doesn't shoot from the hip.  ",
+                    "created": "Fri, 23 Nov 2018 20:51:41 GMT"
+                },
+                {
+                    "text": "Everything the current president is not. ",
+                    "created": "Fri, 23 Nov 2018 22:09:46 GMT"
+                },
+                {
+                    "text": "This is who we <i>really</i> are. ",
+                    "created": "Fri, 23 Nov 2018 20:52:15 GMT"
+                },
+                {
+                    "text": "If she wins, my pick for Attorney General would be Stacey Abrams. Like Sessions, from the South, but the South of today, not the south of the 1940s. Let's use the Democratic majorities to pass some strong updates to the Voting Rights Act, as a first priority. No more of the funny bullshit the Repubs have been doing to game the system. ",
+                    "created": "Fri, 23 Nov 2018 20:52:28 GMT"
+                },
+                {
+                    "text": "Secretary of Labor -- Sherrod Brown.",
+                    "created": "Fri, 23 Nov 2018 20:52:56 GMT"
+                },
+                {
+                    "text": "Secretary of State -- John Kerry of course.",
+                    "created": "Fri, 23 Nov 2018 20:53:10 GMT"
+                },
+                {
+                    "text": "Secretary of Defense -- Jim Mattis (a Dem tradition started by Obama).",
+                    "created": "Fri, 23 Nov 2018 20:53:19 GMT"
+                },
+                {
+                    "text": "Speaker of the House -- Nancy Pelosi, if she'll have us. :boom:",
+                    "created": "Fri, 23 Nov 2018 20:54:07 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Dave's adventure in Crapola land",
+            "created": "Fri, 23 Nov 2018 17:55:50 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://twitter.com/davewiner/status/1066024770762928129\">Woe is me</a>. NPM won't see my new version of <a href=\"https://www.npmjs.com/package/daverss\">daverss</a>.",
+                    "created": "Fri, 23 Nov 2018 17:17:56 GMT",
+                    "type": "outline",
+                    "urltweet": "https://twitter.com/davewiner/status/1066024770762928129"
+                },
+                {
+                    "text": "Today's project is adding a link to my <a href=\"http://likes.scripting.com/\">Likes server</a> to my <a href=\"http://xmlviewer.scripting.com/?url=http://scripting.com/rss.xml\">RSS feed</a>. That way feed readers if they were so inclined, could hook up all the readers of my blog to my Likes system. We'd have a nice little network for Liking stuff <i>without Facebook</i> in the middle. I find this is a very nice soft way of finding out who's reading my blog. Everyone is opt-in on everything. People want this from their blogs (Dries <a href=\"https://twitter.com/Dries/status/1065592741458075650\">mentioned</a> this yesterday) and everyone with a podcast wants to know who listened. The thing is to make it easy for people to share that bit of info, rather than extracting it without permission. It's the web way of doing tracking. I love this. Now if NPM would just <a href=\"https://twitter.com/davewiner/status/1066024770762928129\">get out</a> of the way. :boom:",
+                    "created": "Fri, 23 Nov 2018 17:24:49 GMT",
+                    "type": "outline",
+                    "image": "http://scripting.com/images/2018/11/23/greatVaVaVoom.png"
+                },
+                {
+                    "text": "I figured out what to do. I just copied the right file into the right spot in node_modules and voila it works. What a fucking egregious hack. The best kind. If NPM had worked as it was supposed to this is one of those IWTFT situations. ",
+                    "created": "Fri, 23 Nov 2018 17:49:16 GMT",
+                    "type": "outline"
+                },
+                {
+                    "text": "IWTFT is an acronym for It Worked The First Time.  ",
+                    "created": "Fri, 23 Nov 2018 17:50:12 GMT",
+                    "type": "outline"
+                }
+            ]
+        }
+    ]
+}
