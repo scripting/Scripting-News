@@ -1,0 +1,29 @@
+{
+    "text": "Dave's adventure in Crapola land",
+    "created": "Fri, 23 Nov 2018 17:55:50 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1066024770762928129\">Woe is me</a>. NPM won't see my new version of <a href=\"https://www.npmjs.com/package/daverss\">daverss</a>.",
+            "created": "Fri, 23 Nov 2018 17:17:56 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1066024770762928129"
+        },
+        {
+            "text": "Today's project is adding a link to my <a href=\"http://likes.scripting.com/\">Likes server</a> to my <a href=\"http://xmlviewer.scripting.com/?url=http://scripting.com/rss.xml\">RSS feed</a>. That way feed readers if they were so inclined, could hook up all the readers of my blog to my Likes system. We'd have a nice little network for Liking stuff <i>without Facebook</i> in the middle. I find this is a very nice soft way of finding out who's reading my blog. Everyone is opt-in on everything. People want this from their blogs (Dries <a href=\"https://twitter.com/Dries/status/1065592741458075650\">mentioned</a> this yesterday) and everyone with a podcast wants to know who listened. The thing is to make it easy for people to share that bit of info, rather than extracting it without permission. It's the web way of doing tracking. I love this. Now if NPM would just <a href=\"https://twitter.com/davewiner/status/1066024770762928129\">get out</a> of the way. :boom:",
+            "created": "Fri, 23 Nov 2018 17:24:49 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/11/23/greatVaVaVoom.png"
+        },
+        {
+            "text": "I figured out what to do. I just copied the right file into the right spot in node_modules and voila it works. What a fucking egregious hack. The best kind. If NPM had worked as it was supposed to this is one of those IWTFT situations. ",
+            "created": "Fri, 23 Nov 2018 17:49:16 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "IWTFT is an acronym for It Worked The First Time.  ",
+            "created": "Fri, 23 Nov 2018 17:50:12 GMT",
+            "type": "outline"
+        }
+    ]
+}
