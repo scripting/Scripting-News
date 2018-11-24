@@ -1,0 +1,5 @@
+{
+    "text": "There's a new element, <a href=\"http://source.scripting.com/#1542988644000\">source:likes</a> in the <a href=\"http://source.scripting.com/\">source</a> namespace. It appears in the <a href=\"http://xmlviewer.scripting.com/?url=http://scripting.com/rss.xml\">RSS feed</a> for Scripting News. Feed readers can use the server URL to form a Like icon for each item that integrates with other feed readers. Perhaps the beginning of a way to build connections between people who read a blog via various feed readers. Updated the <a href=\"https://github.com/scripting/likes/blob/master/readme.md\">docs</a> for my Likes server to include a third <a href=\"https://github.com/scripting/likes#api-for-the-node-app\">API</a> endpoint. I'm probably going to support this in River5 to complete the circle.",
+    "created": "Fri, 23 Nov 2018 17:56:04 GMT",
+    "type": "outline"
+}
