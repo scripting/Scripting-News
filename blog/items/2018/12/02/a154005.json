@@ -1,0 +1,38 @@
+{
+    "text": "New stuff to Like",
+    "created": "Sun, 02 Dec 2018 15:40:05 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Changes to Likes",
+            "created": "Sun, 02 Dec 2018 15:40:10 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "A new <a href=\"http://weblikes.org/\">home page</a> to tie all this stuff together and a new domain, weblikes.org.",
+                    "created": "Sun, 02 Dec 2018 15:40:16 GMT"
+                },
+                {
+                    "text": "The first <a href=\"http://scripting.com/code/nodelikes/client/\">demo app</a> is nice, but it was complex. We needed a <a href=\"http://scripting.com/code/nodelikes/helloworld/\">Hello World app</a>, so now there is one. <a href=\"https://github.com/scripting/likes/tree/master/examples/helloWorld\">Source</a> provided, of course. ",
+                    "created": "Sun, 02 Dec 2018 15:41:34 GMT"
+                },
+                {
+                    "text": "Now that there are two example apps, the repository needed a new organization. There's now an <a href=\"https://github.com/scripting/likes/tree/master/examples\">examples folder</a> at the top level, and the <a href=\"https://github.com/scripting/likes/tree/master/api\">JavaScript API</a> is in its own folder. Code to include it must change as well. This is exemplified in the <a href=\"https://github.com/scripting/likes/tree/master/examples\">examples</a>.",
+                    "created": "Sun, 02 Dec 2018 15:45:28 GMT"
+                },
+                {
+                    "text": "New options for the JavaScript API: 1. You can omit the word \"likes,\" as we do on \"Scripting News\", and 2. Have the Like bits appended instead of prepended. Check out <a href=\"https://github.com/scripting/likes/blob/master/examples/helloWorld/code.js\">code</a> in the Hello World app to see how they're set.",
+                    "created": "Sun, 02 Dec 2018 15:47:35 GMT"
+                },
+                {
+                    "text": "Various CSS edits that allow the environment defaults to rule the rendering of Likes as opposed to having the values hard-coded in the CSS for likes. ",
+                    "created": "Sun, 02 Dec 2018 15:50:32 GMT"
+                }
+            ]
+        },
+        {
+            "text": "There were breaking changes in this release. if you've already deployed, sorry. I haven't heard from anyone who has. If you're depending on this toolkit, great. (No sarcasm.) Please provide <a href=\"https://github.com/scripting/likes/issues/1\">feedback</a> on the changes and make suggestions or just say hi. ",
+            "created": "Sun, 02 Dec 2018 16:12:58 GMT"
+        }
+    ]
+}
