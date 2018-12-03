@@ -1,0 +1,88 @@
+{
+    "text": "December 2",
+    "created": "Sun, 02 Dec 2018 05:18:50 GMT",
+    "name": "02",
+    "subs": [
+        {
+            "text": "They were playing <a href=\"https://en.wikipedia.org/wiki/Grateful_Dead\">Dead</a> music in the local Whole Foods today.",
+            "created": "Mon, 03 Dec 2018 03:15:34 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Netflix should link to the Metacritic page for a show from the show. One click to find out what the reviewers think. Also, Metacritic should have an API that returns the aggregate score for a title.",
+            "created": "Mon, 03 Dec 2018 03:15:59 GMT",
+            "type": "tweet",
+            "tweetId": "1069430722153328645",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "Spend <a href=\"https://www.smh.com.au/national/why-i-m-spending-100-million-on-the-pursuit-of-truth-20181202-p50jnv.html\">$100 million</a> teaching 100K people the basics of journalism.",
+            "created": "Mon, 03 Dec 2018 03:22:35 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/days/2018/12/02.json\">This link</a> will take you to the JSON version of the posts for today once the nightly backup is done at 12PM Eastern.",
+            "created": "Mon, 03 Dec 2018 03:42:36 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Reminder to self. I should invest time in keeping <a href=\"http://bingeworthy.io/tv/\">Bingeworthy for TV</a> up to date. I'm stuck now looking for something to binge on an upcoming trip. Coming up blank. Might re-watch something I loved. ",
+            "created": "Sun, 02 Dec 2018 18:33:57 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "In <a href=\"https://www.freep.com/story/news/politics/2018/11/29/michigan-bill-limit-democratic-power/2156549002/\">Michigan</a> and <a href=\"https://www.jsonline.com/story/news/politics/2018/12/01/lawsuit-looms-over-proposed-limit-early-voting-wisconsin/2174110002/\">Wisconsin</a>, Republican legislatures are <a href=\"https://twitter.com/EricHolder/status/1069128623582601216\">voting</a> to disempower the newly elected governors and attorney generals, a repeat of a trick the <a href=\"https://slate.com/human-interest/2016/12/north-carolina-legislative-coup-an-attack-on-democracy.html\">NC legislature</a> played in 2016. The Repubs are playing tricks to disempower the people of their states who voted for a change of government. They may succeed but the light should shine brightly on them, and people should not be allowed to forget. This is a party you can't elect without them turning on you. They <i>truly</i> are enemies of the people. ",
+            "created": "Sun, 02 Dec 2018 16:49:37 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/09/02/mrFrog.png"
+        },
+        {
+            "text": "Amidst all the glowing eulogies of <a href=\"https://en.wikipedia.org/wiki/George_H._W._Bush\">Bush41</a>, and he deserves a lot of praise, remember his campaign started the era of <a href=\"https://www.seattletimes.com/entertainment/movies/he-put-the-dirt-in-dirty-politics/\">deplorable</a> Republican politics. His presidential biography must include that legacy too.",
+            "created": "Sun, 02 Dec 2018 16:58:22 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Week 2. Now at Trump Tower, more self-deprecating jokes, disowns his children, has Al Franken and Doris Kearns Goodwin over for dinner, takes off his fat-suit. \"Glad to finally be the real me,\" he says. Goes out ice skating with son Barron at the Trump rink in Central Park.",
+            "created": "Sun, 02 Dec 2018 05:18:51 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "New stuff to Like",
+            "created": "Sun, 02 Dec 2018 15:40:05 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Changes to Likes",
+                    "created": "Sun, 02 Dec 2018 15:40:10 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "A new <a href=\"http://weblikes.org/\">home page</a> to tie all this stuff together and a new domain, weblikes.org.",
+                            "created": "Sun, 02 Dec 2018 15:40:16 GMT"
+                        },
+                        {
+                            "text": "The first <a href=\"http://scripting.com/code/nodelikes/client/\">demo app</a> is nice, but it was complex. We needed a <a href=\"http://scripting.com/code/nodelikes/helloworld/\">Hello World app</a>, so now there is one. <a href=\"https://github.com/scripting/likes/tree/master/examples/helloWorld\">Source</a> provided, of course. ",
+                            "created": "Sun, 02 Dec 2018 15:41:34 GMT"
+                        },
+                        {
+                            "text": "Now that there are two example apps, the repository needed a new organization. There's now an <a href=\"https://github.com/scripting/likes/tree/master/examples\">examples folder</a> at the top level, and the <a href=\"https://github.com/scripting/likes/tree/master/api\">JavaScript API</a> is in its own folder. Code to include it must change as well. This is exemplified in the <a href=\"https://github.com/scripting/likes/tree/master/examples\">examples</a>.",
+                            "created": "Sun, 02 Dec 2018 15:45:28 GMT"
+                        },
+                        {
+                            "text": "New options for the JavaScript API: 1. You can omit the word \"likes,\" as we do on \"Scripting News\", and 2. Have the Like bits appended instead of prepended. Check out <a href=\"https://github.com/scripting/likes/blob/master/examples/helloWorld/code.js\">code</a> in the Hello World app to see how they're set.",
+                            "created": "Sun, 02 Dec 2018 15:47:35 GMT"
+                        },
+                        {
+                            "text": "Various CSS edits that allow the environment defaults to rule the rendering of Likes as opposed to having the values hard-coded in the CSS for likes. ",
+                            "created": "Sun, 02 Dec 2018 15:50:32 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "There were breaking changes in this release. if you've already deployed, sorry. I haven't heard from anyone who has. If you're depending on this toolkit, great. (No sarcasm.) Please provide <a href=\"https://github.com/scripting/likes/issues/1\">feedback</a> on the changes and make suggestions or just say hi. ",
+                    "created": "Sun, 02 Dec 2018 16:12:58 GMT"
+                }
+            ]
+        }
+    ]
+}
