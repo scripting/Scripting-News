@@ -1,0 +1,15 @@
+{
+    "text": "Server outage report",
+    "created": "Wed, 05 Dec 2018 18:40:16 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "1:42PM Eastern: I've received several notes from users of \"LO2\" that the app isn't responding. I looked into it and found that the server it's running on has a full disk. Log files overflowing. Still haven't got a systematic way to deal with that. I just removed all the old log files and now the server has a lot of free space. It'll take a few minutes for everything to come back online, hopefully. Will report here. ",
+            "created": "Wed, 05 Dec 2018 18:40:30 GMT"
+        },
+        {
+            "text": "2:45PM: I think I have the server put back together after the outage. If you have any trouble running \"LO2\" please <a href=\"https://github.com/scripting/Scripting-News/issues/104\">report it here</a>. If you can, open the JavaScript console and look for error messages in red and include what you see. ",
+            "created": "Wed, 05 Dec 2018 19:45:15 GMT"
+        }
+    ]
+}
