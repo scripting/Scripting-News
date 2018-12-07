@@ -1,0 +1,5 @@
+{
+    "text": "Today I'm going to build a Node app that finds out how much space is available on the system disk and writes the result to a location on S3. This will allow my <a href=\"https://github.com/scripting/serverMonitor\">serverMonitor</a> app to periodically read those files and present them in a tabular form. I have to have an easy way to see if one of my servers has run out of space. Not sure exactly how I'm going to approach it. Update: Here's the <a href=\"https://github.com/scripting/freeDiskSpace/blob/master/freediskspace.js\">code</a>. It only works on Unix. I send a command to the shell asking it to run the DF command, get the result, and write the stats to S3. serverMonitor has been updated to look for the files for the server, and it shows me a table with the percentage free space. Problem solved. ",
+    "created": "Thu, 06 Dec 2018 13:39:57 GMT",
+    "type": "outline"
+}
