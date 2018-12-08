@@ -1,0 +1,6 @@
+{
+    "text": "Following up on yesterday's project. I now have a <a href=\"https://github.com/scripting/freeDiskSpace\">new app</a> running on each of my servers. Every minute, they find out how much space is free on the system disk, and the result is written to a file on S3. There's a file for each server. A central app, <a href=\"https://github.com/scripting/serverMonitor\">serverMonitor</a>, reads those files and stores the data in a file it generates that's then displayed by a JS app running in the browser. The net result, now I see an up to date report on disk space on all my servers any time I want. So the <a href=\"http://scripting.com/2018/12/05/184016.html\">problem</a> we had with \"LO2\" earlier this week, hopefully should not happen again. In the process I found out that people are using features I had basically forgotten were in the product. Yikes. :boom:",
+    "created": "Fri, 07 Dec 2018 18:28:25 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2018/12/07/yikes.png"
+}
