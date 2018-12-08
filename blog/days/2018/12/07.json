@@ -1,0 +1,29 @@
+{
+    "text": "December 7",
+    "created": "Fri, 07 Dec 2018 14:21:47 GMT",
+    "name": "07",
+    "subs": [
+        {
+            "text": "Following up on yesterday's project. I now have a <a href=\"https://github.com/scripting/freeDiskSpace\">new app</a> running on each of my servers. Every minute, they find out how much space is free on the system disk, and the result is written to a file on S3. There's a file for each server. A central app, <a href=\"https://github.com/scripting/serverMonitor\">serverMonitor</a>, reads those files and stores the data in a file it generates that's then displayed by a JS app running in the browser. The net result, now I see an up to date report on disk space on all my servers any time I want. So the <a href=\"http://scripting.com/2018/12/05/184016.html\">problem</a> we had with \"LO2\" earlier this week, hopefully should not happen again. In the process I found out that people are using features I had basically forgotten were in the product. Yikes. :boom:",
+            "created": "Fri, 07 Dec 2018 18:28:25 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/12/07/yikes.png"
+        },
+        {
+            "text": "<a href=\"https://en.wikipedia.org/wiki/Chris_Beard_(executive)\">Chris Beard</a> at Mozilla wrote a <a href=\"https://blog.mozilla.org/blog/2018/12/06/goodbye-edge/\">piece</a> that I totally agree with about the problem of Google dominance of the open web. I could have written that piece myself. In fact in a way I <a href=\"http://this.how/googleAndHttp/\">did</a>. But Mozilla hasn't listened any better than Google. Maybe if we want to keep the thread of a free web alive, we should listen better, and <i>help each other. </i>That was the original spirit of the web, not the dominance of big companies who don't feel obligated to listen to and work with individuals. To me, Mozilla looks as big as Google looks to them. ",
+            "created": "Fri, 07 Dec 2018 14:21:48 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/12/07/drummerboy.png"
+        },
+        {
+            "text": "I think this is the problem everywhere you look, in politics, journalism, tech, education, business -- organizations dominating individuals. That's why <a href=\"https://en.wikipedia.org/wiki/Alexandria_Ocasio-Cortez\">AOC</a> is so refreshing. One of us crashed the party. We hope that opens to door for more party-crashing. That, btw, was the great thing about the web when it came along. The tech industry was just as mired in bigco dominance as it is today. But the web paid no respect to their dominance. In come the people. I remember, I was there. I took advantage of the new opportunities.",
+            "created": "Fri, 07 Dec 2018 15:04:45 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "BTW, one of the reasons I find it so easy to remember <a href=\"https://en.wikipedia.org/wiki/Alexandria_Ocasio-Cortez\">AOC's</a> initials because it is also the name of a nice <a href=\"http://aocnyc.com/\">French restaurant</a> I like to go to in the West Village. ",
+            "created": "Fri, 07 Dec 2018 15:05:29 GMT",
+            "type": "outline"
+        }
+    ]
+}
