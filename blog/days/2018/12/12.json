@@ -1,0 +1,57 @@
+{
+    "text": "December 12",
+    "created": "Wed, 12 Dec 2018 14:32:47 GMT",
+    "name": "12",
+    "subs": [
+        {
+            "text": "What a thrill to <a href=\"http://scripting.com/images/2018/12/12/seeNakedJen.png\">see</a> NakedJen in the \"Likes\" here. :boom:",
+            "created": "Wed, 12 Dec 2018 21:24:29 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I just got an <a href=\"http://scripting.com/images/2018/12/12/baratundeEmail.png\">email</a> from <a href=\"https://twitter.com/baratunde\">@baratunde</a> about The Correspondent once again saying I'm part of a movement. No. They haven't done anything to justify that. They are a for-profit company. They make it sound like a charity. Tone it down.",
+            "created": "Wed, 12 Dec 2018 17:47:02 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://twitter.com/baratunde/status/1072932980123938818\">Response</a> from Baratunde on Twitter.",
+            "created": "Wed, 12 Dec 2018 20:50:10 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "The tech industry used to have rollouts like the one <a href=\"http://scripting.com/2018/12/11/131151.html\">The Correspondent</a> is doing. A new company wants to enter a market with a few well-known products. So they claim, on rollout, to have some new feature, usually hard to explain or obscured, that made their product revolutionary. The old products are old. Legacy. Roadkill. Since the press didn't care much for facts, and wanted to report on wars, they would run with the hype. A few years later the new technology is known not to be revolutionary. And the new company either gained entry or didn't. The incumbent products are still there. An example was \"object oriented\" in the early 90s. We now fully grok what it is, it's another way of factoring. Useful for sure, sometimes. But not game-changing. ",
+            "created": "Wed, 12 Dec 2018 17:58:02 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/12/12/squirrel.png"
+        },
+        {
+            "text": "So if Michael Cohen committed crimes that result in a <a href=\"https://www.axios.com/michael-cohen-prison-sentence-mueller-investigation-8a283541-870a-4334-af6e-6ca21d4c906d.html\">3 year sentence</a>, I guess Trump should go to jail for 3 years too.",
+            "created": "Wed, 12 Dec 2018 17:14:49 GMT",
+            "type": "tweet",
+            "tweetId": "1072902726869225472",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "Trump's hands are truly offensive. I hate the way he puts his hand in the face of people to hold the floor so he can repeat the same horseshit over and over. You could see it as he tried to <a href=\"https://www.youtube.com/watch?v=AZtCfBR8ZZQ\">talk over</a> Nancy Pelosi. He did it with Hillary Clinton. He does it when an interview isn't going the way he likes. It's nasty. Second point. When he threatens a <a href=\"https://www.politico.com/story/2018/12/11/trump-impeachment-white-house-1058779\">revolt</a> if he's impeached, that itself is cause to be removed from office. The president swears an oath to uphold the Constitution. Impeachment and removal are in the Constitution. Really it has to be the most impeachable offense there is. ",
+            "created": "Wed, 12 Dec 2018 16:23:11 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=AZtCfBR8ZZQ"
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/105\">Braintrust query</a>: I keep reading about Kubernetes and how it's taking over the world, but every piece also says it's very complicated. Why? Heroku set the initial prior art in this area. It's easy to get started with. Here we are many years later, it seems we are going the wrong way. Or am I missing the point. Isn't Kubernetes trying to solve the same problem as Heroku? In any case an open source user-deployable Heroku would be very welcome.  Update: Digital Ocean <a href=\"https://blog.digitalocean.com/digitalocean-releases-k8s-as-a-service/\">introduced</a> a simplified Kubernetes <a href=\"https://www.digitalocean.com/products/kubernetes/\">service</a> yesterday. I had no idea. Also, <a href=\"http://dokku.viewdocs.io/dokku/\">Dokku</a> was <a href=\"https://github.com/scripting/Scripting-News/issues/105#issuecomment-446627116\">recommended</a>. ",
+            "created": "Wed, 12 Dec 2018 15:18:40 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/12/12/rwbSanta.png"
+        },
+        {
+            "text": "I'm making a purchase that requires a credit check, and in the process, the lender said I needed to unfreeze my records at the three credit rating services. At first I didn't remember freezing them, but then on a bit of investigation I recalled that when Experian had their breach they offered to do the <a href=\"https://duckduckgo.com/?q=experian+credit+freeze&t=h_&ia=web\">freeze</a> and also monitor my credit for free. So now I had to figure out how to unfreeze the accounts. The bank gave me phone numbers. But all they can do is send you a credit report. Some are pretty humiliating about it. After much navigation, searching and puzzling I figured out how to turn off two of the three, but Experian, in trying to validate me, asked \"security questions\" that I answered correctly but they rejected. In the process I learned that apparently I had taken out an auto loan in 2017, a year that I didn't even own a car and most certainly didn't purchase one. So now I have another problem. But I guess it's their system that's fucked up, because if someone used my credit to buy a car, apparently they are making the payments, so wtf. This system is so broken, it's amazing we haven't yet had a total meltdown. Or maybe we have and we're living in its aftermath. ",
+            "created": "Wed, 12 Dec 2018 14:44:04 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I noted early this morning tweets from <a href=\"https://twitter.com/windley/status/1072783216858271744\">Phil Windley</a> and <a href=\"https://twitter.com/ChristopherA\">Chris Allen</a> about a conference in Switzerland where they have an easy way of explaining a new \"self-sovereign\" identity system. At some point I want to ask the question about how we can adapt the code we have working with Twitter as an identity system with this new system. It's important that for application developers it be as easy or easier than the currently available systems. ",
+            "created": "Wed, 12 Dec 2018 14:35:43 GMT",
+            "type": "outline"
+        }
+    ]
+}
