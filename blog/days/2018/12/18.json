@@ -1,0 +1,89 @@
+{
+    "text": "December 18",
+    "created": "Tue, 18 Dec 2018 14:36:56 GMT",
+    "name": "18",
+    "subs": [
+        {
+            "text": "There's now an <a href=\"http://xmlviewer.scripting.com/?url=http://scripting.com/comments/rss.xml\">RSS feed</a> for comments. ",
+            "created": "Tue, 18 Dec 2018 16:57:51 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/12/18/santa.png"
+        },
+        {
+            "text": "A <a href=\"https://github.com/scripting/xml-rpc/issues/8\">question</a> on the XML-RPC site about servers. How should they handle booleans. After almost 20 years since it first deployed, I have a practical answer. I also have a new <a href=\"https://github.com/scripting/xml-rpc/blob/master/xmlrpc.js\">implementation</a>, in JavaScript, that can still be changed. ",
+            "created": "Tue, 18 Dec 2018 16:58:40 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "New <a href=\"http://scripting.com/images/2018/12/18/wonderfulLife.png\">header image</a>, focuses on <a href=\"https://en.wikipedia.org/wiki/Donna_Reed\">Donna Reed</a> from <a href=\"https://en.wikipedia.org/wiki/It%27s_a_Wonderful_Life\">It's a Wonderful Life</a>, replaces a <a href=\"http://scripting.com/images/2018/11/26/fireplace.png\">picture</a> of a burning log in a fireplace. ",
+            "created": "Tue, 18 Dec 2018 21:16:29 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "The thing that I like about Facebook is that it theoretically gives me equal voice to Walt Mossberg. And to his credit, he often read things I wrote on Facebook. OTOH, when he quits FB it merits an <a href=\"https://www.nytimes.com/2018/12/18/technology/walt-mossberg-quit-facebook.html\">article</a> in the NYT. So he lives in a different media world than the rest of us.",
+            "created": "Tue, 18 Dec 2018 18:25:32 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "The Russians took advantage of the idiocy of the American electorate. So did Facebook and CNN, Fox and MSNBC. The NYT, the WP and Vanity Fair. All are making a fortune off it, but they aren't to blame, actually. They're just parasites. The disease is the idiocy. ",
+            "created": "Tue, 18 Dec 2018 15:37:53 GMT",
+            "type": "tweet",
+            "tweetId": "1075052592458280963",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "In a courtroom, the pros play an important role. But the jury and the defendant are the principals. Never forget that. If journalism is a civic act, it <i>must</i> involve the people in a similar way. As the principals.",
+            "created": "Tue, 18 Dec 2018 18:27:11 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1075053485404684288"
+        },
+        {
+            "text": "I thought this <a href=\"https://www.hackerfactor.com/blog/index.php?/archives/825-8-Reasons-Python-Sucks.html\">piece</a> about why Python sucks was interesting. I clicked on it because I always thought Python was a good language. Algol-like. And it had an idea similar to the one in Frontier that program structure doesn't require curly braces and semicolons. It's an insight that seems to have escaped most other language designers. Well, it turns out the #1 reason Python sucks for this guy is breakage. I never understood the idea that breakage was okay in \"point versions.\" In practical terms, breakage is never okay. Never. With a little more thought and work, you can move forward compatibly, adding new features in a continuous fashion. I wasn't aware of how bad this was in Python. This is an idea that should be discussed at tech conferences. I even have a motto for it. Discontinuities suck. Disclaimer: Everything I've ever done <a href=\"http://scripting.com/davenet/1995/09/03/wemakeshittysoftware.html\">sucks</a>. The only software that's perfect is the software in your mind. ",
+            "created": "Tue, 18 Dec 2018 14:47:47 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Dear Facebook quitters who are in VC or who are writing books about tech... What happens when Facebook does something good or bad that you need to understand either for business or art? I’m a software dev and tech blogger, and I need my account because they are huge and going to be around for a while and I have to understand what they’re doing because like it or not they’re not going away.",
+            "created": "Tue, 18 Dec 2018 14:36:57 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "If the US govt were Facebook",
+            "created": "Tue, 18 Dec 2018 15:28:15 GMT",
+            "type": "outline",
+            "description": "What if we expected as much from the government as we do of tech icons?",
+            "subs": [
+                {
+                    "text": "If the US govt were a software company we'd all be quitting them. ",
+                    "created": "Tue, 18 Dec 2018 15:28:22 GMT"
+                },
+                {
+                    "text": "Imagine this. I signed up for Obamacare in 2012. It was great. ",
+                    "created": "Tue, 18 Dec 2018 15:28:56 GMT"
+                },
+                {
+                    "text": "Call that version 1.0. ",
+                    "created": "Tue, 18 Dec 2018 15:30:30 GMT"
+                },
+                {
+                    "text": "Now six years later, I'm still alive, I've paid in many tens of thousands into it, and drawn out much less, even though I have a pre-existing condition or two. ",
+                    "created": "Tue, 18 Dec 2018 15:29:04 GMT"
+                },
+                {
+                    "text": "What have they done?"
+                },
+                {
+                    "text": "They're removing features not adding them. And threatening to deprecate the whole thing. Every damn year there's some government-made crisis that threatens to put me at risk of needing some urgent and super-expensive health care <i>without insurance. </i>I'm happy to pay, it's worth it, but this really sucks! ",
+                    "created": "Tue, 18 Dec 2018 15:31:08 GMT"
+                },
+                {
+                    "text": "I'd quit, except it's the only health insurance I can get. ",
+                    "created": "Tue, 18 Dec 2018 15:31:17 GMT"
+                },
+                {
+                    "text": "So I can't."
+                }
+            ]
+        }
+    ]
+}
