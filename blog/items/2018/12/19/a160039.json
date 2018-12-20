@@ -1,0 +1,43 @@
+{
+    "text": "How I provision a new server",
+    "created": "Wed, 19 Dec 2018 16:00:39 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Create a new server running Ubuntu. ",
+            "created": "Wed, 19 Dec 2018 16:00:51 GMT"
+        },
+        {
+            "text": "Log on via the Terminal app on the Mac.",
+            "created": "Wed, 19 Dec 2018 16:01:06 GMT"
+        },
+        {
+            "text": "Install Node, Git and Forever per the instructions on the 1999-project <a href=\"https://github.com/scripting/1999-project/blob/master/docs/setup.md\">setup page</a>. ",
+            "created": "Wed, 19 Dec 2018 16:01:15 GMT",
+            "subs": [
+                {
+                    "text": "Update: The version of Node that's installed using the instructions on the setup page won't accept \"let\", \"const\" etc. I use those in some of my packages. The instructions on <a href=\"https://github.com/nodesource/distributions#debinstall\">this page</a> show you how to get the latest version. ",
+                    "created": "Wed, 19 Dec 2018 16:37:14 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Install Dropbox and the CLI app following these <a href=\"https://linoxide.com/linux-how-to/install-dropbox-ubuntu/\">instructions</a>. ",
+            "created": "Wed, 19 Dec 2018 16:02:05 GMT"
+        },
+        {
+            "text": "Create a folder in Dropbox for this server. Exclude all other folders:",
+            "created": "Wed, 19 Dec 2018 16:02:34 GMT",
+            "subs": [
+                {
+                    "text": "dropbox exclude add folder1 folder2",
+                    "created": "Wed, 19 Dec 2018 16:02:58 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Add apps to the folder for this server and run them in Forever.",
+            "created": "Wed, 19 Dec 2018 16:03:12 GMT"
+        }
+    ]
+}
