@@ -1,0 +1,5 @@
+{
+    "text": "Now that I can monitor disk space usage in my ServerMonitor app, I'm getting a better idea of where the problems are. One of the big ones I just discovered is the Dropbox cache. On one of my servers 1/2 of the disk space was used by the cache! The <a href=\"https://www.dropbox.com/help/desktop-web/cache-folder\">docs</a> say the cache is cleared every three days, but this clearly isn't working on at least one of my systems. According to the docs you can just remove the contents of the <i>~/Dropbox/.dropbox.cache/</i> folder. ",
+    "created": "Sun, 23 Dec 2018 14:20:48 GMT",
+    "type": "outline"
+}
