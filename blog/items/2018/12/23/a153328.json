@@ -1,0 +1,25 @@
+{
+    "text": "How I got a bad rep with AWS?",
+    "created": "Sun, 23 Dec 2018 15:33:28 GMT",
+    "type": "outline",
+    "description": "I always wonder if this (bad) coincidence in timing was the reason Amazon stopped taking my calls?",
+    "subs": [
+        {
+            "text": "A long time ago, in 2010, I was selling my house in Berkeley while living in NYC. On the weekend I had to move out, I had two days to get everything done and then drive back to NY, my main server on EC2 went down. Just died. So I quickly (the movers were arriving) redirected to another server and wrote a post asking if anyone reading my blog had a clue what the problem might be. It never occurred to me that it would be escalated to a problem inside Amazon, that they would treat my post as an urgent request for support. I was asking readers of my blog, many of whom use AWS, if they had any ideas that I could quickly look at that might help me find the problem. This is something I have always done here, today I call them <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+braintrust+query&t=h_&ia=web\">braintrust queries</a>. My readers are smart, generous, know their stuff, and love to show off. I take advantage of that, and am always sure to publicly post the results so it becomes part of the knowledge base of the open web.  ",
+            "created": "Sun, 23 Dec 2018 15:33:35 GMT",
+            "image": "http://scripting.com/images/2018/12/23/santa.png"
+        },
+        {
+            "text": "Anyway, I got a call from an engineer at Amazon as a dozen people were working in the house I was turning over in a few hours, loading up stuff, asking for help, etc. The call couldn't have come at a worse time. I explained I couldn't talk, and said goodbye. The guy at the other end sounded surprised and miffed. I imagine in his mind he was doing me a huge favor (he was) and somehow I couldn't stop everything to get the (unexpected) help. At the same time I felt unworthy of the support, yet unable to accept it. ",
+            "created": "Sun, 23 Dec 2018 15:34:47 GMT"
+        },
+        {
+            "text": "To make matters worse, when I finally did find the problem, it was a server log overflowing, getting so large the software just thrashed, it couldn't complete a request. It wasn't Amazon software. As soon as I emptied the log, the server returned to normal.",
+            "created": "Sun, 23 Dec 2018 15:35:57 GMT"
+        },
+        {
+            "text": "Anyway, I'm often working on stuff that makes their system better. If this is the reason we don't communicate, what a misunderstanding and what a missed opportunity. ",
+            "created": "Sun, 23 Dec 2018 15:38:42 GMT"
+        }
+    ]
+}
