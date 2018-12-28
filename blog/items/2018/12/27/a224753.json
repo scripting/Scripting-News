@@ -1,0 +1,28 @@
+{
+    "text": "Testing date equality in JS",
+    "created": "Thu, 27 Dec 2018 22:47:53 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Today I <a href=\"https://jsfiddle.net/ha9g2w5j/\">learned</a> that testing two dates for equality in JavaScript does not work as a reasonable person might expect. ",
+            "created": "Thu, 27 Dec 2018 22:48:04 GMT",
+            "subs": [
+                {
+                    "text": "var d1 = new Date (\"March 12, 1994\");",
+                    "created": "Thu, 27 Dec 2018 22:48:08 GMT"
+                },
+                {
+                    "text": "var d2 = new Date (\"March 12, 1994\");"
+                },
+                {
+                    "text": "alert (d1 == d2);",
+                    "created": "Thu, 27 Dec 2018 22:48:09 GMT"
+                }
+            ]
+        },
+        {
+            "text": "The answer in the alert is false.",
+            "created": "Thu, 27 Dec 2018 22:51:06 GMT"
+        }
+    ]
+}
