@@ -1,0 +1,62 @@
+{
+    "text": "December 27",
+    "created": "Thu, 27 Dec 2018 14:39:37 GMT",
+    "name": "27",
+    "subs": [
+        {
+            "text": "Now that the hype about <a href=\"http://scripting.com/2018/12/11/131151.html\">The Correspondent</a> has died down, thankfully, re-focus on the problem that Medium presents for the news industry. This morning I almost pointed to two on-topic (for me) pieces on Medium. I didn't do it, because every time I do, it creates a burden for all of us to overcome down the road. Think about the irony that TheC, a publishing company, posted their corporate statements during the rollout on Medium. What happens when they open their service for real? Will they publish their stories there too? Medium has something other news orgs don't (and they are a news org, by any reasonable definition) -- deep pockets. Evan Williams has billions he can keep it floating with. He has a long time to figure out how to make it work economically. TheC has $2.5 million. Every news org and blogger has a problem with Medium, whether they realize it or not. The more it is assumed that significant writing appears there, the harder it will be to publish elsewhere. ",
+            "created": "Thu, 27 Dec 2018 15:45:05 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/12/10/thisIsNextYear.png"
+        },
+        {
+            "text": "If you accept the premise that Medium is a news org, consider that they're the only one who creates a somewhat level playing field for paid and non-paid writers. In other words, imho, they're doing exactly what TheC (and many others) should be doing and aren't. They probably don't see Medium as competition. If so, that is wrong, they very much are. The economics of news doesn't follow the same rules it did in the print era. We need to lower the gates and let more people in. The challenge then becomes deciding who are following ethical guidelines required to be considered news, or the different rules that apply to op-ed writers. There's a lot of brainpower that's going to waste. Our <a href=\"https://climate.nasa.gov/\">problems</a> are <a href=\"https://www.amazon.com/Tyranny-Twenty-Lessons-Twentieth-Century/dp/0804190119\">so big</a>, and the capabilities of the professionals so limited, that it's suicide to not try to tap the big resource that's out there, ready to be used. Medium is the only one who's doing it.",
+            "created": "Thu, 27 Dec 2018 15:57:03 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/12/27/snyderBook.png"
+        },
+        {
+            "text": "The danger of Medium is two-fold. Without competition, and right now they don't have any, we're right back where we were before the web, only it's worse. And they haven't made any comittment to keeping their archive accessible, nor do they give people the ability to move their content off Medium without breaking links. Even though they have deep pockets, they could fail to find a business model, and shut down, leaving a huge hole in the web, over many years. You could see we crossed a dangerous line when our political leaders, including the president, were putting things on the record on Medium. Centralization is not good, esp centralization without a long-term economic model. And the cost of hosting text documents is so low that it's ridiculous for the rest of us to cede so much power to one company, yet we're doing it. It's a case study in why it's wrong to blame Facebook for what's wrong with their system, we're doing it again with Medium. ",
+            "created": "Thu, 27 Dec 2018 16:05:59 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I saw a thing on the news that <a href=\"https://www.foxnews.com/science/saturns-rings-are-disappearing-nasa-warns\">Saturn's rings</a> might be gone soon and I automatically thought \"climate change I don't know\" and then..",
+            "created": "Thu, 27 Dec 2018 14:39:38 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Today is my \"little\" brother Peter's 60th birthday. Here he is <a href=\"http://scripting.com/images/2018/12/27/proudMamaEveWithInfantPeterAndUncleDaveyExpressingConcern.png\">pictured</a> shortly after birth on this day in 1958. I'm the little dude on his right who's freaking out. I've had that look on my face pretty much ever since. We're all that's left of the clan <a href=\"http://scripting.com/images/2018/12/27/evesFamilyInRockaway.png\">pictured here</a>, taken in 1961 or 1962. Time is a funny thing. <a href=\"https://www.youtube.com/watch?v=nFxjnUPRwx4\">As they say</a> it all seems like yesterday. It goes by in a flash.",
+            "created": "Thu, 27 Dec 2018 14:42:19 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Testing date equality in JS",
+            "created": "Thu, 27 Dec 2018 22:47:53 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Today I <a href=\"https://jsfiddle.net/ha9g2w5j/\">learned</a> that testing two dates for equality in JavaScript does not work as a reasonable person might expect. ",
+                    "created": "Thu, 27 Dec 2018 22:48:04 GMT",
+                    "subs": [
+                        {
+                            "text": "var d1 = new Date (\"March 12, 1994\");",
+                            "created": "Thu, 27 Dec 2018 22:48:08 GMT"
+                        },
+                        {
+                            "text": "var d2 = new Date (\"March 12, 1994\");"
+                        },
+                        {
+                            "text": "alert (d1 == d2);",
+                            "created": "Thu, 27 Dec 2018 22:48:09 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "The answer in the alert is false.",
+                    "created": "Thu, 27 Dec 2018 22:51:06 GMT"
+                }
+            ]
+        }
+    ]
+}
