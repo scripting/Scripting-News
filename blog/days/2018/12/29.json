@@ -1,0 +1,54 @@
+{
+    "text": "December 29",
+    "created": "Sat, 29 Dec 2018 16:13:48 GMT",
+    "name": "29",
+    "subs": [
+        {
+            "text": "7-minute <a href=\"http://scripting.com/2018/12/29/aStoryAboutPresidentsBartletAndGassee.m4a\">podcast</a> story about two presidents, <a href=\"https://en.wikipedia.org/wiki/Josiah_Bartlet\">Bartlet</a> and <a href=\"https://en.wikipedia.org/wiki/Jean-Louis_Gass%C3%A9e\">Gassée</a>, and <a href=\"https://en.wikipedia.org/wiki/Guy_Kawasaki\">Guy Kawasaki</a>, and how deveopers benefit from stories about how real people use their products. ",
+            "created": "Sat, 29 Dec 2018 16:43:20 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2018/12/29/aStoryAboutPresidentsBartletAndGassee.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "3752547"
+        },
+        {
+            "text": "As I get deeper into SQL databases, I can explain the innovations of <a href=\"http://scripting.com/frontier/manual/chapter06.html\">Frontier's object database</a> in new ways. For example, with SQL, the way you access structures in memory is dramatically different from how you access structures in the database. In Frontier, there is no difference. You use the same operators no matter where the data resides. The system manages the caching of data transparently. As far as I know, no other enviroment does this.",
+            "created": "Sat, 29 Dec 2018 17:52:06 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "An interesting idea? A community project to build a social graph of people who knew/worked with each other in the early days of tech. It could be an interesting way to get the gangs back together \"one more time.\" I wonder what the people who were at Personal Software would do with this idea. 1980s Apple people and developers. People who wrote for Wired in the early days. People who were at the first O'Reilly open source conference. The Silicon Valley Asshole Society. The first 100 bloggers, first 100 podcasters. People who worked at General Magic, Macromind and Marimba. People who went to Fred and Sylvia's cybersalons. Original subscribers of DaveNet. People who know NakedJen. People who were at the various BloggerCons. People who demo'd at the first Demo. Berkman Center alumni. Initial sponsors of the EFF.  I would <i>love</i> to participate in this project. ",
+            "created": "Sat, 29 Dec 2018 16:46:32 GMT",
+            "type": "outline",
+            "image": "http://static.scripting.com/larryKing/images/2014/04/13/grandpa.gif"
+        },
+        {
+            "text": "Developers who won't use Facebook are like the Dylan fans who stopped listening when <a href=\"https://en.wikipedia.org/wiki/Electric_Dylan_controversy\">he went electric</a>. They eventually caved, of course, or they missed some great music.",
+            "created": "Sat, 29 Dec 2018 16:18:15 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "You may hate Facebook but at least they publish whatever I write. I've only once had an item banned from FB and it was comedic, not tragic. Contrast this to the NYT that offers very little opportunity for me to get an idea through to other users of the NYT. Yes I do think this is a valid comparison. ",
+            "created": "Sat, 29 Dec 2018 16:15:24 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "We're all bonkers inside. The most bonkers thing is to pretend that you're not.",
+            "created": "Sat, 29 Dec 2018 16:14:57 GMT",
+            "type": "tweet",
+            "tweetId": "1079048204057014273",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "This came up in a discussion on Facebook",
+            "created": "Sat, 29 Dec 2018 16:13:49 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Do you ever wonder, while watching a nature documentary, what it must feel like to be the <a href=\"https://twitter.com/koopa_kinte/status/1078875929437450241\">prey</a> who's being eaten while they're still alive? Do you think they feel pain? Perhaps they feel an overwhelming sense of purpose, well-being. To know that they're being of use? It's hard to know. But I think that's where <a href=\"https://www.washingtonpost.com/crime-law/2018/12/22/hes-jailed-life-after-murdering-his-wife-kids-so-why-do-women-send-him-love-letters/?fbclid=IwAR3mLXP66MoEtDCX_YuU3ocToF2bqWE0KhJHPNHGyoxMtftf_28Eng3uO1c&utm_term=.2782a0c79042\">this impulse</a> originates. We all know at some point we will be overwhelmed and dragged under, we'll die. And I'm guessing it isn't an entirely unpleasant experience.",
+                    "created": "Sat, 29 Dec 2018 16:14:05 GMT"
+                }
+            ]
+        }
+    ]
+}
