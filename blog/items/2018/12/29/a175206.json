@@ -1,0 +1,5 @@
+{
+    "text": "As I get deeper into SQL databases, I can explain the innovations of <a href=\"http://scripting.com/frontier/manual/chapter06.html\">Frontier's object database</a> in new ways. For example, with SQL, the way you access structures in memory is dramatically different from how you access structures in the database. In Frontier, there is no difference. You use the same operators no matter where the data resides. The system manages the caching of data transparently. As far as I know, no other enviroment does this.",
+    "created": "Sat, 29 Dec 2018 17:52:06 GMT",
+    "type": "outline"
+}
