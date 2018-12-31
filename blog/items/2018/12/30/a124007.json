@@ -1,0 +1,29 @@
+{
+    "text": "Kernelizing",
+    "created": "Sun, 30 Dec 2018 12:40:07 GMT",
+    "type": "outline",
+    "description": "In music, everyone plays the piano, in science everyone speaks English and the language of math is standardized and universal. But there is no such standardization in software technology, though there could.",
+    "subs": [
+        {
+            "text": "Yesterday I <a href=\"http://scripting.com/2018/12/29.html#a175206\">mentioned</a> that Frontier's object database has a unique feature that makes programming persistent data easier than in other environments. This is because the database and interpreter are integrated, they were built at the same time to be part of the same environment. I reasoned that if data persisted automatically it would make programming easier.     ",
+            "created": "Sun, 30 Dec 2018 12:49:01 GMT",
+            "image": "http://scripting.com/images/2018/12/30/cornFlakes.png"
+        },
+        {
+            "text": "This is the same insight that made blogging possible. Prior to <a href=\"http://scripting.com/davenet/1999/05/24/editThisPage.html\">Edit This Page</a>, websites had a content model where the pages you authored existed in two places, where you edit them and where they are published. By forcing there to be only one view, editing became vastly simpler. Same with data inside an app. If the data exists in one form outside the app and has to be \"brought in\" you then have to manage the movement, and keep a model for both places in your head at the same time. If you could push the movement down into the OS, it could of course store the data in a different form from the internal represenation, but that's hidden from the programmer. It's a virtual machine concept or as Ted Nelson calls it a \"virtuality.\" ",
+            "created": "Sun, 30 Dec 2018 12:54:28 GMT"
+        },
+        {
+            "text": "This idea comes up all over the place. If you can push a function down into the lower level of the stack, abstracting it, you can simplify programming and create more reliable systems that require fewer programmers to build and maintain them. We called this process \"kernelizing\" at UserLand. ",
+            "created": "Sun, 30 Dec 2018 12:55:44 GMT"
+        },
+        {
+            "text": "When I mentioned all this on Twitter, of course it was pointed out that it sounds like something else someone else once did. I always wonder when I hear this if it's true. We don't have a simple enough language for explaining our innovations so that people who speak different languages can understand them. In music, everyone plays the piano, in science everyone speaks English and the language of math is standardized and universal. But there is no such standardization in software technology, though there could. I hoped that JavaScript would turn out to be that standard, but it's changing so much now that I have trouble understanding other people's code. ",
+            "created": "Sun, 30 Dec 2018 12:49:07 GMT"
+        },
+        {
+            "text": "I think we did a lot of things in Frontier that people can benefit from, but not if we fail to communicate how they work. People who worked in Frontier know, but the problem is how to explain the ideas to people who don't. Wes Felter suggested that I do videos to explain this. I'd like to. But I hardly know where to start. If you are a Frontier-knowledgeable person, please feel free to go first. :boom:",
+            "created": "Sun, 30 Dec 2018 12:57:21 GMT"
+        }
+    ]
+}
