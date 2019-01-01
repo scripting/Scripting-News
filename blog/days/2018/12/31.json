@@ -1,0 +1,50 @@
+{
+    "text": "December 31",
+    "created": "Mon, 31 Dec 2018 15:44:21 GMT",
+    "name": "31",
+    "subs": [
+        {
+            "text": "<a href=\"http://scripting.com/2018/12/31/whyTheNewCommentsAreSoGood.m4a\">18-minute podcast</a> about why the new comments are so good. Two main reasons. 1. It's inverted from a spam point of view. You comment in your Twitter flow. I get to read your comment because I follow the <a href=\"http://xmlviewer.scripting.com/?url=http://scripting.com/comments/rss.xml\">RSS feed</a> and the #scriptingnews tag. If I think what you said is valuable I can <i>like</i> it, or RT it or follow you. So there's a way for me to amplify your flow, but it's my choice. 2. Twitter's new 280-char limit works really well, as <a href=\"http://scripting.com/2018/12/31/155551.html\">noted</a> earlier. It's enough to express an idea, but not enough to write a blog post. Perfect. ",
+            "created": "Mon, 31 Dec 2018 20:16:19 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2018/12/31/whyTheNewCommentsAreSoGood.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "8646674",
+            "image": "http://scripting.com/images/2017/11/15/kristaps.png"
+        },
+        {
+            "text": "iTunes has been acting like an asshole today, refusing to copy files onto my iPhone. Had an idea. Can Dropbox on my iPhone play MP3s? It can. It's a way to avoid using iTunes to put podcasts on my iPhone. And they end up on all my devices. ",
+            "created": "Mon, 31 Dec 2018 16:19:56 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Comments on comments",
+            "created": "Mon, 31 Dec 2018 15:55:51 GMT",
+            "type": "outline",
+            "description": "Twitter, with its 280 character limit is now a good commenting system wrt my Comment Guidelines. Keep it short, provide a link, don't use comments to write blog posts. ",
+            "subs": [
+                {
+                    "text": "Reminder to myself and others who read this blog. Use the <i class=\"fa fa-retweet\"></i> feature here on Scripting News more. It's a way to comment on what's going on here, without using Disqus (which in its latest iterations has become really offensive).",
+                    "created": "Mon, 31 Dec 2018 15:44:22 GMT",
+                    "image": "http://scripting.com/images/2017/12/20/shrek.png"
+                },
+                {
+                    "text": "Twitter, with its 280 character limit is now a good commenting system wrt my <a href=\"http://guidelines.scripting.com/\">Comment Guidelines</a>. Keep it short, provide a link, don't use comments to write blog posts.  ",
+                    "created": "Mon, 31 Dec 2018 16:00:29 GMT"
+                },
+                {
+                    "text": "It's funny, I didn't write much about the comments feature when it came out on <a href=\"http://scripting.com/2018/12/16.html\">12/16</a> and <a href=\"http://scripting.com/2018/12/17.html\">subsequent</a> <a href=\"http://scripting.com/2018/12/18.html\">days</a>. I did start a <a href=\"https://github.com/scripting/Scripting-News/issues/106\">thread</a> on the repo, but there isn't much there. ",
+                    "created": "Mon, 31 Dec 2018 15:52:38 GMT"
+                },
+                {
+                    "text": "Comments are <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+comments&t=h_&ia=web\">much-discussed</a> over the years on <a href=\"http://scripting.com/\">this blog</a>.",
+                    "created": "Mon, 31 Dec 2018 15:46:20 GMT"
+                },
+                {
+                    "text": "Also there's an <a href=\"http://xmlviewer.scripting.com/?url=http://scripting.com/comments/rss.xml\">RSS feed</a> for comments. ",
+                    "created": "Mon, 31 Dec 2018 15:48:18 GMT"
+                }
+            ]
+        }
+    ]
+}
