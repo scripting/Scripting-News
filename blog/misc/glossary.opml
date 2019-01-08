@@ -3,17 +3,17 @@
 	<head>
 		<title>Glossary</title>
 		<dateCreated>Tue, 13 Jun 2017 13:42:31 GMT</dateCreated>
-		<dateModified>Sat, 15 Dec 2018 16:15:38 GMT</dateModified>
+		<dateModified>Mon, 07 Jan 2019 22:43:55 GMT</dateModified>
 		<ownerName>scripting.com</ownerName>
 		<ownerId>https://twitter.com/davewiner/</ownerId>
-		<expansionState>7,9,82</expansionState>
+		<expansionState>2,9,11,84</expansionState>
 		<vertScrollState>1</vertScrollState>
 		<windowTop>631</windowTop>
 		<windowLeft>1087</windowLeft>
 		<windowBottom>831</windowBottom>
 		<windowRight>1472</windowRight>
 		<flPublic>true</flPublic>
-		<lastCursor>8</lastCursor>
+		<lastCursor>1</lastCursor>
 		<ownerTwitterScreenName>davewiner</ownerTwitterScreenName>
 		<urlPublic>http://electricserver.scripting.com/users/davewiner/electric/glossary.opml</urlPublic>
 		<urlJson>http://electricserver.scripting.com/users/davewiner/electric/glossary.json</urlJson>
@@ -25,6 +25,9 @@
 	<body>
 		<outline text="&quot;1999.io&quot;" created="Tue, 13 Jun 2017 16:16:46 GMT">
 			<outline text="&lt;a href=&quot;http://1999.io/&quot;&gt;1999.io&lt;/a&gt;"/>
+			</outline>
+		<outline text="&quot;aoc&quot;" created="Mon, 07 Jan 2019 22:43:27 GMT">
+			<outline text="&lt;a href=&quot;https://twitter.com/AOC&quot;&gt;AOC&lt;/a&gt;" created="Mon, 07 Jan 2019 22:43:29 GMT"/>
 			</outline>
 		<outline text="&quot;Art Show&quot;" created="Mon, 02 Jul 2018 14:47:21 GMT">
 			<outline text="&lt;a href=&quot;http://artshow.scripting.com/&quot;&gt;Art Show&lt;/a&gt;" created="Mon, 02 Jul 2018 14:47:25 GMT"/>
