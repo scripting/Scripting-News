@@ -1,0 +1,102 @@
+{
+    "text": "January 8",
+    "created": "Tue, 08 Jan 2019 15:33:58 GMT",
+    "name": "08",
+    "subs": [
+        {
+            "text": "Do you like intelligent and irreverent political commentary? Then you must subscribe to the Radio Open Source <a href=\"http://radioopensource.org/\">podcast</a>. ",
+            "created": "Wed, 09 Jan 2019 02:39:23 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://twitter.com/TheBeatWithAri/status/1082780938382249984\">Angus King</a> on MSNBC said the thing I wished someone would say. 1. There already is a wall.  2. If you want to build something new, first tell us WTF it is because no one knows. I learned this from Leo McGarry on The West Wing. Don't accept the <a href=\"http://scripting.com/2016/09/08/hillaryGoToWestWingDebatePrepSchool.html\">premise</a> of the question. ",
+            "created": "Wed, 09 Jan 2019 00:52:43 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Anticipating <a href=\"https://www.flickr.com/\">Flickr's</a> change in <a href=\"https://www.theverge.com/2018/11/1/18051950/flickr-1000-photo-limit-free-accounts-changes-pro-subscription-smugmug\">policy</a>, I asked for a download of everything in my account. No response. I <i>have</i> received requests for me to subscribe. I might do it, but first I want copies of my stuff. ",
+            "created": "Tue, 08 Jan 2019 23:30:06 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/03/15/weTryHarder.png"
+        },
+        {
+            "text": "Finished bingeing <a href=\"https://www.netflix.com/title/80175945\">Get Shorty</a> on Netflix. I liked it, but like a lot of series, it just trails off at the end. A comedy masquerading as a crime story. Don't expect too much and you won't be disappointed. :boom:",
+            "created": "Tue, 08 Jan 2019 17:46:59 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "My friend Joe Moreno is looking for a <a href=\"http://blog.joemoreno.com/2019/01/needed-55-60-person-venue-in-silicon.html\">60-person venue</a> in Silicon Valley to rent. \"An ideal venue would be a college classroom with A/V.\" ",
+            "created": "Tue, 08 Jan 2019 17:14:11 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Concise explanation of the <a href=\"https://www.americanpressinstitute.org/journalism-essentials/what-is-journalism/elements-journalism/\">values of journalism</a>. Must-read.",
+            "created": "Tue, 08 Jan 2019 17:09:39 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Frontier's S3",
+            "created": "Tue, 08 Jan 2019 15:33:59 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I don't know why I didn't see this sooner, but Frontier's object database is the equivalent, in the world we built in the 90s, to Amazon S3, with a lot of advantages, most seeming prosaic, but very important. ",
+                    "created": "Tue, 08 Jan 2019 15:34:46 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Names are case-insensitive",
+                            "created": "Tue, 08 Jan 2019 15:34:48 GMT"
+                        },
+                        {
+                            "text": "There's a hierarchic browser. You can look at two or more locations at the same time. ",
+                            "created": "Tue, 08 Jan 2019 15:34:56 GMT"
+                        },
+                        {
+                            "text": "The browser is an editor. You can change the names or values of things without leaving the context, move an item from one location to another with drag and drop. ",
+                            "created": "Tue, 08 Jan 2019 15:35:17 GMT"
+                        },
+                        {
+                            "text": "It handles small and large objects in the same way. A boolean or number is stored and edited the same way a text object, picture, blob, or sub-table is. ",
+                            "created": "Tue, 08 Jan 2019 15:35:47 GMT"
+                        },
+                        {
+                            "text": "You can see values of objects change in real-time with zero clicks. It's esp nice when you can see the values changing in more than one location. ",
+                            "created": "Tue, 08 Jan 2019 15:36:16 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "The net",
+                    "created": "Tue, 08 Jan 2019 15:44:59 GMT",
+                    "subs": [
+                        {
+                            "text": "The net result is you can build higher castles of functionality because so many details are handled by the platform. Errors stand out sooner. If you put something in the wrong place it's easier to see, and correcting it is no more steps than it has to be. ",
+                            "created": "Tue, 08 Jan 2019 15:36:44 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "How I came to realize this. ",
+                    "created": "Tue, 08 Jan 2019 15:43:08 GMT",
+                    "subs": [
+                        {
+                            "text": "One of my development projects was stored in the wrong location on S3. I didn't realize it until I had to type the address in a different context. You see things on S3 through an awkward jumble of inconsistent commands. In Frontier you see your data, and interact with expand, collapse, point and click, drag and drop. Not new ideas. But S3 doesn't use them. They're there for a reason, to make work faster and help you spot errors faster. ",
+                            "created": "Tue, 08 Jan 2019 15:44:54 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "Next up ",
+                    "created": "Tue, 08 Jan 2019 15:38:00 GMT",
+                    "subs": [
+                        {
+                            "text": "Looking at how our HTTP framework, with integrated database access (see above) is Frontier's Lambda. ",
+                            "created": "Tue, 08 Jan 2019 15:45:23 GMT"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
