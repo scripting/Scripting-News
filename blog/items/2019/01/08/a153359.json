@@ -1,0 +1,64 @@
+{
+    "text": "Frontier's S3",
+    "created": "Tue, 08 Jan 2019 15:33:59 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I don't know why I didn't see this sooner, but Frontier's object database is the equivalent, in the world we built in the 90s, to Amazon S3, with a lot of advantages, most seeming prosaic, but very important. ",
+            "created": "Tue, 08 Jan 2019 15:34:46 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "Names are case-insensitive",
+                    "created": "Tue, 08 Jan 2019 15:34:48 GMT"
+                },
+                {
+                    "text": "There's a hierarchic browser. You can look at two or more locations at the same time. ",
+                    "created": "Tue, 08 Jan 2019 15:34:56 GMT"
+                },
+                {
+                    "text": "The browser is an editor. You can change the names or values of things without leaving the context, move an item from one location to another with drag and drop. ",
+                    "created": "Tue, 08 Jan 2019 15:35:17 GMT"
+                },
+                {
+                    "text": "It handles small and large objects in the same way. A boolean or number is stored and edited the same way a text object, picture, blob, or sub-table is. ",
+                    "created": "Tue, 08 Jan 2019 15:35:47 GMT"
+                },
+                {
+                    "text": "You can see values of objects change in real-time with zero clicks. It's esp nice when you can see the values changing in more than one location. ",
+                    "created": "Tue, 08 Jan 2019 15:36:16 GMT"
+                }
+            ]
+        },
+        {
+            "text": "The net",
+            "created": "Tue, 08 Jan 2019 15:44:59 GMT",
+            "subs": [
+                {
+                    "text": "The net result is you can build higher castles of functionality because so many details are handled by the platform. Errors stand out sooner. If you put something in the wrong place it's easier to see, and correcting it is no more steps than it has to be. ",
+                    "created": "Tue, 08 Jan 2019 15:36:44 GMT"
+                }
+            ]
+        },
+        {
+            "text": "How I came to realize this. ",
+            "created": "Tue, 08 Jan 2019 15:43:08 GMT",
+            "subs": [
+                {
+                    "text": "One of my development projects was stored in the wrong location on S3. I didn't realize it until I had to type the address in a different context. You see things on S3 through an awkward jumble of inconsistent commands. In Frontier you see your data, and interact with expand, collapse, point and click, drag and drop. Not new ideas. But S3 doesn't use them. They're there for a reason, to make work faster and help you spot errors faster. ",
+                    "created": "Tue, 08 Jan 2019 15:44:54 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Next up ",
+            "created": "Tue, 08 Jan 2019 15:38:00 GMT",
+            "subs": [
+                {
+                    "text": "Looking at how our HTTP framework, with integrated database access (see above) is Frontier's Lambda. ",
+                    "created": "Tue, 08 Jan 2019 15:45:23 GMT"
+                }
+            ]
+        }
+    ]
+}
