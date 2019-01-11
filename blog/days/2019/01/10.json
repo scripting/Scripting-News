@@ -1,0 +1,29 @@
+{
+    "text": "January 10",
+    "created": "Thu, 10 Jan 2019 17:53:01 GMT",
+    "name": "10",
+    "subs": [
+        {
+            "text": "Apparently several American universities are starting a new double-major, Journalism and Computer Science. I've been asked for input to one of the programs, and have started to think about it. One immediate idea is that the students will be able to write about technical topics without <a href=\"https://www.google.com/search?q=define+obfuscate\">obfuscation</a>. Examples: <a href=\"https://duckduckgo.com/?q=hillary%27s+emails&t=h_&ia=web\">Hillary's emails</a>. <a href=\"https://duckduckgo.com/?q=facebook%27s+api+scandals&t=h_&ia=web\">Facebook's API</a>. They sound like scandals when the NYT writes about them, but what are the actual facts. Believe it or not, they don't say. The business and political press will do what they do, write shallow and inflammatory versions of the story that cast the Hillary and Zuck (and of course others) in the worst possible light. But some of us want facts. At the beginning, so we know if there's anything to the allegations or are they just smears. There are millions of people today who understand what a mail server is, to them it's not a mystery. There should be some news that's written for people with that basic knowledge. The students in this program will be learning how to communicate about technology with a sense that the answers are knowable, and not mysterious. So there should be an immediate benefit to all of us, not just the students, from these programs. ",
+            "created": "Thu, 10 Jan 2019 17:53:02 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/09/02/emails.png"
+        },
+        {
+            "text": "Another benefit of the new double-major -- journalism will be able to closely examine the behavior of other tech giants, not just Facebook. For example, <a href=\"http://this.how/googleAndHttp/\">Google</a> has been trying to take control of the networking standard of the web, HTTP. This is not in the public interest, yet there has been no discussion of it in the press. That's wrong. ",
+            "created": "Thu, 10 Jan 2019 18:04:15 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I just skimmed the <a href=\"https://motherboard.vice.com/en_us/article/a3mm4z/the-rise-and-demise-of-rss\">Vice article</a> about RSS. Up front they make it sound like something dramatic happened. That gravestone image was pretty bad. Someday it'll come back to them. ;-) Anyway there was, momentarily, some drama. The two groups wanted to do very different things. Netscape, as far as I'm concerned, wanted to bootstrap syndication of web content, and that was validated by the enormous popularity of RSS for that application. They had a vision that was right. And yes, they did one day just disappear. I wanted to preserve the progress we had made and build on it. I loved the idea since feeds provided exactly the level playing field I wanted for bloggers and pros. Look at all the good that came from that. Ask TechCrunch or Daring Fireball, Daily Kos or Talking Points Memo. And podcasting. These things all got their start because there was that level playing field. That vision was what was driving me. Ultimately the two forks went their separate ways, as they should have, because we were going different places. It's unfortunate both were called RSS, but if you study the history of tech standards these kinds of tales of woe are more the rule than the exception. It's a good story. I guess, for me it's the ancient past.",
+            "created": "Thu, 10 Jan 2019 20:01:32 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/01/10/loveRss.png"
+        },
+        {
+            "text": "Here's a <a href=\"http://crimson1.scripting.com/xml/scriptingNews2.xml\">scriptingNews format feed</a> example. They can be hard to find. Hopefully now at least this one will show up in searches.",
+            "created": "Thu, 10 Jan 2019 19:57:33 GMT",
+            "type": "outline"
+        }
+    ]
+}
