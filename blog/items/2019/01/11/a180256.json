@@ -1,0 +1,43 @@
+{
+    "text": "What I got from Flickr",
+    "created": "Fri, 11 Jan 2019 18:02:56 GMT",
+    "type": "outline",
+    "description": "I asked Flickr for a download of all my pictures and data. Here's a report on what I got. ",
+    "subs": [
+        {
+            "text": "I requested to <a href=\"https://www.buzzfeednews.com/article/katienotopoulos/how-to-save-flickr-photos-deleted-download\">download</a> all the info Flickr has about me on <a href=\"http://scripting.com/2019/01/08.html#a233006\">Tuesday</a>, got the data on <a href=\"http://scripting.com/2019/01/09.html#a203957\">Wednesday</a>, and yesterday I spent a couple of hours trying to figure out what I got. ",
+            "created": "Fri, 11 Jan 2019 18:04:07 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "There were 14 zip files, each containing one folder.  ",
+                    "created": "Fri, 11 Jan 2019 18:04:52 GMT"
+                },
+                {
+                    "text": "Total of 6.59GB. 12,729 files",
+                    "created": "Fri, 11 Jan 2019 19:20:57 GMT"
+                },
+                {
+                    "text": "13 of the folders contain JPG images. ",
+                    "created": "Fri, 11 Jan 2019 18:07:27 GMT"
+                },
+                {
+                    "text": "One folder, named 72157704082859561_da410b4a23fb_part1, contained only JSON files, 36.8MB, 6366 files. The vast majority of the JSON files have names like photo_6594805.json. I've <a href=\"https://github.com/scripting/Scripting-News/blob/master/misc/flickrJsonFile.json\">uploaded</a> one of the files to the Scripting News repo, so you can see what kind of data you get about each image. ",
+                    "created": "Fri, 11 Jan 2019 18:08:19 GMT"
+                },
+                {
+                    "text": "Each of the 13 folders contains files with names like dsc02455jpg_76330356_o.jpg. The dates on the files unfortunately are all the same, they don't say when the photos were taken. This would be helpful in piecing things together. It appears the first part of the name, before the underscore, is derived from the name of the file. Then following the first underscore and before the second is a number, which appears to be the identifier of the picture. This I believe is the connection between the image and the JSON file, above.",
+                    "created": "Fri, 11 Jan 2019 18:14:11 GMT"
+                }
+            ]
+        },
+        {
+            "text": "I loaded the JSON files into a section of a Frontier object database, and the names of the JPG files into another section. I wrote a script that looped over all the data from the JSON files, got the ID and then checked if there were images to go with that ID. 5816 image files existed and 533 didn't. Not bad, but far from perfect. Here's a <a href=\"https://github.com/scripting/Scripting-News/blob/master/misc/flickrMissingIds.txt\">list of IDs</a> for which there were no images. ",
+            "created": "Fri, 11 Jan 2019 18:16:40 GMT"
+        },
+        {
+            "text": "I haven't tried to generate a static site using this info, but it seems you could. It would be missing some images, about 9 percent.  Even so, it would have been really nice if Flickr delivered it in that format. It's nice to have the JSON files, but most users won't be able to use them unless software is written, and they find it. ",
+            "created": "Fri, 11 Jan 2019 18:54:12 GMT"
+        }
+    ]
+}
