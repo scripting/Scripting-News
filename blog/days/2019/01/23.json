@@ -1,0 +1,76 @@
+{
+    "text": "January 23",
+    "created": "Wed, 23 Jan 2019 14:53:30 GMT",
+    "name": "23",
+    "subs": [
+        {
+            "text": "I grew up reading and admiring <a href=\"https://www.nytimes.com/2019/01/22/business/media/russell-baker-dead-pulitzer.html\">Russell Baker</a>.",
+            "created": "Wed, 23 Jan 2019 17:01:32 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "My friend Laurie Girand started <a href=\"https://imwiththem.org/\">I'm With Them</a>.  ",
+            "created": "Wed, 23 Jan 2019 16:26:10 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I imagine there were private sessions at Davos, for only the richest, on how to survive the current political <a href=\"https://en.wiktionary.org/wiki/apocalypse\">and</a> climate <a href=\"https://english.stackexchange.com/questions/229610/what-is-the-plural-form-of-apocalypse\">apocalypses</a>. ",
+            "created": "Wed, 23 Jan 2019 14:53:31 GMT",
+            "type": "tweet",
+            "tweetId": "1088091320634273792",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "Command to set the time and date on Ubuntu servers: <i>ntpdate -s ntp.ubuntu.com</i> ",
+            "created": "Wed, 23 Jan 2019 15:06:52 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Idea: A paywall you can buy out",
+            "created": "Wed, 23 Jan 2019 19:42:16 GMT",
+            "type": "outline",
+            "description": "A way for readers to pay to make a paywall disappear?",
+            "subs": [
+                {
+                    "text": "I hate paywalls. I pay to get through two of them, the NY Times and the Washington Post. If I were going to pay for others, I would certainly add New York Magazine, primarily for one columnist, Jonathan Chait, who writes a large number of (imho) must-read columns. Like the one he wrote today about the Republican way of hostage-taking, and how you just can't give into it. I remember very well how, during the Obama Administration, Mitch McConnell threatened to crash the economy if they didn't get unilateral concessions. Obama caved once, but the second time they tried it, he learned -- and gave absolutely no ground. That stopped the hostage-taking. But now they're at it again.    ",
+                    "created": "Wed, 23 Jan 2019 19:42:41 GMT",
+                    "image": "http://scripting.com/images/2019/01/23/drink.png"
+                },
+                {
+                    "text": "Anyway, I would like everyone to read that column but it's behind a paywall, so I'm reluctant to push the link. But this made me think of a slight variation on the paywall idea. How about this -- I read the Chait piece, and I think it's so important that I want everyone to read it. So I pledge $5 toward a specified buyout price, say $10K. It would be clearly stated, and you'd see how much further they have to go. If they never reach buyout, you pay nothing. But if it does, they take your money and the paywall comes down, for this article. Everyone can read it for free. Next time he writes a column, it gets a new countdown and perhaps a new price. ",
+                    "created": "Wed, 23 Jan 2019 19:44:58 GMT"
+                },
+                {
+                    "text": "So you get the benefit of a paywall, which most readers probably hate, and a way to make it come down.",
+                    "created": "Wed, 23 Jan 2019 19:52:11 GMT"
+                },
+                {
+                    "text": "What do you think?",
+                    "created": "Wed, 23 Jan 2019 19:47:29 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Tweaks today",
+            "created": "Wed, 23 Jan 2019 17:02:53 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I made a couple of tweaks today on the Scripting News home page.",
+                    "created": "Wed, 23 Jan 2019 17:02:56 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "The diaglog that confirms you want to connect to Twitter so you can Like items didn't work well on phones. Added a bit of CSS and <a href=\"http://scripting.com/images/2019/01/23/iphoneDialog.png\">now it does</a>. ",
+                            "created": "Wed, 23 Jan 2019 17:03:08 GMT"
+                        },
+                        {
+                            "text": "I noticed that the background of text on <a href=\"http://scripting.com/2019/01/20.html\">day archives</a> and <a href=\"http://scripting.com/2019/01/11/195154.html\">story pages</a> didn't match that on the home page. ",
+                            "created": "Wed, 23 Jan 2019 17:03:47 GMT"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
