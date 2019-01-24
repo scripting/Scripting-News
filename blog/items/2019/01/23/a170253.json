@@ -1,0 +1,22 @@
+{
+    "text": "Tweaks today",
+    "created": "Wed, 23 Jan 2019 17:02:53 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I made a couple of tweaks today on the Scripting News home page.",
+            "created": "Wed, 23 Jan 2019 17:02:56 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "The diaglog that confirms you want to connect to Twitter so you can Like items didn't work well on phones. Added a bit of CSS and <a href=\"http://scripting.com/images/2019/01/23/iphoneDialog.png\">now it does</a>. ",
+                    "created": "Wed, 23 Jan 2019 17:03:08 GMT"
+                },
+                {
+                    "text": "I noticed that the background of text on <a href=\"http://scripting.com/2019/01/20.html\">day archives</a> and <a href=\"http://scripting.com/2019/01/11/195154.html\">story pages</a> didn't match that on the home page. ",
+                    "created": "Wed, 23 Jan 2019 17:03:47 GMT"
+                }
+            ]
+        }
+    ]
+}
