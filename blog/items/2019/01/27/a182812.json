@@ -1,0 +1,44 @@
+{
+    "text": "Dave's howto for MySQL on Mac",
+    "created": "Sun, 27 Jan 2019 18:28:12 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "This is how you start from scratch with MySQL on the Mac, assuming all you want is the same experience as what you have on Linux.",
+            "created": "Sun, 27 Jan 2019 18:28:22 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "<a href=\"https://dev.mysql.com/downloads/mysql/\">Download</a> and install the package from mysql.com. In the process you will choose a password for the root user.  This is important.",
+                    "created": "Sun, 27 Jan 2019 18:30:00 GMT"
+                },
+                {
+                    "text": "In the Mac system settings app, there should be a <a href=\"http://scripting.com/images/2019/01/27/mySqlControlPanel.png\">new panel</a> for MySQL. Open it and be sure MySQL is started. ",
+                    "created": "Sun, 27 Jan 2019 18:31:59 GMT"
+                },
+                {
+                    "text": "In a new Terminal window: ",
+                    "created": "Sun, 27 Jan 2019 18:30:45 GMT",
+                    "subs": [
+                        {
+                            "text": "cd /usr/local/mysql/bin",
+                            "created": "Sun, 27 Jan 2019 18:35:25 GMT"
+                        },
+                        {
+                            "text": "sudo mysql --password",
+                            "created": "Sun, 27 Jan 2019 18:35:05 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "It will ask for two passwords, your Mac system password to authenticate as root, and the password you chose for MySql in the first step. Once you enter both correctly you'll be able to type SQL commands. From here it should behave just like Linux. ",
+                    "created": "Sun, 27 Jan 2019 18:35:42 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Thanks to <a href=\"https://github.com/scripting/Scripting-News/issues/108\">Scott Hanson</a> for the outstanding support, as always.",
+            "created": "Sun, 27 Jan 2019 19:13:38 GMT"
+        }
+    ]
+}
