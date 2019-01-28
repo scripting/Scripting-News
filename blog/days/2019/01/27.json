@@ -1,0 +1,67 @@
+{
+    "text": "January 27",
+    "created": "Sun, 27 Jan 2019 15:38:45 GMT",
+    "name": "27",
+    "subs": [
+        {
+            "text": "<a href=\"https://www.axios.com/billionaires-economic-inequality-davos-world-economic-forum-85d51f38-6a7f-4017-9566-169cb6732f83.html\">Felix Salmon</a> says that billionaires are losing their luster. <a href=\"https://twitter.com/davewiner/status/1089597800671834112\">Ted Turner</a>, a <a href=\"https://en.wikipedia.org/wiki/Ted_Turner\">billionaire</a> for many years, said: \"I bet you’re all wondering what it feels like to be a billionaire. It’s disappointing really. I’ve learned that great wealth isn’t nearly as good as average sex.\" As <a href=\"https://en.wikiquote.org/wiki/Yogi_Berra\">Yogi Berra</a> once said, \"You can observe a lot by watching.\"",
+            "created": "Sun, 27 Jan 2019 19:15:05 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/01/27/yogiBerra.png"
+        },
+        {
+            "text": "Today is my maternal grandfather's birthday, <a href=\"http://rudykiesler.com/\">Rudy Kiesler</a>. I don't remember what year he was born, perhaps 1908? But I will likely never forget the day he was born. I also remember my paternal grandfather's birthday -- May 1, 1899. One day before mine (in 1955). I don't remember my father's birthday, there was always confusion about it. There was his real birthday and his official birthday which was transcribed incorrectly at Ellis Island when they emigrated. ",
+            "created": "Sun, 27 Jan 2019 15:41:53 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "You know how Twitch lets you watch people program? I've never wanted to do that, it would make me too self-conscious, break the trance. Programming is a deeply meditative thing for me. Not something I'd want to do for an audience. But I realized after doing a project in GitHub from the beginning, that this is a much more meaningful kind of performance. You can watch the building go up over many programming sessions. Starting with the most basic stuff, to stress tests and docs. It's all there in the (still private) repo. ",
+            "created": "Sun, 27 Jan 2019 15:38:46 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Dave's howto for MySQL on Mac",
+            "created": "Sun, 27 Jan 2019 18:28:12 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "This is how you start from scratch with MySQL on the Mac, assuming all you want is the same experience as what you have on Linux.",
+                    "created": "Sun, 27 Jan 2019 18:28:22 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "<a href=\"https://dev.mysql.com/downloads/mysql/\">Download</a> and install the package from mysql.com. In the process you will choose a password for the root user.  This is important.",
+                            "created": "Sun, 27 Jan 2019 18:30:00 GMT"
+                        },
+                        {
+                            "text": "In the Mac system settings app, there should be a <a href=\"http://scripting.com/images/2019/01/27/mySqlControlPanel.png\">new panel</a> for MySQL. Open it and be sure MySQL is started. ",
+                            "created": "Sun, 27 Jan 2019 18:31:59 GMT"
+                        },
+                        {
+                            "text": "In a new Terminal window: ",
+                            "created": "Sun, 27 Jan 2019 18:30:45 GMT",
+                            "subs": [
+                                {
+                                    "text": "cd /usr/local/mysql/bin",
+                                    "created": "Sun, 27 Jan 2019 18:35:25 GMT"
+                                },
+                                {
+                                    "text": "sudo mysql --password",
+                                    "created": "Sun, 27 Jan 2019 18:35:05 GMT"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "It will ask for two passwords, your Mac system password to authenticate as root, and the password you chose for MySql in the first step. Once you enter both correctly you'll be able to type SQL commands. From here it should behave just like Linux. ",
+                            "created": "Sun, 27 Jan 2019 18:35:42 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "Thanks to <a href=\"https://github.com/scripting/Scripting-News/issues/108\">Scott Hanson</a> for the outstanding support, as always.",
+                    "created": "Sun, 27 Jan 2019 19:13:38 GMT"
+                }
+            ]
+        }
+    ]
+}
