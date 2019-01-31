@@ -1,6 +1,6 @@
 ## Database structure for miniReader
 
-There are two tables, <i>feeds</i> and <i>items.</i>
+There are three tables in the feed reader database, <i>feeds</i>, <i>items</i> and <i>subscriptions.</i>
 
 ### SQL commands to create the tables
 
