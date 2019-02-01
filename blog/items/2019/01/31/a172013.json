@@ -1,0 +1,5 @@
+{
+    "text": "I've been working on a MySQL version of a RSS feed reader server app. Unlike \"River5\", which stores all data in JSON files, this reader stores all data in a database, and accesses the data via queries. In the last year, starting with Bingeworthy and then Feedbase, I've learned enough SQL, and have expert help when I need it. Not sure when or if I will release it. I wanted to understand the issues. I find SQL is an awkward tool for accessing this kind of data. Which got me to wondering how other feed reader apps store their data. I'm supposed to be such an expert on this stuff, and I admit I don't know what they're doing. I wonder if some of them are using object databases. ",
+    "created": "Thu, 31 Jan 2019 17:20:13 GMT",
+    "type": "outline"
+}
