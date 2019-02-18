@@ -1,0 +1,23 @@
+{
+    "text": "February 17",
+    "created": "Sun, 17 Feb 2019 16:47:48 GMT",
+    "name": "17",
+    "subs": [
+        {
+            "text": "I watched <a href=\"https://en.wikipedia.org/wiki/The_Looming_Tower_(miniseries)\">Looming Tower</a> on Hulu. Very nice. Alec Baldwin plays <a href=\"https://en.wikipedia.org/wiki/George_Tenet\">George Tenet</a>, head of the CIA. Interesting to see that a good part of his <a href=\"https://www.youtube.com/watch?v=8vQlhWBvAwY\">Donald Trump</a> imitation is actually Alec Baldwin being himself. ",
+            "created": "Mon, 18 Feb 2019 04:31:38 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I have an Electron app that I use every day. Something I wrote for myself. It runs fine, perfectly fast, the performance monitor doesn't indicate any problems. But if I don't reload the app every morning then it gets really slow. I thought I knew the reason, but then I fixed it and it still needs a reload. So maybe Electron isn't perfect, but it's a very good idea, and very useful. A combination of Chrome and Node. I've invested a lot of time in taming the programming model, so I don't want to hear about how Electron is like Flash. But if you think it's too slow, don't trash it, roll up your sleeves and figure out why and submit a bug report. ",
+            "created": "Sun, 17 Feb 2019 16:48:44 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Discourse is not Twitter's strength, not because of the thread structure, rather that it’s a write-only community of attention seekers. Most of what passes for discourse is thinly disguised spam.",
+            "created": "Sun, 17 Feb 2019 16:47:49 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1097040069620363264"
+        }
+    ]
+}
