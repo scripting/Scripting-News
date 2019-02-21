@@ -1,0 +1,12 @@
+<div class="divDayTitle"><a href="http://scripting.com/2019/02/20.html">Wednesday, February 20, 2019</a></div>
+<div class="divTitledItem">
+	<div class="divTitle"><a name="a155346"></a><a href="http://scripting.com/2019/02/20/155346.html"><span class="spTitleLink">nightlyRSS problem</a></a><span class="spPermaLink"><a href="http://scripting.com/2019/02/20/155346.html" title="Direct link to this item.">#</a></span></div>
+	<ul class="ulLevel0">
+	<li><a name="a155350"></a>This has been a puzzle for a while, since I reprovisioned one of my servers on Digital Ocean. It had been on AWS.<span class="spPermaLink"><a href="http://scripting.com/2019/02/20/155346.html#a155350" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a160925"></a>One of the <a href="https://github.com/scripting/nightlyRss">apps</a> on the server is set to run at midnight but it was running at 7PM. It had been working properly on the other server.<span class="spPermaLink"><a href="http://scripting.com/2019/02/20/155346.html#a160925" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a160355"></a>To find out why, I logged on the server in the Terminal app, and ran the <i>date</i> command. It responded that it was 4PM, with the timezone as Z, which stands for Zulu or Greenwich, England. So that appears to be the problem.  <span class="spPermaLink"><a href="http://scripting.com/2019/02/20/155346.html#a160355" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a160521"></a>I tried <a href="http://scripting.com/2019/01/23.html#a150652">setting the time</a>, but that had no effect. It still thought it was 4PM and the server was in Greenwich. <span class="spPermaLink"><a href="http://scripting.com/2019/02/20/155346.html#a160521" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a160555"></a>Then I tried <a href="https://help.ubuntu.com/community/UbuntuTime#Using_the_Command_Line_.28terminal.29">setting the timezone</a> from the command line. Now it says the server is in EST and it's 11AM. So hopefully that will fix the problem and the app will do its thing at midnight instead of 7PM.<span class="spPermaLink"><a href="http://scripting.com/2019/02/20/155346.html#a160555" title="Direct link to this item.">#</a></span></li>
+	</ul>
+
+	</div>
