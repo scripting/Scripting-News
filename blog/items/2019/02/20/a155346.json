@@ -1,0 +1,27 @@
+{
+    "text": "nightlyRSS problem",
+    "created": "Wed, 20 Feb 2019 15:53:46 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "This has been a puzzle for a while, since I reprovisioned one of my servers on Digital Ocean. It had been on AWS.",
+            "created": "Wed, 20 Feb 2019 15:53:50 GMT"
+        },
+        {
+            "text": "One of the <a href=\"https://github.com/scripting/nightlyRss\">apps</a> on the server is set to run at midnight but it was running at 7PM. It had been working properly on the other server.",
+            "created": "Wed, 20 Feb 2019 16:09:25 GMT"
+        },
+        {
+            "text": "To find out why, I logged on the server in the Terminal app, and ran the <i>date</i> command. It responded that it was 4PM, with the timezone as Z, which stands for Zulu or Greenwich, England. So that appears to be the problem.  ",
+            "created": "Wed, 20 Feb 2019 16:03:55 GMT"
+        },
+        {
+            "text": "I tried <a href=\"http://scripting.com/2019/01/23.html#a150652\">setting the time</a>, but that had no effect. It still thought it was 4PM and the server was in Greenwich. ",
+            "created": "Wed, 20 Feb 2019 16:05:21 GMT"
+        },
+        {
+            "text": "Then I tried <a href=\"https://help.ubuntu.com/community/UbuntuTime#Using_the_Command_Line_.28terminal.29\">setting the timezone</a> from the command line. Now it says the server is in EST and it's 11AM. So hopefully that will fix the problem and the app will do its thing at midnight instead of 7PM.",
+            "created": "Wed, 20 Feb 2019 16:05:55 GMT"
+        }
+    ]
+}
