@@ -1,0 +1,35 @@
+{
+    "text": "February 27",
+    "created": "Wed, 27 Feb 2019 14:19:53 GMT",
+    "name": "27",
+    "subs": [
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/110\">Braintrust query</a>: I'm having a problem with the Node.js request function. When making a request of a process running on the same server, I get an <span style=\"font-size: .8em\">ECONNREFUSED</span>. This has happened on two servers. The code used to work. Then I tried accessing the server through the CURL command line utility and it also failed. Yet if I access the same address from another computer, it works. I'm at a loss. ",
+            "created": "Wed, 27 Feb 2019 16:48:16 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/02/27/crush.png"
+        },
+        {
+            "text": "Suggestion for AirBnB. Allow renters to bid. If I want to book a house for a week and would like a discount, let me make an offer. The owner can accept, reject or make a counter-offer. [Update: Apparently <a href=\"https://twitter.com/bikehugger/status/1100824135356243968\">you can</a> do it.]",
+            "created": "Wed, 27 Feb 2019 18:19:31 GMT",
+            "type": "tweet",
+            "tweetId": "1100823196893437953",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "The best thing about Cohen's testimony is that finally the source is going direct. The story is much more compelling when told in the first person.",
+            "created": "Wed, 27 Feb 2019 17:20:29 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Hmmm I wonder what the people of South Korea think about Trump’s idea that Vietnam could serve as a template for North Korea.",
+            "created": "Wed, 27 Feb 2019 14:19:54 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<img src=\"http://scripting.com/images/2019/02/27/trumpCheck.png\">",
+            "created": "Wed, 27 Feb 2019 18:04:24 GMT",
+            "type": "outline"
+        }
+    ]
+}
