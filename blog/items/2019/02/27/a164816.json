@@ -1,0 +1,6 @@
+{
+    "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/110\">Braintrust query</a>: I'm having a problem with the Node.js request function. When making a request of a process running on the same server, I get an <span style=\"font-size: .8em\">ECONNREFUSED</span>. This has happened on two servers. The code used to work. Then I tried accessing the server through the CURL command line utility and it also failed. Yet if I access the same address from another computer, it works. I'm at a loss. ",
+    "created": "Wed, 27 Feb 2019 16:48:16 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2019/02/27/crush.png"
+}
