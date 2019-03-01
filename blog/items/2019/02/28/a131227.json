@@ -1,0 +1,6 @@
+{
+    "text": "Yesterday's <a href=\"https://github.com/scripting/Scripting-News/issues/110\">braintrust query</a> has not yielded an answer. I've never seen such a thing where an HTTP request works over the net but doesn't work locally. This is a problem for an app like <a href=\"https://github.com/scripting/serverMonitor\">serverMonitor</a>. It only seems to happen on Digital Ocean servers, which is where most of my servers are these days. I worked around the problem by putting serverMonitor on its own machine, a $5 per month minimal setup. It's a waste of money, amounting to $60 a year, it shouldn't be needed. But I can't keep my servers running without the serverMonitor app, so I'm paying the price until we figure out what the problem is. ",
+    "created": "Thu, 28 Feb 2019 13:12:27 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2019/02/28/snake.png"
+}
