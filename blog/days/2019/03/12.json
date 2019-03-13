@@ -1,0 +1,83 @@
+{
+    "text": "March 12",
+    "created": "Tue, 12 Mar 2019 16:34:35 GMT",
+    "name": "12",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/johnrobinson/status/1105512447903965185\">John Robinson</a>: \"If I were still in newspapers, I ask @davewiner for help charting a new course.\" ",
+            "created": "Tue, 12 Mar 2019 17:03:39 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/johnrobinson/status/1105512447903965185"
+        },
+        {
+            "text": "The NYT is steering us toward disaster",
+            "created": "Tue, 12 Mar 2019 20:09:20 GMT",
+            "type": "outline",
+            "description": "They're so focused on potential retribution by Trump and his supporters, they forgot that most of us voted against Trump even before the Lester Holt interview. We care about this country. We're not going to stand by and do nothing if the coverup extends to Mueller.",
+            "subs": [
+                {
+                    "text": "Two days of the Daily podcast have got me blowing my top. They have a scenario about the Mueller report that is <a href=\"https://www.nytimes.com/2019/03/12/podcasts/the-daily/nadler-mueller-trump-democrats.html\">unhinged</a>, no other word for it. They need to be shaken, someone throw a pie in their faces, they need to read the Constitution, and think about what kind of country they want to live in, and then re-think their approach to the ongoing crisis that is the Trump presidency. ",
+                    "created": "Tue, 12 Mar 2019 20:09:30 GMT",
+                    "image": "http://scripting.com/images/2019/03/12/trumpWithLesterHolt.png"
+                },
+                {
+                    "text": "First, the evidence that Trump committed a crime is overwhelming. Anyone with eyes and a mind can see it. Watch this <a href=\"https://www.nbcnews.com/nightly-news/video/i-was-going-to-fire-comey-anyway-trump-tells-lester-holt-in-interview-941538371971\">interview with Lester Holt</a> (which of course they have all seen at the NYT, but apparently have forgotten). Having seen that, how could you imagine Mueller would come back with a conclusion that Trump did not commit obstruction? He confessed to it, publicly. We all saw it. Not a minor crime, he has been covering up a <i>stolen election</i> where he was the beneficiary. ",
+                    "created": "Tue, 12 Mar 2019 20:10:57 GMT"
+                },
+                {
+                    "text": "His confession was every bit as televised as the <a href=\"https://en.wikipedia.org/wiki/Lee_Harvey_Oswald#Murder\">murder</a> of Lee Harvey Oswald. No one ever doubted that he had been murdered. They didn't need a special prosecutor. And no one imagined there would be a rebellion if a district attorney claimed he had been murdered. It was public, on TV, seen live by millions, just like Trump's confession.",
+                    "created": "Wed, 13 Mar 2019 02:59:01 GMT"
+                },
+                {
+                    "text": "So if Mueller comes back with what appears to be an impossible conclusion, the people who believe in the US as a rule-of-law country will have a tough decision. Do we immediately take to the streets? Do we have a general strike? Do we demand impeachment? They're so focused on potential retribution by Trump and his supporters, they forgot that most of us <i>voted against Trump</i> before the Lester Holt interview. We care about this country. We're not going to stand by and do nothing if the coverup extends to Mueller.",
+                    "created": "Tue, 12 Mar 2019 20:12:33 GMT"
+                },
+                {
+                    "text": "But of course Mueller is not going to come to that conclusion. This story is bullshit. The scenario isn't worth considering. If he does it's because someone is blackmailing him. They're holding his family hostage in <a href=\"https://en.wikipedia.org/wiki/Romania\">Rumania</a>. ",
+                    "created": "Tue, 12 Mar 2019 20:22:30 GMT"
+                },
+                {
+                    "text": "Nadler by the way could not be blown off course by this nonsense. Thank goodness. He understands his job and is doing it, clearly and confidently, as if he believes in our system of government. I think that's a very basic quality we should expect from NYT reporters. ",
+                    "created": "Tue, 12 Mar 2019 20:15:48 GMT"
+                }
+            ]
+        },
+        {
+            "text": "TBL's first web browser",
+            "created": "Tue, 12 Mar 2019 16:34:36 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I like the <a href=\"http://osxdaily.com/2019/02/22/run-very-first-web-browser-worldwideweb/\">way</a> they implemented <a href=\"https://worldwideweb.cern.ch/browser/\">TBL's first web browser</a> written in JS presumably and running in a modern browser like Safari or Chrome. ",
+                    "created": "Tue, 12 Mar 2019 16:34:42 GMT",
+                    "image": "http://scripting.com/2014/12/17/santaCoke.png"
+                },
+                {
+                    "text": "To go to a specific page, choose <i>Open from full document reference</i> in the Document menu and enter the URL. ",
+                    "created": "Tue, 12 Mar 2019 17:20:35 GMT"
+                },
+                {
+                    "text": "I tried loading the <a href=\"https://worldwideweb.cern.ch/browser/#http://scripting.com/\">home page</a> of my blog in the app. It looks pretty good, but clicking links doesn't work at least in Chrome and Safari (the two browsers I tried).",
+                    "created": "Tue, 12 Mar 2019 17:06:04 GMT"
+                },
+                {
+                    "text": "I also tried a <a href=\"https://worldwideweb.cern.ch/browser/#http://scripting.com/autowebdocs/whatisautoweb_119.html\">very early site</a> that hasn't been rebuilt <a href=\"http://scripting.com/autowebdocs/whatisautoweb_119.html\">since 1995</a>. It's spectacularly <a href=\"http://scripting.com/images/2019/03/12/autowebInTBLBrowser.png\">readable</a>. What a thrill! :boom: ",
+                    "created": "Tue, 12 Mar 2019 17:08:24 GMT"
+                },
+                {
+                    "text": "These sites, and the others I've tried, can all be read, which is testimony to the power of an unowned standard. As I've said elsewhere, if a big tech company owned the web, they would have deprecated its earlier forms long ago. Because no one owns it, forward compatibility is automatic. Of course that is very much at risk given Google's recent moves to <a href=\"http://this.how/googleAndHttp/\">annex the web</a>. ",
+                    "created": "Tue, 12 Mar 2019 17:08:55 GMT"
+                },
+                {
+                    "text": "It would also be interesting to have early versions of Mozilla and Netscape browsers to try out in this mode too. Not to shame existing sites, because why should they be concerned about working in ancient browsers. Rather to experience early websites as they were designed to be viewed, given the limits of browsers of the times. This would help historians and researchers, now and in the future. ",
+                    "created": "Tue, 12 Mar 2019 16:36:22 GMT"
+                },
+                {
+                    "text": "Update: <a href=\"https://twitter.com/tedchoward/status/1105524589759811585\">Ted Howard</a> recommends <a href=\"http://oldweb.today/\">oldweb.today</a>. ",
+                    "created": "Tue, 12 Mar 2019 18:42:22 GMT",
+                    "urltweet": "https://twitter.com/tedchoward/status/1105524589759811585"
+                }
+            ]
+        }
+    ]
+}
