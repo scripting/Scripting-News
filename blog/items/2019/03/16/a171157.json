@@ -1,0 +1,5 @@
+{
+    "text": "Fixed a bug in \"feedBase\" where if you upload an OPML file to a newly created account, it would lose track of its address. The <i>View my OPML</i> command in the Main menu would be disabled. It now works as it was supposed to. :check:",
+    "created": "Sat, 16 Mar 2019 17:11:57 GMT",
+    "type": "outline"
+}
