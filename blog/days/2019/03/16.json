@@ -1,0 +1,58 @@
+{
+    "text": "March 16",
+    "created": "Sat, 16 Mar 2019 13:26:32 GMT",
+    "name": "16",
+    "subs": [
+        {
+            "text": "Fixed a bug in \"feedBase\" where if you upload an OPML file to a newly created account, it would lose track of its address. The <i>View my OPML</i> command in the Main menu would be disabled. It now works as it was supposed to. :check:",
+            "created": "Sat, 16 Mar 2019 17:11:57 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I use <a href=\"https://signal.org/\">Signal</a> to communicate with any of my friends who will use it. I like that it's encrypted, and that it's open source. I'm not feeding Mark Zuckerberg. That's a plus. But today it's not working on my Mac desktop. When I launch the app it gets stuck in a loop saying it's <a href=\"http://scripting.com/images/2019/03/16/optimizingApplication.png\">optimizing</a> the application. There is a <a href=\"https://github.com/signalapp/Signal-Desktop/issues/2581\">thread</a> on the GitHub project about this, but the fixes are expressed in terms of a beta, which I don't think I'm running. According to the About window I'm running <a href=\"http://scripting.com/images/2019/03/16/signalAbout.png\">v1.22.0</a>.",
+            "created": "Sat, 16 Mar 2019 13:26:33 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/03/16/zuck2.png"
+        },
+        {
+            "text": "Ken Sedgwick from Berkeley: \"Recently I became aware of <a href=\"https://keybase.io/\">keybase</a>.  It is also open source and end-to-end encrypted.  It adds some really nice features authenticating your identity on twitter, github, reddit, http etc.  It also has encrypted groups with file sharing etc.\"",
+            "created": "Sat, 16 Mar 2019 16:53:15 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "What could we do to prevent the kind of <a href=\"https://en.wiktionary.org/wiki/usurpation\">usurpation</a> and abandonment of open formats and protocols so common among the big tech companies? I think there are some valid approaches. Including <a href=\"https://twitter.com/davewiner/status/1106694336215990272\">this</a> from a thread on Twitter yesterday. \"Let's talk about it. I think it involves patents and trademarks. And the equivalent of the GPL for intellectual property. Prevent open shared creations from being used in silos. <i>You can't import what you won't export.</i> Something like that.\"",
+            "created": "Sat, 16 Mar 2019 13:41:22 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1106694336215990272"
+        },
+        {
+            "text": "Wires scare normal people",
+            "created": "Sat, 16 Mar 2019 18:46:38 GMT",
+            "type": "outline",
+            "description": "People find computers intimidating because of all the wires. I don't blame them, I would too. That's the great thing about iPhones I guess. No wires.",
+            "subs": [
+                {
+                    "text": "I was reminded of a story from Living Videotext in the 80s. We had a rule that every desk had to have a PC on it, which was somewhat radical for the 80s. That included our receptionist, Tammy, who was like my officemate, since my room was adjacent to the front entrance. We put a Toshiba desktop on the table next to her desk, and put a copy of ThinkTank on it, for notetaking, but she never used it. That was allowed too, the computer just had to be there. turned on and ready to go. ",
+                    "created": "Sat, 16 Mar 2019 18:46:46 GMT",
+                    "image": "http://scripting.com/images/2019/03/16/dgOne.png"
+                },
+                {
+                    "text": "One day we got a confidential demo of a <a href=\"https://en.wikipedia.org/wiki/Data_General-One\">new product</a> from Data General, the first battery powered PC-compatible laptop. This was a huge deal. I brought groups of all the employees in to show it to them, including of course Tammy.",
+                    "created": "Sat, 16 Mar 2019 18:48:06 GMT"
+                },
+                {
+                    "text": "When she saw it she said \"I would use that computer.\" I was puzzled. \"But Tammy that computer does exactly what your Toshiba does.\" She replied, but it doesn't have all those wires. ",
+                    "created": "Sat, 16 Mar 2019 18:48:36 GMT"
+                },
+                {
+                    "text": "I learned something memorable there. People find computers intimidating because of all the wires. I don't blame them, I would too. That's the great thing about iPhones I guess. No wires.",
+                    "created": "Sat, 16 Mar 2019 18:49:27 GMT"
+                },
+                {
+                    "text": "PS: While we were testing the DG/One we were also testing the first Macintosh. Both used 3.5 inch floppy drives. But the formats weren't compatible. I tried to communicate to both companies, without violating the others' NDA that there was an opportunity to be compatible, but neither were interested. ",
+                    "created": "Sat, 16 Mar 2019 18:49:27 GMT"
+                }
+            ]
+        }
+    ]
+}
