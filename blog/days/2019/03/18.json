@@ -1,0 +1,93 @@
+{
+    "text": "March 18",
+    "created": "Mon, 18 Mar 2019 13:49:14 GMT",
+    "name": "18",
+    "subs": [
+        {
+            "text": "Note to self: A freshly set up Mac has weird mouse behavior. It scrolls when you move the mouse pointer, sometimes. This is how you disable it. In the Accessibility prefs panel, click on <i>Mouse & Trackpad,</i> then <i>Mouse Options, </i>then <a href=\"http://scripting.com/images/2019/03/18/mousePref.png\">uncheck</a> the Scrolling popup. ",
+            "created": "Tue, 19 Mar 2019 02:07:07 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Today's <a href=\"https://www.nytimes.com/2019/03/18/podcasts/the-daily/new-zealand-mosque-shooting.html\">Daily podcast</a> was about the terrorist attack in New Zealand. First they had interviews with victims, then quoted the prime minister about gun control and they ended with a broad trashing of the net, specifically YouTube and Facebook. But they omit a very <a href=\"http://thesaurus.land/?word=salient\">salient</a> fact about the economics of running an open content publishing platform. You can't review each video in advance, there are too many videos and employees are too expensive. There are shades of gray, but for the NYT it's black and white. Further the reporters have a huge undisclosed conflict of interest, because the net is used for more than terrorism, it's <a href=\"http://scripting.com/2019/03/06/170723.html\">sources going direct</a> to interested readers. There's a new news system trying to boot up. The same features of the net that make it possible to bootstrap a terrorism network, also enable new channels of news. But <a href=\"https://quoteinvestigator.com/2017/11/30/salary/\">of course</a> this is never part of their discussion. They make it sound easy. Tech is bad. Tech is responsible. Implied but not said: shut it down. They are as scary as the terrorists. Think about it. ",
+            "created": "Tue, 19 Mar 2019 00:47:37 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/03/18/mrPeanutButter.png"
+        },
+        {
+            "text": "It's way too early for a 2020 presidential horse race. I'd like to uncheck that box. Oh that's right, there are no topic <a href=\"http://scripting.com/futureNews.html\">checkboxes</a> on Twitter. Somehow my car can steer itself, but Twitter can't tell a post is about horserace politics.",
+            "created": "Tue, 19 Mar 2019 02:23:41 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Journalism used to vilify Craig Newmark, then he started <a href=\"https://craignewmarkphilanthropies.org/\">giving millions</a> to news think tanks, journalism schools, and startup news orgs. The new demon is Facebook. A few hundred million should make the troubles go away.",
+            "created": "Tue, 19 Mar 2019 01:12:11 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "We need to talk about how we're going to reboot local news. The journalism industry <a href=\"https://apnews.com/790d194cbec347149be8b598009ad1c4\">isn't</a> doing the job. ",
+            "created": "Mon, 18 Mar 2019 17:14:31 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "This is our next big <a href=\"https://www.seattletimes.com/business/boeing-aerospace/failed-certification-faa-missed-safety-issues-in-the-737-max-system-implicated-in-the-lion-air-crash/\">wakeup call</a>. If a couple of hundred people die in an American plane crash due to the incompetence of the FAA we can't say we weren't warned.",
+            "created": "Mon, 18 Mar 2019 17:13:32 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I decided to try <a href=\"https://www.amazon.com/gp/pantry/info?tag=googhydr-20&hvadid=223646217010&hvpos=1t1&hvexid=&hvnetw=g&hvrand=15591104968288053328&hvpone=&hvptwo=&hvqmt=b&hvdev=c&ref=pd_sl_7z63e8sfm8_b&hvtargid=kwd-315558576224\">Amazon Pantry</a>, since I'm now living in a place where FreshDirect doesn't deliver. I just got a <a href=\"http://scripting.com/images/2019/03/18/soup.png\">notice</a> that \"Progresso Soup\" has shipped. I ordered five different kinds of Progresso soup, wanting to try them all. I prayed that the title of the order was just one of the items they were shipping. Nope. One can of Progresso soup will arrive in its own Amazon box on Wednesday. I can see this will be a short-lived experiment. ",
+            "created": "Mon, 18 Mar 2019 13:49:15 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "\"Optimizing application\" in Signal",
+            "created": "Mon, 18 Mar 2019 17:28:17 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I've had this problem for a few days in Signal and finally have a workaround. Warning you'll lose local copies of all the messages on your desktop only. They'll still be present on your phone.",
+                    "created": "Mon, 18 Mar 2019 17:28:55 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "In the Finder choose <i>Go to Folder</i> from the Go menu.",
+                            "created": "Mon, 18 Mar 2019 17:29:05 GMT"
+                        },
+                        {
+                            "text": "Enter ~/Library/Application Support/ ",
+                            "created": "Mon, 18 Mar 2019 17:29:25 GMT"
+                        },
+                        {
+                            "text": "Click the Go button.",
+                            "created": "Mon, 18 Mar 2019 17:30:08 GMT"
+                        },
+                        {
+                            "text": "Delete the Signal folder.",
+                            "created": "Mon, 18 Mar 2019 17:30:13 GMT"
+                        },
+                        {
+                            "text": "Re-launch the Signal app.",
+                            "created": "Mon, 18 Mar 2019 17:30:17 GMT"
+                        },
+                        {
+                            "text": "It'll ask you to pair it with your phone.",
+                            "created": "Mon, 18 Mar 2019 17:30:25 GMT"
+                        },
+                        {
+                            "text": "Do what they say to do.",
+                            "created": "Mon, 18 Mar 2019 17:30:33 GMT"
+                        },
+                        {
+                            "text": "It'll redownload all the stuff it needs.",
+                            "created": "Mon, 18 Mar 2019 17:30:37 GMT"
+                        },
+                        {
+                            "text": "Off you go!",
+                            "created": "Mon, 18 Mar 2019 17:30:44 GMT"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
