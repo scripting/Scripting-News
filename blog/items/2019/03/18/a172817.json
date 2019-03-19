@@ -1,0 +1,50 @@
+{
+    "text": "\"Optimizing application\" in Signal",
+    "created": "Mon, 18 Mar 2019 17:28:17 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I've had this problem for a few days in Signal and finally have a workaround. Warning you'll lose local copies of all the messages on your desktop only. They'll still be present on your phone.",
+            "created": "Mon, 18 Mar 2019 17:28:55 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "In the Finder choose <i>Go to Folder</i> from the Go menu.",
+                    "created": "Mon, 18 Mar 2019 17:29:05 GMT"
+                },
+                {
+                    "text": "Enter ~/Library/Application Support/ ",
+                    "created": "Mon, 18 Mar 2019 17:29:25 GMT"
+                },
+                {
+                    "text": "Click the Go button.",
+                    "created": "Mon, 18 Mar 2019 17:30:08 GMT"
+                },
+                {
+                    "text": "Delete the Signal folder.",
+                    "created": "Mon, 18 Mar 2019 17:30:13 GMT"
+                },
+                {
+                    "text": "Re-launch the Signal app.",
+                    "created": "Mon, 18 Mar 2019 17:30:17 GMT"
+                },
+                {
+                    "text": "It'll ask you to pair it with your phone.",
+                    "created": "Mon, 18 Mar 2019 17:30:25 GMT"
+                },
+                {
+                    "text": "Do what they say to do.",
+                    "created": "Mon, 18 Mar 2019 17:30:33 GMT"
+                },
+                {
+                    "text": "It'll redownload all the stuff it needs.",
+                    "created": "Mon, 18 Mar 2019 17:30:37 GMT"
+                },
+                {
+                    "text": "Off you go!",
+                    "created": "Mon, 18 Mar 2019 17:30:44 GMT"
+                }
+            ]
+        }
+    ]
+}
