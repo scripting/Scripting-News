@@ -1,0 +1,86 @@
+{
+    "text": "March 24",
+    "created": "Sun, 24 Mar 2019 15:24:08 GMT",
+    "name": "24",
+    "subs": [
+        {
+            "text": "<a href=\"https://en.wikipedia.org/wiki/Ari_Melber\">Ari Melber</a> is having his <a href=\"https://www.memeorandum.com/190324/p45#a190324p45\">moment</a>, like <a href=\"https://en.wikipedia.org/wiki/Nightline#The_Iran_Crisis%E2%80%93America_Held_Hostage_(1979)\">Ted Koppel</a> with the Iran hostage crisis. The rest of MSNBC tries to cover every story as if it's a horse race. Trump's corruption doesn't fit the horse race model very well, hence they are failing. I assume CNN is the same.",
+            "created": "Sun, 24 Mar 2019 23:56:35 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "From what I hear on MSNBC, we have no idea what the Mueller report says. We only know what Barr says the report says. Reminds me of a Watergate story. Nixon didn't want to release the tapes because they would incriminate him. So he got a <a href=\"https://en.wikipedia.org/wiki/John_C._Stennis\">Democratic senator</a> from the south who mostly voted Republican to <a href=\"https://en.wikipedia.org/wiki/Stennis_Compromise\">listen</a> to the tapes, and he came out and said basically Nixon is right, nothing criminal here. It didn't work. The tapes ultimately were released. The more the Repubs don't want the Mueller report released, the more it says it <i>must</i> be released. No one is going to give up on this. ",
+            "created": "Mon, 25 Mar 2019 00:05:02 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/03/24/trickyDick.png"
+        },
+        {
+            "text": "Can a president be indicted? Imho it might depend on how heinous and dangerous the crime. Being controlled by a foreign enemy might make a difference.",
+            "created": "Sun, 24 Mar 2019 17:51:34 GMT",
+            "type": "tweet",
+            "tweetId": "1109893117002596358",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "Bug fixed in \"feedbase\". If the user logs off, changes their Twitter username, then logs back into the app, the updates will go to the old username. This was a caching issue in the <a href=\"https://github.com/scripting/twitter\">davetwitter</a> package. Thanks to <a href=\"https://github.com/vincode-io\">vincode-io</a> for the excellent detective work and <a href=\"https://github.com/scripting/feedBase/issues/40\">report</a>. I was able to understand the problem immediately, and it was easy to fix. ",
+            "created": "Sun, 24 Mar 2019 16:46:43 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Independent of whether Congress impeaches, it would be great to have a public resource that listed all of Trump's clearly impeachable offenses, with Clinton's <a href=\"https://en.wikipedia.org/wiki/Impeachment_of_Bill_Clinton\">1998 impeachment</a> as the benchmark.",
+            "created": "Sun, 24 Mar 2019 16:59:08 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Social topology, something I've been thinking about for a long time. When I was a math student, I got interested in graph theory, and wrote all kinds of Fortran apps that walked graphs, figuring out things about them. Not a great choice of language for that. Graph theory is part of at least two branches of math, combinatorics and topology. And I think there must be a mapping from topology to the structure of online communication systems. Looked at a particular way, we've been spending the whole of my career in tech, dating back to the 70s, studying, without any sense of the theory, the topology of net communication systems. Blogs are very different from mail lists, so different the could be considered opposites. List all the different rules for each of the following: Facebook groups, Facebook messages, public Twitter, Twitter DMs, Instagram, Snapchat, AppleLink, Reddit, Whatsapp, on and on. And the tools we use for managing developer groups also yield different kinds of social topology. I was just thinking about the difference between Slack and GitHub as two recent examples of development systems I've used. ",
+            "created": "Sun, 24 Mar 2019 15:24:09 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/03/24/ipod.png"
+        },
+        {
+            "text": "Where have you gone Walter Cronkite?",
+            "created": "Sun, 24 Mar 2019 18:37:22 GMT",
+            "type": "outline",
+            "description": "People are covering climate change and Trump as if the normal rules of journalism can deal with these two crises. Clearly they cannot. We need a different approach.",
+            "subs": [
+                {
+                    "text": "Before <a href=\"https://www.youtube.com/watch?v=Dn2RjahTi3M\">Walter Cronkite</a> did an hour special <a href=\"https://www.npr.org/templates/story/story.php?storyId=106775685\">saying</a> the <a href=\"https://en.wikipedia.org/wiki/Walter_Cronkite#Vietnam_War\">Vietnam War</a> was unwinnable, press coverage was pretty much re-written press releases from the Pentagon. Cronkite's observation, that the war was unwinnable, turned press coverage in a different direction. The question of whether or not we should be in Vietnam was now something they could ask, and did.  ",
+                    "created": "Sun, 24 Mar 2019 18:37:37 GMT",
+                    "image": "http://scripting.com/images/2019/03/24/walterCronkite.png"
+                },
+                {
+                    "text": "We're in a similar situation now. People are covering climate change and Trump as if the normal rules of journalism can deal with these two crises. Clearly they cannot. We need a different approach.",
+                    "created": "Sun, 24 Mar 2019 18:38:58 GMT",
+                    "flNumberedSubs": "true"
+                },
+                {
+                    "text": "Postscript #1: Jon Stewart was definitely on track to be the current day Walter Cronkite before he left The Daily Show. I know he disclaimed that he was just a comedian, but he was much more than that. ",
+                    "created": "Sun, 24 Mar 2019 18:44:09 GMT"
+                },
+                {
+                    "text": "Postscript #2: Three observations that address the shortcomings of news in covering the current situation. If Cronkite were alive and observing the rise of Trump and our failure to address climate change, I'd like to think he'd do a corner-turn today like the one he did in 1968 around these ideas.",
+                    "created": "Sun, 24 Mar 2019 18:48:49 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Occam's Razor. If it's obvious, report it as obvious.",
+                            "created": "Sun, 24 Mar 2019 18:40:32 GMT"
+                        },
+                        {
+                            "text": "Common sense. Life teaches us how people are. Use that info.",
+                            "created": "Sun, 24 Mar 2019 18:40:50 GMT"
+                        },
+                        {
+                            "text": "This is a dire situation. (Trump, climate change.)",
+                            "created": "Sun, 24 Mar 2019 18:40:58 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "Postscript #3: The title of this piece is derived from the song <a href=\"https://www.youtube.com/watch?v=9C1BCAgu2I8\">Mrs Robinson</a> by Simon and Garfunkel. ",
+                    "created": "Sun, 24 Mar 2019 18:51:15 GMT"
+                }
+            ]
+        }
+    ]
+}
