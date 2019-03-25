@@ -1,0 +1,5 @@
+{
+    "text": "Bug fixed in \"feedbase\". If the user logs off, changes their Twitter username, then logs back into the app, the updates will go to the old username. This was a caching issue in the <a href=\"https://github.com/scripting/twitter\">davetwitter</a> package. Thanks to <a href=\"https://github.com/vincode-io\">vincode-io</a> for the excellent detective work and <a href=\"https://github.com/scripting/feedBase/issues/40\">report</a>. I was able to understand the problem immediately, and it was easy to fix. ",
+    "created": "Sun, 24 Mar 2019 16:46:43 GMT",
+    "type": "outline"
+}
