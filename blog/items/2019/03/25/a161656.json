@@ -1,0 +1,5 @@
+{
+    "text": "I've been peripherally aware that some browsers and operating systems support the idea of a <i>feed:</i> prefix for web addresses. However I don't know the history, where the idea originated, or how widely it is supported, and what are its intended semantics? When the user clicks on a link like <a href=\"feed:http://scripting.com/rss.xml\">this</a> on a Mac, what's supposed to happen? This came up in a <a href=\"https://github.com/scripting/feedBase/issues/43#issuecomment-476272480\">thread</a> on feedBase work.  ",
+    "created": "Mon, 25 Mar 2019 16:16:56 GMT",
+    "type": "outline"
+}
