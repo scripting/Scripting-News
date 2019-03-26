@@ -1,0 +1,6 @@
+{
+    "text": "A few days ago I <a href=\"http://scripting.com/2019/03/17.html#a161227\">teased</a> that I have ideas for new architectures for feed reading. Here's the main idea. Users should be able to subscribe to OPML lists, not just import them. So I could use a different editor, or discovery mechanism, or who-knows-what to manage (some of) my subscription lists. Or use two different readers and have them share their lists. Having this architecture widely supported in the feed reader market would open up possibilities for higher level applications. It's a major upgrade for the \"RSS\" market, something a silo can't match, without ceasing to be a silo. The challenge of open networks is that they leverage their openness. This is a remarkably easy feature for feed readers to support. I've implemented it in every feed reader I've written since 2002. It never takes more than a couple of days. If you're committed to <i>no lock-in</i> you should be all over this feature. [A <a href=\"https://github.com/scripting/Scripting-News/issues/113\">place</a> to post questions or comments.]",
+    "created": "Mon, 25 Mar 2019 13:12:35 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2019/03/25/slugger.png"
+}
