@@ -1,0 +1,57 @@
+{
+    "text": "March 25",
+    "created": "Mon, 25 Mar 2019 13:12:34 GMT",
+    "name": "25",
+    "subs": [
+        {
+            "text": "A few days ago I <a href=\"http://scripting.com/2019/03/17.html#a161227\">teased</a> that I have ideas for new architectures for feed reading. Here's the main idea. Users should be able to subscribe to OPML lists, not just import them. So I could use a different editor, or discovery mechanism, or who-knows-what to manage (some of) my subscription lists. Or use two different readers and have them share their lists. Having this architecture widely supported in the feed reader market would open up possibilities for higher level applications. It's a major upgrade for the \"RSS\" market, something a silo can't match, without ceasing to be a silo. The challenge of open networks is that they leverage their openness. This is a remarkably easy feature for feed readers to support. I've implemented it in every feed reader I've written since 2002. It never takes more than a couple of days. If you're committed to <i>no lock-in</i> you should be all over this feature. [A <a href=\"https://github.com/scripting/Scripting-News/issues/113\">place</a> to post questions or comments.]",
+            "created": "Mon, 25 Mar 2019 13:12:35 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/03/25/slugger.png"
+        },
+        {
+            "text": "I've been peripherally aware that some browsers and operating systems support the idea of a <i>feed:</i> prefix for web addresses. However I don't know the history, where the idea originated, or how widely it is supported, and what are its intended semantics? When the user clicks on a link like <a href=\"feed:http://scripting.com/rss.xml\">this</a> on a Mac, what's supposed to happen? This came up in a <a href=\"https://github.com/scripting/feedBase/issues/43#issuecomment-476272480\">thread</a> on feedBase work.  ",
+            "created": "Mon, 25 Mar 2019 16:16:56 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Mueller's invisible report",
+            "created": "Mon, 25 Mar 2019 13:30:30 GMT",
+            "type": "outline",
+            "description": "A collection of random observations on the gullibility of (some) journalists.",
+            "subs": [
+                {
+                    "text": "We. Have. Not. Seen. The. Mueller. Report.",
+                    "created": "Mon, 25 Mar 2019 13:31:23 GMT"
+                },
+                {
+                    "text": "Analogy: You’re buying a house, so you hire an inspector. But the seller says I’ll read the inspection report for you, then writes a summary that says the house doesn’t have termites (even though you can see it does) and it might have a leaky roof. Of course you buy the house.",
+                    "created": "Mon, 25 Mar 2019 13:30:47 GMT"
+                },
+                {
+                    "text": "There are two kinds of reporters: ",
+                    "created": "Mon, 25 Mar 2019 13:31:01 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Those who say the Mueller Report says such and such.",
+                            "created": "Mon, 25 Mar 2019 13:31:45 GMT"
+                        },
+                        {
+                            "text": "Those who say Barr won’t let us read the Mueller Report.",
+                            "created": "Mon, 25 Mar 2019 13:31:53 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "The latter are reporting facts. The former are rewriting a press release.",
+                    "created": "Mon, 25 Mar 2019 13:32:02 GMT"
+                },
+                {
+                    "text": "It seems maybe Trump found a way to fire Mueller after all.",
+                    "created": "Mon, 25 Mar 2019 13:30:36 GMT"
+                }
+            ]
+        }
+    ]
+}
