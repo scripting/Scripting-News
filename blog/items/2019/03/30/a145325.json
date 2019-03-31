@@ -1,0 +1,5 @@
+{
+    "text": "I just read a piece on Gizmodo saying that <a href=\"https://gizmodo.com/rss-is-better-than-twitter-1833624929\">RSS is better than Twitter</a>. Then I had a thought, why not turn Twitter into an RSS reader. It's not too many steps. Accept an OPML subscription list. When you add a feed, call \"IFTTT\" and say \"map the output of this feed onto this Twitter account.\" When a feed disappears from the list, delete the IFTTT script. I'm not sure if IFTTT's API will let you do this. OTOH you could probably set up a \"River5\" installation to do it, but it'd be more work. :-)",
+    "created": "Sat, 30 Mar 2019 14:53:25 GMT",
+    "type": "outline"
+}
