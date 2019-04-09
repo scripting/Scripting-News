@@ -1,0 +1,5 @@
+{
+    "text": "The <a href=\"https://github.com/request/request\">request</a> package and all its weirdness is baked into all the <a href=\"https://github.com/scripting?tab=repositories\">Node apps</a> I’ve made and depend on. Same as everyone. <a href=\"https://github.com/request/request/issues/3142\">Deprecating</a> it is the wrong answer. Freeze it. Make new things that do similar things if you want. But don’t mess with the foundation.",
+    "created": "Mon, 08 Apr 2019 14:25:41 GMT",
+    "type": "outline"
+}
