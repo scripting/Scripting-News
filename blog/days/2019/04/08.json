@@ -1,0 +1,37 @@
+{
+    "text": "April 8",
+    "created": "Mon, 08 Apr 2019 13:06:21 GMT",
+    "name": "08",
+    "subs": [
+        {
+            "text": "A new feedBase <a href=\"https://youtu.be/VvjHTfrlh8A\">feature</a>. Now you can view the contents of a feed from its Feed Viewer page. Here's an <a href=\"http://feedbase.io/?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2FTechcrunch\">example</a>, the TechCrunch feed. Click on the wedge next to <i>Items</i> to see the contents.",
+            "created": "Mon, 08 Apr 2019 16:30:41 GMT",
+            "type": "outline",
+            "urlvideo": "https://youtu.be/VvjHTfrlh8A"
+        },
+        {
+            "text": "The <a href=\"https://github.com/request/request\">request</a> package and all its weirdness is baked into all the <a href=\"https://github.com/scripting?tab=repositories\">Node apps</a> I’ve made and depend on. Same as everyone. <a href=\"https://github.com/request/request/issues/3142\">Deprecating</a> it is the wrong answer. Freeze it. Make new things that do similar things if you want. But don’t mess with the foundation.",
+            "created": "Mon, 08 Apr 2019 14:25:41 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "When I sit down at a lovely dinner, with interesting, humor-filled friends in a beautiful spot, I am as rich as I can possibly be. A billionaire couldn't have more.  I first realized this at a sushi restaurant in Sausilito, where the chef had prepared the most amazing looking and tasting bouquet of fresh fish and rice. Literally this is as rich as you can get. ",
+            "created": "Mon, 08 Apr 2019 13:06:22 GMT",
+            "type": "tweet",
+            "tweetId": "1115239756974174208",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "Receivers have changed",
+            "created": "Mon, 08 Apr 2019 18:39:07 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Just set up a new <a href=\"https://www.amazon.com/gp/product/B07BJT931Q/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1\">receiver</a>. They keep changing these things. Once I had the speakers hooked up, I turned it on and it says INITIAL SETUP ON TV. I had no idea what it meant. So I sat down and thought. Hmm. Try hooking up an HDMI cable to the receiver's HDMI-out connection and into one of the HDMI ports on the TV. Reboot the receiver. Voila. There's a cheesy setup screen. I go through the first few pages, give it access to the net (probably a bad idea, even though I told it not to send data about me back to Japan). Then we got to ARC. I have no idea what this is. It said Your TV does not support ARC. I couldn't believe it because I have a new 4K highly recommended TV. Looked at their docs, which are better than the receiver's. I learn <a href=\"https://www.cnet.com/news/what-is-audio-return-channel-arc/\">ARC lets HDMI</a> sound flow back, out of the TV. Ahhh. No need for the optical cable I bought (glad, because it was hard to get it working with the TV). Once I told the TV I didn't have a subwoofer, the sound became incredible, I guess because it started sending the low notes to the big speakers I have. I will of course eventually get a subwoofer and rear speakers. But right now I'm glad I figured out what a receiver is in 2019. Very different from the receivers of my youth.",
+                    "created": "Mon, 08 Apr 2019 18:39:11 GMT",
+                    "image": "http://scripting.com/images/2019/04/08/onkyo.png"
+                }
+            ]
+        }
+    ]
+}
