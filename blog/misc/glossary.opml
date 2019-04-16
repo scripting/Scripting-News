@@ -3,17 +3,17 @@
 	<head>
 		<title>Glossary</title>
 		<dateCreated>Tue, 13 Jun 2017 13:42:31 GMT</dateCreated>
-		<dateModified>Sat, 30 Mar 2019 14:58:24 GMT</dateModified>
+		<dateModified>Mon, 15 Apr 2019 15:44:22 GMT</dateModified>
 		<ownerName>scripting.com</ownerName>
 		<ownerId>https://twitter.com/davewiner/</ownerId>
-		<expansionState>2,4,6,8,15,17,90</expansionState>
+		<expansionState>2,4,6,8,10,17,19,92</expansionState>
 		<vertScrollState>1</vertScrollState>
 		<windowTop>631</windowTop>
 		<windowLeft>1087</windowLeft>
 		<windowBottom>831</windowBottom>
 		<windowRight>1472</windowRight>
 		<flPublic>true</flPublic>
-		<lastCursor>7</lastCursor>
+		<lastCursor>8</lastCursor>
 		<ownerTwitterScreenName>davewiner</ownerTwitterScreenName>
 		<urlPublic>http://electricserver.scripting.com/users/davewiner/electric/glossary.opml</urlPublic>
 		<urlJson>http://electricserver.scripting.com/users/davewiner/electric/glossary.json</urlJson>
@@ -34,6 +34,9 @@
 			</outline>
 		<outline text="&quot;isoj&quot;" created="Thu, 21 Feb 2019 17:37:32 GMT">
 			<outline text="&lt;a href=&quot;http://isoj.org/&quot;&gt;ISOJ&lt;/a&gt;" created="Thu, 21 Feb 2019 17:37:35 GMT"/>
+			</outline>
+		<outline text="#isoj2019" created="Mon, 15 Apr 2019 15:43:45 GMT">
+			<outline text="&lt;a href=&quot;https://twitter.com/hashtag/isoj2019?src=hash&quot;&gt;#isoj2019&lt;/a&gt;" created="Mon, 15 Apr 2019 15:43:49 GMT"/>
 			</outline>
 		<outline text="&quot;IFTTT&quot;" created="Sat, 30 Mar 2019 14:56:01 GMT">
 			<outline text="&lt;a href=&quot;https://ifttt.com/&quot;&gt;&lt;span style=&quot;font-size: .95em&quot;&gt;IFTTT&lt;/span&gt;&lt;/a&gt;" created="Sat, 30 Mar 2019 14:56:05 GMT"/>
