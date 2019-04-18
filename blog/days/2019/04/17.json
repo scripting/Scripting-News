@@ -1,0 +1,68 @@
+{
+    "text": "April 17",
+    "created": "Wed, 17 Apr 2019 13:21:42 GMT",
+    "name": "17",
+    "subs": [
+        {
+            "text": "I always thought foot pedals would become a standard part of the UI. They haven't, but I think they would have if Apple had decided to try them out. When I write, my feet are doing nothing. However they are capable of driving a car, so why aren't we using them??",
+            "created": "Wed, 17 Apr 2019 21:07:46 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Apple TV, if Apple had their heads screwed on right, would be able to play music and video it finds on the local net, so I don't have to attach a <a href=\"https://www.apple.com/mac-mini/?afid=p238%7Cs8I4kbUTZ-dc_mtid_20925top39173_pcrid_307882469438&cid=wwa-us-kwgo-mac-slid---mac+mini-e\">Mac mini</a> to the TV just to do that.",
+            "created": "Wed, 17 Apr 2019 15:34:13 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Maybe 5 times out of 10 when I use Google I'm really looking for the Wikipedia page on that topic. They're making it harder and harder to find this on Google. So much so that I'm thinking Wikipedia has to do a search engine. I would learn to use it.",
+            "created": "Wed, 17 Apr 2019 15:28:39 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Let’s call it The Barr Report.",
+            "created": "Wed, 17 Apr 2019 13:21:43 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Roku, the entertainment desktop",
+            "created": "Wed, 17 Apr 2019 14:40:31 GMT",
+            "type": "outline",
+            "description": "Roku has become the desktop of the digital entertainment world and an operating system that controls your hardware. It could be a franchise like Windows. ",
+            "subs": [
+                {
+                    "text": "I've been slowly rebuilding my home entertainment system, in a bootstrapping kind of way. My old system was built around a huge Denon receiver I bought in 2007, two Polk Audio towers (also 2007), and a 45 or 55 inch Sony Bravia screen bought in 2010 when I moved to NYC. ",
+                    "created": "Wed, 17 Apr 2019 14:42:40 GMT",
+                    "image": "http://scripting.com/images/2019/04/17/roku2.png"
+                },
+                {
+                    "text": "A lot has changed in all those years, and I wanted to get caught up. First, I bought a <a href=\"https://www.amazon.com/gp/product/B0798B2L5H/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1\">65-inch 4K TCL Roku</a> screen and a cheap <a href=\"https://www.amazon.com/gp/product/B07BJT931Q/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1\">Onkyo receiver</a>. I wanted immediately to get 2019-level equipment. Still using the Polk Audio towers. The picture quality was an amazing improvement over what I had before. Like many others, the picture was weird until I made the <a href=\"https://en.wikipedia.org/wiki/Motion_interpolation\">motion smoothing</a> <a href=\"https://www.howtogeek.com/402240/how-to-disable-motion-smoothing-on-a-roku-tv/\">change</a>. ",
+                    "created": "Wed, 17 Apr 2019 14:42:48 GMT"
+                },
+                {
+                    "text": "Yesterday I got a cheap Polk audio <a href=\"https://www.amazon.com/gp/product/B0002KVQBA/ref=ppx_yo_dt_b_asin_title_o02_s01?ie=UTF8&psc=1\">subwoofer</a>. I never thought about how it would connect to the receiver. Then I assumed there would be speaker wire ports on both ends and I would hook it up as I did with the towers, using banana plugs. I was surprised to learn how subwoofers connect to receivers these days. Using some very legacy tech, totally non-digital -- simple old <a href=\"https://www.amazon.com/gp/product/B01D5H8IIU/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1\">RCA plugs</a>. I went on to Amazon hoping to find some, then I realized of course they would be easy to find. An entire new market has developed here. Super long mono RCA jacks, with gold plating. As someone who studies standards evolution in tech, this is both odd and gratifying. The old way just worked and no one screwed with it. Bing.",
+                    "created": "Wed, 17 Apr 2019 14:51:01 GMT"
+                },
+                {
+                    "text": "I also was pleased to learn about <a href=\"https://en.wikipedia.org/wiki/HDMI#HDMI_Ethernet_and_Audio_Return_Channel\">ARC</a>, a protocol that allows sound to flow back out over an HDMI wire. It means you only need one HDMI cable to hook up a receiver to a screen. It allows the receiver to play audio that's coming in through the TV. I was getting ready to set up an optical connection, as I did in the old setup. It's not needed any longer. I love factoring. Some good standards work. Met the customer need (I had actually thought of this while I was hooking up the TV and the receiver). ",
+                    "created": "Wed, 17 Apr 2019 14:47:45 GMT"
+                },
+                {
+                    "text": "Another great connection is now you can access the user interface of the receiver on the TV. It's weird to use their remote on a screen I usually use via the Roku remote, but it works. Onkyo's UI was understandable, but there are some very simple best practice type changes they should make. And it's hard to find out how to get the configuration screen back. I think part of the reason the sub-woofer doesn't work yet is that when I configured it initially, I told it I didn't have a sub-woofer. I think it was a mistake of them to ask, and a mistake of me to tell the truth. ",
+                    "created": "Wed, 17 Apr 2019 14:45:10 GMT"
+                },
+                {
+                    "text": "Ultimately I'd like to be able to control the receiver through the Roku settings hierarchy. I imagine there either is a way for a receiver to do this, or they're working on it. It's too obvious a direction to head in. ",
+                    "created": "Wed, 17 Apr 2019 15:01:53 GMT"
+                },
+                {
+                    "text": "BTW, I assume Apple has tried to buy Roku. They have an incredibly valuable asset, the desktop of the digital entertainment world. It could be a franchise like Windows. ",
+                    "created": "Wed, 17 Apr 2019 15:01:59 GMT"
+                },
+                {
+                    "text": "I'm learning a lot about a tech in an area I have loved since I was a kid. Pretty cool.",
+                    "created": "Wed, 17 Apr 2019 14:55:35 GMT"
+                }
+            ]
+        }
+    ]
+}
