@@ -1,0 +1,5 @@
+{
+    "text": "I just did some factoring on feed reading in Node. It was too hard to add rssCloud support to a simple utility. Too many moving parts. Every time I do it, there are lots of errors and it takes too much time. So I updated the <a href=\"https://www.npmjs.com/package/davefeedread\">davefeedread</a> package to make adding realtime notification one call. Now I get to find out if it worked (if it does this post will appear in the chat tab). Then it's time to do some more testing and doc writing. Doing this very slowly. Country living has made me a slower developer. Weird. ;-)",
+    "created": "Tue, 30 Apr 2019 16:12:11 GMT",
+    "type": "outline"
+}
