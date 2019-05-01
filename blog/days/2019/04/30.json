@@ -1,0 +1,42 @@
+{
+    "text": "April 30",
+    "created": "Tue, 30 Apr 2019 13:31:51 GMT",
+    "name": "30",
+    "subs": [
+        {
+            "text": "TheC just <a href=\"https://twitter.com/The_Corres/status/1123258205281370112\">posted this</a>. ",
+            "created": "Tue, 30 Apr 2019 16:49:42 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I just did some factoring on feed reading in Node. It was too hard to add rssCloud support to a simple utility. Too many moving parts. Every time I do it, there are lots of errors and it takes too much time. So I updated the <a href=\"https://www.npmjs.com/package/davefeedread\">davefeedread</a> package to make adding realtime notification one call. Now I get to find out if it worked (if it does this post will appear in the chat tab). Then it's time to do some more testing and doc writing. Doing this very slowly. Country living has made me a slower developer. Weird. ;-)",
+            "created": "Tue, 30 Apr 2019 16:12:11 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Free <a href=\"https://twitter.com/ThatEricAlper/status/1123218015632408579\">shrugs</a>.    ",
+            "created": "Tue, 30 Apr 2019 13:31:52 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/ThatEricAlper/status/1123218015632408579"
+        },
+        {
+            "text": "They'll like us when we win",
+            "created": "Tue, 30 Apr 2019 19:40:36 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Lots of theories out there about how to rein in Facebook's power. ",
+                    "created": "Tue, 30 Apr 2019 19:40:45 GMT"
+                },
+                {
+                    "text": "If you asked me, I'd prioritize making them more subject to competition. That'll help take care of everything else. ",
+                    "created": "Tue, 30 Apr 2019 19:40:58 GMT"
+                },
+                {
+                    "text": "People don't listen to their friends, they listen to their competitors.",
+                    "created": "Tue, 30 Apr 2019 19:41:04 GMT"
+                }
+            ]
+        }
+    ]
+}
