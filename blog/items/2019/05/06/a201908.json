@@ -1,0 +1,5 @@
+{
+    "text": "A browser JavaScript challenge. Here's a <a href=\"http://scripting.com/playingcards/\">demo app</a>. Use the up and down arrow keys to move from card to card. When you get to the bottom of the screen the cursor moves to an object that is not visible. I want to scroll the window vertically to make the cursor object fully visible. If you look at <a href=\"http://scripting.com/playingcards/code.js\">the code</a>, you'll see a routine named  <i>scrollToMakeVisible. </i>The goal is to fill in the body of that routine. I've opened a <a href=\"https://github.com/scripting/Scripting-News/issues/116\">thread</a> to discuss. ",
+    "created": "Mon, 06 May 2019 20:19:08 GMT",
+    "type": "outline"
+}
