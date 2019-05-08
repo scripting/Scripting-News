@@ -1,0 +1,5 @@
+{
+    "text": "With the help of <a href=\"https://github.com/ouchiko\">ouchiko</a>, <a href=\"https://github.com/jmgs\">jmgs</a> and <a href=\"https://github.com/tommy-carlier\">tommy-carlier</a>, yesterday's <a href=\"https://github.com/scripting/Scripting-News/issues/116\">JavaScript challenge</a> is solved. I learned that there's a built-in <a href=\"https://github.com/scripting/Scripting-News/issues/116#issuecomment-489985995\">browser function</a> that does exactly what was called for, <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollIntoView\">scrollIntoView</a>. Makes sense, in 2019 this is something every app shouldn't have to do itself. This will be part of a new app I'm working on. ",
+    "created": "Tue, 07 May 2019 14:08:27 GMT",
+    "type": "outline"
+}
