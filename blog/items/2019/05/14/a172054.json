@@ -1,0 +1,5 @@
+{
+    "text": "I made the <a href=\"https://www.npmjs.com/package/davefeedread\">davefeedread</a> package a little more robust. Under some circumstances the lower-level feedparser package will return a length for an enclosure of \"None\". This is not what my apps were expecting and as a result we missed a bunch of podcasts due to errors. Zero is much easier to handle, and there really is no correct value if the length is omitted, since it is required by RSS 2.0. But what can you do -- this is the real world, and it happens. Examples -- Radio Lab, Here's the Thing. I added a simple workaround. If the value is None, we set it to 0. Result: More podcasts to listen to. :boom: ",
+    "created": "Tue, 14 May 2019 17:20:54 GMT",
+    "type": "outline"
+}
