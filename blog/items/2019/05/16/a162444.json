@@ -1,0 +1,40 @@
+{
+    "text": "feedRead viewer app",
+    "created": "Thu, 16 May 2019 16:24:44 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "<i>This is a specialized tool useful to a small number of people. I'm putting it here so I can easily find it by searching, when I need it in the future. </i>",
+            "created": "Thu, 16 May 2019 16:30:30 GMT"
+        },
+        {
+            "text": "As you may know I have a NPM package, <a href=\"https://www.npmjs.com/package/davefeedread\">davefeedread</a>, that makes it easy to read most kinds of feeds in Node.js projects. I use it in my apps that read feeds, so when I fix a bug, I just have to add it in this one place and rebuild any app that uses it. ",
+            "created": "Thu, 16 May 2019 16:24:54 GMT",
+            "image": "http://scripting.com/images/2019/05/16/weTryHarder.png"
+        },
+        {
+            "text": "I <a href=\"https://github.com/scripting/feedRead/blob/master/examples/webapp/feedreadviewer.js\">share</a> it because I want people to use RSS. :rocket: ",
+            "created": "Thu, 16 May 2019 17:02:34 GMT"
+        },
+        {
+            "text": "Today I was debugging an app that generates RSS, and wanted to get a close look at what davefeedread was generating, and decided once and for all to put it in a web app, to make it easy to debug a feed. Should've done it long ago.",
+            "created": "Thu, 16 May 2019 16:26:21 GMT"
+        },
+        {
+            "text": "Here's an example link:",
+            "created": "Thu, 16 May 2019 16:27:26 GMT"
+        },
+        {
+            "text": "<a href=\"http://feedread.scripting.com/?url=http://scripting.com/rss.xml\">http://feedread.scripting.com/?url=http://scripting.com/rss.xml</a>",
+            "created": "Thu, 16 May 2019 16:27:32 GMT"
+        },
+        {
+            "text": "It displays the structure that the davefeedread package returns for my feed. ",
+            "created": "Thu, 16 May 2019 16:30:07 GMT"
+        },
+        {
+            "text": "Thanks to <a href=\"https://github.com/danmactough\">Dan MacTough</a> who wrote the <a href=\"https://www.npmjs.com/package/feedparser\">feedparser</a> package that this is built on.  ",
+            "created": "Thu, 16 May 2019 16:32:19 GMT"
+        }
+    ]
+}
