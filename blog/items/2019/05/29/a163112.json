@@ -1,0 +1,5 @@
+{
+    "text": "I always thought, for some reason, that the <a href=\"https://en.wikipedia.org/wiki/Yacc\">YACC</a> source for Frontier was lost, but I looked in the repo and searched for YACC, and there it was in <a href=\"https://github.com/scripting/frontier/blob/856cccf694b3d4c8c27d2fe3634221564e331e59/Common/source/langparser.y\">langparser.y</a>. I still want a nice scripting language for my JavaScript outliner, and it can't be JavaScript.  There's some great food for thought here, and lots of memories. The last time I worked at this level was in the late 80s. Thinking maybe of starting with this syntax for a simple scripting language that can be plugged into JS apps. ",
+    "created": "Wed, 29 May 2019 16:31:12 GMT",
+    "type": "outline"
+}
