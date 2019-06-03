@@ -1,0 +1,116 @@
+{
+    "text": "June 2",
+    "created": "Sun, 02 Jun 2019 15:04:10 GMT",
+    "name": "02",
+    "subs": [
+        {
+            "text": "Disclaimer: I hate platitudes.",
+            "created": "Mon, 03 Jun 2019 03:34:56 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "What happened in Game 2 of the NBA finals? It was pretty evenly matched. Both teams were real strong on defense. Golden State found its groove at the beginning of the 3rd quarter, and the Raptors went cold. They got good looks but didn't make them. ",
+            "created": "Mon, 03 Jun 2019 03:12:29 GMT",
+            "type": "tweet",
+            "tweetId": "1135384269575139334",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "Cori's smoothie <a href=\"http://scripting.com/images/2019/06/02/coriSmoothieRecipe.png\">recipe</a>. ",
+            "created": "Sun, 02 Jun 2019 19:40:23 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Bob Stepno recommends watching <a href=\"https://www.youtube.com/watch?v=KBJpViMypKY\">Meet John Doe</a>. ",
+            "created": "Sun, 02 Jun 2019 19:43:17 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=KBJpViMypKY"
+        },
+        {
+            "text": "How does Alexa know what my favorite <a href=\"https://www.youtube.com/watch?v=6HDdiz8MU8o\">Rolling Stones song</a> is?",
+            "created": "Sun, 02 Jun 2019 16:11:19 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=6HDdiz8MU8o"
+        },
+        {
+            "text": "Every reminder about Father's Day on the net, supposedly directed right at me, are total triggers of grief and regret. You'd think with all their sophisticated data mining they would know what this isn't a holiday I want to hear about.",
+            "created": "Sun, 02 Jun 2019 16:06:09 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "How Old School works",
+            "created": "Sun, 02 Jun 2019 15:04:11 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "My longtime friend Stan Krute sent an email asking how I do my blog. Rather than do a one-off email, I am going to explain it via blog post, so it's documented publicly.",
+                    "created": "Sun, 02 Jun 2019 15:04:17 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "In the spring of 2017, I wrote a piece of software called <a href=\"https://github.com/scripting/oldSchoolBlog\">Old School</a>. It's a Node.js server app that is configured via a big JSON file. It handles incoming REST-style messages telling it to build blogs that it knows about via the JSON file. ",
+                            "created": "Sun, 02 Jun 2019 15:05:35 GMT"
+                        },
+                        {
+                            "text": "I write the blog content with an outliner, and the result is a big OPML file. The server software (Old School) knows where to look for the OPML file, via the config.json file. You can use any outliner to edit the content as long as it produces an OPML file as output. ",
+                            "created": "Sun, 02 Jun 2019 15:06:36 GMT"
+                        },
+                        {
+                            "text": "I archive the content of the blog in a <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog\">GitHub repository</a>, so you can see how the content works, going back to May 2017. ",
+                            "created": "Sun, 02 Jun 2019 15:09:57 GMT"
+                        },
+                        {
+                            "text": "The &lt;head> elements of the OPML file also configure Old School and it contains information other applications might find useful. ",
+                            "created": "Sun, 02 Jun 2019 15:26:45 GMT"
+                        },
+                        {
+                            "text": "Here's a <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+%22old+school%22&t=h_&ia=web\">search</a> for Old School on my blog. ",
+                            "created": "Sun, 02 Jun 2019 15:32:10 GMT"
+                        },
+                        {
+                            "text": "Even though Old School is undocumented and unsupported, I did provide an <a href=\"https://github.com/scripting/oldSchoolBlog/tree/master/examples/helloworld\">example app</a>. Never know when I will need to install a second instance.",
+                            "created": "Sun, 02 Jun 2019 15:34:06 GMT"
+                        },
+                        {
+                            "text": "The outliner I use is called Electric Outliner. I've never shipped it, and don't have any plans to. I got tired of supporting \"products\" that few if any people use. This, and Old School were the first two products I made just for myself. It's cool, because the users of the product really respect <i>the hell</i> out of the developer, and the developer knows the users will understand the software even with no docs. :smile:",
+                            "created": "Sun, 02 Jun 2019 15:27:30 GMT"
+                        },
+                        {
+                            "text": "You can use \"LO2\" -- it's very similar to EO, in fact the core outliner is the same code. ",
+                            "created": "Sun, 02 Jun 2019 15:28:49 GMT"
+                        },
+                        {
+                            "text": "If I want to attach a video to a post, I add an attribute called <i>urlvideo, </i>which points to a YouTube file. The runtime of the blog, a browser-based JavaScript app, looks for these attributes when the page is loaded, and builds the necessary structures. ",
+                            "created": "Sun, 02 Jun 2019 15:08:25 GMT"
+                        },
+                        {
+                            "text": "Similarly for <i>urltweet, </i>which points to a tweet. ",
+                            "created": "Sun, 02 Jun 2019 15:09:47 GMT"
+                        },
+                        {
+                            "text": "If you put an attribute named <i>flNumberedSubs</i> on a headline, Old School generates an &lt;ol> element. <i>flBulletedSubs</i> generates an &lt;ul> element.",
+                            "created": "Sun, 02 Jun 2019 15:11:20 GMT"
+                        },
+                        {
+                            "text": "If you put an attribute named <i>image</i> on an element, its value should be the address of an image, i.e. something that can be put in the src attribute of an &lt;img> element. Old School adds it to the output with a CSS style of float: right. That's how I create right-margin images that I love so much. ",
+                            "created": "Sun, 02 Jun 2019 15:12:16 GMT",
+                            "image": "http://scripting.com/images/2017/07/21/trumpHead.png"
+                        },
+                        {
+                            "text": "That reminds me, you can use emoji <a href=\"https://www.webfx.com/tools/emoji-cheat-sheet/\">short codes</a>. :boom: ",
+                            "created": "Sun, 02 Jun 2019 15:14:23 GMT"
+                        },
+                        {
+                            "text": "Old School also supports a glossary, a CMS idea that goes back to <a href=\"http://scripting.com/clay/whatisclaybasket.html\">Clay Basket</a> in <a href=\"http://scripting.com/clay/claydataglossary.html\">1996</a>. It's a simple two-column table represented in an outline. It does string substitutions of the top-level string with its sub-head's value. The glossary I use for Scripting News is also <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/misc/glossary.opml\">archived</a> in the repo. ",
+                            "created": "Sun, 02 Jun 2019 15:15:40 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "If you have questions about this, post a comment in this <a href=\"https://github.com/scripting/Scripting-News/issues/117\">GitHub thread</a>. ",
+                    "created": "Sun, 02 Jun 2019 15:10:28 GMT"
+                }
+            ]
+        }
+    ]
+}
