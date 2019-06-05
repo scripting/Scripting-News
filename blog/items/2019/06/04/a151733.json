@@ -1,0 +1,6 @@
+{
+    "text": "I've been working on the next <a href=\"http://scripting.com/2014/06/02/whatIsARiverOfNewsAggregator.html\">River</a> product. This time I'm using a MySQL database. Three tables -- feeds, items and subscriptions. The folder structure is exactly as in <a href=\"http://scripting.com/liveblog/users/davewiner/2016/02/09/0995.html\">River5</a>, except there is no data folder (the data is in the database). I am still a relative newbie in SQL databases, but I think this model works. I'm documenting as much as I can and of course I will release the Node.js source. I hope it serves as a basis for distributing RSS intelligence around the net. Last time around (Google Reader) we centralized. That was a mistake. If enough people run instances of this database we'll have a less interruptable base of functionality. I want to try out more new ideas as well. We've been really stuck for a long time. :boom:",
+    "created": "Tue, 04 Jun 2019 15:17:33 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/2016/02/09/loveRssTShirt.png"
+}
