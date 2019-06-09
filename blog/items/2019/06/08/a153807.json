@@ -1,0 +1,6 @@
+{
+    "text": "I'm working on River6, as I reported <a href=\"http://scripting.com/2019/06/04.html#a151733\">here</a>. One of the things included with this project is a new river browser, the JavaScript code that runs on the client. There are a few new features here and there, but mostly it's just reorganized and debugged, and hopefully easier to work on. Today I decided to do something bold, I removed all the layers of CSS that define how a river looks. Starting with a clean slate. It had been written by several different people at different times, and in the interim my understanding of how to write modular CSS has come a long way. It was too hard to change things. I wanted to put this note here for this <a href=\"http://scripting.com/images/2019/06/08/riverWithoutCss.png\">screen shot</a> to show what a river looks like without any CSS at all. Not pretty! ",
+    "created": "Sat, 08 Jun 2019 15:38:07 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/2016/02/09/loveRssTShirt.png"
+}
