@@ -1,0 +1,64 @@
+{
+    "text": "June 9",
+    "created": "Sun, 09 Jun 2019 14:33:34 GMT",
+    "name": "09",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/wirecutter/status/1137799493292822528\">Wirecutter</a> on rating online banks: \"We haven't covered this yet. We're planning to eventually, but it will be a big project and we want to get it right, so it's a ways out.\"",
+            "created": "Sun, 09 Jun 2019 19:24:26 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://www.consumerreports.org/cro/banks-credit-unions.htm\">Consumer Reports</a> does rate online banks, but the <a href=\"https://www.consumerreports.org/products/banks-credit-unions/ratings-overview/\">page</a> with their ratings and reviews is 404. I reported the broken link a few days ago, but it's still broken. ",
+            "created": "Sun, 09 Jun 2019 19:25:54 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Elizabeth Warren, day 2",
+            "created": "Sun, 09 Jun 2019 14:33:35 GMT",
+            "type": "outline",
+            "description": "What would our advice be to the Warren campaign, if they asked for it?",
+            "subs": [
+                {
+                    "text": "I've been emailing with longtime friend and open web advocate <a href=\"https://blog.jonudell.net/\">Jon Udell</a> about my campaign to convince <a href=\"http://scripting.com/2019/06/05/142857.html\">Elizabeth Warren</a> to post her position papers on the open web. Of all the presidential candidates Warren is, imho, the one who would most likely support the open web, and getting her campaign on board would help raise the issue for other American political leaders. I admit I am using the political campaign of 2020 to try to make the survival of the open web a more visible issue. I think it's important. ",
+                    "created": "Sun, 09 Jun 2019 14:35:20 GMT",
+                    "image": "http://scripting.com/images/2019/06/09/tooBigToFail.png"
+                },
+                {
+                    "text": "This is what Jon <a href=\"http://scripting.com/images/2019/06/09/whatJonSaid.png\">said</a>, and the questions he asked.",
+                    "created": "Sun, 09 Jun 2019 14:35:46 GMT",
+                    "collapse": "false",
+                    "subs": [
+                        {
+                            "text": "<i>I agree Warren should be on the open web. Now I'm trying to sort out exactly what I think that means nowadays, given the option to use one or another service behind your own domain name. If the campaign asked my advice, what would it be? That's what I'm asking myself. What would yours be? You've said what not to do. But what should they do?</i>",
+                            "created": "Sun, 09 Jun 2019 14:37:10 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "So here is the basic criteria: Her position papers should survive the failure of a single company. Currently, Warren's presence, and the presence of many other political leaders, is dependent on the survival of Medium. That's the most important point of failure. It's one thing if we lose Warren's writing, that would be bad enough, but the idea of losing all the political writing, that's an unacceptable risk. It's bad tech, and bad politics, which are increasingly becoming the same thing. And for elected officials it might be illegal. In any case it's exactly what got the Clinton campaign in so much trouble in 2016, the <a href=\"https://en.wikipedia.org/wiki/Hillary_Clinton_email_controversy\">Hillary's Emails</a> issue. ",
+                    "created": "Sun, 09 Jun 2019 14:37:40 GMT"
+                },
+                {
+                    "text": "So at a minimum, the Warren position papers should be hosted on a domain that Warren owns. They should have a near-perfect archive, and be ready to redirect to the archive when there's an outage. ",
+                    "created": "Sun, 09 Jun 2019 14:40:16 GMT",
+                    "collapse": "false",
+                    "subs": [
+                        {
+                            "text": "Jon: I gather from your previous email that Medium offers part of this service. That's a surprise to me. I know they did at one time, but I also heard stories about them canceling the feature, and thereby taking content offline. At least there's confusion as to whether they offer the feature, but here's the really important thing -- they can change their policy at any time, and they <i>have</i> changed policies, and business models, many times. So there's no argument possible that Medium has allowed for survival of writing they host beyond their own existence, when there's no guarantee that they, or their survivors would be bound by that commitment. In tech we have lots of experience with companies going back on their promises, esp when they get in trouble and have to refinance. ",
+                            "created": "Sun, 09 Jun 2019 14:58:55 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "Probably the best place to host her position papers is on elizabethwarren.com, a site they already own. I understand why they wouldn't want to mess with their fund-raising site, if so create a sub-domain. If they're posting their position papers there, then they should use that URL in their promotions, and then as far as I'm concerned, the problem is solved. They are no longer sending a message to users that Medium is a safe place to post, they're not helping to make Medium <a href=\"https://en.m.wikipedia.org/wiki/Too_big_to_fail\">too big to fail</a>, which right now, they certainly are. A crash of Medium would be a shock to the web the way the crash of Lehman Brothers was to the financial markets. ",
+                    "created": "Sun, 09 Jun 2019 14:44:45 GMT"
+                },
+                {
+                    "text": "PS: I wrote a piece called <a href=\"http://this.how/forTheRecordBlogging/\">For-the-Record Blogging</a> in 2018 that outlines a strong solution to this problem. ",
+                    "created": "Sun, 09 Jun 2019 14:53:28 GMT"
+                }
+            ]
+        }
+    ]
+}
