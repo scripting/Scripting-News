@@ -1,0 +1,42 @@
+{
+    "text": "Questions about GitHub Package Registry",
+    "created": "Fri, 14 Jun 2019 14:38:19 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "First, thanks to the team at GitHub for allowing me to be an early tester of <a href=\"https://help.github.com/en/articles/about-github-package-registry\">this product</a>. I'm a regular user of NPM, I publish my own packages, I use it to manage my Node code base. So I'm interested in innovations in this area. ",
+            "created": "Fri, 14 Jun 2019 14:38:32 GMT"
+        },
+        {
+            "text": "Here are some very basic questions. ",
+            "created": "Fri, 14 Jun 2019 14:38:50 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "Is it either/or? If I use GitHub Package Registry, can I still access packages in NPM?",
+                    "created": "Fri, 14 Jun 2019 14:39:44 GMT"
+                },
+                {
+                    "text": "If I can't, are common NPM packages also available in GHPR? For example, I use <a href=\"https://www.npmjs.com/package/nodejs-websocket\">nodejs-websocket</a> in some of my projects.",
+                    "created": "Fri, 14 Jun 2019 14:40:15 GMT"
+                },
+                {
+                    "text": "What are some use-cases for GHPR? ",
+                    "created": "Fri, 14 Jun 2019 14:40:37 GMT"
+                },
+                {
+                    "text": "What advantages does it have over NPM?",
+                    "created": "Fri, 14 Jun 2019 14:41:16 GMT"
+                },
+                {
+                    "text": "Drawbacks?",
+                    "created": "Fri, 14 Jun 2019 14:41:24 GMT"
+                }
+            ]
+        },
+        {
+            "text": "These are all questions I will try to answer as I do my investigation, but it would be helpful to get the <a href=\"https://github.com/scripting/Scripting-News/issues/120\">answers</a> from others first. Might save me some time. ",
+            "created": "Fri, 14 Jun 2019 14:41:28 GMT"
+        }
+    ]
+}
