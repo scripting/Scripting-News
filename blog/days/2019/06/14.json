@@ -1,0 +1,60 @@
+{
+    "text": "June 14",
+    "created": "Fri, 14 Jun 2019 14:38:18 GMT",
+    "name": "14",
+    "subs": [
+        {
+            "text": "If you're the kind of person who likes an early look at new things, here's my <a href=\"http://river6.scripting.com/\">collection</a> of stories from feeds I follow in <a href=\"http://scripting.com/2019/06/04.html#a151733\">River6</a>. By design, it's an evolution of the river of news readers we had for earlier apps. I've put considerable time into fixing bugs and adding new small features, and of course the engine on the back-end is completely new. The GitHub repo is still private. ",
+            "created": "Fri, 14 Jun 2019 21:35:43 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/806511361924759552\">2016</a>: \"I'm not going to pay to get through 100 paywalls. They need to work together to solve this.\"",
+            "created": "Fri, 14 Jun 2019 18:28:05 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/806511361924759552"
+        },
+        {
+            "text": "Questions about GitHub Package Registry",
+            "created": "Fri, 14 Jun 2019 14:38:19 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "First, thanks to the team at GitHub for allowing me to be an early tester of <a href=\"https://help.github.com/en/articles/about-github-package-registry\">this product</a>. I'm a regular user of NPM, I publish my own packages, I use it to manage my Node code base. So I'm interested in innovations in this area. ",
+                    "created": "Fri, 14 Jun 2019 14:38:32 GMT"
+                },
+                {
+                    "text": "Here are some very basic questions. ",
+                    "created": "Fri, 14 Jun 2019 14:38:50 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Is it either/or? If I use GitHub Package Registry, can I still access packages in NPM?",
+                            "created": "Fri, 14 Jun 2019 14:39:44 GMT"
+                        },
+                        {
+                            "text": "If I can't, are common NPM packages also available in GHPR? For example, I use <a href=\"https://www.npmjs.com/package/nodejs-websocket\">nodejs-websocket</a> in some of my projects.",
+                            "created": "Fri, 14 Jun 2019 14:40:15 GMT"
+                        },
+                        {
+                            "text": "What are some use-cases for GHPR? ",
+                            "created": "Fri, 14 Jun 2019 14:40:37 GMT"
+                        },
+                        {
+                            "text": "What advantages does it have over NPM?",
+                            "created": "Fri, 14 Jun 2019 14:41:16 GMT"
+                        },
+                        {
+                            "text": "Drawbacks?",
+                            "created": "Fri, 14 Jun 2019 14:41:24 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "These are all questions I will try to answer as I do my investigation, but it would be helpful to get the <a href=\"https://github.com/scripting/Scripting-News/issues/120\">answers</a> from others first. Might save me some time. ",
+                    "created": "Fri, 14 Jun 2019 14:41:28 GMT"
+                }
+            ]
+        }
+    ]
+}
