@@ -1,0 +1,6 @@
+{
+    "text": "A preview of another <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+%22river6%22&norw=1&t=hi&ia=web\">River6</a> feature. I reworked the feedViewer page. Here's an <a href=\"http://river6.scripting.com/feedviewer?url=http://www.berkeleyside.com/feed/\">example</a>, the single-feed view for <a href=\"http://river6.scripting.com/feedviewer?url=http://www.berkeleyside.com/feed/\">Berkeleyside</a>, the excellent <a href=\"https://www.berkeleyside.com/\">local news site</a> for Berkeley, where I lived a few years ago. It was founded by my longtime friend Lance Knobel. Since River6 is a river, there's less attention paid to the per-feed viewer, but this time I did a thorough rewrite of it, and added a huge optimization. It no longer has to call back to the server to get the JSON version of the feed, it's baked into the page as the server renders it. One more example, the <a href=\"http://river6.scripting.com/feedviewer?url=http://scripting.com/rss.xml\">single-feed view</a> for Scripting News. ",
+    "created": "Tue, 18 Jun 2019 16:43:07 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2019/06/18/wingSauce.png"
+}
