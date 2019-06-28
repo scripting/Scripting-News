@@ -1,0 +1,54 @@
+{
+    "text": "We need Facebook to interop",
+    "created": "Thu, 27 Jun 2019 14:57:02 GMT",
+    "type": "outline",
+    "description": "What's needed is choice. And for that you need interop. ",
+    "subs": [
+        {
+            "text": "Listening to Zuckerberg speak yesterday at the Aspen Ideas Festival, broadcast on Facebook (good move)..",
+            "created": "Thu, 27 Jun 2019 14:57:10 GMT"
+        },
+        {
+            "text": "He talks about \"data portability\" -- that isn't what's needed, that's easy and no one uses it. It doesn't do anything to reduce lock-in. Useless."
+        },
+        {
+            "text": "What's needed is choice. And for that you need interop. Also easy. We have standards for that, which FB ignores. If they did it, then users would have choice. That's the old thing that tech czars like Zuck, Gates, Jobs etc won't give their users.",
+            "created": "Thu, 27 Jun 2019 15:03:51 GMT"
+        },
+        {
+            "text": "I guess he gets away with this because reporters don't insist on understanding how his ideas would work. He says just enough that's true to make you think the other stuff is true too. Slippery.",
+            "created": "Thu, 27 Jun 2019 14:57:15 GMT"
+        },
+        {
+            "text": "<b>What I mean by interop</b>",
+            "created": "Thu, 27 Jun 2019 15:02:57 GMT"
+        },
+        {
+            "text": "BTW, by interop -- it could be really simple. Just four things. They've already done a big part of one of the things on my <a href=\"http://scripting.com/2016/04/30/1229.html\">prior checklist</a>, so I added another item. :boom:",
+            "created": "Thu, 27 Jun 2019 14:57:16 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "Support the HTML <a href=\"https://www.w3schools.com/tags/tag_a.asp\">anchor element</a> in posts, so I can link to <a href=\"https://en.wikipedia.org/wiki/Mark_Zuckerberg\">other places</a> on the web from my writing.",
+                    "created": "Thu, 27 Jun 2019 14:57:58 GMT"
+                },
+                {
+                    "text": "Titles for posts. Like the &lt;title> element in the &lt;head> section of an HTML document. To interop with other content systems, FB must have the concept of a post title.",
+                    "created": "Thu, 27 Jun 2019 14:58:33 GMT"
+                },
+                {
+                    "text": "Enclosures. Since podcasting has become such a big thing, FB should be compatible with the web and support this feature. It's so important, and really simple.",
+                    "created": "Thu, 27 Jun 2019 14:59:20 GMT"
+                },
+                {
+                    "text": "\"RSS\" in and out. This is the new item, now that they have simple styling in Facebook posts (bravo! were they listening?). With this, other blogging systems could fully peer with Facebook. People would have choice. It wouldn't cost FB anything to do this, they already are so dominant. ",
+                    "created": "Thu, 27 Jun 2019 14:59:52 GMT"
+                }
+            ]
+        },
+        {
+            "text": "If Facebook did all this, and I think they probably already have code to do most of it, they could make moderation a problem for the web, not just for them. It would get them out of the hot seat. It would a brilliant move, and also the right way to feed the web, which they used to build Facebook itself. ",
+            "created": "Thu, 27 Jun 2019 15:01:51 GMT"
+        }
+    ]
+}
