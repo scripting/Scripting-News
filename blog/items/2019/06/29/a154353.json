@@ -1,0 +1,34 @@
+{
+    "text": "River5 ➜ River6",
+    "created": "Sat, 29 Jun 2019 15:43:53 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "<i>On the River5 mail list Hanan Cohen <a href=\"https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!msg/river5/Pb9IM4Ooj1Y/vCFp3ncECgAJ\">asks</a> if he should wait for \"River6\", what about the browser, and how to mirror rivers on Twitter feeds. I answered in an email, which I'll include below so it gets into search engines. </i>",
+            "created": "Sat, 29 Jun 2019 15:44:06 GMT"
+        },
+        {
+            "text": "First, I'm glad to hear you're building a public aggregator for Israeli blogs. Let me know when you're ready for people to come and I'll post a note on my blog.",
+            "created": "Sat, 29 Jun 2019 15:45:12 GMT"
+        },
+        {
+            "text": "Okay -- now to advice re River6.",
+            "created": "Sat, 29 Jun 2019 15:45:16 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "I never recommend waiting, and I also place a strong emphasis on moving forward with compatibility. A River5 installation can be converted to River6 quickly. It's just a matter of setting up MySQL, and then copying the <i>lists</i> folder from the river5 folder to the river6 folder. Then there's a variable amount of waiting for the river to fill up, but that's something the software does on its own. ",
+                    "created": "Sat, 29 Jun 2019 15:45:18 GMT"
+                },
+                {
+                    "text": "All the changes are visible in the front end in <a href=\"http://river6.scripting.com/\">river6.scripting.com</a> and \"podcatch.com\", both of which use the new river browser. However it could just as easily be displaying rivers produced by River5. As far as I know there are no changes to that format between 5 and 6 (any that are present are bugs).",
+                    "created": "Sat, 29 Jun 2019 15:46:16 GMT"
+                },
+                {
+                    "text": "I have several rivers that are mirrored to Twitter feeds, for example <a href=\"http://nbariver.com/\">nbariver.com</a> is mirrored to <a href=\"https://twitter.com/nbariver\">@nbariver</a>, using a Node-based utility that I wrote called <a href=\"https://github.com/scripting/riverToTweets\">riverToTweets</a>. It's been running smoothly for years. I recommend it. ",
+                    "created": "Sat, 29 Jun 2019 15:46:56 GMT"
+                }
+            ]
+        }
+    ]
+}
