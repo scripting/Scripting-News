@@ -1,0 +1,58 @@
+{
+    "text": "July 8",
+    "created": "Mon, 08 Jul 2019 15:11:49 GMT",
+    "name": "08",
+    "subs": [
+        {
+            "text": "Journalism and jury duty. I agreed strongly with what Emily Bell said <a href=\"https://twitter.com/emilybell/status/1148298094146129921\">here</a>. Jury duty is a powerful idea, and it works. It's the basis for our justice system. I've written about jury duty many times, in <a href=\"http://scripting.com/2017/02/08/whyShouldYouJoinAJury.html\">2017</a>, <a href=\"http://threads2.scripting.com/2013/march/whatILearnedFromJuryDuty\">2013</a>, <a href=\"http://scripting.com/stories/2008/05/29/juryDutyDay2.html\">2008</a>, and <a href=\"http://scripting.com/davenet/1996/03/01/juryduty.html\">1996</a>. (The last piece is probably the best, I did it for Wired as well as my blog.)",
+            "created": "Mon, 08 Jul 2019 19:58:17 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Observation. If you're going to use a CDN that doesn't let you overlay your own domain name, and your code is coming from an S3 bucket, it's much easier to use <a href=\"http://s3.amazonaws.com\">s3.amazonaws.com</a> and no less independent of another entity. I imagine this is okay with Amazon because it's lock-in. But this is a <a href=\"http://s3.amazonaws.com/scripting.com/code/nbariver/index.html\">river</a> that works over HTTPS, the URL Is uglier than shit, but it works. It's an important milestone because my users have legit reasons to want to make rivers accessible via HTTPS.",
+            "created": "Mon, 08 Jul 2019 17:59:21 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Ever notice that mostly what people post on Twitter is designed to get attention for the author. I think that's due to the award incentive of the system. Flow == more followers == power and prestige. I wonder if there's a way to reward people based on the depth and originality of ideas they post, or RT. Zero points for repeating a talking point from a random hack on Meet The Press. Huge points for an idea that makes people want to consume less. ",
+            "created": "Mon, 08 Jul 2019 15:14:10 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1148250128253276160",
+            "image": "http://scripting.com/images/2018/08/27/scientist.png"
+        },
+        {
+            "text": "It's funny how Microsoft's <a href=\"https://en.wikipedia.org/wiki/Where_do_you_want_to_go_today%3F\">old slogan</a> makes so much more sense today than when they were using it. <i>Where do you want to go today?</i> Back then the computer world didn't really have the concepts of places to go. But after the net, that's what we all do all the time, go places. ",
+            "created": "Mon, 08 Jul 2019 15:11:50 GMT",
+            "type": "tweet",
+            "tweetId": "1148248792355016706",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "God bless <a href=\"https://twitter.com/PaulLeeTicks/status/1124028655024463873\">William Barr</a>. :boom:",
+            "created": "Mon, 08 Jul 2019 15:21:53 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/PaulLeeTicks/status/1124028655024463873"
+        },
+        {
+            "text": "Self-sovereign howto?",
+            "created": "Mon, 08 Jul 2019 17:18:19 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I wonder if anyone has written a *simple* developer flow for self sovereign identity.",
+                    "created": "Mon, 08 Jul 2019 17:18:41 GMT"
+                },
+                {
+                    "text": "Use-case: I have a <a href=\"http://littleoutliner.com/\">web app</a>. I currently use Twitter for identity.",
+                    "created": "Mon, 08 Jul 2019 17:18:52 GMT"
+                },
+                {
+                    "text": "Could self-sovereign be plugged in as a replacement for Twitter"
+                },
+                {
+                    "text": "Would it be more or less complicated for developer? User?"
+                }
+            ]
+        }
+    ]
+}
