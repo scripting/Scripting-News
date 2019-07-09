@@ -1,0 +1,21 @@
+{
+    "text": "Self-sovereign howto?",
+    "created": "Mon, 08 Jul 2019 17:18:19 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I wonder if anyone has written a *simple* developer flow for self sovereign identity.",
+            "created": "Mon, 08 Jul 2019 17:18:41 GMT"
+        },
+        {
+            "text": "Use-case: I have a <a href=\"http://littleoutliner.com/\">web app</a>. I currently use Twitter for identity.",
+            "created": "Mon, 08 Jul 2019 17:18:52 GMT"
+        },
+        {
+            "text": "Could self-sovereign be plugged in as a replacement for Twitter"
+        },
+        {
+            "text": "Would it be more or less complicated for developer? User?"
+        }
+    ]
+}
