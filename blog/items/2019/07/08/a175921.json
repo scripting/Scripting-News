@@ -1,0 +1,5 @@
+{
+    "text": "Observation. If you're going to use a CDN that doesn't let you overlay your own domain name, and your code is coming from an S3 bucket, it's much easier to use <a href=\"http://s3.amazonaws.com\">s3.amazonaws.com</a> and no less independent of another entity. I imagine this is okay with Amazon because it's lock-in. But this is a <a href=\"http://s3.amazonaws.com/scripting.com/code/nbariver/index.html\">river</a> that works over HTTPS, the URL Is uglier than shit, but it works. It's an important milestone because my users have legit reasons to want to make rivers accessible via HTTPS.",
+    "created": "Mon, 08 Jul 2019 17:59:21 GMT",
+    "type": "outline"
+}
