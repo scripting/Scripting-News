@@ -1,0 +1,31 @@
+{
+    "text": "July 12",
+    "created": "Fri, 12 Jul 2019 15:44:24 GMT",
+    "name": "12",
+    "subs": [
+        {
+            "text": "With all the progress being made in machine learning it's a wonder that the quality of phone calls is so bad. My brain can do the filtering to compensate for weak signals and even interpolate short outages. But it's a strain. Isn't this something software can help us with??",
+            "created": "Fri, 12 Jul 2019 18:04:34 GMT",
+            "type": "tweet",
+            "tweetId": "1149741896388030466",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "On <a href=\"http://scripting.com/2019/06/28.html#a164059\">June 28</a>, I uploaded a copy of the \"RSS 2.0\" spec source, from a local archive. Now I have a <a href=\"http://scripting.com/2019/07/12/rss_spec.zip\">snapshot</a> of the official <a href=\"https://cyber.harvard.edu/rss/rss.html\">published</a> spec.",
+            "created": "Fri, 12 Jul 2019 16:39:03 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "In 1995 I <a href=\"http://scripting.com/davenet/1995/09/03/wemakeshittysoftware.html\">wrote</a> \"Software is a process, it's never finished, it's always evolving. That's its nature. We know our software sucks. But it's shipping! Next time we'll do better, but even then it will be shitty. The only software that's perfect is one you're dreaming about. Real software crashes, loses data, is hard to learn and hard to use. But it's a process. We'll make it less shitty. Just watch!\" So it occurred to me that the Beatles song <a href=\"https://www.youtube.com/watch?v=EGlo9LzmOME\">Getting Better</a> would be a great song to teach computer science students. Sing it before every class. \"Getting so much better all the time.\"",
+            "created": "Fri, 12 Jul 2019 16:06:42 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=EGlo9LzmOME"
+        },
+        {
+            "text": "My home heating system needs work, so I went to the website for the heating guy, and had a choice of contacting them by phone or through a web form. I went with the form. I was impressed with how well-designed it was, except it required an \"evening phone\" which is the same as my day phone, i.e. my iPhone. Probably shouldn't even ask for two phones these days, it's kind of an obsolete concept. Anyway, my gripe is this. After carefully composing the message, I spaced out on copying it to the clipboard, a time-honored defense against buggy software, it just cleared the form after I clicked the Send button, which was a WTF moment for me. Much better would be to confirm that the mail was sent, both on-screen and via an email. Now I'm in a place where I don't know if the email was sent, certainly don't want to re-write the message, and in case the other one <i>was</i> sent, it'll look like I'm crazy for sending the same message twice, but with different words. Show empathy for the user, and confirm so they can relax. ",
+            "created": "Fri, 12 Jul 2019 15:44:25 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/07/12/bambi.png"
+        }
+    ]
+}
