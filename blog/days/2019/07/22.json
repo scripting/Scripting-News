@@ -1,0 +1,49 @@
+{
+    "text": "July 22",
+    "created": "Mon, 22 Jul 2019 15:04:21 GMT",
+    "name": "22",
+    "subs": [
+        {
+            "text": "Susan Collins is <a href=\"https://twitter.com/Politidope/status/1153344371208675328\">disappointed</a>, and dismayed.",
+            "created": "Mon, 22 Jul 2019 20:56:20 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/Politidope/status/1153344371208675328"
+        },
+        {
+            "text": "I'm doing an interesting project, reviewing all the top-level pages on the \"RSS 2.0\" spec, checking every link to see if it's broken. For those that are, I try to come up with a suitable replacement, usually the archive.org snapshot taken around the time the page was written. If it isn't broken I don't do anything. Here's an <a href=\"http://scripting.com/misc/rss2specbrokenlinks.opml\">OPML file</a> with all the links I've found. Most of the external links are gone, but there are some surprises, sites that have been well-preserved, for example <a href=\"http://jeremy.zawodny.com/blog/archives/000967.html\">Jeremy Zawodny's</a>. I just came across a link to the <a href=\"http://xmlviewer.scripting.com/?url=http://static.userland.com/gems/backend/gratefulDead.xml\">first podcast feed</a>, it's still there. I'm not sure how, but it is. This is a <a href=\"https://en.wikipedia.org/wiki/Restoration\">restoration</a> project, started because there was breakage caused by the move to HTTPS on the server. That breakage has been fixed. I also changed the line-endings from carriage-return to linefeed, which now is the almost-universal standard. At the time, 2003, it was still kind of muddy. As a result you can now read the source of the pages in a current browser. The site is a relic. It's a good idea to fix the broken links every 15 years or so. :boom:",
+            "created": "Mon, 22 Jul 2019 15:04:22 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/07/22/rssShirt.png"
+        },
+        {
+            "text": "I'll probably continue to post notes here as I go along. There were two crucial broken links on the home page of the spec: 1. <a href=\"http://asg.web.cmu.edu/rfc/rfc822.html\">RFC 822</a>, and 2. <a href=\"https://thetwowayweb.com/payloadsforrss\">Payloads for RSS</a>, both of which are integral to the format. I tried to find a <a href=\"https://www.ietf.org/rfc/rfc822.txt\">solid link</a> to the RFC that would stand the test of time. And I discovered that I had copied the Payloads doc, which was originally on a domain that I let go, to <a href=\"https://cyber.harvard.edu/rss/payloadsForRss.html\">the RSS site</a>. So I'm going to use that link, instead of an archive.org link.",
+            "created": "Mon, 22 Jul 2019 15:16:21 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "This project gives an idea of how important archive.org is going to be to web restorations. Their snapshots are invaluable. Most sites are very temporary things. A great example, I did a project with Jim Moore and Nicco Mele at the Dean campaign in January 2004, an aggregate of a lot of the Dean blogs in RSS format. The Dean campaign was a seminal event in the bootstrap of political blogging. Dean was the first \"Web Candidate,\" certainly not the last. All the websites that the Dean people started are gone today, including the project I did with them, but they're all there on archive.org, so I was able to do a <a href=\"https://cyber.harvard.edu/rss/howChannelDeanCameToBe.html\">decent restoration</a> of that project. (Note the updated links are not present on the site yet.)",
+            "created": "Mon, 22 Jul 2019 15:22:59 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Radio UserLand, <a href=\"https://web.archive.org/web/20001017195851/http://radio.userland.com/\">before</a> it was a blogging tool and RSS aggregator, was the \"Programming environment for music on the Internet.\" It didn't take off, so we pivoted. Same codebase, very different application. ",
+            "created": "Mon, 22 Jul 2019 21:15:26 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Andrew Grumet's <a href=\"http://www.grumet.net/weblog/\">blog</a> is still at its original address. Not surprising. ;-)",
+            "created": "Mon, 22 Jul 2019 21:26:02 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Nick Bradbury's <a href=\"https://nick.typepad.com/\">blog</a> is still at its original address. ",
+            "created": "Mon, 22 Jul 2019 21:39:25 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Jenny Levine's <a href=\"http://theshiftedlibrarian.com/\">blog</a> is still at its original address. ",
+            "created": "Mon, 22 Jul 2019 21:55:59 GMT",
+            "type": "outline"
+        }
+    ]
+}
