@@ -1,0 +1,471 @@
+{
+    "text": "July 23",
+    "created": "Tue, 23 Jul 2019 13:24:20 GMT",
+    "name": "23",
+    "subs": [
+        {
+            "text": "When you say boomers suck remember it was a <a href=\"http://scripting.com/images/2019/07/23/jobsAndIphone.png\">boomer</a> who sold you the iPhone that you tweeted that on.",
+            "created": "Tue, 23 Jul 2019 14:30:30 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I'm sorry when I hear <i>Boris</i> on the news my mind immediately snaps to Yeltsin, not Johnson. I wonder if the Brits thought that through.",
+            "created": "Tue, 23 Jul 2019 14:27:37 GMT",
+            "type": "tweet",
+            "tweetId": "1153673154071584769",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "An idea for Twitter. I'd like to see a list of referring tweets ranked by the number of views they generated. In aggregate and by tweet. That way I'd know who to thank for helping increase the reach of my rants.  ",
+            "created": "Tue, 23 Jul 2019 14:14:05 GMT",
+            "type": "tweet",
+            "tweetId": "1153670140099252224",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "All right I like the new Twitter design. Lots of white space. I wish it was designed around live video though. So when you tune in tomorrow it would show the Mueller hearings live. A throwback to a time when everyone watched the same TV live.",
+            "created": "Tue, 23 Jul 2019 13:24:21 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1153650203867734017"
+        },
+        {
+            "text": "RSS 2.0 breakage fixes",
+            "created": "Tue, 23 Jul 2019 15:07:39 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Here's a list of files that were updated to fix broken links. Under each item is a list of changes. The top items are the original links, the sub-item for each is the link it was replaced with. ",
+                    "created": "Tue, 23 Jul 2019 15:07:49 GMT",
+                    "subs": [
+                        {
+                            "text": "<a href=\"https://cyber.harvard.edu/rss/bitTorrent.html\">bitTorrent.html</a>",
+                            "created": "Tue, 23 Jul 2019 15:09:24 GMT",
+                            "collapse": "true",
+                            "subs": [
+                                {
+                                    "text": "http://bitconjurer.org/BitTorrent/",
+                                    "created": "Tue, 23 Jul 2019 15:10:05 GMT",
+                                    "subs": [
+                                        {
+                                            "text": "https://web.archive.org/web/20030206052319/http://bitconjurer.org/BitTorrent/",
+                                            "created": "Tue, 23 Jul 2019 15:17:47 GMT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "https://cyber.harvard.edu/rss/payloadsforrss.html",
+                                    "created": "Tue, 23 Jul 2019 15:11:29 GMT",
+                                    "subs": [
+                                        {
+                                            "text": "https://cyber.harvard.edu/rss/payloadsForRss.html",
+                                            "created": "Tue, 23 Jul 2019 15:20:00 GMT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "http://www.legaltorrents.com/rss.xml",
+                                    "created": "Tue, 23 Jul 2019 15:11:33 GMT",
+                                    "subs": [
+                                        {
+                                            "text": "https://web.archive.org/web/20040803024411/http://www.legaltorrents.com/rss.xml",
+                                            "created": "Tue, 23 Jul 2019 15:22:31 GMT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "http://radio.weblogs.com/0001014/2003/10/12.html#a4604",
+                                    "created": "Tue, 23 Jul 2019 15:21:28 GMT",
+                                    "subs": [
+                                        {
+                                            "text": "http://radio-weblogs.com/0001014/2003/10/12.html#a4604"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "http://www.feedster.com/",
+                                    "created": "Tue, 23 Jul 2019 15:38:23 GMT",
+                                    "subs": [
+                                        {
+                                            "text": "https://web.archive.org/web/20050124014803/http://www.feedster.com/",
+                                            "created": "Tue, 23 Jul 2019 15:38:26 GMT"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "<a href=\"https://cyber.harvard.edu/rss/currentBoard.html\">currentBoard.html</a>",
+                            "created": "Tue, 23 Jul 2019 15:12:25 GMT",
+                            "collapse": "true",
+                            "subs": [
+                                {
+                                    "text": "http://live.curry.com/",
+                                    "created": "Tue, 23 Jul 2019 15:59:48 GMT",
+                                    "subs": [
+                                        {
+                                            "text": "https://web.archive.org/web/20040707085350/http://live.curry.com/"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "http://www.curry.com/stories/storyReader$27",
+                                    "subs": [
+                                        {
+                                            "text": "https://web.archive.org/web/20030207142041/http://www.curry.com/stories/storyReader$27"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "http://www.12inches.nl/decibel.html",
+                                    "subs": [
+                                        {
+                                            "text": "https://web.archive.org/web/20050216124000/http://www.12inches.nl/decibel.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "http://live.curry.com/scanlog/",
+                                    "subs": [
+                                        {
+                                            "text": "https://web.archive.org/web/20040918084454/http://live.curry.com/scanlog/"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "http://www.theinquirer.net/?article=10377",
+                                    "subs": [
+                                        {
+                                            "text": "https://web.archive.org/web/20041019004302/http://www.theinquirer.net/?article=10377"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "http://www.thetwowayweb.com/payloadsforrss",
+                                    "subs": [
+                                        {
+                                            "text": "https://web.archive.org/web/20040621044720/https://thetwowayweb.com/payloadsforrss"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "http://www.sbsonline.nl/modules.php?name=radioprogramma&site=ookgoeiemorgen&sid=1",
+                                    "subs": [
+                                        {
+                                            "text": "https://web.archive.org/web/20031125012037/http://radioveronica.nl/"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "http://blogs.law.harvard.edu/bloggerCon/discuss/msgReader$1119?mode=topic&y=2004&m=4&d=30",
+                                    "created": "Tue, 23 Jul 2019 15:59:56 GMT",
+                                    "subs": [
+                                        {
+                                            "text": "http://bloggercon.scripting.com/2004/04/09.html"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "<a href=\"https://cyber.harvard.edu/rss/enclosuresAggregators.html\">enclosuresAggregators.html</a>",
+                            "created": "Tue, 23 Jul 2019 15:09:26 GMT",
+                            "collapse": "true",
+                            "subs": [
+                                {
+                                    "text": "https://cyber.harvard.edu/rss/payloadsforrss.html",
+                                    "subs": [
+                                        {
+                                            "text": "https://cyber.harvard.edu/rss/payloadsForRss.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "http://live.curry.com/",
+                                    "created": "Tue, 23 Jul 2019 15:13:49 GMT",
+                                    "subs": [
+                                        {
+                                            "text": "https://web.archive.org/web/20040707085350/http://live.curry.com/"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "<a href=\"https://cyber.harvard.edu/rss/howChannelDeanCameToBe.html\">howChannelDeanCameToBe.html</a>",
+                            "created": "Tue, 23 Jul 2019 15:09:28 GMT",
+                            "collapse": "true",
+                            "subs": [
+                                {
+                                    "text": "http://iowa.deanforamerica.com/node/view/1932",
+                                    "subs": [
+                                        {
+                                            "text": "https://web.archive.org/web/20040109093208/http://iowa.deanforamerica.com/node/view/1932"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "http://xml.deanforamerica.com/channelDean.xml",
+                                    "subs": [
+                                        {
+                                            "text": "https://web.archive.org/web/20040805114237/http://xml.deanforamerica.com/channelDean.xml"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "http://www.deanforamerica.com/channeldean/faq/",
+                                    "subs": [
+                                        {
+                                            "text": "https://web.archive.org/web/20040120233945/http://www.deanforamerica.com/channeldean/faq/"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "<a href=\"https://cyber.harvard.edu/rss/mediaPostArticleReview.html\">mediaPostArticleReview.html</a>",
+                            "created": "Tue, 23 Jul 2019 16:25:50 GMT",
+                            "collapse": "true",
+                            "subs": [
+                                {
+                                    "text": "http://www.mediapost.com/dtls_dsp_news.cfm?newsId=245798",
+                                    "subs": [
+                                        {
+                                            "text": "https://web.archive.org/web/20040819213941/http://www.mediapost.com/dtls_dsp_news.cfm?newsId=245798"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "<a href=\"https://cyber.harvard.edu/rss/myPublicFeedsOpml.html\">myPublicFeedsOpml.html</a>",
+                            "created": "Tue, 23 Jul 2019 15:09:33 GMT",
+                            "collapse": "true",
+                            "subs": [
+                                {
+                                    "text": "http://www.weblogs.com/changes.xml",
+                                    "subs": [
+                                        {
+                                            "text": "https://web.archive.org/web/20091025131341/http://oldweblogscomblog.scripting.com/changesXml"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "http://www.opml.org/spec",
+                                    "subs": [
+                                        {
+                                            "text": "http://dev.opml.org/spec1.html"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "<a href=\"https://cyber.harvard.edu/rss/relativeURI.html\">relativeURI.html</a>",
+                            "created": "Tue, 23 Jul 2019 16:27:44 GMT",
+                            "collapse": "true",
+                            "subs": [
+                                {
+                                    "text": "http://weblog.infoworld.com/udell",
+                                    "subs": [
+                                        {
+                                            "text": "https://web.archive.org/web/20040202052733/http://weblog.infoworld.com/udell/"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "<a href=\"https://cyber.harvard.edu/rss/rss.html\">rss.html</a>",
+                            "created": "Tue, 23 Jul 2019 16:28:41 GMT",
+                            "collapse": "true",
+                            "subs": [
+                                {
+                                    "text": "http://asg.web.cmu.edu/rfc/rfc822.html",
+                                    "subs": [
+                                        {
+                                            "text": "https://www.ietf.org/rfc/rfc822.txt"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "http://www.gnutellanews.com/information/what_is_gnutella.shtml",
+                                    "subs": [
+                                        {
+                                            "text": "https://en.wikipedia.org/wiki/Gnutella"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "https://thetwowayweb.com/payloadsforrss",
+                                    "subs": [
+                                        {
+                                            "text": "https://web.archive.org/web/20040621044720/https://thetwowayweb.com/payloadsforrss"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "<a href=\"https://cyber.harvard.edu/rss/rssChangeNotes.html\">rssChangeNotes.html</a>",
+                            "created": "Tue, 23 Jul 2019 15:09:36 GMT",
+                            "collapse": "true",
+                            "subs": [
+                                {
+                                    "text": "http://www.rssquotes.com/blog/",
+                                    "created": "Tue, 23 Jul 2019 16:16:28 GMT",
+                                    "subs": [
+                                        {
+                                            "text": "https://web.archive.org/web/20040605034929/http://www.rssquotes.com/blog/"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "http://www.rssquotes.com/",
+                                    "subs": [
+                                        {
+                                            "text": "https://web.archive.org/web/20040607070931/http://www.rssquotes.com/"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "http://blogs.law.harvard.edu/tech/stories/storyReader$12",
+                                    "subs": [
+                                        {
+                                            "text": "https://web.archive.org/web/20040220153447/http://blogs.law.harvard.edu/tech/stories/storyReader$12"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "http://simon.incutio.com/",
+                                    "subs": [
+                                        {
+                                            "text": "https://web.archive.org/web/20040615065633/http://simon.incutio.com/"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "<a href=\"https://cyber.harvard.edu/rss/rssVersionHistory.html\">rssVersionHistory.html</a>",
+                            "created": "Tue, 23 Jul 2019 15:09:38 GMT",
+                            "collapse": "true",
+                            "subs": [
+                                {
+                                    "text": "http://www.purplepages.ie/RSS/netscape/rss0.90.html",
+                                    "subs": [
+                                        {
+                                            "text": "https://web.archive.org/web/20040404041317/http://www.purplepages.ie/RSS/netscape/rss0.90.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "http://www.internetnews.com/bus-news/article.php/3_80051",
+                                    "subs": [
+                                        {
+                                            "text": "https://web.archive.org/web/20041019050503/http://www.internetnews.com/bus-news/article.php/3_80051"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "http://my.netscape.com/publish/formats/rss-spec-0.91.html",
+                                    "subs": [
+                                        {
+                                            "text": "https://web.archive.org/web/20040402071322/http://my.netscape.com/publish/formats/rss-spec-0.91.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "http://xmlrpc.scripting.com/metaWeblogApi",
+                                    "subs": [
+                                        {
+                                            "text": "http://xmlrpc.scripting.com/metaWeblogApi.html"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "<a href=\"https://cyber.harvard.edu/rss/soapMeetsRss.html\">soapMeetsRss.html</a>",
+                            "created": "Tue, 23 Jul 2019 16:57:39 GMT",
+                            "collapse": "true",
+                            "subs": [
+                                {
+                                    "text": "http://macros.userland.com/basic/viewRssBox",
+                                    "subs": [
+                                        {
+                                            "text": "https://web.archive.org/web/20010302134837/http://macros.userland.com/basic/viewRssBox"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "http://radio.weblogs.com/0001015/rss.xml",
+                                    "subs": [
+                                        {
+                                            "text": "https://web.archive.org/web/20040607125801/http://radio.weblogs.com/0001015/rss.xml"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "<a href=\"https://cyber.harvard.edu/rss/toplevelNamespace.html\">toplevelNamespace.html</a>",
+                            "created": "Tue, 23 Jul 2019 15:09:42 GMT",
+                            "collapse": "true",
+                            "subs": [
+                                {
+                                    "text": "http://feeds.archive.org/validator/",
+                                    "subs": [
+                                        {
+                                            "text": "https://web.archive.org/web/20030801082250/http://feeds.archive.org/validator/"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "<a href=\"https://cyber.harvard.edu/rss/weblogComments.html\">weblogComments.html</a>",
+                            "created": "Tue, 23 Jul 2019 16:23:46 GMT",
+                            "collapse": "true",
+                            "subs": [
+                                {
+                                    "text": "http://www.docuverse.com/blog/donpark/",
+                                    "subs": [
+                                        {
+                                            "text": "https://web.archive.org/web/20030603202930/http://www.docuverse.com/blog/donpark/"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "http://www.docuverse.com/blog/donpark/rss.xml",
+                                    "subs": [
+                                        {
+                                            "text": "https://web.archive.org/web/20030412021443/http://www.docuverse.com/blog/donpark/rss.xml"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Other changes",
+                    "created": "Tue, 23 Jul 2019 17:20:52 GMT",
+                    "subs": [
+                        {
+                            "text": "Did a global replace of \\r with \\n. This meant I could edit the HTML source in a source code editor. ",
+                            "created": "Tue, 23 Jul 2019 17:20:57 GMT"
+                        },
+                        {
+                            "text": "Fixed the link to the <a href=\"//radio-weblogs.com/0001015/images/harvardBG.gif\">background image</a>, and made it HTTPS-friendly. ",
+                            "created": "Tue, 23 Jul 2019 17:21:30 GMT"
+                        },
+                        {
+                            "text": "Fixed the inclusion of <a href=\"//www.google-analytics.com/urchin.js\">urchin.js</a> so it was HTTPS-friendly.",
+                            "created": "Tue, 23 Jul 2019 17:21:52 GMT"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
