@@ -1,0 +1,18 @@
+{
+    "text": "July 27",
+    "created": "Sat, 27 Jul 2019 17:57:00 GMT",
+    "name": "27",
+    "subs": [
+        {
+            "text": "I'm working on getting \"Scripting News\" to publish via email every night. You'll get everything that I wrote in the previous day, one email, with links and images. I'm looking at <a href=\"https://mailchimp.com/help/share-your-blog-posts-with-mailchimp/\">MailChimp</a>, because it's used by a lot of people, and they have what appears to be a perfect RSS-based interface. I can just publish an RSS feed containing one item for each day, they read it and publish an email when a new item appears. It's the way I would have designed it. People have suggested <a href=\"https://substack.com/\">Substack</a>, it looks nice, might be a better fit, but they do not appear to have an API. The <a href=\"https://twitter.com/hamishmckenzie/status/1151882852855762944\">founder</a> got in touch on Twitter, ten points for that. But without an API, I would have to enter the text by hand, and I'm not going to do that. ",
+            "created": "Sat, 27 Jul 2019 18:36:34 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/2015/09/11/curiousGeorge.png"
+        },
+        {
+            "text": "This is <a href=\"https://www.zdnet.com/article/github-starts-blocking-developers-in-countries-facing-us-trade-sanctions/?fbclid=IwAR0xBLO4c0XzxwDT-3alBYZlj5qDDbhKW8Rca771uZVjp1FLEDFW0V9DPak\">why</a> we can’t use Microsoft to host the world wide open code repository. Also, this isn't just about trade, it's about speech. And developers inside other countries might be resisting their govts, so by shutting them off, the US and Microsoft might be effectively opposing democratic movements. Of course the current US govt is doing that too.",
+            "created": "Sat, 27 Jul 2019 17:57:01 GMT",
+            "type": "outline"
+        }
+    ]
+}
