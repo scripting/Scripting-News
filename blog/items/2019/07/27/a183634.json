@@ -1,0 +1,6 @@
+{
+    "text": "I'm working on getting \"Scripting News\" to publish via email every night. You'll get everything that I wrote in the previous day, one email, with links and images. I'm looking at <a href=\"https://mailchimp.com/help/share-your-blog-posts-with-mailchimp/\">MailChimp</a>, because it's used by a lot of people, and they have what appears to be a perfect RSS-based interface. I can just publish an RSS feed containing one item for each day, they read it and publish an email when a new item appears. It's the way I would have designed it. People have suggested <a href=\"https://substack.com/\">Substack</a>, it looks nice, might be a better fit, but they do not appear to have an API. The <a href=\"https://twitter.com/hamishmckenzie/status/1151882852855762944\">founder</a> got in touch on Twitter, ten points for that. But without an API, I would have to enter the text by hand, and I'm not going to do that. ",
+    "created": "Sat, 27 Jul 2019 18:36:34 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/2015/09/11/curiousGeorge.png"
+}
