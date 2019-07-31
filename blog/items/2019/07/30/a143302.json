@@ -1,0 +1,19 @@
+{
+    "text": "Convention for naming feeds",
+    "created": "Tue, 30 Jul 2019 14:33:02 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "A convention I've been following, might as well write it down. When I create a feed, its name is always something.xml, where <i>something</i> is usually <i>rss.</i>",
+            "created": "Tue, 30 Jul 2019 14:36:51 GMT"
+        },
+        {
+            "text": "Sometimes if it's a special version of the feed, the name might indicate that, for example nightlyRss.xml, which says something about the content (one item per day) and the format (RSS, in my case always 2.0).",
+            "created": "Tue, 30 Jul 2019 14:38:30 GMT"
+        },
+        {
+            "text": "And since it's become more common to have a JSON version too, if present its name differs from the XML-based feed only by the suffix. It has the same name except it ends with .json instead of .xml. So the JSON version of the example would be nightlyRss.json.",
+            "created": "Tue, 30 Jul 2019 14:38:49 GMT"
+        }
+    ]
+}
