@@ -1,0 +1,63 @@
+{
+    "text": "July 30",
+    "created": "Tue, 30 Jul 2019 13:30:04 GMT",
+    "name": "30",
+    "subs": [
+        {
+            "text": "I've been listening to audiobooks on my bike rides this summer. The next one is going to be a <a href=\"https://www.audible.com/search?keywords=vonnegut&ref=\">Vonnegut book</a>. Should it be Slaughterhouse-Five, Cat's Cradle or Breakfast of Champions. I've read Sirens of Titan so many times, I have it practically memorized. I'm thinking Breakfast because the narrator is <a href=\"https://en.wikipedia.org/wiki/John_Malkovich\">John Malkovich</a>. Slaughterhouse-Five is a great book, but I really dislike James Franco. ",
+            "created": "Tue, 30 Jul 2019 16:45:35 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/07/30/breakfastOfChampions.png"
+        },
+        {
+            "text": "I tried following the instructions for an automated campaign with <a href=\"https://mailchimp.com/help/share-your-blog-posts-with-mailchimp/\">Mailchimp</a> but they never asked me whether it should be automated, that's where they lost me.  I have an RSS feed to test with. I just want to try it out, if it works I'll pay $14 a month, but I need to add CSS. I'm not willing to create a paying account until I know it'll work. It's often difficult by design to get out of those deals. ",
+            "created": "Tue, 30 Jul 2019 16:14:05 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "If you're more likely to work with someone because the connection has prestige that boosts your career, now is the time to stop doing that. Instead ask if working together helps preserve our freedoms and the lives of victims of our govt. That's the criteria that matters.",
+            "created": "Tue, 30 Jul 2019 16:42:22 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://en.wikipedia.org/wiki/Years_and_Years_(TV_series)\">Years and Years</a>, a six-part miniseries on HBO <a href=\"https://en.wikipedia.org/wiki/Years_and_Years_(TV_series)#Cast_and_characters\">starring</a> <a href=\"https://en.wikipedia.org/wiki/Emma_Thompson\">Emma Thompson</a>, is short-term science fiction, starting from today and going forward about twenty years. Centers on a complicated British family. It'll probably look very dated in five years. They don't imagine much that isn't already well underway. It's well-done enough that it pulled me through all six episodes, the first five I <a href=\"https://en.wikipedia.org/wiki/Binge-watching\">binged</a>, in time to watch the finale last night. The message, you're really rich if you have a loving family, and everything else is bollocks. ",
+            "created": "Tue, 30 Jul 2019 13:30:05 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/07/30/hillaryBoxer.png"
+        },
+        {
+            "text": "I've been using a private Facebook group to keep in touch with friends around the world on the new place I got in the country. It's not something I want to share publicly because I've learned that the personal stuff you share publicly is no longer personal. It's almost mathematical. But there are friends who I'd like to keep in the loop that don't/won't use Facebook. I sort of support them, but then again, I'm sure I pump Exxon gasoline into my car, even though the station has another brand name on it. Being alive in 2019 involves being on Facebook's human network, because it is the greatest single common denominator. But I do need a good way to communicate with those who aren't on it. I'm reminded of that every day. ",
+            "created": "Tue, 30 Jul 2019 13:48:42 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "One of the reasons I'm going to have an email version of this blog is so I can encourage personal friends to read what I write here. Very few of them have a routine that involves reading blogs regularly. That's always been true. About the only relative or friend who regularly read my blog was my mother, and she's gone. ",
+            "created": "Tue, 30 Jul 2019 13:52:49 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Here's a custom search engine feature I'd like to have. Select a bunch of text in my editor. Choose a command that launches an image search on my blog for those words. I'm going to try it manually on this post to <a href=\"https://www.google.com/search?safe=off&biw=1133&bih=1034&tbm=isch&sa=1&ei=okhAXbe_F4yOgges37KADg&q=site%3Ascripting.com+Here%27s+a+custom+search+engine+feature+I%27d+like+to+have.+Select+a+bunch+of+text+in+my+editor.+Choose+a+command+that+launches+an+image+search+on+my+blog+for+those+words.+I%27m+going+to+try+it+manually+on+this+post+to+see+what+happens.&oq=site%3Ascripting.com+Here%27s+a+custom+search+engine+feature+I%27d+like+to+have.+Select+a+bunch+of+text+in+my+editor.+Choose+a+command+that+launches+an+image+search+on+my+blog+for+those+words.+I%27m+going+to+try+it+manually+on+this+post+to+see+what+happens.&gs_l=img.3...2790.5961..6783...0.0..0.0.0.......2....1..gws-wiz-img.-HjXNzNR9qA&ved=0ahUKEwi3mL-i4tzjAhUMh-AKHayvDOAQ4dUDCAY&uact=5\">see what happens</a>. ",
+            "created": "Tue, 30 Jul 2019 13:38:28 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Convention for naming feeds",
+            "created": "Tue, 30 Jul 2019 14:33:02 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "A convention I've been following, might as well write it down. When I create a feed, its name is always something.xml, where <i>something</i> is usually <i>rss.</i>",
+                    "created": "Tue, 30 Jul 2019 14:36:51 GMT"
+                },
+                {
+                    "text": "Sometimes if it's a special version of the feed, the name might indicate that, for example nightlyRss.xml, which says something about the content (one item per day) and the format (RSS, in my case always 2.0).",
+                    "created": "Tue, 30 Jul 2019 14:38:30 GMT"
+                },
+                {
+                    "text": "And since it's become more common to have a JSON version too, if present its name differs from the XML-based feed only by the suffix. It has the same name except it ends with .json instead of .xml. So the JSON version of the example would be nightlyRss.json.",
+                    "created": "Tue, 30 Jul 2019 14:38:49 GMT"
+                }
+            ]
+        }
+    ]
+}
