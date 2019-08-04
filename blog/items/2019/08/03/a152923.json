@@ -1,0 +1,50 @@
+{
+    "text": "Mailchimp testing results",
+    "created": "Sat, 03 Aug 2019 15:29:23 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/yudel\">Larry Yudelson</a>, a longtime reader of this blog has a commercial Mailchimp account and offered to let me use it to test nightly emails for the blog. ",
+            "created": "Sat, 03 Aug 2019 15:30:06 GMT"
+        },
+        {
+            "text": "I get one test per day. Reminds me of the <a href=\"https://en.wikipedia.org/wiki/Punched_card\">punched cards</a> days of mainframes, only worse. Turnaround generally was less than an hour back then. It's okay though, I find it somewhat relaxing to consider Mailchimp only once per day. ",
+            "created": "Sat, 03 Aug 2019 15:30:14 GMT"
+        },
+        {
+            "text": "Here's a <a href=\"https://us2.campaign-archive.com/?e=9b37eab71e&u=872b6dc1474d8545c737dfc44&id=89c814d14c\">link</a> to the email for yesterday's blog posts.  I'm not sure how long that link will work, so here's an <a href=\"http://scripting.com/images/2019/08/03/post.zip\">archived copy</a> and a <a href=\"http://scripting.com/images/2019/08/03/emailtop.png\">couple</a> of screen <a href=\"http://scripting.com/images/2019/08/03/emailbottom.png\">shots</a>. ",
+            "created": "Sat, 03 Aug 2019 15:30:57 GMT"
+        },
+        {
+            "text": "A few notes follow.",
+            "created": "Sat, 03 Aug 2019 15:33:15 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "I have been able to fix a bunch of the problems <a href=\"http://scripting.com/code/scriptingnightlyrss/email.css\">using CSS</a>. But some I can't fix because they put the styles inline. No way to override those as far as I know. ",
+                    "created": "Sat, 03 Aug 2019 15:33:19 GMT"
+                },
+                {
+                    "text": "If I could I'd get rid of the top two items. They repeat info included elsewhere. They're the kind of noise people rightly skip over. I like to take that kind of noise out. ",
+                    "created": "Sat, 03 Aug 2019 15:41:39 GMT"
+                },
+                {
+                    "text": "They chose a really ugly color for links, and hard-code the font for headlines.",
+                    "created": "Sat, 03 Aug 2019 15:33:54 GMT"
+                },
+                {
+                    "text": "It's funny however that some of my overrides work when I view the email <a href=\"http://scripting.com/images/2019/08/03/correctRendering.png\">in the browser</a>, vs <a href=\"http://scripting.com/images/2019/08/03/wrongRendering.png\">in GMail</a>. In GMail their styles dominate. In the browser, mine do. ",
+                    "created": "Sat, 03 Aug 2019 15:34:09 GMT"
+                },
+                {
+                    "text": "The way my email address appears in the <i>By</i> line abuses the &lt;author> element in \"RSS\". If I wanted it to link to an HTML page about me, instead of providing my email address (a real mistake), I would have to break the &lt;author> element. That's fucked up. They should have a namespace that calls for exactly what they want and not force people to break RSS to get a good result. Interop isn't any use if people don't respect it. ",
+                    "created": "Sat, 03 Aug 2019 15:34:51 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Anyway, I can't make it perfect, but I can make it okay. I'm thinking of trying another service that has an API and see if I can make it perform better. They do call this blog <i>Scripting</i> News after all. :boom:",
+            "created": "Sat, 03 Aug 2019 15:36:52 GMT"
+        }
+    ]
+}
