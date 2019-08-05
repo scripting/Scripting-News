@@ -3,17 +3,17 @@
 	<head>
 		<title>Glossary</title>
 		<dateCreated>Tue, 13 Jun 2017 13:42:31 GMT</dateCreated>
-		<dateModified>Sun, 30 Jun 2019 16:29:13 GMT</dateModified>
-		<ownerName>scripting.com</ownerName>
+		<dateModified>Sun, 04 Aug 2019 20:09:22 GMT</dateModified>
+		<ownerName>Dave</ownerName>
 		<ownerId>https://twitter.com/davewiner/</ownerId>
-		<expansionState>2,4,6,8,10,12,19,21,78,80,82,98</expansionState>
+		<expansionState>2,4,6,8,10,12,19,21,56,79,81,83,99</expansionState>
 		<vertScrollState>1</vertScrollState>
 		<windowTop>631</windowTop>
 		<windowLeft>1087</windowLeft>
 		<windowBottom>831</windowBottom>
 		<windowRight>1472</windowRight>
 		<flPublic>true</flPublic>
-		<lastCursor>83</lastCursor>
+		<lastCursor>69</lastCursor>
 		<ownerTwitterScreenName>davewiner</ownerTwitterScreenName>
 		<urlPublic>http://electricserver.scripting.com/users/davewiner/electric/glossary.opml</urlPublic>
 		<urlJson>http://electricserver.scripting.com/users/davewiner/electric/glossary.json</urlJson>
@@ -164,6 +164,9 @@
 		<outline text="&quot;Markdown&quot;">
 			<outline text="&lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Markdown&lt;/a&gt;"/>
 			</outline>
+		<outline text="&quot;Moscow Mitch&quot;" created="Sun, 04 Aug 2019 20:08:05 GMT">
+			<outline text="&lt;a href=&quot;https://twitter.com/hashtag/MoscowMitch?src=hashtag_click&quot;&gt;Moscow Mitch&lt;/a&gt;" created="Sun, 04 Aug 2019 20:08:08 GMT"/>
+			</outline>
 		<outline text="&quot;myword.io&quot;">
 			<outline text="&lt;a href=&quot;http://myword.io/&quot;&gt;myword.io&lt;/a&gt;"/>
 			</outline>
@@ -185,18 +188,6 @@
 		<outline text="&quot;OPML Editor&quot;" created="Mon, 27 Aug 2018 16:53:14 GMT">
 			<outline text="&lt;a href=&quot;http://home.opml.org/&quot;&gt;OPML Editor&lt;/a&gt;" created="Mon, 27 Aug 2018 16:53:19 GMT"/>
 			</outline>
-		<outline text="&quot;PagePark&quot;" created="Fri, 08 Sep 2017 15:34:20 GMT">
-			<outline text="&lt;a href=&quot;https://github.com/scripting/pagePark&quot;&gt;PagePark&lt;/a&gt;" created="Fri, 08 Sep 2017 15:34:24 GMT"/>
-			</outline>
-		<outline text="&quot;pngWriter&quot;" created="Sat, 01 Jul 2017 16:13:10 GMT">
-			<outline text="&lt;a href=&quot;http://pngwriter.com/&quot;&gt;pngWriter&lt;/a&gt;" created="Sat, 01 Jul 2017 16:13:13 GMT"/>
-			</outline>
-		<outline text="&quot;podcatch.com&quot;">
-			<outline text="&lt;a href=&quot;http://podcatch.com/&quot;&gt;Podcatch.com&lt;/a&gt;"/>
-			</outline>
-		<outline text="&quot;publicFolder&quot;" created="Sat, 16 Sep 2017 22:33:35 GMT">
-			<outline text="&lt;a href=&quot;https://github.com/scripting/publicfolder&quot;&gt;publicFolder&lt;/a&gt;" created="Sat, 16 Sep 2017 22:33:41 GMT"/>
-			</outline>
 		<outline text="&quot;Noderunner&quot;">
 			<outline text="&lt;a href=&quot;https://github.com/scripting/noderunner&quot;&gt;Noderunner&lt;/a&gt;"/>
 			</outline>
@@ -206,14 +197,23 @@
 		<outline text="&quot;only steal from the best&quot;">
 			<outline text="&lt;a href=&quot;http://scripting.com/stories/2011/09/09/onlyStealFromTheBest.html&quot;&gt;only steal from the best&lt;/a&gt;"/>
 			</outline>
-		<outline text="&quot;OPML&quot;">
+		<outline text="&quot;OPML&quot;" created="Sun, 04 Aug 2019 20:09:10 GMT">
 			<outline text="&lt;a href=&quot;http://dev.opml.org/spec2.html&quot;&gt;OPML&lt;/a&gt;"/>
 			</outline>
 		<outline text="&quot;OPML Editor&quot;">
 			<outline text="&lt;a href=&quot;http://home.opml.org/&quot;&gt;OPML Editor&lt;/a&gt;"/>
 			</outline>
-		<outline text="&quot;PagePark&quot;">
+		<outline text="&quot;PagePark&quot;" created="Sun, 04 Aug 2019 20:09:12 GMT">
 			<outline text="&lt;a href=&quot;https://github.com/scripting/pagepark&quot;&gt;PagePark&lt;/a&gt;"/>
+			</outline>
+		<outline text="&quot;pngWriter&quot;" created="Sat, 01 Jul 2017 16:13:10 GMT">
+			<outline text="&lt;a href=&quot;http://pngwriter.com/&quot;&gt;pngWriter&lt;/a&gt;" created="Sat, 01 Jul 2017 16:13:13 GMT"/>
+			</outline>
+		<outline text="&quot;podcatch.com&quot;">
+			<outline text="&lt;a href=&quot;http://podcatch.com/&quot;&gt;Podcatch.com&lt;/a&gt;"/>
+			</outline>
+		<outline text="&quot;publicFolder&quot;" created="Sat, 16 Sep 2017 22:33:35 GMT">
+			<outline text="&lt;a href=&quot;https://github.com/scripting/publicfolder&quot;&gt;publicFolder&lt;/a&gt;" created="Sat, 16 Sep 2017 22:33:41 GMT"/>
 			</outline>
 		<outline text="&quot;Radio UserLand&quot;">
 			<outline text="&lt;a href=&quot;http://radio.userland.com/&quot;&gt;Radio UserLand&lt;/a&gt;"/>
