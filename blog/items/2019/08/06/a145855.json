@@ -1,0 +1,33 @@
+{
+    "text": "Why change hurts",
+    "created": "Tue, 06 Aug 2019 14:58:55 GMT",
+    "type": "outline",
+    "description": "Some standard UIs are so strong that they can never be changed. ",
+    "subs": [
+        {
+            "text": "Ben Thompson <a href=\"https://twitter.com/benthompson/status/1158623851376304128\">tweeted</a>: \"The new Twitter for web is hilariously better than the old Twitter. It is amazing the degree to which people hate change.\"",
+            "created": "Tue, 06 Aug 2019 14:59:09 GMT",
+            "urltweet": "https://twitter.com/benthompson/status/1158623851376304128"
+        },
+        {
+            "text": "I <a href=\"https://twitter.com/davewiner/status/1158696279544946688\">responded</a>: \"There’s a reason. We incorporate the mechanics of software at a subconscious level after repeated use. It’s not amazing that we hate change, it’s rational. Something that used to 'just work' now takes effort to control. Until we incorporate the new UI at a subconscious level.\"",
+            "created": "Tue, 06 Aug 2019 14:59:59 GMT",
+            "urltweet": "https://twitter.com/davewiner/status/1158696279544946688"
+        },
+        {
+            "text": "I <a href=\"https://twitter.com/davewiner/status/1158698843564847106\">continued</a>: \"I'm typing this on a QWERTY keyboard.\" Some standard UIs are so strong that they can never be changed. The original <a href=\"https://en.wikipedia.org/wiki/QWERTY\">QWERTY</a> design was optimized to prevent a mechanical <a href=\"https://en.wikipedia.org/wiki/Typewriter\">typewriter</a> from jamming. The keyboard on the iPad I typed that tweet on was completely implemented in software. Nothing that can ever get jammed. But the original reason it was designed that way is long forgotten. It's just the way keyboards are done. There have been <a href=\"https://en.wikipedia.org/wiki/List_of_Latin-script_keyboard_layouts\">attempts</a> to change the design, but they proved too unpopular. ",
+            "created": "Tue, 06 Aug 2019 15:00:46 GMT",
+            "urltweet": "https://twitter.com/davewiner/status/1158698843564847106",
+            "image": "http://scripting.com/images/2019/08/06/qwerty.png"
+        },
+        {
+            "text": "Another <a href=\"https://twitter.com/davewiner/status/1158702258353258496\">example</a>. I can drive any car because there are invariant UI standards for basic controls. I might not be able to control air conditioning or the radio, but I can steer, accelerate, brake, indicate a turn, the same way on every car. It would be chaos if every time you rented a car you'd have to re-learn how to drive. That said, try renting a car in the UK, Jamaica or Japan where everything is on the <a href=\"https://en.wikipedia.org/wiki/Left-_and_right-hand_traffic#History\">other side</a>. It takes a long time to get used to it, even though at a conscious level the difference is simple to understand. ",
+            "created": "Tue, 06 Aug 2019 15:03:36 GMT",
+            "urltweet": "https://twitter.com/davewiner/status/1158702258353258496"
+        },
+        {
+            "text": "Yet another example, one I like to cite a lot -- <a href=\"http://scripting.com/2014/11/12/weAreBreakingYourCityDealWithIt.html\">imagine</a> if they remapped the streets of a city. \"Broadway will run east-west instead of the old inefficient north-south route. Now it will connect the Hudson and East rivers! You'll be able to use Broadway to get to Brooklyn or New Jersey. We encourage developers to build new tunnels that cross these two wonderful third-party opportunities.\" It doesn't work that way in real cities, but software platforms, managed by Google, Apple or Facebook (examples) often do. Nowadays even <a href=\"http://this.how/googleAndHttp/\">open platforms</a> do. Ugh. ",
+            "created": "Tue, 06 Aug 2019 15:17:46 GMT"
+        }
+    ]
+}
