@@ -1,0 +1,61 @@
+{
+    "text": "August 8",
+    "created": "Thu, 08 Aug 2019 13:09:10 GMT",
+    "name": "08",
+    "subs": [
+        {
+            "text": "I recommend <a href=\"https://en.wikipedia.org/wiki/Eighth_Grade_(film)\">Eighth Grade</a>, playing on Amazon. Good movie. You see inside a young girl's life, her self-doubt, relationships with friends, the evolving meaning of cool, trying out the idea of sex, sizing up her own future and past. Cringeworthy in places. I keep thinking about it, a sign of something worthwhile. ",
+            "created": "Thu, 08 Aug 2019 15:25:59 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/08/08/eighthGrade.png"
+        },
+        {
+            "text": "I would of course like to tell you about my own eighth grade here, except I skipped that grade. I went to junior high between elementary and high school, and they had the option for students who passed a test to skip the grade. I opted-in. My sixth grade teacher, I found out much later, was opposed to this, she felt I was too immature and needed the grade to help get ready for high school. Considering what I did in high school, she might have had a point. Or it could be that she mistook creativity for immaturity. She was a good teacher, one of the best I ever had. I once raised my hand enthusiastically and burst out \"Mom mom call on me!\" -- to my great embarrassment. She said that was high praise. It was. That's how relaxed I was with her. ",
+            "created": "Thu, 08 Aug 2019 15:33:28 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I’m going to write my own Mailchimp for RSS to distribute <a href=\"http://scripting.com/\">this blog</a> via email. The one they made adds CSS that can’t be overridden, even with !important. It renders the text with ugly color, inconsistent style and indentation, lots of irrelevant text, and they hack your urls, while they charge $ for the service.",
+            "created": "Thu, 08 Aug 2019 14:32:01 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "“Trump made me do it,” the <a href=\"https://amp.cnn.com/cnn/2019/08/08/us/national-anthem-boy-assault-montana/index.html\">defense</a> of deplorable miscreants everywhere.",
+            "created": "Thu, 08 Aug 2019 14:33:28 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Linux Journal wind-down",
+            "created": "Thu, 08 Aug 2019 13:09:11 GMT",
+            "type": "outline",
+            "description": "How best to preserve the accumulated know-how and history at the site?",
+            "subs": [
+                {
+                    "text": "Today comes news that Linux Journal is shutting down. They say they'll be able to keep the archive online for a couple of weeks.",
+                    "created": "Thu, 08 Aug 2019 13:11:29 GMT",
+                    "image": "http://gonebutnotforgotten.scripting.com/hope.gif"
+                },
+                {
+                    "text": "Now here's an opportunity to do the wind-down the right way. Linux Journal isn't the ordinary publication that lets the domain registration lapse and stops paying the storage bills for the archive. And then next year it's a porn site or a phishing destination. I'm assuming the last people at Linux Journal care about the accumulated know-how and history at the site. And this event raises the question of how to do such a wind-down best. ",
+                    "created": "Thu, 08 Aug 2019 13:20:57 GMT"
+                },
+                {
+                    "text": "Ideally, the archive remains online and accessible at <a href=\"https://www.linuxjournal.com/\">linuxjournal.com</a> for the foreseeable future so all pointers into the site continue to work. This might not cost a lot of money especially if the site is largely static content. So the first question is this -- is it? And if so, how much is there? With that data we can estimate what the annual cost will be and then set about raising the money. I would be happy to kick in some myself. ",
+                    "created": "Thu, 08 Aug 2019 13:12:30 GMT"
+                },
+                {
+                    "text": "If not, then perhaps we can find a way to enumerate the URLs and then set up a service that redirects them to the archive.org version of the content? ",
+                    "created": "Thu, 08 Aug 2019 13:15:12 GMT"
+                },
+                {
+                    "text": "Or perhaps we could write a scraper that visits the pages, downloads a snapshot and stores them in static files. ",
+                    "created": "Thu, 08 Aug 2019 13:16:00 GMT"
+                },
+                {
+                    "text": "According to the site we have a couple of weeks to do the research and moving. ",
+                    "created": "Thu, 08 Aug 2019 13:14:24 GMT"
+                }
+            ]
+        }
+    ]
+}
