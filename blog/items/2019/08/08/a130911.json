@@ -1,0 +1,33 @@
+{
+    "text": "Linux Journal wind-down",
+    "created": "Thu, 08 Aug 2019 13:09:11 GMT",
+    "type": "outline",
+    "description": "How best to preserve the accumulated know-how and history at the site?",
+    "subs": [
+        {
+            "text": "Today comes news that Linux Journal is shutting down. They say they'll be able to keep the archive online for a couple of weeks.",
+            "created": "Thu, 08 Aug 2019 13:11:29 GMT",
+            "image": "http://gonebutnotforgotten.scripting.com/hope.gif"
+        },
+        {
+            "text": "Now here's an opportunity to do the wind-down the right way. Linux Journal isn't the ordinary publication that lets the domain registration lapse and stops paying the storage bills for the archive. And then next year it's a porn site or a phishing destination. I'm assuming the last people at Linux Journal care about the accumulated know-how and history at the site. And this event raises the question of how to do such a wind-down best. ",
+            "created": "Thu, 08 Aug 2019 13:20:57 GMT"
+        },
+        {
+            "text": "Ideally, the archive remains online and accessible at <a href=\"https://www.linuxjournal.com/\">linuxjournal.com</a> for the foreseeable future so all pointers into the site continue to work. This might not cost a lot of money especially if the site is largely static content. So the first question is this -- is it? And if so, how much is there? With that data we can estimate what the annual cost will be and then set about raising the money. I would be happy to kick in some myself. ",
+            "created": "Thu, 08 Aug 2019 13:12:30 GMT"
+        },
+        {
+            "text": "If not, then perhaps we can find a way to enumerate the URLs and then set up a service that redirects them to the archive.org version of the content? ",
+            "created": "Thu, 08 Aug 2019 13:15:12 GMT"
+        },
+        {
+            "text": "Or perhaps we could write a scraper that visits the pages, downloads a snapshot and stores them in static files. ",
+            "created": "Thu, 08 Aug 2019 13:16:00 GMT"
+        },
+        {
+            "text": "According to the site we have a couple of weeks to do the research and moving. ",
+            "created": "Thu, 08 Aug 2019 13:14:24 GMT"
+        }
+    ]
+}
