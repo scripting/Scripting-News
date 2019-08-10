@@ -1,0 +1,127 @@
+{
+    "text": "August 9",
+    "created": "Fri, 09 Aug 2019 14:34:32 GMT",
+    "name": "09",
+    "subs": [
+        {
+            "text": "We need political stories <a href=\"https://www.youtube.com/watch?v=NMjNOsp93EM\">like this</a> to believe in. ",
+            "created": "Fri, 09 Aug 2019 20:12:13 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=NMjNOsp93EM"
+        },
+        {
+            "text": "I got an email from a long-time reader saying the thing that shocked him about my early web writing was that I told the truth. I wasn't trying to sell you anything. I just wrote what occurred to me. He was a mainframe programmer. I've thought about that, and I'd love to understand how one can be a programmer and not <i>always</i> be searching for the truth. Unlike just about any other profession I can think of, ours depends on telling the truth.<i>You can't lie to a compiler</i> is one of my programming mottos. Garbage in garbage out. I write blog posts the same way a tester writes reviews of software. You have to be ready to hear the unvarnished truth. That's the ethos of blogging as far as I'm concerned. And it's why tech bloggers can do it better than most. Not saying they do of course. There was some real shabby blogging around HTTPS and <a href=\"http://this.how/googleAndHttp/\">Google</a>, I kept wanting to ask if they debug their software with that kind of logic? (The equiv of asking a troll if they kiss their mother with that mouth.) ",
+            "created": "Fri, 09 Aug 2019 19:17:40 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/08/06/tacoBellDog.png"
+        },
+        {
+            "text": "<a href=\"http://scripting.com/images/2019/08/09/howLongReadout.png\">New feature</a>. Now in the footer of the home page, you can see a realtime readout of how long this blog has been running in preparation for the big 25th anniversary celebration, whatever it may turn out to be. Of course you have to have JS turned on to see it. ",
+            "created": "Fri, 09 Aug 2019 19:45:44 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "And here's a <a href=\"https://www.youtube.com/watch?v=wWPOtoYGWXU&feature=youtu.be\">video demo</a> of the feature because why not. ",
+            "created": "Fri, 09 Aug 2019 20:07:28 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=wWPOtoYGWXU&feature=youtu.be"
+        },
+        {
+            "text": "I had been looking for the animation of <a href=\"http://scripting.com/2018/08/27/170521.html\">Darwin</a> as a kung fu fighter, and finally found it. I don't want to lose it again.",
+            "created": "Fri, 09 Aug 2019 19:22:16 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Here's what a reader <a href=\"https://www.wired.com/1995/05/davenet/\">wrote</a> in 1995 about my earliest blogging efforts. It means so much more now. The loop has closed on all of it, esp the last couple of paragraphs.",
+            "created": "Fri, 09 Aug 2019 14:34:33 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Those were incredible times, we had tons of what I called <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+%22blue+sky%22&t=hj&ia=web\">blue sky</a>, probably more possibility for technology and humanity since the 1920s (the advent of electricity and cars). I was in perfect position to explore all that blue sky. A confluence like that is rare. Right place, right time, right friends. :boom:",
+            "created": "Fri, 09 Aug 2019 14:58:55 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Biden's latest <a href=\"https://www.usatoday.com/story/news/politics/elections/2019/08/09/joe-biden-iowa-gaffe-poor-kids-as-talented-as-white-kids-des-moines-asian-and-latino-coalition/1964509001/\">gaffe</a> is about as important as Orrin Hatch <a href=\"https://www.youtube.com/watch?v=Z82DB25mWkY\">removing glasses</a> that weren't there. Everyone made such huge deal about it, but if they had to admit the truth, they'd have to say they do shit like that too. It's human.",
+            "created": "Fri, 09 Aug 2019 16:14:46 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://adamsfarms.com/\">Adams</a> is a small chain of grocery stores in the Hudson Valley. There's one near where I live, in <a href=\"https://adamsfarms.com/locations/kingston/\">Kingston</a>. They buy from local farms. And they make a lot of their own products, like spaghetti sauce and cookies, and it's all realllly good.",
+            "created": "Fri, 09 Aug 2019 14:49:07 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Scripting News in email",
+            "created": "Fri, 09 Aug 2019 18:54:06 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I got <a href=\"http://scripting.com/2019/08/08.html\">yesterday's</a> Scripting News looking <a href=\"http://scripting.com/images/2019/08/09/scriptingNewsInEmailSnapshot.png\">pretty good</a> in email. Learned a lot. Most of the problems were with how HTML email works these days, not Mailchimp. I needed to factor it out to see that. On the other hand they do some stuff that I can't <a href=\"https://www.youtube.com/watch?v=sYsw0KVRjCM\">abide</a>, so this is a necessary exercise. :-)",
+                    "created": "Fri, 09 Aug 2019 18:54:11 GMT"
+                },
+                {
+                    "text": "Caveat: I only tested in Gmail running in Chrome on a Mac. I'm sure other browsers on other machines and other email clients will raise their own kind of hell. :boom:",
+                    "created": "Fri, 09 Aug 2019 19:11:56 GMT"
+                },
+                {
+                    "text": "Some of what I learned:",
+                    "created": "Fri, 09 Aug 2019 18:59:39 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "You can only use standard <a href=\"https://en.wikipedia.org/wiki/Web_typography#Web-safe_fonts\">web fonts</a>. I'm using Arial for everything.  ",
+                            "created": "Fri, 09 Aug 2019 18:59:45 GMT"
+                        },
+                        {
+                            "text": "You can't include CSS files, all CSS has to be in-line in a &lt;style> element in the &lt;head> section.",
+                            "created": "Fri, 09 Aug 2019 19:01:13 GMT"
+                        },
+                        {
+                            "text": "Styles for &lt;body> are ignored.",
+                            "created": "Fri, 09 Aug 2019 19:01:44 GMT"
+                        },
+                        {
+                            "text": "Don't use lists unless you want their indentation. There appears to be no way to override it. I was using lists, per standard best practices, for stories. I did a hack and replaced all &lt;ul>s and &lt;li>s with divs, and styled them the way I wanted them to look. (This will fuck up deeply nested lists in my stories. Thinking about how to avoid that. Come to think of it, it will probably fuck up this very list. Heh.)",
+                            "created": "Fri, 09 Aug 2019 19:01:52 GMT"
+                        },
+                        {
+                            "text": "I'm using AWS to send the mail, and I'm going to have to do some kind of dance to configure it to let me send email from an address I never use. I can't use my gmail address, because I am not sending the email from gmail. That is a new architecture of the net created by who-the-hell-knows since I last did any programming with email. Not saying it's bad, it was something I had to learn about. I suspect that it will be a rejiggering of the dance you have to go to get an HTTPS server, why not use the same dance? I will be learning more about this for sure. ",
+                            "created": "Fri, 09 Aug 2019 19:03:22 GMT"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Nothing new about Nazis",
+            "created": "Fri, 09 Aug 2019 16:29:08 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Terms that must be banned:",
+                    "created": "Fri, 09 Aug 2019 16:29:34 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "White nationalist 👉 white supremacist",
+                            "created": "Fri, 09 Aug 2019 16:29:37 GMT"
+                        },
+                        {
+                            "text": "Neo-Nazi 👉 Nazi",
+                            "created": "Fri, 09 Aug 2019 16:29:44 GMT"
+                        },
+                        {
+                            "text": "Racism 👉 genocide",
+                            "created": "Fri, 09 Aug 2019 16:29:38 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "By softening the crimes you make them more acceptable. Face facts, there is nothing new about Nazis. Nationalism might be okay, but not a master race. And the racism Trump is promoting is actually genocide. We've now seen that, there is no escaping it.",
+                    "created": "Fri, 09 Aug 2019 16:29:14 GMT"
+                }
+            ]
+        }
+    ]
+}
