@@ -1,0 +1,42 @@
+{
+    "text": "Scripting News in email",
+    "created": "Fri, 09 Aug 2019 18:54:06 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I got <a href=\"http://scripting.com/2019/08/08.html\">yesterday's</a> Scripting News looking <a href=\"http://scripting.com/images/2019/08/09/scriptingNewsInEmailSnapshot.png\">pretty good</a> in email. Learned a lot. Most of the problems were with how HTML email works these days, not Mailchimp. I needed to factor it out to see that. On the other hand they do some stuff that I can't <a href=\"https://www.youtube.com/watch?v=sYsw0KVRjCM\">abide</a>, so this is a necessary exercise. :-)",
+            "created": "Fri, 09 Aug 2019 18:54:11 GMT"
+        },
+        {
+            "text": "Caveat: I only tested in Gmail running in Chrome on a Mac. I'm sure other browsers on other machines and other email clients will raise their own kind of hell. :boom:",
+            "created": "Fri, 09 Aug 2019 19:11:56 GMT"
+        },
+        {
+            "text": "Some of what I learned:",
+            "created": "Fri, 09 Aug 2019 18:59:39 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "You can only use standard <a href=\"https://en.wikipedia.org/wiki/Web_typography#Web-safe_fonts\">web fonts</a>. I'm using Arial for everything.  ",
+                    "created": "Fri, 09 Aug 2019 18:59:45 GMT"
+                },
+                {
+                    "text": "You can't include CSS files, all CSS has to be in-line in a &lt;style> element in the &lt;head> section.",
+                    "created": "Fri, 09 Aug 2019 19:01:13 GMT"
+                },
+                {
+                    "text": "Styles for &lt;body> are ignored.",
+                    "created": "Fri, 09 Aug 2019 19:01:44 GMT"
+                },
+                {
+                    "text": "Don't use lists unless you want their indentation. There appears to be no way to override it. I was using lists, per standard best practices, for stories. I did a hack and replaced all &lt;ul>s and &lt;li>s with divs, and styled them the way I wanted them to look. (This will fuck up deeply nested lists in my stories. Thinking about how to avoid that. Come to think of it, it will probably fuck up this very list. Heh.)",
+                    "created": "Fri, 09 Aug 2019 19:01:52 GMT"
+                },
+                {
+                    "text": "I'm using AWS to send the mail, and I'm going to have to do some kind of dance to configure it to let me send email from an address I never use. I can't use my gmail address, because I am not sending the email from gmail. That is a new architecture of the net created by who-the-hell-knows since I last did any programming with email. Not saying it's bad, it was something I had to learn about. I suspect that it will be a rejiggering of the dance you have to go to get an HTTPS server, why not use the same dance? I will be learning more about this for sure. ",
+                    "created": "Fri, 09 Aug 2019 19:03:22 GMT"
+                }
+            ]
+        }
+    ]
+}
