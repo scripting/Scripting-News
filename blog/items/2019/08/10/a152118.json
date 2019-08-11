@@ -1,0 +1,57 @@
+{
+    "text": "How I got AWS to send my email",
+    "created": "Sat, 10 Aug 2019 15:21:18 GMT",
+    "type": "outline",
+    "description": "How I got AWS to send email on my behalf without evoking the ire of Gmail. ",
+    "subs": [
+        {
+            "text": "<a href=\"https://aws.amazon.com/\">AWS</a> is a gift. Somehow one of the big tech companies decided that the PC era was worth continuing, and instead of locking up all the useful stuff inside their corporate wall, they went into business providing those tools to any developer who wants to use them. ",
+            "created": "Sat, 10 Aug 2019 15:21:39 GMT",
+            "image": "http://static.scripting.com/larryKing/images/2013/12/08/indianaJones.gif"
+        },
+        {
+            "text": "They aren't the only ones, <a href=\"https://www.digitalocean.com/\">Digital Ocean</a> is very good too, but AWS does more. Another difference is that Digital Ocean's docs are the best, and AWS's doc are in some ways the worst.  ",
+            "created": "Sat, 10 Aug 2019 16:07:11 GMT"
+        },
+        {
+            "text": "First, I have to say AWS docs appear to have all the information about their services. So I can't say their docs are the worst in all ways, they aren't. The problem is the way the docs are written and organized makes it too hard for a newcomer, or someone who only wants to use the most basic functions, slightly beyond Hello World, to find the information they need. First you have to understand everything about the toolkit, and it's presented in a disjointed fashion where the docs assume you already know everything, which makes it virtually impossible for you to get the data you want. Every time I master another AWS toolkit it seems I write one of these pieces to commemorate the experience and hope somehow to encourage Amazon to make it easier for me next time. :boom:",
+            "created": "Sat, 10 Aug 2019 15:23:13 GMT"
+        },
+        {
+            "text": "Anyway, last year I finally got their email-sending functionality to work. The only <a href=\"https://twitter.com/davewiner/status/1159477988712439809\">problem</a> was that every email I sent via their service arrived in Gmail with a huge <a href=\"http://scripting.com/images/2019/08/10/warning.png\">warning</a> that it could be from a hacker (I knew it wasn't, it came from me). It wasn't until a couple of days ago that I learned what was happening and what I had to do to prevent it. ",
+            "created": "Sat, 10 Aug 2019 15:25:19 GMT"
+        },
+        {
+            "text": "First what was happening: I was sending an email from dave.winer@gmail.com through amazonses.com. Gmail said we got the mail, but noticed you didn't send it through gmail.com. Therefore the the big colorful <a href=\"http://scripting.com/images/2019/08/10/warning.png\">warning</a>. ",
+            "created": "Sat, 10 Aug 2019 15:27:10 GMT"
+        },
+        {
+            "text": "What I had to do to prevent it: <i>Send the email from another domain and convince Amazon that I was authorized to use that domain.</i> ",
+            "created": "Sat, 10 Aug 2019 15:27:56 GMT"
+        },
+        {
+            "text": "This is the place to note that nowhere in the Amazon docs do they say it this clearly. They try to tell you what to do on <a href=\"https://docs.aws.amazon.com/ses/latest/DeveloperGuide/spf.html\">this page</a> with lots of links that center around a protocol called SPF. It turns out that SPF simply requires you to create a TXT record on the domain with a string that says what mail servers are allowed to use it to send mail, and that would be enough to convince AWS that you're cool. It makes sense, it connects the domain with a mail server. The person who set up the TXT record obviously is a god of that domain. But when I set this up per their instructions AWS still called the sender address invalid. ",
+            "created": "Sat, 10 Aug 2019 15:30:34 GMT"
+        },
+        {
+            "text": "Then it turns out that I have to use a command line tool to give me a special domain name, and an encrypted value. This contradicts the earlier docs. And I had no idea how to get the command line tool to do this (it seems this would have been a good place for their docs to tell you or link to a place that tells you, but they don't). ",
+            "created": "Sat, 10 Aug 2019 15:40:03 GMT"
+        },
+        {
+            "text": "It was at this point that I put the project down for a bit, went on Twitter, checked email, went for a walk, did something to cleanse the mental <a href=\"https://en.wikipedia.org/wiki/Palate_cleanser\">palate</a>, came back to the problem and found docs that provided yet another option for convincing AWS that I was authorized to use an email address. ",
+            "created": "Sat, 10 Aug 2019 15:32:33 GMT"
+        },
+        {
+            "text": "There is an <a href=\"https://docs.aws.amazon.com/ses/latest/DeveloperGuide/verify-email-addresses-procedure.html\">interactive way</a> to do it through the <a href=\"https://console.aws.amazon.com/ses/home?region=us-east-1#verified-senders-email:\">control panel</a> for SES. This method worked, and in a familiar way. You tell it what email address you want to use and it sends a message to that address with a link. When you click the link AWS authenticates the address. Everyone who uses the web in 2019 knows how to do this. Why didn't their docs say up front, hey there's a very very very easy way to do this. ",
+            "created": "Sat, 10 Aug 2019 15:41:29 GMT"
+        },
+        {
+            "text": "So now I can send email through SES and the receiver won't get a <a href=\"http://scripting.com/images/2019/08/10/warning.png\">warning</a> because I'm playing by the 2019 rules for email sending and using AWS to send the email. I'm a happy camper except for the fact that all this michegas took two days to sort out. ",
+            "created": "Sat, 10 Aug 2019 15:44:12 GMT"
+        },
+        {
+            "text": "Final note:  When we were working on SOAP many years ago, we were dealing with a similar problem. Our colleagues at large tech companies were adding an alphabet soup of <a href=\"https://en.wikipedia.org/wiki/List_of_web_service_specifications\">protocols</a> on top of it, and just when you thought you understood what they were doing they added another few, and you were back where you started. I got fed up with this because I just wanted to deploy applications and didn't care about all this extra stuff, so Jake Savin and I wrote what we called <a href=\"https://web.archive.org/web/20090303082440/http://www.soapware.org/bdg\">A Busy Developer's Guide to SOAP</a>. It defined a subset of SOAP that we had verified that works, and provided examples for developers of SOAP implementations to test with to be sure they worked with this subset. We published it, and then logged off the mail lists and got to work writing our blogging and RSS software. It worked. We got what we wanted and the big companies got to add all kinds of extra stuff. It seems to me that AWS is in a similar place. Developers like me who want to build apps, and systems people who want to cover all the bases. ",
+            "created": "Sat, 10 Aug 2019 15:49:29 GMT"
+        }
+    ]
+}
