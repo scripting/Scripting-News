@@ -3,17 +3,17 @@
 	<head>
 		<title>Glossary</title>
 		<dateCreated>Tue, 13 Jun 2017 13:42:31 GMT</dateCreated>
-		<dateModified>Wed, 07 Aug 2019 15:56:26 GMT</dateModified>
+		<dateModified>Sun, 11 Aug 2019 16:32:06 GMT</dateModified>
 		<ownerName>Dave</ownerName>
 		<ownerId>https://twitter.com/davewiner/</ownerId>
-		<expansionState>2,4,6,8,10,12,19,21,51,58,81,83,85,101</expansionState>
+		<expansionState>2,4,6,8,10,12,14,21,23,58,81,83,85,101</expansionState>
 		<vertScrollState>1</vertScrollState>
 		<windowTop>631</windowTop>
 		<windowLeft>1087</windowLeft>
 		<windowBottom>831</windowBottom>
 		<windowRight>1472</windowRight>
 		<flPublic>true</flPublic>
-		<lastCursor>51</lastCursor>
+		<lastCursor>14</lastCursor>
 		<ownerTwitterScreenName>davewiner</ownerTwitterScreenName>
 		<urlPublic>http://electricserver.scripting.com/users/davewiner/electric/glossary.opml</urlPublic>
 		<urlJson>http://electricserver.scripting.com/users/davewiner/electric/glossary.json</urlJson>
@@ -43,6 +43,9 @@
 			</outline>
 		<outline text="&quot;IFTTT&quot;" created="Sat, 30 Mar 2019 14:56:01 GMT">
 			<outline text="&lt;a href=&quot;https://ifttt.com/&quot;&gt;&lt;span style=&quot;font-size: .95em&quot;&gt;IFTTT&lt;/span&gt;&lt;/a&gt;" created="Sat, 30 Mar 2019 14:56:05 GMT"/>
+			</outline>
+		<outline text="#lgm" created="Wed, 07 Aug 2019 15:52:38 GMT">
+			<outline text="&lt;a href=&quot;https://twitter.com/search?q=%23lgm&quot; title=&quot;Let's go Mets!&quot;&gt;&lt;img src=&quot;http://scripting.com/images/2019/08/11/metsLogo.png&quot; width=&quot;22&quot; height=&quot;2&quot; style=&quot;margin-left: 0px;&quot;&gt;&lt;/a&gt;" created="Wed, 07 Aug 2019 15:52:40 GMT"/>
 			</outline>
 		<outline text="&quot;Art Show&quot;" created="Mon, 02 Jul 2018 14:47:21 GMT">
 			<outline text="&lt;a href=&quot;http://artshow.scripting.com/&quot;&gt;Art Show&lt;/a&gt;" created="Mon, 02 Jul 2018 14:47:25 GMT"/>
@@ -148,9 +151,6 @@
 			</outline>
 		<outline text="&quot;liveblog.co&quot;" created="Mon, 02 Oct 2017 17:38:09 GMT">
 			<outline text="&lt;a href=&quot;http://liveblog.co/&quot;&gt;liveblog.co&lt;/a&gt;"/>
-			</outline>
-		<outline text="#lgm" created="Wed, 07 Aug 2019 15:52:38 GMT">
-			<outline text="&lt;a href=&quot;https://twitter.com/search?q=%23lgm&quot; title=&quot;Let's go Mets!&quot;&gt;&lt;img src=&quot;http://scripting.com/images/2019/08/07/tinyMetsLogo.png&quot; width=&quot;22&quot; height=&quot;2&quot; style=&quot;margin-left: 2px;&quot;&gt;&lt;/a&gt;" created="Wed, 07 Aug 2019 15:52:40 GMT"/>
 			</outline>
 		<outline text="&quot;Manila&quot;" created="Thu, 23 Aug 2018 00:38:11 GMT">
 			<outline text="&lt;a href=&quot;http://manila.userland.com/&quot;&gt;Manila&lt;/a&gt;" created="Thu, 23 Aug 2018 00:38:16 GMT"/>
