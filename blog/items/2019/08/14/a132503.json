@@ -1,0 +1,29 @@
+{
+    "text": "Should the web be archive.org?",
+    "created": "Wed, 14 Aug 2019 13:25:03 GMT",
+    "type": "outline",
+    "description": "Should we try to preserve the web in place, or migrate to archive.org snapshots?",
+    "subs": [
+        {
+            "text": "I've been on a private email thread among tech experts discussing how to preserve the <a href=\"https://www.linuxjournal.com/\">Linux Journal</a> site. It's mostly general ideas because none of us has the power to move the domain or the content.",
+            "created": "Wed, 14 Aug 2019 13:25:45 GMT",
+            "image": "http://scripting.com/images/2019/08/14/gildedAge.png"
+        },
+        {
+            "text": "The site is still accessible through the original URLs, but there's a big question about whether it will remain there much longer. Here's the background via <a href=\"http://blogs.harvard.edu/doc/2019/08/13/on-linux-journal/\">Doc Searls</a>. ",
+            "created": "Wed, 14 Aug 2019 13:19:30 GMT"
+        },
+        {
+            "text": "There's a consensus that porting the sit to <a href=\"https://archive.org/\">archive.org</a> is the answer. Jon Udell, a highly respected developer says <a href=\"https://twitter.com/judell/status/1161475760537817088\">on Twitter</a> that redirecting to archive.org, as Doug Kaye does, is the \"gold standard\" for preserving sites. ",
+            "created": "Wed, 14 Aug 2019 13:26:03 GMT"
+        },
+        {
+            "text": "I've always resisted this, instead preferring that we take steps to make the web itself more <a href=\"https://www.google.com/search?q=site%3Ascripting.com+future-safe&oq=site%3Ascripting.com+future-safe&aqs=chrome..69i57j69i58.2102j0j8&sourceid=chrome&ie=UTF-8\">permanent</a>. An analogy. Recently I visited the <a href=\"https://www.nps.gov/vama/index.htm\">Vanderbilt Mansion</a> on the Hudson River. I didn't visit an archive.org snapshot of it in <a href=\"https://en.wikipedia.org/wiki/Vanderbilt_Mansion_National_Historic_Site#History\">1940</a> when it was given to the government by the Vanderbilt family. There was value to me that it was in the original location, with the same view of the river and the mountains off in the distance. That it wasn't air conditioned. That the same roads that went there when the Vanderbilts were in residence still go there today. It was the same place the elite played on Saturday nights in spring and fall during the <a href=\"https://en.wikipedia.org/wiki/Gilded_Age\">Gilded Age</a>. ",
+            "created": "Wed, 14 Aug 2019 13:28:50 GMT"
+        },
+        {
+            "text": "I feel the same about the web. But people seem to feel that an archive.org snapshot and redirected URLs is the best we can do. Maybe we should change our idea of what the web is. Maybe archive.org <i>is</i> the permanent version of the web. And then of course the next question is why not just publish originally to archive.org? I'm sure they've thought of this at the <a href=\"https://en.wikipedia.org/wiki/Internet_Archive\">Internet Archive</a>. ",
+            "created": "Wed, 14 Aug 2019 13:27:20 GMT"
+        }
+    ]
+}
