@@ -1,0 +1,6 @@
+{
+    "text": "I don't know if anyone else finds <a href=\"https://en.wikipedia.org/wiki/Npm_(software)\">NPM</a> to be unreliable, as I do, over many years. Here's a scenario. I have to make a minor change to a package. So I increment the version in package.json, and <i>npm publish</i> it. Then in the app that's using it, I do an <i>npm update. </i>The update happens. But the app doesn't get the latest version. Something is cached somewhere, because if I look in the node_modules folder, the new version is there. I've resorted to using a lib folder and keeping a copy of the package updated there. But of course I'm reinventing npm in scripts by doing this. Sometimes NPM works as I understand it should, but every so often it goes crazy like this.",
+    "created": "Sat, 17 Aug 2019 16:23:21 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/2016/01/30/strongman.png"
+}
