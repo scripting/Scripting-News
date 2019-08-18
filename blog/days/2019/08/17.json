@@ -1,0 +1,24 @@
+{
+    "text": "August 17",
+    "created": "Sat, 17 Aug 2019 15:59:41 GMT",
+    "name": "17",
+    "subs": [
+        {
+            "text": "I don't know if anyone else finds <a href=\"https://en.wikipedia.org/wiki/Npm_(software)\">NPM</a> to be unreliable, as I do, over many years. Here's a scenario. I have to make a minor change to a package. So I increment the version in package.json, and <i>npm publish</i> it. Then in the app that's using it, I do an <i>npm update. </i>The update happens. But the app doesn't get the latest version. Something is cached somewhere, because if I look in the node_modules folder, the new version is there. I've resorted to using a lib folder and keeping a copy of the package updated there. But of course I'm reinventing npm in scripts by doing this. Sometimes NPM works as I understand it should, but every so often it goes crazy like this.",
+            "created": "Sat, 17 Aug 2019 16:23:21 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/2016/01/30/strongman.png"
+        },
+        {
+            "text": "The NYT needs a real public editor, a member of the public who is not a journalist, and has unfettered access to the op-ed page, and can provide perspective for other readers and for the writers and editors.",
+            "created": "Sat, 17 Aug 2019 16:29:32 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I groan when passwords are required to have at least one uppercase letter, one lowercase, a number and/or a special character. I know as a matter of math that these requirements doesn't make passwords better. Does it help people who type <i>asdf</i> as their password come up with more random strings? Also I hate sites that make me create a new password every so often. I can manage that myself. I suppose maybe they're saying hey we were hacked recently and are requiring everyone to change their passwords instead of making a public statement.",
+            "created": "Sat, 17 Aug 2019 15:59:42 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/08/17/doctorNick.png"
+        }
+    ]
+}
