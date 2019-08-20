@@ -1,0 +1,34 @@
+{
+    "text": "August 19",
+    "created": "Mon, 19 Aug 2019 13:08:17 GMT",
+    "name": "19",
+    "subs": [
+        {
+            "text": "JavaScript drives program writers to outliners, because outliners are adept with dealing with nested callbacks, as opposed to the way most (all?) other languages do program flow through a flat list. In a normal language, the runtime proceeds from statement 1 to 2 and so on. I guess most JS programmers don't know about outliners, or devtools developers don't or whatever -- so instead of letting the \"problem\" be solved by editors, the language designers try to hack the language to make it better fit the editors we already use, but it just creates a hierarchic chaos that's meant not to look hierarchic. It's a total mess. So now JS is evolving to be Perl whose <a href=\"https://en.wikipedia.org/wiki/There%27s_more_than_one_way_to_do_it\">motto</a> is \"There's more than one way to do it.\" It's far better for the ecosystem if there was only one way to do everything, but something as fundamental as program flow, I doubt if even Perl has more than one way to do <i>that.</i> So Brendan Eich is not an outliner person, and neither are the people who work on the design of the language. You pretty much have to program JS in an outliner (as I do) to see this, imho. But before they hack the language again, see if the problem isn't the dev tools, not the language. Nothing wrong with callback hell imho if you have the right editor. ",
+            "created": "Mon, 19 Aug 2019 16:54:45 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/08/19/deweyDefeatsTruman.png"
+        },
+        {
+            "text": "BTW, here's a <a href=\"https://www.youtube.com/watch?v=_jrDW18R-Us\">demo</a> I did of an outliner in a scripting context. ",
+            "created": "Mon, 19 Aug 2019 17:04:36 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "How about a working group chartered to find the elegant and simple language hiding in the mess that JavaScript has become? It's there, I can feel it. First  you'd have to get rid of the runtime assumption that functions return before they're finished. It should be <i>possible</i> for a function to explicitly fork off a new process, but it shouldn't do it just because the function made an I/O call. In practice 99.9999 percent of those simply want to wait for the I/O to be done. In all my years programming before JS, I never wanted a language to do flow the way JS does. That in itself is important data, imho. I've implemented a lot of different kinds of software. ",
+            "created": "Mon, 19 Aug 2019 17:17:14 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I think private Facebook groups are filling in the gaps more than most professional <a href=\"https://www.washingtonpost.com/lifestyle/style/when-local-news-goes-away-citizens-suffer-gannetts-megamerger-will-probably-just-inflict-more-pain/2019/08/16/51b6c078-bf6e-11e9-b873-63ace636af08_story.html\">news people</a> are aware.",
+            "created": "Mon, 19 Aug 2019 13:49:28 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "As a commercial software developer I had heard about <a href=\"http://scripting.com/2019/08/19/infoworldReviewGuidelines.pdf\">InfoWorld's review guidelines</a>, written in 1994, but had not seen them until yesterday when <a href=\"https://twitter.com/harrymccracken\">Harry McCracken</a>, a former member of their review board, posted an <a href=\"https://twitter.com/harrymccracken/status/1163143998782881793\">excerpt</a> to Twitter. I asked if I could have a copy of the full manual so I could get them into the archive of my blog, and he kindly provided them. If anyone wants to reboot software reviews this would be a good place to start. In any case it's good to have this <a href=\"http://scripting.com/2019/08/19/infoworldReviewGuidelines.pdf\">archived</a> for future reference. ",
+            "created": "Mon, 19 Aug 2019 13:08:18 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/01/16/librarianActionFigure.png"
+        }
+    ]
+}
