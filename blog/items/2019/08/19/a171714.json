@@ -1,0 +1,5 @@
+{
+    "text": "How about a working group chartered to find the elegant and simple language hiding in the mess that JavaScript has become? It's there, I can feel it. First  you'd have to get rid of the runtime assumption that functions return before they're finished. It should be <i>possible</i> for a function to explicitly fork off a new process, but it shouldn't do it just because the function made an I/O call. In practice 99.9999 percent of those simply want to wait for the I/O to be done. In all my years programming before JS, I never wanted a language to do flow the way JS does. That in itself is important data, imho. I've implemented a lot of different kinds of software. ",
+    "created": "Mon, 19 Aug 2019 17:17:14 GMT",
+    "type": "outline"
+}
