@@ -1,0 +1,5 @@
+{
+    "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/126\">Braintrust query</a>: Is there a way in the Chrome debugger to set a breakpoint when the value of a global changes? <i>myGlobals.val</i> is initialized when the app starts, but when it's used it has a different value. I want to break at the line that changes its value.",
+    "created": "Wed, 21 Aug 2019 15:03:06 GMT",
+    "type": "outline"
+}
