@@ -1,0 +1,5 @@
+{
+    "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/127\">Braintrust query</a>: In Node, a script run via <a href=\"https://www.w3schools.com/jsref/jsref_eval.asp\">eval</a> has a runtime error. It crashes the app that called eval, even though it's called inside a <i>try</i> statement. Would like to know if there's a way to catch the error. Based on limited research it appears there is not.  ",
+    "created": "Sun, 25 Aug 2019 14:43:54 GMT",
+    "type": "outline"
+}
