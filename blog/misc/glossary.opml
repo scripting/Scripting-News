@@ -3,17 +3,17 @@
 	<head>
 		<title>Glossary</title>
 		<dateCreated>Tue, 13 Jun 2017 13:42:31 GMT</dateCreated>
-		<dateModified>Fri, 23 Aug 2019 19:06:03 GMT</dateModified>
+		<dateModified>Sun, 25 Aug 2019 15:29:21 GMT</dateModified>
 		<ownerName>Dave</ownerName>
 		<ownerId>https://twitter.com/davewiner/</ownerId>
-		<expansionState>2,4,6,8,10,12,14,21,23,58,81,83,85,101</expansionState>
+		<expansionState>2,4,6,8,10,12,14,16,23,25,60,83,85,87,103</expansionState>
 		<vertScrollState>1</vertScrollState>
 		<windowTop>631</windowTop>
 		<windowLeft>1087</windowLeft>
 		<windowBottom>831</windowBottom>
 		<windowRight>1472</windowRight>
 		<flPublic>true</flPublic>
-		<lastCursor>14</lastCursor>
+		<lastCursor>7</lastCursor>
 		<ownerTwitterScreenName>davewiner</ownerTwitterScreenName>
 		<urlPublic>http://electricserver.scripting.com/users/davewiner/electric/glossary.opml</urlPublic>
 		<urlJson>http://electricserver.scripting.com/users/davewiner/electric/glossary.json</urlJson>
@@ -34,6 +34,9 @@
 			</outline>
 		<outline text="#indieweb" created="Wed, 19 Jun 2019 15:39:37 GMT">
 			<outline text="&lt;a href=&quot;https://twitter.com/search?q=%23indieweb&quot;&gt;#indieweb&lt;/a&gt;" created="Wed, 19 Jun 2019 15:39:40 GMT"/>
+			</outline>
+		<outline text="&quot;braintrust query&quot;" created="Sun, 25 Aug 2019 15:28:38 GMT">
+			<outline text="&lt;a href=&quot;https://duckduckgo.com/?q=site%3Ascripting.com+%22braintrust+query%22&amp;t=h_&amp;ia=web&quot;&gt;braintrust query&lt;/a&gt;" created="Sun, 25 Aug 2019 15:28:46 GMT"/>
 			</outline>
 		<outline text="&quot;isoj&quot;" created="Thu, 21 Feb 2019 17:37:32 GMT">
 			<outline text="&lt;a href=&quot;http://isoj.org/&quot;&gt;ISOJ&lt;/a&gt;" created="Thu, 21 Feb 2019 17:37:35 GMT"/>
