@@ -1,0 +1,69 @@
+{
+    "text": "August 25",
+    "created": "Sun, 25 Aug 2019 14:43:53 GMT",
+    "name": "25",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1165713075468742657\">E-ZPass for news</a>. I have an <a href=\"https://www.e-zpassny.com/en/home/index.shtml\">E-ZPass</a> transponder on my car. This means I can drive on the highways of 18 states and the Canadian province of Ontario. The tolls are charged through the <a href=\"https://en.wikipedia.org/wiki/E-ZPass\">EZP</a> system. I could drive from NY to Chicago and use it on every toll on the way, or to Florida. Anyway, I think this idea would work really well for paywalls. Collect the money if I decide to read a New Yorker or LA Times piece, even though I have't got a subscription with either, which is analogous of being able to use the toll roads of Georgia even though I'm a resident of New York.",
+            "created": "Sun, 25 Aug 2019 20:21:10 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1165713075468742657",
+            "image": "http://scripting.com/images/2019/08/25/ezpass.png"
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/127\">Braintrust query</a>: In Node, a script run via <a href=\"https://www.w3schools.com/jsref/jsref_eval.asp\">eval</a> has a runtime error. It crashes the app that called eval, even though it's called inside a <i>try</i> statement. Would like to know if there's a way to catch the error. Based on limited research it appears there is not.  ",
+            "created": "Sun, 25 Aug 2019 14:43:54 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "In a <a href=\"http://scripting.com/2019/08/24/151255.html\">post</a> I wrote yesterday, I referred to a <a href=\"https://www.youtube.com/watch?v=yRRsE0LvUqU\">scene</a> in The Shining by embedding it, which worked fine on the web, however when I read the nightly email in Gmail, it had stripped the YouTube embed. I should have at least linked to <a href=\"https://www.youtube.com/watch?v=yRRsE0LvUqU\">the video</a>. Anyway without the video, the writing made absolutely no sense. I've now fixed the post, and if you still want to read it, here's <a href=\"http://scripting.com/2019/08/24/151255.html\">the link</a>. ",
+            "created": "Sun, 25 Aug 2019 15:31:01 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Why I use Twitter identity for the new email feature",
+            "created": "Sun, 25 Aug 2019 15:06:13 GMT",
+            "type": "outline",
+            "description": "Sometimes a nightly email is more than it appears at first glance. ;-)",
+            "subs": [
+                {
+                    "text": "When I posted a note on Facebook for people to subscribe to the <a href=\"https://scripting.com/email\">new email service</a>, I got a bit of feedback saying it shouldn't require a Twitter login. So here's why it works that way.  ",
+                    "created": "Sun, 25 Aug 2019 15:06:21 GMT",
+                    "image": "http://scripting.com/images/2017/09/02/mrFrog.png"
+                },
+                {
+                    "text": "I am gradually adding features to my blog that involve people more in what's going on here. You can Like items. You can comment on them. And now you can receive a nightly email. All but the last require identity, and if you want any options on how you receive your email, even that feature requires identity. (No such features have been implemented yet.)",
+                    "created": "Sun, 25 Aug 2019 15:07:37 GMT"
+                },
+                {
+                    "text": "We've been down this road before, it's not new territory. Back in the 90s and early 00s, we had blog hosting here, each blog had its own identity namespace. So I know how much human work it is to maintain such a service. I've done it.",
+                    "created": "Sun, 25 Aug 2019 15:09:20 GMT"
+                },
+                {
+                    "text": "I want the identity features but I don't run the identity service. ",
+                    "created": "Sun, 25 Aug 2019 15:10:12 GMT"
+                },
+                {
+                    "text": "Remember it's just me here, and I'm doing this for free, before you judge me too harshly. If I can give Twitter a big job, that means I can do other work, or take time off, which I'm doing more these days. I'm not that ambitious anymore, I don't have anything to prove. And I think it's fair for readers and potential readers to understand that I'm nothing more than a human. Not trying to impress you with how much work I can do. ",
+                    "created": "Sun, 25 Aug 2019 15:22:37 GMT"
+                },
+                {
+                    "text": "I want to be able to easily add features to scripting.com. That's why I use Twitter as the identity system. ",
+                    "created": "Sun, 25 Aug 2019 15:12:16 GMT"
+                },
+                {
+                    "text": "There is one other reason. More and more my personal context is on Twitter. When they raised the character limit to 280 chars it became way more useful and it's a pretty good adjunct to this blog for short items. Very often I write something on Twitter first, and then copy it here. ",
+                    "created": "Sun, 25 Aug 2019 15:12:49 GMT"
+                },
+                {
+                    "text": "That's why I'm using it for comments too. Because their restrictions actually make a load of sense for comments on a blog. I really just want to hear unique ideas, or simple bug reports. If I want more I ask for it in a \"braintrust query\". Their limits are a practical implementation of my own <a href=\"http://guidelines.scripting.com/\">comment guidelines</a>. And being able to job-out a vital feature like comments to a reliable service, as Twitter has become, and as Disqus has become unusable, that's pretty welcome too.",
+                    "created": "Sun, 25 Aug 2019 15:13:39 GMT"
+                },
+                {
+                    "text": "It's hard to keep up with all the changes on the net. Sometimes a nightly email is more than it appears at first glance. ;-)",
+                    "created": "Sun, 25 Aug 2019 15:15:32 GMT"
+                }
+            ]
+        }
+    ]
+}
