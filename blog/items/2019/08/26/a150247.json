@@ -1,0 +1,6 @@
+{
+    "text": "Yesterday's <a href=\"https://github.com/scripting/Scripting-News/issues/127\">braintrust query</a> resolved. Turns out <a href=\"https://www.w3schools.com/jsref/jsref_eval.asp\">eval</a> in JavaScript is tricky re catching errors within a <a href=\"https://www.w3schools.com/js/js_errors.asp\">try</a>. If the code being eval'd makes an asynchronous call, errors in the callback won't be caught by the try, and the app that made the eval call crashes, <a href=\"https://github.com/scripting/Scripting-News/issues/127#issuecomment-524656665\">in this case</a>, <a href=\"https://github.com/scripting/pagepark\">PagePark</a>. The problem was introduced by a new version of Node where the callback on <a href=\"https://www.w3schools.com/nodejs/nodejs_filesystem.asp\">fs.writeFile</a> is not optional. A confluence of buried problems come to the surface, crashes the server, repeatedly, not sure for what gain. Requiring a callback when none is needed. The tail wagging the dog imho. It creates errors, doesn't prevent them. I never would have made that change to the Node kernel. ",
+    "created": "Mon, 26 Aug 2019 15:02:47 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2018/05/17/mrNatural.png"
+}
