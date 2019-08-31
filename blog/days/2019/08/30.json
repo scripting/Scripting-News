@@ -1,0 +1,116 @@
+{
+    "text": "August 30",
+    "created": "Fri, 30 Aug 2019 13:18:13 GMT",
+    "name": "30",
+    "subs": [
+        {
+            "text": "Podcast I want: <a href=\"https://en.wikipedia.org/wiki/Inside_the_NBA\">Inside the NBA</a> with <a href=\"http://scripting.com/images/2019/08/30/charlesErnieShaqKenny.png\">Shaq, Charles and Kenny</a>, moderated by Ernie, not just when TNT is broadcasting a game, but once a week, 52 weeks a year. I really want to know what they think. Also a Walt Frazier podcast, whenever he has something to say. ",
+            "created": "Fri, 30 Aug 2019 14:35:37 GMT",
+            "type": "tweet",
+            "tweetId": "1167450440394584066",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "How embarrassing for the Phillies, there are more Mets fans in their stadium. The Phillies are a humble team.",
+            "created": "Sat, 31 Aug 2019 02:05:05 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "It's nice to have the <a href=\"http://scripting.com/email/\">email feature</a>, because of all the cool people I'm getting back in touch with. This was a good idea. And I'm glad I have control of everything about it, instead of using one of the commercial services. I have my own <a href=\"http://scripting.com/2019/06/02/150411.html\">blogging software</a>, and it's way better than the stuff you get from commercial services. Makes sense I should have as much flexibility with the mail feature. I'm still trying to figure out how to integrate the feature in the home page of the blog. I don't want it to be too intrusive, but I also want people to see it because like everyone else I want people to subscribe. ",
+            "created": "Fri, 30 Aug 2019 13:18:14 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/2015/02/07/chuckBerry.png"
+        },
+        {
+            "text": "At the same time I'm rediscovering <a href=\"https://en.wikipedia.org/wiki/Sting_(musician)\">Sting</a> and <a href=\"https://en.wikipedia.org/wiki/The_Police\">The Police</a>. I heard them play  <a href=\"https://www.youtube.com/watch?v=d27gTrPPAyk\">Englishman in New York</a> on <a href=\"http://www.radiowoodstock.com/\">WDST</a>, the excellent Woodstock radio station (I know some don't agree). It's so amazing to listen to music you loved 30 years ago. Somehow all that remains are good memories. They flood in, it's a pure happy <a href=\"https://en.wikipedia.org/wiki/Nostalgia\">nostalgic</a> feeling. The way <a href=\"https://www.youtube.com/watch?v=suRDUFpsHus\">Don Draper</a> meant it. A time you were loved. The pain from an old wound. Far more powerful than a memory alone. A time machine. A place where we ache to go again. ",
+            "created": "Fri, 30 Aug 2019 13:19:51 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Date formats",
+            "created": "Fri, 30 Aug 2019 21:32:45 GMT",
+            "type": "outline",
+            "description": "If you have a choice, the format that both a machine and a human can easily read is the best choice. ",
+            "subs": [
+                {
+                    "text": "I ran this <a href=\"https://twitter.com/davewiner/status/1167459202987700224\">poll</a> on Twitter asking which date format you would prefer. The choices were as follows:   ",
+                    "created": "Fri, 30 Aug 2019 21:32:57 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "8/30/2019, 5:51:55 PM",
+                            "created": "Fri, 30 Aug 2019 21:33:15 GMT"
+                        },
+                        {
+                            "text": "2019-08-30T21:51:55.810Z ",
+                            "created": "Fri, 30 Aug 2019 21:33:37 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "It's had 322 votes so far which is a lot for one of my polls. And it was pretty ambiguous in its intent, partly due to Twitter's length limits and my own sloppiness. Some notes follow.",
+                    "created": "Fri, 30 Aug 2019 21:33:54 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "The two examples should have represented the same date-time.",
+                            "created": "Fri, 30 Aug 2019 21:34:45 GMT"
+                        },
+                        {
+                            "text": "The first example was created by the JavaScript function d.toLocaleString (), where d is a date value. I am in the US, so it produced an American localization. In Europe it would have done it in their preferred order, 30/8/2019 etc. ",
+                            "created": "Fri, 30 Aug 2019 21:35:14 GMT"
+                        },
+                        {
+                            "text": "The first example didn't include a time zone, even though the format provides for that possibility.",
+                            "created": "Fri, 30 Aug 2019 21:36:25 GMT"
+                        },
+                        {
+                            "text": "Perhaps a better choice would be d.toString (), which would return a string like this. <i>Fri Aug 30 2019 17:37:33 GMT-0400 (EDT). </i>Imho that's human-readable and of course it's also unambigously machine-readable. ",
+                            "created": "Fri, 30 Aug 2019 21:37:48 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "Net-net: your OS knows how to convert <i>all these strings</i> unambiguously to your language's internal date representation. The argument that one is more efficient for machines is incorrect. They all work equally well. ",
+                    "created": "Fri, 30 Aug 2019 21:43:15 GMT"
+                },
+                {
+                    "text": "The point of the poll was this: If you have a choice, the format that both a machine and a human can easily read is obviously the best choice. ",
+                    "created": "Fri, 30 Aug 2019 21:36:54 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Projects the Media Lab should do",
+            "created": "Fri, 30 Aug 2019 14:38:21 GMT",
+            "type": "outline",
+            "description": "Now might be a good time to have a larger conversation about the purpose and utility of an organization like the MIT Media Lab. ",
+            "subs": [
+                {
+                    "text": "I had high hopes when <a href=\"https://en.wikipedia.org/wiki/Joi_Ito\">Joi Ito</a> became the <a href=\"https://www.nytimes.com/2011/04/26/science/26lab.html\">director</a> of the <a href=\"https://en.wikipedia.org/wiki/MIT_Media_Lab\">MIT Media Lab</a> because he came from the blogging world. He had been to the conferences. He was a discussion leader at one of the first BloggerCons. The open web invested in him, and in his new role, at the time, when the world had built so much on the web, it sure could have used his help.",
+                    "created": "Fri, 30 Aug 2019 14:45:34 GMT",
+                    "flBulletedSubs": "true",
+                    "image": "http://scripting.com/images/2019/08/30/butHerEmails.png",
+                    "subs": [
+                        {
+                            "text": "For example, I'd like to see a 25-year project to help people run their own web servers. An open source project, where people graduate and go to work at companies that build on the foundation. I strongly believe that academic institutions are ideal homes for open source projects. ",
+                            "created": "Fri, 30 Aug 2019 14:41:15 GMT"
+                        },
+                        {
+                            "text": "The press gets confused about tech issues such as Hillary's emails, or the Cambridge Analytica scandal, both of which cost us dearly, in ways we're still learning about. An organization like the MIT Media Lab can help. Have a flash conference for journalists, explain the technology in a way journalists can understand and answer all questions. ",
+                            "created": "Fri, 30 Aug 2019 14:42:44 GMT"
+                        },
+                        {
+                            "text": "Help celebs start their own podcasts using only open technologies. No lock-in. Teach students the value of open tech.",
+                            "created": "Fri, 30 Aug 2019 15:06:07 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "Media and technology are too important to let it go with a shrug. They must do better. Our society depends on it. Likewise we should insist that the Media Lab use its power now for the betterment of society. What a great way to launch the careers of media technologists and help shape the future. And help us through the tough tech problems we face right now. ",
+                    "created": "Fri, 30 Aug 2019 14:44:50 GMT"
+                }
+            ]
+        }
+    ]
+}
