@@ -1,0 +1,54 @@
+{
+    "text": "Date formats",
+    "created": "Fri, 30 Aug 2019 21:32:45 GMT",
+    "type": "outline",
+    "description": "If you have a choice, the format that both a machine and a human can easily read is the best choice. ",
+    "subs": [
+        {
+            "text": "I ran this <a href=\"https://twitter.com/davewiner/status/1167459202987700224\">poll</a> on Twitter asking which date format you would prefer. The choices were as follows:   ",
+            "created": "Fri, 30 Aug 2019 21:32:57 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "8/30/2019, 5:51:55 PM",
+                    "created": "Fri, 30 Aug 2019 21:33:15 GMT"
+                },
+                {
+                    "text": "2019-08-30T21:51:55.810Z ",
+                    "created": "Fri, 30 Aug 2019 21:33:37 GMT"
+                }
+            ]
+        },
+        {
+            "text": "It's had 322 votes so far which is a lot for one of my polls. And it was pretty ambiguous in its intent, partly due to Twitter's length limits and my own sloppiness. Some notes follow.",
+            "created": "Fri, 30 Aug 2019 21:33:54 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "The two examples should have represented the same date-time.",
+                    "created": "Fri, 30 Aug 2019 21:34:45 GMT"
+                },
+                {
+                    "text": "The first example was created by the JavaScript function d.toLocaleString (), where d is a date value. I am in the US, so it produced an American localization. In Europe it would have done it in their preferred order, 30/8/2019 etc. ",
+                    "created": "Fri, 30 Aug 2019 21:35:14 GMT"
+                },
+                {
+                    "text": "The first example didn't include a time zone, even though the format provides for that possibility.",
+                    "created": "Fri, 30 Aug 2019 21:36:25 GMT"
+                },
+                {
+                    "text": "Perhaps a better choice would be d.toString (), which would return a string like this. <i>Fri Aug 30 2019 17:37:33 GMT-0400 (EDT). </i>Imho that's human-readable and of course it's also unambigously machine-readable. ",
+                    "created": "Fri, 30 Aug 2019 21:37:48 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Net-net: your OS knows how to convert <i>all these strings</i> unambiguously to your language's internal date representation. The argument that one is more efficient for machines is incorrect. They all work equally well. ",
+            "created": "Fri, 30 Aug 2019 21:43:15 GMT"
+        },
+        {
+            "text": "The point of the poll was this: If you have a choice, the format that both a machine and a human can easily read is obviously the best choice. ",
+            "created": "Fri, 30 Aug 2019 21:36:54 GMT"
+        }
+    ]
+}
