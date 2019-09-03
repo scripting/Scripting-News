@@ -1,0 +1,39 @@
+{
+    "text": "September 2",
+    "created": "Mon, 02 Sep 2019 15:49:18 GMT",
+    "name": "02",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/dsearls/status/1168543203429163009\">Thanks Doc</a>. At this time I'm not making software to save journalism, I don't think I ever did that. I was mostly interested in tools that make people better communicators, and that of course includes journalists. Now I make tools that mostly make <i>me</i> a better communicator and a happier writer. If I had one bit of advice to journalism it would be this -- listen better. Journalism is very self-contained. At this time the answers are there, imho, with the readers and with the challenges of technology and authoritarian rulers. We can <a href=\"http://scripting.com/2015/06/24/keyConceptOfTheOpenWebWorkingTogether.html\">work together</a> to save each other, but that's the key thing we're not doing -- working together. ",
+            "created": "Mon, 02 Sep 2019 17:09:55 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/09/02/teamworkWins.png"
+        },
+        {
+            "text": "States should have to buy insurance against mass shootings, to fund health care for victims or damages to families of those killed. That would give them incentive to control factors that cause mass shootings. No room for the <a href=\"https://en.wikipedia.org/wiki/Thoughts_and_prayers\">usual bs</a>.",
+            "created": "Tue, 03 Sep 2019 00:47:40 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "It would be imho smart for the <a href=\"https://nypost.com/2019/09/02/carmelo-anthony-calls-kevin-durant-and-kyrie-irving-family-amid-nets-links/\">Nets to sign Carmelo Anthony</a>. Knicks fans think <a href=\"https://en.wikipedia.org/wiki/Carmelo_Anthony\">Melo</a> has suffered enough, he has a reservoir of <a href=\"http://scripting.com/2014/02/25/melosCreativity.html\">goodwill</a> in NYC. The Nets could use that, thinking long-term. ",
+            "created": "Tue, 03 Sep 2019 00:02:34 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "When the government of a <a href=\"https://en.wikipedia.org/wiki/South_Carolina_government_and_politics\">Republican state</a> does something to <a href=\"https://twitter.com/accuweather/status/1168661140768993285\">help people</a> I wonder how this isn’t the <a href=\"https://www.google.com/search?q=site%3Ascripting.com+socialism\">socialism</a> they dread.",
+            "created": "Mon, 02 Sep 2019 23:59:12 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/accuweather/status/1168661140768993285"
+        },
+        {
+            "text": "<a href=\"http://scripting.com/2016/09/02/howTheWorldWorksPartI.html\">2016</a>: \"If you want a favor you're more likely to get it if you're connected. This is true in business, the press, education, sports, etc.\" ",
+            "created": "Mon, 02 Sep 2019 19:08:10 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Braintrust <a href=\"https://github.com/scripting/Scripting-News/issues/130\">query</a> resolved. <a href=\"https://github.com/scripting/Scripting-News/issues/130#issuecomment-527210564\">Peter Judge</a> saw immediately what the problem was: no Content-Length <a href=\"https://en.wikipedia.org/wiki/List_of_HTTP_header_fields\">header</a>. <i>Thank you</i> for the help. Here's the postmortem. I'm writing an \"XML-RPC\" service, the request was being route through \"PagePark\". Of course I blamed the one <a href=\"https://nodejs.org/api/stream.html#stream_stream\">bit</a> of technology that wasn't mine. Heh. Further, the <a href=\"http://xmlrpc.scripting.com/spec.html\">XML-RPC spec</a> <i>requires</i> that the Content-Length header be <a href=\"http://scripting.com/images/2019/09/02/contentLengthMustBeSpecified.png\">provided</a> and be correct. If I had followed my own design, I wouldn't have needed the help. Dear Murphy, I am unworthy, I am unworthy.",
+            "created": "Mon, 02 Sep 2019 18:50:35 GMT",
+            "type": "outline"
+        }
+    ]
+}
