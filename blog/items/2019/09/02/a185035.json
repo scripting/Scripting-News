@@ -1,0 +1,5 @@
+{
+    "text": "Braintrust <a href=\"https://github.com/scripting/Scripting-News/issues/130\">query</a> resolved. <a href=\"https://github.com/scripting/Scripting-News/issues/130#issuecomment-527210564\">Peter Judge</a> saw immediately what the problem was: no Content-Length <a href=\"https://en.wikipedia.org/wiki/List_of_HTTP_header_fields\">header</a>. <i>Thank you</i> for the help. Here's the postmortem. I'm writing an \"XML-RPC\" service, the request was being route through \"PagePark\". Of course I blamed the one <a href=\"https://nodejs.org/api/stream.html#stream_stream\">bit</a> of technology that wasn't mine. Heh. Further, the <a href=\"http://xmlrpc.scripting.com/spec.html\">XML-RPC spec</a> <i>requires</i> that the Content-Length header be <a href=\"http://scripting.com/images/2019/09/02/contentLengthMustBeSpecified.png\">provided</a> and be correct. If I had followed my own design, I wouldn't have needed the help. Dear Murphy, I am unworthy, I am unworthy.",
+    "created": "Mon, 02 Sep 2019 18:50:35 GMT",
+    "type": "outline"
+}
