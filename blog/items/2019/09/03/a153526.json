@@ -1,0 +1,5 @@
+{
+    "text": "Going forward with the <a href=\"https://github.com/scripting/xml-rpc\">XML-RPC in JavaScript</a> project. I realized I <s>should</s> must include an HTTP server in the package. It's nice that you can use the protocol over any transport, and use JSON in place of XML, but there is a standard, <a href=\"http://scripting.com/davenet/1998/02/27/rpcOverHttpViaXml.html\">RPC over XML via HTTP</a>. So this is what a <a href=\"https://gist.github.com/scripting/43fc83d0cbfe811dcac284fa3890f291\">typical server</a> looks like with those assumptions. Much simpler than it would otherwise be, which of course is the point of using XML-RPC. :grin:",
+    "created": "Tue, 03 Sep 2019 15:35:26 GMT",
+    "type": "outline"
+}
