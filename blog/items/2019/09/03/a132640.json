@@ -1,0 +1,40 @@
+{
+    "text": "How the NY Times came to support RSS",
+    "created": "Tue, 03 Sep 2019 13:26:40 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "<i>Note: I posted this <a href=\"https://scripting.wordpress.com/2006/02/09/how-the-ny-times-came-to-support-rss/\">story</a> on a wordpress.com site in 2006, but it should be part of the scripting.com archive. </i>",
+            "created": "Tue, 03 Sep 2019 13:26:49 GMT"
+        },
+        {
+            "text": "The history of RSS is usually told only in one dimension, it’s the story of geeks fighting with geeks, so they say, but in my humble opinion, that’s really not the story.",
+            "created": "Tue, 03 Sep 2019 13:39:43 GMT"
+        },
+        {
+            "text": "Most of the vocal people on the mail lists, blogs and wikis are more fans than creators. It’s as if we confused baseball players with people who sit in the stands watching a baseball game. Sure, both wear caps and want their team to win, but one actually does something about it, while the others expresses an opinion. There are a lot of fans, but relatively few people who actually do anything."
+        },
+        {
+            "text": "Mike Lopez, <a href=\"https://scripting.wordpress.com/2006/01/28/what-is-friendship/#comment-1302\">posting</a> on this blog yesterday recalls a story he heard <a href=\"https://www.npr.org/templates/story/story.php?storyId=5195825\">on NPR</a> about basketball great Wilt Chamberlain and his relationship with fans. Chamberlain’s philosophy: it’s easier to humor them than to argue with them.",
+            "created": "Tue, 03 Sep 2019 13:40:11 GMT"
+        },
+        {
+            "text": "Analogously, in the age of Wikipedia, fans can give themselves credit not just for being there when Wilt had his amazing 100 point game, but they can actually claim to have had the 100 point game themselves. Welcome to the Internet. Community participation is both its strongest and weakest point. And those who say I’m a consistent supporter of the medium miss that I am as frequently its victim. Sadly. "
+        },
+        {
+            "text": "The NY Times is not a sideline player in the history of RSS, as I’ve written <a href=\"https://scripting.wordpress.com/2006/01/20/rss-came-from-the-publishing-industry-2/\">before</a>, they played a central role, first denying us permission to use their content, then allowing it, and in doing so, providing an example for the rest of the publishing industry, which followed their lead without undermining them, without reinventing the technology, to their credit.",
+            "created": "Tue, 03 Sep 2019 13:32:49 GMT"
+        },
+        {
+            "text": "It was on this day <a href=\"http://scripting.com/2001/02/09.html\">in 2001</a> that I received a call from a “Rights and Contracts manager” at the New York Times, she asked us to stop reading their XML newsfeeds. I complied with the request. A colleague who will remain nameless had snuck me a link to an unprotected directory where the feeds, in a proprietary XML-based format, resided. I then repurposed the information and published it on a UserLand server. Truth be told, I expected to be shut down, but in doing so, I also expected to get the attention of higher-ups at the Times (who I knew read my blog) and it surely did.",
+            "created": "Tue, 03 Sep 2019 13:31:10 GMT"
+        },
+        {
+            "text": "Then early in 2002, I had a dinner with Martin Nisenholtz and Times board member Dave Liddle and two San Francisco-based Times reporters, where I pitched them on two things: 1. Publish in RSS, and 2. Give blogs to every Times reporter. They took me up on #1 and in April we published the Times content, but not in RSS (although we were permitted to by our contract), instead using the Times’s proprietary format. Why did we do that? Well I figured that if we pubished in RSS 0.92, which was then our most advanced format, it would drag the Times into a format war and they might think it’s not worth the trouble and ask us to stop publishing their content. So I decided to ease them into the community, first publishing invisibly to the people on the mail lists, and then, once their presence was cemented, we switched over to RSS 2.0.",
+            "created": "Tue, 03 Sep 2019 13:32:02 GMT"
+        },
+        {
+            "text": "So the loud and obnoxious fans on the mail lists shaped the story, a little. Instead of confronting their loudness, we side-stepped it. Now the Times may or may not be seen as the “tipping point” more widely, but I see it that way. Without the Times, we would have remained in disagreement, stuck in mail list hell, never achieving the promise of the technology. We all owe them a tremendous debt of gratitude, and should learn the lesson well, don’t look for leadership in standards to the netizens or to Silicon Valley, look to users who have a stake in making the technology work. Imho, that’s the key to getting things to move forward."
+        }
+    ]
+}
