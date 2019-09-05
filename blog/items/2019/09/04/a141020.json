@@ -1,0 +1,44 @@
+{
+    "text": "Persist -- a new data behavior?",
+    "created": "Wed, 04 Sep 2019 14:10:20 GMT",
+    "type": "outline",
+    "description": "A new storage attribute called persist. It can only apply to global objects.",
+    "subs": [
+        {
+            "text": "In JavaScript they have <a href=\"https://www.w3schools.com/jS/js_let.asp\">const, var and let</a> which control how things are stored. Every language has these. Using \"Frontier\", I got used to having persistent data storage. If I created something in the object database, the kernel took care of persisting it. I could just use it like memory that was always there, and didn't have to worry about saving it to files. I find all the time I wish that JavaScript had this. I think I may have finally figured out how that might work. ",
+            "created": "Wed, 04 Sep 2019 14:10:36 GMT"
+        },
+        {
+            "text": "Here's <a href=\"https://twitter.com/davewiner/status/1168981114083598336\">the idea</a>. A new storage attribute called persist. It can only apply to global objects. You could write this:",
+            "created": "Wed, 04 Sep 2019 14:11:56 GMT",
+            "subs": [
+                {
+                    "text": "persist serialnum = 0;",
+                    "created": "Wed, 04 Sep 2019 14:12:45 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Then you could do normal operations on it like:",
+            "created": "Wed, 04 Sep 2019 14:12:57 GMT",
+            "subs": [
+                {
+                    "text": "serialnum++;",
+                    "created": "Wed, 04 Sep 2019 14:13:09 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Next time the app runs it already has a value. Unlike with <i>var</i> or <i>const</i> the initialization code only runs when there is no <i>persist</i> object named serialnum (i.e. the first time the app runs with this value declared).",
+            "created": "Wed, 04 Sep 2019 14:13:13 GMT"
+        },
+        {
+            "text": "It would be easy to implement this in the language interpreter. It might even be possible with proxies. I don't understand them well enough yet to know. I also think you could do it with somewhat less elegant code using an NPM package.  ",
+            "created": "Wed, 04 Sep 2019 14:13:56 GMT"
+        },
+        {
+            "text": "Matt Terrenzio <a href=\"https://twitter.com/mterenzio/status/1169244024223481856\">asks</a> \"Persist where?\" My response: Somewhere. Anywhere really. Probably in a file on the local hard drive, stored in JSON. It could be in a database or in the cloud. It should be something that the developer can override, and it should default to something simple. ",
+            "created": "Wed, 04 Sep 2019 14:15:15 GMT"
+        }
+    ]
+}
