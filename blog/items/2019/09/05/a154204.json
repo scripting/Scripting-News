@@ -1,0 +1,20 @@
+{
+    "text": "I found a use for proxies",
+    "created": "Thu, 05 Sep 2019 15:42:04 GMT",
+    "type": "outline",
+    "isComment": "true",
+    "subs": [
+        {
+            "text": "",
+            "created": "Thu, 05 Sep 2019 15:42:11 GMT"
+        },
+        {
+            "text": "The problem is this. I have an object called stats in almost every Node app I write. I store there the number of times the app did certain things and when the last time it did it. Basically I put all the global persistent data for the app in the object. When I change a value of the object I call statsChanged, which just sets a boolean, which is checked in a function that runs every second. If the boolean is true, it sets it false and saves the stats object to a local file in JSON. As I said this code appears in every app, and sometimes it's most of the code of the app. It should be possible to factor it, but without persistent objects of some kind, it pretty much is as simple as it can be. ",
+            "created": "Thu, 05 Sep 2019 15:43:47 GMT"
+        },
+        {
+            "text": "But here's an app that uses a package I made to do the stats object. ",
+            "created": "Thu, 05 Sep 2019 15:46:51 GMT"
+        }
+    ]
+}
