@@ -1,0 +1,5 @@
+{
+    "text": "The other day I wrote about an <a href=\"http://scripting.com/2019/09/04/141020.html\">idea</a> for persistent objects in JavaScript. It was dream of course because it requires a change in the language. So then I wanted to see how much of it you could implement with the <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy\">Proxy</a> feature, which I <a href=\"https://github.com/scripting/Scripting-News/issues/122\">explored</a> with Ted Howard thirty days ago, and it turns out -- quite a bit! Here's a <a href=\"https://gist.github.com/scripting/6ca719a6c332be44e6ff6c82517a34ba\">test Node app</a> that demonstrates. ",
+    "created": "Thu, 05 Sep 2019 15:52:31 GMT",
+    "type": "outline"
+}
