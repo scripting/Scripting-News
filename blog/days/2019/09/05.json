@@ -1,0 +1,44 @@
+{
+    "text": "September 5",
+    "created": "Thu, 05 Sep 2019 13:48:21 GMT",
+    "name": "05",
+    "subs": [
+        {
+            "text": "It's remarkable how <a href=\"https://www.technologyreview.com/s/614264/mit-media-lab-jeffrey-epstein-joi-ito-nicholas-negroponte-funding-sex-abuse/amp/?__twitter_impression=true\">lost</a> the MIT Media Lab is in its <a href=\"https://www.techmeme.com/190905/p22#a190905p22\">obsession</a> with money from billionaires. An organization at MIT focused on tech and media could do a lot of good, for very little money, by sending technologists into the world with a mission to create great open tech for the people. Instead the focus is on what percent of the world's billionaires you're on a first-name basis with, laundering their reputations by accepting their money. The work they do at the Media Lab is almost incidental. I understand why normal people feel so much disdain for the elite, because the dishonesty shines through, even if the details remain hidden. Read the <a href=\"https://www.technologyreview.com/s/614264/mit-media-lab-jeffrey-epstein-joi-ito-nicholas-negroponte-funding-sex-abuse/amp/\">MIT Tech Review story</a> about yesterday's meeting to see how lost they are. ",
+            "created": "Thu, 05 Sep 2019 13:48:22 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/09/05/monopolyMan.png"
+        },
+        {
+            "text": "Trump's <a href=\"https://www.apnews.com/416144d854fb4302a9f34cccae81b0e0\">obsession</a> with Alabama is a <a href=\"https://twitter.com/davewiner/status/1169727932593561601\">test</a> to see what happens if he modifies official government documents. Answer -- bewilderment. Otherwise nothing stops him.  This is how you win an election that you really lost. ",
+            "created": "Fri, 06 Sep 2019 00:04:54 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "How <a href=\"http://scripting.com/images/2019/09/05/trumpsSharpie.png\">Trump's sharpie</a> wins the electoral college in a landslide.",
+            "created": "Thu, 05 Sep 2019 17:26:52 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "The <a href=\"http://scripting.com/email/\">Dave-by-email</a> feature is nice. :rocket:",
+            "created": "Thu, 05 Sep 2019 15:39:58 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I created a new Node package called <a href=\"https://www.npmjs.com/package/persists\">persists</a>. Here's a <a href=\"https://gist.github.com/scripting/a1108dd5a394c1e1886d4fc6bbcfcbdf\">test app</a> that uses it. Docs coming. I think this is the closest you get to imitating the Frontier object database, syntactically and functionally, in JS. ",
+            "created": "Thu, 05 Sep 2019 20:43:22 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://twitter.com/judell/status/1169365478482989057\">Jon Udell demo'd</a> a feature that lets you expand-collapse in Markdown files on GitHub. Here's <a href=\"https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab\">how to</a> do it. If you enclose text in an XML &lt;details> element it is collapsable. A &lt;summary> sub-element provides the text that you click to expand. ",
+            "created": "Thu, 05 Sep 2019 18:18:33 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/judell/status/1169365478482989057"
+        },
+        {
+            "text": "The other day I wrote about an <a href=\"http://scripting.com/2019/09/04/141020.html\">idea</a> for persistent objects in JavaScript. It was dream of course because it requires a change in the language. So then I wanted to see how much of it you could implement with the <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy\">Proxy</a> feature, which I <a href=\"https://github.com/scripting/Scripting-News/issues/122\">explored</a> with Ted Howard thirty days ago, and it turns out -- quite a bit! Here's a <a href=\"https://gist.github.com/scripting/6ca719a6c332be44e6ff6c82517a34ba\">test Node app</a> that demonstrates. ",
+            "created": "Thu, 05 Sep 2019 15:52:31 GMT",
+            "type": "outline"
+        }
+    ]
+}
