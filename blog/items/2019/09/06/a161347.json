@@ -1,0 +1,6 @@
+{
+    "text": "I think I've got <a href=\"https://www.npmjs.com/package/persists\">persists</a> wrapped up pretty well. Here's the <a href=\"https://github.com/scripting/persists#readme\">readme</a>. There's a <a href=\"https://github.com/scripting/persists#a-simple-app\">simple app</a>, and I walk through it explaining what it does. And a more <a href=\"https://github.com/scripting/persists/blob/master/examples/lotsofobjects.js\">complex app</a>. Finally solved the puzzle, how to get object database-like persistence using native JavaScript objects, using JavaScript object syntax. The key idea is that the objects are shared between the levels. One level takes care of persistence, the higher level keeps track of its data and doesn't care how it persists. I've been <a href=\"http://scripting.com/liveblog/users/davewiner/2015/12/15/0640.html\">pestering</a> friends about this for <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+persistent+javascript&t=h_&ia=web\">years</a>. <a href=\"https://twitter.com/awbjs\">Allen WB</a> said look at proxies. It took a few years, but I got there. ",
+    "created": "Fri, 06 Sep 2019 16:13:47 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2019/06/15/kicker.png"
+}
