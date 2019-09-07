@@ -1,0 +1,34 @@
+{
+    "text": "September 6",
+    "created": "Fri, 06 Sep 2019 13:48:31 GMT",
+    "name": "06",
+    "subs": [
+        {
+            "text": "I think I've got <a href=\"https://www.npmjs.com/package/persists\">persists</a> wrapped up pretty well. Here's the <a href=\"https://github.com/scripting/persists#readme\">readme</a>. There's a <a href=\"https://github.com/scripting/persists#a-simple-app\">simple app</a>, and I walk through it explaining what it does. And a more <a href=\"https://github.com/scripting/persists/blob/master/examples/lotsofobjects.js\">complex app</a>. Finally solved the puzzle, how to get object database-like persistence using native JavaScript objects, using JavaScript object syntax. The key idea is that the objects are shared between the levels. One level takes care of persistence, the higher level keeps track of its data and doesn't care how it persists. I've been <a href=\"http://scripting.com/liveblog/users/davewiner/2015/12/15/0640.html\">pestering</a> friends about this for <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+persistent+javascript&t=h_&ia=web\">years</a>. <a href=\"https://twitter.com/awbjs\">Allen WB</a> said look at proxies. It took a few years, but I got there. ",
+            "created": "Fri, 06 Sep 2019 16:13:47 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/06/15/kicker.png"
+        },
+        {
+            "text": "Do you have <a href=\"https://github.com/scripting/persists/issues/1\">comments or questions</a> about persist? ",
+            "created": "Fri, 06 Sep 2019 16:39:50 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://blog.jonudell.net/2019/09/05/products-and-capabilities/\">Jon Udell</a> on coding an outliners. There is a reason to go for a full outliner, because without the ability to organize code, you can't deal with the complexity of ridiculously nested code as happens with <a href=\"http://callbackhell.com/\">Callback Hell</a> in JavaScript. It's hell for some, but because I code in an outliner, it's <a href=\"http://scripting.com/2019/08/19.html#a165445\">heaven</a> for me. ",
+            "created": "Fri, 06 Sep 2019 17:08:56 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Bojack Horseman is <a href=\"http://scripting.com/2015/08/30/whyYouMustWatchBojackHorseman.html\">one</a> of the <a href=\"http://scripting.com/2016/08/05/iLoveBojackHorseman.html\">best</a> TV shows <a href=\"https://www.google.com/search?q=Bojack+Horseman+site%3Ascripting.com&oq=Bojack+Horseman+site%3Ascripting.com&aqs=chrome..69i57.27215j0j4&sourceid=chrome&ie=UTF-8\">ever</a>. Listen to this <a href=\"https://www.npr.org/2019/09/02/755411294/dont-be-fooled-by-the-talking-horse-bojack-is-a-sadness-sneak-attack\">interview</a> with the creator and showrunner for an idea why it's so good.",
+            "created": "Fri, 06 Sep 2019 17:14:33 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Dr Strangelove: <a href=\"https://www.youtube.com/watch?v=2yfXgu37iyI\">The Doomsday Machine</a>. ",
+            "created": "Fri, 06 Sep 2019 19:38:33 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=2yfXgu37iyI"
+        }
+    ]
+}
