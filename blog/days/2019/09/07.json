@@ -1,0 +1,65 @@
+{
+    "text": "September 7",
+    "created": "Sat, 07 Sep 2019 14:09:06 GMT",
+    "name": "07",
+    "subs": [
+        {
+            "text": "I did a lot of work on the <a href=\"https://github.com/scripting/persists/blob/master/persists.js\">persists</a> package today, including a <a href=\"https://github.com/scripting/persists#what-is-it-for\">new section</a> in the readme that explains why I wanted it, what I'm using it for. It's going to be part of every Node app I create from now on. ",
+            "created": "Sat, 07 Sep 2019 17:01:58 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/09/07/vwBug.png"
+        },
+        {
+            "text": "<a href=\"https://www.nydailynews.com/opinion/ny-oped-nelson-emoluments-20190907-kuw77hbyc5erzdxjd7357xxypi-story.html\">This is a clean impeachment</a>. Clear violation of the Constitution, repeated, openly. Hand it off to the Senate.",
+            "created": "Sat, 07 Sep 2019 18:01:50 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1170315171522392066\">What’s</a> the purpose of the Media Lab beyond creating gee-whiz demos that impress billionaires?",
+            "created": "Sat, 07 Sep 2019 14:23:09 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1170315171522392066"
+        },
+        {
+            "text": "Ultimately, imho -- the people who rise to the top of academic institutions are the ones who make donors feel good. The challenge is to use your agreeable nature to protect and promote innovators who generally rub donors the wrong way. As they say in the <a href=\" https://www.youtube.com/watch?v=8rwsuXHA7RA\">great Apple ad</a>, they're the ones who actually get it done.   ",
+            "created": "Sat, 07 Sep 2019 14:48:55 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=8rwsuXHA7RA"
+        },
+        {
+            "text": "The motivation for persists",
+            "created": "Sat, 07 Sep 2019 14:14:21 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Phil Windley, a developer friend from Utah, asks via email about the motivation for the <a href=\"https://www.npmjs.com/package/persists\">persists package</a>. Here's the story. ",
+                    "created": "Sat, 07 Sep 2019 14:14:32 GMT"
+                },
+                {
+                    "text": "I was writing a bit of example code for another package I am working on. I iterated over it, factoring and simplifying until it was really easy to see what's going on. I pride myself on really easy to follow example code, because it's what I most need when I'm trying to figure out a new package, I figure it'll help others. ",
+                    "created": "Sat, 07 Sep 2019 14:14:40 GMT"
+                },
+                {
+                    "text": "Then I decided to add a small feature that required a tiny bit of persistent data, a serialnum. Of course this comes up all the time, I have a standard practice for it. But in this example, the persistence code <i>doubled the size</i> of the demo, and hid the elegance and simplicity of the code I was trying to demo. ",
+                    "created": "Sat, 07 Sep 2019 14:15:42 GMT"
+                },
+                {
+                    "text": "In Frontier, of course, saving a scalar with persistence is simply a matter of assigning a value to it. The kernel takes care of everything else. All the years I've been working in JavaScript, I've been searching for that simplicity. The language is so hackable I figured there must be a way. And when they added the Proxy feature, it did become possible. ",
+                    "created": "Sat, 07 Sep 2019 14:16:33 GMT"
+                },
+                {
+                    "text": "That's what persists is. It makes persistent values almost as simple as Frontier. The point is simplicity and factoring overhead from your mainline code into a package. And that's a big deal. ",
+                    "created": "Sat, 07 Sep 2019 14:17:07 GMT"
+                },
+                {
+                    "text": "To really bring it home, here's the <a href=\"https://github.com/scripting/xml-rpc/blob/master/examples/mailservice/mailservice.js\">example app</a> I was talking about, after I used persists. And here are the <a href=\"https://github.com/scripting/xml-rpc/commit/38504e097ec2df29b2c242bac3d452ae23a808d2#diff-69efe25839c01bf1a31a1d98f9f793d9\">changes</a>. And btw, I have an even <a href=\"http://scripting.com/2019/09/04/141020.html\">simpler approach</a>, but I can't do it unless I can change the JavaScript language spec, which probably isn't going to happen. :pray:",
+                    "created": "Sat, 07 Sep 2019 14:17:53 GMT"
+                },
+                {
+                    "text": "PS: If you have questions about persists, this is a <a href=\"https://github.com/scripting/persists/issues/1\">good place</a> to post.",
+                    "created": "Sat, 07 Sep 2019 15:31:57 GMT"
+                }
+            ]
+        }
+    ]
+}
