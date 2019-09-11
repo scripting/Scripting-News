@@ -1,0 +1,75 @@
+{
+    "text": "September 10",
+    "created": "Tue, 10 Sep 2019 13:09:44 GMT",
+    "name": "10",
+    "subs": [
+        {
+            "text": "Here's a new version of my <a href=\"https://github.com/scripting/xml-rpc#readme\">XML-RPC for JavaScript</a>. There's a <a href=\"https://github.com/scripting/xml-rpc#readme\">client and server</a> for Node, and a client for the browser. A <a href=\"http://scripting.com/code/xmlrpcdebugger/\">debugger</a> you can enter a call in, see what goes over the wire and what comes back. If you're using XML-RPC in JavaScript, please consider using this package and <a href=\"https://github.com/scripting/xml-rpc/issues/9\">give feedback</a>. If you have a current implementation for any environment, please post a note here. In my next pass I plan to make the <a href=\"http://reboot.xmlrpc.com/\">rebooting page</a> into the home page for the XML-RPC <a href=\"http://xmlrpc.com/\">website</a>. ",
+            "created": "Tue, 10 Sep 2019 15:29:06 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/09/10/xmlRpcBookOReilly.png"
+        },
+        {
+            "text": "I just got a question from a user about how to get the OPML source text from an outline you're editing in \"LO2\". Two steps. 1. In the File menu, choose <i>View OPML.</i> 2. In your browser's File menu, choose <i>Save Page As.</i> That's it. You now have a local copy of the file.",
+            "created": "Tue, 10 Sep 2019 17:04:11 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "This week's <a href=\"https://www.nytimes.com/2019/09/06/podcasts/1619-black-american-music-appropriation.html\">1619 podcast</a> is fantastic. It's the story of American music. I laughed and cried, and get goosebumps thinking how great America is, thanks to slaves and ex-slaves and children of slaves. ",
+            "created": "Tue, 10 Sep 2019 23:20:11 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "My friend <a href=\"https://twitter.com/davewiner/status/1171409522868576257\">Steve Garfield</a> is now Twitter-famous. ",
+            "created": "Tue, 10 Sep 2019 13:09:45 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1171409522868576257"
+        },
+        {
+            "text": "We were able to boot up podcasting from Harvard with $0 in funding. That's something we can replicate. So ask the Media Lab if their goal is to create new media, or spend lots of money. Because they are mutually exclusive things imho. :boom:",
+            "created": "Tue, 10 Sep 2019 23:17:19 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Why do they have to play music when you're on hold. ",
+            "created": "Tue, 10 Sep 2019 14:58:46 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I once went to a <a href=\"https://en.wikipedia.org/wiki/John_Brockman_(literary_agent)\">Brockman</a> dinner at <a href=\"http://henryshunan.com/\">Henry's Hunan</a> in San Francisco. It was loud and people moved around between tables. Henry's is not a snazzy joint, which made this event fairly un-Brockman. John Markoff and John Perry Barlow were there, with about 30 others. I hung out with <a href=\"https://en.wikipedia.org/wiki/Sean_Parker\">Sean Parker</a>, the future president of Facebook, who had just finished with Napster. I was a <a href=\"http://scripting.com/2014/12/17/whatIfTheRiaaHadEmbracedNapster.html\">big fan</a> of Napster, thought the music industry should have kept it running forever, if they had, they'd own Spotify, basically. Napster proved there was huge potential in networking music. It was inevitable, always, that music would go the way it has.  ",
+            "created": "Tue, 10 Sep 2019 15:45:57 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "We're in a very weird time when I feel compelled to write almost-obituaries for people who are alive. That doesn't seem right, esp without any kind of process. This is the first time I remember anything like this happening.",
+            "created": "Tue, 10 Sep 2019 15:24:18 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "The NYT has new, very nice, web-based <a href=\"https://timesmachine.nytimes.com/timesmachine/1983/05/17/169857.html?pageNumber=51\">archive software</a>. It would also be cool if they had a way to embed a clipping in another web page, the way I can embed a tweet or YouTube video in my blog. ",
+            "created": "Tue, 10 Sep 2019 13:41:18 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Like everyone else, it seems, I am now obsessing over the HBO series <a href=\"https://www.metacritic.com/tv/succession/season-2\">Succession</a>. It's my new family, and it's of course so much like my real family. I haven't watched Sunday's episode yet. After that I think I'm going to watch the Netflix series <a href=\"https://www.netflix.com/title/80178151\">The Spy</a>, though I'm not sure I'm ready to accept Sacha Baron Cohen as a serious actor. ",
+            "created": "Tue, 10 Sep 2019 13:11:18 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Google is being <a href=\"https://www.techmeme.com/190909/p19#a190909p19\">investigated</a> for <a href=\"https://www.cnbc.com/2019/09/09/texas-attorney-general-leads-google-antitrust-probe.html\">antitrust</a> by 48 state attorneys general plus DC and Puerto Rico. That's good. I hope they look into their control of the web. It's even tighter than Microsoft's was in the 90s, which got them into a <a href=\"https://timesmachine.nytimes.com/timesmachine/1995/08/22/121895.html?pageNumber=53\">consent decree</a> with the DoJ. Google is doing it with far less visibility, so they're getting away with more. The web is public domain. They appear to have no fear of being stopped, and that's a bad thing. I've written it up in this <a href=\"http://this.how/googleAndHttp/\">white paper-like doc</a>. I've been beating this drum because it's so important that we preserve the resource. We'll never be able to rebuild it if they succeed in taking it over the open web. ",
+            "created": "Tue, 10 Sep 2019 13:19:07 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/09/10/drummer.png"
+        },
+        {
+            "text": "The <a href=\"https://www.axios.com/nra-sues-san-francisco-over-terrorist-declaration-5afba48a-4a39-408c-a301-9e42810f427c.html\">NRA is suing</a> the city of San Francisco for classifying them as a <a href=\"https://sfgov.legistar.com/View.ashx?M=F&ID=7568748&GUID=DF64490F-D8BC-4BF7-A43D-287F02BECCCA\">domestic terrorist organization</a>. Seems like the wrong thing to do. Instead they should take it to heart and stop terrorizing us. Instead, suing SF is just going to keep this very valid idea <a href=\"https://en.wikipedia.org/wiki/Streisand_effect\">in the news</a>. ",
+            "created": "Tue, 10 Sep 2019 13:46:01 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Sometimes I can be very wrong. In 2001 I thought <a href=\"http://scripting.com/davenet/2001/07/06/theMicroChannelArchitectur.html#3\">Microsoft</a> was going to take over the world with Passport, .NET and HailStorm. Not sure what happened to Passport, their identity system, it's probably the legacy format of their current online systems, or long-ago deprecated. .NET is doing fine, but in no way dominating the world. And HailStorm was pure vaporware. A dream built out of hubris not software. I'm not even sure what it was supposed to be. The world did need a storage system (still does) attached to an open identity system, by a simple but powerful scripting environment, but in 2001, not from Microsoft. No one trusted them. BigCo's don't appreciate how much trust comes into it, they must think developers <i>like</i> being <a href=\"https://www.google.com/search?q=site%3Ascripting.com+\" locked+in+the+trunk\"\"=\"\">locked in the trunk</a> while they drive the car. Heh. No.",
+            "created": "Tue, 10 Sep 2019 13:51:53 GMT",
+            "type": "outline"
+        }
+    ]
+}
