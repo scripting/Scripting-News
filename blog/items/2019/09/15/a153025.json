@@ -1,0 +1,46 @@
+{
+    "text": "A definitive list of news feeds",
+    "created": "Sun, 15 Sep 2019 15:30:25 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Yesterday I posted an item <a href=\"http://scripting.com/2019/09/14.html#a164047\">here</a> and <a href=\"https://twitter.com/davewiner/status/1172912815054737408\">on Twitter</a> suggesting a collection of RSS feeds from news orgs managed by one or more universities. There were a few responses from people who believe they at least have a good start on this, so let me flesh out the idea a bit. ",
+            "created": "Sun, 15 Sep 2019 15:30:35 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "Think of it as a process more than a product. A list frozen in time isn't very useful. We have lots of those. The idea here is that the list is maintained, it grows and shrinks as new feeds are created, new organizations get on board, and of course some fall off. ",
+                    "created": "Sun, 15 Sep 2019 15:31:19 GMT"
+                },
+                {
+                    "text": "I think the people should come from a university or a group of universities. It could be a student project. Lots of people flow through the project over time, and go out into the world and help build awareness of the project. ",
+                    "created": "Sun, 15 Sep 2019 15:32:33 GMT"
+                },
+                {
+                    "text": "Having a list that no one knows about is pointless. There should be marketing activity for the project, a Twitter feed, Facebook group, what else? ",
+                    "created": "Sun, 15 Sep 2019 15:45:12 GMT"
+                },
+                {
+                    "text": "All popular feed formats are supported. ",
+                    "created": "Sun, 15 Sep 2019 15:45:14 GMT"
+                },
+                {
+                    "text": "Feeds should be added conservatively. The quality of the feeds is very important. The list should be culled of dupilicates, different URLs for the same resource. Don't worry about including two feeds that include similar stories (for example, there is a sports feed for the NYT and also a New York news feed, stories about the Knicks would appear in both, this is not a problem, ).",
+                    "created": "Sun, 15 Sep 2019 15:34:01 GMT"
+                },
+                {
+                    "text": "Use the standard <a href=\"http://dev.opml.org/spec2.html#subscriptionLists\">OPML subscription list</a> format as documented. Add attributes to any item with the metadata you have for it. ",
+                    "created": "Sun, 15 Sep 2019 15:40:04 GMT"
+                },
+                {
+                    "text": "Open source all the way. MIT License for any software, and Creative Commons for the list itself. Create a GItHub repository to store the list and any associated documentation. It can be distributed in other ways of course, via a website, an internet-accessible database.  ",
+                    "created": "Sun, 15 Sep 2019 15:39:41 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Please post <a href=\"https://github.com/scripting/Scripting-News/issues/131\">your comments here</a>. ",
+            "created": "Sun, 15 Sep 2019 19:45:09 GMT"
+        }
+    ]
+}
