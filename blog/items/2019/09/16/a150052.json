@@ -1,0 +1,5 @@
+{
+    "text": "I <a href=\"https://github.com/scripting/persists/commit/54895bcb87e922b3c6f5276efe4bab540a1c3a17#diff-ab9b12629ba5466b92da76fd7cfe2e37\">fixed</a> a problem in the <a href=\"https://github.com/scripting/persists\">persists</a> package yesterday. When initializing a shared object, it ignored all non-scalar fields. I was using a daveutils routine copyScalars to do the copying. I wrote a new local routine that copies everything. I can't think of a reason it should only do scalars. It came up in an application I was writing. We're at that stage in this project where I try to use it as it was designed to be used and discover that the system guy (me) didn't correctly anticipate the needs of the app developer (also me).",
+    "created": "Mon, 16 Sep 2019 15:00:52 GMT",
+    "type": "outline"
+}
