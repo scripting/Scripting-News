@@ -3,17 +3,17 @@
 	<head>
 		<title>Glossary</title>
 		<dateCreated>Tue, 13 Jun 2017 13:42:31 GMT</dateCreated>
-		<dateModified>Fri, 27 Sep 2019 15:57:40 GMT</dateModified>
-		<ownerName>Dave</ownerName>
+		<dateModified>Tue, 01 Oct 2019 18:03:26 GMT</dateModified>
+		<ownerName>Dave Winer</ownerName>
 		<ownerId>https://twitter.com/davewiner/</ownerId>
-		<expansionState>14</expansionState>
+		<expansionState>14,16</expansionState>
 		<vertScrollState>1</vertScrollState>
 		<windowTop>631</windowTop>
 		<windowLeft>1087</windowLeft>
 		<windowBottom>831</windowBottom>
 		<windowRight>1472</windowRight>
 		<flPublic>true</flPublic>
-		<lastCursor>13</lastCursor>
+		<lastCursor>15</lastCursor>
 		<ownerTwitterScreenName>davewiner</ownerTwitterScreenName>
 		<urlPublic>http://electricserver.scripting.com/users/davewiner/electric/glossary.opml</urlPublic>
 		<urlJson>http://electricserver.scripting.com/users/davewiner/electric/glossary.json</urlJson>
@@ -64,6 +64,9 @@
 			</outline>
 		<outline text="&quot;bingeworthy&quot;" created="Tue, 14 Nov 2017 15:38:03 GMT">
 			<outline text="&lt;a href=&quot;http://bingeworthy.io/&quot;&gt;BingeWorthy&lt;/a&gt;" created="Tue, 14 Nov 2017 15:38:06 GMT"/>
+			</outline>
+		<outline text="&quot;Sources Go Direct&quot;" created="Tue, 01 Oct 2019 18:03:03 GMT">
+			<outline text="&lt;a href=&quot;http://scripting.com/2015/10/12/itsStillSourcesGoDirect.html&quot;&gt;Sources Go Direct&lt;/a&gt;" created="Tue, 01 Oct 2019 18:03:12 GMT"/>
 			</outline>
 		<outline text="&quot;bloggercon&quot;" created="Tue, 13 Feb 2018 16:36:01 GMT">
 			<outline text="&lt;a href=&quot;http://bloggercon.scripting.com/&quot;&gt;BloggerCon&lt;/a&gt;" created="Tue, 13 Feb 2018 16:36:04 GMT"/>
