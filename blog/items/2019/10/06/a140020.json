@@ -1,0 +1,21 @@
+{
+    "text": "How I program",
+    "created": "Sun, 06 Oct 2019 14:00:20 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "<i>I wrote this in a 2014 email to one of my former programming partners, Jake Savin, about how I develop today. I use the same tools five years later. It was a good design. </i>",
+            "created": "Sun, 06 Oct 2019 14:00:26 GMT"
+        },
+        {
+            "text": "I program in the OPML Editor. I have a suite that makes it one button to deploy all the changed objects in my outline to public spaces on S3, ready to run. It's amazingly fast.",
+            "created": "Sun, 06 Oct 2019 14:01:35 GMT"
+        },
+        {
+            "text": "I have debugging on the client but not the server. But I am radical about pushing functionality to the edge, and using the server just to make up for deficiencies in other APIs that prevent them from being called from the client. So it hasn't been that much of a problem."
+        },
+        {
+            "text": "This environment is so primitive compared to Frontier, but everyone can use it, so that's why I work here. People think I've been incredibly productive, the truth is I've done all this stuff before, so it goes quickly the third or fourth time."
+        }
+    ]
+}
