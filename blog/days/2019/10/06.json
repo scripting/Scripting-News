@@ -1,0 +1,81 @@
+{
+    "text": "October 6",
+    "created": "Sun, 06 Oct 2019 13:44:37 GMT",
+    "name": "06",
+    "subs": [
+        {
+            "text": "<a href=\"http://this.how/trolls/#1515276571000\">How to win with a troll, 2016</a>: \"Imagine if he never got any self-generated press ever again? That would be the end of Trump. You can report on polls. You can report on FBI investigations of him. Or his trial with Trump U. Or that HRC calls for him not to get security briefings, all that's fair. But you can't report any Trump-generated news. If it came from him, it's trolling. If it's news about him that he didn't control, it's fair game.\" That's why the whistleblowers, witnesses and congressional committees are helping us win the battle with Trump. For the first time in a long time, Trump has lost control. We're in new territory. ",
+            "created": "Sun, 06 Oct 2019 13:44:38 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/09/11/tide.png"
+        },
+        {
+            "text": "<a href=\"https://www.nytimes.com/2019/10/06/arts/music/ginger-baker-dead.html\">Ginger Baker</a>, <a href=\"https://www.rollingstone.com/music/music-features/ginger-baker-essential-songs-cream-blind-faith-fela-kuti-890696/\">drummer</a> for Cream, one of rock's seminal bands, died at 80. Here's one of their <a href=\"https://www.youtube.com/watch?v=zt51rITH3EA\">hits</a>, Sunshine of Your Love.  ",
+            "created": "Sun, 06 Oct 2019 14:57:28 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=zt51rITH3EA"
+        },
+        {
+            "text": "As one of the founders of podcasting, I couldn't <a href=\"https://twitter.com/Clew_less/status/1180785127506485248\">agree more</a>. Podcasting is all about the voice of the individual. ",
+            "created": "Sun, 06 Oct 2019 14:35:47 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/Clew_less/status/1180785127506485248"
+        },
+        {
+            "text": "<a href=\"https://twitter.com/CNN/status/1180887409547984896\">Colin Powell hits</a> Repubs up the head with a 2-by-4.",
+            "created": "Sun, 06 Oct 2019 18:33:37 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/CNN/status/1180887409547984896"
+        },
+        {
+            "text": "What would you do if the power went out in the city you live in, and you were pretty sure it wasn't coming back any time soon?",
+            "created": "Sun, 06 Oct 2019 14:03:10 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"http://scripting.com/images/2019/10/06/probabilityGraphClintonVsTrump2016.png\">This is the graph</a> we were looking at on this day in 2016. It says that HRC had a 75% chance of winning. The black line at the right is Election Day. Most people didn't understand enough about probability to understand what that meant, so presumably weren't motivated to vote. This is a lesson you don't hear reported on much in the press. The election wasn't decided by anti-abortion gun-rights advocates. It was decided by the people who didn't vote. ",
+            "created": "Sun, 06 Oct 2019 13:53:33 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/06/13/trumpHead.png"
+        },
+        {
+            "text": "Our tech house of cards",
+            "created": "Sun, 06 Oct 2019 13:51:22 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "We've built a technological house of cards. Ever taller, no foundation.",
+                    "created": "Sun, 06 Oct 2019 13:51:42 GMT"
+                },
+                {
+                    "text": "We're animals. We think we do things for reasons we understand, but we're 99% instinct-driven.",
+                    "created": "Sun, 06 Oct 2019 13:51:45 GMT"
+                },
+                {
+                    "text": "We use our technology platform as if we are primates living in trees."
+                }
+            ]
+        },
+        {
+            "text": "How I program",
+            "created": "Sun, 06 Oct 2019 14:00:20 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<i>I wrote this in a 2014 email to one of my former programming partners, Jake Savin, about how I develop today. I use the same tools five years later. It was a good design. </i>",
+                    "created": "Sun, 06 Oct 2019 14:00:26 GMT"
+                },
+                {
+                    "text": "I program in the OPML Editor. I have a suite that makes it one button to deploy all the changed objects in my outline to public spaces on S3, ready to run. It's amazingly fast.",
+                    "created": "Sun, 06 Oct 2019 14:01:35 GMT"
+                },
+                {
+                    "text": "I have debugging on the client but not the server. But I am radical about pushing functionality to the edge, and using the server just to make up for deficiencies in other APIs that prevent them from being called from the client. So it hasn't been that much of a problem."
+                },
+                {
+                    "text": "This environment is so primitive compared to Frontier, but everyone can use it, so that's why I work here. People think I've been incredibly productive, the truth is I've done all this stuff before, so it goes quickly the third or fourth time."
+                }
+            ]
+        }
+    ]
+}
