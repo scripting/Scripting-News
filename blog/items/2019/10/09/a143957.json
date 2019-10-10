@@ -1,0 +1,29 @@
+{
+    "text": "Rambling about search",
+    "created": "Wed, 09 Oct 2019 14:39:57 GMT",
+    "type": "outline",
+    "description": "I yearn for customizable search. ",
+    "subs": [
+        {
+            "text": "I wonder if anyone has Wikipedia as their default search page. It just occurred to me, with Google searches getting more cluttered with garbage all the time, if Wikipedia might not be a better choice. ",
+            "created": "Wed, 09 Oct 2019 14:43:08 GMT"
+        },
+        {
+            "text": "For example, here's a <a href=\"https://www.google.com/search?q=Brooklyn+Nets\">Google search</a> for Brooklyn Nets, and here's the <a href=\"https://en.wikipedia.org/wiki/Brooklyn_Nets\">Wikipedia page</a>. Which gets you a better set of links to topics related to the team? I guess the problem is there are no <a href=\"https://www.google.com/search?q=Brooklyn+Nets&safe=off&rlz=1C5CHFA_enUS743US747&sxsrf=ACYBGNSE5Kh8llhcwE0qiVXY-kOCFflhgA:1570632411345&source=lnms&tbm=nws&sa=X&ved=0ahUKEwiur83XtY_lAhUFmeAKHQe_CtEQ_AUIEigB&biw=1491&bih=1044\">news</a>, <a href=\"https://www.google.com/search?q=Brooklyn+Nets&safe=off&rlz=1C5CHFA_enUS743US747&tbm=vid&sxsrf=ACYBGNSvPhpiJUug7r-OEOCG7s8v5pJzsw:1570632442181&source=lnms&sa=X&ved=0ahUKEwiPu6fmtY_lAhXNVt8KHQpyDXIQ_AUIDSgE&biw=1491&bih=1044&dpr=2\">video</a> or <a href=\"https://www.google.com/search?q=Brooklyn+Nets&safe=off&rlz=1C5CHFA_enUS743US747&tbm=isch&sxsrf=ACYBGNQaQdHDQ3rbD6fMW6sKZug8sLNgnQ:1570632455181&source=lnms&sa=X&ved=0ahUKEwjO6cDstY_lAhUonuAKHdc5DiwQ_AUICygC&biw=1491&bih=1044&dpr=2\">images</a> options on Wikipedia.",
+            "created": "Wed, 09 Oct 2019 14:46:15 GMT"
+        },
+        {
+            "text": "I probably should just start using <a href=\"https://duckduckgo.com/?q=Brooklyn+Nets&t=hk&ia=news\">DuckDuckGo</a>. It's very similar to Google, but not as insane, and they claim to not share your search habits with any other companies. ",
+            "created": "Wed, 09 Oct 2019 14:43:32 GMT"
+        },
+        {
+            "text": "You know what would really get me to switch? Customization. If I could tell it where my blog is, so it will default to showing me what I had written about a topic at the top of the search, or offer a tab that allowed me to quickly review my own writing. I could see that changing the nature of everything I do on the web, it would also be an incentive to people to leave the silos. ",
+            "created": "Wed, 09 Oct 2019 14:48:52 GMT",
+            "image": "http://scripting.com/images/2019/10/09/skipper.png"
+        },
+        {
+            "text": "I'd also like a pref that lets me ask it to always show me the Wikipedia page first. Other people might prefer a Twitter account first, or news about the topic. Google makes all these choices for you. But I'm a sentient user, I was using computers for decades before Google even existed. I know how to program, and yet, I can't use that skill on the most extensive information source ever produced by humans -- the web. ",
+            "created": "Wed, 09 Oct 2019 14:44:23 GMT"
+        }
+    ]
+}
