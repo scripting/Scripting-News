@@ -1,0 +1,86 @@
+{
+    "text": "October 11",
+    "created": "Fri, 11 Oct 2019 13:02:41 GMT",
+    "name": "11",
+    "subs": [
+        {
+            "text": "We're righteously upset about the Chinese government interfering with the NBA and speech in the US. But what about the NFL? They're here at home, and are punishing <a href=\"https://en.wikipedia.org/wiki/Colin_Kaepernick\">Colin Kaepernick</a>, and his fans, for speech. Football is a luxury, it's optional. Would you give up a week of NFL games to support Kaepernick?",
+            "created": "Fri, 11 Oct 2019 13:02:42 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Amazon Fire Cube :-1: ",
+            "created": "Fri, 11 Oct 2019 14:12:48 GMT",
+            "type": "outline",
+            "description": "The new Amazon Fire Cube is not for me.",
+            "subs": [
+                {
+                    "text": "I was <a href=\"http://scripting.com/2019/10/08.html#a135920\">excited</a> to get the <a href=\"https://www.amazon.com/gp/product/B07KGVB6D6/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1\">Fire Cube</a>, but after a short installation and exploration, I realized it was nowhere near as good as it has to be to earn a place in my living room. I'm going to return it and instead buy a current Apple TV. I'll report on that later. ",
+                    "created": "Fri, 11 Oct 2019 14:05:00 GMT",
+                    "image": "http://scripting.com/images/2019/10/08/amazonFireCube.png"
+                },
+                {
+                    "text": "Re the Cube, it has to compete with the <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+roku&t=h_&ia=web\">Roku</a> user interface that's <a href=\"http://scripting.com/2019/04/17/144031.html\">baked into</a> my TCL screen. It clearly has this ambition, when it sets itself up, it remarkably figures out how to turn on and off the TV and my Onkyo receiver. I think this is a combination of better standards and testing. Impressive. ",
+                    "created": "Fri, 11 Oct 2019 14:13:26 GMT"
+                },
+                {
+                    "text": "But when their desktop appears, it's a confusing mess, and in every way assumes what you want is Amazon Prime Video, even though it has Netflix and other apps. They clearly are biased. Understandable, but not functional. I come to them from a world where they don't control me, so it's a turnoff. I'm just as likely to watch something on HBO Go or Netflix as on Prime. Their desktop should be more agnostic. It's okay to put your app first in the list, but really that's as far as it should go.",
+                    "created": "Fri, 11 Oct 2019 14:13:56 GMT"
+                },
+                {
+                    "text": "I wanted to see if the Spectrum app for Fire worked better than the Roku one, but I couldn't figure out through their app store interface how to search for an app by name. That's ridiculous. They understand the importance of search in other places, but not here? I couldn't figure out which class of app a cable provider would fall under. ",
+                    "created": "Fri, 11 Oct 2019 14:14:27 GMT"
+                },
+                {
+                    "text": "Then I tried the Alexa functionality. It's weird that it must have talked to the other two Alexas in my house to figure out how to connect over my wifi. I never had to enter a password. This spooked me. This Alexa works differently and it's hard of hearing! I couldn't figure out how to get it to stop without unplugging it. ",
+                    "created": "Fri, 11 Oct 2019 14:14:54 GMT"
+                },
+                {
+                    "text": "I think they must have special problems with an environment where other speakers are present, but they weren't making any sound when I was trying to communicate with it. And the Alexa in the kitchen sometimes heard and responded to my queries, so it's pretty clear that having two Alexas in adjacent rooms isn't going to work. ",
+                    "created": "Fri, 11 Oct 2019 14:15:27 GMT"
+                },
+                {
+                    "text": "I then went back to Roku's desktop and breathed a sigh of relief, and decided the Fire Cube sucks. I don't want it. ",
+                    "created": "Fri, 11 Oct 2019 14:15:57 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Blogs are little things",
+            "created": "Fri, 11 Oct 2019 13:05:45 GMT",
+            "type": "outline",
+            "description": "Think of creating a blog as you would think of writing on a page in a notepad. ",
+            "subs": [
+                {
+                    "text": "I've had a long-term problem with comments on \"Scripting News\". If I have open comments then I have to moderate them. It helps to have clearly published <a href=\"http://guidelines.scripting.com/\">guidelines</a>, which I do, that eliminates most of the emotional reactions, but some still get through, and people can hold grudges for a long time. I don't like editing other people. I already do more of this kind of work than I want to. My goal is to get rid of all of it. ",
+                    "created": "Fri, 11 Oct 2019 13:05:49 GMT"
+                },
+                {
+                    "text": "When I first started out I had a pretty optimal system. The posts went out via email to small groups of subscribers. You could respond, and I would see your response and so would the others in your group. Sometimes interesting discussions would take place. For some reason very little flaming. I lurked. When someone wrote a piece I thought should get on the record, I'd forward it to an email address that was monitored by a script I wrote, which would then add it to the current <a href=\"http://scripting.com/mail/default.html\">mail page</a>. It wouldn't publish until I had a chance to hand-edit the text. It was work, and I remember not liking it, but there were some real classics among the mail page posts, so I did the work, for a couple of years. ",
+                    "created": "Fri, 11 Oct 2019 13:07:48 GMT",
+                    "image": "http://scripting.com/images/2017/09/26/colin.png"
+                },
+                {
+                    "text": "I could re-implement the Mail Pages, but it's not something I want to do, and it would be harder today, given the way email worked then and now. It's gotten more complex. I also had a scriptable email app, <a href=\"https://en.wikipedia.org/wiki/Eudora_(email_client)\">Eurdora</a>, so I was able to write the whole thing in \"Frontier\" which was really good at driving scriptable Mac apps. ",
+                    "created": "Fri, 11 Oct 2019 13:12:01 GMT"
+                },
+                {
+                    "text": "Okay so now here we are in 2019, and I have an excellent use-case. I wrote a short <a href=\"http://scripting.com/2019/10/08.html#a140651\">piece</a> about Medicare, asking for input, and have gotten back some wonderful responses. One in particular was beautifully written, long, detailed and obviously based on a lot of experience. As I read such an email I ache a little. \"This should be on the web,\" I think to myself. Finally when I get to the end I respond with praise, and a request that they post it to their blog. I put it that way because 1. maybe they have a blog or 2. maybe this will get them to start one. But the most likely response is a story about how they have a blog, but haven't posted to it in a long time and they feel guilty, so presumably they don't want to go there for some reason? I don't really get it, because I know what a blog is, behind the scenes. It isn't a place. It's just a few files on a server, very small files, and a few database entries perhaps. The reason companies like Automattic and Google host blogs for free is that's how much it costs to host one a blog. It really is of no consequence.",
+                    "created": "Fri, 11 Oct 2019 13:13:10 GMT"
+                },
+                {
+                    "text": "You imagine that your blog is lonely and angry that you're not visiting, but that's  purely a figment of your imagination. The blog doesn't exist in any <a href=\"http://thesaurus.land/?word=corporeal\">corporeal</a> sense. It has no thoughts or feelings. I doesn't give a shit if you live or die, because it doesn't have an ego, it doesn't care about <i>anything. </i>",
+                    "created": "Fri, 11 Oct 2019 13:17:07 GMT"
+                },
+                {
+                    "text": "Think of creating a blog as you would think of writing on a page in a notepad. Or scribbling on the back of an envelope and handing it to someone. It takes two minutes at most to create a blog at <a href=\"https://wordpress.com/create-blog/\">wordpress.com</a>. And from then on, you have a \"place\" to post emails you that are post-worthy (I will tell you if they are). Then you can send me a link and I can put it on my linkblog page, and send it to my Twitter followers, and people who read me on RSS, and in the nightly email. It might be more flow than you'd get from posting it on Medium, for example. And if I asked you to post it, that's almost a guarantee that I will circulate the link.",
+                    "created": "Fri, 11 Oct 2019 13:18:10 GMT"
+                },
+                {
+                    "text": "I have created lots of one-off blogs and I'd do it again in a heartbeat, esp if it meant we could make the world a better place, or at least more informed. ",
+                    "created": "Fri, 11 Oct 2019 13:22:00 GMT"
+                }
+            ]
+        }
+    ]
+}
