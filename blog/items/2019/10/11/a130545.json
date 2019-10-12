@@ -1,0 +1,37 @@
+{
+    "text": "Blogs are little things",
+    "created": "Fri, 11 Oct 2019 13:05:45 GMT",
+    "type": "outline",
+    "description": "Think of creating a blog as you would think of writing on a page in a notepad. ",
+    "subs": [
+        {
+            "text": "I've had a long-term problem with comments on \"Scripting News\". If I have open comments then I have to moderate them. It helps to have clearly published <a href=\"http://guidelines.scripting.com/\">guidelines</a>, which I do, that eliminates most of the emotional reactions, but some still get through, and people can hold grudges for a long time. I don't like editing other people. I already do more of this kind of work than I want to. My goal is to get rid of all of it. ",
+            "created": "Fri, 11 Oct 2019 13:05:49 GMT"
+        },
+        {
+            "text": "When I first started out I had a pretty optimal system. The posts went out via email to small groups of subscribers. You could respond, and I would see your response and so would the others in your group. Sometimes interesting discussions would take place. For some reason very little flaming. I lurked. When someone wrote a piece I thought should get on the record, I'd forward it to an email address that was monitored by a script I wrote, which would then add it to the current <a href=\"http://scripting.com/mail/default.html\">mail page</a>. It wouldn't publish until I had a chance to hand-edit the text. It was work, and I remember not liking it, but there were some real classics among the mail page posts, so I did the work, for a couple of years. ",
+            "created": "Fri, 11 Oct 2019 13:07:48 GMT",
+            "image": "http://scripting.com/images/2017/09/26/colin.png"
+        },
+        {
+            "text": "I could re-implement the Mail Pages, but it's not something I want to do, and it would be harder today, given the way email worked then and now. It's gotten more complex. I also had a scriptable email app, <a href=\"https://en.wikipedia.org/wiki/Eudora_(email_client)\">Eurdora</a>, so I was able to write the whole thing in \"Frontier\" which was really good at driving scriptable Mac apps. ",
+            "created": "Fri, 11 Oct 2019 13:12:01 GMT"
+        },
+        {
+            "text": "Okay so now here we are in 2019, and I have an excellent use-case. I wrote a short <a href=\"http://scripting.com/2019/10/08.html#a140651\">piece</a> about Medicare, asking for input, and have gotten back some wonderful responses. One in particular was beautifully written, long, detailed and obviously based on a lot of experience. As I read such an email I ache a little. \"This should be on the web,\" I think to myself. Finally when I get to the end I respond with praise, and a request that they post it to their blog. I put it that way because 1. maybe they have a blog or 2. maybe this will get them to start one. But the most likely response is a story about how they have a blog, but haven't posted to it in a long time and they feel guilty, so presumably they don't want to go there for some reason? I don't really get it, because I know what a blog is, behind the scenes. It isn't a place. It's just a few files on a server, very small files, and a few database entries perhaps. The reason companies like Automattic and Google host blogs for free is that's how much it costs to host one a blog. It really is of no consequence.",
+            "created": "Fri, 11 Oct 2019 13:13:10 GMT"
+        },
+        {
+            "text": "You imagine that your blog is lonely and angry that you're not visiting, but that's  purely a figment of your imagination. The blog doesn't exist in any <a href=\"http://thesaurus.land/?word=corporeal\">corporeal</a> sense. It has no thoughts or feelings. I doesn't give a shit if you live or die, because it doesn't have an ego, it doesn't care about <i>anything. </i>",
+            "created": "Fri, 11 Oct 2019 13:17:07 GMT"
+        },
+        {
+            "text": "Think of creating a blog as you would think of writing on a page in a notepad. Or scribbling on the back of an envelope and handing it to someone. It takes two minutes at most to create a blog at <a href=\"https://wordpress.com/create-blog/\">wordpress.com</a>. And from then on, you have a \"place\" to post emails you that are post-worthy (I will tell you if they are). Then you can send me a link and I can put it on my linkblog page, and send it to my Twitter followers, and people who read me on RSS, and in the nightly email. It might be more flow than you'd get from posting it on Medium, for example. And if I asked you to post it, that's almost a guarantee that I will circulate the link.",
+            "created": "Fri, 11 Oct 2019 13:18:10 GMT"
+        },
+        {
+            "text": "I have created lots of one-off blogs and I'd do it again in a heartbeat, esp if it meant we could make the world a better place, or at least more informed. ",
+            "created": "Fri, 11 Oct 2019 13:22:00 GMT"
+        }
+    ]
+}
