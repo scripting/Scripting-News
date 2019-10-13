@@ -1,0 +1,109 @@
+{
+    "text": "October 12",
+    "created": "Sat, 12 Oct 2019 12:28:43 GMT",
+    "name": "12",
+    "subs": [
+        {
+            "text": "I didn’t like Elizabeth Warren's <a href=\"https://www.theguardian.com/us-news/2019/oct/11/elizabeth-warren-deadpan-quip-in-lgbt-debate-wins-plaudits\">bit about marriage</a>, even though I agree with the idea behind it, I don’t think presidents can put down people like that and not have it blow back on them, and us. Remember Obama’s <a href=\"https://www.youtube.com/watch?v=k8TwRmX6zs4\">roast</a> of Trump. I felt the same way about that. It was both funny and infuriating. And the <a href=\"https://en.wikipedia.org/wiki/Blowback\">blowback</a> has been epic. ",
+            "created": "Sat, 12 Oct 2019 12:57:44 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "New header graphic, <a href=\"http://scripting.com/images/2019/10/12/autumn.png\">autumn</a> in the mountains. Previous was a <a href=\"http://scripting.com/images/2019/08/21/kingKong.png\">scene</a> from King Kong. ",
+            "created": "Sat, 12 Oct 2019 19:45:09 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Status of State and Justice",
+            "created": "Sat, 12 Oct 2019 16:28:18 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Not only can Barr and Pompeo be impeached, they can also be indicted, tried, convicted and imprisoned. It has happened before to Nixon's Attorney General, <a href=\"https://en.wikipedia.org/wiki/John_N._Mitchell#Watergate_scandal\">John Mitchell</a>.",
+                    "created": "Sat, 12 Oct 2019 16:29:13 GMT"
+                },
+                {
+                    "text": "It's worth noting this because they know it too. ",
+                    "created": "Sat, 12 Oct 2019 16:28:38 GMT"
+                },
+                {
+                    "text": "Both are doubling-down on the obstruction. "
+                },
+                {
+                    "text": "And they have a lot of power. "
+                },
+                {
+                    "text": "However the <a href=\"https://www.vox.com/policy-and-politics/2019/10/10/20908731/rudy-giuliani-investigation-parnas-fruman\">SDNY investigation</a> of Giuliani says Barr isn't in complete control of DoJ yet. ",
+                    "created": "Sat, 12 Oct 2019 16:34:20 GMT"
+                },
+                {
+                    "text": "And people from State are giving public testimony.",
+                    "created": "Sat, 12 Oct 2019 16:28:41 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Running Unix apps in background",
+            "created": "Sat, 12 Oct 2019 14:02:57 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "For an application I'm developing I need to run it in the background, yet easily stop and relaunch it. So this is what I do. ",
+                    "created": "Sat, 12 Oct 2019 14:03:06 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "At the command line type <i>nohup node app.js &</i> and press Return. ",
+                            "created": "Sat, 12 Oct 2019 14:04:33 GMT"
+                        },
+                        {
+                            "text": "You can see the output of the app by pressing Ctl-C then <i>tail -f nohup.out</i>. It creates this file in the directory the app was run from.  ",
+                            "created": "Sat, 12 Oct 2019 14:16:07 GMT"
+                        },
+                        {
+                            "text": "To kill the node process and any other node processes it might have launched, enter <i>killall -i node</i>. The -i flag means that it will confirm before killing each process.  ",
+                            "created": "Sat, 12 Oct 2019 14:17:21 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "I put these notes in my blog so I can find them again, easily, and don't have to figure it out ever time. Also so people who know more than I do about this topic can tell me better ways to do this. :orange:",
+                    "created": "Sat, 12 Oct 2019 15:01:41 GMT"
+                },
+                {
+                    "text": "<i>As an experiment, I'm mirroring this post over <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/stories/2019/10/12/a140257.md\">on GitHub</a>.</i>",
+                    "created": "Sat, 12 Oct 2019 20:49:45 GMT"
+                }
+            ]
+        },
+        {
+            "text": "El Camino was unnecessary",
+            "created": "Sat, 12 Oct 2019 12:28:44 GMT",
+            "type": "outline",
+            "description": "There's a lot to be said for an edgy show like Breaking Bad leaving you at the edge.",
+            "subs": [
+                {
+                    "text": "Of course I watched <a href=\"https://www.metacritic.com/movie/el-camino-a-breaking-bad-movie\">El Camino</a>, the new Breaking Bad movie on <a href=\"https://www.netflix.com/title/81078819\">Netflix</a>. It wasn't really a movie or an episode of Breaking Bad. It was more like a few scenes from a Breaking Bad episode with brief appearances by many of the characters from the series, looking much older than they did at the end of the last episode (which aired six years ago).   ",
+                    "created": "Sat, 12 Oct 2019 12:28:54 GMT",
+                    "image": "http://scripting.com/images/2019/10/12/jessePinkman.png"
+                },
+                {
+                    "text": "It was a lot like the <a href=\"https://www.metacritic.com/tv/deadwood-the-movie\">Deadwood movie</a>, a series that was cut short and should have been allowed to finish. The real <a href=\"https://en.wikipedia.org/wiki/Deadwood,_South_Dakota#19th_century\">town</a> of Deadwood had a climax that was never part of the TV series. The movie was basically plotless, it was a series of cameos by the stars of the original series, the actors looking much older, in some cases not recognizable, saying a few things, not to be seen again. For a show that had such gravitas, was so daring and unprecedented, it was a kind of humiliation. Yet it got good reviews. I don't understand why.",
+                    "created": "Sat, 12 Oct 2019 12:29:13 GMT"
+                },
+                {
+                    "text": "Spoiler alert -- yes there are spoilers below. ",
+                    "created": "Sat, 12 Oct 2019 12:51:07 GMT"
+                },
+                {
+                    "text": "Nothing much happens in El Camino. As we know from the end of the series, the protagonist, Jesse Pinkman, survives and escapes. He hooks up with his old friends, remembers some scenes from the past, has to solve a problem, kills a few people and rides off into the sunset. ",
+                    "created": "Sat, 12 Oct 2019 12:31:22 GMT"
+                },
+                {
+                    "text": "Okay it was fun to watch, but I hoped for much more. If you loved Breaking Bad as I did, you should watch it. But all this show does, imho, is set the stage for yet another pointless encore. There's a lot to be said for an edgy show like Breaking Bad leaving you at the edge without telling you what happens next.  ",
+                    "created": "Sat, 12 Oct 2019 12:33:20 GMT"
+                }
+            ]
+        }
+    ]
+}
