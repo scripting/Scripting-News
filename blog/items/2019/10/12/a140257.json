@@ -1,0 +1,34 @@
+{
+    "text": "Running Unix apps in background",
+    "created": "Sat, 12 Oct 2019 14:02:57 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "For an application I'm developing I need to run it in the background, yet easily stop and relaunch it. So this is what I do. ",
+            "created": "Sat, 12 Oct 2019 14:03:06 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "At the command line type <i>nohup node app.js &</i> and press Return. ",
+                    "created": "Sat, 12 Oct 2019 14:04:33 GMT"
+                },
+                {
+                    "text": "You can see the output of the app by pressing Ctl-C then <i>tail -f nohup.out</i>. It creates this file in the directory the app was run from.  ",
+                    "created": "Sat, 12 Oct 2019 14:16:07 GMT"
+                },
+                {
+                    "text": "To kill the node process and any other node processes it might have launched, enter <i>killall -i node</i>. The -i flag means that it will confirm before killing each process.  ",
+                    "created": "Sat, 12 Oct 2019 14:17:21 GMT"
+                }
+            ]
+        },
+        {
+            "text": "I put these notes in my blog so I can find them again, easily, and don't have to figure it out ever time. Also so people who know more than I do about this topic can tell me better ways to do this. :orange:",
+            "created": "Sat, 12 Oct 2019 15:01:41 GMT"
+        },
+        {
+            "text": "<i>As an experiment, I'm mirroring this post over <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/stories/2019/10/12/a140257.md\">on GitHub</a>.</i>",
+            "created": "Sat, 12 Oct 2019 20:49:45 GMT"
+        }
+    ]
+}
