@@ -1,0 +1,38 @@
+{
+    "text": "Customized searching",
+    "created": "Mon, 14 Oct 2019 13:38:02 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I've been emailing with my old friend <a href=\"http://scripting.com/davenet/stories/IntroducingDaveCarlick.html\">Dave Carlick</a> about customized searching. I've also been <a href=\"http://scripting.com/2019/10/09/143957.html\">writing</a> about it here. I'm not sure I've made my point, but now I have an excellent example that might shed some light. Dave, take note.",
+            "created": "Mon, 14 Oct 2019 13:38:11 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "I just searched Google for <a href=\"https://www.google.com/search?q=\" old+school\"\"=\"\">Old School</a>.",
+                    "created": "Mon, 14 Oct 2019 13:38:55 GMT"
+                },
+                {
+                    "text": "It came back with pointers to a 2003 <a href=\"https://en.wikipedia.org/wiki/Old_School_(film)\">movie</a>. A Facebook <a href=\"https://www.facebook.com/OldSchoolMovie/\">group</a>. A <a href=\"https://www.merriam-webster.com/dictionary/old-school\">dictionary</a> definition. The <a href=\"https://www.urbandictionary.com/define.php?term=old%20school\">urban dictionary</a> version. And on and on.",
+                    "created": "Mon, 14 Oct 2019 13:39:11 GMT"
+                },
+                {
+                    "text": "But I have a product named <a href=\"https://github.com/scripting/oldSchoolBlog\">Old School</a>. I've written about it on my blog a <a href=\"https://www.google.com/search?q=site%3Ascripting.com+\" old+school\"\"=\"\">bunch</a> of times. If Google knew I was the author of this blog, it would also know that when I search for Old School, I want to see my product first, because in all likelihood that's what I'm looking for. ",
+                    "created": "Mon, 14 Oct 2019 13:40:25 GMT"
+                }
+            ]
+        },
+        {
+            "text": "That's what I mean about associating the searcher with the searcher's blog. Think of it as SEO for a person. ",
+            "created": "Mon, 14 Oct 2019 13:41:22 GMT"
+        },
+        {
+            "text": "PS: Here's another one. I just searched for Dave Carlick. Google asks if I <a href=\"http://scripting.com/images/2019/10/14/didIMeanCarlock.png\">meant</a> Dave Carlock. That's crazy. I've been friends with Dave Carlick for 30-plus years. If it read my blog it would know that. It's so wrong. In fact, if I type Carlock it should know I meant Carlick. ",
+            "created": "Mon, 14 Oct 2019 13:55:15 GMT"
+        },
+        {
+            "text": "PPS: Google is so crazy that when I <a href=\"https://www.google.com/search?q=Dave+Carlick+site%3Ascripting.com&rlz=1C5CHFA_enUS743US747&oq=Dave+Carlick+site%3Ascripting.com&aqs=chrome..69i57j69i64l2.1191j0j4&sourceid=chrome&ie=UTF-8\">restict the search</a> to my site, it still asks if I meant Carlock, even though there are references to Carlick <i>on the site I'm searching</i> going back to the <a href=\"http://scripting.com/davenet/stories/IntroducingDaveCarlick.html\">1990s</a>. And the only refs to <a href=\"https://www.google.com/search?safe=off&rlz=1C5CHFA_enUS743US747&sxsrf=ACYBGNTwZ7Hn9FWhmqTjXuOfyD9HmpV29Q:1571062782317&q=Dave+Carlock+site:scripting.com&spell=1&sa=X&ved=0ahUKEwif6Lz4-JvlAhXlmeAKHQcNByEQBQguKAA&biw=1390&bih=1182\">Carlock</a> are this post. That is just plain wrong. ",
+            "created": "Mon, 14 Oct 2019 13:58:45 GMT"
+        }
+    ]
+}
