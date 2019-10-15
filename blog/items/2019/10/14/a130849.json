@@ -1,0 +1,30 @@
+{
+    "text": "Stories on GitHub",
+    "created": "Mon, 14 Oct 2019 13:08:49 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Over the weekend I tried out an idea. It's a little Node app that runs on the same server as the <a href=\"https://github.com/scripting/oldSchoolBlog\">CMS</a> that builds this blog. Every minute it looks at today's posts, for those that have titles (like the post your'e reading now), it checks if it changed, and if so it renders it as Markdown and uploads it to GitHub in a <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog/stories/\">calendar-based structure</a>, along-side all the other <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog\">parts</a> of the blog I maintain automatically on GitHub.  I like using GitHub this way, I have a feeling it'd make a good shared object database.",
+            "created": "Mon, 14 Oct 2019 13:35:57 GMT",
+            "image": "http://scripting.com/images/2019/10/14/greenAcres.png"
+        },
+        {
+            "text": "I've been hand-generating links to the GitHub version to get you all thinking about this idea, like this. ",
+            "created": "Mon, 14 Oct 2019 13:32:30 GMT",
+            "subs": [
+                {
+                    "text": "<i>As an experiment this story is archived <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/stories/2019/10/14/a130849.md\">on GitHub</a>.</i>",
+                    "created": "Mon, 14 Oct 2019 02:30:55 GMT"
+                }
+            ]
+        },
+        {
+            "text": "I did this based on an assumption that I would be able to figure out a way to make it possible for any of my posts to become a sub-project on GitHub. I'm not saying any of them <i>would</i> become projects, only now it would be possible. I thought this might work well with the new <a href=\"http://scripting.com/email/\">email distribution system</a> which has stimulated so much discussion. ",
+            "created": "Mon, 14 Oct 2019 13:33:27 GMT"
+        },
+        {
+            "text": "I'm not sure how this is going to work, or if it will work, I'm just trying an idea out. :rocket:",
+            "created": "Mon, 14 Oct 2019 13:35:09 GMT"
+        }
+    ]
+}
