@@ -1,0 +1,87 @@
+{
+    "text": "October 14",
+    "created": "Mon, 14 Oct 2019 13:08:48 GMT",
+    "name": "14",
+    "subs": [
+        {
+            "text": "I figured out why the <a href=\"http://scripting.com/2019/10/12/122844.html\">Breaking Bad movie</a> is so unsatisfying. I watched it, I liked it, but it didn't get me excited and interested like the series did. I decided to re-watch the last season to see what the difference was. There are many great things about the show. The use of music, the weird camera shots that are integrated with the plot. It's artistically ecelectic in so many ways. But it's also <i>slow. </i>Things develop very very slowly. But there's no space in a 2-hour single-episode show to develop the puzzling intrigue of the series. No time to spread out, relax, take your time, go slow. So not much happens, and then it's over. It's not really Breaking Bad, it's a 2-hour movie with the characters of Breaking Bad. That was the same problem with the <a href=\"https://en.wikipedia.org/wiki/Deadwood:_The_Movie\">Deadwood movie</a>. The only thing that could work is another 10-episode season, played out over 10 weeks.  ",
+            "created": "Mon, 14 Oct 2019 15:48:49 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/10/14/heisenberg.png"
+        },
+        {
+            "text": "And Succession. It had one of the all-time great season finales last night. No spoilers here, except to point to a <a href=\"https://www.youtube.com/watch?v=fJ9E1eBLqWc\">video</a> that HBO produced that summarizes the deliciousness of the end, do not watch it if you haven't seen the whole season. It really would spoil it.  ",
+            "created": "Mon, 14 Oct 2019 16:07:28 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=fJ9E1eBLqWc"
+        },
+        {
+            "text": "Customized searching",
+            "created": "Mon, 14 Oct 2019 13:38:02 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I've been emailing with my old friend <a href=\"http://scripting.com/davenet/stories/IntroducingDaveCarlick.html\">Dave Carlick</a> about customized searching. I've also been <a href=\"http://scripting.com/2019/10/09/143957.html\">writing</a> about it here. I'm not sure I've made my point, but now I have an excellent example that might shed some light. Dave, take note.",
+                    "created": "Mon, 14 Oct 2019 13:38:11 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "I just searched Google for <a href=\"https://www.google.com/search?q=\" old+school\"\"=\"\">Old School</a>.",
+                            "created": "Mon, 14 Oct 2019 13:38:55 GMT"
+                        },
+                        {
+                            "text": "It came back with pointers to a 2003 <a href=\"https://en.wikipedia.org/wiki/Old_School_(film)\">movie</a>. A Facebook <a href=\"https://www.facebook.com/OldSchoolMovie/\">group</a>. A <a href=\"https://www.merriam-webster.com/dictionary/old-school\">dictionary</a> definition. The <a href=\"https://www.urbandictionary.com/define.php?term=old%20school\">urban dictionary</a> version. And on and on.",
+                            "created": "Mon, 14 Oct 2019 13:39:11 GMT"
+                        },
+                        {
+                            "text": "But I have a product named <a href=\"https://github.com/scripting/oldSchoolBlog\">Old School</a>. I've written about it on my blog a <a href=\"https://www.google.com/search?q=site%3Ascripting.com+\" old+school\"\"=\"\">bunch</a> of times. If Google knew I was the author of this blog, it would also know that when I search for Old School, I want to see my product first, because in all likelihood that's what I'm looking for. ",
+                            "created": "Mon, 14 Oct 2019 13:40:25 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "That's what I mean about associating the searcher with the searcher's blog. Think of it as SEO for a person. ",
+                    "created": "Mon, 14 Oct 2019 13:41:22 GMT"
+                },
+                {
+                    "text": "PS: Here's another one. I just searched for Dave Carlick. Google asks if I <a href=\"http://scripting.com/images/2019/10/14/didIMeanCarlock.png\">meant</a> Dave Carlock. That's crazy. I've been friends with Dave Carlick for 30-plus years. If it read my blog it would know that. It's so wrong. In fact, if I type Carlock it should know I meant Carlick. ",
+                    "created": "Mon, 14 Oct 2019 13:55:15 GMT"
+                },
+                {
+                    "text": "PPS: Google is so crazy that when I <a href=\"https://www.google.com/search?q=Dave+Carlick+site%3Ascripting.com&rlz=1C5CHFA_enUS743US747&oq=Dave+Carlick+site%3Ascripting.com&aqs=chrome..69i57j69i64l2.1191j0j4&sourceid=chrome&ie=UTF-8\">restict the search</a> to my site, it still asks if I meant Carlock, even though there are references to Carlick <i>on the site I'm searching</i> going back to the <a href=\"http://scripting.com/davenet/stories/IntroducingDaveCarlick.html\">1990s</a>. And the only refs to <a href=\"https://www.google.com/search?safe=off&rlz=1C5CHFA_enUS743US747&sxsrf=ACYBGNTwZ7Hn9FWhmqTjXuOfyD9HmpV29Q:1571062782317&q=Dave+Carlock+site:scripting.com&spell=1&sa=X&ved=0ahUKEwif6Lz4-JvlAhXlmeAKHQcNByEQBQguKAA&biw=1390&bih=1182\">Carlock</a> are this post. That is just plain wrong. ",
+                    "created": "Mon, 14 Oct 2019 13:58:45 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Stories on GitHub",
+            "created": "Mon, 14 Oct 2019 13:08:49 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Over the weekend I tried out an idea. It's a little Node app that runs on the same server as the <a href=\"https://github.com/scripting/oldSchoolBlog\">CMS</a> that builds this blog. Every minute it looks at today's posts, for those that have titles (like the post your'e reading now), it checks if it changed, and if so it renders it as Markdown and uploads it to GitHub in a <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog/stories/\">calendar-based structure</a>, along-side all the other <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog\">parts</a> of the blog I maintain automatically on GitHub.  I like using GitHub this way, I have a feeling it'd make a good shared object database.",
+                    "created": "Mon, 14 Oct 2019 13:35:57 GMT",
+                    "image": "http://scripting.com/images/2019/10/14/greenAcres.png"
+                },
+                {
+                    "text": "I've been hand-generating links to the GitHub version to get you all thinking about this idea, like this. ",
+                    "created": "Mon, 14 Oct 2019 13:32:30 GMT",
+                    "subs": [
+                        {
+                            "text": "<i>As an experiment this story is archived <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/stories/2019/10/14/a130849.md\">on GitHub</a>.</i>",
+                            "created": "Mon, 14 Oct 2019 02:30:55 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "I did this based on an assumption that I would be able to figure out a way to make it possible for any of my posts to become a sub-project on GitHub. I'm not saying any of them <i>would</i> become projects, only now it would be possible. I thought this might work well with the new <a href=\"http://scripting.com/email/\">email distribution system</a> which has stimulated so much discussion. ",
+                    "created": "Mon, 14 Oct 2019 13:33:27 GMT"
+                },
+                {
+                    "text": "I'm not sure how this is going to work, or if it will work, I'm just trying an idea out. :rocket:",
+                    "created": "Mon, 14 Oct 2019 13:35:09 GMT"
+                }
+            ]
+        }
+    ]
+}
