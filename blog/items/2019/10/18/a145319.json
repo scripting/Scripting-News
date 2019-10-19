@@ -1,0 +1,42 @@
+{
+    "text": "Using git for code distribution",
+    "created": "Fri, 18 Oct 2019 14:53:19 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I'm working on a project using <a href=\"https://github.com/steveukx/git-js#readme\">simple-git</a> in Node, and have what I think should be a simple application, not sure how to do it. ",
+            "created": "Fri, 18 Oct 2019 14:53:27 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "I have a local called myAppFolder containing the source for an application. Various JavaScript files, a package.json, folders for user data and stats. ",
+                    "created": "Fri, 18 Oct 2019 14:54:27 GMT"
+                },
+                {
+                    "text": "A location on GitHub, a <a href=\"https://github.com/scripting/test2\">repo</a> called test2 with a <a href=\"https://github.com/scripting/test2/tree/master/helloworld\">folder</a> whose path is helloworld/ that is meant to have the most up to date version of the files from the location on GitHub. ",
+                    "created": "Fri, 18 Oct 2019 14:55:41 GMT"
+                },
+                {
+                    "text": "It's a one-way sync, from the server to the local folder. ",
+                    "created": "Fri, 18 Oct 2019 15:18:46 GMT"
+                }
+            ]
+        },
+        {
+            "text": "I have <a href=\"https://gist.github.com/scripting/397be0cf030bc3709eb73f3deb6f5912\">code</a> that clones the repo, but that gets a copy of everything in the repo. ",
+            "created": "Fri, 18 Oct 2019 15:10:46 GMT"
+        },
+        {
+            "text": "I just need to keep up to date with one folder. ",
+            "created": "Fri, 18 Oct 2019 15:19:08 GMT"
+        },
+        {
+            "text": "Any help much appreciated.",
+            "created": "Fri, 18 Oct 2019 15:14:55 GMT"
+        },
+        {
+            "text": "PS: I opened this as an <a href=\"https://github.com/steveukx/git-js/issues/403\">issue</a> on the simple-get repo. ",
+            "created": "Fri, 18 Oct 2019 15:25:26 GMT"
+        }
+    ]
+}
