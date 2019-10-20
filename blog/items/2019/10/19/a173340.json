@@ -1,0 +1,38 @@
+{
+    "text": "Dropbox not working (for me)",
+    "created": "Sat, 19 Oct 2019 17:33:40 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Most of the time Dropbox works, but today, sometime just after 11AM Eastern, it got flaky and basically stopped working. Usually it's something I did, so I started checking things out. ",
+            "created": "Sat, 19 Oct 2019 17:33:47 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "I have two accounts, neither is close to out of space. One is using 178.85 GB of 2.1 TB. The other is using 11.68 GB of 2 TB.",
+                    "created": "Sat, 19 Oct 2019 17:34:50 GMT"
+                },
+                {
+                    "text": "I thought perhaps my desktop computer wasn't synching. I tried creating a folder, and it took a very long time for it to show up in the dropbox.com file browser, but it did eventually show up. But it does not show up on the server it's intended for.",
+                    "created": "Sat, 19 Oct 2019 17:35:40 GMT"
+                },
+                {
+                    "text": "My desktop computer says it's been synching for a couple of hours. That's when I started looking. Maybe it was going on a lot longer. I don't know. ",
+                    "created": "Sat, 19 Oct 2019 17:36:39 GMT"
+                },
+                {
+                    "text": "The way I first experienced the outage is that updates to the app I'm working on stopped appearing on the server. Before that I was making changes, and they'd take the usual amount of time, a few seconds, to appear on the server.",
+                    "created": "Sat, 19 Oct 2019 17:37:56 GMT"
+                },
+                {
+                    "text": "I checked their <a href=\"https://status.dropbox.com/\">status page</a>, and it says everything is good. I looked at the Dropbox support <a href=\"https://twitter.com/DropboxSupport\">account</a> on Twitter, it says it's closed until Monday.",
+                    "created": "Sat, 19 Oct 2019 17:38:58 GMT"
+                }
+            ]
+        },
+        {
+            "text": "I'm kind of stuck. No idea what the problem is. Is it my problem? How can I tell. It doesn't seem like it, because if it were, all my desktop computers and servers would have to be experiencing the same problem. It could happen. But it doesn't seem likely.",
+            "created": "Sat, 19 Oct 2019 17:41:42 GMT"
+        }
+    ]
+}
