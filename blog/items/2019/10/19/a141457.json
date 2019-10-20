@@ -1,0 +1,49 @@
+{
+    "text": "Git-based code sync",
+    "created": "Sat, 19 Oct 2019 14:14:57 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Yesterday I posted a <a href=\"http://scripting.com/2019/10/18/145319.html\">query</a> about using git for code distribution. This was a new idea for me. In the past I've done it lots of different ways.  ",
+            "created": "Sat, 19 Oct 2019 14:15:01 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "<a href=\"http://scripting.com/fatpages/about.html\">Fat pages</a>.",
+                    "created": "Sat, 19 Oct 2019 14:15:55 GMT"
+                },
+                {
+                    "text": "RSS feeds, <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+codecasting&t=h_&ia=web\">aka</a> <a href=\"http://scripting.com/stories/2007/02/16/whatIsCodecasting.html\">codecasting</a>.",
+                    "created": "Sat, 19 Oct 2019 14:16:00 GMT"
+                },
+                {
+                    "text": "One-way sync with an S3 location.",
+                    "created": "Sat, 19 Oct 2019 14:16:16 GMT"
+                }
+            ]
+        },
+        {
+            "text": "They all work well and scale since they're static. I did one method that wasn't static, using XML-RPC. That method had problems as the installed base of Frontier grew. Static distribution is the way to go. ",
+            "created": "Sat, 19 Oct 2019 14:16:36 GMT"
+        },
+        {
+            "text": "As I waited for a response to the <a href=\"http://scripting.com/2019/10/18/145319.html\">query</a> about folder-level sync with a git repository, I went ahead with the brute force method, which works as follows.",
+            "created": "Sat, 19 Oct 2019 14:17:50 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "When it's time to sync, first we clone the whole repo into a temp folder. Then compare the destination folder with the sub-folder of the downloaded repo, copy the new or changed files. Then delete the temporary repo.",
+                    "created": "Sat, 19 Oct 2019 14:18:28 GMT"
+                },
+                {
+                    "text": "The assumption is that the repo is relatively small. We burn a bit of bandwidth and temporary disk space. And the job gets done. ",
+                    "created": "Sat, 19 Oct 2019 14:19:50 GMT"
+                }
+            ]
+        },
+        {
+            "text": "The overall system I'm working on will also support one-way sync with an S3 location and perhaps RSS-based delivery later. But right now having git-based distribution working, I can proceed. ",
+            "created": "Sat, 19 Oct 2019 14:20:19 GMT"
+        }
+    ]
+}
