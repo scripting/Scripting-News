@@ -1,0 +1,5 @@
+{
+    "text": "<a href=\"https://twitter.com/bump\">Robert Occhialini</a> is restoring his old blog and <a href=\"https://twitter.com/bump/status/1189179783722217473\">reports</a> that one of the only links from November 1997 that still works is the old <a href=\"http://scripting.com/frontier/olddefault.html\">Frontier home page</a>. That was a good page, a lot of love was poured into it. But there was a broken image, I was immediately sure of the cause. The original server, a Mac, had unicase filenames. It's now hosted on S3 which has case-sensitive file names. So what worked when it was originally posted, now is broken, when served through S3. I guess it must be hard or impossible for S3 to offer unicase for HTTP requests. ",
+    "created": "Tue, 29 Oct 2019 14:52:18 GMT",
+    "type": "outline"
+}
