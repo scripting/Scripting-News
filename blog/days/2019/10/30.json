@@ -1,0 +1,135 @@
+{
+    "text": "October 30",
+    "created": "Wed, 30 Oct 2019 13:06:11 GMT",
+    "name": "30",
+    "subs": [
+        {
+            "text": "Read this <a href=\"https://twitter.com/cwarzel/status/1189240745309421574\">thrilling comment</a> from <a href=\"https://twitter.com/cwarzel\">Charlie Warzel</a> who according to his profile writes for the NY Times. He says \"there's almost no space for writing anymore that's joyful or an attempt to be creative. hardly anyone is playing around with form or even just trying to entertain. so much of the joy has been sucked out of the internet unless its crowdsourced by platforms from ppl who aren't paid.\"  The last three words in his comment are the point. Writing isn't something you necessarily get paid to do. I used to write advertising, and would have to pay thousands of dollars to have it run. It was still writing. Now I write because I like it. ",
+            "created": "Wed, 30 Oct 2019 15:09:25 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/10/09/gilligan.png"
+        },
+        {
+            "text": "<a href=\"https://www.facebook.com/dan.conover.714/posts/10218726118997790\">Dan Conover</a>: \"Putin is funneling cash through Ukrainian organized crime to support Trump's reelection, fund Republican candidates, undermine US intelligence, and direct US foreign policy in Ukraine. The evidence is in the public domain and can be cited strictly through official documents and reputable news outlets.\" ",
+            "created": "Wed, 30 Oct 2019 16:07:13 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Brent Simmons wrote <a href=\"https://inessential.com/2019/10/28/no_etas\">recently</a> about how he can't say when a certain feature will be available with any accuracy so he doesn't try. I agree with what he said, but you can do it, by keeping a backlog of unreleased debugged features. If you use the feature yourself every day and it works well, you can probably estimate when it will ship to users, because you could do it tomorrow if you wanted (or at least start testing it). This is a weird idea in the old way of doing software, where people always release what they have as soon as they have it. A number of years ago I stopped doing that. I have a backlog of debugged usable stuff that only I have used. So if I announced a feature from the backlog I could definitely predict when it would be available. ",
+            "created": "Wed, 30 Oct 2019 15:03:03 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Yesterday I was <a href=\"http://scripting.com/2019/10/29.html#a140306\">saying</a> how weird it is to see podcasts be so pervasive. Here's another example. The NY Post has a <a href=\"https://nypost.com/2019/10/29/charles-oakley-sounds-ready-to-re-enter-the-knicks-fold/\">Knicks podcast</a>. I will probably listen, from time to time. Today's podcast is with Charles Oakley, a former Knick and fan favorite, who is <a href=\"https://duckduckgo.com/?q=charles+oakley+james+dolan&t=h_&ia=web\">hated</a> by James Dolan, which of course makes him even more popular with Knicks fans. He says the Knicks can prove Kevin Durant wrong. Of course they can. The Nets stars need to learn about <a href=\"https://duckduckgo.com/?q=managing+expectations&t=h_&ia=web\">managing expectations</a>. If the Knicks show up and don't fall apart on the court they will have exceeded the bullshit hype of the Nets stars, both of them great players but probably not in NY after what they've said about the Knicks. ",
+            "created": "Wed, 30 Oct 2019 14:57:43 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Something I consistently forget, <a href=\"http://scripting.com/images/2019/10/30/dateComparisonJavaScript.png\">date comparison</a> in JavaScript doesn't work. Date objects are alway unequal, even if they represent the same actual date. Convert the objects to numbers and compare those instead: d1.getTime () == d2.getTime (). ",
+            "created": "Wed, 30 Oct 2019 17:10:06 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Positioning Tulsi",
+            "created": "Wed, 30 Oct 2019 17:38:06 GMT",
+            "type": "outline",
+            "description": "If you like Trump, vote for Trump. Don't waste your vote on Tulsi. ",
+            "subs": [
+                {
+                    "text": "Okay Tulsi is going to do a third party run.",
+                    "created": "Wed, 30 Oct 2019 17:38:15 GMT",
+                    "image": "http://scripting.com/images/2018/03/20/trump.png"
+                },
+                {
+                    "text": "No one knows who or what she is. ",
+                    "created": "Wed, 30 Oct 2019 17:52:57 GMT"
+                },
+                {
+                    "text": "So before she has a chance to position herself, do it for her. That's straight out of the Repub playbook and it's smart.",
+                    "created": "Wed, 30 Oct 2019 17:38:22 GMT"
+                },
+                {
+                    "text": "Make it so she takes votes away from Trump not the Demo.",
+                    "created": "Wed, 30 Oct 2019 17:38:43 GMT"
+                },
+                {
+                    "text": "Something like this.",
+                    "created": "Wed, 30 Oct 2019 17:38:44 GMT"
+                },
+                {
+                    "text": "<i>If you like Trump, vote for Trump. Don't waste your vote on Tulsi. </i>",
+                    "created": "Wed, 30 Oct 2019 17:38:46 GMT"
+                },
+                {
+                    "text": "That would do it. "
+                },
+                {
+                    "text": "Blast that message everywhere. "
+                },
+                {
+                    "text": "$1 million spent today is worth $100 million after she finishes positioning herself.",
+                    "created": "Wed, 30 Oct 2019 17:38:55 GMT"
+                },
+                {
+                    "text": "PS: If you haven't read about <a href=\"https://en.wikipedia.org/wiki/Positioning_(marketing)\">positioning</a> you should. It's logical and fun, and explains a lot about how products work in the human mind. It's Marketing 101.",
+                    "created": "Wed, 30 Oct 2019 17:38:56 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Trumpers going under the bus",
+            "created": "Wed, 30 Oct 2019 14:14:44 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "These are <a href=\"https://twitter.com/davewiner/status/1189546130956324864\">the Trumpers</a> who imho are going under the bus.",
+                    "created": "Wed, 30 Oct 2019 14:14:51 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Mike Pence.",
+                            "created": "Wed, 30 Oct 2019 14:15:05 GMT"
+                        },
+                        {
+                            "text": "Mick Mulvaney.",
+                            "created": "Wed, 30 Oct 2019 14:15:10 GMT"
+                        },
+                        {
+                            "text": "Rick Perry.",
+                            "created": "Wed, 30 Oct 2019 14:15:14 GMT"
+                        },
+                        {
+                            "text": "Mitch McConnell (aka <a href=\"https://twitter.com/hashtag/moscowmitch?src=hashtag_click\">#moscowmitch</a>).",
+                            "created": "Wed, 30 Oct 2019 14:15:18 GMT"
+                        },
+                        {
+                            "text": "Rudy Giuliani and all his cohorts.",
+                            "created": "Wed, 30 Oct 2019 14:15:21 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "And..?",
+                    "created": "Wed, 30 Oct 2019 14:15:42 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Morning dream notes",
+            "created": "Wed, 30 Oct 2019 14:52:41 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Dreams are so funny. One of my recurring dreams all through my life is not being able to find my way home. I'd start going there, but realize I wasn't getting anywhere. It would go on and on, and I'd never get there. Well last night I had a weird variant on that. I was still trying to get home. I had parked my car somewhere, and was trying to get there, so I could begin my journey, but first I had to call my mother. I couldn't find the phone feature on my <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+iphone&t=h_&ia=web\">iPhone</a>. I'd keep navigating through the menus thinking I was on the way to the phone, but I'd get lost and have to start over. It seems my subconscious has completely absorbed the UI of computers as reality. And even though I'm an adult and my mother is gone, I still feel the need to call her. And of course all this is going on inside me even when I'm wide awake. :boom:",
+                    "created": "Wed, 30 Oct 2019 13:06:12 GMT",
+                    "image": "http://scripting.com/2015/06/24/davescoffee.png"
+                },
+                {
+                    "text": "Also in my dreams last night, since I'm on the topic, <a href=\"https://en.wikipedia.org/wiki/Craig_Newmark\">Craig Newmark</a> was partying. Dancing, telling jokes, introducing people to other people, being <a href=\"http://thesaurus.land/?word=gregarious\">gregarious</a>. I was surprised because this is out of character for him. He's a very nice, considerate person, in real life. But he seems a bit reserved. I find him hard to read. I've known him since the early days of the web in the Bay Area. I defended him when the press took what I felt were unfair <a href=\"https://duckduckgo.com/?q=%22craigslist+killer%22&t=h_&ia=web\">shots</a>, taking advantage of the fact that his product had his name in it, blaming him personally for the demise of print news. Ridiculous. So, I was happy to see Craig let go in my dreams. I sometimes say things that might have offended him, but he's never complained. Once I remarked, riding in the back seat of a car with him next to me that it was like being in a car with <a href=\"https://en.wikipedia.org/wiki/Aunt_Jemima\">Aunt Jemima</a>. I had gotten the idea from <a href=\"https://en.wikipedia.org/wiki/Peter_Norton\">Peter Norton</a>, who like Craig, had personally become a famous brand. He once said he was the Aunt Jemima of software. I thought that was clever. But of course Craig may not see it the same way. I tend to do that, take risks, I probably offend people from time to time, not meaning to, I assure you. I'm nowhere near as rich as Craig. Maybe that's why? :smile:",
+                    "created": "Wed, 30 Oct 2019 13:13:29 GMT",
+                    "image": "http://scripting.com/images/2019/10/30/craigNewmark.png"
+                }
+            ]
+        }
+    ]
+}
