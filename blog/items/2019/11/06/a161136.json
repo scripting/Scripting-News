@@ -1,0 +1,7 @@
+{
+    "text": "I have a bit of time to kill today, and I thought I'd try to get to the bottom of some weird behavior in the JS code for this blog. This item has an attached image that is revealed when you click the wedge next to the item. The second time you expand it, when it's revealed it happens very slowly, and it opens from the top and left, with a scrolling effect that I now find annoying. It doesn't do it the first time. I must have made it do this originally, but I don't remember how, and I can't seem to find the code. I'm going to keep looking. (Update: I was able to turn it off by setting the <a href=\"https://www.w3schools.com/jquery/jquery_slide.asp\">params</a> to slideUp and slideDown to 0. Still not sure why it was doing it for this data type, and not for others.) :boom:",
+    "created": "Wed, 06 Nov 2019 16:11:36 GMT",
+    "type": "outline",
+    "urlexpandableimage": "http://scripting.com/images/2019/11/06/madMagazineCover.png",
+    "image": "http://scripting.com/images/2019/11/06/whatMeWorry.png"
+}
