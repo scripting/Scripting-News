@@ -1,0 +1,72 @@
+{
+    "text": "November 6",
+    "created": "Wed, 06 Nov 2019 12:48:41 GMT",
+    "name": "06",
+    "subs": [
+        {
+            "text": "<a href=\"http://scripting.com/images/2019/11/06/earthrise.png\">Something</a> our parents' generation did, which inspired some boomers to try to do something great with their lives.",
+            "created": "Wed, 06 Nov 2019 16:51:12 GMT",
+            "type": "outline",
+            "urlexpandableimage": "http://scripting.com/images/2019/11/06/earthrise.png"
+        },
+        {
+            "text": "Today's young people practice <a href=\"https://duckduckgo.com/?q=active+shooter+drills&t=h_&ia=web\">drills</a> to protect themselves from active shooters. Boomers learned to <a href=\"https://en.wikipedia.org/wiki/Duck_and_cover\">duck and cover</a>.",
+            "created": "Wed, 06 Nov 2019 16:53:31 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I was asked by an old friend what I think about lies in Facebook political ads. \"I think pragmatically that Zuck is caught between people who lie about the truth, that in most things there is no such thing as the truth, and all politicians lie, and we accept that, and only an asshole would try to impose rules on FB that they aren't willing to impose on themselves.\" I did a <a href=\"https://twitter.com/davewiner/status/1191370393745051650\">Twitter poll</a> that was kind of an editorial. ",
+            "created": "Wed, 06 Nov 2019 16:41:22 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Hillary Clinton is so relaxed, <a href=\"https://twitter.com/latelateshow/status/1191957918305927168\">she says</a> of Rudy Giuliani. \"It's almost as if aliens have seized his brain.\" ",
+            "created": "Wed, 06 Nov 2019 15:54:39 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/latelateshow/status/1191957918305927168"
+        },
+        {
+            "text": "I have always despised this <a href=\"http://scripting.com/images/2019/11/06/cartoonFullSize.png\">xkcd cartoon</a>. I understand what the <a href=\"https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution\">First Amendment</a> says, I didn't need a cartoon to explain it. People send you this to remind you that your big mouth could cost you your job, and over time a lot more, as the social mob learned how to cancel people in bigger ways. Is that something to be proud of? That you're so intolerant of other views that your reaction is to punish people for expressing them. I remember when the social mob learned that an <a href=\"https://en.wikipedia.org/wiki/Brendan_Eich#Mozilla\">exec</a> at a tech company had given money to a support a ballot measure that would deny same-sex couples the right to marry. He lost his job. I get it -- you had the right to do it. But that <a href=\"http://scripting.com/2014/04/03/politicsNecessarilyCreatesDivisions.html\">doesn't</a> make it right. I don't care one way or the other if you agree or disagree. But one of the great traditions of our country, that is <i>not</i> part of the Constitution, is that we celebrate diversity. We listen, and give other ideas a chance to penetrate our view of the world. We have some flexibility. We could change our mind. As we grow older we strive to learn. So while it's not in the Constitution to listen and respect our differences, imho it is in our DNA. ",
+            "created": "Wed, 06 Nov 2019 13:02:59 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/05/30/elephant.png"
+        },
+        {
+            "text": "<a href=\"http://scripting.com/2014/04/03/politicsNecessarilyCreatesDivisions.html\">2014</a>: \"Will you have to know the politics of every person you do business with? What if your barber gave to a cause you don't support? Your doctor? How close a relationship does it have to be for their politics to be approved by whoever you look to approval for?\"",
+            "created": "Wed, 06 Nov 2019 13:28:07 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I have a bit of time to kill today, and I thought I'd try to get to the bottom of some weird behavior in the JS code for this blog. This item has an attached image that is revealed when you click the wedge next to the item. The second time you expand it, when it's revealed it happens very slowly, and it opens from the top and left, with a scrolling effect that I now find annoying. It doesn't do it the first time. I must have made it do this originally, but I don't remember how, and I can't seem to find the code. I'm going to keep looking. (Update: I was able to turn it off by setting the <a href=\"https://www.w3schools.com/jquery/jquery_slide.asp\">params</a> to slideUp and slideDown to 0. Still not sure why it was doing it for this data type, and not for others.) :boom:",
+            "created": "Wed, 06 Nov 2019 16:11:36 GMT",
+            "type": "outline",
+            "urlexpandableimage": "http://scripting.com/images/2019/11/06/madMagazineCover.png",
+            "image": "http://scripting.com/images/2019/11/06/whatMeWorry.png"
+        },
+        {
+            "text": "Blame evolution",
+            "created": "Wed, 06 Nov 2019 13:00:45 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "You want to know what's to blame for all our ills? ",
+                    "created": "Wed, 06 Nov 2019 13:00:59 GMT"
+                },
+                {
+                    "text": "Evolution. ",
+                    "created": "Wed, 06 Nov 2019 13:01:14 GMT"
+                },
+                {
+                    "text": "It got us to a place where nothing about us makes any sense. ",
+                    "created": "Wed, 06 Nov 2019 13:01:33 GMT"
+                },
+                {
+                    "text": "We evolved to survive in a world that no longer exists."
+                },
+                {
+                    "text": "If you think one generation did that to us, you're not very smart imho."
+                }
+            ]
+        }
+    ]
+}
