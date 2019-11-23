@@ -1,0 +1,36 @@
+{
+    "text": "November 22",
+    "created": "Fri, 22 Nov 2019 14:46:26 GMT",
+    "name": "22",
+    "subs": [
+        {
+            "text": "I just had a freaking nightmarish development experience. I was moving an app on a server, and the address of the server was hard-coded in an Electron app I use. I figured when it changed, I could just edit the source and rebuild. I know everything should be an option, but this was just for me. But when I rebuilt it, Electron would have <i>none</i> of it. So much deprecation. So I ended up on a trail of tears having to update one thing after another, and they all refused to work with something else that had just changed. Platform developers, stability is something we should rate you on and you should get paid accordingly. Typically it's highly paid developers at BigCo's who feel entitled to pull the rugs out from under our apps and tear up the pavement just for the hell of it. Oy oy. Two oys. But shit I'm good at taking the punches, and now it's running. Whew. Back to work on fun stuff. ",
+            "created": "Fri, 22 Nov 2019 18:38:27 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/10/14/heisenberg.png"
+        },
+        {
+            "text": "People should simply use their names in the space where you put your name in a tweet. After a couple of years of playing with it, I find it's confusing to put messages there. An example.  <a href=\"https://twitter.com/dweinberger\">David Weinberger</a> is someone I would read every <a href=\"http://scripting.com/images/2019/11/22/tweetexample.png\">tweet</a> of, but sometimes miss because he's endlessly creative with his twitter name. I believe this is called <a href=\"https://www.teachingenglish.org.uk/article/cognitive-overload\">cognitive overload</a>. My brain screams \"too much\" and I move on to the next tweet.",
+            "created": "Fri, 22 Nov 2019 15:07:54 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I'm glad we don't have hearings today, allows us all to start catching up on what we have been ignoring. ",
+            "created": "Fri, 22 Nov 2019 14:46:27 GMT",
+            "type": "tweet",
+            "tweetId": "1197889200181387266",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "Many of the comments I receive via email should be blog posts in their own right. But keep them coming. We'll figure out how to thread this needle. ",
+            "created": "Fri, 22 Nov 2019 14:48:47 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "A long time ago I was having lunch with someone I thought was a friend. He told a story about how he tried to buy \"Radio UserLand\", a product I developed, from the company that owned it. I guess at the time he didn't know that I still owned a majority share of the company. The people who were running it never brought the idea to me. I asked why he didn't just try to work with me. I would have totally been open to the idea. He explained he wanted to own it. I've seen this happen over and over. People who build careers with products that are copies of stuff I had already done. I keep wondering why we couldn't work together. They do it in other creative fields. I just got caught up with <a href=\"https://en.wikipedia.org/wiki/Mr._Robot\">Mr Robot</a>. I picked the right moment to do it. <a href=\"https://duckduckgo.com/?q=rm+robot+season+4+episode+7&t=h_&ia=web\">S04 E07</a> was a total masterpeice and a big reveal. Look at all the talent that had to come together to make that happen. <a href=\"https://tracks.ranea.org/post/35606102112/mistitled-andrew-singer-rip\">Andrew Singer</a> a former colleague said once that in tech we don't stand on the shoulders of giants, we stand on their toes. It's so sad. I know at some point we will work out collaboration. We have to. ",
+            "created": "Fri, 22 Nov 2019 15:09:38 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/12/23/santa.png"
+        }
+    ]
+}
