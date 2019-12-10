@@ -1,0 +1,38 @@
+{
+    "text": "Hidden files in PagePark",
+    "created": "Mon, 09 Dec 2019 17:16:13 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "\"PagePark\" is becoming a serious web server. Just wanted to say that. The docs make it sound like a one-off hack for easily hosting parked domains. It was that, at the start, about five years ago. Over time I've been adding features, and trying to keep the <a href=\"https://github.com/scripting/pagePark/blob/master/pagepark.js\">code</a> readable and the <a href=\"https://github.com/scripting/pagePark/blob/master/docs/config.md\">docs</a> up to date. ",
+            "created": "Mon, 09 Dec 2019 17:16:34 GMT",
+            "image": "http://scripting.com/images/2019/03/20/tryHarder.png"
+        },
+        {
+            "text": "Today's problem -- hidden files and folders.",
+            "created": "Mon, 09 Dec 2019 17:17:29 GMT"
+        },
+        {
+            "text": "The idea is to be able to put data, scripts, development notes for a site with the site itself. When you're managing as many domains as I am, economies like that may prevent things from getting lost, or having version mismatches. At the same time, I want control over what people will see. ",
+            "created": "Mon, 09 Dec 2019 17:17:58 GMT"
+        },
+        {
+            "text": "My first plan was to use . as Apache and nginx do. I implemented it and started to set up a test case, and found immediately why this wouldn't work. <a href=\"http://scripting.com/images/2019/12/09/macErrorMessage.png\">Mac OS</a>, which I use on my primary machine, uses a . at the beginning of a file name to hide a file or folder. I know I can create such files with a script or at the command line, but the point is to be able to hide stuff from web users that I can see myself. ",
+            "created": "Mon, 09 Dec 2019 17:18:05 GMT"
+        },
+        {
+            "text": "Next I went with # as the special character. It's what we used in Frontier's <a href=\"http://frontier.userland.com/stories/storyReader$1006\">website framework</a>. But when I tried to test it the browser chops off everything after the # which is awkward. ",
+            "created": "Mon, 09 Dec 2019 17:21:02 GMT"
+        },
+        {
+            "text": "Then Philip Borenstein <a href=\"https://twitter.com/pborenstein/status/1204076780191191041\">said</a> that Jekyll and other static site generators use underscore to indicate a hidden file or folder. I'm guessing that will work because they had to fit in with both browsers and operating systems, as PagePark does. I'm going to go with that for a bit and see if I'm happy with the way it goes. Respecting <a href=\"http://essaysfromexodus.scripting.com/priorArtDesignMethod\">prior art</a> is always a good idea. ",
+            "created": "Mon, 09 Dec 2019 17:21:35 GMT"
+        },
+        {
+            "text": "All this started with a <a href=\"https://twitter.com/davewiner/status/1204059284662837251\">developer poll</a>.",
+            "created": "Mon, 09 Dec 2019 15:28:39 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1204059284662837251"
+        }
+    ]
+}
