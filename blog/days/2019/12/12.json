@@ -1,0 +1,63 @@
+{
+    "text": "December 12",
+    "created": "Thu, 12 Dec 2019 13:49:56 GMT",
+    "name": "12",
+    "subs": [
+        {
+            "text": "I've had a chance to think more about Twitter's surprising <a href=\"https://twitter.com/jack/status/1204766078468911106\">proposal</a> to come up with a web standard that turns Twitter into a protocol. I'm guessing the practical reason for this is so that Twitter can no longer be held responsible for abuse. They could ask Trump, for example, to host his own twitter, and people could subscribe to it anywhere, including Jack's twitter. It's basically a return to the open web after 13 years as <a href=\"https://en.wikipedia.org/wiki/Information_silo\">silo</a> that's been sucking the life out of the open web. I don't see why anyone but Twitter and its shareholders would go for this. I am still hoping Twitter, for the good of the web and the world, would expand to attach and display data from blogging software, as they attach and display video and images. That way writing beyond 280 chars with titles, links, simple styling can flourish. Same with podcasts. Twitter improves at a glacial pace, and they're hogging the fast lane of web media, of course along wtih the other silos. ",
+            "created": "Thu, 12 Dec 2019 13:49:57 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/08/14/harderTheyCome.png"
+        },
+        {
+            "text": "Note: If Twitter really wanted to help they could make it unnecessary to paste images of blog posts in tweets (<a href=\"https://twitter.com/davewiner/status/1205126525391122433\">example</a>). Such an obvious thing. What could possibly stand in the way of doing this, when they do it for images and videos?",
+            "created": "Thu, 12 Dec 2019 14:13:29 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1205126525391122433"
+        },
+        {
+            "text": "Follow-up: Now that (I think) I understand Twitter's goal, what they really want is a way to have a feed be hooked into a Twitter \"location.\" So one could follow, for example:  @whitehouse.gov:donaldtrump, and it would get updates from that server. <a href=\"http://home.rsscloud.co/\">RSS 2.0</a> would totally be able to do it. ",
+            "created": "Thu, 12 Dec 2019 15:17:06 GMT"
+        },
+        {
+            "text": "I wonder how many people know that Facebook turned off its most basic API after the 2016 election. Got no press, there's no developer memory of it. It's as if all the <a href=\"https://en.wikipedia.org/wiki/List_of_crossings_of_the_Hudson_River\">Hudson crossings</a> to NYC were shut down permanently, only bigger because the population of Facebook is billions not millions. Twitter on the other hand shut down a portion of its APIs in 2012 and it put an indelible mark on the reputation of the company with developers. I personally forgave them because I anticipated it, I've been down this road many times, on both sides. ",
+            "created": "Thu, 12 Dec 2019 15:36:25 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I've re-done the <a href=\"http://pagepark.io/\">PagePark website</a>. Now it gets the docs from the GitHub repository. It gets the markdown text using GitHub's API, a new built-in feature in PagePark. I'm getting ready to work on the XML-RPC website, this is the way I want to do it. ",
+            "created": "Thu, 12 Dec 2019 18:37:36 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/01/01/bear.png"
+        },
+        {
+            "text": "It pisses me off when Repubs talk about the Dems trying to redo the election they lost. I forgot about the voter suppression, \"her emails\" and Comey's last minute surprise, and realized no, she won the election, you guys stole it. The gall of Trump to try to make a lie stick, that <i>he</i> was the victim of all that. ",
+            "created": "Thu, 12 Dec 2019 18:25:34 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Lots of <a href=\"http://scripting.com/2019/12/12.html\">stuff</a> relating to the question Twitter asked <a href=\"http://scripting.com/2019/12/11.html\">yesterday</a>. To people who are new to my world, this is a big deal. We'll probably be talking about it for years, assuming we make it (not so sure after watching the House hearings). But other stuff is going on, I'll put those links here, thinking of the email going out tonight, which more and more is the pulse of my blogging. If you're not <a href=\"http://scripting.com/email/\">subscribed</a> imho you're missing something. ;-)",
+            "created": "Thu, 12 Dec 2019 18:24:07 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "What about Mastodon?",
+            "created": "Thu, 12 Dec 2019 16:36:11 GMT",
+            "type": "outline",
+            "description": "This is why 'new and improved' standards, have such a hard time catching on.",
+            "subs": [
+                {
+                    "text": "So, what about Mastodon? It does everything, right? I'm sure, but Twitter is where the people are and that's what matters. This happens all the time in tech, people think the solution is to rebuild something from scratch with the feature we wish the default platform would have. It isn't about the feature as much as where the feature is. I have a blogging system that's way more fun that Twitter and has none of its limits. BFD, the people use Twitter.",
+                    "created": "Thu, 12 Dec 2019 16:36:30 GMT",
+                    "image": "http://scripting.com/images/2019/12/12/mastodon.png"
+                },
+                {
+                    "text": "This is the mistake people who created Atom made, they thought what if we had invented RSS instead of the messy process by which RSS was created, we'll do it the right way and it'll be wonderful. Then they finished and no one knew what to do next. I'm sure they were very proud but unless they can get everyone who already supported RSS to go back and reimplement their support, we all still have to support RSS. And it's one of those things that no matter how much better it is, people will ask \"Is everyone doing this\" and if the answer is no, they do something else they have to do, putting out fires etc."
+                },
+                {
+                    "text": "Another example, if I have to go to NYC I take the George Washington Bridge or the Holland or Lincoln Tunnels. I'd much rather take the Golden Gate Bridge, it's so much nicer, but it doesn't go where I want to go! "
+                }
+            ]
+        }
+    ]
+}
