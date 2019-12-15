@@ -1,0 +1,67 @@
+{
+    "text": "December 14",
+    "created": "Sat, 14 Dec 2019 14:52:02 GMT",
+    "name": "14",
+    "subs": [
+        {
+            "text": "<a href=\"https://duckduckgo.com/?q=%22All+roads+lead+to+Putin%22+pelosi&t=h_&ia=web\">Quote of the year</a>: \"All roads lead to Putin.\"",
+            "created": "Sat, 14 Dec 2019 17:59:38 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/12/14/spaceShuttle.png"
+        },
+        {
+            "text": "What I need for Node.js hosting in a <a href=\"http://scripting.com/2019/12/14/whatINeedForNodeHosting.m4a\">3.5 minute podcast</a>. A big folder with lots of sub-folders, each of which is an app -- containing a <a href=\"https://nodesource.com/blog/the-basics-of-package-json-in-node-js-and-npm/\">package.json</a> file, a node_modules folder, all code, data. You figure out how to host them on servers, I don't care. It works like Dropbox, keeps the folders in sync with the running apps it's managing. I can write dashboards that run on my desktop that keep track of what's going on in the folders. You figure out how much resources I use and I pay for it. ",
+            "created": "Sat, 14 Dec 2019 16:03:08 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://twitter.com/btaylor\">Bret Taylor</a> is the new <a href=\"https://twitter.com/Benioff/status/1205262855861235713\">COO</a> of Salesforce. This is notable because <a href=\"https://en.wikipedia.org/wiki/Bret_Taylor\">Taylor</a> is a <a href=\"https://twitter.com/davewiner/status/1205509575862083591\">real developer</a>. He led the development of Google Maps, then started FriendFeed, which <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+FriendFeed&t=h_&ia=web\">we used</a>. It was acquired by Facebook where he became CTO and FriendFeed became the user interface of Facebook, the one we use today. He's created a lot of products, all excellent, timely and hugely popular. Having him lead a company like Salesforce is unusual, perhaps even unprecedented. A lot of tech CEOs have product backgrounds, but none as deep as Taylor. Salesforce also has <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+heroku&t=h_&ia=web\">Heroku</a>, which is as far as I know unique and under-used. A simple way of hosting Node apps. I <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+heroku&t=h_&ia=web\">used it</a> for a few years myself, until it became <a href=\"http://scripting.com/2015/05/12/whyIMovedOffHeroku.html\">uneconomical</a>. If they were aggressive with it and invested, they could challenge Amazon and Google in hosting. Maybe they already do. Taylor has the depth and background to do some very consequential stuff at Salesforce. We'll be watching. :rocket:",
+            "created": "Sat, 14 Dec 2019 15:10:01 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I had a random thought yesterday and didn't know where to put it. I wonder if Bill Gates has had a sit-down with Putin yet and tried to work out a deal personally. ",
+            "created": "Sat, 14 Dec 2019 14:52:03 GMT",
+            "type": "tweet",
+            "tweetId": "1205863209170874369",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "<a href=\"https://www.facebook.com/guy/posts/2757921750926776?__xts__[0]=68.ARB5n4fs2rH-xfycXOLJTfpeYm5U7o3kZvCZakHdfbV7vEYUYbVN-jjCQu8cKbCgKH-per2P9iIJ03CQJIIVjadRcIf3c08h7WgqGEObHNQu58u9kmX9UBDQ3QBvDjMym5srxYWwYLqrTlWE4UwGjzTTlKzfe1fW_UOIivwfN2WSQfIxshGqLEYws1C4vth5ZdTVQxwpkMir2g6--O0k-Rxki0bvO2jnjnFHXplNmbgeIj-Z5KJtzejNt7XulZRQsybO0L2NmTNRRwUBjwLxUt85LeD1gn0Hiqa3ZtTpVeyAUQU05RRbFRKPe9wiysnlxHnzSUmijLAQygyldnDi6VwSAA&__tn__=-R\">On Facebook</a>, Guy Kawasaki posted a link to a story than asked why Trump is cyberbullying a 16-year-old girl. I wrote: \"Putin told him to. Of course I don't mean literally. Remember when you were at Apple and I was a developer. If you and I had lunch and you told me a bunch of stuff, I didn't figure it came from Steve Jobs, but in a sense it did, because you were working for him, and wanted to keep him happy. Trump is part of an organization like that. Possibly Lavrov gave him a briefing, like the CIA tries to give him briefings. In the book was a top ten concern of Putin: climate change activism. Putin's biggest tangible asset is oil. He's a lot like Exxon. He's sending a message to his American team, this was on my list, so now it's on yours.\"",
+            "created": "Sat, 14 Dec 2019 15:04:22 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "One thing Facebook could do is provide a clean URL to point into Facebook, without any spyware, so FB posts can be part of the open web. A link into Facebook should be a safe thing. They're always saying how they want to make the web safer. So this has a double benefit. Help the web, and keep people safe. ",
+            "created": "Sat, 14 Dec 2019 15:08:01 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Journalism is reporting the possible end of American democracy as if it were just another horserace.",
+            "created": "Sun, 15 Dec 2019 02:38:07 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Right wing nut jobs of Nashville",
+            "created": "Sat, 14 Dec 2019 18:16:31 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "At a BloggerCon-like conference in Nashville. <a href=\"http://scripting.com/2005/05/07.html\">2005</a>. My session was occupied by a small number of right wing Rush Limbaugh fans. All men, as you might imagine.",
+                    "created": "Sat, 14 Dec 2019 18:16:35 GMT"
+                },
+                {
+                    "text": "They were complaining no one was listening to them."
+                },
+                {
+                    "text": "I was the moderator. I pointed out to the nth guy to complain -- you know everyone is listening to you right now. Didn't matter, someone else started complaining about the same thing. They just kept saying the same words over and over. As today, their main point was their grievance.",
+                    "created": "Sat, 14 Dec 2019 18:17:30 GMT"
+                },
+                {
+                    "text": "My response was this: \"I can't tell you why there aren't more right wing nut jobs here, best I can do is listen and empathize and then move on to the next person.\"",
+                    "created": "Sat, 14 Dec 2019 18:18:11 GMT"
+                }
+            ]
+        }
+    ]
+}
