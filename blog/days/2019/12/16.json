@@ -1,0 +1,137 @@
+{
+    "text": "December 16",
+    "created": "Mon, 16 Dec 2019 14:40:25 GMT",
+    "name": "16",
+    "subs": [
+        {
+            "text": "Good morning ever buddy! :-)",
+            "created": "Mon, 16 Dec 2019 14:40:26 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2018/12/23/santa.png"
+        },
+        {
+            "text": "<a href=\"https://www.impeach.org/event/impeach-and-remove/126026/signup/\">Pass this on</a>: Hundreds of pro-impeachment rallies planned for tomorrow. ",
+            "created": "Mon, 16 Dec 2019 16:06:31 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Long ago I made a \"long bet\" and <a href=\"https://twitter.com/longnow/status/1206613725005963264\">won</a>. The bet was whether or not the NYT would continue to make their product freely available on the web. I figured no matter how much they tried, they would wall it off. They still haven't solved the problem. I think they could adopt the philosophy of open source tech billionaires. Make the product free and provide a supported version (whatever that means in news) for a price. This idea has been the foundation of all businesses ever started around software, because like news, there is no physical manifestation of our work, it's all in the arrangement of bits in computer memory. The biggest fortunes of our lifetimes have been made in commercializing those bits. Both hard to believe and true. :boom:",
+            "created": "Mon, 16 Dec 2019 17:35:48 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I generally do not update iTunes, iPhones or iPads unless I've bought a new Apple product that requires I do so. I am never updating Mac OS because I'm running the last version that runs the OPML Editor, which I use for mission-critical work. The only must-have feature Apple has introduced for Mac OS in the last 20 years is <a href=\"https://support.apple.com/en-us/HT201250\">Time Machine</a>. Everything else as far as I'm concerned is optional. Of course I will get spattered with email from people who couldn't live without X, Y or Z. I salute you in advance. ",
+            "created": "Mon, 16 Dec 2019 14:41:27 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "That said I would <i>kill</i> for a Linux version of the <a href=\"http://home.opml.org/\">OPML Editor</a>. Then I could just use that OS, the same one I run on my servers and that would significantly simplify life. I am willing to kick in money for the port. We've never figured out a way to do that, but I just wanted to put that out there. Ted Howard is managing the <a href=\"http://scripting.com/2018/04/26/151833.html\">releases</a> for the OPML Editor (it's a distro of UserLand Frontier). I am forever grateful for Ted for his work on this. It has made all my work much smoother. ",
+            "created": "Mon, 16 Dec 2019 14:43:47 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Advertising can be powerful and not expensive. <a href=\"http://scripting.com/images/2019/12/16/warIsOver.png\">This ad</a>, from 50 years ago, is still giving goose bumps.  ",
+            "created": "Mon, 16 Dec 2019 17:10:04 GMT",
+            "type": "outline",
+            "urlexpandableimage": "http://scripting.com/images/2019/12/16/warIsOver.png"
+        },
+        {
+            "text": "People are too judgmental, which is a shame because in the end, which is coming soon enough for all of us, your opinion of other people couldn’t matter less. Sorry if I’m telling you something you don’t already know. ",
+            "created": "Mon, 16 Dec 2019 21:47:39 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I have a box of backup disks from my career going back to the early 80s. I would like to start backing them up if I can. I think I have a CD drive that can read the backups from the 90s, but the earlier disks which are in various size floppy disks and Iomega disks will be more problematic. Starting to <a href=\"https://twitter.com/davewiner/status/1206589087253176323\">think</a> about how I want to approach this. My goal is to get the content of the disks up to Amazon S3 or something like that.   ",
+            "created": "Mon, 16 Dec 2019 14:52:20 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Hover does it right",
+            "created": "Mon, 16 Dec 2019 17:02:09 GMT",
+            "type": "outline",
+            "description": "A feature that every DNS system should support.",
+            "subs": [
+                {
+                    "text": "I want to give the Web Architecture of the Decade award to <a href=\"https://www.hover.com/\">Hover</a>. They have a hidden feature that changes everything when managing domains, which is what they do.",
+                    "created": "Mon, 16 Dec 2019 17:02:16 GMT",
+                    "image": "http://scripting.com/images/2019/12/16/excellence.png"
+                },
+                {
+                    "text": "Here's the feature. They let you put a CNAME where an A record is called for.",
+                    "created": "Mon, 16 Dec 2019 17:02:33 GMT"
+                },
+                {
+                    "text": "In other words you can use a pointer where previously you could only use a hard-coded address. This makes it possible to switch hardware without having to keep track of every DNS-based reference to it. You can point through a pointer. ",
+                    "created": "Mon, 16 Dec 2019 17:02:48 GMT"
+                },
+                {
+                    "text": "There's no reason not to do this. Their server is going to respond to every request, so they can do a database lookup to find out what IP address goes with the CNAME and return that. All transparently to the requester.",
+                    "created": "Mon, 16 Dec 2019 17:03:26 GMT"
+                },
+                {
+                    "text": "When someone told me this works, I didn't believe it at first. Now it saves my ass all the time. A feature that every DNS system should support. It's the best kind of feature, it doesn't increase the complexity of the software, and it gives the user more leverage. The rare feature with no tradeoff. ",
+                    "created": "Mon, 16 Dec 2019 17:03:47 GMT"
+                },
+                {
+                    "text": "Congrats to Hover and thanks from a happy user. :-)",
+                    "created": "Mon, 16 Dec 2019 17:04:22 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Remembering 1999.io",
+            "created": "Mon, 16 Dec 2019 16:51:43 GMT",
+            "type": "outline",
+            "description": "Manila, in the world of JavaScript and Node, with Facebook's UI as prior art.",
+            "subs": [
+                {
+                    "text": "A number of years ago I set up a <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+1999.io&t=h_&ia=web\">new app</a> called \"1999.io\" to run my blog. Interesting project, another look at the functionality of Manila, shipped in 1999, this time in the world of JavaScript and Node, with Facebook's UI as prior art. Last time I worked in this area Facebook didn't exist. Say what you want about them, their UI is innovative. Good ideas there. \"Only steal from the best,\" I say.  ",
+                    "created": "Mon, 16 Dec 2019 16:51:57 GMT"
+                },
+                {
+                    "text": "I feel 1999.io was and still is a significant improvement over what was there before, WordPress, Facebook, Tumblr, Ghost etc. Still works, but <a href=\"http://scripting.com/2017/05/05/iWantMyOldBlogBack.html\">in 2017</a>, I moved to another model, most like the one I used before Manila, based on an outliner, and have used it ever since. But of course I left the 1999.io site where it was. ",
+                    "created": "Mon, 16 Dec 2019 16:55:23 GMT"
+                },
+                {
+                    "text": "This isn't goodbye, 1999.io still runs, people still use it. Like a lot of things in a Twitter/Facebook dominated world, writing tools tend to languish on the sidelines. I still hope to change that, I have some ideas. ",
+                    "created": "Mon, 16 Dec 2019 16:56:24 GMT"
+                }
+            ]
+        },
+        {
+            "text": "A boomer's memory",
+            "created": "Mon, 16 Dec 2019 15:18:19 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "A commercial from the 60s or 70s that I only saw a few times.",
+                    "created": "Mon, 16 Dec 2019 15:18:24 GMT",
+                    "image": "http://scripting.com/images/2019/12/16/buitoni.png"
+                },
+                {
+                    "text": "Camera slowly enters a beautiful office with a distinguished older man behind the desk. The announcer says \"And now a word from Guillermo Buitoni, president of <a href=\"https://en.wikipedia.org/wiki/Buitoni\">Buitoni</a> Foods.\" Camera continues in for a close up, and stops. Pauses a couple of seconds.",
+                    "created": "Mon, 16 Dec 2019 15:18:47 GMT"
+                },
+                {
+                    "text": "He says: If you want me to like you..."
+                },
+                {
+                    "text": "Another pause:"
+                },
+                {
+                    "text": "He says: Buy my pizza."
+                },
+                {
+                    "text": "Logo. Cut."
+                },
+                {
+                    "text": "It was perfect. No product shot. Just hey I'm this <a href=\"https://en.wikipedia.org/wiki/Masters_of_the_Universe\">Master of the Universe</a>, and of course you want me to like you. And I've made it realllly simple.",
+                    "created": "Mon, 16 Dec 2019 15:19:11 GMT"
+                },
+                {
+                    "text": "I wish I could find the video to see if it is as good as I remember it."
+                }
+            ]
+        }
+    ]
+}
