@@ -1,0 +1,32 @@
+{
+    "text": "Welcoming writers to Twitter",
+    "created": "Tue, 17 Dec 2019 15:10:33 GMT",
+    "type": "outline",
+    "description": "Why not give writers a solid path into Twitter as photographers and video-makers already have. ",
+    "subs": [
+        {
+            "text": "I had a longish rationale for why Twitter should open itself up to writers and developers of writing tools, but when the proposal was done, it came down to adding two elements to the <a href=\"https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started\">card metadata</a>. So I thought, why bother with all the reasons, let's start with the answer.  ",
+            "created": "Tue, 17 Dec 2019 15:10:50 GMT"
+        },
+        {
+            "text": "The two elements are twitter:body and twitter:enclosure. ",
+            "created": "Tue, 17 Dec 2019 15:12:32 GMT"
+        },
+        {
+            "text": "<code>&lt;meta name=\"twitter:body\" content=\"Limited [HTML](https://en.wikipedia.org/wiki/HTML) can appear in the body of a card using the conventions of Markdown. You can **bolden** text, *italicize* it, break it into paragraphs, add anchor elements. It can be as long as you like.\"></code>",
+            "created": "Tue, 17 Dec 2019 14:27:41 GMT"
+        },
+        {
+            "text": "<code>&lt;meta name=\"twitter:enclosure\" content=\"http://scripting.com/2019/12/14/whatINeedForNodeHosting.m4a\"></code>",
+            "created": "Tue, 17 Dec 2019 14:36:23 GMT"
+        },
+        {
+            "text": "That's it. And a couple of conventions for displaying the result, no more complex than viewing images or videos. ",
+            "created": "Tue, 17 Dec 2019 15:13:48 GMT"
+        },
+        {
+            "text": "PS: Of course I posted this as a <a href=\"https://twitter.com/davewiner/status/1206954535714996224\">thread</a> on Twitter, perfectly illustrating why Twitter needs this feature and has for a long time. ",
+            "created": "Tue, 17 Dec 2019 15:15:16 GMT"
+        }
+    ]
+}
