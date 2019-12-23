@@ -1,0 +1,5 @@
+{
+    "text": "I've noticed recently that <a href=\"https://www.youtube.com/watch?v=fpjtCv4vMGA&feature=youtu.be\">expanding an embedded tweet</a> is painfully slow the first time you do it on an item on the blog. I did a bit of debugging and found the bottleneck, and fixed it. So now clicking on a wedge to view a tweet should be instantaneous. :boom:",
+    "created": "Sun, 22 Dec 2019 16:42:34 GMT",
+    "type": "outline"
+}
