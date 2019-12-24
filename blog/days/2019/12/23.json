@@ -1,0 +1,53 @@
+{
+    "text": "December 23",
+    "created": "Mon, 23 Dec 2019 12:03:25 GMT",
+    "name": "23",
+    "subs": [
+        {
+            "text": "Braintrust: <a href=\"https://github.com/scripting/Scripting-News/issues/141\">Building a static Manila site in 2019</a>.",
+            "created": "Mon, 23 Dec 2019 22:17:24 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Last night was the final episode of <a href=\"https://en.wikipedia.org/wiki/Mr._Robot\">Mr Robot</a>. One word review -- masterful. Lots to think about. The <a href=\"https://www.vulture.com/2019/12/mr-robot-series-finale-recap-season-4-episode-12-and-13.html\">Vulture synopsis</a> is great, obviously it's entirely spoilers, as is this post. The big question of this episode and the entire series it turns out is <i>Who Is The Real Elliot?</i> For that I got the same answer Time had for their <a href=\"https://en.wikipedia.org/wiki/You_(Time_Person_of_the_Year)\">POTY in 2006</a>. We're all Elliot, having constructed more agreeable versions of ourselves to share with the world, hiding who we are many levels deep, like <a href=\"https://en.wikipedia.org/wiki/Inception\">Inception</a> or <a href=\"https://en.wikipedia.org/wiki/The_Matrix\">The Matrix</a>. It's recursive, Mr Robot says. You wake from one dream to find yourself in another and another. I imagine many people will dislike the end, the same way they didn't like the end of <a href=\"https://en.wikipedia.org/wiki/Battlestar_Galactica_(2004_TV_series)\">Battlestar Galactica</a>. Some of the story is real, some of it matters, but in the end not much actually changed. Mr Robot asks us to look at ourselves and our families and friends, and how much of it is what we wish it were, vs how much is as it actually is. There isn't anything unique in this story, it's really the story of our lives, waking up from the dream we concocted to get through childhood. Endings to stories are hard, the art is in where they leave you and how much they change you, and the ending of Mr Robot scores high on all counts. ",
+            "created": "Mon, 23 Dec 2019 12:03:26 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/12/23/you.png"
+        },
+        {
+            "text": "We have to get a message through to the press that the faceoff isn't between the Republicans and Democrats, it's between the Republicans and the Constitution and the people.",
+            "created": "Mon, 23 Dec 2019 14:27:21 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Wouldn't it be great to have a \"reality list\" like the AP Style Guide. <a href=\"https://twitter.com/jeffjarvis/status/1209083976016695296\">This</a> would be one of the items on the list.",
+            "created": "Mon, 23 Dec 2019 12:14:49 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/jeffjarvis/status/1209083976016695296"
+        },
+        {
+            "text": "How to make corned beef hash. It's incredibly simple. Boil some potatoes the night before. Drain the water, add a bit of vinegar, let sit, covered, overnight. In the morning, chop some corned beef, fry it alone (without potatoes). When nice and brown, put the beef on a plate, leaving the pan greased with fat from the beef. Chop an onion, fry it, then add some chopped potatoes. Then mix the two and fry together. You can add garlic if you like. Mix it up, then remove the hash and fry a couple of eggs in the same pan and serve them on top of the mound of CBH. There's really nothing to it but boiling and frying, but it's really tasty. ",
+            "created": "Mon, 23 Dec 2019 14:28:24 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Working with Manila",
+            "created": "Mon, 23 Dec 2019 21:26:15 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "As part of the XML-RPC site work, I want to statically rebuild the site from the Frontier object database containing all the content as a Manila site. I have copies of manila.root and xmlRpc.root. I have gotten it to build a static site that appears ready to be built by the Frontier website framework. Now if I can only remember how to build one of those.",
+                    "created": "Mon, 23 Dec 2019 21:28:58 GMT"
+                },
+                {
+                    "text": "I'm looking <a href=\"http://scripting.com/frontier/netScripting/web.html\">at the docs</a>, and for the life of me I can't find a simple explanation of how to actually build a site, which is odd because that's what the docs purport to be about. Back then we didn't do a Hello World for this problem, that helps to put the stuff you need to know first up front. ",
+                    "created": "Mon, 23 Dec 2019 21:22:26 GMT"
+                },
+                {
+                    "text": "Update: The <a href=\"http://scripting.com/frontier/menus/web.html\">Web menu</a> is tantalizing but it doesn't appear to have a command that builds a whole site. ",
+                    "created": "Mon, 23 Dec 2019 21:27:13 GMT"
+                }
+            ]
+        }
+    ]
+}
