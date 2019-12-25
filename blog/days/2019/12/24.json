@@ -1,0 +1,86 @@
+{
+    "text": "December 24",
+    "created": "Tue, 24 Dec 2019 15:11:35 GMT",
+    "name": "24",
+    "subs": [
+        {
+            "text": "One candidate could change everything by raising money to do good things for Americans right now, not after they get elected. The idea that value was flowing to the people not the owners of the media companies would inspire voters. It would inspire me. This would be bigger imho than Sanders and Warren not taking corporate donations. I think we'd welcome big corporate donations, as long as the money was flowing in a good way.",
+            "created": "Tue, 24 Dec 2019 16:17:55 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/12/24/santa.png"
+        },
+        {
+            "text": "What I want most for Christmas is to do a final build of the original <a href=\"http://xmlrpc.scripting.com/spec.html\">XML-RPC site</a> as a static Manila site, so the 1998 version that's about to be retired is safely preserved for the future. The problem is outlined <a href=\"https://github.com/scripting/Scripting-News/issues/141\">here</a>. I could have answered the question myself, in 2002. Any help from an old school Frontier developer would be much appreciated. :boom:",
+            "created": "Tue, 24 Dec 2019 15:52:00 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Speaking of which there should be a place I can download a final release of Frontier from 2004 or so, with Manila baked in, and its full web interface. If I replaced the app, I could probably run it on a Mac running Mojave or a Windows machine (I should get one that can run Frontier before they stop making them).",
+            "created": "Tue, 24 Dec 2019 15:58:02 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "The key to good blogging software is that it feels as easy to write a post as it is to write a tweet or a comment in a Facebook thread. ",
+            "created": "Tue, 24 Dec 2019 15:38:50 GMT",
+            "type": "tweet",
+            "tweetId": "1209512977776435201",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "A chicken or an egg?",
+            "created": "Tue, 24 Dec 2019 16:45:26 GMT",
+            "type": "outline",
+            "description": "I wondered, if Twitter could handle the full text of blog posts as I've been advocating, how could it work.",
+            "metaImage": "http://scripting.com/images/2019/12/24/rooster.png",
+            "subs": [
+                {
+                    "text": "Something cute I did a few days ago. I wondered, if Twitter could handle the full text of blog posts as I've been <a href=\"http://scripting.com/2019/12/17/151033.html\">advocating</a>, how could it work. I came up with an approach, and implemented my side of it.",
+                    "created": "Tue, 24 Dec 2019 16:45:34 GMT",
+                    "image": "http://scripting.com/images/2019/12/24/rooster.png"
+                },
+                {
+                    "text": "If you look at the source of a recent post here, such as <a href=\"http://scripting.com/2019/12/24/164526.html\">the one</a> you're reading right now, you'll <a href=\"http://scripting.com/images/2019/12/24/theMeta.png\">see</a> a \"twitter:body\" meta element in the header. Its content attribute is a base64-encoded markdown version of the post. There's a minimal amount of HTML in the post for basic features that markdown can't do. It's something Twitter could experiment with right now, if there's a developer there who thinks this is interesting.",
+                    "created": "Tue, 24 Dec 2019 16:46:06 GMT"
+                },
+                {
+                    "text": "PS: Of course this data is there for any other curious developer who wants to play with the idea. That's kind of how RSS got bootstrapped between 1997 and 1999. ;-)",
+                    "created": "Tue, 24 Dec 2019 16:51:14 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Wanting to want",
+            "created": "Tue, 24 Dec 2019 15:11:36 GMT",
+            "type": "outline",
+            "description": "I'd pay a lot if I could buy another weekend with the relatives who are gone,",
+            "metaImage": "http://scripting.com/images/2001/09/22/kieslers.gif",
+            "subs": [
+                {
+                    "text": "When I was a kid I had so many material desires, so many things that cost money that would’ve given me pleasure. Mostly stereo and sports equipment. I didn’t have any money. Now I could buy anything that I want. But there’s nothing money can buy that I want.  ",
+                    "created": "Tue, 24 Dec 2019 15:11:39 GMT"
+                },
+                {
+                    "text": "As has been pointed out elsewhere there are exceptions to this rule. I want a hot tub. For whatever reason I can't seem to get the things I need together to get it installed. When I get one, I will say publicly, probably on my blog and elsewhere, that I've wanted my own hot tub since I left Calif in 2003 and that it's insane that something so good for the human body is so hard to get access to outside the home. There are, in Calif, hot tub places in every town, like bowling alleys. In the east, they just don't have them. Someone should go into that business, I bet it would boom, and would help people in the east relax (not sure if that'd be a good thing or not).",
+                    "created": "Tue, 24 Dec 2019 15:11:52 GMT"
+                },
+                {
+                    "text": "Here's the rule. When I shop on Amazon I can't find anything I want the way I wanted things when I was a kid looking through the <a href=\"http://www.searsarchives.com/catalogs/history.htm\">Sears catalog</a>. But there <i>were</i> things I wanted like <a href=\"https://www.amazon.com/Pentel-Sign-Fiber-Tipped-Black-S520/dp/B00006IFJL/ref=asc_df_B00006IFJL/?tag=hyprod-20&linkCode=df0&hvadid=167123392997&hvpos=1o1&hvnetw=g&hvrand=13295402309173569244&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1023511&hvtargid=pla-138272589675&psc=1\">Pentel Sign Pens</a>, but as soon as they got them on Amazon I basically bought a lifetime supply and gifted them to a few of my friends. Of course now my once gorgeous handwriting has devolved into barely readable scratches. I almost never write by hand, maybe to address an envelope, or write a greeting card. So even Pentel Sign Pens don't bring me joy. BTW, if you've never gotten a Pentel Sign Pen they truly are wonderful. Even for adults, but as a kid, they were magnificent. I wonder if kids today have to write by hand? Hmmm. ",
+                    "created": "Tue, 24 Dec 2019 15:13:33 GMT",
+                    "image": "http://scripting.com/images/2019/12/24/searsCatalog.png"
+                },
+                {
+                    "text": "BTW, when I got all the boxes out of storage from Berkeley I got to go through my childhood a bit. Here's the <a href=\"http://scripting.com/images/2019/12/24/gradeSchoolNotebookPage.png\">first page</a> of a notebook, either first or second grade, probably second. ",
+                    "created": "Tue, 24 Dec 2019 15:15:06 GMT"
+                },
+                {
+                    "text": "There's a process at work here that I'm just beginning to understand. When I was a kid, I had a small immediate family and a very large secondary family. My paternal grandfather had twelve siblings and most of them had relocated to NYC during <a href=\"https://en.wikipedia.org/wiki/World_War_II\">the war</a>. So my mother had a huge number of cousins, and some of them were close. A bunch of them lived in <a href=\"https://www.google.com/maps/@40.5736302,-73.8634738,3a,75y,77.25h,88.92t/data=!3m6!1e1!3m4!1sZ0iOyYfCNhPDuAIv25OiaA!2e0!7i16384!8i8192\">Rockaway</a> where my grandparents lived. But that was 50 years ago. They're all gone now, and the bonds didn't extend into the next generation. So I have a very tiny remnant of a family now. I seek friendships that can take their place, but truth is they can't. I'd pay a lot if I could buy another weekend with the relatives who are gone, even the ones who drove me crazy, but alas that is not for sale anywhere. ",
+                    "created": "Tue, 24 Dec 2019 15:27:41 GMT"
+                },
+                {
+                    "text": "PS: Though I didn't realize it as I was writing this piece, it's one of the big threads of <a href=\"http://scripting.com/2019/12/23.html#a120326\">Mr Robot</a>. ",
+                    "created": "Tue, 24 Dec 2019 16:00:42 GMT"
+                }
+            ]
+        }
+    ]
+}
