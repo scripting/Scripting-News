@@ -1,0 +1,22 @@
+{
+    "text": "A chicken or an egg?",
+    "created": "Tue, 24 Dec 2019 16:45:26 GMT",
+    "type": "outline",
+    "description": "I wondered, if Twitter could handle the full text of blog posts as I've been advocating, how could it work.",
+    "metaImage": "http://scripting.com/images/2019/12/24/rooster.png",
+    "subs": [
+        {
+            "text": "Something cute I did a few days ago. I wondered, if Twitter could handle the full text of blog posts as I've been <a href=\"http://scripting.com/2019/12/17/151033.html\">advocating</a>, how could it work. I came up with an approach, and implemented my side of it.",
+            "created": "Tue, 24 Dec 2019 16:45:34 GMT",
+            "image": "http://scripting.com/images/2019/12/24/rooster.png"
+        },
+        {
+            "text": "If you look at the source of a recent post here, such as <a href=\"http://scripting.com/2019/12/24/164526.html\">the one</a> you're reading right now, you'll <a href=\"http://scripting.com/images/2019/12/24/theMeta.png\">see</a> a \"twitter:body\" meta element in the header. Its content attribute is a base64-encoded markdown version of the post. There's a minimal amount of HTML in the post for basic features that markdown can't do. It's something Twitter could experiment with right now, if there's a developer there who thinks this is interesting.",
+            "created": "Tue, 24 Dec 2019 16:46:06 GMT"
+        },
+        {
+            "text": "PS: Of course this data is there for any other curious developer who wants to play with the idea. That's kind of how RSS got bootstrapped between 1997 and 1999. ;-)",
+            "created": "Tue, 24 Dec 2019 16:51:14 GMT"
+        }
+    ]
+}
