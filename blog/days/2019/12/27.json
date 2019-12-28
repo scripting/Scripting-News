@@ -1,0 +1,180 @@
+{
+    "text": "December 27",
+    "created": "Fri, 27 Dec 2019 13:55:41 GMT",
+    "name": "27",
+    "subs": [
+        {
+            "text": "During the 2016 election I watched reruns of The West Wing and found it relaxing, to be able to visualize a government run in a human and intelligent way. Last night, looking for something to watch, I spotted <a href=\"https://en.wikipedia.org/wiki/The_Newsroom_(American_TV_series)\">The Newsroom</a> on <a href=\"https://www.hbo.com/the-newsroom\">HBO</a> and thought I would give it a try. Perfect choice. Another Sorkin show, a bit dated, in terms of tech very dated, but who cares. It's a bunch of actors, some good and famous reading Sorkin dialog about how news would work if it worked well. I've just watched the first three episodes, it's an incredible antidote to the way news is these days. Highly recommended, and as I step through it I expect to have more to say. BTW, it's available for <a href=\"https://www.amazon.com/The-Newsroom-Season-1/dp/B00CW8DRU8\">streaming</a> on Amazon.",
+            "created": "Fri, 27 Dec 2019 13:55:42 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "A bingeing update. I <a href=\"http://scripting.com/2019/12/20/211446.html\">wrote</a> that I really liked <a href=\"https://www.metacritic.com/tv/the-morning-show\">The Morning Show</a> on Apple, but when I picked it up again, starting with episode 4, I couldn't stand it. It was like a bad soap opera. One word: Insipid. Too bad because the actors are great and they had lots of money to do it right. The story is childish and the dialog is embarrassing. Those are also some of my criticisms of The Newsroom (see <a href=\"http://scripting.com/2019/12/27.html#a135542\">above</a>) but there is substance in that show and the writing is pure Sorkin, so it's funny to think the actors are just saying what Sorkin told them to say. Like Leo and Bartlet, Josh and CJ. Except not them, other people. And lots of lessons about journalism. For example <a href=\"http://pressthink.org/2019/12/the-christmas-eve-confessions-of-chuck-todd/\">Chuck Todd</a> is lying when he <a href=\"https://www.rollingstone.com/politics/politics-news/how-disinformation-spreads-according-to-chuck-todd-interview-929912/\">says</a> he didn't get that the Repubs were always lying on his air. How do I know? Because the fourth episode of The Newsroom is all about Repubs openly lying. And that was a non-journalist writing, at least <i>nine years ago.</i> If Sorkin could figure it out, so could Chuck Todd. He's playing us, badly and we'd be foolish to accept him at face value. ",
+            "created": "Fri, 27 Dec 2019 19:15:21 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/12/20/fsociety.png"
+        },
+        {
+            "text": "Still having problems with UPS",
+            "created": "Fri, 27 Dec 2019 19:10:10 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "The <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+UPS&t=h_&ia=web\">saga</a> continues. Now they're delivering packages to the local post office. The packages are clearly addressed to my home, not to a post office. This is kind of okay at least they're indoors and the postmaster there is okay with it, but they are dropping the packages off on the front desk after the post office is closed. Leaving them in the open is like leaving your wallet on the counter in the post office. People are honest, but that's too much of a temptation imho. At some point someone is going to take the packages before I can get to the PO.",
+                    "created": "Fri, 27 Dec 2019 19:10:17 GMT",
+                    "image": "http://scripting.com/images/2019/11/23/ups.png"
+                },
+                {
+                    "text": "I've told the UPS people in Kingston this is not acceptable but they say it's the driver's call."
+                },
+                {
+                    "text": "As a comparison, I had a package delivered by Fedex a few weeks ago, when the road to the house was fairly covered in snow, and they just drove the truck to the house and made the delivery."
+                },
+                {
+                    "text": "It is actually what they're <i>supposed</i> to do, in other words and it's not unreasonable. The road is not on a hill, it's flat, and easy to drive on. I understand if there's a foot of snow, but so far that has never been the issue with UPS.",
+                    "created": "Fri, 27 Dec 2019 19:10:53 GMT"
+                }
+            ]
+        },
+        {
+            "text": "XML-RPC site restoration",
+            "created": "Fri, 27 Dec 2019 20:00:51 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "For the time-being I've set aside the project to try to rebuild the original 1998 XML-RPC site from xmlRpc.root. I'm taking an inventory of what we have and what we are missing first. ",
+                    "created": "Fri, 27 Dec 2019 20:01:01 GMT"
+                },
+                {
+                    "text": "Here's a list of the docs we have.",
+                    "created": "Fri, 27 Dec 2019 20:01:58 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "<a href=\"http://xmlrpc.scripting.com/bootstrappingTheTwoWayWeb.html\">Bootstrapping the Two-Way-Web</a>"
+                        },
+                        {
+                            "text": "<a href=\"http://xmlrpc.scripting.com/mailList.html\">Mail lists</a>"
+                        },
+                        {
+                            "text": "<a href=\"http://xmlrpc.scripting.com/alidl.html\">RFC: A Little IDL</a>"
+                        },
+                        {
+                            "text": "<a href=\"http://xmlrpc.scripting.com/davesSoapJournalPart1.html\">Dave's SOAP Journal, part 1</a>",
+                            "created": "Fri, 27 Dec 2019 20:05:39 GMT"
+                        },
+                        {
+                            "text": "<a href=\"http://xmlrpc.scripting.com/bdgChangeNotes.html\">Change notes -- 3/29/01</a>"
+                        },
+                        {
+                            "text": "<a href=\"http://xmlrpc.scripting.com/news.html\">XML-RPC News</a>"
+                        },
+                        {
+                            "text": "<a href=\"http://xmlrpc.scripting.com/stateApril2001.html\">The State of XML-RPC, April 2001</a>",
+                            "created": "Fri, 27 Dec 2019 20:05:46 GMT"
+                        },
+                        {
+                            "text": "<a href=\"http://xmlrpc.scripting.com/rpcInteropTests.html\">workspace.userlandSamples.rpcInteropTests</a>"
+                        },
+                        {
+                            "text": "<a href=\"http://xmlrpc.scripting.com/xmlRpcMan.html\">The XML-RPC Man</a>",
+                            "created": "Fri, 27 Dec 2019 20:05:53 GMT"
+                        },
+                        {
+                            "text": "<a href=\"http://xmlrpc.scripting.com/weblogsCom.html\">Weblogs.Com XML-RPC interface</a>"
+                        },
+                        {
+                            "text": "<a href=\"http://xmlrpc.scripting.com/currentTime.html\">XML-RPC interface for Current Time</a>"
+                        },
+                        {
+                            "text": "<a href=\"http://xmlrpc.scripting.com/callForEndorsements.html\">Call for Endorsements</a>"
+                        },
+                        {
+                            "text": "<a href=\"http://xmlrpc.scripting.com/howTheWebBugSimulatorWorks.html\">How the Web Bug Simulator works</a>"
+                        },
+                        {
+                            "text": "<a href=\"http://xmlrpc.scripting.com/metaWeblogApi.html\">RFC: MetaWeblog API</a>",
+                            "created": "Fri, 27 Dec 2019 20:06:00 GMT"
+                        },
+                        {
+                            "text": "<a href=\"http://xmlrpc.scripting.com/rebuttalToRest.html\">Rebuttal to REST</a>"
+                        },
+                        {
+                            "text": "<a href=\"http://xmlrpc.scripting.com/weblogsComForRss.html\">Weblogs.Com for RSS</a>"
+                        },
+                        {
+                            "text": "<a href=\"http://xmlrpc.scripting.com/metaWeblogNewMediaObject.html\">RFC: metaWeblog.newMediaObject</a>"
+                        },
+                        {
+                            "text": "<a href=\"http://xmlrpc.scripting.com/roundingMetaweblogApi.html\">RFC: Rounding out the MetaWeblog API</a>"
+                        },
+                        {
+                            "text": "<a href=\"http://xmlrpc.scripting.com/subsHarmonizer.html\">In progress: Subscriptions harmonizer</a>"
+                        },
+                        {
+                            "text": "<a href=\"http://xmlrpc.scripting.com/mttf.html\">XML-RPC interface for MailToTheFuture</a>"
+                        },
+                        {
+                            "text": "<a href=\"http://xmlrpc.scripting.com/aggregatorApi.html\">XML-RPC interface for the NewsRiver aggregator</a>"
+                        }
+                    ]
+                },
+                {
+                    "text": "And the ones we don't have yet.",
+                    "created": "Fri, 27 Dec 2019 20:01:58 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "<a href=\"http://xmlrpc.scripting.com/faq.html\">FAQ</a>",
+                            "created": "Fri, 27 Dec 2019 20:04:47 GMT"
+                        },
+                        {
+                            "text": "<a href=\"http://xmlrpc.scripting.com/feedback.html\">Feedback</a>",
+                            "created": "Fri, 27 Dec 2019 20:05:32 GMT"
+                        },
+                        {
+                            "text": "<a href=\"http://xmlrpc.scripting.com/validatorDocs.html\">XML-RPC validation suite</a>"
+                        },
+                        {
+                            "text": "<a href=\"http://xmlrpc.scripting.com/validator1Docs.html\">XML-RPC validation suite</a>"
+                        },
+                        {
+                            "text": "<a href=\"http://xmlrpc.scripting.com/manilaRpc.html\">XML-RPC interface for Manila</a>"
+                        },
+                        {
+                            "text": "<a href=\"http://xmlrpc.scripting.com/manilaRpcSpec.html\">XML-RPC interface for Manila</a>",
+                            "created": "Fri, 27 Dec 2019 20:06:31 GMT"
+                        },
+                        {
+                            "text": "<a href=\"http://xmlrpc.scripting.com/aBusyDevelopersGuideToSoap11.html\">A Busy Developer's Guide to SOAP 1.1</a>",
+                            "created": "Fri, 27 Dec 2019 20:06:40 GMT"
+                        },
+                        {
+                            "text": "<a href=\"http://xmlrpc.scripting.com/theXmlRpcMan.html\">The XML-RPC Man</a>",
+                            "created": "Fri, 27 Dec 2019 20:06:47 GMT"
+                        },
+                        {
+                            "text": "<a href=\"http://xmlrpc.scripting.com/manila.html\">manila</a>",
+                            "created": "Fri, 27 Dec 2019 20:06:57 GMT"
+                        },
+                        {
+                            "text": "<a href=\"http://xmlrpc.scripting.com/googleXmlRpcGateway.html\">XML-RPC Gateway for the Google API</a>"
+                        },
+                        {
+                            "text": "<a href=\"http://xmlrpc.scripting.com/googleGateway.html\">XML-RPC Gateway for the Google API</a>",
+                            "created": "Fri, 27 Dec 2019 20:07:07 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "There are other stories on the sites, but these are the ones that have paths defined for them. ",
+                    "created": "Fri, 27 Dec 2019 20:07:13 GMT"
+                },
+                {
+                    "text": "Not sure what the next steps are going to be. ",
+                    "created": "Fri, 27 Dec 2019 20:08:09 GMT"
+                }
+            ]
+        }
+    ]
+}
