@@ -1,0 +1,76 @@
+{
+    "text": "Flow in WordPress for writers",
+    "created": "Sat, 28 Dec 2019 15:25:57 GMT",
+    "type": "outline",
+    "description": "Writing a new post in WordPress has always been an Adventure game. ",
+    "subs": [
+        {
+            "text": "Every time I write about what's missing in blogging software, as I <a href=\"http://scripting.com/2019/12/24.html#a153850\">did</a> a few days ago, someone tells me about Gutenberg, and how that's the solution to the problem I've identified.  ",
+            "created": "Sat, 28 Dec 2019 15:26:01 GMT",
+            "image": "http://scripting.com/images/2019/12/24/rooster.png"
+        },
+        {
+            "text": "I've never used Gutenberg, so I want to keep an open mind, even though I'm pretty sure that Gutenberg, even if it's great, is not the answer to the problem I keep seeing with WordPress, have been seeing since its inception. The problem is flow. Let me explain.",
+            "created": "Sat, 28 Dec 2019 15:26:42 GMT"
+        },
+        {
+            "text": "I have an idea for a post. How many steps is it before I'm writing what I'm thinking. The more steps, and the less memorable they are, the more likely it is that I will either forget the idea before I start writing, or decide not to detour because it takes too much time to record it. ",
+            "created": "Sat, 28 Dec 2019 15:27:48 GMT"
+        },
+        {
+            "text": "OK, that's the preamble, now let me record the steps that I have to take to create a new post in WordPress. I disclaim I am far from an everyday WordPress user. But I have posted a lot of stuff to various WordPress blogs over the years. I am not a neophyte. ",
+            "created": "Sat, 28 Dec 2019 15:31:40 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "I'm at the main page of my website, called Unberkeley. Here's a <a href=\"http://scripting.com/images/2019/12/28/myBlogsEditorialPage.png\">screen shot</a>. Show me where it says New Post. It isn't there, even though this is almost always the first thing a writer wants to do when they come here.  ",
+                    "created": "Sat, 28 Dec 2019 15:32:48 GMT"
+                },
+                {
+                    "text": "I clicked on WP Admin, which turns out to be the correct guess. I must've been here before? Or maybe I'm just lucky. <a href=\"http://scripting.com/images/2019/12/28/wpadminpage.png\">Screen shot</a>. (BTW, imho this is not the WP-Admin page, even though that's what they call it. That would be a page for a system manager, not a writer. No writer is going to seem themselves as an admin, nor should they. This betrays a perspective, imho an incorrect one for most people who use the product.)",
+                    "created": "Sat, 28 Dec 2019 15:35:29 GMT"
+                },
+                {
+                    "text": "On this page is a <a href=\"http://scripting.com/images/2019/12/28/quickDraftForm.png\">Quick Draft section</a>. I will enter the text of my post there and give it a title as the form requests I do. I like how the Content area expands to the size of the text I entered. Much better than adding a vertical scroll bar. Here's a <a href=\"http://scripting.com/images/2019/12/28/quickDraftWithText.png\">screen shot</a> of the Quick Draft area before I click on Save Draft. ",
+                    "created": "Sat, 28 Dec 2019 15:36:53 GMT"
+                },
+                {
+                    "text": "Now my post is in the Your Recent Drafts list. Clearly it has not been posted, nor is there any indication of how to post it. I'm guessing I should click on its title and see what I can do from there. ",
+                    "created": "Sat, 28 Dec 2019 15:40:06 GMT"
+                },
+                {
+                    "text": "Now I'm at the <a href=\"http://scripting.com/images/2019/12/28/editPostPage1.png\">Edit Post page</a>. Imho this page should be directly linked in big bold letters from the home page of the editorial control panel. This page should be the easiest page to get to. This page also has the Publish button which I will now press.  ",
+                    "created": "Sat, 28 Dec 2019 15:42:02 GMT"
+                },
+                {
+                    "text": "I expected it'd take me to the published page and it would have a big Edit This Page button on it in case I see anything that needs fixing. This is <a href=\"http://scripting.com/images/2019/12/28/editPostPage.png\">where</a> it takes me instead. But there is a Permalink on the page. I'm going to try clicking that. And sure enough now I am at the <a href=\"https://unberkeley.wordpress.com/2019/12/28/test-post/\">published post</a>. ",
+                    "created": "Sat, 28 Dec 2019 15:43:45 GMT"
+                }
+            ]
+        },
+        {
+            "text": "If you accept the premise that publishing a post is the Hello World of blogging software, as I believe based on 25 years experience, there is a method to straigntening this out. You go through the list above and start eliminating steps, moving the New Post functionality closer and closer to the top and making it more obvious in every step. ",
+            "created": "Sat, 28 Dec 2019 15:45:01 GMT"
+        },
+        {
+            "text": "BTW, there is a very small Edit link on the published page, presumably I see it because I'm the author and am logged in. Clicking on it takes me to a page I've not seen before. A much nicer-looking post-editing page. I think this should be the home page of the editing function. But even this isn't Gutenberg apparently. There's a prompt at the bottom of the page asking me to try the new block editor to level up your layout. If this is the elusive Gutenberg, they might say so. If you're going to use that as its name publicly the software should use it too. And for crying out loud there is nothing for me to click to try the new block editor. I can get Info or learn more. I just want to try it. Help. ",
+            "created": "Sat, 28 Dec 2019 15:46:53 GMT"
+        },
+        {
+            "text": "So I click on the Learn more link and twice it confirms that I am ready to try Blocks. I have to convert the post it warns. OK, since it's just a test post, what the heck. First I have to page through a listicle-like tutorial. And when I get there damn if it doesn't look just like it did before. I don't know why this is so momentous. I'm going to come back to this in my next visit. ",
+            "created": "Sat, 28 Dec 2019 15:48:38 GMT"
+        },
+        {
+            "text": "Flow is the writer's problem for blogging. I have been working on this since I started in 1994. I solved the problem for myself in 1997, and ever since I've been working on solving it for everyone else. Had WordPress designers simply <a href=\"http://scripting.com/images/2002/01/10/dtwsEditBoxScreen.gif\">looked</a> at Radio UserLand, shipped in 2002, and copied its menu structure, they would have a much better flowing blog platform and a reader interface as a central part of the product. But since then Facebook and Twitter have matched or bettered Radio in flow. There's a new benchmark. WordPress appears oblivious. So no I don't think Gutenberg, which is a new text editor for WordPress, is the answer. It is the answer to other problems, how to mix text and other elements in a blog post. Certainly a good thing to do. But WordPress imho remains the klunky monolith that it always has been. ",
+            "created": "Sat, 28 Dec 2019 15:28:39 GMT"
+        },
+        {
+            "text": "One more thing, you can do even better than moving the New Post command to the top of a klunky interface. You can move all the setup stuff off to the side and give the user a Facebook-like interface for writing posts. You could even make Gutenberg the default editor. The text editor imho was never the issue with WordPress -- for writers. Writers can make-do with almost anything there. But the flow from idea to idea is what writers really need. For that you should probably start with an outliner, study it, learn from it and adapt it to public writing. That's where imho the real juice is. ",
+            "created": "Sat, 28 Dec 2019 16:11:45 GMT"
+        },
+        {
+            "text": "But a good short step would be to build a Facebook-like interface for WordPress, working with the same database, so both the current and the writer's view work on the same data. Writers are important and for writers flow is everything, how easily can I get your software out of my way and flow my ideas into the minds of the readers. ",
+            "created": "Sat, 28 Dec 2019 16:31:37 GMT"
+        }
+    ]
+}
