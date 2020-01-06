@@ -1,0 +1,49 @@
+{
+    "text": "January 5",
+    "created": "Sun, 05 Jan 2020 14:35:09 GMT",
+    "name": "05",
+    "subs": [
+        {
+            "text": "Iran has the kind of opportunity the US had after 9/11. We had the whole world behind us. Had we shown restraint, we could have cemented our \"sole superpower\" status. Instead of spending trillions on unwinnable wars, we could have put that money into infrastructure. Rebuilt our school system. By now those kids would be in the workforce, kicking ass competitively. We would be solving problems. Amazingly Iran is in a similar place now. The US is the bad guy, the terrorist, with an unprovoked attack of apparently similar scale as the terrorist attacks of 9/11. In addition to helping Iran, it would help the people of the United States to get our country off the insane path it's on. By not responding, you deprive Trump of an enemy, and win the support of the world, including in the US. This is how the world wins. ",
+            "created": "Sun, 05 Jan 2020 15:50:52 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/10/16/uncleSam.png"
+        },
+        {
+            "text": "This is so typical. <a href=\"https://newrepublic.com/amp/article/156096/death-good-internet-inside-job-decade-hell\">Journalist says</a> the “good internet” ended when Google shut down Reader. Millions of users figured out how to use RSS without Google. I wonder what else this guy misses because he’s not willing to do a bit of research. ",
+            "created": "Sun, 05 Jan 2020 19:05:19 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://www.youtube.com/watch?v=RGQxI0G6mKk\">This song</a> is going through my head like <a href=\"https://www.youtube.com/watch?v=J1__dINxiXU\">All Along the Watchtower</a> was in Battlestar Galactica. I hadn't heard it in years, but there it was, going round and round. There must be some way out of here. ",
+            "created": "Sun, 05 Jan 2020 17:47:16 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Trump is like the Knicks, he makes everyone look good. It's like playing checkers with someone who has no idea there is a game or has any idea of what the rules are. Rules? He just <a href=\"https://www.youtube.com/watch?v=NWeh4A600E0\">does things</a>. ",
+            "created": "Sun, 05 Jan 2020 17:34:15 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=NWeh4A600E0"
+        },
+        {
+            "text": "Email congestion",
+            "created": "Sun, 05 Jan 2020 17:52:13 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Last night's emails didn't go out because I exceeded the rate limit with the service provider we use. It's good that more people subscribed to the emails. I've sent the service provider a request to increase the rate limit. Apologies. ",
+                    "created": "Sun, 05 Jan 2020 14:35:10 GMT"
+                },
+                {
+                    "text": "I've also added code to my nightly mail-sending app to limit the rate at which we send emails. Previously we sent them out the pipe as fast as we can. Since computers these days are very fast, that's a lot of emails in a very short time. The new code sends mail a max of ten messages per second. It's possible that's the rate limit we exceeded. A lot of times this software stuff is like boxing with an invisible opponent. A very unreasonable opponent. :boom:",
+                    "created": "Sun, 05 Jan 2020 15:58:39 GMT"
+                },
+                {
+                    "text": "Node devs: The package is <a href=\"https://www.npmjs.com/package/davemail\">davemail</a>, the <a href=\"https://github.com/scripting/mail/blob/master/sendmail.js\">source</a> is on GitHub.  ",
+                    "created": "Sun, 05 Jan 2020 17:11:30 GMT",
+                    "type": "outline"
+                }
+            ]
+        }
+    ]
+}
