@@ -1,0 +1,97 @@
+{
+    "text": "January 6",
+    "created": "Mon, 06 Jan 2020 14:59:58 GMT",
+    "name": "06",
+    "subs": [
+        {
+            "text": "We live in an occupied country.",
+            "created": "Mon, 06 Jan 2020 16:34:17 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://twitter.com/joanwalsh/status/1214272487103565824\">Joan Walsh</a>: \"If Bolton says he'll comply with a Senate subpoena, on what grounds could he refuse a House subpoena?\"",
+            "created": "Mon, 06 Jan 2020 19:58:21 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/joanwalsh/status/1214272487103565824"
+        },
+        {
+            "text": "If Bolton were a patriot, imho, he'd arrange to give testimony in the House asap.",
+            "created": "Mon, 06 Jan 2020 19:33:37 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I write about my blog on Twitter. I write about Facebook on my blog. I refuse to give up on the open web. ",
+            "created": "Mon, 06 Jan 2020 19:48:56 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "The thing that was so frustrating about the <a href=\"https://newrepublic.com/amp/article/156096/death-good-internet-inside-job-decade-hell\">piece</a> from Jason Linkins in the New Republic is that he is the kind of user we need on the open web. They see it as we deserted them, but as a developer who needs smart driven creative and friendly users, when you guys left, and decided to pour your brilliance into Twitter and Facebook instead, you helped drive the downward spiral. <i>Users matter. </i>That's the thing I've never been able to communicate to users. Stop being sheep. Choose. It may be a little harder, you may have to give up some features at first, but if you support a creative individual developer, you could be amazed at the new power they can and will create for you. Work with developers who make tools you like. Help them.  ",
+            "created": "Mon, 06 Jan 2020 16:05:52 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Postscript on the <a href=\"http://scripting.com/2020/01/05/175213.html\">email outage</a>. Problem solved. The mails went out last night. A perfect programming job for a Sunday. Correctly sized up the problem, determined the solution, implemented and tested all within a couple of hours, in time to take a walk and then watch <a href=\"https://www.nydailynews.com/sports/basketball/knicks/ny-marcus-morris-rj-barrett-paul-george-kawhi-leonard-la-clippers-20200105-mqwpur4yancmhm5qhgypicfs7a-story.html\">the Knicks lose</a> to the Clippers, and started reading a new excellent <a href=\"https://en.wikipedia.org/wiki/The_Man_Who_Fell_to_Earth_(novel)\">science fiction novel</a> chosen from a list I can't find now. Today, the first day back to work in the New Year, I have no idea what to work on next. I'm going to look for something small and self-contained. I also <a href=\"https://github.com/scripting/mail#readme\">documented</a> the previously undocumented package, so maybe someone else will benefit from the work.  ",
+            "created": "Mon, 06 Jan 2020 14:59:59 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/01/06/manWhoFellToEarth.png"
+        },
+        {
+            "text": "Careful mate, that foreigner wants your cookie!",
+            "created": "Mon, 06 Jan 2020 18:52:29 GMT",
+            "type": "outline",
+            "inlineImage": "http://scripting.com/images/2020/01/06/murdochHasTheCookies.png"
+        },
+        {
+            "text": "Sometimes on FB people say the kind of stuff you hear on CNN from opinioneers whose job it is to say something even when there isn't anything to say. You listen to these people, and it's just a word salad of non-sentences that have absolutely no meaning. Then the host that you somewhat admire (e.g. Tapper, Melber) says that's an excellent point, Pete or that gets you thinking Gloria, and you realize they're just filling time with words that really have no meaning, and you're just wasting your time, you could learn more watching a Law & Order rerun for the 18th time. At least they're getting paid to do it. But on FB, there's just no call for it.",
+            "created": "Mon, 06 Jan 2020 19:42:59 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Sharing on Facebook",
+            "created": "Mon, 06 Jan 2020 15:30:15 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://twitter.com/howardweaver\">Howard Weaver</a> asked how to share a post from Scripting News to Facebook. These days this is how I do it. ",
+                    "created": "Mon, 06 Jan 2020 15:29:04 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Open \"Scripting News\" in its own browser window. This makes it easier to go back and forth, which we're going to have to do several times. ",
+                            "created": "Mon, 06 Jan 2020 15:30:53 GMT"
+                        },
+                        {
+                            "text": "Click on the purple pound sign to the right of the post you want to share. ",
+                            "created": "Mon, 06 Jan 2020 15:42:52 GMT"
+                        },
+                        {
+                            "text": "Take a screen shot of the post. Here's how I do it on the Mac. Press Cmd-Shift-4, to go into Screen Shot mode. You can let up the keys after pressing them. Move the mouse to the upper left corner of the area you want to copy, click and hold, then drag to the lower right corner and let up the mouse. The screen shot is now on the clipboard.",
+                            "created": "Mon, 06 Jan 2020 15:31:12 GMT",
+                            "image": "http://scripting.com/images/2020/01/06/sayBlockchainAgain.png"
+                        },
+                        {
+                            "text": "Open Facebook in another window. Navigate to the place you want to drop the shared post. Click in the text box, and press Cmd-V (on the Mac) to paste the screen shot. Do not submit the post yet, there's more to do.",
+                            "created": "Mon, 06 Jan 2020 15:32:33 GMT"
+                        },
+                        {
+                            "text": "Go back to the browser window with the Scripting News post, click in the address bar. Cmd-A if necessary to select the whole address and copy it to the clipboard (Cmd-C). Switch back into Facebook and paste the address into the message. ",
+                            "created": "Mon, 06 Jan 2020 15:33:34 GMT"
+                        },
+                        {
+                            "text": "One more time, go back to the post and select a provocative phrase or sentence from the post. Something that'll catch the readers' interest. Select, Copy, switch into Facebook, Paste. ",
+                            "created": "Mon, 06 Jan 2020 15:31:13 GMT"
+                        },
+                        {
+                            "text": "Now you're ready to post. Review what's there to make sure everything is as you'd like it and then click the Post button. ",
+                            "created": "Mon, 06 Jan 2020 15:35:57 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "PS: Of course I shared this post <a href=\"https://www.facebook.com/photo.php?fbid=1128171360723601&set=a.113966572144090&type=3&theater\">on Facebook</a>. :boom:",
+                    "created": "Mon, 06 Jan 2020 15:46:18 GMT"
+                }
+            ]
+        }
+    ]
+}
