@@ -1,0 +1,83 @@
+{
+    "text": "January 10",
+    "created": "Fri, 10 Jan 2020 14:02:05 GMT",
+    "name": "10",
+    "subs": [
+        {
+            "text": "I've been wanting to bootstrap a <a href=\"http://scripting.com/2020/01/10/docSearlsFutureSafeArchives.m4a\">podcast</a> with <a href=\"https://en.wikipedia.org/wiki/Doc_Searls\">Doc Searls</a> for the longest time. When we get together, our conversations are fluid, and full of ideas and stories. In the last few years we've started to exchange voicemails using the iPhone voice memo app. A few days ago I said to <a href=\"https://duckduckgo.com/?q=%22Doc+Searls%22&t=h_&ia=web\">Doc</a>, in a voicemail of course, that we should try to do a podcast that was just a series of voicemails. Nothing more fancy than that. So here's <a href=\"http://scripting.com/2020/01/10/docSearlsFutureSafeArchives.m4a\">Doc's first podcast</a>, to kick things off. He talks about what I call <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+future-safe+archives&t=h_&ia=web\">future-safe archives</a>. Ideas follow. I think we should <a href=\"http://scripting.com/2018/02/26/151513.html#a153528\">retire domains</a> the way sports teams retire numbers. We should have a plan for how to preserve the web, not a photograph of the web (that's what archive.org does). BTW, since this podcast is part of scripting.com, it is backed up every night. The original is on Amazon S3, which I think it is the most stable and affordable publicly available storage system. If it didn't exist, I'd be begging them to create it. ",
+            "created": "Fri, 10 Jan 2020 14:51:53 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2020/01/10/docSearlsFutureSafeArchives.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "5056575",
+            "image": "http://scripting.com/images/2018/04/07/lifesavers.png"
+        },
+        {
+            "text": "An interesting idea in Doc's <i>voicemailcast, </i>apparently Google doesn't crawl the web these days, they use the addresses of pages that Chrome users visit. Makes total sense. It's why his pages don't show up in Google search until he goes there. Hadn't thought of this. ",
+            "created": "Fri, 10 Jan 2020 15:41:29 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "BTW, I thought the idea of a <a href=\"https://duckduckgo.com/?q=voicemailcast&t=h_&ia=web\">voicemailcast</a> might be original, but alas the <a href=\"https://www.sixpixels.com/articles/archives/voicemailcast_-_vmcast_-_this_needs_better_nomenclature/\">idea is described</a> in a post in 2006.",
+            "created": "Fri, 10 Jan 2020 15:43:53 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Reminder: I just did a new release of \"XML-RPC\", first since the early 2000s. The new reference version is written in JavaScript. ",
+            "created": "Fri, 10 Jan 2020 18:23:35 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"http://scripting.com/2016/05/04/1237.html\">2016</a>: \"If they can kill something that's worth $100 to reap $1 of value from the corpse, they see that as good business. That's the approach that has got our species into the climate change corner we're in.\"",
+            "created": "Fri, 10 Jan 2020 18:33:39 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://www.nbcnews.com/politics/2020-election/bloomberg-fund-sizable-campaign-effort-through-november-even-if-he-n1113421\">Bloomberg will continue</a> to fund his digital operation even if he is not the nominee. Of course. What a powerful idea. A campaign that's for the good of the people more than it is for a specific candidate. Brilliant. This is just what I <a href=\"http://scripting.com/2016/05/04/1237.html\">wanted Obama to do</a> when he won in 2008. Continue to run the digital operation after the election was settled. People underestimate Bloomberg. Think of him as a peer of Steve Jobs. Same depth of experience and success. A visceral understanding of tech and media.",
+            "created": "Fri, 10 Jan 2020 16:01:21 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/2016/05/04/obamaTakesOffice.png"
+        },
+        {
+            "text": "Facebook is not bad",
+            "created": "Fri, 10 Jan 2020 14:02:06 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "One of the nice things about the <a href=\"http://scripting.com/email/\">nightly email</a> distribution of \"Scripting News\" is that I hear directly from readers. Most of the responses are thoughtful and informative, and that's great. But sometimes I receive responses that are neither thoughtful or informative, like the one I received yesterday (author's name withheld so it isn't personal), quoted below.",
+                    "created": "Fri, 10 Jan 2020 14:12:04 GMT",
+                    "subs": [
+                        {
+                            "text": "\"Just because a billion people do something doesn’t mean the thing they do is good.  Two examples:  smoking tobacco and dumping CO2 into the atmosphere. Facebook use is undercutting democracy around the world.  It’s not getting better.  We need something like Wikipedia but in the Facebook arena.\"",
+                            "created": "Fri, 10 Jan 2020 14:04:57 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "First, this was not written by a journalist, but it could have been. It's more or less the party line among journalists. ",
+                    "created": "Fri, 10 Jan 2020 14:05:07 GMT"
+                },
+                {
+                    "text": "Second, I am a former smoker, and it was definitely damaging my health, a cardiologist who had just operated on my heart said so. I stopped, and believe I am healthier as a result. I am still alive, and that's something. But I have to say there were positive things about smoking. I won't go into them here and now, I just want to say that they exist. ",
+                    "created": "Fri, 10 Jan 2020 14:05:57 GMT"
+                },
+                {
+                    "text": "Third, the correspondent is indulging in a logical falacy. It's true some popular things are bad, but that doesn't mean all popular things are bad, nor are all bad things bad in all ways. His second example \"dumping CO2 into the atmosphere\" is bad, but driving cars is often good. An ambulance that saves someone's life is dumping CO2 into the atmosphere. Later today I'm going to drive to get groceries. That's good. I use electricity to heat my house. On a cold night, where the temperature can go down into the teens, believe me <i>that's good. </i>And to get the heat I am dumping CO2 into the atmosphere. ",
+                    "created": "Fri, 10 Jan 2020 14:06:44 GMT"
+                },
+                {
+                    "text": "As someone who uses Facebook, let me testify that many of the things that happen there are good, unique, empowering and fun -- things I wouldn't want to live without. These things are certainly worth <i>understanding</i> before dismissing the whole medium. You can learn from something you don't like. A billion people doing something raises the question \"What are they doing?\" We should aspire to not dismiss before understanding, imho.",
+                    "created": "Fri, 10 Jan 2020 14:08:30 GMT"
+                },
+                {
+                    "text": "A little unsolicited advice. Don't be so rigid. If someone you respect says something is worth doing, if you dismiss it with a generalization you can't prove, you're missing something, and probably not just in this area. Living a creative and interesting life imho requires considering possibilities you might have rejected without much consideration, stepping outside your comfort zone. Keep an open mind. Challenge your assumptions.",
+                    "created": "Fri, 10 Jan 2020 14:10:33 GMT"
+                },
+                {
+                    "text": "Nowadays when you go to a baseball game there is never a moment when the PA system shuts up so you can talk about the game with your friends. This used to be one of the nicest things about going to a live game. The shared experience. Now they play commercials every minute that baseball isn't being played. On top of the $100 you paid for the seat. We are coerced into singing <a href=\"https://www.youtube.com/watch?v=UMdkcTmPS2U\">God Bless America</a>, a truly awful song, instead of <a href=\"https://www.youtube.com/watch?v=q4-gsdLSSQ0\">Take Me Out To the Ballgame</a>, as a form of weak patriotism (weak because if they understood America, they'd realize that forcing people to pray to your god is about as un-American as it gets). We have to rise to thank the troops who protect our freedom in Afghanistan, even if you don't believe that's what's going on. That's the world that Facebook exists in. So if you don't like the commercialism of Facebook, the lies that advertisers tell, you should have the same feeling about America's national pastime. And Facebook isn't nearly that bad, btw. And some very good things happen there. ",
+                    "created": "Fri, 10 Jan 2020 14:12:34 GMT"
+                }
+            ]
+        }
+    ]
+}
