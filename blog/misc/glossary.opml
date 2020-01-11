@@ -3,17 +3,17 @@
 	<head>
 		<title>Glossary</title>
 		<dateCreated>Tue, 13 Jun 2017 13:42:31 GMT</dateCreated>
-		<dateModified>Mon, 16 Dec 2019 16:58:57 GMT</dateModified>
-		<ownerName>Dave Winer</ownerName>
+		<dateModified>Fri, 10 Jan 2020 18:24:25 GMT</dateModified>
+		<ownerName>Dave</ownerName>
 		<ownerId>https://twitter.com/davewiner/</ownerId>
-		<expansionState>1,15,17</expansionState>
+		<expansionState>1,15,17,97</expansionState>
 		<vertScrollState>1</vertScrollState>
 		<windowTop>631</windowTop>
 		<windowLeft>1087</windowLeft>
 		<windowBottom>831</windowBottom>
 		<windowRight>1472</windowRight>
 		<flPublic>true</flPublic>
-		<lastCursor>0</lastCursor>
+		<lastCursor>97</lastCursor>
 		<ownerTwitterScreenName>davewiner</ownerTwitterScreenName>
 		<urlPublic>http://electricserver.scripting.com/users/davewiner/electric/glossary.opml</urlPublic>
 		<urlJson>http://electricserver.scripting.com/users/davewiner/electric/glossary.json</urlJson>
@@ -303,7 +303,7 @@
 			<outline text="&lt;a href=&quot;http://this.how/trolls/&quot;&gt;troll&lt;/a&gt;" created="Sun, 02 Sep 2018 16:50:15 GMT"/>
 			</outline>
 		<outline text="&quot;XML-RPC&quot;" created="Sat, 26 May 2018 03:02:46 GMT">
-			<outline text="&lt;a href=&quot;http://xmlrpc.scripting.com/&quot;&gt;XML-RPC&lt;/a&gt;"/>
+			<outline text="&lt;a href=&quot;http://xmlrpc.com/&quot;&gt;XML-RPC&lt;/a&gt;" created="Fri, 10 Jan 2020 18:24:14 GMT"/>
 			</outline>
 		</body>
 	</opml>
