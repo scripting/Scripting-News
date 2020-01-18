@@ -1,0 +1,93 @@
+{
+    "text": "January 17",
+    "created": "Fri, 17 Jan 2020 14:47:03 GMT",
+    "name": "17",
+    "subs": [
+        {
+            "text": "<a href=\"http://scripting.com/2020/01/17/docCastThursday.mp3\">Doc's podcast for the day</a>. This time he has a <a href=\"http://instantoutliner.com/f6\">public outline</a> with notes. I'm going to do some work on the outline reader. Creating a groove. I updated the outline reader software to hot-up his links, to make it a bit more readable on a big screen, and a lot more readable on mobile devices. It's been a long time since I touched that code, I actually had a hard time finding it.  :smile:",
+            "created": "Fri, 17 Jan 2020 16:30:51 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2020/01/17/docCastThursday.mp3",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "11797627",
+            "image": "http://scripting.com/images/2020/01/17/halvah.png"
+        },
+        {
+            "text": "Doc has been outlining his podcast, so I started <a href=\"http://instantoutliner.com/f2\">outlining mine</a>. I have not recorded it yet.",
+            "created": "Fri, 17 Jan 2020 21:29:27 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "The best way to experience my blog these days is <a href=\"http://scripting.com/email/\">via email</a>, not RSS. That's not the last word, but right now that's where we're at. That goes for my podcasts too believe it or not. ",
+            "created": "Fri, 17 Jan 2020 21:15:47 GMT",
+            "type": "tweet",
+            "tweetId": "1218283886591062016",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "If I ask you to post something you wrote on Facebook on your blog, so I can point to it, it's because I thought you said something interesting, and I'd like to share it through my blog and feed, but I can't share Facebook posts outside of Facebook. I have a rule about that, and I rarely break the rule. Lots of reasons for it. ",
+            "created": "Fri, 17 Jan 2020 21:01:57 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I really liked <a href=\"https://www.metacritic.com/movie/jojo-rabbit\">Jojo Rabbit</a>, even though it got mixed reviews. You start out wondering what the hell they're doing, but in the end it's a good simple little story that has a lot of meaning. A sort of lite version of <a href=\"https://en.wikipedia.org/wiki/The_Handmaid%27s_Tale_(TV_series)\">Handmaid's Tale</a>. I really liked that <a href=\"https://en.wikipedia.org/wiki/Rebel_Wilson\">Rebel Wilson</a> was in it, a good fit, as was the chief Gestapo guy, and Jojo's best friend. What's not to like? ",
+            "created": "Fri, 17 Jan 2020 18:10:47 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://en.wikipedia.org/wiki/Rainer_Maria_Rilke\">Rainer Maria Rilke</a>: “Let everything happen to you. Beauty and terror. Just keep going. No feeling is final.”",
+            "created": "Fri, 17 Jan 2020 19:03:44 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "My great-uncle, <a href=\"https://en.wikipedia.org/wiki/Arno_Schmidt\">Arno Schmidt</a>, a German author, died in 1979. ",
+            "created": "Fri, 17 Jan 2020 19:08:19 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Dan MacTough <a href=\"https://github.com/scripting/Scripting-News/issues/144#issuecomment-575417994\">answers</a> yesterday's query. Add <code>disown -a</code> after the nohup call. I'm testing it and so far it works.",
+            "created": "Fri, 17 Jan 2020 16:15:57 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Who ever thought that titles, or the lack thereof, would be the end of blogging? As they say god works in mysterious ways. Also, it's even worse than it appears. :boom:",
+            "created": "Fri, 17 Jan 2020 15:24:18 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I must've done something terribly wrong because there's a symposium in NYC in February about how to keep the silos from taking ownership of podcasting, and I don't know any of the speakers. How are we ever going to get anywhere if we don't work together? Oy.",
+            "created": "Fri, 17 Jan 2020 15:22:03 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Neat new trick in my blog. When I generate links to titled posts, I put the title in the link, after the question mark in the URL. <a href=\"http://scripting.com/2020/01/11/180743.html?title=naughtonOnFacebook\">Example</a>. The browser ignores it, as does the JavaScript code in the page. It's there to provide a human-readable title for the post. You might ask, why not just make the title the link? We did that, for many years, but then you couldn't change the title, or the URL would get out of sync with the title. It's more honest imho to just give each post a URL that is not a function of the title. But it's still nice to have the title present. So there you go, a neat solution and an honorable tradeoff. ",
+            "created": "Fri, 17 Jan 2020 15:11:25 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Bagels",
+            "created": "Fri, 17 Jan 2020 14:58:47 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Speaking as an authority on the subject of bagels, there is absolutely nothing wrong with a <a href=\"https://www.nytimes.com/2020/01/15/nyregion/bagel-ny-toasted-de-blasio.html\">toasted</a> bagel. In fact unless I'm eating a freshly baked bagel, and that's pretty rare these days, I toast them. The warmth of toasting brings out some of the flavor of the bagel when it was fresh. ",
+                    "created": "Fri, 17 Jan 2020 14:47:04 GMT",
+                    "type": "outline",
+                    "image": "http://scripting.com/images/2020/01/17/bagel.png"
+                },
+                {
+                    "text": "However I cannot sanction whole wheat bagels. Why? Bagels are not hippie food. Sesame, onion, everything, these are my go-to flavors. The only thing worse than whole wheat is a cinnamon raisin breakfast bagel. Please. ",
+                    "created": "Fri, 17 Jan 2020 14:59:09 GMT"
+                },
+                {
+                    "text": "My favorite <a href=\"https://www.utopiabagelsofnewyork.com/menu\">bagel place</a> is on Utopia Parkway in Whitestone, near where I grew up in Flushing. Neighborhood bagel stores are best. I've tried all the famous supposedly best bagels in NYC and imho they aren't bagels, they have more in common with loaves of bread. A bagel shouldn't be so large. Worst offender -- <a href=\"https://www.ess-a-bagel.com/\">Ess-A-Bagel</a>. ",
+                    "created": "Fri, 17 Jan 2020 14:59:25 GMT"
+                },
+                {
+                    "text": "Give me a fresh bagel with cream cheese and lox and maybe a slice of cucumber and bit of onion, capers on the side, with a cup of fresh coffee and Uncle Davey is a happy camper. ",
+                    "created": "Fri, 17 Jan 2020 14:59:44 GMT"
+                }
+            ]
+        }
+    ]
+}
