@@ -1,0 +1,86 @@
+{
+    "text": "January 25",
+    "created": "Sat, 25 Jan 2020 18:12:24 GMT",
+    "name": "25",
+    "subs": [
+        {
+            "text": "<a href=\"https://www.youtube.com/watch?v=Q7sSF4OORzc\">Video</a> of Trump dinner where he orders Lev and friends to \"take out\" the Ukrainian ambassador. ",
+            "created": "Sat, 25 Jan 2020 23:30:33 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=Q7sSF4OORzc"
+        },
+        {
+            "text": "Republican senators should watch <a href=\"https://www.youtube.com/watch?v=nRoVIpczcrY&feature=emb_logo\">this scene</a> from Game of Thrones. You see that guy Joffrey, the guy talking about \"putting a son\" in the attractive woman -- he's a lot like your leader (except he has nice hair). Wait for the punchline. You're going to love it!",
+            "created": "Sat, 25 Jan 2020 18:56:33 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=nRoVIpczcrY"
+        },
+        {
+            "text": "The Dems should embrace the Repubs-with-heads-on-spike meme. They would be doing the Repubs a favor actually because even if they deny it, we know that some of their heads <i>will</i> be on spikes before long. Let's debate that on CNN.",
+            "created": "Sat, 25 Jan 2020 19:47:51 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Here's what my day's been like so far. Woke up at 9:30AM. Made some breakfast, turned on WNYC on my Alexa. Listened to their summary of the previous days' impeachment speeches, no mention of Pikes and how angry Republican senators were (thanks for that), then at 10AM they started broadcasting the speech by the White House counsel (who, I thought was supposed to represent the office of the president, not the president in person, but what of it) and he started into the lying and deception. I couldn't handle it. Told Alexa to stop. Finished my orange juice and skipped the coffee and went upstairs and back to bed. Woke up at about 1PM. Guess I needed the sleep. Would you believe it's raining in January. I moved my car out of the carport and into the rain, it could use a wash, totally mud-covered. I feel depressed. I think we're over the edge again, about to free-fall into another worst thing in the world. God please help America. Your devoted servant, Admiral Davey.",
+            "created": "Sat, 25 Jan 2020 18:12:25 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/01/16/rodneyDangerfield.png"
+        },
+        {
+            "text": "My mother was a beauty. Always I had the most beautiful mother in school. The other kids said that. I was proud. She married a man, my father, who was not beautiful. I found myself wishing the other day that she had married a beautiful man, then I would be as beautiful as she was. But then I thought, then, I would not be me. Or would I? I have no idea. I'm going to try to get some work done now. ",
+            "created": "Sat, 25 Jan 2020 18:49:03 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Andy's voicemailcast",
+            "created": "Sat, 25 Jan 2020 20:07:02 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"http://andysylvester.com/2020/01/22/thoughts-from-a-user/\">Andy Sylvester</a>, a longtime user of my stuff, recorded a voicemailcast. He did an <a href=\"http://instantoutliner.com/fe\">outline</a> too. My comments follow.",
+                    "created": "Sat, 25 Jan 2020 19:56:00 GMT",
+                    "type": "outline"
+                },
+                {
+                    "text": "Andy, thanks for the voicemailcast. We've only met once face to face that I know of, and that was in a noisy place (in Portland), and there were a lot of other people there. ",
+                    "created": "Sat, 25 Jan 2020 20:00:40 GMT",
+                    "type": "outline"
+                },
+                {
+                    "text": "This voicemailcast multiplied my understanding of who you are. ",
+                    "created": "Sat, 25 Jan 2020 20:07:41 GMT"
+                },
+                {
+                    "text": "Anyway, it is hard to collaborate with me on the actual code, because of the way I work, and that's not likely to change any time soon. Also coding has not been the limiting factor for a long time. It's how to attract writers and thinkers in all fields. I have a massive body of working code. As I said in the podcast, from this point it's about selecting bits to integrate into the current writing environment. With \"LO2\", people will be using the same blogging environment I use. So we can evolve together. ",
+                    "created": "Sat, 25 Jan 2020 20:08:00 GMT",
+                    "subs": [
+                        {
+                            "text": "BTW, I used \"1999.io\" for a few years, it's what I switched from in 2017 when I decided to go back to the way I blogged before Twitter, Facebook, RSS, etc.",
+                            "created": "Sat, 25 Jan 2020 22:28:32 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "Also if Wordpress works for you, that's great. It just isn't fluid enough for me. And btw, Doc has shown me how to make the outliner even more fluid. I haven't implemented his request yet, but now I see how much it would help. More on that later.  ",
+                    "created": "Sat, 25 Jan 2020 20:10:29 GMT"
+                },
+                {
+                    "text": "There <i>are</i> ways to collaborate. For example, <a href=\"https://blog.andrewshell.org/what-is-rsscloud/\">Andrew Shell</a> has been developing and managing the <a href=\"http://walkthrough.rsscloud.co/\">rssCloud</a> server functionality. Perfect because we have a well-defined API for how our software interacts. He tells me he's doing a new release. So helping him might be an option, if he needs help. ",
+                    "created": "Sat, 25 Jan 2020 20:10:50 GMT"
+                },
+                {
+                    "text": "But here's my number one request of the world -- what I want most that other people could create, is a <u>Linux version of Frontier</u>. I am in a precarious place on the Mac. The version of \"Frontier\" that I use as a code-writing and devops tool does not run on the latest Mac OS. We knew this was coming. I bought a super hot iMac Pro just before their OS switch, so I'm good as long as this machine continues to run, and the backup machines I have which are older continue to run. But I'm three hardware failures away from having no way forward. That's not good. ",
+                    "created": "Sat, 25 Jan 2020 20:11:21 GMT"
+                },
+                {
+                    "text": "And Linux is great. All my servers run Ubuntu now, all my server code is in Node.js. Imagine how smooth it would be to have my development environment run there too. Lots of synergies, and safety. <a href=\"http://scripting.com/2018/04/26/151833.html\">Ted Howard</a> is the main guy on that stuff. Without his work I would have lost use of Frontier a long time ago. BTW this is a project I personally would put money into. You talk about the economics of software, there is a new bit of info on the economics. ",
+                    "created": "Sat, 25 Jan 2020 20:12:12 GMT"
+                },
+                {
+                    "text": "Also next time you do a voicemailcast please send me a link via email. I almost didn't see this, and that would have been a shame. :smile: ",
+                    "created": "Sat, 25 Jan 2020 20:12:46 GMT"
+                }
+            ]
+        }
+    ]
+}
