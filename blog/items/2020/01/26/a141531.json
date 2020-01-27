@@ -1,0 +1,33 @@
+{
+    "text": "Testing is needed",
+    "created": "Sun, 26 Jan 2020 14:15:31 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Andy Sylvester <a href=\"http://scripting.com/2020/01/25/200702.html?title=andysVoicemailcast\">asked</a> yesterday what can he do to help. Here's one thing that really holds back progress. When I ship a new version of a piece of software, test it. If you don't know how to do software testing, <a href=\"https://duckduckgo.com/?q=how+to+test+software&t=h_&ia=web\">learn</a>. This is a real problem.",
+            "created": "Sun, 26 Jan 2020 14:11:03 GMT",
+            "type": "outline",
+            "image": "http://static.scripting.com/larryKing/images/2013/12/08/indianaJones.gif"
+        },
+        {
+            "text": "I'm going to release a new version of \"LO2\" soon, maybe today or tomorrow. I will have verified it works on my machine, for what I use it for. But there may be deal stoppers for others.",
+            "created": "Sun, 26 Jan 2020 14:16:15 GMT"
+        },
+        {
+            "text": "These days, even experienced developers write ridiculous bug reports. One guy sent me an email saying he couldn't unsub from the nightly email. No clue as to what he did, or what happened. He just said it didn't work and asked if I knew what the problem was. There's nothing I can do for him.",
+            "created": "Sun, 26 Jan 2020 14:16:27 GMT"
+        },
+        {
+            "text": "20-plus years ago we had a community that tested the new stuff, and gave us good bug reports. Then we could get some work done. One of them, <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+terry+teague&t=h_&ia=web\">Terry Teague</a>, was a one-man QA department. He worked for Apple doing testing, but volunteered for community projects like ours, in his spare time, out of the goodness of his heart.",
+            "created": "Sun, 26 Jan 2020 14:17:01 GMT"
+        },
+        {
+            "text": "When I release the new version of LO2, I will write up the changes, here, on the blog, and provide a thread on GitHub for problem reports. I will be listening. ",
+            "created": "Sun, 26 Jan 2020 14:17:30 GMT"
+        },
+        {
+            "text": "See also: <a href=\"http://scripting.com/2015/05/01/professionalUsers.html\">Professional users</a>.",
+            "created": "Sun, 26 Jan 2020 14:20:03 GMT"
+        }
+    ]
+}
