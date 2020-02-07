@@ -1,0 +1,66 @@
+{
+    "text": "February 6",
+    "created": "Thu, 06 Feb 2020 15:45:10 GMT",
+    "name": "06",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/SpeakerPelosi/status/1225451396721496064\">She is so talented</a>. I can't believe we didn't use this talent more effectively in the past. Watching <a href=\"https://twitter.com/SpeakerPelosi/status/1225451396721496064\">this</a>, I think Bernie and Warren should sit down and let Pelosi lead the revolution.",
+            "created": "Thu, 06 Feb 2020 16:32:11 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/02/06/pelosi.png"
+        },
+        {
+            "text": "I want a network that works for organizing.",
+            "created": "Thu, 06 Feb 2020 18:33:16 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://twitter.com/iolairemcfadden/status/1225067577204002821\">Iolaire McFadden</a> has <a href=\"https://secure.actblue.com/donate/2020SenateRaces\">created</a> a sort of mutual fund for donations to all the Democratic candidates for Senate in the 2020 election. Your donations are divided between them. I just gave $100. It's a good idea, good for the country.",
+            "created": "Thu, 06 Feb 2020 15:45:11 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Tony Haile, the founder of <a href=\"https://scroll.com/\">Scroll</a> and <a href=\"https://en.wikipedia.org/wiki/Chartbeat\">Chartbeat</a>, had a really <a href=\"https://twitter.com/arctictony/status/1225253452168781825\">good idea</a>. When the Senate votes on something consequential, such as whether to remove the president, let's have a readout that shows the number of people the Yes votes represent, by state, and the number of people the No votes represent. It would measure how far our government is from being a democracy. I would love to see this as a website.",
+            "created": "Thu, 06 Feb 2020 15:59:54 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/arctictony/status/1225253452168781825"
+        },
+        {
+            "text": "Randall Neff did an <a href=\"http://scripting.com/2020/02/06/Senate-vote-2020-02-05.xlsx\">Excel spreadsheet</a> for the impeachment trial. It wasn't as lopsided as I imagined. Roughly 52% to convict, 48% to acquit. The reps of a majority of Americans thought he was guilty, but not nearly enough to convict him. Here's the spreadsheet <a href=\"http://scripting.com/2020/02/06/Senate-vote-2020-02-05.pdf\">in PDF</a>.",
+            "created": "Thu, 06 Feb 2020 23:15:46 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "When I <a href=\"http://scripting.com/stories/2008/05/13/demoOfFirefly.html\">first reviewed Chartbeat</a> it was called Firefly. I may have been the first user outside of Betaworks. I loved it, it was one of those \"You can't really do this can you?\" ideas. ",
+            "created": "Thu, 06 Feb 2020 16:11:45 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Amazon should remove the <a href=\"https://en.wikipedia.org/wiki/The_Room_Where_It_Happened\">Bolton book</a> from its website.",
+            "created": "Thu, 06 Feb 2020 23:53:08 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Why is Trump's approval rating going up? This question came up on Brian Lehrer's fantastic <a href=\"https://www.wnyc.org/shows/bl\">WNYC radio show</a> this morning. Here's my theory. During the trial, Trump wasn't controlling the public conversation. So we didn't always hear about Trump's latest outrage every minute of every day. If he were to tone it down permanently, only spoke when a president would normally speak, he might be more popular.    ",
+            "created": "Thu, 06 Feb 2020 15:50:57 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://twitter.com/amyklobuchar/status/1225428106330148869\">Amy Klobuchar</a> still meets my requirements for a good Democratic candidate for <a href=\"http://scripting.com/2020/02/05.html#a150458\">the plan</a> I outlined yesterday. My only concern was her confidence, but she's really good in this interview. I would definitely vote and work for her, without reservations.   ",
+            "created": "Thu, 06 Feb 2020 15:57:50 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/amyklobuchar/status/1225428106330148869"
+        },
+        {
+            "text": "It's been a while since we had an Occam's News report. Here's the latest. In the impeachment trial, if the jury could have been sure there would be no retribution for a vote of guilty, a lot more would have voted that way. A bunch of them would have voted to acquit even if there would be no retribution, because they think the US is going to privatize massive parts of the government, and they want to be in position to get some of that. Rand Paul, Lindsey Graham, Ted Cruz.",
+            "created": "Thu, 06 Feb 2020 23:33:47 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "This is a test of <a href=\"http://scripting.com/2018/07/13/140009.html\">xref</a> node types in Old School. Following the <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/days/2018/07/13.json\">example</a> from 7/13/2018, this node has an xref attribute whose value is <a href=\"http://scripting.com/2020/02/02.html#a223229\">this</a>. When you expand this item you should see the contents of the post. It's a type of <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+inclusion&t=h_&ia=web\">inclusion</a>. Today I'm moving the folder on the server where the linkages exist as static objects. This post let me test to see if the move worked, when I did it.  ",
+            "created": "Thu, 06 Feb 2020 17:19:41 GMT",
+            "type": "outline",
+            "xref": "http://scripting.com/2020/02/02.html#a223229"
+        }
+    ]
+}
