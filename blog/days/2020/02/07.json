@@ -1,0 +1,71 @@
+{
+    "text": "February 7",
+    "created": "Fri, 07 Feb 2020 15:43:23 GMT",
+    "name": "07",
+    "subs": [
+        {
+            "text": "It's a two voicemailcast Friday. <a href=\"http://scripting.com/2020/02/05/daveToDoc2.m4a\">The first one</a> is from me, to kick it off, and a response from Doc will follow in the next item. I have an <a href=\"http://instantoutliner.com/g4\">outline</a>, but they were the notes I took before doing the podcast, I didn't clean them up, so you're seeing D2D (Dave-to-Dave) communication. I recorded this on Wednesday. And some of the items in the outline didn't make it into the cast. Still diggin. ",
+            "created": "Fri, 07 Feb 2020 15:43:24 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2020/02/05/daveToDoc2.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "15603192"
+        },
+        {
+            "text": "And here's <a href=\"http://scripting.com/2020/02/07/2020_02_06-oddcast.mp3\">Doc's cast</a>. This is gold. The narrative of a user. I get so much out of this. ",
+            "created": "Fri, 07 Feb 2020 16:51:13 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2020/02/07/2020_02_06-oddcast.mp3",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "13264769"
+        },
+        {
+            "text": "As I say in my podcast, this series is a rambling disorganized and repetitive conversation between Doc and myself. I'm getting huge value out of it. We're not going to hire a writer to do transcripts, because after that we'd need an editor to make sense of it. Maybe someday, could be a book or something, but right now it's just a conversation between two old friends. And it's giving me amazing information for my software development work.",
+            "created": "Fri, 07 Feb 2020 20:54:34 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Must-read <a href=\"https://www.vox.com/policy-and-politics/2020/2/7/21123518/trump-2020-election-democratic-party-james-carville?fbclid=IwAR1c7H1-jbBW-1HFE0Y7pX_6bh0nyPkeNzMt7K-MrAdLzDyc-zW7lE9hHoo\">interview</a> with James Carville. ",
+            "created": "Fri, 07 Feb 2020 21:26:25 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/153\">Braintrust query</a>: Here's an interesting piece of data. I said Hey Doc, create an AWS account. I didn't tell him how to do it.  I wanted to see what happened. He didn't succeed. OK so this means to me that we need a piece of software. A rough idea of how it would work. The user signs on to their Amazon account, the one they use to buy socks, and then authorizes you to act on its behalf with AWS. Ideally that would feel, to the user, like giving access to an app to use their Twitter identity. From there, you create a pair of S3 buckets, one private and one public. Then you allow my software to access his bucket. I don't know what all these steps are. But it should draw on a user's ability to create accounts on other popular services. I imagine it's what Amazon itself would create if they wanted to provide a service to non-developers. I imagine at this time they consider it a \"developer opportunity.\" I need this functionality as a go-between my users and my software. I don't want to store their stuff long-term, because I dont have a long-term. ",
+            "created": "Fri, 07 Feb 2020 20:58:34 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://www.vanityfair.com/news/2020/02/behind-the-scenes-of-trump-birther-implosion-sinking-in-the-swamp\">Trolling 101</a>: \"The press, he likely knew, wouldn’t be able to resist criticizing him. To criticize him, they would have to talk about him.\"",
+            "created": "Fri, 07 Feb 2020 19:14:23 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I did a search on Google yesterday trying to find a US government website. The top hit took me to a site that looked like the site I was looking for. I started filling in my information, then I noticed the URL wasn't on a .gov domain. Looked closer and realized it was a hack. I don't want to publicize the search; just to say there's another attack vector I hadn't considered and should have. I assumed a hack wouldn't be a top hit for a government site on Google.",
+            "created": "Fri, 07 Feb 2020 19:15:39 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/publicfolder/issues/3#issuecomment-583388116\">Johkla is having trouble</a> setting up Public Folder. Can you help?",
+            "created": "Fri, 07 Feb 2020 15:55:45 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Candidates who aren't likable aren't usually elected. Like Mike Dukakis. The Repubs mocked him. On paper he was a better candidate than Bush. Bush won. Bush said cute shit like Big Mo. And ran racist ads about Willie Horton. The <a href=\"http://scripting.com/images/2020/02/07/dukakisInTheTank.png\">picture</a> of Dukakis in the tank. He lost the election when asked would he favor the death penalty if someone <a href=\"http://content.time.com/time/specials/packages/article/0,28804,1844704_1844706_1844712,00.html\">murdered</a> his wife Kitty. He gave a totally rational response. They said he was cold. It stuck. ",
+            "created": "Fri, 07 Feb 2020 16:07:39 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/02/07/dukakisSmall.png"
+        },
+        {
+            "text": "<a href=\"https://www.youtube.com/watch?v=PICluK9Wjzs\">This video explains</a> how the Repubs tore Michael Dukakis apart in 1988. Remember that when choosing a candidate to run against Trump, who is the great-great-grandchild heir to this slash-and-burn style of campaign. The Democratic Party in its current shape will not be able to help the nominee. That's why, even if you don't like oligarchs, it's so important that Bloomberg is building a campaign attack machine as fast as he can. ",
+            "created": "Fri, 07 Feb 2020 19:23:55 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=PICluK9Wjzs"
+        },
+        {
+            "text": "Mike Dukakis in the tank.",
+            "created": "Fri, 07 Feb 2020 16:26:03 GMT",
+            "type": "outline",
+            "inlineImage": "http://scripting.com/images/2020/02/07/dukakisInTheTank.png"
+        }
+    ]
+}
