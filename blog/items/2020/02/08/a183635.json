@@ -1,0 +1,5 @@
+{
+    "text": "Doc asked in passing what it means when a section of the outline has chevrons in place of the wedges. In this <a href=\"http://scripting.com/images/2020/02/08/commentExample.png\">screen shot</a> the red arrow points to a comment. It means the text is commented. You toggle the feature with Cmd-\\. Like everything in an outline, it's hierarchic, so when you comment a headline, it and all its subs are commented. Okay so now what does it mean to be commented? It depends on who processes the outline. The idea originated in programming, when you want to explain a bit of code, you'd tell the code interpreter the writing by \"commenting it out.\" Comments are like speaker notes for code. That was the long answer. The short one is that, for what you're doing now, it probably doesn't matter if some text is commented or not. It'll happen if you press Cmd-\\ by accident. ",
+    "created": "Sat, 08 Feb 2020 18:36:35 GMT",
+    "type": "outline"
+}
