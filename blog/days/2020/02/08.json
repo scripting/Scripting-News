@@ -1,0 +1,33 @@
+{
+    "text": "February 8",
+    "created": "Sat, 08 Feb 2020 17:29:08 GMT",
+    "name": "08",
+    "subs": [
+        {
+            "text": "I want a cloud DVR. I remember how great TiVO was a very long time ago. Do I have to use Google TV to get one? I use Roku on Spectrum.",
+            "created": "Sat, 08 Feb 2020 18:45:31 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Doc asked in passing what it means when a section of the outline has chevrons in place of the wedges. In this <a href=\"http://scripting.com/images/2020/02/08/commentExample.png\">screen shot</a> the red arrow points to a comment. It means the text is commented. You toggle the feature with Cmd-\\. Like everything in an outline, it's hierarchic, so when you comment a headline, it and all its subs are commented. Okay so now what does it mean to be commented? It depends on who processes the outline. The idea originated in programming, when you want to explain a bit of code, you'd tell the code interpreter the writing by \"commenting it out.\" Comments are like speaker notes for code. That was the long answer. The short one is that, for what you're doing now, it probably doesn't matter if some text is commented or not. It'll happen if you press Cmd-\\ by accident. ",
+            "created": "Sat, 08 Feb 2020 18:36:35 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I turned off the <a href=\"http://likes.scripting.com/\">Likes feature</a> on Scripting News. Most people are reading the stuff through email and RSS. Likes predates the email distribution. The server is a bit of a hog. But the most important thing was that it wasn't being used. If it had gained traction I would have been ready to do the work to get it smoothed out. The code is still there, the server is still running, so I could turn it back on any time. ",
+            "created": "Sat, 08 Feb 2020 17:56:23 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=382YF7EzSsw"
+        },
+        {
+            "text": "Fixed a bunch of bugs in \"LO2\" over the last few days. Still have a lot more to work on. It's great having people use it. It was hard to focus on it when I wasn't getting any feedback. I can't emphasize enough how important it is for me to have a connection with smart enthusiastic users. ",
+            "created": "Sat, 08 Feb 2020 17:29:09 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "BTW, \"LO2\" is just another name for \"Little Outliner\". There was a previous version that was quite different. So when the second version was on the way, I called it LO2. Also because typing <span style=\"letter-spacing: 0.04em\">LITTLE OUTLINER</span> was more work than LO2. Sorry for the confusion.",
+            "created": "Sat, 08 Feb 2020 17:30:14 GMT",
+            "type": "outline"
+        }
+    ]
+}
