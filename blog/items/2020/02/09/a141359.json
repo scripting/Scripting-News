@@ -1,0 +1,5 @@
+{
+    "text": "I did a small overhaul of the <a href=\"http://scripting.com/email/\">nightly email</a> code yesterday. Screwing with that code is inherently dangerous, make a mistake and the wrong email goes out to all the subscribers. Or it doesn't go out at all. This kind of code is notoriously hard to test. Anyway it worked. Whew. And one of the side-effects is that the emails go out at 12:00 PM, not 12:02 PM. I know just a two-minute difference, but I'm a perfectionist, and the two minutes really bothered me. Also it's more reliable, which is the real reason I did the work. ",
+    "created": "Sun, 09 Feb 2020 14:13:59 GMT",
+    "type": "outline"
+}
