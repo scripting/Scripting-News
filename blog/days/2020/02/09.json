@@ -1,0 +1,55 @@
+{
+    "text": "February 9",
+    "created": "Sun, 09 Feb 2020 14:13:12 GMT",
+    "name": "09",
+    "subs": [
+        {
+            "text": "<a href=\"http://scripting.com/2020/02/09/2020_02_08-oddcast.mp3\">Doc's latest podcast</a> is about outlines. What they taught you about outlining in school was dishonest. We cheated, we wrote the outline after writing the paper. But it's not like that on the computer: reorganizing is easy. The text is on <a href=\"http://scripting.com/stories/2008/11/12/textOnRails.html\">rails</a>. Doc understands structure and outlining, as you can hear in this podcast. The one common thing about all outliner users -- they think about how they think. Once you do that, it makes sense to look for tools to <a href=\"https://www.dougengelbart.org/content/view/138/\">augment</a> that. I'm going to let Doc tell you the rest. Here's his <a href=\"http://instantoutliner.com/g9\">outline</a>. ",
+            "created": "Sun, 09 Feb 2020 14:26:03 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2020/02/09/2020_02_08-oddcast.mp3",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "12182046",
+            "image": "http://scripting.com/images/2020/01/06/sayBlockchainAgain.png"
+        },
+        {
+            "text": "There are two huge campaign organizations booting up now. One is Trump 2.0 and it’s a monster. The other is Bloomberg. He has more money than Trump, and he fights hard and smart. We’re lucky he’s doing it, none of the other Democratic candidates can do what he’s doing. ",
+            "created": "Sun, 09 Feb 2020 14:13:13 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1226299287669223424"
+        },
+        {
+            "text": "The latest <a href=\"https://twitter.com/Mike2020/status/1226539956514033664\">Bloomberg ad</a>. ",
+            "created": "Sun, 09 Feb 2020 16:28:27 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/Mike2020/status/1226539956514033664"
+        },
+        {
+            "text": "There is a <a href=\"https://en.wikipedia.org/wiki/Moneyball\">Moneyball</a> idea lurking in the current politics.",
+            "created": "Sun, 09 Feb 2020 17:32:36 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://twitter.com/BillKristol/status/1225872792610103296\">Women Republicans of Utah</a> stand with Senator Romney. And I stand with them. This is how we heal as a country.",
+            "created": "Sun, 09 Feb 2020 17:34:05 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/BillKristol/status/1225872792610103296"
+        },
+        {
+            "text": "Someone should write a piece about how much worse it's going to be with Trump than the press is willing to admit. This time he is going to have his political opponents prosecuted and jailed. He's not just going to get dirt on them, he's going to take them off the field.",
+            "created": "Sun, 09 Feb 2020 14:55:03 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I did a small overhaul of the <a href=\"http://scripting.com/email/\">nightly email</a> code yesterday. Screwing with that code is inherently dangerous, make a mistake and the wrong email goes out to all the subscribers. Or it doesn't go out at all. This kind of code is notoriously hard to test. Anyway it worked. Whew. And one of the side-effects is that the emails go out at 12:00 PM, not 12:02 PM. I know just a two-minute difference, but I'm a perfectionist, and the two minutes really bothered me. Also it's more reliable, which is the real reason I did the work. ",
+            "created": "Sun, 09 Feb 2020 14:13:59 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I wish New Hampshire voters would get behind this <a href=\"https://amyklobuchar.com/\">candidate</a>. I think she'd be good. I don't think she'd take any shit from the Banana Republican Party.",
+            "created": "Sun, 09 Feb 2020 15:31:37 GMT",
+            "type": "outline",
+            "inlineImage": "http://scripting.com/images/2020/02/09/klobuchar.png"
+        }
+    ]
+}
