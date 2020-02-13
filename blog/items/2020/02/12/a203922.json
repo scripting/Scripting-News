@@ -1,0 +1,5 @@
+{
+    "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/154\">Braintrust query</a>: I have a JavaScript app running in the browser. I want it to quit when another copy of the same app is opened in another tab. I used to do this with a localStorage value. Set it to a random string of 25 characters. Periodically compare the string in localStorage with the one I set at startup. If it's different I know another copy of the app is running, and I (used to) exit via <a href=\"https://www.w3schools.com/jsref/met_win_close.asp\">window.close</a>. This no longer works. There's an error from the browser, \"Scripts may close only the windows that were opened by it.\" So is there no way for an app to quit on its own without a user interaction?",
+    "created": "Wed, 12 Feb 2020 20:39:22 GMT",
+    "type": "outline"
+}
