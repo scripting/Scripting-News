@@ -1,0 +1,70 @@
+{
+    "text": "February 16",
+    "created": "Sun, 16 Feb 2020 14:39:33 GMT",
+    "name": "16",
+    "subs": [
+        {
+            "text": "I've been chatting about breakage with <a href=\"https://twitter.com/davegandy?lang=en\">Dave Gandy</a>, the founder of <a href=\"https://fontawesome.com/\">Font Awesome</a>. I recorded a <a href=\"http://scripting.com/2020/02/16/DaveGandyVoicemail.m4a\">15-minute voicemailcast</a> to Dave, with a very small slice of my experience with breakage in tech. Dave is now a member of the No Breakage Club. Up until now I thought I was the only one. They learned the hard way by shipping a version of their product that basically broke everyone. It broke me. Squared the complexity of using FA, which ideally would require zero thought, it should \"just work\" as it did when I first adopted it in 2013. Now they're putting the pieces back together, and I'm guessing it will work. It doesn't always, sometimes you're stuck forever supporting both versions. At least if you care about your users. Not sure where this will go, but it's nice to have a friend on the frontier. In the cast I talk about <a href=\"https://en.wikipedia.org/wiki/History_of_Python#Compatibility\">Python's breakage</a>, it came with v3.0. ",
+            "created": "Sun, 16 Feb 2020 18:09:41 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/01/13/davesCoffee.png",
+            "enclosure": "http://scripting.com/2020/02/16/DaveGandyVoicemail.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "7450085"
+        },
+        {
+            "text": "BTW, as I mention in the cast, the new <a href=\"https://github.com/scripting/concord\">Concord</a>, the one I just released, <a href=\"https://github.com/scripting/concord/tree/master/libraries\">includes</a> the latest version of Font Awesome. Since they're now a member of No Breakage Club, he's a friend, and it's worth helping him get the very latest stuff out there. ",
+            "created": "Sun, 16 Feb 2020 18:13:18 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "The term <a href=\"https://www.google.com/search?q=%22no+breakage+club%22&rlz=1C5CHFA_enUS743US747&oq=%22no+breakage+club%22&aqs=chrome..69i57j69i59j69i60.2069j0j8&sourceid=chrome&ie=UTF-8\">No Breakage Club</a> has four hits on Google before this piece was posted. ",
+            "created": "Sun, 16 Feb 2020 18:15:40 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"http://instantoutliner.com/gb?permalink=20200116173030\">A couple of LO2 user tips</a>. 1. Keep your tab list neat. Close files. They're easy to re-open and 2. Change the title of files to make the tab display more esthetic and usable. ",
+            "created": "Sun, 16 Feb 2020 17:35:24 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Here's a <a href=\"http://scripting.com/images/2020/02/16/screen.png\">screen shot</a> of what my tab list looks like. This gives you an idea of what you can do. ",
+            "created": "Sun, 16 Feb 2020 17:57:09 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Yesterday I <a href=\"http://scripting.com/2020/02/15.html#a161619\">released</a> a new version of Concord, the outliner core of \"LO2\". This broke the then-current release, v1.8.6. After a <a href=\"https://github.com/scripting/Scripting-News/issues/150#issuecomment-586659712\">report</a> by Andy Sylvester, I quickly released v1.8.7, which works with the new Concord. The problem was that the name of the CSS file changed. The result is that the outlines <a href=\"http://scripting.com/images/2020/02/16/funkyScreenShot.png\">looked</a> pretty horrible. To get the latest version reload the page. If that doesn't get you 1.8.7, <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Bypass_your_cache\">here are tips</a> for getting the browser to do a full reload.",
+            "created": "Sun, 16 Feb 2020 14:39:34 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "In this election there are two sides. One side believes in the rule of law, the other doesn't. Everything else, to be settled later, once the rule-of-law is re-established.",
+            "created": "Mon, 17 Feb 2020 01:38:22 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Mobilize the electorate, with care",
+            "created": "Mon, 17 Feb 2020 01:33:38 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "It's great that Bloomberg is spending huge money on good advertising that correctly positions the Dems vs Trump. But it's only half the job. The other half is organizing the electorate so we are always mobilized and ready for action",
+                    "created": "Mon, 17 Feb 2020 01:33:40 GMT",
+                    "image": "http://scripting.com/images/2019/06/11/pizza.png"
+                },
+                {
+                    "text": "My guess is they don't want to mobilize us because it isn't really about \"us\" -- it's about their power. An electorate that was organized could overthrow whoever it was that organized us.",
+                    "created": "Mon, 17 Feb 2020 01:34:00 GMT"
+                },
+                {
+                    "text": "I don't blame them btw. I experienced this myself. In the early days of the net, I started an open mail list with my customers on it. So they could help each other, and ask questions of us. One of my competitors got the idea that they could join the list and market to our customers. Then they got the idea they could blow up the community by throwing huge flaming turds into the list. Since then I've struggled with how to create collaborative communities that don't have this vulnerability.",
+                    "created": "Mon, 17 Feb 2020 01:34:12 GMT"
+                },
+                {
+                    "text": "But the fact that Obama didn't keep the organization going after he got elected meant that the Repubs could stonewall him, and he had no effective way to appeal to the electorate to stand by him, even though a lot of us would have done so happily. His humiliation was ours.",
+                    "created": "Mon, 17 Feb 2020 01:34:21 GMT"
+                }
+            ]
+        }
+    ]
+}
