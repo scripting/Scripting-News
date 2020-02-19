@@ -1,0 +1,23 @@
+{
+    "text": "February 18",
+    "created": "Tue, 18 Feb 2020 14:37:59 GMT",
+    "name": "18",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1229770588731912195\">For tomorrow night's debate</a>. It's 2021, you're president, there's a vacancy on the Supreme Court. You appoint a qualified judge, the Senate refuses to confirm. They'll wait for a Repub president, says the majority leader. What do you do?",
+            "created": "Tue, 18 Feb 2020 14:38:00 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Andrew Shell did a <a href=\"https://blog.andrewshell.org/voicemailcast-20200218/\">voicemailcast</a> about his work with <a href=\"https://github.com/andrewshell/rsscloud-server\">rssCloud</a>, which plugs into RSS 2.0 feeds, and maintains backward compatibility with my implementation which I no longer maintain. He has to do really horrible things to run my software to be sure his stuff still works with it. His philosophy is mine. I really have very little influence on what other people do, sometimes they seem to not listen to prove they don't have to listen, and over time all our work gets erased. But Andrew definitely is a charter member of the soon-to-be-famous No Breakage Club. ",
+            "created": "Tue, 18 Feb 2020 19:19:00 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/concord/issues/13\">Update on Concord work</a>. I've been trying to fit a more powerful keystroke capturer under Concord's keyboard handling code, but I'm not ready to debug the resulting code, which would basically be turned inside-out. The problem is that none of the JavaScript key handlers (that I've found so far) will decode an existing event, they have to actually capture the event itself and call back to the app. Maybe there's an exception. If such a toolkit exists, that would make the systematization of Concord's keystroke handling simple enough to attempt. The goal is to have all combinations of option, shift, cmd (or cntrl) be handleable by the outliner. ",
+            "created": "Tue, 18 Feb 2020 18:36:57 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/02/18/concordGrapes.png"
+        }
+    ]
+}
