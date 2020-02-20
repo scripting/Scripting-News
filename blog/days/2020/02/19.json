@@ -1,0 +1,136 @@
+{
+    "text": "February 19",
+    "created": "Wed, 19 Feb 2020 13:44:49 GMT",
+    "name": "19",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/mockcain/status/1230187515551920128\">A thread</a> I tweeted from a test version of \"LO2\".",
+            "created": "Wed, 19 Feb 2020 17:50:00 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Here's a <a href=\"http://scripting.com/images/2020/02/19/screenShotThreadOfTweets.png\">screen shot</a> of the outline the thread came from.",
+            "created": "Wed, 19 Feb 2020 21:09:07 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://www.youtube.com/watch?v=r1orcP9Vj2E\">Video demo</a> of the Tweeted Threads feature, probably coming out tomorrow, 2/20/2020, a magical day. ",
+            "created": "Wed, 19 Feb 2020 22:00:15 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=r1orcP9Vj2E"
+        },
+        {
+            "text": "How journalism covers presidential politics. Gotcha, gotcha, horse race, gotcha, horse race, horse race, gotcha, gotcha, horse race, gotcha, gotcha, horse race, horse race, horse race.",
+            "created": "Wed, 19 Feb 2020 14:59:16 GMT",
+            "type": "outline",
+            "image": "http://static.scripting.com/larryKing/images/2013/10/28/pitcher.gif"
+        },
+        {
+            "text": "Every so often I hear of people who want to change \"RSS\". There is a <a href=\"https://cyber.harvard.edu/rss/rss.html#extendingRss\">mechanism</a> for that, it’s like amending the Constitution, but much easier. Create a namespace. Put your new or redefined tags there. I created a namespace for my additions, documented <a href=\"http://source.scripting.com/\">here</a>.",
+            "created": "Wed, 19 Feb 2020 13:44:50 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Tweeting a thread (the plan)",
+            "created": "Wed, 19 Feb 2020 16:03:26 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Put the cursor on a headline. "
+                },
+                {
+                    "text": "Click on the tweet icon."
+                },
+                {
+                    "text": "We confirm you want to post X tweets.  ",
+                    "subs": [
+                        {
+                            "text": "First we make sure none of them are too long."
+                        },
+                        {
+                            "text": "If so, we report that instead of confirming. We move the cursor to the offending headline. "
+                        }
+                    ]
+                },
+                {
+                    "text": "LO2 visits all the subs and tweets them, in a thread. All linked in a reply chain starting with the first one. ",
+                    "created": "Wed, 19 Feb 2020 16:08:13 GMT",
+                    "subs": [
+                        {
+                            "text": "We strip any markup from the text. So don't bother boldfacing items or linking. It'll all be gone as it's sent to Twitter. ",
+                            "created": "Wed, 19 Feb 2020 16:08:14 GMT"
+                        },
+                        {
+                            "text": "Ignore commented lines and their subs.",
+                            "created": "Wed, 19 Feb 2020 16:31:18 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "How threading works",
+                    "created": "Wed, 19 Feb 2020 16:41:09 GMT",
+                    "subs": [
+                        {
+                            "text": "The first item tweeted is in reply to nothing. ",
+                            "created": "Wed, 19 Feb 2020 16:41:12 GMT"
+                        },
+                        {
+                            "text": "The second is in reply to the first.",
+                            "created": "Wed, 19 Feb 2020 16:41:24 GMT"
+                        },
+                        {
+                            "text": "The third in reply to the second.",
+                            "created": "Wed, 19 Feb 2020 16:41:30 GMT"
+                        },
+                        {
+                            "text": "The Nth in reply to the (N-1)th.",
+                            "created": "Wed, 19 Feb 2020 16:41:38 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "Will people use this? I don't know, but it's worth a try. Let's see what happens. "
+                }
+            ]
+        },
+        {
+            "text": "Candidates are mirrors",
+            "created": "Wed, 19 Feb 2020 16:53:05 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Honestly, either Klobuchar or Warren are more attractive than the others. I would definitely go with Klobuchar, still.",
+                    "created": "Wed, 19 Feb 2020 16:53:18 GMT"
+                },
+                {
+                    "text": "I don't want to say anything bad about the others."
+                },
+                {
+                    "text": "Choosing a candidate to me has nothing to do with judging the morals of the person. I have no insight into that. These \"people\" are images of people, not real.",
+                    "created": "Wed, 19 Feb 2020 16:53:08 GMT"
+                },
+                {
+                    "text": "You're selling a mirror to voters. It's imperfect. But when they look in the mirror do they like what it says about themselves. "
+                },
+                {
+                    "text": "I liked looking into the Obama mirror. It says to me \"we've accomplished something in my lifetime.\""
+                },
+                {
+                    "text": "When I looked at HRC, I saw some level of competence, but mostly \"NOT TRUMP.\""
+                },
+                {
+                    "text": "Why I like Klobuchar is what I see is \"This is America.\" A compromise with the other half of the country. I think enough of us can agree that this is America, for now, that we <i>might</i> be able to restore the rule of law. ",
+                    "created": "Wed, 19 Feb 2020 17:34:48 GMT"
+                },
+                {
+                    "text": "I honestly don't think most people get how deep in the hole we are now. We'd make a better decision if we were. ",
+                    "created": "Wed, 19 Feb 2020 17:35:16 GMT"
+                },
+                {
+                    "text": "PS: I used this post to <a href=\"https://twitter.com/mockcain/status/1230187515551920128\">test</a> my outline-tweeting code. ",
+                    "created": "Wed, 19 Feb 2020 17:49:28 GMT"
+                }
+            ]
+        }
+    ]
+}
