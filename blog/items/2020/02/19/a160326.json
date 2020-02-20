@@ -1,0 +1,63 @@
+{
+    "text": "Tweeting a thread (the plan)",
+    "created": "Wed, 19 Feb 2020 16:03:26 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Put the cursor on a headline. "
+        },
+        {
+            "text": "Click on the tweet icon."
+        },
+        {
+            "text": "We confirm you want to post X tweets.  ",
+            "subs": [
+                {
+                    "text": "First we make sure none of them are too long."
+                },
+                {
+                    "text": "If so, we report that instead of confirming. We move the cursor to the offending headline. "
+                }
+            ]
+        },
+        {
+            "text": "LO2 visits all the subs and tweets them, in a thread. All linked in a reply chain starting with the first one. ",
+            "created": "Wed, 19 Feb 2020 16:08:13 GMT",
+            "subs": [
+                {
+                    "text": "We strip any markup from the text. So don't bother boldfacing items or linking. It'll all be gone as it's sent to Twitter. ",
+                    "created": "Wed, 19 Feb 2020 16:08:14 GMT"
+                },
+                {
+                    "text": "Ignore commented lines and their subs.",
+                    "created": "Wed, 19 Feb 2020 16:31:18 GMT"
+                }
+            ]
+        },
+        {
+            "text": "How threading works",
+            "created": "Wed, 19 Feb 2020 16:41:09 GMT",
+            "subs": [
+                {
+                    "text": "The first item tweeted is in reply to nothing. ",
+                    "created": "Wed, 19 Feb 2020 16:41:12 GMT"
+                },
+                {
+                    "text": "The second is in reply to the first.",
+                    "created": "Wed, 19 Feb 2020 16:41:24 GMT"
+                },
+                {
+                    "text": "The third in reply to the second.",
+                    "created": "Wed, 19 Feb 2020 16:41:30 GMT"
+                },
+                {
+                    "text": "The Nth in reply to the (N-1)th.",
+                    "created": "Wed, 19 Feb 2020 16:41:38 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Will people use this? I don't know, but it's worth a try. Let's see what happens. "
+        }
+    ]
+}
