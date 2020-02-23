@@ -1,0 +1,95 @@
+{
+    "text": "February 22",
+    "created": "Sat, 22 Feb 2020 17:35:03 GMT",
+    "name": "22",
+    "subs": [
+        {
+            "text": "Loyalty to Trump is, today, an issue for people who work in the US government. Soon it will be an issue for everyone who lives in the US. You will have to sign a loyalty oath. We're way past the time when anyone should be working just for themselves.",
+            "created": "Sat, 22 Feb 2020 17:53:07 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/02/22/rodneyDangerfield.png"
+        },
+        {
+            "text": "Today I learned that <a href=\"http://scripting.com/2020/02/20/144006.html?title=notesOnLastNightsDebate#a144753\">Sanders</a> will be the presumptive Democratic Party nominee in eleven days, unless something happens to shake that up. If you don't believe it, read <a href=\"https://thebulwark.com/the-5-lessons-from-2016-democrats-need-to-understand-if-they-want-to-stop-bernie/\">this piece</a>.  ",
+            "created": "Sat, 22 Feb 2020 17:35:04 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://www.nydailynews.com/opinion/ny-oped-memo-to-mike-bloomberg-20200222-v4fuckgwena3zlijlqlu6rod6u-story.html\">This piece</a> is so chock-full of smarts, it should be a Twitter thread.",
+            "created": "Sat, 22 Feb 2020 17:55:16 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I just saw pictures of a friend's teenage sons in current passport pictures. I've been following their travels via Facebook for years. They were always boys, but now you can see the men. There's a gravitas in the outward view. Thought. These boys were raised to be men. What a great word, <a href=\"https://www.wordnik.com/words/raised\">raised</a>. I don't think I was actually raised myself. Maybe here and there. Fed. Sometimes cared for. Mostly left to figure it out for myself. ",
+            "created": "Sat, 22 Feb 2020 18:11:46 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I thought Sanders' speech was good tonight. I was surprised. I think this may be the first time I've heard him give a speech. Previously I'd only seen him in debates, where he's a prick. Sorry, that's what I see. Even so, he really never has had a negative campaign run against him, and it'll be too late for all of us when the Repubs do. I can't imagine his past is not filled with lots of really awful stuff. ",
+            "created": "Sun, 23 Feb 2020 03:42:04 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/02/22/sandersHead.png"
+        },
+        {
+            "text": "How does Twitter threading work?",
+            "created": "Sun, 23 Feb 2020 03:32:12 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "This came up in an email discussion. ",
+                    "created": "Sun, 23 Feb 2020 03:32:19 GMT"
+                },
+                {
+                    "text": "Doc said he doesn't really understand how Twitter threading works. I'm not sure I understand it either, and I've implemented it in two of my tools, first \"Electric Pork\" and now \"LO2\". ",
+                    "created": "Sun, 23 Feb 2020 03:35:58 GMT"
+                },
+                {
+                    "text": "Here's how I do it.",
+                    "created": "Sun, 23 Feb 2020 03:33:32 GMT"
+                },
+                {
+                    "text": "Suppose you have a sequence of four bits of text you want to turn into a Twitter thread.",
+                    "created": "Sun, 23 Feb 2020 03:33:37 GMT"
+                },
+                {
+                    "text": "Label them A, B, C and D. ",
+                    "created": "Sun, 23 Feb 2020 03:34:00 GMT"
+                },
+                {
+                    "text": "When you post a tweet you can optionally specify which tweet it is in reply to.",
+                    "created": "Sun, 23 Feb 2020 03:34:18 GMT"
+                },
+                {
+                    "text": "First I post A to Twitter, not a reply.",
+                    "created": "Sun, 23 Feb 2020 03:34:32 GMT",
+                    "subs": [
+                        {
+                            "text": "Then I post B, in reply to A.",
+                            "created": "Sun, 23 Feb 2020 03:34:57 GMT",
+                            "subs": [
+                                {
+                                    "text": "Then C, in reply to B.",
+                                    "created": "Sun, 23 Feb 2020 03:35:08 GMT",
+                                    "subs": [
+                                        {
+                                            "text": "And D, in reply to C.",
+                                            "created": "Sun, 23 Feb 2020 03:35:17 GMT"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Twitter will display that as a thread. <a href=\"https://twitter.com/davewiner/status/1231425763284594689\">Like this</a>. ",
+                    "created": "Sun, 23 Feb 2020 03:34:10 GMT"
+                },
+                {
+                    "text": "Could I have had them all in reply to A? Not sure. I haven't tried it. ",
+                    "created": "Sun, 23 Feb 2020 03:35:32 GMT"
+                }
+            ]
+        }
+    ]
+}
