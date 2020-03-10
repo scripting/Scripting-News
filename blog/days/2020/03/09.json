@@ -1,0 +1,28 @@
+{
+    "text": "March 9",
+    "created": "Mon, 09 Mar 2020 16:26:46 GMT",
+    "name": "09",
+    "subs": [
+        {
+            "text": "Highly recommend this week's <a href=\"https://radioopensource.org/plagues-pathogens-and-panic/\">Open Source podcast</a>, esp the first segment, an interview with Yale professor <a href=\"https://history.yale.edu/people/frank-snowden\">Frank Snowden</a>, for a historic perspective of Covid19.",
+            "created": "Mon, 09 Mar 2020 19:32:22 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "When last night's email went out, it sent Saturday's posts, not Sunday's. This is pretty hard to debug, I'd have to recreate the conditions of various databases at midnight last night. At first I thought the problem must be related to the Daylight Savings Time switch on Saturday night, but on second thought, how could it? It doesn't really seem likely. And the relevant machines auto-updated their clocks. So for now, I'm going to wait to see what happens tonight. If the right stuff goes out, then I'll just call it an <a href=\"https://en.wikipedia.org/wiki/Edge_case\">edge case</a> or <a href=\"https://en.wikipedia.org/wiki/Cosmic_ray\">cosmic rays</a> (programmerese for <a href=\"https://en.wikipedia.org/wiki/Act_of_God\">Act of God</a>) and move on.  ",
+            "created": "Mon, 09 Mar 2020 16:26:47 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/01/13/davesCoffee.png"
+        },
+        {
+            "text": "BTW, if you want to catch up, here's a direct link to the <a href=\"http://scripting.com/2020/03/08.html\">archive page</a> for Sunday. And the <a href=\"http://scripting.com/?tab=links\">linkblog</a> page. ",
+            "created": "Mon, 09 Mar 2020 16:36:07 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Back in the world of the mundane, recall that I've had a problem with <a href=\"http://scripting.com/2019/11/23/125415.html\">UPS</a> <a href=\"http://scripting.com/2019/12/27/191010.html\">deliveries</a> for a while, so I was amazed today when a <a href=\"http://scripting.com/images/2020/03/09/upsTruck.png\">UPS truck showed up</a>. Alas, it was just a temp driver, subbing for the permanent one. One day we will get this worked out. :shrug:",
+            "created": "Mon, 09 Mar 2020 20:01:11 GMT",
+            "type": "outline"
+        }
+    ]
+}
