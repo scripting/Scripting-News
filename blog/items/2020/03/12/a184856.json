@@ -1,0 +1,30 @@
+{
+    "text": "New slogan",
+    "created": "Thu, 12 Mar 2020 18:48:56 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I have a new slogan.  ",
+            "created": "Thu, 12 Mar 2020 18:48:59 GMT"
+        },
+        {
+            "text": "Must be spoken with a Southern accent.",
+            "created": "Thu, 12 Mar 2020 18:49:05 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "<i>I'm a washin my hands. </i>",
+                    "created": "Thu, 12 Mar 2020 18:49:14 GMT"
+                },
+                {
+                    "text": "<i>I'm a hand-washin man.</i>",
+                    "created": "Thu, 12 Mar 2020 18:49:15 GMT"
+                }
+            ]
+        },
+        {
+            "text": "<a href=\"http://scripting.com/2020/03/12/washinMyHandsImAHandWashinMan.m4a\">This</a> is what it sounds like.",
+            "created": "Thu, 12 Mar 2020 18:49:39 GMT"
+        }
+    ]
+}
