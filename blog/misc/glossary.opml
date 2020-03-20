@@ -3,17 +3,17 @@
 	<head>
 		<title>Glossary</title>
 		<dateCreated>Tue, 13 Jun 2017 13:42:31 GMT</dateCreated>
-		<dateModified>Sun, 16 Feb 2020 17:03:46 GMT</dateModified>
+		<dateModified>Thu, 19 Mar 2020 16:08:25 GMT</dateModified>
 		<ownerName>Dave</ownerName>
 		<ownerId>https://twitter.com/davewiner/</ownerId>
-		<expansionState>1,16,67,97</expansionState>
+		<expansionState>1,10,60,86,93,95</expansionState>
 		<vertScrollState>1</vertScrollState>
 		<windowTop>631</windowTop>
 		<windowLeft>1087</windowLeft>
 		<windowBottom>831</windowBottom>
 		<windowRight>1472</windowRight>
 		<flPublic>true</flPublic>
-		<lastCursor>0</lastCursor>
+		<lastCursor>9</lastCursor>
 		<ownerTwitterScreenName>davewiner</ownerTwitterScreenName>
 		<urlPublic>http://electricserver.scripting.com/users/davewiner/electric/glossary.opml</urlPublic>
 		<urlJson>http://electricserver.scripting.com/users/davewiner/electric/glossary.json</urlJson>
@@ -29,44 +29,11 @@
 		<outline text="&quot;aoc&quot;" created="Mon, 07 Jan 2019 22:43:27 GMT">
 			<outline text="&lt;a href=&quot;https://twitter.com/AOC&quot;&gt;AOC&lt;/a&gt;" created="Mon, 07 Jan 2019 22:43:29 GMT"/>
 			</outline>
-		<outline text="@aoc" created="Mon, 07 Jan 2019 22:43:27 GMT">
-			<outline text="&lt;a href=&quot;https://twitter.com/AOC&quot;&gt;AOC&lt;/a&gt;" created="Mon, 07 Jan 2019 22:43:29 GMT"/>
-			</outline>
-		<outline text="&quot;Occam's News&quot;" created="Thu, 29 Aug 2019 14:06:13 GMT">
-			<outline text="&lt;a href=&quot;https://www.google.com/search?q=site%3Ascripting.com+Occam%27s+News&quot;&gt;Occam's News&lt;/a&gt;" created="Thu, 29 Aug 2019 14:06:19 GMT"/>
-			</outline>
-		<outline text="#indieweb" created="Wed, 19 Jun 2019 15:39:37 GMT">
-			<outline text="&lt;a href=&quot;https://twitter.com/search?q=%23indieweb&quot;&gt;#indieweb&lt;/a&gt;" created="Wed, 19 Jun 2019 15:39:40 GMT"/>
-			</outline>
-		<outline text="&quot;braintrust query&quot;" created="Sun, 25 Aug 2019 15:28:38 GMT">
-			<outline text="&lt;a href=&quot;https://duckduckgo.com/?q=site%3Ascripting.com+%22braintrust+query%22&amp;t=h_&amp;ia=web&quot;&gt;braintrust query&lt;/a&gt;" created="Sun, 25 Aug 2019 15:28:46 GMT"/>
-			</outline>
-		<outline text="&quot;JLG&quot;" created="Mon, 26 Aug 2019 18:42:11 GMT">
-			<outline text="&lt;a href=&quot;https://en.wikipedia.org/wiki/Jean-Louis_Gass%C3%A9e&quot;&gt;Jean-Louis Gassée&lt;/a&gt; " created="Mon, 26 Aug 2019 18:42:17 GMT"/>
-			</outline>
-		<outline text="&quot;Moscow Mitch&quot;" created="Tue, 27 Aug 2019 13:44:58 GMT">
-			<outline text="&lt;a href=&quot;https://twitter.com/search?q=%23moscowmitch&amp;src=scripting.com&quot;&gt;#MoscowMitch&lt;/a&gt;" created="Tue, 27 Aug 2019 13:45:00 GMT"/>
-			</outline>
-		<outline text="&quot;isoj&quot;" created="Thu, 21 Feb 2019 17:37:32 GMT">
-			<outline text="&lt;a href=&quot;http://isoj.org/&quot;&gt;ISOJ&lt;/a&gt;" created="Thu, 21 Feb 2019 17:37:35 GMT"/>
-			</outline>
-		<outline text="#isoj2019" created="Mon, 15 Apr 2019 15:43:45 GMT">
-			<outline text="&lt;a href=&quot;https://twitter.com/hashtag/isoj2019?src=hash&quot;&gt;#isoj2019&lt;/a&gt;" created="Mon, 15 Apr 2019 15:43:49 GMT"/>
-			</outline>
-		<outline text="&quot;IFTTT&quot;" created="Sat, 30 Mar 2019 14:56:01 GMT">
-			<outline text="&lt;a href=&quot;https://ifttt.com/&quot;&gt;&lt;span style=&quot;font-size: .95em&quot;&gt;IFTTT&lt;/span&gt;&lt;/a&gt;" created="Sat, 30 Mar 2019 14:56:05 GMT"/>
-			</outline>
-		<outline text="#lgm" created="Wed, 07 Aug 2019 15:52:38 GMT">
-			<outline text="&lt;a href=&quot;https://twitter.com/search?q=%23lgm&quot; title=&quot;Let's go Mets!&quot;&gt;&lt;img src=&quot;http://scripting.com/images/2019/08/11/metsLogo.png&quot; width=&quot;22&quot; height=&quot;2&quot; style=&quot;margin-left: 0px;&quot;&gt;&lt;/a&gt;" created="Wed, 07 Aug 2019 15:52:40 GMT"/>
-			</outline>
 		<outline text="&quot;Art Show&quot;" created="Mon, 02 Jul 2018 14:47:21 GMT">
 			<outline text="&lt;a href=&quot;http://artshow.scripting.com/&quot;&gt;Art Show&lt;/a&gt;" created="Mon, 02 Jul 2018 14:47:25 GMT"/>
 			</outline>
 		<outline text="&quot;bingeworthy&quot;" created="Tue, 14 Nov 2017 15:38:03 GMT">
 			<outline text="&lt;a href=&quot;http://bingeworthy.io/&quot;&gt;BingeWorthy&lt;/a&gt;" created="Tue, 14 Nov 2017 15:38:06 GMT"/>
-			</outline>
-		<outline text="&quot;Sources Go Direct&quot;" created="Tue, 01 Oct 2019 18:03:03 GMT">
-			<outline text="&lt;a href=&quot;http://scripting.com/2015/10/12/itsStillSourcesGoDirect.html&quot;&gt;Sources Go Direct&lt;/a&gt;" created="Tue, 01 Oct 2019 18:03:12 GMT"/>
 			</outline>
 		<outline text="&quot;bloggercon&quot;" created="Tue, 13 Feb 2018 16:36:01 GMT">
 			<outline text="&lt;a href=&quot;http://bloggercon.scripting.com/&quot;&gt;BloggerCon&lt;/a&gt;" created="Tue, 13 Feb 2018 16:36:04 GMT"/>
@@ -74,20 +41,14 @@
 		<outline text="&quot;bootswatch&quot;" created="Wed, 09 May 2018 16:00:00 GMT">
 			<outline text="&lt;a href=&quot;http://bootswatch.com/&quot;&gt;Bootswatch&lt;/a&gt;"/>
 			</outline>
-		<outline text="&quot;imho&quot;" created="Wed, 09 May 2018 16:00:01 GMT">
-			<outline text="&lt;a href=&quot;http://scripting.com/imho/&quot;&gt;IMHO&lt;/a&gt;" created="Wed, 09 May 2018 16:00:03 GMT"/>
-			</outline>
-		<outline text="&quot;likes&quot;" created="Fri, 23 Nov 2018 20:59:08 GMT">
-			<outline text="&lt;a href=&quot;https://github.com/scripting/likes&quot;&gt;Likes&lt;/a&gt;" created="Fri, 23 Nov 2018 20:59:11 GMT"/>
-			</outline>
-		<outline text="#scriptingnews" created="Sat, 15 Dec 2018 16:15:08 GMT">
-			<outline text="&lt;a href=&quot;https://twitter.com/hashtag/scriptingnews&quot;&gt;#scriptingnews&lt;/a&gt;" created="Sat, 15 Dec 2018 16:15:14 GMT"/>
-			</outline>
-		<outline text=":check:" created="Fri, 31 Aug 2018 19:35:45 GMT">
-			<outline text="✓" created="Fri, 31 Aug 2018 19:35:51 GMT"/>
+		<outline text="&quot;braintrust query&quot;" created="Sun, 25 Aug 2019 15:28:38 GMT">
+			<outline text="&lt;a href=&quot;https://duckduckgo.com/?q=site%3Ascripting.com+%22braintrust+query%22&amp;t=h_&amp;ia=web&quot;&gt;braintrust query&lt;/a&gt;" created="Sun, 25 Aug 2019 15:28:46 GMT"/>
 			</outline>
 		<outline text="&quot;cheesecake&quot;" created="Tue, 14 Nov 2017 15:38:02 GMT">
 			<outline text="&lt;a href=&quot;http://en.wikipedia.org/wiki/Cheesecake&quot;&gt;&lt;img src=&quot;http://scripting.com/images/2012/05/30/cheesecake.gif&quot; width=&quot;50&quot; height=&quot;42&quot; border=&quot;0&quot; alt=&quot;A picture of a slice of cheese cake.&quot;&gt;&lt;/a&gt;"/>
+			</outline>
+		<outline text="&quot;Covid-19&quot;" created="Thu, 19 Mar 2020 16:07:38 GMT">
+			<outline text="&lt;a href=&quot;https://en.wikipedia.org/wiki/Coronavirus_disease_2019&quot;&gt;Covid-19&lt;/a&gt;" created="Thu, 19 Mar 2020 16:07:40 GMT"/>
 			</outline>
 		<outline text="&quot;curly&quot;">
 			<outline text="&lt;a href=&quot;http://scripting.com/wavs/curly1.wav&quot;&gt;&lt;img src=&quot;http://static.scripting.com/larryKing/images/2014/03/13/curly.gif&quot; width=&quot;53&quot; height=&quot;63&quot; border=&quot;0&quot; alt=&quot;I'm trying to think but nothing happens!&quot;&gt;&lt;/a&gt;"/>
@@ -107,14 +68,20 @@
 		<outline text="&quot;Electric Pork&quot;" created="Sat, 17 Jun 2017 22:15:20 GMT">
 			<outline text="&lt;a href=&quot;http://pork.io/electric/&quot;&gt;Electric Pork&lt;/a&gt;"/>
 			</outline>
+		<outline text="&quot;Electric Pork&quot;" created="Tue, 05 Sep 2017 13:18:18 GMT">
+			<outline text="&lt;a href=&quot;http://pork.io/electric/&quot;&gt;Electric Pork&lt;/a&gt;" created="Tue, 05 Sep 2017 13:18:22 GMT"/>
+			</outline>
+		<outline text="&quot;Electric River&quot;" created="Wed, 21 Jun 2017 11:20:34 GMT">
+			<outline text="&lt;a href=&quot;http://this.how/electricRiver&quot;&gt;Electric River&lt;/a&gt;" created="Wed, 21 Jun 2017 11:20:41 GMT"/>
+			</outline>
 		<outline text="&quot;Emoji&quot;">
 			<outline text="&lt;a href=&quot;http://en.wikipedia.org/wiki/Emoji&quot;&gt;Emoji&lt;/a&gt;"/>
 			</outline>
-		<outline text="&quot;fargo&quot;">
-			<outline text="&lt;a href=&quot;http://fargo.io/&quot;&gt;Fargo&lt;/a&gt;"/>
-			</outline>
 		<outline text="&quot;Fargo Publisher&quot;" created="Tue, 16 Jan 2018 16:12:32 GMT">
 			<outline text="&lt;a href=&quot;https://github.com/scripting/fargoPublisher&quot;&gt;Fargo Publisher&lt;/a&gt;"/>
+			</outline>
+		<outline text="&quot;fargo&quot;">
+			<outline text="&lt;a href=&quot;http://fargo.io/&quot;&gt;Fargo&lt;/a&gt;"/>
 			</outline>
 		<outline text="&quot;feedBase&quot;" created="Wed, 28 Mar 2018 19:18:33 GMT">
 			<outline text="&lt;a href=&quot;http://feedbase.io/&quot;&gt;feedBase&lt;/a&gt;" created="Wed, 28 Mar 2018 19:18:39 GMT"/>
@@ -124,12 +91,6 @@
 			</outline>
 		<outline text="&quot;font awesome&quot;" created="Wed, 21 Jun 2017 11:20:33 GMT">
 			<outline text="&lt;a href=&quot;http://fortawesome.github.io/Font-Awesome/&quot;&gt;Font Awesome&lt;/a&gt;"/>
-			</outline>
-		<outline text="&quot;Electric Pork&quot;" created="Tue, 05 Sep 2017 13:18:18 GMT">
-			<outline text="&lt;a href=&quot;http://pork.io/electric/&quot;&gt;Electric Pork&lt;/a&gt;" created="Tue, 05 Sep 2017 13:18:22 GMT"/>
-			</outline>
-		<outline text="&quot;Electric River&quot;" created="Wed, 21 Jun 2017 11:20:34 GMT">
-			<outline text="&lt;a href=&quot;http://this.how/electricRiver&quot;&gt;Electric River&lt;/a&gt;" created="Wed, 21 Jun 2017 11:20:41 GMT"/>
 			</outline>
 		<outline text="&quot;Frontier&quot;" created="Thu, 26 Apr 2018 20:33:29 GMT">
 			<outline text="&lt;a href=&quot;http://en.wikipedia.org/wiki/UserLand_Software&quot;&gt;Frontier&lt;/a&gt;" created="Thu, 26 Apr 2018 20:33:34 GMT"/>
@@ -143,11 +104,26 @@
 		<outline text="&quot;happy word friends&quot;" created="Fri, 28 Jul 2017 21:02:20 GMT">
 			<outline text="&lt;a href=&quot;http://thesaurus.land/&quot;&gt;Happy Word Friends&lt;/a&gt;"/>
 			</outline>
+		<outline text="&quot;IFTTT&quot;" created="Sat, 30 Mar 2019 14:56:01 GMT">
+			<outline text="&lt;a href=&quot;https://ifttt.com/&quot;&gt;&lt;span style=&quot;font-size: .95em&quot;&gt;IFTTT&lt;/span&gt;&lt;/a&gt;" created="Sat, 30 Mar 2019 14:56:05 GMT"/>
+			</outline>
+		<outline text="&quot;imho&quot;" created="Wed, 09 May 2018 16:00:01 GMT">
+			<outline text="&lt;a href=&quot;http://scripting.com/imho/&quot;&gt;IMHO&lt;/a&gt;" created="Wed, 09 May 2018 16:00:03 GMT"/>
+			</outline>
 		<outline text="&quot;instant dave&quot;" created="Fri, 28 Jul 2017 21:02:21 GMT">
 			<outline text="&lt;a href=&quot;http://instantdave.com/&quot;&gt;Instant Dave&lt;/a&gt;" created="Fri, 28 Jul 2017 21:02:24 GMT"/>
 			</outline>
+		<outline text="&quot;isoj&quot;" created="Thu, 21 Feb 2019 17:37:32 GMT">
+			<outline text="&lt;a href=&quot;http://isoj.org/&quot;&gt;ISOJ&lt;/a&gt;" created="Thu, 21 Feb 2019 17:37:35 GMT"/>
+			</outline>
+		<outline text="&quot;JLG&quot;" created="Mon, 26 Aug 2019 18:42:11 GMT">
+			<outline text="&lt;a href=&quot;https://en.wikipedia.org/wiki/Jean-Louis_Gass%C3%A9e&quot;&gt;Jean-Louis Gassée&lt;/a&gt; " created="Mon, 26 Aug 2019 18:42:17 GMT"/>
+			</outline>
 		<outline text="&quot;kung fu darwin&quot;" created="Tue, 28 Aug 2018 02:03:42 GMT">
 			<outline text="&lt;img src=&quot;http://this.how/misc/kungFuDarwin.gif&quot; width=&quot;180&quot; height=&quot;225&quot; alt=&quot;Kung Fu Darwin&quot;&gt;" created="Tue, 28 Aug 2018 02:03:49 GMT"/>
+			</outline>
+		<outline text="&quot;likes&quot;" created="Fri, 23 Nov 2018 20:59:08 GMT">
+			<outline text="&lt;a href=&quot;https://github.com/scripting/likes&quot;&gt;Likes&lt;/a&gt;" created="Fri, 23 Nov 2018 20:59:11 GMT"/>
 			</outline>
 		<outline text="&quot;Little Card Editor&quot;">
 			<outline text="&lt;a href=&quot;http://littlecardeditor.com/&quot;&gt;Little Card Editor&lt;/a&gt;"/>
@@ -158,41 +134,38 @@
 		<outline text="&quot;little outliner&quot;" created="Tue, 27 Jun 2017 12:43:09 GMT">
 			<outline text="&lt;a href=&quot;http://littleoutliner.com/&quot;&gt;Little Outliner&lt;/a&gt;" created="Tue, 27 Jun 2017 12:43:25 GMT"/>
 			</outline>
-		<outline text="&quot;LO2&quot;" created="Tue, 27 Jun 2017 12:43:09 GMT">
-			<outline text="&lt;a href=&quot;http://littleoutliner.com/&quot;&gt;LO2&lt;/a&gt;" created="Tue, 27 Jun 2017 12:43:25 GMT"/>
-			</outline>
 		<outline text="&quot;little pork chop&quot;">
 			<outline text="&lt;a href=&quot;http://pork.io/&quot;&gt;Little Pork Chop&lt;/a&gt;"/>
 			</outline>
 		<outline text="&quot;liveblog.co&quot;" created="Mon, 02 Oct 2017 17:38:09 GMT">
 			<outline text="&lt;a href=&quot;http://liveblog.co/&quot;&gt;liveblog.co&lt;/a&gt;"/>
 			</outline>
-		<outline text="&quot;Manila&quot;" created="Thu, 23 Aug 2018 00:38:11 GMT">
-			<outline text="&lt;a href=&quot;http://manila.userland.com/&quot;&gt;Manila&lt;/a&gt;" created="Thu, 23 Aug 2018 00:38:16 GMT"/>
-			</outline>
-		<outline text="&quot;not secure&quot;" created="Tue, 14 Aug 2018 16:10:10 GMT">
-			<outline text="&lt;font size=&quot;-1&quot;&gt;NOT SECURE&lt;/font&gt;" created="Tue, 14 Aug 2018 16:10:11 GMT"/>
-			</outline>
-		<outline text="&quot;public folder&quot;" created="Mon, 02 Oct 2017 17:38:10 GMT">
-			<outline text="&lt;a href=&quot;http://publicfolder.io/&quot;&gt;Public Folder&lt;/a&gt;" created="Mon, 02 Oct 2017 17:38:15 GMT"/>
+		<outline text="&quot;LO2&quot;" created="Tue, 27 Jun 2017 12:43:09 GMT">
+			<outline text="&lt;a href=&quot;http://littleoutliner.com/&quot;&gt;LO2&lt;/a&gt;" created="Tue, 27 Jun 2017 12:43:25 GMT"/>
 			</outline>
 		<outline text="&quot;LO2&quot;" created="Sat, 17 Jun 2017 22:16:36 GMT">
 			<outline text="&lt;a href=&quot;http://littleoutliner.com/&quot;&gt;LO2&lt;/a&gt;"/>
 			</outline>
+		<outline text="&quot;Manila&quot;" created="Thu, 23 Aug 2018 00:38:11 GMT">
+			<outline text="&lt;a href=&quot;http://manila.userland.com/&quot;&gt;Manila&lt;/a&gt;" created="Thu, 23 Aug 2018 00:38:16 GMT"/>
+			</outline>
 		<outline text="&quot;Markdown&quot;">
 			<outline text="&lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Markdown&lt;/a&gt;"/>
+			</outline>
+		<outline text="&quot;Moscow Mitch&quot;" created="Tue, 27 Aug 2019 13:44:58 GMT">
+			<outline text="&lt;a href=&quot;https://twitter.com/search?q=%23moscowmitch&amp;src=scripting.com&quot;&gt;#MoscowMitch&lt;/a&gt;" created="Tue, 27 Aug 2019 13:45:00 GMT"/>
 			</outline>
 		<outline text="&quot;Moscow Mitch&quot;" created="Sun, 04 Aug 2019 20:08:05 GMT">
 			<outline text="&lt;a href=&quot;https://twitter.com/hashtag/MoscowMitch?src=hashtag_click&quot;&gt;Moscow Mitch&lt;/a&gt;" created="Sun, 04 Aug 2019 20:08:08 GMT"/>
 			</outline>
-		<outline text="&quot;myword.io&quot;">
-			<outline text="&lt;a href=&quot;http://myword.io/&quot;&gt;myword.io&lt;/a&gt;"/>
+		<outline text="&quot;MyWord Editor&quot;" created="Sat, 17 Jun 2017 22:15:32 GMT">
+			<outline text="&lt;a href=&quot;http://myword.io/editor/&quot;&gt;MyWord Editor&lt;/a&gt;"/>
 			</outline>
 		<outline text="&quot;MyWord&quot;" created="Thu, 02 Aug 2018 19:14:21 GMT">
 			<outline text="&lt;a href=&quot;http://myword.io/editor/&quot;&gt;MyWord&lt;/a&gt;"/>
 			</outline>
-		<outline text="&quot;MyWord Editor&quot;" created="Sat, 17 Jun 2017 22:15:32 GMT">
-			<outline text="&lt;a href=&quot;http://myword.io/editor/&quot;&gt;MyWord Editor&lt;/a&gt;"/>
+		<outline text="&quot;myword.io&quot;">
+			<outline text="&lt;a href=&quot;http://myword.io/&quot;&gt;myword.io&lt;/a&gt;"/>
 			</outline>
 		<outline text="&quot;Narrate Your Work&quot;" created="Mon, 10 Jul 2017 23:03:02 GMT">
 			<outline text="&lt;a href=&quot;http://scripting.com/stories/2009/08/09/narrateYourWork.html&quot;&gt;Narrate Your Work&lt;/a&gt;"/>
@@ -200,26 +173,32 @@
 		<outline text="&quot;NBB&quot;" created="Mon, 10 Jul 2017 23:03:02 GMT">
 			<outline text="&lt;a href=&quot;http://scripting.com/stories/2009/11/24/naturalbornBlogger.html&quot;&gt;NBB&lt;/a&gt;" created="Mon, 10 Jul 2017 23:03:05 GMT"/>
 			</outline>
-		<outline text="&quot;outlineBrowser&quot;" created="Sat, 01 Jul 2017 16:13:09 GMT">
-			<outline text="&lt;a href=&quot;https://github.com/scripting/outlineBrowser&quot;&gt;outlineBrowser&lt;/a&gt;"/>
-			</outline>
-		<outline text="&quot;OPML Editor&quot;" created="Mon, 27 Aug 2018 16:53:14 GMT">
-			<outline text="&lt;a href=&quot;http://home.opml.org/&quot;&gt;OPML Editor&lt;/a&gt;" created="Mon, 27 Aug 2018 16:53:19 GMT"/>
-			</outline>
 		<outline text="&quot;Noderunner&quot;">
 			<outline text="&lt;a href=&quot;https://github.com/scripting/noderunner&quot;&gt;Noderunner&lt;/a&gt;"/>
 			</outline>
 		<outline text="&quot;Nodestorage&quot;">
 			<outline text="&lt;a href=&quot;https://github.com/scripting/nodeStorage&quot;&gt;nodeStorage&lt;/a&gt;"/>
 			</outline>
+		<outline text="&quot;not secure&quot;" created="Tue, 14 Aug 2018 16:10:10 GMT">
+			<outline text="&lt;font size=&quot;-1&quot;&gt;NOT SECURE&lt;/font&gt;" created="Tue, 14 Aug 2018 16:10:11 GMT"/>
+			</outline>
+		<outline text="&quot;Occam's News&quot;" created="Thu, 29 Aug 2019 14:06:13 GMT">
+			<outline text="&lt;a href=&quot;https://www.google.com/search?q=site%3Ascripting.com+Occam%27s+News&quot;&gt;Occam's News&lt;/a&gt;" created="Thu, 29 Aug 2019 14:06:19 GMT"/>
+			</outline>
 		<outline text="&quot;only steal from the best&quot;">
 			<outline text="&lt;a href=&quot;http://scripting.com/stories/2011/09/09/onlyStealFromTheBest.html&quot;&gt;only steal from the best&lt;/a&gt;"/>
+			</outline>
+		<outline text="&quot;OPML Editor&quot;" created="Mon, 27 Aug 2018 16:53:14 GMT">
+			<outline text="&lt;a href=&quot;http://home.opml.org/&quot;&gt;OPML Editor&lt;/a&gt;" created="Mon, 27 Aug 2018 16:53:19 GMT"/>
+			</outline>
+		<outline text="&quot;OPML Editor&quot;">
+			<outline text="&lt;a href=&quot;http://home.opml.org/&quot;&gt;OPML Editor&lt;/a&gt;"/>
 			</outline>
 		<outline text="&quot;OPML&quot;" created="Sun, 04 Aug 2019 20:09:10 GMT">
 			<outline text="&lt;a href=&quot;http://dev.opml.org/spec2.html&quot;&gt;OPML&lt;/a&gt;"/>
 			</outline>
-		<outline text="&quot;OPML Editor&quot;">
-			<outline text="&lt;a href=&quot;http://home.opml.org/&quot;&gt;OPML Editor&lt;/a&gt;"/>
+		<outline text="&quot;outlineBrowser&quot;" created="Sat, 01 Jul 2017 16:13:09 GMT">
+			<outline text="&lt;a href=&quot;https://github.com/scripting/outlineBrowser&quot;&gt;outlineBrowser&lt;/a&gt;"/>
 			</outline>
 		<outline text="&quot;PagePark&quot;" created="Sun, 04 Aug 2019 20:09:12 GMT">
 			<outline text="&lt;a href=&quot;https://github.com/scripting/pagepark&quot;&gt;PagePark&lt;/a&gt;"/>
@@ -229,6 +208,9 @@
 			</outline>
 		<outline text="&quot;podcatch.com&quot;">
 			<outline text="&lt;a href=&quot;http://podcatch.com/&quot;&gt;Podcatch.com&lt;/a&gt;"/>
+			</outline>
+		<outline text="&quot;public folder&quot;" created="Mon, 02 Oct 2017 17:38:10 GMT">
+			<outline text="&lt;a href=&quot;http://publicfolder.io/&quot;&gt;Public Folder&lt;/a&gt;" created="Mon, 02 Oct 2017 17:38:15 GMT"/>
 			</outline>
 		<outline text="&quot;publicFolder&quot;" created="Sat, 16 Sep 2017 22:33:35 GMT">
 			<outline text="&lt;a href=&quot;https://github.com/scripting/publicfolder&quot;&gt;publicFolder&lt;/a&gt;" created="Sat, 16 Sep 2017 22:33:41 GMT"/>
@@ -254,9 +236,6 @@
 		<outline text="&quot;river6&quot;" created="Sat, 22 Jun 2019 14:54:28 GMT">
 			<outline text="&lt;a href=&quot;https://duckduckgo.com/?q=site%3Ascripting.com+%22river6%22&amp;norw=1&amp;t=hi&amp;ia=web&quot;&gt;River6&lt;/a&gt;" created="Sat, 22 Jun 2019 14:54:33 GMT"/>
 			</outline>
-		<outline text="&quot;RSS-in-JSON&quot;" created="Tue, 13 Jun 2017 16:15:38 GMT">
-			<outline text="&lt;a href=&quot;https://github.com/scripting/Scripting-News/blob/master/rss-in-json/README.md&quot;&gt;RSS-in-JSON&lt;/a&gt;" created="Tue, 13 Jun 2017 16:15:45 GMT"/>
-			</outline>
 		<outline text="&quot;riverBrowser&quot;" created="Thu, 15 Jun 2017 15:05:30 GMT">
 			<outline text="&lt;a href=&quot;https://github.com/scripting/riverBrowser&quot;&gt;riverBrowser&lt;/a&gt;" created="Thu, 15 Jun 2017 15:05:39 GMT"/>
 			</outline>
@@ -266,20 +245,23 @@
 		<outline text="&quot;Robert Scoble&quot;" created="Sat, 17 Jun 2017 22:15:43 GMT">
 			<outline text="&lt;a href=&quot;http://scoble.org/&quot;&gt;Robert Scoble&lt;/a&gt;"/>
 			</outline>
+		<outline text="&quot;RSS 2.0&quot;" created="Wed, 31 Jan 2018 15:43:57 GMT">
+			<outline text="&lt;a href=&quot;http://cyber.law.harvard.edu/rss/rss.html&quot;&gt;RSS 2.0&lt;/a&gt;"/>
+			</outline>
 		<outline text="&quot;RSS&quot;" created="Sun, 10 Jun 2018 19:34:25 GMT">
 			<outline text="&lt;a href=&quot;http://cyber.law.harvard.edu/rss/rss.html&quot; title=&quot;The official RSS 2.0 spec.&quot;&gt;RSS&lt;/a&gt;" created="Sun, 10 Jun 2018 19:34:29 GMT"/>
 			</outline>
-		<outline text="&quot;RSS 2.0&quot;" created="Wed, 31 Jan 2018 15:43:57 GMT">
-			<outline text="&lt;a href=&quot;http://cyber.law.harvard.edu/rss/rss.html&quot;&gt;RSS 2.0&lt;/a&gt;"/>
+		<outline text="&quot;RSS-in-JSON&quot;" created="Tue, 13 Jun 2017 16:15:38 GMT">
+			<outline text="&lt;a href=&quot;https://github.com/scripting/Scripting-News/blob/master/rss-in-json/README.md&quot;&gt;RSS-in-JSON&lt;/a&gt;" created="Tue, 13 Jun 2017 16:15:45 GMT"/>
 			</outline>
 		<outline text="&quot;Rudy Kiesler&quot;" created="Wed, 31 Jan 2018 15:43:58 GMT">
 			<outline text="&lt;a href=&quot;http://rudykiesler.com/&quot;&gt;Rudy Kiesler&lt;/a&gt;" created="Wed, 31 Jan 2018 15:44:03 GMT"/>
 			</outline>
-		<outline text="&quot;scripting news&quot;">
-			<outline text="&lt;a href=&quot;http://scripting.com/&quot;&gt;Scripting News&lt;/a&gt;"/>
-			</outline>
 		<outline text="&quot;Scoble&quot;" created="Sat, 17 Jun 2017 22:16:07 GMT">
 			<outline text="&lt;a href=&quot;http://scoble.org/&quot;&gt;Scoble&lt;/a&gt;"/>
+			</outline>
+		<outline text="&quot;scripting news&quot;">
+			<outline text="&lt;a href=&quot;http://scripting.com/&quot;&gt;Scripting News&lt;/a&gt;"/>
 			</outline>
 		<outline text="&quot;small picture&quot;">
 			<outline text="&lt;a href=&quot;http://smallpicture.com/&quot;&gt;Small Picture&lt;/a&gt;"/>
@@ -287,14 +269,17 @@
 		<outline text="&quot;software snacks&quot;" created="Sat, 24 Jun 2017 14:23:52 GMT">
 			<outline text="&lt;a href=&quot;http://scripting.com/2014/07/16/myLatestSoftwareSnacks.html&quot;&gt;software snacks&lt;/a&gt;"/>
 			</outline>
+		<outline text="&quot;Sources Go Direct&quot;" created="Tue, 01 Oct 2019 18:03:03 GMT">
+			<outline text="&lt;a href=&quot;http://scripting.com/2015/10/12/itsStillSourcesGoDirect.html&quot;&gt;Sources Go Direct&lt;/a&gt;" created="Tue, 01 Oct 2019 18:03:12 GMT"/>
+			</outline>
 		<outline text="&quot;TechMeme&quot;" created="Sat, 24 Jun 2017 14:23:53 GMT">
 			<outline text="&lt;a href=&quot;http://techmeme.com/&quot;&gt;TechMeme&lt;/a&gt;" created="Sat, 24 Jun 2017 14:23:57 GMT"/>
 			</outline>
-		<outline text="&quot;thesaurus.land&quot;">
-			<outline text="&lt;a href=&quot;http://thesaurus.land/&quot;&gt;thesaurus.land&lt;/a&gt;"/>
-			</outline>
 		<outline text="&quot;Thesaurus Land&quot;">
 			<outline text="&lt;a href=&quot;http://thesaurus.land/&quot;&gt;Thesaurus Land&lt;/a&gt;"/>
+			</outline>
+		<outline text="&quot;thesaurus.land&quot;">
+			<outline text="&lt;a href=&quot;http://thesaurus.land/&quot;&gt;thesaurus.land&lt;/a&gt;"/>
 			</outline>
 		<outline text="&quot;trex&quot;">
 			<outline text="&lt;a href=&quot;http://smallpicture.com/trexDocs.html&quot;&gt;Trex&lt;/a&gt;"/>
@@ -302,8 +287,29 @@
 		<outline text="&quot;troll&quot;" created="Sun, 02 Sep 2018 16:50:12 GMT">
 			<outline text="&lt;a href=&quot;http://this.how/trolls/&quot;&gt;troll&lt;/a&gt;" created="Sun, 02 Sep 2018 16:50:15 GMT"/>
 			</outline>
+		<outline text="&quot;Woodstock Today&quot;" created="Thu, 19 Mar 2020 15:34:46 GMT">
+			<outline text="&lt;a href=&quot;http://woodstock.today/&quot;&gt;Woodstock Today&lt;/a&gt;" created="Thu, 19 Mar 2020 15:34:52 GMT"/>
+			</outline>
 		<outline text="&quot;XML-RPC&quot;" created="Sat, 26 May 2018 03:02:46 GMT">
 			<outline text="&lt;a href=&quot;http://xmlrpc.com/&quot;&gt;XML-RPC&lt;/a&gt;" created="Fri, 10 Jan 2020 18:24:14 GMT"/>
+			</outline>
+		<outline text="#indieweb" created="Wed, 19 Jun 2019 15:39:37 GMT">
+			<outline text="&lt;a href=&quot;https://twitter.com/search?q=%23indieweb&quot;&gt;#indieweb&lt;/a&gt;" created="Wed, 19 Jun 2019 15:39:40 GMT"/>
+			</outline>
+		<outline text="#isoj2019" created="Mon, 15 Apr 2019 15:43:45 GMT">
+			<outline text="&lt;a href=&quot;https://twitter.com/hashtag/isoj2019?src=hash&quot;&gt;#isoj2019&lt;/a&gt;" created="Mon, 15 Apr 2019 15:43:49 GMT"/>
+			</outline>
+		<outline text="#lgm" created="Wed, 07 Aug 2019 15:52:38 GMT">
+			<outline text="&lt;a href=&quot;https://twitter.com/search?q=%23lgm&quot; title=&quot;Let's go Mets!&quot;&gt;&lt;img src=&quot;http://scripting.com/images/2019/08/11/metsLogo.png&quot; width=&quot;22&quot; height=&quot;2&quot; style=&quot;margin-left: 0px;&quot;&gt;&lt;/a&gt;" created="Wed, 07 Aug 2019 15:52:40 GMT"/>
+			</outline>
+		<outline text="#scriptingnews" created="Sat, 15 Dec 2018 16:15:08 GMT">
+			<outline text="&lt;a href=&quot;https://twitter.com/hashtag/scriptingnews&quot;&gt;#scriptingnews&lt;/a&gt;" created="Sat, 15 Dec 2018 16:15:14 GMT"/>
+			</outline>
+		<outline text=":check:" created="Fri, 31 Aug 2018 19:35:45 GMT">
+			<outline text="✓" created="Fri, 31 Aug 2018 19:35:51 GMT"/>
+			</outline>
+		<outline text="@aoc" created="Mon, 07 Jan 2019 22:43:27 GMT">
+			<outline text="&lt;a href=&quot;https://twitter.com/AOC&quot;&gt;AOC&lt;/a&gt;" created="Mon, 07 Jan 2019 22:43:29 GMT"/>
 			</outline>
 		</body>
 	</opml>
