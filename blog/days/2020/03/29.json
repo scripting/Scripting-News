@@ -1,0 +1,139 @@
+{
+    "text": "March 29",
+    "created": "Sun, 29 Mar 2020 14:16:01 GMT",
+    "name": "29",
+    "subs": [
+        {
+            "text": "Dev work: A few days ago I <a href=\"http://scripting.com/2020/03/24.html#a204119\">asked</a> how to use regex to mash up paths for web requests. In the end I went another way, adding a long-wanted plug-in capability to <a href=\"https://github.com/scripting/pagePark\">PagePark</a>, my labor-of-love Node-based web server. I found a really Nodey way to do it, much better imho than using <a href=\"https://www.w3schools.com/jsref/jsref_eval.asp\">eval</a> or <a href=\"https://www.w3schools.com/nodejs/ref_vm.asp\">vm</a>. I <a href=\"https://www.w3schools.com/nodejs/nodejs_modules.asp\">use</a> <a href=\"https://nodejs.org/api/modules.html\">modules</a>. A lot of people don't know they can be in files, not just distributed through NPM. It's a really nice way to do plug-ins, and it's made something cool possible with Little Outliner. More on that later. In the meantime I've written up the use of modules as PagePark plug-ins in the <a href=\"https://github.com/scripting/Scripting-News/issues/158#issuecomment-605650163\">thread</a> about regex.<i> Still diggin!</i>",
+            "created": "Sun, 29 Mar 2020 15:03:09 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/03/29/beavis.png"
+        },
+        {
+            "text": "BTW, here's an <a href=\"https://gist.github.com/scripting/a676b0da36c13576877a91fc77a34ecb\">example</a> of a PagePark plug-in. ",
+            "created": "Sun, 29 Mar 2020 15:22:40 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "This is a <a href=\"https://www.nytimes.com/2020/03/27/opinion/coronavirus-trump-testing-shortages.html\">must-read article</a>. Summary. There won't be enough testing, probably for the rest of the year. Same with ventilators and gear to protect the medical people. What's missing is national leadership, to tell people the truth, let us know what we're needed to do. We can accept that. What is killing us is the constant chaos.  ",
+            "created": "Sun, 29 Mar 2020 14:23:19 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Very interesting <a href=\"http://scripting.com/images/2020/03/29/visual.png\">visual</a> of the progression of the disease.",
+            "created": "Sun, 29 Mar 2020 17:57:53 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://www.goodreads.com/quotes/815997-leadership-consists-of-nothing-but-taking-responsibility-for-everything-that\">Dwight Eisenhower</a>: \"Leadership consists of nothing but taking responsibility for everything that goes wrong and giving your subordinates credit for everything that goes well.\"",
+            "created": "Sun, 29 Mar 2020 18:02:54 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I'm buying stuff on Amazon that's scheduled to be delivered in June. I want to see if the world will still be here then. I can smile if the packages arrive. Oh I guess we made it, I'll snicker to myself loudly.",
+            "created": "Mon, 30 Mar 2020 00:30:40 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "On MSNBC they're talking about all the horrendous shit Trump did at the briefing where no news was made except what a <a href=\"https://www.urbandictionary.com/define.php?term=POS\">POS</a> he is. Come on. This is too easy and a waste of good news people. Trump being an asshole is not news. Just. Stop.",
+            "created": "Mon, 30 Mar 2020 00:30:53 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I must use this <a href=\"https://twitter.com/DeaniesSeafood/status/1244283202593792000/photo/1\">huge plate of crawfish</a> as my header image. ",
+            "created": "Sun, 29 Mar 2020 15:22:10 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "People who are worried, now, if Biden is electable. An analogy. You're married to a crazy man. He's got a gas can and matches. He's soaked your kids in gasoline, and is ready to light them up. You're thinking about your next husband. You're crazy.",
+            "created": "Sun, 29 Mar 2020 14:20:22 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I bet Google knows where the hot spots are.",
+            "type": "tweet",
+            "created": "Sun Mar 29 13:40:39 +0000 2020",
+            "tweetId": "1244258167749595139",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "I always feel better when the sun rises. 🌞",
+            "type": "tweet",
+            "created": "Sun Mar 29 10:52:06 +0000 2020",
+            "tweetId": "1244215752309309440",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "The companies didn’t need bailouts. Take United Airlines for example. They would have gone bankrupt, their assets sold to pay creditors. There would still be a United Airlines. The planes would still fly. The shareholders would have lost everything. Owning stock is risky, or it should be -- especially when you don't save for a rainy day as United didn't. Same old shit. Upside is private. Downside is socialist. We need real health care, people need food, a place to live, a job. We had the opportunity now to ensure all that. We’re trying to prop up an old obsolete system. People are left to <a href=\"https://www.vox.com/policy-and-politics/2020/3/27/21197279/coronavirus-us-unemployment-health-insurance\">fend</a> for themselves, but stockholders are made whole.",
+            "created": "Sun, 29 Mar 2020 14:16:02 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/03/29/united.png"
+        },
+        {
+            "text": "Think about ventilators",
+            "created": "Sun, 29 Mar 2020 15:32:22 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Think about ventilators.",
+                    "created": "Sun, 29 Mar 2020 15:32:28 GMT"
+                },
+                {
+                    "text": "Suppose you catch the virus today."
+                },
+                {
+                    "text": "In two weeks you're so sick you can't breathe."
+                },
+                {
+                    "text": "You need a ventilator."
+                },
+                {
+                    "text": "The <a href=\"https://en.wikipedia.org/wiki/Emergency_medical_technician\">EMT</a> driver won't take you to the hospital because there is no ventilator for you.",
+                    "created": "Sun, 29 Mar 2020 16:01:50 GMT"
+                },
+                {
+                    "text": "It's like planning ahead for <a href=\"https://www.urbandictionary.com/define.php?term=TP\">TP</a> but this matters more. ",
+                    "created": "Sun, 29 Mar 2020 15:32:57 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Why hibernate?",
+            "created": "Sun, 29 Mar 2020 16:13:56 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Two reasons:",
+                    "created": "Sun, 29 Mar 2020 16:14:05 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Increase your chance of survival when you get the virus.",
+                            "created": "Sun, 29 Mar 2020 16:14:18 GMT"
+                        },
+                        {
+                            "text": "Slow the rate of transmission of the virus.",
+                            "created": "Sun, 29 Mar 2020 16:14:25 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "One reason for you, another for everyone else. ",
+                    "created": "Sun, 29 Mar 2020 16:14:28 GMT"
+                },
+                {
+                    "text": "Scientists are working feverishly on treatments and a vaccine. The latter will prevent you from getting infected, but it's a long way off. But treatments could come about any day. The longer you hold on, the more likely you will survive. ",
+                    "created": "Sun, 29 Mar 2020 16:15:01 GMT"
+                },
+                {
+                    "text": "If everyone stayed in, the transmission of the virus would almost halt. You could still get it from someone you live with. But that's it. ",
+                    "created": "Sun, 29 Mar 2020 16:15:10 GMT"
+                },
+                {
+                    "text": "But we can't be perfect. We need doctors, food, electric, internet, etc. So the best we can do is slow the rate. The slower it gets, the more time we give the scientists to find a treatment or vaccine. And the better the chance you survive.",
+                    "created": "Sun, 29 Mar 2020 16:15:27 GMT"
+                }
+            ]
+        }
+    ]
+}
