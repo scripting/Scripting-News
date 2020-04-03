@@ -1,0 +1,101 @@
+{
+    "text": "April 2",
+    "created": "Thu, 02 Apr 2020 15:16:45 GMT",
+    "name": "02",
+    "subs": [
+        {
+            "text": "Today's <a href=\"https://www.nytimes.com/2020/04/02/podcasts/the-daily/coronavirus-fauci.html\">Daily podcast</a> interview with <a href=\"https://en.wikipedia.org/wiki/Anthony_Fauci\">Anthony Fauci</a> may be the most consequential podcast ever. In the last ten minutes they finally get to the important stuff, i.e. what's coming. Now I understand the next phase of the virus much better. I'm also glad to hear they're considering the functioning of society in their plans. At some point we're going to have to provide health care to the people who can't afford it, if we ever want to come out of this. Imho the sooner the better, but Fauci has to take as a given that the president is who he is. I've never said anything was more of a must-listen than this podcast. I think they should play the last ten minutes on Maddow tonight. Everyone with a mind needs to hear this. ",
+            "created": "Thu, 02 Apr 2020 19:37:12 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/02/27/crush.png"
+        },
+        {
+            "text": "My poor uncle, my father's brother, was <a href=\"http://scripting.com/davenet/1998/01/29/myUncleSam.html\">murdered</a>. I think how sad that the last person he saw was someone who had just killed him. I feel the same way about watching The Trump Show on MSNBC every evening at 6PM. He's murdering us. Why  would we want to listen to him?",
+            "created": "Thu, 02 Apr 2020 18:13:46 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://www.facebook.com/geosol114/posts/10158225444496779\">Posted on Facebook by Daniel Schmachtenberger</a>. \"Hong Kong and Italy got exposed to the same virus. The pandemic is not caused by a virus, it's caused by the failure of effective governance. In other words, the huge and preventable numbers of people dying currently...are dying from the effects of dysfunctional governance.\"",
+            "created": "Thu, 02 Apr 2020 17:18:38 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Think before you RT. I am once again unfollowing people who RT Trump, and I am now also unfollowing people who RT Kellyanne Conway. They make us stupid. Waste our capacity to think. Reduce everything to emotion. Trump and Conway are intellectual pneumonia. They fill your mind with emotional nonsense, crowding out your ability to think. The cure is simple. Distance yourself from them, and people who are infected with them. Even people you like.",
+            "created": "Thu, 02 Apr 2020 17:34:23 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/08/31/thisIsNextYear.png"
+        },
+        {
+            "text": "I ordered dish towels from Amazon, just got them! I'm a happy home maker.",
+            "created": "Thu, 02 Apr 2020 15:50:50 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I may have finally run out of things to write about! See <a href=\"http://scripting.com/2020/04/02.html#a151646\">below</a>. I actually write about <a href=\"https://duckduckgo.com/?q=disinfecting+wipes&t=h_&ia=shopping\">disinfecting wipes</a>. If you had told me, in say 1998, that by 2020 I'd be writing about wipes, I would have assumed something terrible had happened, not to the world, but to me. ",
+            "created": "Thu, 02 Apr 2020 15:20:44 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "So I finally got <a href=\"https://www.hannaford.com/product/hannaford-fresh-scent-disinfecting-wipes/943141\">disinfecting wipes</a>, and they're great, I just don't know when to use them. Can you use them in place of washing hands? When would you do that?",
+            "created": "Thu, 02 Apr 2020 15:16:46 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "JavaScript plug-ins for PagePark",
+            "created": "Thu, 02 Apr 2020 16:22:21 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "This is a technical description of a new server bridge between two apps, \"PagePark\" and \"Little Outliner\". It's now possible to view user-editable files through PagePark as long as they've been made public. This is how the pieces fit together. ",
+                    "created": "Thu, 02 Apr 2020 16:22:27 GMT",
+                    "subs": [
+                        {
+                            "text": "\"PagePark\" is a Node-based HTTP server that has special understanding of two kinds of files -- \"Markdown\" and \"OPML\". ",
+                            "created": "Thu, 02 Apr 2020 16:23:09 GMT",
+                            "subs": [
+                                {
+                                    "text": "For Markdown files, it renders them in a template. So you don't have to repeat the envelope for each bit of text, and it's easy to modify, for all pages. So it's a bit of a CMS for Markdown files. It also can connect directly to GitHub repos, so it can serve from them, which is nice because Markdown is a default format on GitHub. ",
+                                    "created": "Thu, 02 Apr 2020 16:23:52 GMT"
+                                },
+                                {
+                                    "text": "PagePark also has a special ability to render \"OPML\" files. I use this feature for my this.how site which I've been using to accumulate documents that I want to revise over time. Unlike blog posts, they are not ephemeral. Examples include my <a href=\"http://this.how/trolls/\">Trolling howto</a> and the <a href=\"http://this.how/googleAndHttp/\">Google and HTTP</a> doc. ",
+                                    "created": "Thu, 02 Apr 2020 16:24:15 GMT"
+                                },
+                                {
+                                    "text": "So to sum up, what's special about PagePark, for this situation, is that it's really good at rendering OPML documents.",
+                                    "created": "Thu, 02 Apr 2020 16:26:41 GMT"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "\"Little Outliner\" is an <a href=\"http://outlinerhowto.opml.org/\">outline editor</a> that runs in a web browser. Its native format is \"OPML\". ",
+                            "created": "Thu, 02 Apr 2020 16:32:06 GMT",
+                            "subs": [
+                                {
+                                    "text": "Every file you edit with \"LO2\" is either public or private. ",
+                                    "created": "Thu, 02 Apr 2020 16:33:18 GMT"
+                                },
+                                {
+                                    "text": "I have a copy of PagePark running on the same machine as the server that runs Little Outliner. I created a bridge between the two apps, on the server, that allows PagePark to serve from each users' public folder. When you access the page, you'll see a beautifully rendered version, like my this.how documents. Here's an <a href=\"http://my.this.how/davewiner/example.opml\">example</a>.",
+                                    "created": "Thu, 02 Apr 2020 16:33:54 GMT"
+                                },
+                                {
+                                    "text": "This might sound complicated, because you've probably never thought of the software that runs these apps. But conceptually it's simple. There's a new bridge between \"LO2\" and \"PagePark\". That bridge is a PagePark plug-in.",
+                                    "created": "Thu, 02 Apr 2020 16:34:55 GMT"
+                                },
+                                {
+                                    "text": "I've been talking about the new <a href=\"https://github.com/scripting/pagePark/blob/master/docs/plugins.md\">plug-in</a> ability for PagePark. I needed that to create this connection. I've designed a lot of plug-in architectures over many years, and this is a good one. All web servers running in JavaScript should consider doing it <a href=\"https://github.com/scripting/pagePark/blob/master/docs/plugins.md#a-plug-in-is-a-module\">this way</a>. The plug-in I use for this bridge, is a bit of logic that translates a URL from the outside, to a file in the user's public folder. I've <a href=\"https://gist.github.com/scripting/a676b0da36c13576877a91fc77a34ecb\">published</a> the source. As you can see, there's not much there. ",
+                                    "created": "Thu, 02 Apr 2020 16:38:14 GMT"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "To really nail it, it turns this <a href=\"http://storage2.littleoutliner.com/users/davewiner/myOutlines/example.opml\">source file</a> into this <a href=\"http://my.this.how/davewiner/example.opml\">rendering</a>. That's it. The next step, soon, will be to present a document that explains how to edit and view these files through the new bridge. If you have questions, post a comment <a href=\"https://github.com/scripting/Scripting-News/issues/161\">here</a>. ",
+                            "created": "Thu, 02 Apr 2020 17:14:47 GMT"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
