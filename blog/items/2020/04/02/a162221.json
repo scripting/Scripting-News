@@ -1,0 +1,57 @@
+{
+    "text": "JavaScript plug-ins for PagePark",
+    "created": "Thu, 02 Apr 2020 16:22:21 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "This is a technical description of a new server bridge between two apps, \"PagePark\" and \"Little Outliner\". It's now possible to view user-editable files through PagePark as long as they've been made public. This is how the pieces fit together. ",
+            "created": "Thu, 02 Apr 2020 16:22:27 GMT",
+            "subs": [
+                {
+                    "text": "\"PagePark\" is a Node-based HTTP server that has special understanding of two kinds of files -- \"Markdown\" and \"OPML\". ",
+                    "created": "Thu, 02 Apr 2020 16:23:09 GMT",
+                    "subs": [
+                        {
+                            "text": "For Markdown files, it renders them in a template. So you don't have to repeat the envelope for each bit of text, and it's easy to modify, for all pages. So it's a bit of a CMS for Markdown files. It also can connect directly to GitHub repos, so it can serve from them, which is nice because Markdown is a default format on GitHub. ",
+                            "created": "Thu, 02 Apr 2020 16:23:52 GMT"
+                        },
+                        {
+                            "text": "PagePark also has a special ability to render \"OPML\" files. I use this feature for my this.how site which I've been using to accumulate documents that I want to revise over time. Unlike blog posts, they are not ephemeral. Examples include my <a href=\"http://this.how/trolls/\">Trolling howto</a> and the <a href=\"http://this.how/googleAndHttp/\">Google and HTTP</a> doc. ",
+                            "created": "Thu, 02 Apr 2020 16:24:15 GMT"
+                        },
+                        {
+                            "text": "So to sum up, what's special about PagePark, for this situation, is that it's really good at rendering OPML documents.",
+                            "created": "Thu, 02 Apr 2020 16:26:41 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "\"Little Outliner\" is an <a href=\"http://outlinerhowto.opml.org/\">outline editor</a> that runs in a web browser. Its native format is \"OPML\". ",
+                    "created": "Thu, 02 Apr 2020 16:32:06 GMT",
+                    "subs": [
+                        {
+                            "text": "Every file you edit with \"LO2\" is either public or private. ",
+                            "created": "Thu, 02 Apr 2020 16:33:18 GMT"
+                        },
+                        {
+                            "text": "I have a copy of PagePark running on the same machine as the server that runs Little Outliner. I created a bridge between the two apps, on the server, that allows PagePark to serve from each users' public folder. When you access the page, you'll see a beautifully rendered version, like my this.how documents. Here's an <a href=\"http://my.this.how/davewiner/example.opml\">example</a>.",
+                            "created": "Thu, 02 Apr 2020 16:33:54 GMT"
+                        },
+                        {
+                            "text": "This might sound complicated, because you've probably never thought of the software that runs these apps. But conceptually it's simple. There's a new bridge between \"LO2\" and \"PagePark\". That bridge is a PagePark plug-in.",
+                            "created": "Thu, 02 Apr 2020 16:34:55 GMT"
+                        },
+                        {
+                            "text": "I've been talking about the new <a href=\"https://github.com/scripting/pagePark/blob/master/docs/plugins.md\">plug-in</a> ability for PagePark. I needed that to create this connection. I've designed a lot of plug-in architectures over many years, and this is a good one. All web servers running in JavaScript should consider doing it <a href=\"https://github.com/scripting/pagePark/blob/master/docs/plugins.md#a-plug-in-is-a-module\">this way</a>. The plug-in I use for this bridge, is a bit of logic that translates a URL from the outside, to a file in the user's public folder. I've <a href=\"https://gist.github.com/scripting/a676b0da36c13576877a91fc77a34ecb\">published</a> the source. As you can see, there's not much there. ",
+                            "created": "Thu, 02 Apr 2020 16:38:14 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "To really nail it, it turns this <a href=\"http://storage2.littleoutliner.com/users/davewiner/myOutlines/example.opml\">source file</a> into this <a href=\"http://my.this.how/davewiner/example.opml\">rendering</a>. That's it. The next step, soon, will be to present a document that explains how to edit and view these files through the new bridge. If you have questions, post a comment <a href=\"https://github.com/scripting/Scripting-News/issues/161\">here</a>. ",
+                    "created": "Thu, 02 Apr 2020 17:14:47 GMT"
+                }
+            ]
+        }
+    ]
+}
