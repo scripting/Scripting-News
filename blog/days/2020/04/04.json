@@ -1,0 +1,169 @@
+{
+    "text": "April 4",
+    "created": "Sat, 04 Apr 2020 14:41:30 GMT",
+    "name": "04",
+    "subs": [
+        {
+            "text": "Wondering if behind the scenes Dems are polling Repub senators to see if there are 20 or 30 votes for removing Trump at this point.",
+            "created": "Sat, 04 Apr 2020 16:10:35 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/12/26/bojack.png"
+        },
+        {
+            "text": "We need someone strong in a leaderly way in American journalism as much as we need a few congressional Republicans to grow a conscience and a spine. A seminal piece from a NYT columnist might do the trick, aimed at their own profession, not others.",
+            "created": "Sat, 04 Apr 2020 23:24:23 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Last night Maddow shared <a href=\"http://scripting.com/images/2020/04/04/graphs.png\">two graphs</a> from <a href=\"https://en.wikipedia.org/wiki/David_Ho\">David Ho</a> that illustrate why, unless everyone stays home at the same time, even those states that do will have a much longer and more costly pandemic. The best thing for everyone would be if we all lock down now, and wait out the virus. ",
+            "created": "Sat, 04 Apr 2020 15:35:03 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I asked a <a href=\"https://twitter.com/davewiner/status/1246347423045337089\">question</a> on Twitter this morning that apparently was not understood. Let's try again. When Gov Cuomo says that NY got hit first, I want to know why other American cities didn't get hit at roughly the same time. They say a virus moves in waves. First northern Italy gets it, then the south. NY has its hospitals overloaded, but not Philadelphia. The theory is, according to Cuomo, that the virus will peak in NY, and then peak in other places. Since people move freely around the US, why wouldn't it all happen at roughly the same time. I'd like you to remember, before answering, I have a math degree, and have spent decades working with logic and numbers in computer software. Saying that Dallas has cases, as has St Louis and Cleveland, while true, is not an answer to this puzzling question. Thanks in advance for considering this. ",
+            "created": "Sat, 04 Apr 2020 15:23:22 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Heard something disturbing <a href=\"https://www.wnycstudios.org/podcasts/tnyradiohour/segments/why-we-underestimated-covid-19\">on WNYC</a> earlier. A <a href=\"https://en.wikipedia.org/wiki/Daniel_Kahneman\">Nobel laureate</a> in psychology said he was optimistic for society and pessimistic for himself. At his age, he said, the virus is basically a life sentence of staying isolated. He's 86.",
+            "created": "Sat, 04 Apr 2020 15:30:53 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Sometimes iTunes <a href=\"https://www.youtube.com/watch?v=PUYDb9XG2rs\">won't let me</a> drag an audio file into a playlist. I can never figure what it doesn't like. Did it ever occur to them to give us an error message of some kind?",
+            "created": "Sat, 04 Apr 2020 17:22:31 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=PUYDb9XG2rs"
+        },
+        {
+            "text": "Submitting to iTunes",
+            "created": "Sat, 04 Apr 2020 16:57:34 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I want to <a href=\"https://podcastsconnect.apple.com/my-podcasts/new-feed\">submit</a> the <a href=\"http://scripting.com/cuomo/rss.xml\">Cuomo podcast</a> to iTunes.",
+                    "created": "Sat, 04 Apr 2020 16:57:38 GMT"
+                },
+                {
+                    "text": "It failed in my first attempt. Here are the messages I got.",
+                    "created": "Sat, 04 Apr 2020 16:57:48 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Podcast artwork must be between 1400 x 1400 and 3000 x 3000 pixels, JPG or PNG, in RGB color space, and hosted on a server that allows HTTP head requests.",
+                            "created": "Sat, 04 Apr 2020 16:57:58 GMT"
+                        },
+                        {
+                            "text": "Can’t submit your feed. There is no category tag in your feed, or the category tag is empty.",
+                            "created": "Sat, 04 Apr 2020 16:58:11 GMT"
+                        },
+                        {
+                            "text": "Can’t submit your feed. There is no explicit tag in your feed, or the explicit tag is empty.",
+                            "created": "Sat, 04 Apr 2020 16:58:28 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "I'm trying to figure how how you're supposed to specify \"podcast artwork.\" Guessing it's the channel-level <a href=\"https://www.w3schools.com/xml/rss_tag_image.asp\">image</a> element. ",
+                    "created": "Sat, 04 Apr 2020 16:58:36 GMT"
+                },
+                {
+                    "text": "In any case this isn't going to be a quick thing. I have to update my <a href=\"https://www.npmjs.com/package/daverss\">RSS package</a> to allow for the new metadata they want. And I have a feeling from some of the docs that they want us to use HTTPS, which is somewhat of a deal-stopper. Yes I know the <a href=\"http://this.how/googleAndHttp/#1519488824000\">usual arguments</a>. ",
+                    "created": "Sat, 04 Apr 2020 17:01:12 GMT"
+                },
+                {
+                    "text": "Update: I got the podcast through their validator and it is <a href=\"http://scripting.com/images/2020/04/04/submitted.png\">submitted</a> for review.",
+                    "created": "Sat, 04 Apr 2020 20:05:37 GMT"
+                }
+            ]
+        },
+        {
+            "text": "The parent and child, in crisis",
+            "created": "Sat, 04 Apr 2020 15:46:42 GMT",
+            "type": "outline",
+            "description": "I'm lying in bed at 10AM. I don't want to get up. The parent's voice says, Dave, it's time to get up. I don't want to, I don't want to.",
+            "subs": [
+                {
+                    "text": "We're all depressed. I heard this explained well <a href=\"https://twitter.com/laurenthehough/status/1246318803077804033\">on Twitter</a> last night. Our brain tries to understand the predicament. Not the intellectual brain, the instinctive one. The subconscious. The child. The one that decides in an instant to fight or flight. The one that keeps your organs functioning, oversees the immune system's response to an invader. It's very powerful, but its vision is limited to the input coming in through your senses. It's not very well wired up to your conscious self, the intellect. Something is threatening you, it can detect that, but it doesn't understand what it is. So it makes you numb while it tries to figure it out. But it never can. So you feel depressed. ",
+                    "created": "Sat, 04 Apr 2020 15:46:57 GMT",
+                    "image": "http://scripting.com/images/2020/04/04/parentAndChild.png"
+                },
+                {
+                    "text": "We're all in this place. Yet somehow we manage to do things. To take care. Clean, feed, nurture ourselves. To find distractions. We create moments where we feel well. I've watched myself do this, and see myself doing something I learned in various workshops and classes I participated in, in my 30s and 40s. It involves another duality inside of all of us, the dependent child and the nurturing parent. I literally give voice to the parent. Let it speak, out loud, to the child.  ",
+                    "created": "Sat, 04 Apr 2020 15:44:47 GMT"
+                },
+                {
+                    "text": "I'm lying in bed at 10AM. I don't want to get up. The parent's voice says, Dave, it's time to get up. I don't want to, I don't want to. The parent holds my hand, and says don't worry, I've got this. I'll give you something good to eat, something delicious and filling. Then we'll play a game, and go for a walk, and the list goes on. Things my inner child likes. It doesn't matter so much that he likes these things, but that the patient, loving voice <i>knows</i> he likes these things and will give them to him. Someone has taken charge, and the scared little boy feels loved, guarded, cherished. ",
+                    "created": "Sat, 04 Apr 2020 15:48:49 GMT"
+                },
+                {
+                    "text": "That's why we like listening to Gov Cuomo, and can't stand listening to Trump. The former says I've got this. I'll get us through this. You can depend on me. The latter says I'm going to fuck things up even worse than they are. The former helps us get out of bed and face the world, the latter makes us want to pull the covers over our head and pretend we're in another place and time.",
+                    "created": "Sat, 04 Apr 2020 15:51:10 GMT"
+                },
+                {
+                    "text": "As adults, all of us have an inner parent we can call on, if we remember to do it. A leader like Cuomo helps us access our strength and determination, helps calm the fears of the child. We may not know the answers, but we will find them, together. ",
+                    "created": "Sat, 04 Apr 2020 15:53:10 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Narcos taught me something",
+            "created": "Sat, 04 Apr 2020 23:33:43 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "An episode of <a href=\"https://www.theverge.com/2020/2/14/21138189/narcos-mexico-review-netflix-season-two\">Narcos/Mexico</a> just opened my eyes. ",
+                    "created": "Sat, 04 Apr 2020 23:33:52 GMT"
+                },
+                {
+                    "text": "Season 1, Episode 2.",
+                    "created": "Sat, 04 Apr 2020 23:35:55 GMT"
+                },
+                {
+                    "text": "A young guy with a big idea gambles big and loses because his boss is an idiot."
+                },
+                {
+                    "text": "He's being taken off to be executed, but he's cool. He knows he's going to be killed. He took a risk and lost. He's ok with it.",
+                    "created": "Sat, 04 Apr 2020 23:36:05 GMT"
+                },
+                {
+                    "text": "Cops flag down the car, make everyone get out and they shoot everyone but the guy who was about to be killed.",
+                    "created": "Sat, 04 Apr 2020 23:36:15 GMT"
+                },
+                {
+                    "text": "The cops were part of the big deal, and they liked the smart young dude so they killed his boss and made him the new boss."
+                },
+                {
+                    "text": "Very nicely done, and even though I had seen it before, it totally held my interest. And I was glad to see it on April 4, 2020. If this is the end, why not go out with dignity and style?"
+                },
+                {
+                    "text": "I thought it was an interesting perspective."
+                }
+            ]
+        },
+        {
+            "text": "Morning Coffee Notes",
+            "created": "Sat, 04 Apr 2020 14:41:31 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "A bunch of things to write about today. Rolling up my sleeve.",
+                    "created": "Sat, 04 Apr 2020 14:41:49 GMT"
+                },
+                {
+                    "text": "In the old days of blogging I had subscribed to <a href=\"https://val.demar.in/\">Paolo Valdemarin's blog</a>. Then Paolo must've gotten busy, being an entrepreneur in Italy, and now a VC in London. Then once they had the lockdown in the UK, he started blogging again. My RSS aggregator, which had been checking his feed every fifteen minutes during his decade-long hiatus, sprung to life. The lights came on. Paolo is a much better writer than I remembered. His blog flows, his stories are human, his observations are easy to relate to. Silver linings everywhere. ",
+                    "created": "Sat, 04 Apr 2020 14:41:51 GMT",
+                    "image": "http://scripting.com/images/2020/04/04/hamster.png"
+                },
+                {
+                    "text": "Same with <a href=\"https://www.theguardian.com/profile/johnnaughton\">John Naughton</a>, though he never stopped writing. He's a columnist at the Guardian, also from the UK, a great thinker and observer. His blog is now published every morning (my timezone) <a href=\"https://johnnaughton.substack.com/\">via Substack</a>. I looked at using Substack before writing <a href=\"http://scripting.com/email/\">my own software</a>. I didn't like that I would have to manually transcribe my posts from my CMS to theirs to get them to publish it. It's 2020 for crying out loud. Support the standards. Or maybe they want their users locked in? I can't tell you how many times I've had to reimplement the entire functionality of a product to avoid having to manually transpose my writing or avoid lock-in. It's a VC way of thinking and not observant of the fundamental law of the web, <a href=\"http://scripting.com/2005/12/12.html#howToMakeMoneyOnTheInternetVersion3\">people come back to places that send them away</a>. Trust your users. If you have the best product, they'll continue to use it and sing your praises. If you don't, they'll bolt at the first opportunity.",
+                    "created": "Sat, 04 Apr 2020 14:47:06 GMT"
+                },
+                {
+                    "text": "Naughton also wrote about <a href=\"https://privatekit.mit.edu/\">Private Kit</a>, though I can't find the reference now. It's a brilliant idea. An app for iOS or Android that tracks your whereabouts, but doesn't share the data with anyone but you. The info never leaves your phone without your permission. It offers new opportunities for resarchers studying among other things the migration of pandemic viruses through the population. This is the future, and a very nice way to spin it, MIT. Keep up the good work. ",
+                    "created": "Sat, 04 Apr 2020 15:00:16 GMT"
+                }
+            ]
+        }
+    ]
+}
