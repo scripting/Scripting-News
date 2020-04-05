@@ -1,0 +1,42 @@
+{
+    "text": "Submitting to iTunes",
+    "created": "Sat, 04 Apr 2020 16:57:34 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I want to <a href=\"https://podcastsconnect.apple.com/my-podcasts/new-feed\">submit</a> the <a href=\"http://scripting.com/cuomo/rss.xml\">Cuomo podcast</a> to iTunes.",
+            "created": "Sat, 04 Apr 2020 16:57:38 GMT"
+        },
+        {
+            "text": "It failed in my first attempt. Here are the messages I got.",
+            "created": "Sat, 04 Apr 2020 16:57:48 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "Podcast artwork must be between 1400 x 1400 and 3000 x 3000 pixels, JPG or PNG, in RGB color space, and hosted on a server that allows HTTP head requests.",
+                    "created": "Sat, 04 Apr 2020 16:57:58 GMT"
+                },
+                {
+                    "text": "Can’t submit your feed. There is no category tag in your feed, or the category tag is empty.",
+                    "created": "Sat, 04 Apr 2020 16:58:11 GMT"
+                },
+                {
+                    "text": "Can’t submit your feed. There is no explicit tag in your feed, or the explicit tag is empty.",
+                    "created": "Sat, 04 Apr 2020 16:58:28 GMT"
+                }
+            ]
+        },
+        {
+            "text": "I'm trying to figure how how you're supposed to specify \"podcast artwork.\" Guessing it's the channel-level <a href=\"https://www.w3schools.com/xml/rss_tag_image.asp\">image</a> element. ",
+            "created": "Sat, 04 Apr 2020 16:58:36 GMT"
+        },
+        {
+            "text": "In any case this isn't going to be a quick thing. I have to update my <a href=\"https://www.npmjs.com/package/daverss\">RSS package</a> to allow for the new metadata they want. And I have a feeling from some of the docs that they want us to use HTTPS, which is somewhat of a deal-stopper. Yes I know the <a href=\"http://this.how/googleAndHttp/#1519488824000\">usual arguments</a>. ",
+            "created": "Sat, 04 Apr 2020 17:01:12 GMT"
+        },
+        {
+            "text": "Update: I got the podcast through their validator and it is <a href=\"http://scripting.com/images/2020/04/04/submitted.png\">submitted</a> for review.",
+            "created": "Sat, 04 Apr 2020 20:05:37 GMT"
+        }
+    ]
+}
