@@ -1,0 +1,49 @@
+{
+    "text": "Tabs on scripting.com",
+    "created": "Mon, 06 Apr 2020 15:11:48 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I changed the way tabs work on the \"Scripting News\" home page.",
+            "created": "Mon, 06 Apr 2020 15:11:53 GMT"
+        },
+        {
+            "text": "There are three tabs: Blog, Links and About.",
+            "created": "Mon, 06 Apr 2020 15:12:04 GMT"
+        },
+        {
+            "text": "When you click on a tab, you are redirected with a url of this form:",
+            "created": "Mon, 06 Apr 2020 15:12:19 GMT",
+            "subs": [
+                {
+                    "text": "http://scripting.com/?tab=<i>name</i>",
+                    "created": "Mon, 06 Apr 2020 15:12:42 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Where <i>name</i> is the name of the tab you're going to.",
+            "created": "Mon, 06 Apr 2020 15:12:53 GMT"
+        },
+        {
+            "text": "That way you always have a link to the tab in the address bar.",
+            "created": "Mon, 06 Apr 2020 15:13:02 GMT"
+        },
+        {
+            "text": "And the browser's Back button works. ",
+            "created": "Mon, 06 Apr 2020 15:13:29 GMT"
+        },
+        {
+            "text": "It used to do it all with JavaScript without redirecting.",
+            "created": "Mon, 06 Apr 2020 15:13:12 GMT"
+        },
+        {
+            "text": "It also no longer remembers what tab you had frontmost last time you visited the site. This was always annoying. Not a good heuristic. When I come to scripting.com 99 times out of 100 I want to see the blog. It doesn't matter what I was looking at last time I visited. ",
+            "created": "Mon, 06 Apr 2020 15:14:05 GMT"
+        },
+        {
+            "text": "This was suggested a long time ago, has been on my todo list ever since, and I finally got around to doing it. It's even worse than it appears. :boom:",
+            "created": "Mon, 06 Apr 2020 15:15:00 GMT"
+        }
+    ]
+}
