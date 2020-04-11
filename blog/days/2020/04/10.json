@@ -1,0 +1,98 @@
+{
+    "text": "April 10",
+    "created": "Fri, 10 Apr 2020 15:02:25 GMT",
+    "name": "10",
+    "subs": [
+        {
+            "text": "Here's a <a href=\"http://my.this.how/davewiner/howtos.opml\">new service</a> for \"LO2\" users. Use this kind of outline for documents you want to add to or refine over time. FAQs, guidelines, instructions, screeds. Definitely not for blog posts, since there's no time element in it. There's lots of depth to this kind of outline, and it's easy for me to add new features. So that's an extra bonus. If a small community of writers develops here, I will have incentive to show you how to use the other features, and perhaps add new ones. ",
+            "created": "Fri, 10 Apr 2020 16:18:50 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/04/10/tree.png"
+        },
+        {
+            "text": "I chose this route for rolling out rendering for outlines very deliberately because it <i>didn't</i> include blogging features. It's focused on writing. There are already countless ways to blog. But there's a common feature set between the <a href=\"http://this.how/\">this.how</a> docs and <a href=\"http://scripting.com/2019/06/02/150411.html\">Old School blogs</a>, so any skills you pick up here can work for blogs too, if there's ever a need to go that far. I have found this format useful even though I have a blog. So when you think -- I should write some guidelines for this, or a FAQ or directions for cooking a type of bread, writing that isn't of-the-moment, then you can use \"LO2\" to write and revise it, and send people the URL of the my.this.how rendering of it. ",
+            "created": "Fri, 10 Apr 2020 16:31:10 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "If the airlines thought they would lose all that money from a shutdown, instead of being bailed out, maybe they would have pressured the government to act more aggressively against the virus.",
+            "created": "Fri, 10 Apr 2020 20:52:06 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://www.stripes.com/for-mcconnell-virus-carries-echo-of-his-boyhood-polio-during-wwii-1.625609\">McConnell</a> had polio as a child, it left him disabled for life. I grew up after there was a vaccine, but just barely. The vaccine came out in <a href=\"https://www.history.com/this-day-in-history/children-receive-first-polio-vaccine\">1954</a>, I was born in 1955. So there were polio victims in school when I was. There was a girl, Bridgett, who played with us in a wheel chair.",
+            "created": "Fri, 10 Apr 2020 20:52:24 GMT",
+            "type": "outline"
+        },
+        {
+            "text": " It's pretty obvious that <a href=\"https://nypost.com/2020/04/10/democrats-want-to-drop-joe-biden-for-andrew-cuomo-poll-finds/\">Cuomo</a> should be the Democratic nominee. What's happening now is a much more rigorous vetting than the primary debates (a reality show).",
+            "created": "Fri, 10 Apr 2020 16:39:32 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I have a <a href=\"https://github.com/scripting/Scripting-News/issues/164\">question</a> about Apple podcasts. The new <a href=\"http://this.how/cuomo/\">Cuomo</a> podcast shows up in my iPhone podcasts app. <a href=\"http://scripting.com/images/2020/04/10/cuomoScreen.png\">Screen shot</a>. It also shows as having updated. But when I look at the page for the podcast it only shows episodes through Tuesday. Today is Friday. Is there something wrong with my feed? I want to get this working properly. I also noted that Sunday and Monday are missing too. They are most definitely in the <a href=\"http://xmlviewer.scripting.com/?url=http://scripting.com/cuomo/rss.xml\">RSS feed</a>. ",
+            "created": "Fri, 10 Apr 2020 17:39:29 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/04/10/cow.png"
+        },
+        {
+            "text": "Testing and contact tracing",
+            "created": "Fri, 10 Apr 2020 15:02:26 GMT",
+            "type": "outline",
+            "description": "Google and Apple have the data, but they're legitimately scared of the backlash.",
+            "metaImage": "http://scripting.com/images/2020/04/10/contacts.png",
+            "subs": [
+                {
+                    "text": "Testing and contact tracing is central to turning the lights back on before there's a Covid19 vaccine. Since the US government isn't doing it, we have to do it. We can't afford to wait. Lives and livelihoods are at stake. Too important.",
+                    "created": "Fri, 10 Apr 2020 15:02:37 GMT"
+                },
+                {
+                    "text": "<b>Testing</b>",
+                    "created": "Fri, 10 Apr 2020 15:05:23 GMT",
+                    "collapse": "false"
+                },
+                {
+                    "text": "Testing is doable. Since the FDA is a bottleneck maybe <a href=\"https://www.bloomberg.com/opinion/articles/2020-04-09/california-declares-independence-from-trump-s-coronavirus-plans\">California</a>, New York, New Jersey, Connecticut, Illinois, Masachusetts and any other state who cares about its people can break free, or work with the US government's FDA to loosen things up so we can get say 10 million tests done per day for the forseeable future. You should be able to get one whenever you want one.  ",
+                    "created": "Fri, 10 Apr 2020 15:02:42 GMT"
+                },
+                {
+                    "text": "I heard on the <a href=\"https://www.wnyc.org/shows/bl\">Brian Lehrer Show</a> this <a href=\"https://www.wnyc.org/story/how-testing-will-help-us-get-back-regular-life/\">morning</a> that the testing part apparently is doable, we can scale it up. It'll cost $100 billion to start, but if it got us out of this mess a month sooner it would be a good investment. ",
+                    "created": "Fri, 10 Apr 2020 15:04:55 GMT"
+                },
+                {
+                    "text": "<b>Contact tracing</b> ",
+                    "created": "Fri, 10 Apr 2020 15:05:19 GMT",
+                    "collapse": "false"
+                },
+                {
+                    "text": "<a href=\"https://www.npr.org/sections/health-shots/2020/04/10/831200054/cdc-director-very-aggressive-contact-tracing-needed-for-u-s-to-return-to-normal\">Contact tracing</a> is easily solved, very quickly. It's more of a political problem than a technological one.",
+                    "created": "Fri, 10 Apr 2020 15:13:15 GMT"
+                },
+                {
+                    "text": "<a href=\"https://privatekit.mit.edu/\">MIT has an app</a> for contact tracing. It has the right privacy configuration, the information isn't shared without you sending the data somewhere. By default it never leaves your phone. But the MIT app is on very few phones. ",
+                    "created": "Fri, 10 Apr 2020 15:05:36 GMT"
+                },
+                {
+                    "text": "On the other hand, Apple and Google and others have <i>very good</i> data for contact tracing and their apps are widely deployed. World-wide. We wouldn't just be solving the problem for the US, we'd be doing it for everyone everywhere who has an iPhone or Android phone. ",
+                    "created": "Fri, 10 Apr 2020 15:05:42 GMT"
+                },
+                {
+                    "text": "But they are reluctant to even say they can do it for fear of the backlash. It's time to have this conversation. Maybe the surveillance aspect of the new technology is worth supporting if it saves lives and can easily be turned off, by the user, when we're no longer in crisis. ",
+                    "created": "Fri, 10 Apr 2020 15:05:43 GMT"
+                },
+                {
+                    "text": "My friend <a href=\"https://en.wikipedia.org/wiki/Doc_Searls\">Doc Searls</a> is the expert on this. I'll ask him what he thinks. ",
+                    "created": "Fri, 10 Apr 2020 15:05:47 GMT"
+                },
+                {
+                    "text": "<b>Update</b>",
+                    "created": "Fri, 10 Apr 2020 17:14:08 GMT"
+                },
+                {
+                    "text": "Shortly after this piece was posted, <a href=\"https://blog.google/inside-google/company-announcements/apple-and-google-partner-covid-19-contact-tracing-technology\">Apple and Google announced</a> they're going to work together on contact tracing. Wow. That's quick turnaround! :boom:",
+                    "created": "Fri, 10 Apr 2020 17:14:10 GMT"
+                }
+            ]
+        }
+    ]
+}
