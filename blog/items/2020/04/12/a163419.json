@@ -1,0 +1,25 @@
+{
+    "text": "Zip work",
+    "created": "Sun, 12 Apr 2020 16:34:19 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I posted this earlier.",
+            "created": "Sun, 12 Apr 2020 16:34:27 GMT",
+            "subs": [
+                {
+                    "text": "I need to zip up a set of files in Node. Why isn't there a drop-dead simple API for doing this. Here's the <a href=\"https://gist.github.com/scripting/aa50ae77b8929bcad55c8b7125a6f3ba\">pseudo code</a> for how I'd like to do it. If you have a suggestion you can comment on the <a href=\"https://gist.github.com/scripting/aa50ae77b8929bcad55c8b7125a6f3ba\">gist</a>. ",
+                    "created": "Sun, 12 Apr 2020 14:29:53 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Since then I solved the problem, creating an NPM package, davezip (not released yet), that has the API I want, built on the <a href=\"https://www.archiverjs.com/\">archiver</a> package. ",
+            "created": "Sun, 12 Apr 2020 16:34:34 GMT"
+        },
+        {
+            "text": "Will post the details after my next session. ",
+            "created": "Sun, 12 Apr 2020 16:35:20 GMT"
+        }
+    ]
+}
