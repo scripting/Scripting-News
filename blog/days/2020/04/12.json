@@ -1,0 +1,81 @@
+{
+    "text": "April 12",
+    "created": "Sun, 12 Apr 2020 14:16:24 GMT",
+    "name": "12",
+    "subs": [
+        {
+            "text": "It's really sad what the trumps did to America.",
+            "created": "Mon, 13 Apr 2020 01:43:40 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Stop everything and <a href=\"https://twitter.com/BorisJohnson/status/1249336590482243585\">watch</a> this presentation by Prime Minister Johnson of the UK. Incredibly powerful, credible, a perfect call for the British people. Now maybe he can knock some sense into the Republican leadership in the US. Also doesn't this make you wish we had an NHS in the US. I thought this was such a noteworthy speech we added it to the <a href=\"http://this.how/cuomo/\">Cuomo podcast</a> as a \"special enclosure.\"",
+            "created": "Sun, 12 Apr 2020 16:32:47 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/BorisJohnson/status/1249336590482243585",
+            "image": "http://scripting.com/images/2020/04/12/ukFlagButton.png"
+        },
+        {
+            "text": "<a href=\"https://www.theatlantic.com/politics/archive/2020/04/voting-mail-2020-race-between-biden-and-trump/609799/\">Worth mentioning</a>. All six key swing states—FL, NC, AZ, MI, PA, and WI—already allow their residents to vote by mail, for any reason. So Trump doesn't have to try to destroy the US Postal Service. ",
+            "created": "Sun, 12 Apr 2020 14:16:25 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I'm getting the <a href=\"https://www.kinsahealth.co/\">Kinsa thermometer</a> tomorrow, but I already have my <a href=\"https://www.walmart.com/browse/health/pulse-oximeters/976760_1005860_1161882_2477346\">pulse oximeter</a>, it came via Fedex on Friday. It's that <a href=\"https://duckduckgo.com/?q=pulse+oximeter&t=h_&ia=images&iax=images\">thing</a> they put over your finger that says how fast your heart is beating and how much oxygen is in your blood. My numbers are good.  ",
+            "created": "Sun, 12 Apr 2020 14:17:25 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://twitter.com/yayalexisgay/status/1249057146051821568\">Silicon Valley</a> hasn't changed in all these years. ",
+            "created": "Sun, 12 Apr 2020 20:28:38 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/yayalexisgay/status/1249057146051821568"
+        },
+        {
+            "text": "The post office is fine",
+            "created": "Sun, 12 Apr 2020 20:52:49 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "The post office is fine. Repubs like to say government does everything wrong but it isn't true. ",
+                    "created": "Sun, 12 Apr 2020 20:52:54 GMT"
+                },
+                {
+                    "text": "Ever try to get help from an airline? Or an ISP? "
+                },
+                {
+                    "text": "I live in the country and we <i>depend</i> on the post office. A lot of systems would break without it. ",
+                    "created": "Sun, 12 Apr 2020 20:53:02 GMT"
+                },
+                {
+                    "text": "Trump can't be serious."
+                }
+            ]
+        },
+        {
+            "text": "Zip work",
+            "created": "Sun, 12 Apr 2020 16:34:19 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I posted this earlier.",
+                    "created": "Sun, 12 Apr 2020 16:34:27 GMT",
+                    "subs": [
+                        {
+                            "text": "I need to zip up a set of files in Node. Why isn't there a drop-dead simple API for doing this. Here's the <a href=\"https://gist.github.com/scripting/aa50ae77b8929bcad55c8b7125a6f3ba\">pseudo code</a> for how I'd like to do it. If you have a suggestion you can comment on the <a href=\"https://gist.github.com/scripting/aa50ae77b8929bcad55c8b7125a6f3ba\">gist</a>. ",
+                            "created": "Sun, 12 Apr 2020 14:29:53 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "Since then I solved the problem, creating an NPM package, davezip (not released yet), that has the API I want, built on the <a href=\"https://www.archiverjs.com/\">archiver</a> package. ",
+                    "created": "Sun, 12 Apr 2020 16:34:34 GMT"
+                },
+                {
+                    "text": "Will post the details after my next session. ",
+                    "created": "Sun, 12 Apr 2020 16:35:20 GMT"
+                }
+            ]
+        }
+    ]
+}
