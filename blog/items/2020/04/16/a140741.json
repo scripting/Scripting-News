@@ -1,0 +1,5 @@
+{
+    "text": "BTW, so far the only big limit I've learned about with Glitch is the inability to map an IP address to an app. But this may not be a problem because I use Hover as my registrar and DNS, and <a href=\"http://scripting.com/2019/12/16/170209.html?title=theyCanMap\">they can map</a> a top level domain using a CNAME. So you could say make mydomain.com point to a Glitch app. ",
+    "created": "Thu, 16 Apr 2020 14:07:41 GMT",
+    "type": "outline"
+}
