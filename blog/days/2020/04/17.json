@@ -1,0 +1,87 @@
+{
+    "text": "April 17",
+    "created": "Fri, 17 Apr 2020 14:10:09 GMT",
+    "name": "17",
+    "subs": [
+        {
+            "text": "If they were going to choose a special Time person of the year, I'd nominate The Governor. We're depending on them, given who the president is, and they appear to be coming through, setting an incredible example by working together against the odds and against the norms of the last 30 years. ",
+            "created": "Fri, 17 Apr 2020 14:45:13 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I ran a <a href=\"https://twitter.com/davewiner/status/1251089277620019200\">poll</a> early this morning asking people to pick one of four women as Biden's running mate. They were Kamala Harris, Gretchen Whitmer, Elizabeth Warren and Stacey Abrams, in that order. Not surprisingly <a href=\"https://en.wikipedia.org/wiki/Gretchen_Whitmer\">Whitmer</a> is getting the fewest votes, but I think she's the best choice. Midwestern governor. Very composed, take-charge person, but also compassionate. Young but not too young. She's under incredible pressure, and apparently doing well. Maybe I like her so much because I don't know much about her. It's possible. But it's her moment now, and there's something to be said for pulling the in-the-moment energy into the campaign. He can't choose <a href=\"http://this.how/cuomo/\">Andrew Cuomo</a> because of his pledge, but Whitmer might be even better. Now could she campaign and deal with the problems of Michigan, which are substantial. That might be a very good way to campaign, actually. And she seems to pass the most important test -- she would be a good chief executive for the country if she is needed for that.  ",
+            "created": "Fri, 17 Apr 2020 14:36:12 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/12/19/crush.png"
+        },
+        {
+            "text": "<a href=\"https://twitter.com/tribelaw/status/1251124028359741447\">Lawrence Tribe says</a> we're all going to have to get the virus and a lot of us will die. I don't know if that's true, but life isn't over until it's over. We're still here. There's sometimes a surprise around the corner. Gather ye rosebuds while ye may. ",
+            "created": "Fri, 17 Apr 2020 14:34:24 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Glitch, day 3",
+            "created": "Fri, 17 Apr 2020 14:10:10 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Okay it took a lot of hacking, discomfort, trial and error and confusion, because the Glitch model is so different from the <a href=\"https://www.digitalocean.com/products/droplets/\">one</a> I'm used to, but I did finally get a simple editor app running on a Glitch server. ",
+                    "created": "Fri, 17 Apr 2020 14:10:13 GMT"
+                },
+                {
+                    "text": "It's a <a href=\"http://macwrite.org/glitch/\">variant</a> of MacWrite. Hooks up to an instance of \"nodeStorage\" running on the Glitch server, which in turn connects to Twitter for identity, and it stores the files in the folder Glitch gives me. This is not meant to be something useful, just a testbed to learn with.",
+                    "created": "Fri, 17 Apr 2020 14:19:33 GMT"
+                },
+                {
+                    "text": "Screen shot: Simple text editor running on Glitch.",
+                    "created": "Fri, 17 Apr 2020 14:17:04 GMT",
+                    "inlineImage": "http://scripting.com/images/2020/04/17/macwriteOnGlitch.png"
+                },
+                {
+                    "text": "One thing I've had trouble with is knowing when it's running what version of my app because they appear to relaunch it on every editing change. I understand they do this for newbie programmers, so it's something they don't have to learn to get to Hello World. I might do it that way. But as a programmer for many years, I would like to control that. Ideally from the terminal. Run the app the way I do on my Linux server. <code>node appname.js</code>.",
+                    "created": "Fri, 17 Apr 2020 14:12:39 GMT"
+                },
+                {
+                    "text": "A little prior art, <a href=\"https://en.wikipedia.org/wiki/Turbo_Pascal\">Turbo Pascal</a> was very explicit in when you ran what version of the app. You had to stop the app manually, and then restart it after a change. I was already a professional programmer at the time, so I can't vouch for how that worked for newbies, but a lot of people learned to program in TP, so it worked for some of them. In other words, not sure the way Glitch does it is even the right way to go for beginners. You want there to be as little magic as possible, imho. ",
+                    "created": "Fri, 17 Apr 2020 14:21:09 GMT"
+                },
+                {
+                    "text": "Not sure what my next experiment will be. ",
+                    "created": "Fri, 17 Apr 2020 14:14:23 GMT"
+                },
+                {
+                    "text": "The thread on GitHub <a href=\"https://github.com/scripting/Scripting-News/issues/168\">continues</a>. ",
+                    "created": "Fri, 17 Apr 2020 14:48:21 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Nursing home deaths",
+            "created": "Fri, 17 Apr 2020 14:55:31 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://www.msnbc.com/rachel-maddow/watch/nursing-home-deaths-should-be-obvious-target-of-covid-19-response-82189381550\">Maddow</a> last night was unusually depressing. Here’s what we learned. It’s possible that half the Covid deaths in the US are in nursing homes, and since no one is counting them the total death toll is double what we think it is.",
+                    "type": "outline",
+                    "created": "Fri Apr 17 09:01:53 +0000 2020",
+                    "tweetId": "1251073384395542528",
+                    "tweetUserName": "davewiner"
+                },
+                {
+                    "text": "A <a href=\"https://www.caring.com/senior-living/new-jersey/andover/andover-subacute-and-rehab-ii-07821\">nursing home</a> in a <a href=\"https://www.google.com/maps/place/Andover,+NJ/@40.9843627,-74.7504447,15z/data=!3m1!4b1!4m5!3m4!1s0x89c370d16ddb23a9:0x7185a0a5d268100!8m2!3d40.9859311!4d-74.7421089\">small NJ town</a> is the <a href=\"https://www.nytimes.com/2020/04/15/nyregion/coronavirus-nj-andover-nursing-home-deaths.html\">example</a>. Nice normal suburban town. A nice looking nursing home. Also a death trap. For patients and care-givers alike. Bodies stacked up.",
+                    "type": "outline",
+                    "created": "Fri Apr 17 09:01:53 +0000 2020",
+                    "tweetId": "1251073385150525441",
+                    "tweetUserName": "davewiner"
+                },
+                {
+                    "text": "A better country would have removed Trump after the Puerto Rico debacle. We are paying for it now. Nothing has prepared us emotionally for what’s unfolding now.",
+                    "type": "outline",
+                    "created": "Fri Apr 17 09:03:43 +0000 2020",
+                    "tweetId": "1251073847929065479",
+                    "tweetUserName": "davewiner"
+                }
+            ]
+        }
+    ]
+}
