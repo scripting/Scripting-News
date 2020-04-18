@@ -1,0 +1,92 @@
+{
+    "text": "Exponential growth for newbies",
+    "created": "Fri, 17 Apr 2020 19:10:09 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I wonder how many people understand the difference between linear and exponential growth. Let me try to explain. It might help to read it two or three times if it's confusing. It's important to understand imho.",
+            "created": "Fri, 17 Apr 2020 19:10:29 GMT"
+        },
+        {
+            "text": "<b>Linear</b>",
+            "created": "Fri, 17 Apr 2020 19:11:08 GMT",
+            "subs": [
+                {
+                    "text": "Linear means if 12 people graduated in 2010 and 15 people in 2011 then 18 people will in 2012.",
+                    "created": "Fri, 17 Apr 2020 19:11:17 GMT",
+                    "subs": [
+                        {
+                            "text": "2010 12",
+                            "created": "Fri, 17 Apr 2020 19:12:13 GMT"
+                        },
+                        {
+                            "text": "2011 15"
+                        },
+                        {
+                            "text": "2012 18",
+                            "created": "Fri, 17 Apr 2020 19:12:15 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "The rate of growth is 3 people per year. 3 more people graduate every year. ",
+                    "created": "Fri, 17 Apr 2020 19:11:21 GMT"
+                }
+            ]
+        },
+        {
+            "text": "<b>Exponential</b>",
+            "created": "Fri, 17 Apr 2020 19:11:24 GMT",
+            "subs": [
+                {
+                    "text": "Exponential means the rate of growth itself is growing. ",
+                    "created": "Fri, 17 Apr 2020 19:11:33 GMT"
+                },
+                {
+                    "text": "In the same example, if 12 people graduated in 2010 and 15 in 2011 and 19 in 2012 what would the number be in 2013? ",
+                    "created": "Fri, 17 Apr 2020 19:12:02 GMT",
+                    "subs": [
+                        {
+                            "text": "2010 12",
+                            "created": "Fri, 17 Apr 2020 19:11:39 GMT"
+                        },
+                        {
+                            "text": "2011 15"
+                        },
+                        {
+                            "text": "2012 19"
+                        },
+                        {
+                            "text": "2013 24",
+                            "created": "Fri, 17 Apr 2020 19:12:07 GMT"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "The rate of growth of the rate of growth in the first case was 0, in the second it's 1. ",
+            "created": "Fri, 17 Apr 2020 19:11:44 GMT"
+        },
+        {
+            "text": "With Covid, people are studying this, but I haven't been able to find anyone with an opinion of what it is. ",
+            "created": "Fri, 17 Apr 2020 19:22:29 GMT"
+        },
+        {
+            "text": "With Covid we don't yet know what the rate of growth of the rate of growth is, but we know it's <i>not zero. That's what it means for it to be exponential.</i>",
+            "created": "Fri, 17 Apr 2020 19:12:50 GMT"
+        },
+        {
+            "text": "The graphs you see in the news hide the rate of growth of the rate of growth, because the lines on the left side of every graph I've seen represent more and more people as you go up. ",
+            "created": "Fri, 17 Apr 2020 19:13:27 GMT"
+        },
+        {
+            "text": "I think they do it out of habit not malice. Math people understand how to read those graphs. But most other people probably won't. No shame for anyone, but now you need to understand this. ",
+            "created": "Fri, 17 Apr 2020 19:16:19 GMT"
+        },
+        {
+            "text": "PS: When I wrote this I thought that the rate of growth of the rate of growth was going up, but it's not. It's actually going down in the US. Good job Americans!",
+            "created": "Fri, 17 Apr 2020 19:19:02 GMT"
+        }
+    ]
+}
