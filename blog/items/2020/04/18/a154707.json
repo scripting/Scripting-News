@@ -1,0 +1,39 @@
+{
+    "text": "Glitch, day 4",
+    "created": "Sat, 18 Apr 2020 15:47:07 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Okay so I decided what my next step would be in my exploration of Glitch, get \"PagePark\" running there. And I did, and it took about five minutes. I keep trying to get Glitch to put up some resistance, but it doesn't. It really does run Node code, unmodified. When I get it working so quickly I'm dazed and need to retreat a bit and think some more as if I had hit obstacle after obstacle. ",
+            "created": "Sat, 18 Apr 2020 15:47:17 GMT"
+        },
+        {
+            "text": "Here's the server: <a href=\"http://pagepark.glitch.me/\">pagepark.glitch.me</a>. ",
+            "created": "Sat, 18 Apr 2020 15:48:48 GMT"
+        },
+        {
+            "text": "I just put a random OPML file there, and it just worked, as it should.",
+            "created": "Sat, 18 Apr 2020 15:49:28 GMT"
+        },
+        {
+            "text": "I lied. I did have to make a small mod. After reading the config.json file, I had to add a check to see if process.env.PORT was defined, and if so use that port, instead of the default port. That's how Glitch tells you what port to run on, same way Heroku does. I will add that to the PagePark distribution so it'll run without mods.",
+            "created": "Sat, 18 Apr 2020 15:49:42 GMT"
+        },
+        {
+            "text": "Okay so now I know what I want to do next. Find out if they have an API so I can use my own editor to write for this site. And all of a sudden I will have something useful that is shareable. Not bad. ",
+            "created": "Sat, 18 Apr 2020 15:51:18 GMT"
+        },
+        {
+            "text": "So do they have an API? That's the next thing to look into.",
+            "created": "Sat, 18 Apr 2020 15:52:05 GMT"
+        },
+        {
+            "text": "Also I wonder if there's a way to have it load from the GitHub repo automatically?",
+            "created": "Sat, 18 Apr 2020 15:54:25 GMT"
+        },
+        {
+            "text": "I updated the <a href=\"https://github.com/scripting/Scripting-News/issues/168#issuecomment-615894200\">thread on GitHub</a> with this new info. ",
+            "created": "Sat, 18 Apr 2020 15:54:56 GMT"
+        }
+    ]
+}
