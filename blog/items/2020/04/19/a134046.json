@@ -1,0 +1,38 @@
+{
+    "text": "Is the virus here?",
+    "created": "Sun, 19 Apr 2020 13:40:46 GMT",
+    "type": "outline",
+    "description": "I see parallels between programming and epidemiology, we're dealing with similar concerns since software started working over open networks.",
+    "metaImage": "http://scripting.com/images/2020/04/19/corona.png",
+    "subs": [
+        {
+            "text": "I find it helpful to ask the question \"Is the virus here?\" I thought on <a href=\"http://scripting.com/2020/03/08.html\">March 8</a> it must not be here yet. I had a dinner party that night. Lots of touching, no social distancing. Some people from the small town I live in, some from NYC. Should have been more careful. But it's now 41 days later, and all the guests at the party are well. So I guess we dodged a bullet. On that day.",
+            "created": "Sun, 19 Apr 2020 13:40:51 GMT",
+            "image": "http://scripting.com/images/2020/04/19/coronavirus.png"
+        },
+        {
+            "text": "Nowadays, when I go for a walk, or go to the market, I ask the same question and assume the answer is yes. The virus is here. ",
+            "created": "Sun, 19 Apr 2020 13:41:25 GMT"
+        },
+        {
+            "text": "How do I keep it out of my lungs?",
+            "created": "Sun, 19 Apr 2020 16:13:24 GMT"
+        },
+        {
+            "text": "In server programming there's this idea of <a href=\"https://en.wikipedia.org/wiki/Taint_checking\">tainted text</a>. If it came from outside the server, it could contain executable code. That's how hackers get into our systems, through tainted text. ",
+            "created": "Sun, 19 Apr 2020 13:43:33 GMT"
+        },
+        {
+            "text": "Now I think about packages from Amazon the same way. I have a physical-world untaint function. I leave them alone for 24 hours. I've heard that the virus will die on cardboard in 24 hours. I assume whatever is inside the box is not dirty, but I think of it as tainted too. It came from outside. It's tainted. I wash my hands after handling it. Then at some point I shrug my shoulders and bless it as part of the house, and not tainted. It's how I maintain a level of sanity. ",
+            "created": "Sun, 19 Apr 2020 13:50:53 GMT"
+        },
+        {
+            "text": "We wrote an <a href=\"http://frontier.userland.com/reference/manila/macros/safeMacrosGuidelines\">excellent guide</a> to being safe with macros in Frontier, many years ago. ",
+            "created": "Sun, 19 Apr 2020 13:46:39 GMT"
+        },
+        {
+            "text": "I find a lot of parallels between programming and <a href=\"https://en.wikipedia.org/wiki/Epidemiology\">epidemiology</a>. We've been dealing with similar concerns ever since our software started communicating over the open network. ",
+            "created": "Sun, 19 Apr 2020 13:47:06 GMT"
+        }
+    ]
+}
