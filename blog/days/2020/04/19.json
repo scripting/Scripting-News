@@ -1,0 +1,82 @@
+{
+    "text": "April 19",
+    "created": "Sun, 19 Apr 2020 12:33:36 GMT",
+    "name": "19",
+    "subs": [
+        {
+            "text": "Prediction: The Trump-inspired protests will fade out within about 14 days.",
+            "created": "Sun, 19 Apr 2020 17:01:30 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/04/19/cameliaRedKidneyBeans.png"
+        },
+        {
+            "text": "My <a href=\"http://pagepark.glitch.me/\">server</a> on <a href=\"http://scripting.com/2020/04/18/154707.html?title=glitchDay4\">Glitch</a> keeps on rolling. Even with the startup delay it's nice and snappy. Still thinking about where I want to go next. I have to figure out how to get more bits of code running on one instance. ",
+            "created": "Sun, 19 Apr 2020 19:46:02 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "The <a href=\"https://www.nytimes.com/2020/04/18/health/coronavirus-america-future.html\">next in a series</a> of eye-opening NYT pieces from Donald McNeil about the coronavirus. It's mostly about the long miserable slog it's going to be, with one bright spot. \"In the movies, viruses become more deadly. In reality, they usually become less so, because asymptomatic strains reach more hosts. Even the 1918 Spanish flu virus eventually faded into the seasonal H1N1 flu.\" An <a href=\"https://www.navytimes.com/news/coronavirus/2020/04/16/secdef-majority-of-roosevelt-sailors-with-covid-19-are-asymptomatic-flattop-still-wartime-ready/\">example</a>, the majority of <a href=\"https://en.wikipedia.org/wiki/USS_Theodore_Roosevelt_(CVN-71)\">Roosevelt</a> sailors with Covid-19 are asymptomatic. ",
+            "created": "Sun, 19 Apr 2020 12:39:05 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "If we had a vaccine tomorrow and it was quickly distributed to everyone in the world, or we found another way to eradicate the virus, would you go back to the way you were living before? Could you?",
+            "created": "Sun, 19 Apr 2020 13:04:30 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "This may be <a href=\"https://twitter.com/MommaUnfiltered/status/1251855748876898306\">the best thing</a> on Twitter now. You can thank me later. ",
+            "created": "Sun, 19 Apr 2020 21:19:18 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/MommaUnfiltered/status/1251855748876898306"
+        },
+        {
+            "text": "Question about <a href=\"https://zoom.us/\">Zoom</a>. I know there have been concerns about its <a href=\"https://duckduckgo.com/?q=zoom+mac+security+issues&t=h_&ia=news\">security</a>. Is it safe to install on a Mac? Please answer <a href=\"https://twitter.com/davewiner/status/1251851837898215424\">on Twitter</a>. (PS: I used the browser version for the meetup and it worked well.)",
+            "created": "Sun, 19 Apr 2020 12:33:37 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "A couple of nights ago I dreamed I was still a smoker, and felt guilty about lying to everyone that I had stopped. In the dream I'm going from store to store looking for my brand. It's so weird, I quit 6519 days ago. Not one cigarette in all that time. So why in my subconscious do I feel like a loser for cheating?",
+            "created": "Sun, 19 Apr 2020 21:30:50 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Is the virus here?",
+            "created": "Sun, 19 Apr 2020 13:40:46 GMT",
+            "type": "outline",
+            "description": "I see parallels between programming and epidemiology, we're dealing with similar concerns since software started working over open networks.",
+            "metaImage": "http://scripting.com/images/2020/04/19/corona.png",
+            "subs": [
+                {
+                    "text": "I find it helpful to ask the question \"Is the virus here?\" I thought on <a href=\"http://scripting.com/2020/03/08.html\">March 8</a> it must not be here yet. I had a dinner party that night. Lots of touching, no social distancing. Some people from the small town I live in, some from NYC. Should have been more careful. But it's now 41 days later, and all the guests at the party are well. So I guess we dodged a bullet. On that day.",
+                    "created": "Sun, 19 Apr 2020 13:40:51 GMT",
+                    "image": "http://scripting.com/images/2020/04/19/coronavirus.png"
+                },
+                {
+                    "text": "Nowadays, when I go for a walk, or go to the market, I ask the same question and assume the answer is yes. The virus is here. ",
+                    "created": "Sun, 19 Apr 2020 13:41:25 GMT"
+                },
+                {
+                    "text": "How do I keep it out of my lungs?",
+                    "created": "Sun, 19 Apr 2020 16:13:24 GMT"
+                },
+                {
+                    "text": "In server programming there's this idea of <a href=\"https://en.wikipedia.org/wiki/Taint_checking\">tainted text</a>. If it came from outside the server, it could contain executable code. That's how hackers get into our systems, through tainted text. ",
+                    "created": "Sun, 19 Apr 2020 13:43:33 GMT"
+                },
+                {
+                    "text": "Now I think about packages from Amazon the same way. I have a physical-world untaint function. I leave them alone for 24 hours. I've heard that the virus will die on cardboard in 24 hours. I assume whatever is inside the box is not dirty, but I think of it as tainted too. It came from outside. It's tainted. I wash my hands after handling it. Then at some point I shrug my shoulders and bless it as part of the house, and not tainted. It's how I maintain a level of sanity. ",
+                    "created": "Sun, 19 Apr 2020 13:50:53 GMT"
+                },
+                {
+                    "text": "We wrote an <a href=\"http://frontier.userland.com/reference/manila/macros/safeMacrosGuidelines\">excellent guide</a> to being safe with macros in Frontier, many years ago. ",
+                    "created": "Sun, 19 Apr 2020 13:46:39 GMT"
+                },
+                {
+                    "text": "I find a lot of parallels between programming and <a href=\"https://en.wikipedia.org/wiki/Epidemiology\">epidemiology</a>. We've been dealing with similar concerns ever since our software started communicating over the open network. ",
+                    "created": "Sun, 19 Apr 2020 13:47:06 GMT"
+                }
+            ]
+        }
+    ]
+}
