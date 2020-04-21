@@ -1,0 +1,5 @@
+{
+    "text": "Chuck Shotton suggested I look at the Node package <a href=\"https://www.npmjs.com/package/require-from-string\">require-from-string</a> as a good basis for plugins for Node apps. I had done <a href=\"https://github.com/scripting/pagePark/blob/master/docs/plugins.md\">something similar</a> with plain old require. Here's a <a href=\"https://gist.github.com/scripting/3e5454f2b7a10029dfc301d7deabb576\">Hello World app</a> I wrote to get an idea how I might use it. ",
+    "created": "Mon, 20 Apr 2020 16:08:10 GMT",
+    "type": "outline"
+}
