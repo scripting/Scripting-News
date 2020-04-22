@@ -1,0 +1,103 @@
+{
+    "text": "April 21",
+    "created": "Tue, 21 Apr 2020 14:07:22 GMT",
+    "name": "21",
+    "subs": [
+        {
+            "text": "Frontline: <a href=\"https://www.youtube.com/watch?v=4DJtjyB1gvE\">Coronavirus Pandemic</a>. ",
+            "created": "Wed, 22 Apr 2020 02:44:36 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=4DJtjyB1gvE"
+        },
+        {
+            "text": "I was going to write a bit about Kobol vs <a href=\"https://www.zdnet.com/article/wheres-my-check-cobol-unemployment-and-taxes/\">COBOL</a>, an ancient programming language which is in the news these days. Kobol is the homeworld of the Twelve Colonies in Battlestar Galactica. I've watched the full series twice. But the synopsis on the <a href=\"https://en.wikipedia.org/wiki/Battlestar_Galactica\">Wikipedia page</a> is riveting. I often forget how simple and beautiful the overall structure of the plot is. <a href=\"http://scripting.com/images/2020/04/21/bsgplot.png\"><span class=\"spSpoiler\">BSG plot</span></a>. And of course the execution. I'd have to say, even though it has cheezy sets and special effects, it's pretty much a perfect multi-part scifi drama. I just watched The Expanse, which is also good, but BSG is still tops with me. ",
+            "created": "Tue, 21 Apr 2020 14:37:35 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/04/21/cylon.png"
+        },
+        {
+            "text": "A friend told the story of a hospital in upstate NY that's losing $1 million a day because they have only a handful of Covid-19 patients. Not sure of all the reasons they can't take other kinds of patients now, but there is a statewide ban on elective surgery.  ",
+            "created": "Tue, 21 Apr 2020 17:10:56 GMT",
+            "type": "tweet",
+            "tweetId": "1252646065792319488",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "<a href=\"https://www.nytimes.com/2020/04/20/opinion/coronavirus-testing-pneumonia.html\">They buried the lede</a>. A <a href=\"https://www.walmart.com/search/?query=pulse%20oximeter\">pulse oximeter</a> may be more essential to saving Covid patient's lives than respirators. They're cheap, and widely available. Huge.",
+            "created": "Tue, 21 Apr 2020 19:47:56 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "One of the big advantages <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+glitch&t=h_&ia=web\">Glitch</a> has over <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+heroku&t=h_&ia=web\">Heroku</a> is that everything is done in the browser. It's such a big difference you don't even see it at first. The thread is <a href=\"https://github.com/scripting/Scripting-News/issues/168#issuecomment-617292312\">here</a>. ",
+            "created": "Tue, 21 Apr 2020 17:07:35 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Pet peeve: Corporate robo calls that don't take into account that my calls are screened. So I get to hear them say goodbye when I connect. Come on your computer can learn how to talk to mine. ",
+            "created": "Tue, 21 Apr 2020 16:33:43 GMT",
+            "type": "tweet",
+            "tweetId": "1252636875560570881",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "I took a survey class in programming languages in grad school, and COBOL was of course one of them. It was in the mid-late 70s when people were still creating new systems in COBOL. It was one of the first attempts to make programming like English instead of like programming, so managers could do it, you wouldn't need programmers. To anyone who really knew about programming, it was obvious that this would not work. People would want features for which there were no human language equivalents, like looping and recursion, nesting, local variables, procedures, closures, objects, async, etc etc. We keep discovering new concepts for which you can't say \"this is just like..\" COBOL may have been the first programming language to reject programming, but it was not the last. Later attempts include Hypercard and AppleScript. I'm sure there were many others. I've always been most comfortable with Algol-like languages, C, Pascal, JavaScript. My own invented language, UserTalk, is Algol-like. There is a grammar somewhere for UserTalk. I'll find it later. :rocket:",
+            "created": "Tue, 21 Apr 2020 14:51:10 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/12/23/sarahLynn.png"
+        },
+        {
+            "text": "Here's the <a href=\"https://twitter.com/AudreyAurus1/status/1252170504510869505\">new American of the year</a>. ",
+            "created": "Tue, 21 Apr 2020 17:15:04 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "My mind insists, over and over, that today is Saturday.",
+            "created": "Tue, 21 Apr 2020 14:07:23 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "The ebb and flow of lockdown",
+            "created": "Tue, 21 Apr 2020 19:17:43 GMT",
+            "type": "outline",
+            "description": "This narrative comes from listening to expert explainers on MSNBC last night. ",
+            "metaImage": "http://scripting.com/images/2019/07/29/niagaraFalls.png",
+            "subs": [
+                {
+                    "text": "The way we're going to fight the virus is like levels in video games. You don't get to move on to the next level until you've mastered the previous. And when you fall down, you go back to the beginning. ",
+                    "created": "Tue, 21 Apr 2020 19:36:54 GMT"
+                },
+                {
+                    "text": "This narrative comes from listening to expert explainers on MSNBC last night, mainly <a href=\"https://radioopensource.org/the-pandemics-path/\">Laurie Garrett</a> and <a href=\"https://www.nytimes.com/2020/04/18/health/coronavirus-america-future.html\">Donald McNeil</a>, who was also yesterday's guest on the the <a href=\"https://www.nytimes.com/2020/03/24/podcasts/the-daily/coronavirus.html\">Daily</a> podcast. ",
+                    "created": "Tue, 21 Apr 2020 19:17:51 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "First, establish strategic testing. Do statistical sampling to form virus outbreak \"weather reports,\" like tracking tornados. ",
+                            "created": "Tue, 21 Apr 2020 19:18:30 GMT"
+                        },
+                        {
+                            "text": "If you are in an area where there aren't active outbreaks, you can do a covid-aware resumption of business. Strict limits on size and density of gatherings, so new outbreaks, which will happen, are limited. Makes contact tracing possible. ",
+                            "created": "Tue, 21 Apr 2020 19:18:33 GMT"
+                        },
+                        {
+                            "text": "Where there are outbreaks, do intense contact tracing. Full lockdown except for essential services. Locate people who are infected, and isolate with other spreaders, not with their families. Until the outbreak subsides, then go to 2. ",
+                            "created": "Tue, 21 Apr 2020 19:18:36 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "The testing is never of the whole population, always sampled, and to support contact tracing. Testing forms the basis for the weather reports. ",
+                    "created": "Tue, 21 Apr 2020 19:18:44 GMT"
+                },
+                {
+                    "text": "We are going to get very good at all this. ",
+                    "created": "Tue, 21 Apr 2020 22:38:49 GMT"
+                },
+                {
+                    "text": "I'm sure <a href=\"https://twitter.com/NateSilver538\">Nate Silver</a> can explain better and in more detail. This is similar to what they do at <a href=\"https://fivethirtyeight.com/politics/\">538</a> to predict election outcomes. It's also similar to what they do with TV program ratings for advertising, and gathering meteorological data to support weather forecasts. ",
+                    "created": "Tue, 21 Apr 2020 19:18:45 GMT"
+                }
+            ]
+        }
+    ]
+}
