@@ -1,0 +1,31 @@
+{
+    "text": "Dropbox is killing itself",
+    "created": "Fri, 24 Apr 2020 17:12:31 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Dropbox on Linux appears to be killing itself.",
+            "created": "Fri, 24 Apr 2020 17:20:50 GMT"
+        },
+        {
+            "text": "When I do a \"dropbox status\" from the CL, it says: \"Upgrading Dropbox...\"",
+            "created": "Fri, 24 Apr 2020 17:20:56 GMT"
+        },
+        {
+            "text": "It never stops trying to upgrade itself. ",
+            "created": "Fri, 24 Apr 2020 17:20:57 GMT"
+        },
+        {
+            "text": "It isn't syncing while supposedly upgrading. ",
+            "created": "Fri, 24 Apr 2020 17:21:06 GMT"
+        },
+        {
+            "text": "I've <a href=\"https://duckduckgo.com/?q=%22Upgrading+Dropbox...%22&t=hy&ia=web\">searched</a> and on various support boards that this has been happening for years for others.",
+            "created": "Fri, 24 Apr 2020 17:21:56 GMT"
+        },
+        {
+            "text": "PS: What do you use <a href=\"https://twitter.com/davewiner/status/1253788209210748928\">in place of Dropbox</a>?",
+            "created": "Fri, 24 Apr 2020 21:31:42 GMT"
+        }
+    ]
+}
