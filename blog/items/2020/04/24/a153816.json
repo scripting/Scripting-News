@@ -1,0 +1,192 @@
+{
+    "text": "Testing code in sub-outlines",
+    "created": "Fri, 24 Apr 2020 15:38:16 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I have a new feature in my blog, that allows me to say that the subs of this headline are code. It just means it's displayed in a monospace font, and the vertical spacing is a little tighter. The result is it looks like code, not prose.",
+            "created": "Fri, 24 Apr 2020 15:38:31 GMT"
+        },
+        {
+            "text": "<i><b>Note -- it's not working properly yet. Still testing. </b></i>",
+            "created": "Fri, 24 Apr 2020 16:11:20 GMT"
+        },
+        {
+            "text": "Here's an example.",
+            "created": "Fri, 24 Apr 2020 15:39:15 GMT",
+            "flCodeSubs": "true",
+            "subs": [
+                {
+                    "text": "function bumpUrlString (s) { //5/10/14 by DW",
+                    "created": "Thu, 23 Apr 2020 21:48:01 GMT",
+                    "subs": [
+                        {
+                            "text": "Changes",
+                            "created": "Thu, 23 Apr 2020 21:48:26 GMT",
+                            "isComment": "true",
+                            "subs": [
+                                {
+                                    "text": "5/10/14; 5:25:06 PM by DW",
+                                    "subs": [
+                                        {
+                                            "text": "Generate file names suitable for short URL generating. "
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "if (s === undefined) {",
+                            "subs": [
+                                {
+                                    "text": "s = \"0\";"
+                                },
+                                {
+                                    "text": "}"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "function bumpChar (ch) {",
+                            "subs": [
+                                {
+                                    "text": "function num (ch) {",
+                                    "subs": [
+                                        {
+                                            "text": "return (ch.charCodeAt (0));"
+                                        },
+                                        {
+                                            "text": "}"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "if ((ch >= \"0\") && (ch <= \"8\")) {",
+                                    "subs": [
+                                        {
+                                            "text": "ch = String.fromCharCode (num (ch) + 1);"
+                                        },
+                                        {
+                                            "text": "}"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "else {",
+                                    "subs": [
+                                        {
+                                            "text": "if (ch == \"9\") {",
+                                            "subs": [
+                                                {
+                                                    "text": "ch = \"a\";"
+                                                },
+                                                {
+                                                    "text": "}"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "else {",
+                                            "subs": [
+                                                {
+                                                    "text": "if ((ch >= \"a\") && (ch <= \"y\")) {",
+                                                    "subs": [
+                                                        {
+                                                            "text": "ch = String.fromCharCode (num (ch) + 1);"
+                                                        },
+                                                        {
+                                                            "text": "}"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "else {",
+                                                    "subs": [
+                                                        {
+                                                            "text": "throw \"rollover!\";"
+                                                        },
+                                                        {
+                                                            "text": "}"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "}"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "}"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "return (ch);"
+                                },
+                                {
+                                    "text": "}"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "try {",
+                            "subs": [
+                                {
+                                    "text": "var chlast = bumpChar (s [s.length - 1]);"
+                                },
+                                {
+                                    "text": "s = s.substr (0, s.length - 1) + chlast;"
+                                },
+                                {
+                                    "text": "return (s);"
+                                },
+                                {
+                                    "text": "}"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "catch (tryError) {",
+                            "subs": [
+                                {
+                                    "text": "if (s.length == 1) {",
+                                    "subs": [
+                                        {
+                                            "text": "return (\"00\");"
+                                        },
+                                        {
+                                            "text": "}"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "else {",
+                                    "subs": [
+                                        {
+                                            "text": "s = s.substr (0, s.length - 1);"
+                                        },
+                                        {
+                                            "text": "s = bumpUrlString (s) + \"0\";"
+                                        },
+                                        {
+                                            "text": "return (s);"
+                                        },
+                                        {
+                                            "text": "}"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "}"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
