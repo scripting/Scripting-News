@@ -1,0 +1,133 @@
+{
+    "text": "April 26",
+    "created": "Sun, 26 Apr 2020 14:48:42 GMT",
+    "name": "26",
+    "subs": [
+        {
+            "text": "<a href=\"https://www.google.com/search?q=surgeon+action+figure\">Doctors</a> in PPE's are a new class of <a href=\"https://twitter.com/davewiner/status/1254432787441938436\">hero</a>. ",
+            "created": "Sun, 26 Apr 2020 16:09:54 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/04/26/billGatesHead.png"
+        },
+        {
+            "text": "I recently found out there was a season 3 of <a href=\"https://en.wikipedia.org/wiki/Narcos_(season_3)\">Narcos</a>. Wow. That goes on my list. Also, I thought this season was the last for <a href=\"https://en.wikipedia.org/wiki/Better_Call_Saul_(season_5)\">Better Call Saul</a>. Imagine my surprise when I got to the end, and nothing was resolved. Okay, I'd better survive this virus thing so I can find out what happens to <a href=\"https://en.wikipedia.org/wiki/Lalo_Salamanca\">Lalo</a> and <a href=\"https://www.digitalspy.com/tv/ustv/a32248797/better-call-saul-stars-why-kim-isnt-in-breaking-bad/\">Kim</a>. ",
+            "created": "Sun, 26 Apr 2020 15:42:11 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "On April 14, a <a href=\"http://scripting.com/images/2020/04/26/handSanitizer.jpg\">single bottle</a> of hand sanitizer arrived via USPS at my local post office. Ordered via Amazon on March 14. $11.99. Shipped via <a href=\"http://yjcx.chinapost.com.cn/qps/english/yjcx\">China Post</a>, China's equivalent of the USPS. It arrived in Hawthorne, CA on March 24 on its way to my kitchen in upstate NY. ",
+            "created": "Sun, 26 Apr 2020 14:48:43 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Dropbox, LO2 outage",
+            "created": "Sun, 26 Apr 2020 21:17:18 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I had a pretty terrible <a href=\"http://scripting.com/2020/04/24/171231.html?title=dropboxIsKillingItself\">Dropbox outage</a> here since Friday, but with <a href=\"https://www.dropboxforum.com/t5/Dropbox-installs-integrations/Stuck-on-quot-upgrading-dropbox-quot/m-p/414171/highlight/false#M92358\">help</a> from Daniel Bradley, I was able to get most of my servers connected to Dropbox again. ",
+                    "created": "Sun, 26 Apr 2020 18:21:41 GMT",
+                    "type": "outline"
+                },
+                {
+                    "text": "I just noticed that the server for \"LO2\" got completely trashed in the process. I have no idea how, but I had a backup from yesterday, which I am now restoring. It may take about an hour or so. Any work done between the outage and the restoration will be lost. Sorry. ",
+                    "created": "Sun, 26 Apr 2020 21:18:07 GMT"
+                },
+                {
+                    "text": "I'm going to have to stop depending on Dropbox. Obviously the Linux version is not a priority for them, it's breaking a lot these days. I've been a Dropbox user since the beginning. But it's been obvious for a few years that this is no longer a good match. ",
+                    "created": "Sun, 26 Apr 2020 21:18:17 GMT"
+                },
+                {
+                    "text": "Update: Well that was pretty good <a href=\"#a182141\">outage</a>-wise. Less than 15 minutes. But data <i>was</i> lost. It seems fortunate this happened after I added the <a href=\"http://this.how/littleoutliner/versions.opml#1586885920000\">backup</a> command. No excuse for not having copies of your files. ",
+                    "created": "Sun, 26 Apr 2020 18:35:07 GMT",
+                    "type": "outline"
+                }
+            ]
+        },
+        {
+            "text": "My latest fishing expedition",
+            "created": "Sun, 26 Apr 2020 15:51:44 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Sometimes I write posts to solicit info from my brain trust, the people who read my blog. Yesterday I <a href=\"http://scripting.com/2020/04/25/163108.html?title=whenWillThereBeAVaccine\">wrote</a> about the non-inevitablity of a Covid-19 vaccine, and got two interesting responses. ",
+                    "created": "Sun, 26 Apr 2020 15:51:50 GMT"
+                },
+                {
+                    "text": "<b>From correspondent #1</b>.",
+                    "created": "Sun, 26 Apr 2020 15:55:39 GMT",
+                    "subs": [
+                        {
+                            "text": "HIV has a very high mutation rate, it's a constantly changing target, very hard to vaccinate. Fortunately this corona virus is highly conserved (stable), there are many stable proteins you can target. We don't see a reason why that <a href=\"https://www.nejm.org/doi/full/10.1056/NEJMe2012889?query=featured_coronavirus\">stability</a> would change as it's already spread around the world. ",
+                            "created": "Sun, 26 Apr 2020 15:56:02 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "<b>From correspondent #2</b>.",
+                    "created": "Sun, 26 Apr 2020 15:53:46 GMT",
+                    "subs": [
+                        {
+                            "text": "I wanted to offer a few reasons for limited, cautious optimism, and one reason for a little bit of pessimism.",
+                            "created": "Sun, 26 Apr 2020 15:53:52 GMT",
+                            "flBulletedSubs": "true",
+                            "subs": [
+                                {
+                                    "text": "Nobody ever \"gets better\" from HIV on their own. Our immune systems can't beat it. So it's hard to make a vaccine that teaches our immune systems how to beat it.",
+                                    "created": "Sun, 26 Apr 2020 15:54:04 GMT"
+                                },
+                                {
+                                    "text": "We do get better from the flu on our own. But the problem is that the flu is a \"modular\" virus that can be recombined, so there's always a new version. So flu vaccines work, but there's a new vaccine every year.",
+                                    "created": "Sun, 26 Apr 2020 15:54:15 GMT"
+                                },
+                                {
+                                    "text": "Our bodies can beat the SARS-CoV-2 virus that causes COVID-19. People usually get better in a few weeks, if they don't die.",
+                                    "created": "Sun, 26 Apr 2020 15:54:18 GMT"
+                                },
+                                {
+                                    "text": "Many people who caught the original SARS-CoV virus in 2003 still had antibodies ~10 years later.",
+                                    "created": "Sun, 26 Apr 2020 15:54:21 GMT"
+                                },
+                                {
+                                    "text": "The SARS viruses are unusually complex, and in order to replicate correctly, they have pretty good proofreading. So they mutate much more slowly than HIV or the flu.",
+                                    "created": "Sun, 26 Apr 2020 15:54:07 GMT"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "But there's also one reason to worry:",
+                            "created": "Sun, 26 Apr 2020 15:55:23 GMT",
+                            "flBulletedSubs": "true",
+                            "subs": [
+                                {
+                                    "text": "There are four other coronaviruses that cause about 15% of cases of the common cold. We build immunity to these viruses but it usually doesn't last forever.",
+                                    "created": "Sun, 26 Apr 2020 15:54:09 GMT"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "So as I understand it, the biggest question with SARS-CoV-2 isn't whether we can teach our bodies to beat it. It's how long our immune system will remember. And whether we can find a low-risk vaccine that doesn't cause other problems."
+                        }
+                    ]
+                },
+                {
+                    "text": "As always, \"Scripting News\" readers are the smartest and best. :rocket:",
+                    "created": "Sun, 26 Apr 2020 15:59:08 GMT"
+                }
+            ]
+        },
+        {
+            "text": "NYC a long time ago",
+            "created": "Sun, 26 Apr 2020 17:52:22 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "A picture rescued from Facebook. <a href=\"https://en.wikipedia.org/wiki/Tompkins_Square_Park\">Tompkins Square Park</a> in NYC.<br>From left to right, my uncle, Ken Kiesler, his friend Sparky, my grandfather \"Rudy Kiesler\", and me. I'm guessing this is 1989 or 1990.",
+                    "created": "Sun, 26 Apr 2020 17:44:39 GMT",
+                    "type": "outline",
+                    "inlineImage": "http://scripting.com/images/2020/04/26/kenSparkyRudyDave.png"
+                }
+            ]
+        }
+    ]
+}
