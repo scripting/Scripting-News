@@ -1,0 +1,72 @@
+{
+    "text": "My latest fishing expedition",
+    "created": "Sun, 26 Apr 2020 15:51:44 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Sometimes I write posts to solicit info from my brain trust, the people who read my blog. Yesterday I <a href=\"http://scripting.com/2020/04/25/163108.html?title=whenWillThereBeAVaccine\">wrote</a> about the non-inevitablity of a Covid-19 vaccine, and got two interesting responses. ",
+            "created": "Sun, 26 Apr 2020 15:51:50 GMT"
+        },
+        {
+            "text": "<b>From correspondent #1</b>.",
+            "created": "Sun, 26 Apr 2020 15:55:39 GMT",
+            "subs": [
+                {
+                    "text": "HIV has a very high mutation rate, it's a constantly changing target, very hard to vaccinate. Fortunately this corona virus is highly conserved (stable), there are many stable proteins you can target. We don't see a reason why that <a href=\"https://www.nejm.org/doi/full/10.1056/NEJMe2012889?query=featured_coronavirus\">stability</a> would change as it's already spread around the world. ",
+                    "created": "Sun, 26 Apr 2020 15:56:02 GMT"
+                }
+            ]
+        },
+        {
+            "text": "<b>From correspondent #2</b>.",
+            "created": "Sun, 26 Apr 2020 15:53:46 GMT",
+            "subs": [
+                {
+                    "text": "I wanted to offer a few reasons for limited, cautious optimism, and one reason for a little bit of pessimism.",
+                    "created": "Sun, 26 Apr 2020 15:53:52 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Nobody ever \"gets better\" from HIV on their own. Our immune systems can't beat it. So it's hard to make a vaccine that teaches our immune systems how to beat it.",
+                            "created": "Sun, 26 Apr 2020 15:54:04 GMT"
+                        },
+                        {
+                            "text": "We do get better from the flu on our own. But the problem is that the flu is a \"modular\" virus that can be recombined, so there's always a new version. So flu vaccines work, but there's a new vaccine every year.",
+                            "created": "Sun, 26 Apr 2020 15:54:15 GMT"
+                        },
+                        {
+                            "text": "Our bodies can beat the SARS-CoV-2 virus that causes COVID-19. People usually get better in a few weeks, if they don't die.",
+                            "created": "Sun, 26 Apr 2020 15:54:18 GMT"
+                        },
+                        {
+                            "text": "Many people who caught the original SARS-CoV virus in 2003 still had antibodies ~10 years later.",
+                            "created": "Sun, 26 Apr 2020 15:54:21 GMT"
+                        },
+                        {
+                            "text": "The SARS viruses are unusually complex, and in order to replicate correctly, they have pretty good proofreading. So they mutate much more slowly than HIV or the flu.",
+                            "created": "Sun, 26 Apr 2020 15:54:07 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "But there's also one reason to worry:",
+                    "created": "Sun, 26 Apr 2020 15:55:23 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "There are four other coronaviruses that cause about 15% of cases of the common cold. We build immunity to these viruses but it usually doesn't last forever.",
+                            "created": "Sun, 26 Apr 2020 15:54:09 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "So as I understand it, the biggest question with SARS-CoV-2 isn't whether we can teach our bodies to beat it. It's how long our immune system will remember. And whether we can find a low-risk vaccine that doesn't cause other problems."
+                }
+            ]
+        },
+        {
+            "text": "As always, \"Scripting News\" readers are the smartest and best. :rocket:",
+            "created": "Sun, 26 Apr 2020 15:59:08 GMT"
+        }
+    ]
+}
