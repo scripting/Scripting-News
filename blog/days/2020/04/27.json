@@ -1,0 +1,36 @@
+{
+    "text": "April 27",
+    "created": "Mon, 27 Apr 2020 13:51:29 GMT",
+    "name": "27",
+    "subs": [
+        {
+            "text": "BTW, the <a href=\"http://scripting.com/2020/04/26/211718.html?title=dropboxLo2Outage\">trouble</a> with Dropbox turned out to be their Linux install requires components that aren't there on a headless Ubuntu installation. When the software tried to update itself it failed, and that was <a href=\"http://scripting.com/2020/04/24/171231.html?title=dropboxIsKillingItself\">the end</a>. I'm guessing not many people use Dropbox on headless Linux?",
+            "created": "Mon, 27 Apr 2020 16:05:27 GMT",
+            "type": "tweet",
+            "tweetId": "1254804940817563649",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "I got a <a href=\"https://shop.kinsahealth.com/products/kinsa-quickcare?__hstc=189353844.c9aa4b08387ebae2142dbe354583d557.1584992554446.1586723447049.1588000860851.4&__hssc=189353844.2.1588000860851&__hsfp=1613160091\">Kinsa thermometer</a> on April 14, almost two weeks ago. I've gotten in the habit of taking my temperature at the beginning and end of every day. I feel like I'm doing my part to support an early warning system. I just noticed they have a way to export your data. I was hoping it would be a nice XML or JSON format, but it's a log file format. Not sorted by anything I can see. I don't have any code that can process this format. But it was there, and that's worth something. I'd give it a B-, but most apps don't give you a way to export your own data, and for that, A+. Also, they should change their store from saying it's <a href=\"http://scripting.com/images/2020/04/27/kinsaPreOrderNot.png\">pre-order</a> -- there's nothing <i>pre</i> about it. You can buy it. It takes a few weeks to get there because the product is so popular. ",
+            "created": "Mon, 27 Apr 2020 15:17:20 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/04/27/kinsaThermometer.png"
+        },
+        {
+            "text": "<a href=\"https://www.youtube.com/watch?v=gqPCJfKULgs\">Cecily Strong</a> for VP. ",
+            "created": "Mon, 27 Apr 2020 17:37:52 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=gqPCJfKULgs"
+        },
+        {
+            "text": "If Trump will <a href=\"https://nymag.com/intelligencer/2020/04/trump-to-sideline-fauci-and-birx-in-coming-weeks-report.html\">sideline Fauci</a>, Biden should start a <a href=\"http://scripting.com/2020/04/09/145912.html?title=bidenCanMakeADifferenceNow\">nightly briefing</a> with Fauci as the moderator. How about a little competition -- raise the bar on the information the people get. Give the press an option not to cover Trump's misinfo.",
+            "created": "Mon, 27 Apr 2020 14:18:48 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Awful truth, we need to get to the point where a new Covid infection is a stop-everything event to contain the outbreak. It’s awful because the country has not even begun down that path. We have to have a real government to even begin.",
+            "created": "Mon, 27 Apr 2020 13:51:30 GMT",
+            "type": "outline"
+        }
+    ]
+}
