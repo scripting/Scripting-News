@@ -1,0 +1,133 @@
+{
+    "text": "April 28",
+    "created": "Tue, 28 Apr 2020 14:04:52 GMT",
+    "name": "28",
+    "subs": [
+        {
+            "text": "An example <a href=\"https://gist.github.com/scripting/68984626822359ae2bec1112719f1f2c\">Node app</a> that runs a shell script.",
+            "created": "Tue, 28 Apr 2020 22:20:51 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Last night on @maddow we learned that the CDC is updating their website without announcements.  Maybe we should have some early warning systems on that -- I bet the search engines know when there's a change on the CDC site.   We could solve this problem.",
+            "type": "tweet",
+            "created": "Tue Apr 28 13:58:23 +0000 2020",
+            "tweetId": "1255134270097485826",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "Every time I run \"npm install,\" it reminds me that <a href=\"https://www.npmjs.com/package/request\">request has been deprecated</a>. One of the most ridiculous ideas I've heard.   It's as if the word \"the\" in the English language were deprecated. Anyway, I wonder if someone has submitted a package to NPM that perfectly emulates request. I predict it would be the most popular package ever.",
+            "created": "Tue, 28 Apr 2020 22:07:29 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "We create each other",
+            "type": "outline",
+            "created": "Tue Apr 28 11:51:51 +0000 2020",
+            "subs": [
+                {
+                    "text": "In 1998 I wrote a <a href=\"http://scripting.com/davenet/1998/01/01/menStaySilent.html\">piece</a> about gender and generalizations. ",
+                    "created": "Tue, 28 Apr 2020 22:02:58 GMT"
+                },
+                {
+                    "text": "\"We create each other and together we create the world we live in.\" ",
+                    "created": "Tue, 28 Apr 2020 22:03:32 GMT"
+                },
+                {
+                    "text": "Today I read that <a href=\"https://bigthink.com/sex-relationships/dating-a-psychopath.amp.html\">men with psychopathic traits</a> are more desirable to women. ",
+                    "created": "Tue, 28 Apr 2020 22:03:35 GMT"
+                },
+                {
+                    "text": "Every trait in every man was put there by an adult, and a lot of those adults were women. I can't tell you how my personality was molded and shaped by the adult women in the world I grew up in, I wasn't really conscious when it happened, but I'm sure of it. ",
+                    "created": "Tue, 28 Apr 2020 22:04:04 GMT"
+                },
+                {
+                    "text": "I'm a mirror of them, I am what they saw when they looked at me. ",
+                    "created": "Tue, 28 Apr 2020 22:04:22 GMT"
+                },
+                {
+                    "text": "I read today, from a <a href=\"https://www.facebook.com/annamasera/posts/10217478085568290\">wise woman</a>, that we will be feeling the reverberations of this period in generations to come. ",
+                    "created": "Tue, 28 Apr 2020 22:04:28 GMT"
+                },
+                {
+                    "text": "Another wise woman, <a href=\"https://twitter.com/mayawiley/status/1254080040767229952\">on Twitter</a>, quoted <a href=\"https://www.goodreads.com/quotes/411502-the-great-force-of-history-comes-from-the-fact-that\">James Baldwin</a>. “The great force of history comes from the fact that we carry it within us, are unconsciously controlled by it in many ways, and history is literally present in all that we do.” ",
+                    "created": "Tue, 28 Apr 2020 22:05:27 GMT"
+                },
+                {
+                    "text": "Exactly right.",
+                    "created": "Tue, 28 Apr 2020 22:06:21 GMT"
+                }
+            ]
+        },
+        {
+            "text": "I work for Dropbox, cont'd",
+            "created": "Tue, 28 Apr 2020 22:01:06 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Tuesday morning, still fucking around with Dropbox. These things usually end up costing a week of burnout. One of my servers is a place I leave apps I don't use much, but want to still be able to look at. And one or two that are mainstays. Let's say that server is named Alaska. A long time ago Dropbox stopped working on that machine. That made it hard but not impossible for me to update the apps. I have a utility that helps move files from S3 to folders on Alaska. But the data on Alaska is not backed up. So that's a permanent kind of burnout. There is stuff being generated on this server. It would be bad to lose it. Not being backed up. So now I'm trying to resolve that. ",
+                    "created": "Tue, 28 Apr 2020 14:04:53 GMT",
+                    "type": "outline"
+                },
+                {
+                    "text": "One thing I could use to help factor out Dropbox, for the backup side of things, is a headless <a href=\"http://this.how/publicFolder/\">Public Folder</a>. Putting that on the todo list. ",
+                    "created": "Tue, 28 Apr 2020 14:10:14 GMT",
+                    "type": "outline"
+                },
+                {
+                    "text": "Later: My server karma is low. I can't get Dropbox to install on a fresh Ubuntu server at Digital Ocean. <a href=\"https://github.com/scripting/Scripting-News/issues/169\">Have a look</a> and tell me what to fix. ",
+                    "created": "Tue, 28 Apr 2020 16:26:29 GMT",
+                    "type": "outline"
+                },
+                {
+                    "text": "Even later: I noticed the \"Alaska\" server (see above) is now updating via Dropbox. One of the million nudges must've worked. Amazing. I have no idea which magic incantation worked. ",
+                    "created": "Tue, 28 Apr 2020 22:01:17 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Uncle Ken and Aunt Dorothy",
+            "created": "Tue, 28 Apr 2020 21:23:26 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I never really thought of her as an aunt, she and my uncle didn't get married until I was already a teen. I grew up with him, so she was his wife more than an aunt. Ken and Dorothy Kiesler. ",
+                    "created": "Tue, 28 Apr 2020 21:23:45 GMT"
+                },
+                {
+                    "text": "We called her Little Dot, she liked it, because my grandfather's wife, after he and my grandmother were divorced, was also named Dorothy Kiesler. She was Big Dot. ",
+                    "created": "Tue, 28 Apr 2020 21:43:15 GMT"
+                },
+                {
+                    "text": "However, even more weird, Ken gave himself a name too -- The Great Va Va Voom, professional wrestler. His story was he'd go down to the <a href=\"https://www.yelp.com/biz/crescent-beach-st-augustine-2\">beach</a> near where they lived in Florida and pick up chicks with that line. \"Hello ma'am,\" he'd say, as the story goes, \"I am the The Great Va Va Voom, professional wrestler, at your service.\" Of course nothing like that actually ever happened. :boom:",
+                    "created": "Tue, 28 Apr 2020 21:32:43 GMT"
+                },
+                {
+                    "text": "Ken had one of the very first blogs, along with Dan Gillmor at the SJ Mercury. He was living in Jamaica at the time. We even got him his <a href=\"http://www.greatvavavoom.com/\">own domain</a>, which I still maintain for him. ",
+                    "created": "Tue, 28 Apr 2020 21:41:55 GMT"
+                },
+                {
+                    "text": "He and Dot were married for about 25 years, and in that time, the were together every day except two weeks every summer when Ken went to NYC. ",
+                    "created": "Tue, 28 Apr 2020 21:33:56 GMT"
+                },
+                {
+                    "text": "In this picture, I'd say Ken and Dot look like they're in their 30s or early 40s -- if so this picture would be from the mid-late 70s? All the cars in the picture were Ken's, and the boat. He loved to work on cars. He built the house they lived in, and a windmill, solar heat, pioneered growing <a href=\"https://www.cannareps.ca/sinsemilla-origins-of-modern-cannabis/\">seedless pot</a>, all without being on the electric grid. They had no phone, and this was long before cell phones. ",
+                    "created": "Tue, 28 Apr 2020 21:27:25 GMT"
+                },
+                {
+                    "text": "Ken and Dorothy Kiesler at their house in Florida, mid-late 70s.",
+                    "created": "Tue, 28 Apr 2020 21:37:14 GMT",
+                    "inlineImage": "http://scripting.com/images/2020/04/28/kenAndDorothyKiesler.png"
+                },
+                {
+                    "text": "They were hippies, refugees from the East Village, living off the land in northeast Florida. I went there a lot when I was in college at Tulane and later Wisconsin. Ken and I used to hang out a lot, he was definitely family, but he was also a friend. Dot died in the late 80s, and Ken in 2003, both of them way too young.",
+                    "created": "Tue, 28 Apr 2020 21:35:29 GMT"
+                },
+                {
+                    "text": "PS: This is roughly <a href=\"https://www.google.com/maps/place/Crescent+Beach,+FL+32080/@29.7536312,-81.2730914,302m/data=!3m1!1e3!4m5!3m4!1s0x88e69977c882aea5:0xe61a1afbdfe01fae!8m2!3d29.76886!4d-81.2536786\">where</a> their house was, but there was only a dirt road going in there back then, and no services. They owned 25 acres, most of it undeveloped. ",
+                    "created": "Tue, 28 Apr 2020 21:50:15 GMT"
+                }
+            ]
+        }
+    ]
+}
