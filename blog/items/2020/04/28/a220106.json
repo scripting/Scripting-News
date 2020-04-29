@@ -1,0 +1,26 @@
+{
+    "text": "I work for Dropbox, cont'd",
+    "created": "Tue, 28 Apr 2020 22:01:06 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Tuesday morning, still fucking around with Dropbox. These things usually end up costing a week of burnout. One of my servers is a place I leave apps I don't use much, but want to still be able to look at. And one or two that are mainstays. Let's say that server is named Alaska. A long time ago Dropbox stopped working on that machine. That made it hard but not impossible for me to update the apps. I have a utility that helps move files from S3 to folders on Alaska. But the data on Alaska is not backed up. So that's a permanent kind of burnout. There is stuff being generated on this server. It would be bad to lose it. Not being backed up. So now I'm trying to resolve that. ",
+            "created": "Tue, 28 Apr 2020 14:04:53 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "One thing I could use to help factor out Dropbox, for the backup side of things, is a headless <a href=\"http://this.how/publicFolder/\">Public Folder</a>. Putting that on the todo list. ",
+            "created": "Tue, 28 Apr 2020 14:10:14 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Later: My server karma is low. I can't get Dropbox to install on a fresh Ubuntu server at Digital Ocean. <a href=\"https://github.com/scripting/Scripting-News/issues/169\">Have a look</a> and tell me what to fix. ",
+            "created": "Tue, 28 Apr 2020 16:26:29 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Even later: I noticed the \"Alaska\" server (see above) is now updating via Dropbox. One of the million nudges must've worked. Amazing. I have no idea which magic incantation worked. ",
+            "created": "Tue, 28 Apr 2020 22:01:17 GMT"
+        }
+    ]
+}
