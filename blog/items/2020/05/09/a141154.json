@@ -1,0 +1,5 @@
+{
+    "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/170\">Braintrust query</a>: Writing my own synchronous functions in Node. The conclusion -- anything you can do from the command line in the OS can be synchronous, because they're easy to <a href=\"https://nodejs.org/api/child_process.html#child_process_child_process_execsync_command_options\">invoke</a> from a Node app. A wide gaping loophole in the design of Node, and I love it. ",
+    "created": "Sat, 09 May 2020 14:11:54 GMT",
+    "type": "outline"
+}
