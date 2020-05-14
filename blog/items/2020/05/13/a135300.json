@@ -1,0 +1,5 @@
+{
+    "text": "From time to time people ask how I do the <a href=\"http://scripting.com/email/\">email distribution</a> of Scripting News. I looked at the various services that do this, but they all had lock-in in the center of their business model. I already have a way to write my blog. So that meant that they had to publish from my site's <a href=\"http://scripting.com/rss.xml\">RSS feed</a>, and none of them do that. Since I'm a developer, I wrote my own mail-sending software. I have made bits of the software open source, but it's not something that an end-user could use. I can't productize everything I write, and typically when I do, very few people use it, so I just made it for myself, and at least I know the user is happy, and will give me good feedback and bug reports. :boom:",
+    "created": "Wed, 13 May 2020 13:53:00 GMT",
+    "type": "outline"
+}
