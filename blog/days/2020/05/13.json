@@ -1,0 +1,35 @@
+{
+    "text": "May 13",
+    "created": "Wed, 13 May 2020 13:37:27 GMT",
+    "name": "13",
+    "subs": [
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/171\">Braintrust query</a>: It appears that C-SPAN has stopped livestreaming the Cuomo daily briefing. Looking for a site where we can reliably find the recording on a daily basis. Any help much appreciated. ",
+            "created": "Wed, 13 May 2020 16:28:33 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://www.youtube.com/watch?v=anTSD3VT8l4\">Last night</a> I was watching the news and a bear family was walking across my yard. Mother and three cubs. Luckily I had my phone handy. The image is dull because the picture was taken through a dirty window. ",
+            "created": "Wed, 13 May 2020 13:37:28 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=anTSD3VT8l4"
+        },
+        {
+            "text": "Listen to <a href=\"https://twitter.com/Politidope/status/1260260707800678402\">Mitt Romney</a>, he speaks the truth. ",
+            "created": "Wed, 13 May 2020 14:28:03 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/Politidope/status/1260260707800678402"
+        },
+        {
+            "text": "Back in February, I wrote a <a href=\"http://scripting.com/2020/02/17/150159.html?title=whatIsScroll\">review</a> of <a href=\"https://scroll.com/\">Scroll</a>. I have more to say about it, quite a bit, but here's the top-level -- why don't the publications sign up already? There are quite a few that I am interested in, but don't want a relationship with. If I want to watch a movie or TV show I don't have to give my credit card info to each studio, I wait until the program shows up on Netflix. I buy lots of stuff on Amazon, but they don't actually manufacture anything. That's what Scroll would like to be -- a distributor for news. It makes a lot of sense. We're always hearing tales of woe, how are the pubs going to make money, how they need money from the tech companies and governments. How about getting money from readers? If they listened to the readers they would tell them what I'm saying. Make it easier for me to pay you. Scroll has stepped up, why not just say yes. If the situation really is so dire, maybe it's the answer?  ",
+            "created": "Wed, 13 May 2020 13:44:53 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/04/19/cameliaRedKidneyBeans.png"
+        },
+        {
+            "text": "From time to time people ask how I do the <a href=\"http://scripting.com/email/\">email distribution</a> of Scripting News. I looked at the various services that do this, but they all had lock-in in the center of their business model. I already have a way to write my blog. So that meant that they had to publish from my site's <a href=\"http://scripting.com/rss.xml\">RSS feed</a>, and none of them do that. Since I'm a developer, I wrote my own mail-sending software. I have made bits of the software open source, but it's not something that an end-user could use. I can't productize everything I write, and typically when I do, very few people use it, so I just made it for myself, and at least I know the user is happy, and will give me good feedback and bug reports. :boom:",
+            "created": "Wed, 13 May 2020 13:53:00 GMT",
+            "type": "outline"
+        }
+    ]
+}
