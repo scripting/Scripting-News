@@ -1,0 +1,49 @@
+{
+    "text": "A server without Dropbox",
+    "created": "Sun, 17 May 2020 16:02:36 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Today I'm going to try provisioning a new server without installing Dropbox on it. Instead I'm going to use git to download a starter project from GitHub that knows how to download contents from S3, and use a location there to move new stuff to the server. ",
+            "created": "Sun, 17 May 2020 16:02:50 GMT"
+        },
+        {
+            "text": "Install Node",
+            "created": "Sun, 17 May 2020 16:11:59 GMT",
+            "subs": [
+                {
+                    "text": "sudo apt-get update",
+                    "created": "Sun, 17 May 2020 16:12:15 GMT"
+                },
+                {
+                    "text": "sudo apt install nodejs",
+                    "created": "Sun, 17 May 2020 16:12:45 GMT"
+                },
+                {
+                    "text": "sudo apt install npm",
+                    "created": "Sun, 17 May 2020 16:12:23 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Install git",
+            "created": "Sun, 17 May 2020 16:13:15 GMT",
+            "subs": [
+                {
+                    "text": "sudo apt-get install git ",
+                    "created": "Sun, 17 May 2020 16:13:18 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Download the batchLoader app",
+            "created": "Sun, 17 May 2020 16:08:07 GMT",
+            "subs": [
+                {
+                    "text": "git clone https://github.com/scripting/batchLoader.git ",
+                    "created": "Sun, 17 May 2020 16:08:20 GMT"
+                }
+            ]
+        }
+    ]
+}
