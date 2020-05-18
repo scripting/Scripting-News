@@ -1,0 +1,22 @@
+{
+    "text": "May 17",
+    "created": "Sun, 17 May 2020 16:02:35 GMT",
+    "name": "17",
+    "subs": [
+        {
+            "text": "There's a <a href=\"http://scripting.com/images/2020/05/17/cuomoPodcastImage.png\">new graphic</a> for the <a href=\"http://this.how/cuomo/\">Cuomo Briefing Podcast</a>. I thought about putting some text on it, but decided a simple color picture of the governor was sufficient. If people want to give it a try, send me your version. I'm totally open to improvements. BTW <a href=\"http://scripting.com/images/2020/04/04/cuomoBriefing.png\">this</a> is the original version. ",
+            "created": "Sun, 17 May 2020 22:27:16 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/172\">Braintrust query</a>. I'm getting what appears to be an internal error with NPM. Others have reported same problem. Looking for a fix or workaround. Help much appreciated. ;-)",
+            "created": "Sun, 17 May 2020 17:22:54 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Problem solved. Whew. Thanks to <a href=\"https://github.com/aaronaxvig\">Aaron Axvig</a> for his <a href=\"https://github.com/scripting/Scripting-News/issues/172#issuecomment-629856375\">help</a>. Upgrading to a new version of Node fixed the problem, whatever it was. ",
+            "created": "Sun, 17 May 2020 20:53:34 GMT",
+            "type": "outline"
+        }
+    ]
+}
