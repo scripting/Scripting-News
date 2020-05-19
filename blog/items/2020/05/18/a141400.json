@@ -1,0 +1,5 @@
+{
+    "text": "An observation about servers on Node.js. Node is optimized for servers that handle millions of requests an hour -- to run services like Google and Facebook. Billions of users. But Node is most often used by services with far fewer users. Tradeoffs are everything in software. There should be popular server software, based on JavaScript, that creates more reliable, debuggable, easier to write servers, for the loads most people really have.",
+    "created": "Mon, 18 May 2020 14:14:00 GMT",
+    "type": "outline"
+}
