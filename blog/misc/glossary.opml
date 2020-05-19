@@ -3,17 +3,17 @@
 	<head>
 		<title>Glossary</title>
 		<dateCreated>Tue, 13 Jun 2017 13:42:31 GMT</dateCreated>
-		<dateModified>Tue, 12 May 2020 12:05:01 GMT</dateModified>
+		<dateModified>Mon, 18 May 2020 15:06:35 GMT</dateModified>
 		<ownerName>Dave</ownerName>
 		<ownerId>https://twitter.com/davewiner/</ownerId>
-		<expansionState>1,10,60,63,83,89,96,98,100</expansionState>
+		<expansionState>1,10,51,62,65,85,91,98,100,102</expansionState>
 		<vertScrollState>1</vertScrollState>
 		<windowTop>631</windowTop>
 		<windowLeft>1087</windowLeft>
 		<windowBottom>831</windowBottom>
 		<windowRight>1472</windowRight>
 		<flPublic>true</flPublic>
-		<lastCursor>82</lastCursor>
+		<lastCursor>50</lastCursor>
 		<ownerTwitterScreenName>davewiner</ownerTwitterScreenName>
 		<urlPublic>http://electricserver.scripting.com/users/davewiner/electric/glossary.opml</urlPublic>
 		<urlJson>http://electricserver.scripting.com/users/davewiner/electric/glossary.json</urlJson>
@@ -166,6 +166,9 @@
 			</outline>
 		<outline text="&quot;myword.io&quot;">
 			<outline text="&lt;a href=&quot;http://myword.io/&quot;&gt;myword.io&lt;/a&gt;"/>
+			</outline>
+		<outline text="&quot;nakedjen&quot;" created="Mon, 18 May 2020 15:06:14 GMT">
+			<outline text="&lt;a href=&quot;http://nakedjen.com/&quot;&gt;NakedJen&lt;/a&gt;" created="Mon, 18 May 2020 15:06:20 GMT"/>
 			</outline>
 		<outline text="&quot;Narrate Your Work&quot;" created="Mon, 10 Jul 2017 23:03:02 GMT">
 			<outline text="&lt;a href=&quot;http://scripting.com/stories/2009/08/09/narrateYourWork.html&quot;&gt;Narrate Your Work&lt;/a&gt;"/>
