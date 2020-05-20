@@ -1,0 +1,74 @@
+{
+    "text": "May 19",
+    "created": "Tue, 19 May 2020 12:35:43 GMT",
+    "name": "19",
+    "subs": [
+        {
+            "text": "<a href=\"http://scripting.com/2020/05/19/densityIsWhatMatters.m4a\">Quick podcast</a>. Density-over-time is what matters in whether you get infected by the virus. To get infected there has to be a high density of virus and you have to be there for a relatively long time. Distance isn't the only important thing. I've been reading this between the lines of what experts talk and write about. I checked it out with my biomedical researcher friend. He says yes, it's the area under the curve that determines the infection rate. ",
+            "created": "Tue, 19 May 2020 14:24:54 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2020/05/19/densityIsWhatMatters.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "4526730"
+        },
+        {
+            "text": "I know it's redundant to say Trump is full of shit, but his campaign <a href=\"https://www.politico.com/news/2020/05/18/us-sticks-it-to-who-as-xi-offers-vaccine-hope-265346\">against</a> the <a href=\"https://en.wikipedia.org/wiki/World_Health_Organization\">WHO</a> is very bad, even for Trump.",
+            "created": "Tue, 19 May 2020 12:35:44 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "JavaScript is getting away from worse-is-better",
+            "created": "Tue, 19 May 2020 16:24:36 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I’ve been programming almost exclusively in JavaScript since 2013. I’ve mastered callbacks, have no use for promises and most of the other fancy new stuff. I believe in minimal languages. The bloat in JavaScript is undermining what was attractive about it, it was a <a href=\"http://scripting.com/davenet/1995/08/22/chinesehouseholdrevisited.html#5\">consensus platform</a>. Having a common syntax for programming cuts costs, makes it easier and therefore more likely to share ideas, and avoid the setbacks that come from reinventing the wheel. Now it's splitting up into a lot of different syntaxes. We're getting close to where we were before everything coalesced around JavaScript. It takes a <a href=\"https://en.wikipedia.org/wiki/Worse_is_better\">worse-is-better</a> language to be the consensus. As a messy hairball that means different things to different people, it doesn't serve much of a purpose at all. However, I am invested, and am sticking with the core syntax I use, maybe others will do the same. ",
+                    "type": "outline",
+                    "created": "Tue May 19 10:11:14 +0000 2020",
+                    "image": "http://scripting.com/images/2020/05/19/fortuneCookie.png"
+                }
+            ]
+        },
+        {
+            "text": "Viruses in both worlds",
+            "created": "Tue, 19 May 2020 16:24:10 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Viruses on computers and viruses in the real world are interesting to compare. Right now I don't know if my computer, a Mac, has a virus, but there are no obvious symptoms of it being infected. That does  not mean it's not infected. ",
+                    "created": "Tue, 19 May 2020 13:17:27 GMT",
+                    "type": "outline"
+                },
+                {
+                    "text": "When there's a virus going around, it screws up everything. Back in the 00s when viruses were running wild on Windows machines, I was a Windows user. Over time you learned how to defend against them. For example, when they offer you an ad-free version of an app, you say no. That was just the beginning. We were always trying to keep our computers virus-free, but eventually the viruses would figure out a way around our defenses, and we'd be spending all our time fighting it, until we got our machine uninfected, or at least without symptoms. ",
+                    "created": "Tue, 19 May 2020 20:41:54 GMT",
+                    "image": "http://scripting.com/images/2020/05/19/beanz.png"
+                },
+                {
+                    "text": "So, the way we're dealing with the new coronavirus is the way computer newbies deal with computer viruses. I know because I have supported a virus neophyte, my mom. The current US govt is behaving pretty much the way she would. She didn't want to learn the rules, and she wanted to pretend it was okay, get back to business as usual (checking her email, writing a blog post). All the while she's got something watching and recording her every move and looking for a chance to infect some other computer. ",
+                    "created": "Tue, 19 May 2020 20:42:18 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Programming milestone",
+            "created": "Tue, 19 May 2020 16:20:39 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I just got something neat working, \"PagePark\" integrated with <a href=\"https://github.com/foreversd/forever#readme\">Forever</a>. So now I can create a sub-folder of the domains folder, and put a Node app in it. PagePark will see it when it boots, and launch the app with Forever, running as a package, with no UI. PagePark tells it what port to run on via <a href=\"https://www.quora.com/What-is-process-env-PORT-in-Node-js\">process.env.PORT</a>, which is a standard. That's how PagePark, which is foremost an HTTP server, knows how to route requests to the app. ",
+                    "created": "Tue, 19 May 2020 16:23:51 GMT",
+                    "image": "http://scripting.com/images/2019/12/06/boom.png"
+                },
+                {
+                    "text": "I've always suspected this is where Forever belongs, but it took a few iterations over a couple of years to get to this place. The pieces all snap in place. ",
+                    "created": "Tue, 19 May 2020 20:48:42 GMT"
+                },
+                {
+                    "text": "Further, I did it on a server without Dropbox running on it. The Linux version of Dropbox appears to be an unmaintained mess. It feels so much more solid not depending on it. ",
+                    "created": "Tue, 19 May 2020 20:48:54 GMT"
+                }
+            ]
+        }
+    ]
+}
