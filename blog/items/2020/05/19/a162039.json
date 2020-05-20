@@ -1,0 +1,20 @@
+{
+    "text": "Programming milestone",
+    "created": "Tue, 19 May 2020 16:20:39 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I just got something neat working, \"PagePark\" integrated with <a href=\"https://github.com/foreversd/forever#readme\">Forever</a>. So now I can create a sub-folder of the domains folder, and put a Node app in it. PagePark will see it when it boots, and launch the app with Forever, running as a package, with no UI. PagePark tells it what port to run on via <a href=\"https://www.quora.com/What-is-process-env-PORT-in-Node-js\">process.env.PORT</a>, which is a standard. That's how PagePark, which is foremost an HTTP server, knows how to route requests to the app. ",
+            "created": "Tue, 19 May 2020 16:23:51 GMT",
+            "image": "http://scripting.com/images/2019/12/06/boom.png"
+        },
+        {
+            "text": "I've always suspected this is where Forever belongs, but it took a few iterations over a couple of years to get to this place. The pieces all snap in place. ",
+            "created": "Tue, 19 May 2020 20:48:42 GMT"
+        },
+        {
+            "text": "Further, I did it on a server without Dropbox running on it. The Linux version of Dropbox appears to be an unmaintained mess. It feels so much more solid not depending on it. ",
+            "created": "Tue, 19 May 2020 20:48:54 GMT"
+        }
+    ]
+}
