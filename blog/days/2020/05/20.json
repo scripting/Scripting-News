@@ -1,0 +1,19 @@
+{
+    "text": "May 20",
+    "created": "Wed, 20 May 2020 15:07:41 GMT",
+    "name": "20",
+    "subs": [
+        {
+            "text": "I was talking with an old software developer friend <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+%22don+park%22&t=hk&ia=web\">Don Park</a> yesterday. First project we did together was in 1988. He did a <a href=\"http://scripting.com/2018/10/15.html#a141614\">Mac INIT</a> that enabled interprocess communication. It was part of the foundation we built \"Frontier\" on. We got around to JavaScript and he said I should make packages anyone can use. I said Don I do! No one knows about them, he said. Yeah, but I tell them. Heh. Maybe I should be doing PR. Finding the bloggers who are most influential about new packages that make JavaScript developers lives' easier and more interesting. Anyway, to start, I <a href=\"https://twitter.com/davewiner/status/1262801291597791235\">sent</a> Don a pointer to my <a href=\"https://www.npmjs.com/package/davefeedread\">davefeedread package</a>. It's a Node package that makes it <i>easy</i> and fast to read a feed. Any flavor of RSS or Atom. GIve it a URL and it calls back with a JavaScript object for the whole feed. Includes a simple example, sort of a <a href=\"https://github.com/scripting/feedRead/blob/master/examples/readurl/read.js\">Hello World of feed reading</a>. What you do from there is up to your imagination. It's the easiest way to read a feed in Node. A good place to start. :boom: ",
+            "created": "Wed, 20 May 2020 15:16:55 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/12/24/santa.png"
+        },
+        {
+            "text": "<a href=\"https://www.youtube.com/watch?v=an3mjntoUgk\">This little bird</a> has been attacking a window in my house for hours. ",
+            "created": "Wed, 20 May 2020 15:07:42 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=an3mjntoUgk"
+        }
+    ]
+}
