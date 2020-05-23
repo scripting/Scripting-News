@@ -1,0 +1,5 @@
+{
+    "text": "New version of <a href=\"https://github.com/scripting/publicfolder#readme\">publicFolder</a>, a Node app that runs on your desktop and keeps an Amazon S3 location in sync with a folder on a local disk. It's available as an NPM package and an Electron app. I use it to publish this.how, and am starting to use it in place of Dropbox. Much lighter weight, and I have all the source (and so do you). ",
+    "created": "Fri, 22 May 2020 15:23:13 GMT",
+    "type": "outline"
+}
