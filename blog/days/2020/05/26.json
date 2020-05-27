@@ -1,0 +1,98 @@
+{
+    "text": "May 26",
+    "created": "Tue, 26 May 2020 11:37:14 GMT",
+    "name": "26",
+    "subs": [
+        {
+            "text": "The user experience of news sucks. I remember how software exploded when we put the focus on ease-of-use. News people underestimate the power of happy users.",
+            "created": "Tue, 26 May 2020 21:34:17 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://en.wikipedia.org/wiki/Laurie_Garrett\">Laurie Garrett</a>, one of the most knowledgeable journalists about pandemics, who is frequently interviewed on TV and speaks science clearly, has an awful video setup in her apartment in Brooklyn. The video and audio quality should be great, so everyone can hear what she's saying. She <a href=\"https://twitter.com/Laurie_Garrett/status/1265045919944376321\">asked for help</a> on Twitter, I <a href=\"https://twitter.com/davewiner/status/1265046857304203264\">jumped</a> on it, putting out an appeal for help and Logitech, the company who makes the <a href=\"https://www.logitech.com/en-us/webcams?filters=3801\">webcam</a> she uses, just <a href=\"https://twitter.com/Logitech/status/1265363156861247488\">closed the loop</a>. Tech helping journalism in the new media age. I love it. Perfect. ",
+            "created": "Tue, 26 May 2020 19:37:22 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/12/10/thisIsNextYear.png"
+        },
+        {
+            "text": "Why is the only way news orgs will accept money from readers subscriptions? Before the net I could buy a single edition of a newspaper or magazine without a long term commitment.",
+            "created": "Tue, 26 May 2020 11:37:15 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "The idea of a self-contained news product you subscribe to is a vestige of the way news used to be distributed. Now, in my Twitter timeline, or RSS <a href=\"http://scripting.com/images/2020/05/26/riverScreenShot.png\">river</a>, I see links to stories all over the place. This is the way I want it. I want a mix, my choice.",
+            "created": "Tue, 26 May 2020 11:37:32 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "GitHub, platform for time capsules",
+            "created": "Tue, 26 May 2020 20:33:22 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "An idea..",
+                    "created": "Tue, 26 May 2020 20:33:31 GMT"
+                },
+                {
+                    "text": "Microsoft owns GitHub."
+                },
+                {
+                    "text": "When I post a project to GH, I'm hoping I'm preserving that work for a long time. As long as MS exists? Would be cool."
+                },
+                {
+                    "text": "This is something MS could market. Think of the repos at GH as time capsules. "
+                },
+                {
+                    "text": "Tech can be imaginative. Like this. ;-)",
+                    "created": "Tue, 26 May 2020 20:44:12 GMT"
+                },
+                {
+                    "text": "PS: Chad Tolkien <a href=\"https://twitter.com/c_tolkien/status/1265381771572469760\">says</a> they are <a href=\"https://archiveprogram.github.com/\">planning</a> on it, but it's only for some projects. So it's going to have a Microsoft bias. Oy. I want to send my stuff into the future so they can use it as prior art for the software they'll be doing then. ",
+                    "created": "Tue, 26 May 2020 20:44:13 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Bug reports, not pull requests",
+            "created": "Tue, 26 May 2020 19:45:58 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Basic philosophy: If you spot a mistake, I want to know about it so I can fix it. Always.",
+                    "created": "Tue, 26 May 2020 19:47:53 GMT",
+                    "image": "http://scripting.com/images/2020/05/26/cherries.png",
+                    "imageLink": "https://en.wikipedia.org/wiki/Cherry"
+                },
+                {
+                    "text": "Now here's the background: I share most of the software I write as open source <a href=\"https://github.com/scripting?tab=repositories\">on GitHub</a>. Sometimes people report bugs by submitting <a href=\"https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests\">pull requests</a>. That doesn't work out very well because I write my code in an outliner, and it generates the JavaScript code from the outline. So what you see as source on GitHub actually isn't what I edit. I couldn't accept a pull request to the generated code. It would just be wiped out the next time I made a change to the outline and re-generated. ",
+                    "created": "Tue, 26 May 2020 19:46:10 GMT"
+                },
+                {
+                    "text": "So the best thing to do when you spot a mistake is flag it as an issue in the repo, point to the code in question if that's helpful, and I'll thank you and make the fix myself. ",
+                    "created": "Tue, 26 May 2020 19:49:51 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Davey RTseed",
+            "created": "Tue, 26 May 2020 20:24:35 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I'm like <a href=\"https://en.wikipedia.org/wiki/Johnny_Appleseed\">Johnny Appleseed</a> of RTs. ",
+                    "created": "Tue, 26 May 2020 20:24:47 GMT"
+                },
+                {
+                    "text": "I like to just swoop in and RT something and share a sexy idea from someone else with the people who follow me."
+                },
+                {
+                    "text": "It's like opening up a worm hole in the universe. "
+                },
+                {
+                    "text": "We get a peek of someone else's reality.",
+                    "created": "Tue, 26 May 2020 20:25:03 GMT"
+                }
+            ]
+        }
+    ]
+}
