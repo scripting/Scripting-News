@@ -1,0 +1,21 @@
+{
+    "text": "Bug reports, not pull requests",
+    "created": "Tue, 26 May 2020 19:45:58 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Basic philosophy: If you spot a mistake, I want to know about it so I can fix it. Always.",
+            "created": "Tue, 26 May 2020 19:47:53 GMT",
+            "image": "http://scripting.com/images/2020/05/26/cherries.png",
+            "imageLink": "https://en.wikipedia.org/wiki/Cherry"
+        },
+        {
+            "text": "Now here's the background: I share most of the software I write as open source <a href=\"https://github.com/scripting?tab=repositories\">on GitHub</a>. Sometimes people report bugs by submitting <a href=\"https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests\">pull requests</a>. That doesn't work out very well because I write my code in an outliner, and it generates the JavaScript code from the outline. So what you see as source on GitHub actually isn't what I edit. I couldn't accept a pull request to the generated code. It would just be wiped out the next time I made a change to the outline and re-generated. ",
+            "created": "Tue, 26 May 2020 19:46:10 GMT"
+        },
+        {
+            "text": "So the best thing to do when you spot a mistake is flag it as an issue in the repo, point to the code in question if that's helpful, and I'll thank you and make the fix myself. ",
+            "created": "Tue, 26 May 2020 19:49:51 GMT"
+        }
+    ]
+}
