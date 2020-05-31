@@ -1,0 +1,31 @@
+{
+    "text": "May 30",
+    "created": "Sat, 30 May 2020 14:24:53 GMT",
+    "name": "30",
+    "subs": [
+        {
+            "text": "<a href=\"https://www.youtube.com/watch?v=rapfJYfPU38\">Killer Mike urges</a> calm amid violence in Atlanta.",
+            "created": "Sat, 30 May 2020 15:06:44 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=rapfJYfPU38"
+        },
+        {
+            "text": "<a href=\"https://twitter.com/PabloPerezA/status/1266286333607071745\">Angela Merkel speaks</a> emphatically about speech. ",
+            "created": "Sat, 30 May 2020 15:06:04 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/PabloPerezA/status/1266286333607071745"
+        },
+        {
+            "text": "The <a href=\"http://scripting.com/images/2020/05/30/youHaveToGoThroughUsToGetToThem.png\">picture</a> I liked the best of all that came out of the protests, is a row of white people standing between the cops and the black protesters. Message simple and strong. You have to go through us to get to them.",
+            "created": "Sat, 30 May 2020 15:12:24 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Unix question. Suppose I have a Node app running in the background. Is there a way to send CLI-type commands to the app while it's running? Or do I need to write a small app to communicate with it?",
+            "created": "Sat, 30 May 2020 14:24:54 GMT",
+            "type": "tweet",
+            "tweetId": "1266737622283673600",
+            "tweetUserName": "davewiner"
+        }
+    ]
+}
