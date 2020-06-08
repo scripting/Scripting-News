@@ -1,0 +1,43 @@
+<div class="divDayTitle"><a href="http://scripting.com/2020/06/07.html">Sunday, June 7, 2020</a></div>
+<div class="divSingularItem" data-type="outline" data-urltweet="https://twitter.com/davewiner/status/1269436096825483266"><a name="a133832"></a><a href="https://twitter.com/davewiner/status/1269436096825483266">Why</a> are white people more receptive to <a href="http://scripting.com/liveblog/users/davewiner/2016/01/17/0880.html">#BLM</a> now? Because with fascism and the virus, and using our minds, we feel disposable too, now. We get it because it’s come home.<span class="spPermaLink"><a href="http://scripting.com/2020/06/07.html#a133832" title="Direct link to this item.">#</a></span></div>
+<div class="divSingularItem" data-type="outline"><a name="a145018"></a><a href="https://twitter.com/benthompson/status/1269631831617318913">Ben Thompson</a>: "Blogs = still the best representation of the Internet’s promise. Everyone should have a site that they own, not just a social media account (which are great for promoting blog posts)."<span class="spPermaLink"><a href="http://scripting.com/2020/06/07.html#a145018" title="Direct link to this item.">#</a></span></div>
+<div class="divTitledItem">
+	<div class="divTitle"><a name="a140541"></a><a href="http://scripting.com/2020/06/07/140541.html?title=aCaseStudyInReadableCode"><span class="spTitleLink">A case study in readable code</a></a><span class="spPermaLink"><a href="http://scripting.com/2020/06/07/140541.html?title=aCaseStudyInReadableCode" title="Direct link to this item.">#</a></span></div>
+	<ul class="ulLevel0">
+	<li><a name="a140546"></a>I just wrote a JavaScript function that pads a string to a certain number of places, with a character you supply. You call it like this:<span class="spPermaLink"><a href="http://scripting.com/2020/06/07/140541.html?title=aCaseStudyInReadableCode#a140546" title="Direct link to this item.">#</a></span></li>
+	<ul class="ulLevel1">
+	<li><a name="a140644"></a>pad (8, "0", 4)<span class="spPermaLink"><a href="http://scripting.com/2020/06/07/140541.html?title=aCaseStudyInReadableCode#a140644" title="Direct link to this item.">#</a></span></li>
+	</ul>
+
+	<li><a name="a140656"></a>That would return:<span class="spPermaLink"><a href="http://scripting.com/2020/06/07/140541.html?title=aCaseStudyInReadableCode#a140656" title="Direct link to this item.">#</a></span></li>
+	<ul class="ulLevel1">
+	<li><a name="a140644"></a>0008<span class="spPermaLink"><a href="http://scripting.com/2020/06/07/140541.html?title=aCaseStudyInReadableCode#a140644" title="Direct link to this item.">#</a></span></li>
+	</ul>
+
+	<li><a name="a140741"></a>It's a useful thing to have around.<span class="spPermaLink"><a href="http://scripting.com/2020/06/07/140541.html?title=aCaseStudyInReadableCode#a140741" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a141238"></a>Now how would you write it?<span class="spPermaLink"><a href="http://scripting.com/2020/06/07/140541.html?title=aCaseStudyInReadableCode#a141238" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a140752"></a>I bet you could do it in a single expression. It might be hard to understand, but in a way that's kind of cool. You have to be smart to understand it. <span class="spPermaLink"><a href="http://scripting.com/2020/06/07/140541.html?title=aCaseStudyInReadableCode#a140752" title="Direct link to this item.">#</a></span></li>
+	<li data-flCodeSubs="true"><a name="a140834"></a>However, imho as a less spectacular coder, I would write it in eight lines of the most boring code possible. For example, <span class="spPermaLink"><a href="http://scripting.com/2020/06/07/140541.html?title=aCaseStudyInReadableCode#a140834" title="Direct link to this item.">#</a></span></li>
+	<ul class="ulLevel1 ulCodeSubs">
+	<li><a name="a140924"></a>function pad (val, withchar, ctplaces) {<span class="spPermaLink"><a href="http://scripting.com/2020/06/07/140541.html?title=aCaseStudyInReadableCode#a140924" title="Direct link to this item.">#</a></span></li>
+	<ul class="ulLevel2">
+	<li><a name="a141717"></a>var s = val.toString ();<span class="spPermaLink"><a href="http://scripting.com/2020/06/07/140541.html?title=aCaseStudyInReadableCode#a141717" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a140932"></a>while (s.length < ctplaces) {<span class="spPermaLink"><a href="http://scripting.com/2020/06/07/140541.html?title=aCaseStudyInReadableCode#a140932" title="Direct link to this item.">#</a></span></li>
+	<ul class="ulLevel3">
+	<li><a name="aNaNNaNNaN"></a>s = withchar + s;<span class="spPermaLink"><a href="http://scripting.com/2020/06/07/140541.html?title=aCaseStudyInReadableCode#aNaNNaNNaN" title="Direct link to this item.">#</a></span></li>
+	<li><a name="aNaNNaNNaN"></a>}<span class="spPermaLink"><a href="http://scripting.com/2020/06/07/140541.html?title=aCaseStudyInReadableCode#aNaNNaNNaN" title="Direct link to this item.">#</a></span></li>
+	</ul>
+
+	<li><a name="aNaNNaNNaN"></a>return (s);<span class="spPermaLink"><a href="http://scripting.com/2020/06/07/140541.html?title=aCaseStudyInReadableCode#aNaNNaNNaN" title="Direct link to this item.">#</a></span></li>
+	<li><a name="aNaNNaNNaN"></a>}<span class="spPermaLink"><a href="http://scripting.com/2020/06/07/140541.html?title=aCaseStudyInReadableCode#aNaNNaNNaN" title="Direct link to this item.">#</a></span></li>
+	</ul>
+
+	</ul>
+
+	<li><a name="a140937"></a>I can quickly read it and see what it does. I don't have to spend any time thinking about it, so I get on with my project that much more quickly.<span class="spPermaLink"><a href="http://scripting.com/2020/06/07/140541.html?title=aCaseStudyInReadableCode#a140937" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a141030"></a>Now this might strike you as inefficient. Look at all that code, and the looping. Oy. For fun, write a benchmark script. Call it a million times and see how long it takes. I'm pretty sure you'll see that it's fast enough. <span class="spPermaLink"><a href="http://scripting.com/2020/06/07/140541.html?title=aCaseStudyInReadableCode#a141030" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a172246"></a>PS: It tooks 0.04 seconds to call <i>pad (8, "0", 4) </i>one million times on my iMac. Here's a <a href="http://scripting.com/images/2020/06/07/oneMillionLoops.png">screen shot</a> of the code.<span class="spPermaLink"><a href="http://scripting.com/2020/06/07/140541.html?title=aCaseStudyInReadableCode#a172246" title="Direct link to this item.">#</a></span></li>
+	<li><a name="a172817"></a>PPS: Albert Einstein <a href="http://www.gurteen.com/gurteen/gurteen.nsf/id/X00063BF6/">said</a> "Everything should be made as simple as possible, but not simpler." <span class="spPermaLink"><a href="http://scripting.com/2020/06/07/140541.html?title=aCaseStudyInReadableCode#a172817" title="Direct link to this item.">#</a></span></li>
+	</ul>
+
+	</div>
