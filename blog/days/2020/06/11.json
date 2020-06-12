@@ -1,0 +1,148 @@
+{
+    "text": "June 11",
+    "created": "Thu, 11 Jun 2020 12:54:12 GMT",
+    "name": "11",
+    "subs": [
+        {
+            "text": "It's good that the <a href=\"https://www.reuters.com/article/us-usa-stocks/wall-street-slides-at-open-on-fears-of-second-virus-wave-idUSKBN23I1OR\">market corrected</a>. Otherwise it was saying something pretty horrific. That the economy will just sail along with huge unemployment, hunger, disease and death.",
+            "created": "Thu, 11 Jun 2020 21:17:39 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/11/10/fsociety.png"
+        },
+        {
+            "text": "<a href=\"https://twitter.com/sfchronicle/status/1270869673303855107\">Lakoff says</a> \"defund the police\" is a terrible slogan. As I've said <a href=\"http://scripting.com/2020/06/09.html#a181221\">myself</a>. Black Lives Matter is brilliant. Impossible to disagree with. But even if you endorse defund the police, you have to immediately explain that isn't literally what it means. ",
+            "created": "Thu, 11 Jun 2020 13:55:37 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "On Twitter, a question. Name something that your mother cooked that was your favorite. At first I was going to reply my mother wasn't a very great cook, but then I <a href=\"https://twitter.com/davewiner/status/1271192726671962112\">remembered</a>. She sent us, my brother and I, cookies at summer camp. They were the best things ever.",
+            "created": "Thu, 11 Jun 2020 21:29:15 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "One of my servers was down at least since midnight. Sorry if you've had trouble reaching \"LO2\" and many of the static sites. Operator error. ",
+            "created": "Thu, 11 Jun 2020 13:10:55 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I found the <a href=\"https://www.polywood.com/chaise-with-arms.html\">patio lounge chairs</a> I want. Reasonably priced. Sturdy. Attractive. Only problem is they take a long time to get here. 8 weeks. By that time summer will almost be over. (Update: My friend Peter Politi found the chairs on the Lowe's website at a good price for delivery in 8 days. Problem solved.)",
+            "created": "Thu, 11 Jun 2020 12:54:13 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Feature <a href=\"https://twitter.com/davewiner/status/1271087957777305604\">request</a> for Twitter.",
+            "created": "Thu, 11 Jun 2020 14:40:31 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Beatles: <a href=\"https://www.youtube.com/watch?v=BGLGzRXY5Bw\">Revolution</a>.",
+            "created": "Thu, 11 Jun 2020 15:45:51 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=BGLGzRXY5Bw"
+        },
+        {
+            "text": "American racism is a <a href=\"https://twitter.com/iLURVhistory/status/1270933462325907457\">product</a> of British colonialism. ",
+            "created": "Thu, 11 Jun 2020 23:27:28 GMT",
+            "type": "outline",
+            "inlineImage": "http://scripting.com/images/2020/06/11/racism.png"
+        },
+        {
+            "text": "Defensive driving in code",
+            "created": "Thu, 11 Jun 2020 13:19:02 GMT",
+            "type": "outline",
+            "description": "The real world is messy. Your production code has to be ready for it. ",
+            "metaImage": "http://scripting.com/images/2020/06/10/countryRoad.png",
+            "subs": [
+                {
+                    "text": "Continuing the example from the <a href=\"http://scripting.com/2020/06/07/140541.html?title=aCaseStudyInReadableCode\">previous case study</a>. The routine, pad, takes three parameters, a string or something that can be coerced to a string, a character to pad with, and the number of places to pad to. So <i>pad (8, \"0\", 4)</i> returns a string whose value is 0008. It's useful for neat tabular displays.  ",
+                    "created": "Thu, 11 Jun 2020 13:19:08 GMT"
+                },
+                {
+                    "text": "In an app I'm working on, I call pad a lot. Then, while testing it in a new environment, I got an error message from the JavaScript runtime:",
+                    "created": "Thu, 11 Jun 2020 13:20:34 GMT",
+                    "flCodeSubs": "true",
+                    "subs": [
+                        {
+                            "text": "TypeError: Cannot read property 'toString' of undefined.",
+                            "created": "Thu, 11 Jun 2020 13:21:05 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "Looking at the stack, the error was in the first line of pad.  ",
+                    "created": "Thu, 11 Jun 2020 13:21:33 GMT",
+                    "flCodeSubs": "true",
+                    "subs": [
+                        {
+                            "text": "var s = val.toString ();",
+                            "created": "Thu, 11 Jun 2020 13:21:46 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "I conclude that val is undefined in one of the many calls. ",
+                    "created": "Thu, 11 Jun 2020 13:22:02 GMT"
+                },
+                {
+                    "text": "The question -- should I find the place I called it with undefined and add logic to not call pad in that case, or should I add the test in pad, and return something reasonable when val is undefined?",
+                    "created": "Thu, 11 Jun 2020 13:22:29 GMT"
+                },
+                {
+                    "text": "Now we get to the point of this case study.",
+                    "created": "Thu, 11 Jun 2020 13:23:12 GMT"
+                },
+                {
+                    "text": "Changing a core routine like pad is tricky. If you change its functionality, you potentially break code that calls it. If it's been around a while, who knows all the places it has been called. However in this case, that's not an issue, because any call that has undefined as the value of the first parameter is going to fail. So it's already broken, therefore you can't break it and therefore it's okay to fix it. :rocket:",
+                    "created": "Thu, 11 Jun 2020 13:23:29 GMT"
+                },
+                {
+                    "text": "Then the question is if it's <i>desirable</i> to fix it in pad, or in the place that calls it that causes the app to fail. For me that's a no-brainer. It would clutter up every call if we don't put it in the function. The whole point of factoring like this is to trade off a tiny bit of time for space and reduced complexity. Factoring is a good thing, and you should do it whenever it's responsible. Remember what <a href=\"http://www.gurteen.com/gurteen/gurteen.nsf/id/X00063BF6/\">Einstein</a> said. Basically factoring is good, but don't do too much. ",
+                    "created": "Thu, 11 Jun 2020 13:24:44 GMT"
+                },
+                {
+                    "text": "I call this coding technique <i>defensive driving. </i>It's something you do in case the other driver (the caller) screws up. You want to prevent the accident. Most of the time it won't accomplish anything, but when it does, it saves you from a crash. One less thing to worry about.",
+                    "created": "Thu, 11 Jun 2020 13:30:10 GMT"
+                },
+                {
+                    "text": "So here's the new version of pad, with the defensive driving code added:",
+                    "created": "Thu, 11 Jun 2020 13:26:17 GMT",
+                    "flCodeSubs": "true",
+                    "subs": [
+                        {
+                            "text": "function pad (val, withchar, ctplaces) {",
+                            "created": "Sun, 07 Jun 2020 14:09:24 GMT",
+                            "subs": [
+                                {
+                                    "text": "var s = (val === undefined) ? \"\" : val.toString ();",
+                                    "created": "Thu, 11 Jun 2020 13:27:51 GMT"
+                                },
+                                {
+                                    "text": "while (s.length < ctplaces) {",
+                                    "created": "Sun, 07 Jun 2020 14:09:32 GMT",
+                                    "subs": [
+                                        {
+                                            "text": "s = withchar + s;"
+                                        },
+                                        {
+                                            "text": "}"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "return (s);"
+                                },
+                                {
+                                    "text": "}"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "It makes <i>pad</i> a little more complicated -- a fact of life. Production code is rarely as simple as demo code because it has to deal with all the crap that gets thrown at it. Defensive driving is how you deal with that, the same as in driving a car or riding a bike in traffic. You never know what the other idiot is going to do. :smile:",
+                    "created": "Thu, 11 Jun 2020 13:37:57 GMT"
+                }
+            ]
+        }
+    ]
+}
