@@ -1,0 +1,43 @@
+{
+    "text": "JavaScript: Promises vs callbacks",
+    "created": "Sun, 14 Jun 2020 14:40:17 GMT",
+    "type": "outline",
+    "description": "What do promises make possible that callbacks don't?",
+    "metaImage": "http://scripting.com/images/2020/06/14/assemblyLine.png",
+    "subs": [
+        {
+            "text": "In JavaScript, what do promises make possible that callbacks don't?",
+            "created": "Sun, 14 Jun 2020 14:40:30 GMT"
+        },
+        {
+            "text": "i've been writing large pieces of code in JavaScript for about seven years, all flow is via callbacks because: ",
+            "created": "Sun, 14 Jun 2020 14:41:07 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "That's all that existed when I started.   ",
+                    "created": "Sun, 14 Jun 2020 14:41:14 GMT"
+                },
+                {
+                    "text": "I like them, I think in terms of them.   ",
+                    "created": "Sun, 14 Jun 2020 14:41:20 GMT"
+                },
+                {
+                    "text": "My editor is proficient at managing them. ",
+                    "created": "Sun, 14 Jun 2020 14:41:25 GMT"
+                },
+                {
+                    "text": "All this proficiency didn't come cheaply. A lot of time went into it.",
+                    "created": "Sun, 14 Jun 2020 14:41:30 GMT"
+                }
+            ]
+        },
+        {
+            "text": "I'm a big believer in this: one way of doing something is better than two, no matter how much better the second way is. Why? Because I'm going to end up supporting both."
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/177\">Here's some space</a>, please help me understand why you think promises is a game-changer. The more succinct the better. Thanks.",
+            "created": "Sun, 14 Jun 2020 14:40:40 GMT"
+        }
+    ]
+}
