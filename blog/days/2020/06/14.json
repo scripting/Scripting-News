@@ -1,0 +1,83 @@
+{
+    "text": "June 14",
+    "created": "Sun, 14 Jun 2020 13:41:34 GMT",
+    "name": "14",
+    "subs": [
+        {
+            "text": "I'm guessing <a href=\"https://twitter.com/AP/status/1272268587005284353\">Trump's Tulsa rally</a> won't happen, because as the next week progresses, the numbers are going to start rising more steeply from all the new unprotected activity. We're going to hit this wall many times before we're ready for the long haul. Even MAGAs will get the message.",
+            "created": "Sun, 14 Jun 2020 21:41:51 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "There's going to be hunger and homelessness, soon, and the virus isn't going to <a href=\"https://apnews.com/129cbe9e6320cd16ce3e845f29de0cac\">spike</a> -- that's wishful thinking. It's more likely the curve is going to go up and up and up, getting steeper all the time, until we stop the party and get serious about saving lives. Let's find ways to help each other. Black lives mattering can help <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+%22save+my+life%22&t=h_&ia=web\">save all our lives</a>. We're all in the same boat now, believe me. The police may loom large as the biggest problem, but imho, they are far from the biggest problem. That's the virus, and the broken political system. We have to work together. That's the only way out.  ",
+            "created": "Sun, 14 Jun 2020 20:10:41 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/08/05/norm.png"
+        },
+        {
+            "text": "Health care is a #BLM issue. With all the trillions the US government is going to spend in the next year trying to keep the economy alive, we could use part of that money to convert the American health care system to a single-payer, no more paying the insurance industry their unearned cut. ",
+            "created": "Sun, 14 Jun 2020 20:16:51 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Republicans are <a href=\"https://talkingpointsmemo.com/edblog/rubio-adds-to-viral-freak-out-over-hippie-jugglers-mistaken-for-antifa-invaders\">desperate</a> to whip up fear of something, <i>anything,</i> that seems more dangerous than Covid-19 actually is. They could, instead, embrace the actual disaster, and you know, as the governing party, help save American lives. ",
+            "created": "Sun, 14 Jun 2020 20:08:43 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1272124761297076224\">Perhaps</a> it should be illegal for a company to own both a search engine and a web browser, esp if they dominate. They might try to take full possession of <a href=\"http://this.how/googleAndHttp/\">something</a> that belongs to the public.",
+            "created": "Sun, 14 Jun 2020 13:41:35 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1272124761297076224"
+        },
+        {
+            "text": "This week's New Yorker cover.",
+            "created": "Sun, 14 Jun 2020 17:28:29 GMT",
+            "type": "outline",
+            "inlineImage": "http://scripting.com/images/2020/06/14/newYorkerCover.png"
+        },
+        {
+            "text": "JavaScript: Promises vs callbacks",
+            "created": "Sun, 14 Jun 2020 14:40:17 GMT",
+            "type": "outline",
+            "description": "What do promises make possible that callbacks don't?",
+            "metaImage": "http://scripting.com/images/2020/06/14/assemblyLine.png",
+            "subs": [
+                {
+                    "text": "In JavaScript, what do promises make possible that callbacks don't?",
+                    "created": "Sun, 14 Jun 2020 14:40:30 GMT"
+                },
+                {
+                    "text": "i've been writing large pieces of code in JavaScript for about seven years, all flow is via callbacks because: ",
+                    "created": "Sun, 14 Jun 2020 14:41:07 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "That's all that existed when I started.   ",
+                            "created": "Sun, 14 Jun 2020 14:41:14 GMT"
+                        },
+                        {
+                            "text": "I like them, I think in terms of them.   ",
+                            "created": "Sun, 14 Jun 2020 14:41:20 GMT"
+                        },
+                        {
+                            "text": "My editor is proficient at managing them. ",
+                            "created": "Sun, 14 Jun 2020 14:41:25 GMT"
+                        },
+                        {
+                            "text": "All this proficiency didn't come cheaply. A lot of time went into it.",
+                            "created": "Sun, 14 Jun 2020 14:41:30 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "I'm a big believer in this: one way of doing something is better than two, no matter how much better the second way is. Why? Because I'm going to end up supporting both."
+                },
+                {
+                    "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/177\">Here's some space</a>, please help me understand why you think promises is a game-changer. The more succinct the better. Thanks.",
+                    "created": "Sun, 14 Jun 2020 14:40:40 GMT"
+                }
+            ]
+        }
+    ]
+}
