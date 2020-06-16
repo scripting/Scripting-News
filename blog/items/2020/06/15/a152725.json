@@ -1,0 +1,8 @@
+{
+    "text": "A <a href=\"http://scripting.com/2020/06/15/foreverAndPagepark.m4a\">podcast</a> about how I merged \"PagePark\" with <a href=\"https://www.npmjs.com/package/forever-monitor\">Forever</a>. A few weeks ago I did a podcast where I explained how the pieces <a href=\"http://scripting.com/2020/06/01.html#a204659\">came together</a> for Frontier in the late 80s and early 90s. I was thinking about that then because a similar thing was happening with PagePark and Forever. I was putting the two together and had an aha moment where the pieces snapped together. PagePark has a very simple idea of what a website is, it's a sub-folder of the <i>domains</i> folder. The name of the sub-folder is the domain that maps to that content. The aha was realizing that you could also put a Node app, to be managed by Forever, which is a package you can integrate into an app, in one of those folders too. Not only did it work at a technical level, but it also provides Frontier-like integration. It's very nice. I've been managing apps in this little world for a couple of weeks now. ",
+    "created": "Mon, 15 Jun 2020 15:27:25 GMT",
+    "type": "outline",
+    "enclosure": "http://scripting.com/2020/06/15/foreverAndPagepark.m4a",
+    "enclosureType": "audio/mpeg",
+    "enclosureLength": "8963938"
+}
