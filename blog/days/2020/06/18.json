@@ -1,0 +1,135 @@
+{
+    "text": "June 18",
+    "created": "Thu, 18 Jun 2020 12:46:40 GMT",
+    "name": "18",
+    "subs": [
+        {
+            "text": "It's crazy. If everyone in America wore a mask, within a few weeks there would be no more new infections. We can't get that simple idea through the skulls of people who are entranced by the orange blob tweeting from the sub-basement of the White House.",
+            "created": "Thu, 18 Jun 2020 18:33:06 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/06/18/whoMasksAreFor.png"
+        },
+        {
+            "text": "I tried the new Twitter <a href=\"https://twitter.com/davewiner/status/1273600373777928193\">voice tweet</a> feature. 140 seconds. ",
+            "created": "Thu, 18 Jun 2020 13:39:09 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "With Twitter's new voice tweet feature, i'd like a very simple way to post a voice message to an RSS feed. I can help with this. I have lots of working code for dealing with feeds, as you might imagine. Let's make podcasts super easy for the people.",
+            "created": "Thu, 18 Jun 2020 13:44:02 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Simpler server-side JavaScript",
+            "created": "Thu, 18 Jun 2020 14:17:11 GMT",
+            "type": "outline",
+            "description": "I believe it's possible to simplify callbacks by removing the need to use them for simple asynchronous I/O operations, yet give up none of the efficiency.",
+            "subs": [
+                {
+                    "text": "Yesterday I posted here and on Twitter this idea:",
+                    "created": "Thu, 18 Jun 2020 14:23:02 GMT",
+                    "subs": [
+                        {
+                            "text": "<i>I’d like to do a new server-side JavaScript environment that’s compatible with <a href=\"https://nodejs.org/\">Node</a>, ie runs Node apps, no breakage, but it also eliminates the need for <a href=\"http://callbackhell.com/\">callbacks</a>, <a href=\"http://scripting.com/2020/06/14/144017.html?title=javascriptPromisesVsCallbacks\">promises</a> or async/await. I believe it’s technically possible.</i>",
+                            "created": "Thu, 18 Jun 2020 01:00:18 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "A friend suggested using <a href=\"https://babeljs.io/\">Babel</a> to prototype this. ",
+                    "created": "Thu, 18 Jun 2020 14:24:10 GMT",
+                    "subs": [
+                        {
+                            "text": "<i>I could imagine a modifier keyword on a function that means this function is internally going to do async things and calls to it should block until until it completes. That could be translated by a Babel plugin into somewhat that internally uses promises queuing to make callers wait for completion.</i>",
+                            "created": "Thu, 18 Jun 2020 14:24:22 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "This is the way to start. I wonder if anyone reading this has the expertise in Babel to make this work. I've started a <a href=\"https://github.com/scripting/Scripting-News/issues/178\">thread</a> over in the repo to discuss.  ",
+                    "created": "Thu, 18 Jun 2020 14:25:34 GMT"
+                },
+                {
+                    "text": "I will write up some code to demonstrate what the Babel plug-in will do, hopefully later today. Stay tuned. ",
+                    "created": "Thu, 18 Jun 2020 14:50:01 GMT"
+                },
+                {
+                    "text": "<b>Why try to simplify?</b>",
+                    "created": "Thu, 18 Jun 2020 14:56:59 GMT"
+                },
+                {
+                    "text": "I was asked on Twitter why I want this. There are all kinds of overhead, time, space, and intellectual. I program in a high level language instead of machine language because there's less intellectual overhead. It would save both time and space to use machine language. But I'm saving complexity by programming in a <a href=\"https://en.wikipedia.org/wiki/High-level_programming_language\">HLL</a>, and that means I can build more complex and useful software. ",
+                    "created": "Thu, 18 Jun 2020 14:26:12 GMT"
+                },
+                {
+                    "text": "Why not just use promises, they're easy my correspondent asks. I say it's easier to not have to program something than use something that makes it easier to program. That's the philosophy of factoring. However the JavaScript I envision would be backward compatible with EC6. It would run any code that runs in Node. But it would also be able to process asynchronous functions with syntax that's as simple for a programmer as calling a synchronous function. ",
+                    "created": "Thu, 18 Jun 2020 14:28:28 GMT"
+                },
+                {
+                    "text": "I don't think there's any question that callbacks are something we'd like to simplify. <i>I'm saying it's possible to simplify callbacks by removing the need to use them for simple asynchronous I/O operations, yet give up none of the efficiency. </i>Most other languages do it, so can JavaScript. ",
+                    "created": "Thu, 18 Jun 2020 14:58:27 GMT"
+                },
+                {
+                    "text": "There's another reasons, transparency in APIs. For example, I might want to prototype a function by storing its data in memory, but at a later time may decide to store it on disk or on the net. I want to keep the interface unchanged, but with today's JavaScript you can't, you have to go to callbacks/promises/etc.",
+                    "created": "Thu, 18 Jun 2020 14:19:09 GMT"
+                },
+                {
+                    "text": "In general, the philosophy of factoring says you take a problem that you're solving over and over, and create a library of functions that do it, and call them instead of replicating the code. ",
+                    "created": "Thu, 18 Jun 2020 14:20:15 GMT"
+                }
+            ]
+        },
+        {
+            "text": "My two cents about Hey",
+            "created": "Thu, 18 Jun 2020 12:46:41 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "In an email to <a href=\"https://twitter.com/gruber\">John Gruber</a> --",
+                    "created": "Thu, 18 Jun 2020 12:46:50 GMT"
+                },
+                {
+                    "text": "John -- A few things bother me about Hey.",
+                    "created": "Thu, 18 Jun 2020 12:46:58 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "They're doing what they say they don't like about Apple. If I want to make a product for their platform, something that does something different with their email, I can't even pay them 30% of revenue. I'm locked out. ",
+                            "created": "Thu, 18 Jun 2020 12:47:05 GMT"
+                        },
+                        {
+                            "text": "Email already means something, and having choice in clients is part of that. So maybe they shouldn't call it email, that might alleviate my concern.",
+                            "created": "Thu, 18 Jun 2020 12:47:25 GMT"
+                        },
+                        {
+                            "text": "It's another Twitter. Five years from now people will get it. They're in a silo and there's no way out and no one can offer the features they offer without cloning the whole thing, which is kind of pointless, because the people you want to reach are still over there.",
+                            "created": "Thu, 18 Jun 2020 12:47:29 GMT"
+                        },
+                        {
+                            "text": "This will definitely be a blog post. ;-)",
+                            "created": "Thu, 18 Jun 2020 12:47:06 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "Also is there a non-hyped list of new features that aren't present in email? Not a marketing list.",
+                    "created": "Thu, 18 Jun 2020 13:06:23 GMT"
+                },
+                {
+                    "text": "Dave",
+                    "created": "Thu, 18 Jun 2020 12:47:39 GMT"
+                },
+                {
+                    "text": "<a href=\"https://twitter.com/davewiner/status/1273263575067492354\">PS</a>: It's okay as far as I'm concerned to invent a new email protocol, and even have it be closed, but if others can't implement it, then we should know that.",
+                    "created": "Thu, 18 Jun 2020 15:24:04 GMT"
+                },
+                {
+                    "text": "PPS: I did create a new Hey account, I'm davew. I like it, but hey what I actually want a really simple scripting interface so I could write my own rules without having to try to figure out how the user interfaces for rules work in Gmail or Hey or Ha or Hmm or Heh or Who or Whatever. Silly thing is I had exactly that a long time ago with <a href=\"https://en.wikipedia.org/wiki/Eudora_(email_client)\">Eudora</a> and Frontier and it worked exactly as well as you would think. I did all kinds of interesting web content apps with it. Email is a nice interface for web work. I bet you didn't know that. :boom:",
+                    "created": "Thu, 18 Jun 2020 18:37:26 GMT",
+                    "type": "outline",
+                    "image": "http://scripting.com/images/2020/06/18/orangeCrush.png"
+                }
+            ]
+        }
+    ]
+}
