@@ -1,0 +1,100 @@
+{
+    "text": "June 24",
+    "created": "Wed, 24 Jun 2020 12:55:55 GMT",
+    "name": "24",
+    "subs": [
+        {
+            "text": "Cuomo says the <a href=\"https://twitter.com/davewiner/status/1275865232037089280\">NYC subway</a> is visibly cleaner. Is it? ",
+            "created": "Wed, 24 Jun 2020 19:53:50 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1275865232037089280"
+        },
+        {
+            "text": "I haven’t had any interaction on my Facebook posts in the last week. No comments, no likes, nada. It’s like it just ended. The people are gone, or Facebook algorithm isn’t showing anyone my posts. Meanwhile it’s rock and roll on twitter and on my blog. Later: Well it turns out, I have been posting mostly-private messages on Facebook since May 23. Not sure how it happened but only a few people were seeing them. I just posted <a href=\"https://www.facebook.com/dave.winer.12/posts/1263656047175131\">something public</a> and it's as if the lights turned back on. Now I'm going back through the last months' posts and changing the privacy setting on them. Whew. ",
+            "created": "Wed, 24 Jun 2020 12:55:56 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/05/01/pigeon.png"
+        },
+        {
+            "text": "Driving on the <a href=\"https://en.wikipedia.org/wiki/Massachusetts_Turnpike\">Masspike</a> yesterday, going west, listening to the audiobook of the <a href=\"https://en.wikipedia.org/wiki/A_People%27s_History_of_the_United_States\">People's History</a>, when a phone call comes in. Looks like spam so I don't answer. Then the car's audio, coming from my fully updated  <a href=\"https://www.apple.com/shop/product/FT5A2LL/A/refurbished-iphone-xs-max-64gb-silver-unlocked\">iPhone XS Max</a>, via <a href=\"https://www.apple.com/ios/carplay/\">CarPlay</a> switches over to the <a href=\"https://apps.apple.com/us/app/apple-podcasts/id525463029\">Podcast</a> app, and plays an <a href=\"https://www.nytimes.com/2020/06/22/podcasts/the-daily/facebook-twitter-black-lives-matter-trump.html\">episode</a> of <a href=\"https://www.nytimes.com/column/the-daily\">The Daily podcast</a>, an episode I didn't want listen to, and there's nothing I can do until I can stop the car and reactivate the <a href=\"https://www.audible.com/ep/apple\">Audible app</a>, about 15 miles of driving. To be very clear, it should have resumed the book, which was interrupted, not start a podcast. This is the kind of software lunacy that never gets fixed. Next year they'll revamp the OS of the car, or the phone, or switch the processor, or get rid of iTunes or Cookie Dough or whatever, and more stuff will break, and the process will continue next year and the year after, and it will not have been worth it. At some point some adult will run Apple, someone who can't be bluffed on software, will tell the engineers to shut up and eat your vegetables, you can watch TV when you finish your homework. It's an analogy. You can figure it out. :rocket:",
+            "created": "Wed, 24 Jun 2020 14:03:07 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "JavaScript and who made it",
+            "created": "Wed, 24 Jun 2020 15:20:38 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2020/06/24/whatsNew.png",
+            "description": "If I could rename JavaScript I'd call it Netscape.",
+            "subs": [
+                {
+                    "text": "<a href=\"https://twitter.com/glitch/status/1275809005093429249\">Glitch asks</a> a very interesting question.  ",
+                    "created": "Wed, 24 Jun 2020 15:20:44 GMT"
+                },
+                {
+                    "text": "<i>If you could rename JavaScript what would you name it?</i>",
+                    "created": "Wed, 24 Jun 2020 15:34:37 GMT"
+                },
+                {
+                    "text": "Let's talk this through.",
+                    "created": "Wed, 24 Jun 2020 15:34:43 GMT"
+                },
+                {
+                    "text": "First what is JavaScript. Let's make a list of things it is. ",
+                    "created": "Wed, 24 Jun 2020 15:20:57 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "It's a single syntax that works in the browser and on the server. A lot of the built-in routines work in both place.",
+                            "created": "Wed, 24 Jun 2020 15:21:15 GMT"
+                        },
+                        {
+                            "text": "It's a vastly too-hard-to-learn language, but it's what we got. ",
+                            "created": "Wed, 24 Jun 2020 15:21:24 GMT"
+                        },
+                        {
+                            "text": "If you were going to design one language that everything should be translated to, it would never be JavaScript, but once again, it's what we got. ",
+                            "created": "Wed, 24 Jun 2020 15:21:45 GMT"
+                        },
+                        {
+                            "text": "Every toolkit shows up as a package in the server runtime for JavaScript. It's the default platform. If you want to write software that integrates lots of back end services, JS is your best choice. ",
+                            "created": "Wed, 24 Jun 2020 15:21:56 GMT"
+                        },
+                        {
+                            "text": "It was created by the immediate competitive need of Netscape's visionary, and a future venture capitalist, combined with the longevity of a standard syntax that has grown a lot especially in the last couple of years. ",
+                            "created": "Wed, 24 Jun 2020 15:22:27 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "In most of the answers to <i>What Is It? </i>you could summarize it by saying <a href=\"https://en.wikipedia.org/wiki/Worse_is_better\">Worse Is Better</a>. In every category, given a choice between elegance and simplicity, performance and ease of use, JavaScript picks the worst of the options. And since worse is better, that's good! That's why it wins. It doesn't worry about being better, does it work, if so, let's use it and go forward. ",
+                    "created": "Wed, 24 Jun 2020 15:26:15 GMT"
+                },
+                {
+                    "text": "Let's go back to the beginning when Marc Andreessen didn't (presumably) want Java to run away with the web. That's the position Java had, and they were pressuring Netscape to bundle it with the browser, and he didn't want to do it, but he had to have something to put in his place. Pretty sure that's why he asked Brendan Eich to write it,  the legendary <a href=\"https://thenewstack.io/brendan-eich-on-creating-javascript-in-10-days-and-what-hed-do-differently-today/\">10-day project</a>. So what was <i>that</i> product? Maybe that should be the name? ",
+                    "created": "Wed, 24 Jun 2020 15:30:13 GMT"
+                },
+                {
+                    "text": "Even though they weren't thinking of server-side language that JS would become, really JS is <i>the language of the web.</i> That idea fits both the original vision and the current use. ",
+                    "created": "Wed, 24 Jun 2020 15:30:13 GMT"
+                },
+                {
+                    "text": "But that's not really a product name: Language Of The Web. LOTW. Nah doesn't really live well in the mind. ",
+                    "created": "Wed, 24 Jun 2020 15:44:56 GMT"
+                },
+                {
+                    "text": "I would have just called it Netscape. It's so central to everything the company was doing, you could have said -- this is the reason we created the company. The web is the UI, and that's important, but the real power is the network behind it, and that network is defined by the language, and this here is the language. It would have given Java a run for the money, probably would have pushed it closer to Microsoft (that's a whole other story) but long term, it would have worked. ",
+                    "created": "Wed, 24 Jun 2020 15:45:27 GMT"
+                },
+                {
+                    "text": "BTW all that's left of Netscape today is -- JavaScript.",
+                    "created": "Wed, 24 Jun 2020 15:49:25 GMT"
+                },
+                {
+                    "text": "They didn't do it then, but you could do it now and it would be cool and fun, historic, respectful and something people would talk about. ",
+                    "created": "Wed, 24 Jun 2020 15:47:06 GMT"
+                }
+            ]
+        }
+    ]
+}
