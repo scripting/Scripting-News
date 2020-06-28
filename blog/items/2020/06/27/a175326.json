@@ -1,0 +1,6 @@
+{
+    "text": "In the meantime, I think I found what was screwing up my new server. \"nodeStorage\" has a feature, that by default is enabled, where it checks with the GitHub repository every 15 minutes and downloads changes. It doesn't restart the app, so you don't see the effect of changes until you restart. The apps are running in the new version of PagePark that has Forever integrated. The way it knows which JavaScript file to run is via the <i>main</i> attribute in <a href=\"https://github.com/scripting/nodeStorage/blob/master/package.json\">package.json</a>. Here's how this goes wrong. At some point, the app checks with GitHub, sees that its version of package.json is different from the on the repo, and downloads it, replacing the one I customized. Ooops. That version does not have a <i>main</i> attribute. So next time I launch PagePark, which I am doing a lot of these days as I debug it and add features, the nodeStorage-based apps don't run. Vexing little bug. The feature should probably default to off. Thing is, when you implement a clever feature like this you <i>want</i> it to default true. Then, years later it bites you in the ass. That my friends is the way programming works, when it doesn't work. :boom: ",
+    "created": "Sat, 27 Jun 2020 17:53:26 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2020/03/19/beet.png"
+}
