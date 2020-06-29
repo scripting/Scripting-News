@@ -1,0 +1,163 @@
+{
+    "text": "June 28",
+    "created": "Sun, 28 Jun 2020 12:56:34 GMT",
+    "name": "28",
+    "subs": [
+        {
+            "text": "Future possible use for Manhattan. A huge museum for how a centralized economy and cultural system worked before all that was blown apart by the net and a virus.",
+            "created": "Sun, 28 Jun 2020 15:52:59 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I'm starting to work on the UI of Radio3 now that the server issues seem settled. Logging my work <a href=\"http://scripting.com/2020/06/28/153523.html?title=radio3Work\">here</a>. Will get more formal later. ",
+            "created": "Sun, 28 Jun 2020 15:34:40 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Sunday is sports day",
+            "created": "Sun, 28 Jun 2020 22:09:36 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "It finally hit me today. Sunday afternoon, raining. ",
+                    "created": "Sun, 28 Jun 2020 22:09:44 GMT"
+                },
+                {
+                    "text": "I'd love to watch sports. There are no sports."
+                },
+                {
+                    "text": "I watched a movie instead. It was okay. "
+                },
+                {
+                    "text": "Today was a sports day though. No freaking sports."
+                },
+                {
+                    "text": "Will game makers take over TV with simulated sports."
+                }
+            ]
+        },
+        {
+            "text": "Radio3 work",
+            "created": "Sun, 28 Jun 2020 15:35:23 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "A bulleted list in reverse order of stuff I'm looking at.",
+                    "created": "Sun, 28 Jun 2020 15:35:27 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Have to test to see if it still works with Slack. I suspect it does. Here are the <a href=\"http://radio3.smallpict.com/2015/05/25/pushLinksToSlack.html\">docs</a> for posting to Slack from Radio3.  (Tested: Works, so Slack remains in the UI.)",
+                            "created": "Sun, 28 Jun 2020 15:36:42 GMT"
+                        },
+                        {
+                            "text": "I'm removing the UI for the features that ping updates for the feed in custom ways. You can use rssCloud, which is specified in the feed Radio3 keeps for you. If you've built a system that depends on this please let me know. ",
+                            "created": "Sun, 28 Jun 2020 15:43:33 GMT"
+                        },
+                        {
+                            "text": "OPML <a href=\"http://radio3.io/oldsettings.opml\">archive</a> for the original settings dialog is here. ",
+                            "created": "Sun, 28 Jun 2020 15:39:45 GMT"
+                        },
+                        {
+                            "text": "I'm removing Facebook and Wordpress from the user interface. Trying to preserve as much of the code as possible, so if we ever can resume the connection with one or both, it will be as painless as possible. ",
+                            "created": "Sun, 28 Jun 2020 15:35:44 GMT"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Our opportunity",
+            "created": "Sun, 28 Jun 2020 12:56:35 GMT",
+            "type": "outline",
+            "description": "$10 trillion could restructure health care. Boot up the green economy. Assure voting rights.",
+            "metaImage": "http://scripting.com/images/2020/06/28/mlkMarchOnWashington.png",
+            "subs": [
+                {
+                    "text": "In my humble opinion, it's no coincidence that <a href=\"https://twitter.com/hashtag/BLM?src=hashtag_click\">#BLM</a> has huge momentum now when we have the most racist president in generations. Just as it's no coincidence that the most racist president followed the first African-American president. ",
+                    "created": "Sun, 28 Jun 2020 12:57:18 GMT",
+                    "image": "http://scripting.com/images/2020/06/28/mask.png"
+                },
+                {
+                    "text": "It appears we're going to flip back to the positive direction, so the question is what do we want.",
+                    "created": "Sun, 28 Jun 2020 12:58:25 GMT"
+                },
+                {
+                    "text": "The big issues are imho:    ",
+                    "created": "Sun, 28 Jun 2020 13:00:51 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Voting rights.  ",
+                            "created": "Sun, 28 Jun 2020 13:00:54 GMT"
+                        },
+                        {
+                            "text": "Health care.  ",
+                            "created": "Sun, 28 Jun 2020 13:00:57 GMT"
+                        },
+                        {
+                            "text": "Climate crisis.",
+                            "created": "Sun, 28 Jun 2020 13:00:59 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "Even more immediate: Assume the US government will spend $10 trillion in the next year to keep the US from crashing. Should that money go to the 1% (where it would go by default, imho) or should we focus on making sure the money goes to solve the critical problems.",
+                    "created": "Sun, 28 Jun 2020 12:58:31 GMT"
+                },
+                {
+                    "text": "That money could restructure health care so it works for everyone. It could start the transition to a green economy. It could certainly help assure voting rights, and therefore a fairer government in future years, and maybe prevent the flipping back and forth.",
+                    "created": "Sun, 28 Jun 2020 12:58:38 GMT"
+                },
+                {
+                    "text": "I'm very concerned that we will end up settling for symbolic victories, removal of the stars and bars from the Mississippi state flag, removal of monuments, and nothing material will change. Symbolism is important, but we have big non-symbolic problems to solve.",
+                    "created": "Sun, 28 Jun 2020 12:58:44 GMT"
+                },
+                {
+                    "text": "The focus has been on changing minds and attitudes. I am open to that in every way. I learned a tremendous amount from the <a href=\"https://www.nytimes.com/2020/01/23/podcasts/1619-podcast.html\">1619 podcast</a>. More of that please. I am reading the <a href=\"https://www.amazon.com/dp/B0030MR076/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1\">People's History of the United States</a> -- again, eye-opening.",
+                    "created": "Sun, 28 Jun 2020 12:58:49 GMT"
+                },
+                {
+                    "text": "But you can't change people who don't want to change. This is why the approach that pundits are taking, saying we have to change people, they have to understand what it's like to be X, as a prerequisite for real change, that's not a good approach.",
+                    "created": "Sun, 28 Jun 2020 12:58:59 GMT"
+                },
+                {
+                    "text": "We can find win-wins right now. Restructuring health care won't just help people of color, it will help everyone. But imho is is a #BLM issue.",
+                    "created": "Sun, 28 Jun 2020 12:59:09 GMT"
+                },
+                {
+                    "text": "Voting rights matter, even if it only re-enfranchises African-Americans, because many of us want the kind of government African-Americans will vote for.",
+                    "created": "Sun, 28 Jun 2020 12:59:18 GMT"
+                },
+                {
+                    "text": "It doesn't have to be either/or, in fact if it is, we will all lose. Repubs will continue to dominate, and all the resources will continue to flow to the 1%.",
+                    "created": "Sun, 28 Jun 2020 12:59:28 GMT"
+                },
+                {
+                    "text": "There will be a <i>lot</i> of change in the next year. This is a pivotal time. We must organize, black, white, all genders, all races, ages, erase the wedges and act in all our interests to save lives, and overcome the challenges in front of us.",
+                    "created": "Sun, 28 Jun 2020 12:59:37 GMT"
+                },
+                {
+                    "text": "Let's find our inner-Americans, and fight to live up to the promise of our nation.",
+                    "created": "Sun, 28 Jun 2020 12:59:47 GMT"
+                },
+                {
+                    "text": "<i>Note: This post first appeared in a <a href=\"https://twitter.com/davewiner/status/1277220379669467136\">series of tweets</a> this morning. No need to unroll it, here's the text in a single blog post. </i>",
+                    "created": "Sun, 28 Jun 2020 12:56:43 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Every picture tells a story",
+            "created": "Sun, 28 Jun 2020 14:48:46 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Seen <a href=\"https://twitter.com/BrynnTannehill/status/1277211131430535168/photo/1\">on</a> an airplane recently.",
+                    "created": "Sun, 28 Jun 2020 14:48:51 GMT",
+                    "inlineImage": "http://scripting.com/images/2020/06/28/makeAmericaGreatAgain.png"
+                }
+            ]
+        }
+    ]
+}
