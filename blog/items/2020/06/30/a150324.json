@@ -1,0 +1,26 @@
+{
+    "text": "Radio3 work continues",
+    "created": "Tue, 30 Jun 2020 15:03:24 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "More work on \"Radio3\", continuing from <a href=\"http://scripting.com/2020/06/28/153523.html?title=radio3Work\">previous notes</a>. ",
+            "created": "Tue, 30 Jun 2020 15:03:30 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "The <a href=\"http://scripting.com/images/2020/06/30/xmlIcon.png\">RSS icon</a> now links to an XML Viewer page for the feed (<a href=\"http://xmlviewer.scripting.com/?url=http%3A%2F%2Fradio3.io%2Fusers%2Fdavewiner%2Frss.xml\">example</a>), rather than the feed itself. A longstanding problem: browsers try to make RSS feeds useful without showing the XML, but in this situation we <i>want</i> to see the XML. ",
+                    "created": "Tue, 30 Jun 2020 15:03:46 GMT"
+                },
+                {
+                    "text": "Cleaned up the row of icons to the right of every post. Now we have three, a link to the tweet, an icon to edit the post, and one to delete the post. There used to be icons that linked to Facebook and Wordpress versions of the post, but support for both products hasn't worked in a long time, so I disabled it in this release. ",
+                    "created": "Tue, 30 Jun 2020 15:08:43 GMT"
+                }
+            ]
+        },
+        {
+            "text": "BTW, I'm trying an experiment, editing the actual running copy of Radio3, so when you see a note appear here, you can immediately try the feature in the software. It's like climbing a mountain with no safety net. When I make a change that introduces a bug, you get to see that too. :boom:",
+            "created": "Tue, 30 Jun 2020 15:09:26 GMT"
+        }
+    ]
+}
