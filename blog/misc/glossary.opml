@@ -3,17 +3,17 @@
 	<head>
 		<title>Glossary</title>
 		<dateCreated>Tue, 13 Jun 2017 13:42:31 GMT</dateCreated>
-		<dateModified>Thu, 02 Jul 2020 14:24:31 GMT</dateModified>
+		<dateModified>Fri, 03 Jul 2020 15:43:10 GMT</dateModified>
 		<ownerName>Dave</ownerName>
 		<ownerId>https://twitter.com/davewiner/</ownerId>
-		<expansionState>1,10,51,62,65,85,91,98,100,102,107</expansionState>
+		<expansionState>1,6,12,53,64,67,87,93,100,102,104,106</expansionState>
 		<vertScrollState>1</vertScrollState>
 		<windowTop>631</windowTop>
 		<windowLeft>1087</windowLeft>
 		<windowBottom>831</windowBottom>
 		<windowRight>1472</windowRight>
 		<flPublic>true</flPublic>
-		<lastCursor>106</lastCursor>
+		<lastCursor>5</lastCursor>
 		<ownerTwitterScreenName>davewiner</ownerTwitterScreenName>
 		<urlPublic>http://electricserver.scripting.com/users/davewiner/electric/glossary.opml</urlPublic>
 		<urlJson>http://electricserver.scripting.com/users/davewiner/electric/glossary.json</urlJson>
@@ -34,6 +34,9 @@
 			</outline>
 		<outline text="&quot;bingeworthy&quot;" created="Tue, 14 Nov 2017 15:38:03 GMT">
 			<outline text="&lt;a href=&quot;http://bingeworthy.io/&quot;&gt;BingeWorthy&lt;/a&gt;" created="Tue, 14 Nov 2017 15:38:06 GMT"/>
+			</outline>
+		<outline text="&quot;Black Lives Matter&quot;" created="Fri, 03 Jul 2020 15:42:30 GMT">
+			<outline text="&lt;a href=&quot;http://this.how/blackLivesMatter/&quot;&gt;Black Lives Matter&lt;/a&gt;" created="Fri, 03 Jul 2020 15:42:33 GMT"/>
 			</outline>
 		<outline text="&quot;bloggercon&quot;" created="Tue, 13 Feb 2018 16:36:01 GMT">
 			<outline text="&lt;a href=&quot;http://bloggercon.scripting.com/&quot;&gt;BloggerCon&lt;/a&gt;" created="Tue, 13 Feb 2018 16:36:04 GMT"/>
@@ -302,6 +305,9 @@
 		<outline text="&quot;XML-RPC&quot;" created="Sat, 26 May 2018 03:02:46 GMT">
 			<outline text="&lt;a href=&quot;http://xmlrpc.com/&quot;&gt;XML-RPC&lt;/a&gt;" created="Fri, 10 Jan 2020 18:24:14 GMT"/>
 			</outline>
+		<outline text="#blm" created="Thu, 02 Jul 2020 14:24:06 GMT">
+			<outline text="&lt;a href=&quot;https://twitter.com/hashtag/BLM?src=hashtag_click&quot;&gt;#BLM&lt;/a&gt;" created="Thu, 02 Jul 2020 14:24:12 GMT"/>
+			</outline>
 		<outline text="#indieweb" created="Wed, 19 Jun 2019 15:39:37 GMT">
 			<outline text="&lt;a href=&quot;https://twitter.com/search?q=%23indieweb&quot;&gt;#indieweb&lt;/a&gt;" created="Wed, 19 Jun 2019 15:39:40 GMT"/>
 			</outline>
@@ -310,9 +316,6 @@
 			</outline>
 		<outline text="#lgm" created="Wed, 07 Aug 2019 15:52:38 GMT">
 			<outline text="&lt;a href=&quot;https://twitter.com/search?q=%23lgm&quot; title=&quot;Let's go Mets!&quot;&gt;&lt;img src=&quot;http://scripting.com/images/2019/08/11/metsLogo.png&quot; width=&quot;22&quot; height=&quot;2&quot; style=&quot;margin-left: 0px;&quot;&gt;&lt;/a&gt;" created="Wed, 07 Aug 2019 15:52:40 GMT"/>
-			</outline>
-		<outline text="#blm" created="Thu, 02 Jul 2020 14:24:06 GMT">
-			<outline text="&lt;a href=&quot;https://twitter.com/hashtag/BLM?src=hashtag_click&quot;&gt;#BLM&lt;/a&gt;" created="Thu, 02 Jul 2020 14:24:12 GMT"/>
 			</outline>
 		<outline text="#scriptingnews" created="Sat, 15 Dec 2018 16:15:08 GMT">
 			<outline text="&lt;a href=&quot;https://twitter.com/hashtag/scriptingnews&quot;&gt;#scriptingnews&lt;/a&gt;" created="Sat, 15 Dec 2018 16:15:14 GMT"/>
