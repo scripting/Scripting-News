@@ -1,0 +1,123 @@
+{
+    "text": "July 8",
+    "created": "Wed, 08 Jul 2020 12:31:58 GMT",
+    "name": "08",
+    "subs": [
+        {
+            "text": "<a href=\"http://scripting.com/2020/07/08/cancelCulture.m4a\">Podcast</a>: I tell the story of a person who was cancelled.",
+            "created": "Wed, 08 Jul 2020 18:08:01 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2020/07/08/cancelCulture.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "9582412"
+        },
+        {
+            "text": "The next great <a href=\"https://www.youtube.com/watch?v=-vZp3FAQZvU\">Lincoln Project ad</a>. Learn their names. Every time they had a choice between America and Trump, they chose Trump. ",
+            "created": "Wed, 08 Jul 2020 20:32:28 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=-vZp3FAQZvU"
+        },
+        {
+            "text": "San Quentin has <a href=\"https://www.motherjones.com/crime-justice/2020/07/san-quentin-prison-coronavirus-california/\">exploded</a> with Covid. \"1,300 prisoners and 184 staff having tested positive for the coronavirus as of July 7.\"",
+            "created": "Wed, 08 Jul 2020 17:44:38 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "An ounce of prevention is worth a pound of cure.",
+            "created": "Wed, 08 Jul 2020 16:03:13 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "You know that <a href=\"https://harpers.org/a-letter-on-justice-and-open-debate/\">big letter</a> that was posted on Harper's yesterday that caused such a <a href=\"https://en.wikipedia.org/wiki/Brouhaha\">brouhaha</a>. Here's the summary. <i>Just because you're offended, doesn't mean you're right. </i>",
+            "created": "Wed, 08 Jul 2020 13:10:18 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"http://nakedjen.com/\">NakedJen</a> works in a place where people must wear a mask, so she gives out a lot of masks every day. She's going to make custom masks that have a message. That's the first part of this story. Second part, we both started a campaign called #SaveMyLife, where we promote stories and ideas that save people's lives in this age where lives have all of a sudden become cheap, something our government is promoting (the cheapness, not the saving). So Jen has designed a mask that has the #savemylife message on it, which is kind of heavy, and to balance that she put a giddy little smiley on it, to make it more Jen-like. I said I want one, but maybe I want mine to have a picture of <a href=\"http://scripting.com/2016/12/20/mlk.png\">MLK</a> instead of the smiley. And then I would probably change the tag to #blacklivesmatter. This is something that I, a white man, would wear with pride. But there's a problem. The purpose of my wearing a mask is to save <i>your</i> life, not mine, in case I'm infected and am shedding. I feel contradicitons like this have to be resolved. Or do they?",
+            "created": "Wed, 08 Jul 2020 12:31:59 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/07/08/saveMyLifeMask.png"
+        },
+        {
+            "text": "Yesterday, I was at a store, did my shopping, but when I took the mask off in the car one of the straps broke. I went back to the store and asked if they had an extra. They gave me one, with a smile. No reason that mask shouldn't have had a message on it.",
+            "created": "Wed, 08 Jul 2020 13:43:12 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=SINTH98Ph0g\">You win again</a>. ",
+            "created": "Wed, 08 Jul 2020 12:52:45 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "The TP situation at the local market.",
+            "created": "Wed, 08 Jul 2020 18:17:35 GMT",
+            "type": "outline",
+            "inlineImage": "http://scripting.com/images/2020/07/08/tpForMyBunghole.png"
+        },
+        {
+            "text": "Really Simple JavaScript",
+            "created": "Wed, 08 Jul 2020 13:16:02 GMT",
+            "type": "outline",
+            "description": "I want my code to be as boring and predictable as possible. To look exactly like what it does. ",
+            "metaImage": "http://scripting.com/images/2020/07/08/assemblyLine.png",
+            "subs": [
+                {
+                    "text": "I read a <a href=\"https://twitter.com/mgechev/status/1280388653433356290\">tweet</a> yesterday that showed what the author thought was a cool feature, <a href=\"https://twitter.com/mgechev/status/1280388653433356290/photo/1\">labels</a> in JavaScript. Labels are 1/2 of <a href=\"https://en.wikipedia.org/wiki/Goto\">goto</a> statements, which we know are <a href=\"https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf\">harmful</a> to readability and maintainability. ",
+                    "created": "Wed, 08 Jul 2020 13:16:09 GMT",
+                    "image": "http://scripting.com/images/2020/07/08/spaghetti2.png"
+                },
+                {
+                    "text": "I'm pretty sure when I try to grok someone's code that uses this feature, it'll be hard to figure out how it works.",
+                    "created": "Wed, 08 Jul 2020 15:06:42 GMT"
+                },
+                {
+                    "text": "I've been developing software for a long time. The functionality for users is always at the top of my mind. Getting software rock solid and ideally not requiring any maintenence, that's what I'm aiming for. ",
+                    "created": "Wed, 08 Jul 2020 13:18:13 GMT"
+                },
+                {
+                    "text": "I'm <i>never</i> thinking about how I can use some new cool feature in the language. I want my code to be as boring and predictable as possible. To look exactly like what it does. Sometimes I get there. ",
+                    "created": "Wed, 08 Jul 2020 15:08:15 GMT"
+                },
+                {
+                    "text": "I'm using software that I wrote 30 years ago right now, as I write this. That's pretty good for standing the test of time. ",
+                    "created": "Wed, 08 Jul 2020 15:08:26 GMT"
+                },
+                {
+                    "text": "Anyway, I'm thinking the right thing to do for JavaScript is to define a profile, a subset of the language, which if you stick to it, will enhance maintainability and readability, and therefore is more likely to work. ",
+                    "created": "Wed, 08 Jul 2020 13:19:25 GMT"
+                },
+                {
+                    "text": "An example, right now I can think of three syntaxes for defining a function. The profile would allow one. ",
+                    "created": "Wed, 08 Jul 2020 15:09:08 GMT",
+                    "flCodeSubs": "true",
+                    "subs": [
+                        {
+                            "text": "function hello () {return (\"hello\")}",
+                            "created": "Wed, 08 Jul 2020 15:43:24 GMT"
+                        },
+                        {
+                            "text": "const hello = function () {return (\"hello\")}",
+                            "created": "Wed, 08 Jul 2020 15:43:30 GMT"
+                        },
+                        {
+                            "text": "const hello = () => {return (\"hello\")}",
+                            "created": "Wed, 08 Jul 2020 15:43:43 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "I would like to see all example code stick to the profile. Of course once there was one such profile, there would be N. But at least simplifying the language would be up for discussion.",
+                    "created": "Wed, 08 Jul 2020 13:21:17 GMT"
+                },
+                {
+                    "text": "What would I call my profile? ",
+                    "created": "Wed, 08 Jul 2020 15:09:09 GMT"
+                },
+                {
+                    "text": "Something like \"Really Simple JavaScript\". :smile:",
+                    "created": "Wed, 08 Jul 2020 15:20:14 GMT"
+                }
+            ]
+        }
+    ]
+}
