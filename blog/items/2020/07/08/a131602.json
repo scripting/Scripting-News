@@ -1,0 +1,65 @@
+{
+    "text": "Really Simple JavaScript",
+    "created": "Wed, 08 Jul 2020 13:16:02 GMT",
+    "type": "outline",
+    "description": "I want my code to be as boring and predictable as possible. To look exactly like what it does. ",
+    "metaImage": "http://scripting.com/images/2020/07/08/assemblyLine.png",
+    "subs": [
+        {
+            "text": "I read a <a href=\"https://twitter.com/mgechev/status/1280388653433356290\">tweet</a> yesterday that showed what the author thought was a cool feature, <a href=\"https://twitter.com/mgechev/status/1280388653433356290/photo/1\">labels</a> in JavaScript. Labels are 1/2 of <a href=\"https://en.wikipedia.org/wiki/Goto\">goto</a> statements, which we know are <a href=\"https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf\">harmful</a> to readability and maintainability. ",
+            "created": "Wed, 08 Jul 2020 13:16:09 GMT",
+            "image": "http://scripting.com/images/2020/07/08/spaghetti2.png"
+        },
+        {
+            "text": "I'm pretty sure when I try to grok someone's code that uses this feature, it'll be hard to figure out how it works.",
+            "created": "Wed, 08 Jul 2020 15:06:42 GMT"
+        },
+        {
+            "text": "I've been developing software for a long time. The functionality for users is always at the top of my mind. Getting software rock solid and ideally not requiring any maintenence, that's what I'm aiming for. ",
+            "created": "Wed, 08 Jul 2020 13:18:13 GMT"
+        },
+        {
+            "text": "I'm <i>never</i> thinking about how I can use some new cool feature in the language. I want my code to be as boring and predictable as possible. To look exactly like what it does. Sometimes I get there. ",
+            "created": "Wed, 08 Jul 2020 15:08:15 GMT"
+        },
+        {
+            "text": "I'm using software that I wrote 30 years ago right now, as I write this. That's pretty good for standing the test of time. ",
+            "created": "Wed, 08 Jul 2020 15:08:26 GMT"
+        },
+        {
+            "text": "Anyway, I'm thinking the right thing to do for JavaScript is to define a profile, a subset of the language, which if you stick to it, will enhance maintainability and readability, and therefore is more likely to work. ",
+            "created": "Wed, 08 Jul 2020 13:19:25 GMT"
+        },
+        {
+            "text": "An example, right now I can think of three syntaxes for defining a function. The profile would allow one. ",
+            "created": "Wed, 08 Jul 2020 15:09:08 GMT",
+            "flCodeSubs": "true",
+            "subs": [
+                {
+                    "text": "function hello () {return (\"hello\")}",
+                    "created": "Wed, 08 Jul 2020 15:43:24 GMT"
+                },
+                {
+                    "text": "const hello = function () {return (\"hello\")}",
+                    "created": "Wed, 08 Jul 2020 15:43:30 GMT"
+                },
+                {
+                    "text": "const hello = () => {return (\"hello\")}",
+                    "created": "Wed, 08 Jul 2020 15:43:43 GMT"
+                }
+            ]
+        },
+        {
+            "text": "I would like to see all example code stick to the profile. Of course once there was one such profile, there would be N. But at least simplifying the language would be up for discussion.",
+            "created": "Wed, 08 Jul 2020 13:21:17 GMT"
+        },
+        {
+            "text": "What would I call my profile? ",
+            "created": "Wed, 08 Jul 2020 15:09:09 GMT"
+        },
+        {
+            "text": "Something like \"Really Simple JavaScript\". :smile:",
+            "created": "Wed, 08 Jul 2020 15:20:14 GMT"
+        }
+    ]
+}
