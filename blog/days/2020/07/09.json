@@ -1,0 +1,104 @@
+{
+    "text": "July 9",
+    "created": "Thu, 09 Jul 2020 15:29:29 GMT",
+    "name": "09",
+    "subs": [
+        {
+            "text": "<a href=\"http://this.how/littleoutliner/versions.opml#1594307363000\">Little Outliner v1.8.16</a> is now its own reader app. There's a way to open outlines without logging in via Twitter. Also cleaned up and reorganized the Docs menu. ",
+            "created": "Thu, 09 Jul 2020 15:29:30 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "If you have questions about \"LO2\", this is the <a href=\"https://github.com/scripting/Scripting-News/issues/181\">new place</a> to post to, linked to from the Docs menu.",
+            "created": "Thu, 09 Jul 2020 15:58:54 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Watching Biden give a speech via teleprompter and wondering why in 2020 we don't have a better way of doing this, so he can move his head where ever he likes and still have the text right in front of his eyes. He shouldn't have to turn his head to read.",
+            "created": "Thu, 09 Jul 2020 19:47:22 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I discovered a <a href=\"http://scripting.com/images/2020/07/09/featureInGitHub.png\">new feature</a> in GitHub. If you create a public repository with the same name as your account, the <a href=\"https://github.com/scripting/scripting/blob/master/README.md\">readme.md</a> file in that repo is displayed on your <a href=\"https://github.com/scripting\">GitHub home page</a>. Of course it's Markdown. Might be interesting to integrate some of the status-editing features I'm working on into this. It supports basic web stuff, as you would expect from a techies site like GitHub. Okay this might be fun. :balloon:",
+            "created": "Thu, 09 Jul 2020 19:54:10 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I'm becoming a Deadhead. Today's song is <a href=\"https://www.youtube.com/watch?v=xCgZxrf8nrU\">China Cat Sunflower</a>. ",
+            "created": "Thu, 09 Jul 2020 18:55:29 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Last night at the beginning of Maddow they had a tour of the Covid ward at a Houston hospital similar to the ones they did in NYC hospitals a couple of months ago. First we watched a woman die. She was infected at the funeral she held for her husband who also died of Covid. Then they interviewed a patient who explained she was being careful, yet caught the virus anyway. This is how it works when the density of infection goes up, you encounter more virus as you move around, and with more density the chance of you getting infected goes up. That's what they're dealing with in Houston. It was excellent, but they were all Democrats. It would be helpful if they interviewed a banker type, in trouble, in a ward, worrying about the horrible death looming in front of him. Let them see a Republican dealing with an unavoidable awful reality. Might scare them into wearing masks and thereby decrease the density of the virus and \"save my life\". ",
+            "created": "Thu, 09 Jul 2020 15:38:20 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/07/01/orangeBlob.png"
+        },
+        {
+            "text": "Senators, go to Jacksonville!",
+            "created": "Thu, 09 Jul 2020 17:09:11 GMT",
+            "type": "outline",
+            "description": "Scared of the virus? Trump says it won't get you, or does he? ",
+            "metaImage": "http://scripting.com/images/2020/07/09/rally.png",
+            "subs": [
+                {
+                    "text": "Many <a href=\"https://www.cbsnews.com/news/republican-national-convention-rnc-coronavirus-gop-senators-jacksonville/\">Republican senators</a> are apparently <i>not</i> going to Trump's convention in Jacksonville. Why not? Scared of the virus? Trump says it won't get you. Or does he?  ",
+                    "created": "Thu, 09 Jul 2020 17:09:19 GMT"
+                },
+                {
+                    "text": "Also hope their children and grandchildren will be going back to school in the fall. Kids don't get sick they say, and if they do they don't die, and if they die they were going to die anyway. This is the position of the Trump government. If it's good for Republicans then it's good for their representatives, right??",
+                    "created": "Thu, 09 Jul 2020 17:09:38 GMT"
+                },
+                {
+                    "text": "And there's a <a href=\"https://www.nbcboston.com/news/politics/decision-2020/trump-to-hold-outdoor-rally-in-portsmouth-nh-this-week/2154220/\">rally</a> on Saturday in New Hampshire. <i>They should  go! Don't miss it. </i>No masks, social distancing, lots of ways to get sick. Very sick. Hey if it's good for Americans, why not the senators? And of course their families. ",
+                    "created": "Thu, 09 Jul 2020 17:09:44 GMT"
+                }
+            ]
+        },
+        {
+            "text": "Really Simple JavaScript, day 2",
+            "created": "Thu, 09 Jul 2020 16:19:16 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Following up on <a href=\"http://scripting.com/2020/07/08/131602.html?title=reallySimpleJavascript\">yesterday's post</a> where I talk about striving for simplicity in using JavaScript, my friend <a href=\"https://twitter.com/awbjs\">Allen Wirfs-Brock</a>, who has been involved in JavaScript language design for many years, and was editor of the <a href=\"http://www.ecma-international.org/ecma-262/6.0/\">ES6 spec</a>, responded thus:",
+                    "created": "Thu, 09 Jul 2020 16:19:24 GMT",
+                    "subs": [
+                        {
+                            "text": "Because of JavaScript’s \"don’t break existing code\" policy, often the only way to fix an existing problematic features is to leave it alone and add a better alternative. This inevitably leads to profiles that include the better features and leaves out the deprecated ones.  ",
+                            "created": "Thu, 09 Jul 2020 16:27:30 GMT"
+                        },
+                        {
+                            "text": "You probably don’t use <a href=\"https://eslint.org/\">eslint</a> , but most commercial JS devs seem to. There are probably thousands of configuration profiles for it that enforce various style guides and and subset preferences. ",
+                            "created": "Thu, 09 Jul 2020 16:27:57 GMT"
+                        },
+                        {
+                            "text": "For example <a href=\"https://standardjs.com/\">JavaScript Standard Style</a> is popular but controversial both because of its self-assumed name and because of the positions it takes on semicolon usage and other conventions.",
+                            "created": "Thu, 09 Jul 2020 16:28:52 GMT"
+                        },
+                        {
+                            "text": "Regarding choice of function forms, my preference is to use the <code>function hello () {}</code> form in most situations where I wanted to define a named function, both global and local.  I’d generally reserve arrow functions for cases where I’m passing an anonymous function as an argument or otherwise using it as a first class value.  ",
+                            "created": "Thu, 09 Jul 2020 16:29:56 GMT"
+                        },
+                        {
+                            "text": "I’d probably only use <code>const hello= () => {};</code> in situations where I need to name a function that needs to reference the this binding of its surrounding environment.",
+                            "created": "Thu, 09 Jul 2020 16:30:19 GMT"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Being a kid in 2020",
+            "created": "Thu, 09 Jul 2020 16:26:07 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "It's tough being a kid these days.",
+                    "created": "Thu, 09 Jul 2020 16:25:56 GMT",
+                    "inlineImage": "http://scripting.com/images/2020/07/09/kidsuits.png"
+                }
+            ]
+        }
+    ]
+}
