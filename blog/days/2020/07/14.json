@@ -1,0 +1,191 @@
+{
+    "text": "July 14",
+    "created": "Tue, 14 Jul 2020 14:20:35 GMT",
+    "name": "14",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1283152682446983168\">Poll</a>: Are you shut down?",
+            "created": "Tue, 14 Jul 2020 21:33:54 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1283152682446983168"
+        },
+        {
+            "text": "News orgs mostly run op-eds from people who have climbed some societal ladder, therefore will be reluctant to tell the truth, for fear of upsetting their position in the hierarchy. ",
+            "created": "Tue, 14 Jul 2020 16:23:09 GMT",
+            "type": "tweet",
+            "image": "http://scripting.com/images/2020/06/29/alice.png",
+            "tweetId": "1283075793283883011",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "Preventing people from saying things you object to isn't the same thing as getting rid of the thinking behind it. I'd rather know what <a href=\"https://en.wikipedia.org/wiki/Tom_Cotton\">Tom Cotton</a> dreams of than have it suppressed. Now I know how serious a threat he is.",
+            "created": "Tue, 14 Jul 2020 17:10:24 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Something I learned from reading <a href=\"https://en.wikipedia.org/wiki/Lies_My_Teacher_Told_Me\">Lies</a>, the idea of circling the wagons didn't come from anything the Indians or settlers did, rather it came from circus re-enactments, which took place in circular tents. ",
+            "created": "Tue, 14 Jul 2020 16:24:35 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Trump is a perfect demo of why you don't want a king.",
+            "created": "Tue, 14 Jul 2020 15:51:33 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "This is how I often <a href=\"http://scripting.com/images/2020/07/14/twitterAsPostEditor.png\">write blog posts</a> these days. In Twitter. I so totally wish I could just click the <i>Post</i> button and have it do the rest. Their API is good enough that I can suck it into my outliner automatically, no manual work. I could really see discourse on the net exploding in useful ways if Twitter let go of the 280-char limit. ",
+            "created": "Tue, 14 Jul 2020 14:23:39 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Not breaking the web",
+            "created": "Tue, 14 Jul 2020 15:51:51 GMT",
+            "type": "outline",
+            "description": "The web today is so large and diverse, no one can understand all that it does.",
+            "metaImage": "http://scripting.com/images/2020/07/14/crash.png",
+            "subs": [
+                {
+                    "text": "My email conversation with Allen Wirfs-Brock took an interesting turn. I had written about <a href=\"http://scripting.com/2020/07/08/131602.html?title=reallySimpleJavascript\">Really Simple JavaScript</a>, an idea that the language would benefit from removing features. A path well-explored <a href=\"http://scripting.com/2020/07/09/161916.html?title=reallySimpleJavascriptDay2\">AWB pointed out</a>.  ",
+                    "created": "Tue, 14 Jul 2020 15:51:54 GMT"
+                },
+                {
+                    "text": "In my last post I talked about various <a href=\"http://scripting.com/2020/07/11/152423.html?title=reallySimpleJavascriptDay3\">programming mottos</a> that help with the design issues JavaScript has encountered. Then AWB commented about the design slogans that guide the evolution of JavaScript.",
+                    "created": "Tue, 14 Jul 2020 16:17:13 GMT"
+                },
+                {
+                    "text": "<b>AWB on design slogans</b>",
+                    "created": "Tue, 14 Jul 2020 15:53:47 GMT",
+                    "subs": [
+                        {
+                            "text": "I’m big fan of design slogans. The one we used in <a href=\"https://tc39.es/\">TC39</a> about not breaking things was “Don’t break the web!”  It’s a preservationist perspective.  Much of the human digital heritage of the last 30 years and for the foreseeable future is stored as unmaintained web documents. Every breaking change to a web technology (JS, HTML, etc.) is likely to make part of our heritage permanently inaccessible.",
+                            "created": "Tue, 14 Jul 2020 15:54:35 GMT",
+                            "image": "http://scripting.com/images/2019/06/11/pizza.png"
+                        },
+                        {
+                            "text": "Another slogan we used frequently while I was active in <a href=\"https://tc39.es/\">TC39</a> was  “consider the complexity budget.”  The idea is that there are  limits (whose bounds we don’t know) to the complexity that a programming language can accommodate and still remain useable, learnable, comprehensible, fun, etc.  Every time a feature is added or a inconsistency is introduced we use up some of the complexity budget and it can never be recovered. So any such addition limits what do to the language in the future. Each proposed feature needs to be evaluated not just concerning its utility but also whether that utility is worth limiting future language design flexibility.",
+                            "created": "Tue, 14 Jul 2020 15:55:18 GMT"
+                        },
+                        {
+                            "text": "This is something that I worry may have faded as TC39 has grown much larger and participants somewhat more transient.  A person who is representing a company in a standards group is most likely to see a positive effect in their performance reviews if they get things added to the standard rather than for helping control complexity.",
+                            "created": "Tue, 14 Jul 2020 15:55:38 GMT"
+                        },
+                        {
+                            "text": "Of course, committee-made decisions are always going to involve disagreements and compromises.  In my <a href=\"https://dl.acm.org/doi/10.1145/3386327\">JavaScript history paper</a>. I have a short section (21.3.5) where I cover the deliberations that resulted in the inclusion of arrow functions.",
+                            "created": "Tue, 14 Jul 2020 15:56:01 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "<b>DW on not breaking the web</b>",
+                    "created": "Tue, 14 Jul 2020 15:56:26 GMT",
+                    "subs": [
+                        {
+                            "text": "Don't break the web. That's a big one. ",
+                            "created": "Tue, 14 Jul 2020 15:56:45 GMT",
+                            "image": "http://scripting.com/images/2019/02/09/punt.png"
+                        },
+                        {
+                            "text": "That might be the biggest rule of all. For me, all my work really for my whole career has been directed at the web. Not breaking it is the one hope that the work won't have been for naught, as well as the work of millions of other people (of course my work is the most important heh).",
+                            "created": "Tue, 14 Jul 2020 15:56:56 GMT"
+                        },
+                        {
+                            "text": "As you know, Google et al are hell-bent on breaking the web."
+                        },
+                        {
+                            "text": "I wouldn't be surprised if some of the people on your design committee come from companies who agree with Google on breaking the web. So maybe it would be good to have a bigger dialog on what \"Don't break the web\" really means. Of course the people at Google et al have never responded to anything I've written about that. ",
+                            "created": "Tue, 14 Jul 2020 15:57:11 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "<b>AWB on not breaking the web</b>",
+                    "created": "Tue, 14 Jul 2020 15:57:29 GMT",
+                    "subs": [
+                        {
+                            "text": "Most  individuals (even those representing BigCos)  who participant in web standards groups generally buy into \"don't break the web.\"",
+                            "created": "Tue, 14 Jul 2020 15:57:53 GMT"
+                        },
+                        {
+                            "text": "But to some, and in particular some big companies, it means don't break the 100 (or 1000) top web sites rather than don't break web legacy."
+                        },
+                        {
+                            "text": "Also some have higher or lower bars for exceptions to that rule.",
+                            "created": "Tue, 14 Jul 2020 15:58:15 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "<b>DW on the behavior of guests</b>",
+                    "created": "Tue, 14 Jul 2020 15:59:27 GMT",
+                    "subs": [
+                        {
+                            "text": "Thanks Allen for the clarity. I fully agree with all of it. ",
+                            "created": "Tue, 14 Jul 2020 15:59:32 GMT"
+                        },
+                        {
+                            "text": "I have another <a href=\"http://this.how/googleAndHttp/\">motto</a> that I'd love for the standards designers of today to contemplate. ",
+                            "created": "Tue, 14 Jul 2020 16:02:57 GMT",
+                            "subs": [
+                                {
+                                    "text": "<i>BigCo is a guest on the web, as we all are.</i>",
+                                    "created": "Wed, 15 Jul 2020 00:27:39 GMT"
+                                },
+                                {
+                                    "text": "<i>Guests don't make the rules.</i>",
+                                    "created": "Wed, 15 Jul 2020 00:35:06 GMT"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "That imho is the single most important thing about the web. It's a platform with <a href=\"http://scripting.com/davenet/2002/04/04/fourYearsOfXmlrpc.html\">no platform vendor</a>. ",
+                            "created": "Wed, 15 Jul 2020 00:27:54 GMT"
+                        },
+                        {
+                            "text": "Anyone who proposes to work at the center of the tech that implements the web in whatever decade it is should behave as an archeologist, on <a href=\"https://www.mentalfloss.com/article/87459/when-we-go-mars-how-will-we-protect-martian-life-us\">Mars</a>. You have to wear an attitude of non-contamination. The software version of a <a href=\"https://en.wikipedia.org/wiki/Hazmat_suit\">hazmat suit</a>. Any little change could have huge unforseen consequences. The web today is so large and diverse, no one can understand all that it does. Whatever new feature is enabled by what you propose to add is worth a small fraction of what has been built on technology you've never seen or understood, or if you do, would consider arcane. You're free to innovate, but you have to do it in a sandbox you create, with rules you define. The web already has a rule.",
+                            "created": "Tue, 14 Jul 2020 16:00:33 GMT",
+                            "image": "http://scripting.com/images/2019/06/11/strongman.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Project Lincoln",
+            "created": "Tue, 14 Jul 2020 14:20:36 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I just gave $100 to <a href=\"https://lincolnproject.us/\">Project Lincoln</a>.",
+                    "created": "Tue, 14 Jul 2020 14:20:45 GMT"
+                },
+                {
+                    "text": "By this point in 2016 I had already given the max to HRC, but her ads always disappointed me. No inspiration. Seemed machine-designed to hit the demographics. ",
+                    "created": "Wed, 15 Jul 2020 00:36:50 GMT",
+                    "image": "http://scripting.com/images/2019/02/12/boldItalic.png"
+                },
+                {
+                    "text": "Project Lincoln so far has been great entertainment. Good for base-rallying. They can't really get into inspiring visions, given that they are Republicans and won't be in power if the ads work. ",
+                    "created": "Tue, 14 Jul 2020 14:20:53 GMT"
+                },
+                {
+                    "text": "We will have a government problem when Biden wins. His vision will largely be undetermined, it seems to me. And I expect it'll drift. And they've done nothing to organize the post-inauguration campaign. ",
+                    "created": "Tue, 14 Jul 2020 14:27:02 GMT"
+                },
+                {
+                    "text": "So far no political campaign has managed to retain power by keeping the flow of ideas going out 365 days a year, every year, not just once every four. "
+                },
+                {
+                    "text": "Closest has been Trump, but he just has the Twitter account, and there's no imagination to what he says, no inspiration, no ideas, other than pointing to what he's going to destroy next. Talking points from Moscow. I'm not kidding."
+                },
+                {
+                    "text": "There's a vacuum here, still. An online organizing system that wasn't just about raising money, rather building support and keeping it organized all the time",
+                    "created": "Tue, 14 Jul 2020 14:27:41 GMT"
+                },
+                {
+                    "text": "PS: I think they should change their name to Project Lincoln. Because that's their Twitter handle that's how my mind thinks of them at a sub-conscious level. When I see them say it the other way around on their website it burns some braincells. ",
+                    "created": "Tue, 14 Jul 2020 14:27:42 GMT"
+                }
+            ]
+        }
+    ]
+}
