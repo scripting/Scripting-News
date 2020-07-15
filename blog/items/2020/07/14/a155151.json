@@ -1,0 +1,112 @@
+{
+    "text": "Not breaking the web",
+    "created": "Tue, 14 Jul 2020 15:51:51 GMT",
+    "type": "outline",
+    "description": "The web today is so large and diverse, no one can understand all that it does.",
+    "metaImage": "http://scripting.com/images/2020/07/14/crash.png",
+    "subs": [
+        {
+            "text": "My email conversation with Allen Wirfs-Brock took an interesting turn. I had written about <a href=\"http://scripting.com/2020/07/08/131602.html?title=reallySimpleJavascript\">Really Simple JavaScript</a>, an idea that the language would benefit from removing features. A path well-explored <a href=\"http://scripting.com/2020/07/09/161916.html?title=reallySimpleJavascriptDay2\">AWB pointed out</a>.  ",
+            "created": "Tue, 14 Jul 2020 15:51:54 GMT"
+        },
+        {
+            "text": "In my last post I talked about various <a href=\"http://scripting.com/2020/07/11/152423.html?title=reallySimpleJavascriptDay3\">programming mottos</a> that help with the design issues JavaScript has encountered. Then AWB commented about the design slogans that guide the evolution of JavaScript.",
+            "created": "Tue, 14 Jul 2020 16:17:13 GMT"
+        },
+        {
+            "text": "<b>AWB on design slogans</b>",
+            "created": "Tue, 14 Jul 2020 15:53:47 GMT",
+            "subs": [
+                {
+                    "text": "I’m big fan of design slogans. The one we used in <a href=\"https://tc39.es/\">TC39</a> about not breaking things was “Don’t break the web!”  It’s a preservationist perspective.  Much of the human digital heritage of the last 30 years and for the foreseeable future is stored as unmaintained web documents. Every breaking change to a web technology (JS, HTML, etc.) is likely to make part of our heritage permanently inaccessible.",
+                    "created": "Tue, 14 Jul 2020 15:54:35 GMT",
+                    "image": "http://scripting.com/images/2019/06/11/pizza.png"
+                },
+                {
+                    "text": "Another slogan we used frequently while I was active in <a href=\"https://tc39.es/\">TC39</a> was  “consider the complexity budget.”  The idea is that there are  limits (whose bounds we don’t know) to the complexity that a programming language can accommodate and still remain useable, learnable, comprehensible, fun, etc.  Every time a feature is added or a inconsistency is introduced we use up some of the complexity budget and it can never be recovered. So any such addition limits what do to the language in the future. Each proposed feature needs to be evaluated not just concerning its utility but also whether that utility is worth limiting future language design flexibility.",
+                    "created": "Tue, 14 Jul 2020 15:55:18 GMT"
+                },
+                {
+                    "text": "This is something that I worry may have faded as TC39 has grown much larger and participants somewhat more transient.  A person who is representing a company in a standards group is most likely to see a positive effect in their performance reviews if they get things added to the standard rather than for helping control complexity.",
+                    "created": "Tue, 14 Jul 2020 15:55:38 GMT"
+                },
+                {
+                    "text": "Of course, committee-made decisions are always going to involve disagreements and compromises.  In my <a href=\"https://dl.acm.org/doi/10.1145/3386327\">JavaScript history paper</a>. I have a short section (21.3.5) where I cover the deliberations that resulted in the inclusion of arrow functions.",
+                    "created": "Tue, 14 Jul 2020 15:56:01 GMT"
+                }
+            ]
+        },
+        {
+            "text": "<b>DW on not breaking the web</b>",
+            "created": "Tue, 14 Jul 2020 15:56:26 GMT",
+            "subs": [
+                {
+                    "text": "Don't break the web. That's a big one. ",
+                    "created": "Tue, 14 Jul 2020 15:56:45 GMT",
+                    "image": "http://scripting.com/images/2019/02/09/punt.png"
+                },
+                {
+                    "text": "That might be the biggest rule of all. For me, all my work really for my whole career has been directed at the web. Not breaking it is the one hope that the work won't have been for naught, as well as the work of millions of other people (of course my work is the most important heh).",
+                    "created": "Tue, 14 Jul 2020 15:56:56 GMT"
+                },
+                {
+                    "text": "As you know, Google et al are hell-bent on breaking the web."
+                },
+                {
+                    "text": "I wouldn't be surprised if some of the people on your design committee come from companies who agree with Google on breaking the web. So maybe it would be good to have a bigger dialog on what \"Don't break the web\" really means. Of course the people at Google et al have never responded to anything I've written about that. ",
+                    "created": "Tue, 14 Jul 2020 15:57:11 GMT"
+                }
+            ]
+        },
+        {
+            "text": "<b>AWB on not breaking the web</b>",
+            "created": "Tue, 14 Jul 2020 15:57:29 GMT",
+            "subs": [
+                {
+                    "text": "Most  individuals (even those representing BigCos)  who participant in web standards groups generally buy into \"don't break the web.\"",
+                    "created": "Tue, 14 Jul 2020 15:57:53 GMT"
+                },
+                {
+                    "text": "But to some, and in particular some big companies, it means don't break the 100 (or 1000) top web sites rather than don't break web legacy."
+                },
+                {
+                    "text": "Also some have higher or lower bars for exceptions to that rule.",
+                    "created": "Tue, 14 Jul 2020 15:58:15 GMT"
+                }
+            ]
+        },
+        {
+            "text": "<b>DW on the behavior of guests</b>",
+            "created": "Tue, 14 Jul 2020 15:59:27 GMT",
+            "subs": [
+                {
+                    "text": "Thanks Allen for the clarity. I fully agree with all of it. ",
+                    "created": "Tue, 14 Jul 2020 15:59:32 GMT"
+                },
+                {
+                    "text": "I have another <a href=\"http://this.how/googleAndHttp/\">motto</a> that I'd love for the standards designers of today to contemplate. ",
+                    "created": "Tue, 14 Jul 2020 16:02:57 GMT",
+                    "subs": [
+                        {
+                            "text": "<i>BigCo is a guest on the web, as we all are.</i>",
+                            "created": "Wed, 15 Jul 2020 00:27:39 GMT"
+                        },
+                        {
+                            "text": "<i>Guests don't make the rules.</i>",
+                            "created": "Wed, 15 Jul 2020 00:35:06 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "That imho is the single most important thing about the web. It's a platform with <a href=\"http://scripting.com/davenet/2002/04/04/fourYearsOfXmlrpc.html\">no platform vendor</a>. ",
+                    "created": "Wed, 15 Jul 2020 00:27:54 GMT"
+                },
+                {
+                    "text": "Anyone who proposes to work at the center of the tech that implements the web in whatever decade it is should behave as an archeologist, on <a href=\"https://www.mentalfloss.com/article/87459/when-we-go-mars-how-will-we-protect-martian-life-us\">Mars</a>. You have to wear an attitude of non-contamination. The software version of a <a href=\"https://en.wikipedia.org/wiki/Hazmat_suit\">hazmat suit</a>. Any little change could have huge unforseen consequences. The web today is so large and diverse, no one can understand all that it does. Whatever new feature is enabled by what you propose to add is worth a small fraction of what has been built on technology you've never seen or understood, or if you do, would consider arcane. You're free to innovate, but you have to do it in a sandbox you create, with rules you define. The web already has a rule.",
+                    "created": "Tue, 14 Jul 2020 16:00:33 GMT",
+                    "image": "http://scripting.com/images/2019/06/11/strongman.png"
+                }
+            ]
+        }
+    ]
+}
