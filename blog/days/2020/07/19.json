@@ -1,0 +1,160 @@
+{
+    "text": "July 19",
+    "created": "Sun, 19 Jul 2020 14:08:58 GMT",
+    "name": "19",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=YYOKMUTTDdA\">Shiny Happy People</a>. ",
+            "created": "Sun, 19 Jul 2020 14:08:59 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=YYOKMUTTDdA"
+        },
+        {
+            "text": "When did we first get an idea that masks work? This is <a href=\"http://scripting.com/2020/03/30.html#a143207\">when</a> I got the message. March 30. <a href=\"https://www.youtube.com/watch?v=jZtEX2-n2Hc\">Watch the video</a>. I got <a href=\"http://scripting.com/2020/03/31/004710.html?title=putASmileOnIt\">my mask</a> on the 31st. Imagine if we had all listened. How many people would be healthy who are sick. How many people would be alive, who are now dead.",
+            "created": "Sun, 19 Jul 2020 16:59:57 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=jZtEX2-n2Hc"
+        },
+        {
+            "text": "People debate whether there is such a thing as \"cancel culture.\" I don't think there's much debate that <a href=\"https://en.wikipedia.org/wiki/Al_Franken#Aftermath\">Al Franken</a> got canceled. <a href=\"http://scripting.com/2020/07/18.html#a135951\">Woody Allen</a>. You could debate whether they deserved what they got, but not really that they got it. ",
+            "created": "Sun, 19 Jul 2020 16:54:09 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/09/09/gru.png"
+        },
+        {
+            "text": "The tech industry is like <a href=\"https://en.wikipedia.org/wiki/List_of_largest_selling_pharmaceutical_products\">pharma</a>, they only make products that have huge financial upside. That means there are lots of drugs for cancer, arthritis, high blood pressure, diabetes, chronic diseases, ones that might not kill you right off, but require lifetime use. This is like virality and lock-in in tech. Tools that don't bring in other users, or get you addicted can't make a ton of money. They might be worthwhile though, they might help someone figure something out that saves humanity, for example. ",
+            "created": "Sun, 19 Jul 2020 14:43:06 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "The reason came to me in a dream. The politicians and their masters aren’t saving our lives because there’s no money in it for them. But pharma sees big bucks in a vaccine and even more in a treatment. I hear the vaccine might require a booster every few months. They must love that. Every human on the planet would need it. Think of the enormous cash flow for the holder of that patent. ",
+            "created": "Sun, 19 Jul 2020 14:47:16 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I went back to <a href=\"https://www.wisc.edu/\">UW-Madison</a> for a visit a few years ago and got a tour of a <a href=\"https://discovery.wisc.edu/\">new building</a> created to generate <a href=\"https://news.wisc.edu/tag/patents/\">patents</a>. But it didn't appear it was used for much. Extravagant and luxurious. Very unlike a typical utilitarian campus building at a large state school. I learned they built it to recruit a professor who generated billions from patents, and I guess they felt was likely to continue to do so. The money apparently flows to the university, but the professor gets to work in a <a href=\"https://en.wikipedia.org/wiki/Taj_Mahal\">Taj Mahal</a> of campus buildings. Not sure. But it was <i>very</i> impressive, and surprising. ",
+            "created": "Sun, 19 Jul 2020 14:51:54 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "If you read this blog you should also follow <a href=\"https://twitter.com/davewiner\">me</a> on Twitter. People say Twitter is bad, and of course they're right, but it's also good. It's an integral part of how I write this blog. Of course the really important stuff shows up here too. And I would like a Twitter that was just for my friends. And I think that'll happen too. :boom:",
+            "created": "Sun, 19 Jul 2020 14:15:02 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Meddling is not the right word for an <a href=\"http://scripting.com/2020/07/18.html#a141702\">act</a> of war.",
+            "created": "Sun, 19 Jul 2020 15:05:26 GMT",
+            "type": "outline",
+            "inlineImage": "http://scripting.com/images/2020/07/19/meddling.png"
+        },
+        {
+            "text": "A new coding construct?",
+            "created": "Sun, 19 Jul 2020 15:15:08 GMT",
+            "type": "outline",
+            "description": "I like words that mean something when I read them, both in human language and programming language.",
+            "metaImage": "http://scripting.com/images/2020/07/19/help.png",
+            "subs": [
+                {
+                    "text": "<i>This is a language design question, not a coding question.</i>",
+                    "created": "Sun, 19 Jul 2020 16:48:47 GMT"
+                },
+                {
+                    "text": "This bit of code comes up all the time.",
+                    "created": "Sun, 19 Jul 2020 15:15:27 GMT",
+                    "flCodeSubs": "true",
+                    "subs": [
+                        {
+                            "text": "if (callback !== undefined) {",
+                            "created": "Sun, 19 Jul 2020 15:15:33 GMT",
+                            "subs": [
+                                {
+                                    "text": "callback ();",
+                                    "created": "Sun, 19 Jul 2020 15:16:51 GMT"
+                                },
+                                {
+                                    "text": "}"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "It would be interesting to try to come up with a clean way to say that so it would still be obvious what's happening, but would save you from having to check it so often.",
+                    "created": "Sun, 19 Jul 2020 15:15:40 GMT"
+                },
+                {
+                    "text": "Basically I want to call the callback if the caller specified one, otherwise, do nothing. ",
+                    "created": "Sun, 19 Jul 2020 15:17:34 GMT"
+                },
+                {
+                    "text": "Just putting that out there, not offering a solution to the puzzle. ",
+                    "created": "Sun, 19 Jul 2020 15:17:59 GMT"
+                },
+                {
+                    "text": "<i><b>Later...</b></i>",
+                    "created": "Sun, 19 Jul 2020 20:36:24 GMT"
+                },
+                {
+                    "text": "How about this syntax",
+                    "created": "Sun, 19 Jul 2020 20:37:31 GMT",
+                    "flCodeSubs": "true",
+                    "subs": [
+                        {
+                            "text": "if possible callback ();",
+                            "created": "Sun, 19 Jul 2020 20:37:31 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "Where <i>possible</i> might be a new keyword that's something like a <i>try</i> but not as serious. In other words, don't get upset if this doesn't work. On the other hand, it's not much more concise than the original expression, and it doesn't say anything about what you expect not to work about it. Really for anything other than <i>undefined</i> I probably want an error to be thrown so I can find the problem and fix it. ",
+                    "created": "Sun, 19 Jul 2020 20:38:12 GMT"
+                },
+                {
+                    "text": "I'm not an Applescript type person, I think programming can't be a spoken language, but I also don't go so far as to say programming is like linear algebra or differential calculus (both of which I took in college). I like words that mean something when I read them, both in human language and programming language.",
+                    "created": "Sun, 19 Jul 2020 20:39:58 GMT"
+                },
+                {
+                    "text": "Another random thought, not a big fan of using <i>let</i> as a new kind of declaration. I imagine they chose it because that's what BASIC used, but why would a nice Algol-like language use BASIC as prior art. I actually like how we did it in Frontier:",
+                    "created": "Sun, 19 Jul 2020 20:40:41 GMT",
+                    "flCodeSubs": "true",
+                    "subs": [
+                        {
+                            "text": "fileloop (f in \"tmp/\")",
+                            "created": "Sun, 19 Jul 2020 20:41:38 GMT",
+                            "subs": [
+                                {
+                                    "text": "local (fname = file.fileFromPath (f))",
+                                    "created": "Sun, 19 Jul 2020 20:41:54 GMT"
+                                },
+                                {
+                                    "text": "file.rename (f, string.upper (fname))",
+                                    "created": "Sun, 19 Jul 2020 20:42:03 GMT"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "fname is only accessible in the body of fileloop. ",
+                    "created": "Sun, 19 Jul 2020 20:42:17 GMT"
+                },
+                {
+                    "text": "<i>local</i> is the keyword for declaration. It says fname is declared here, in this scope, and it is only accessible here.  I think it does a better job of explaining itself than <i>let. </i>",
+                    "created": "Sun, 19 Jul 2020 20:45:41 GMT"
+                },
+                {
+                    "text": "<i>Even later...</i>",
+                    "created": "Sun, 19 Jul 2020 21:34:58 GMT"
+                },
+                {
+                    "text": "Allen Wirfs-Brock suggested via email, that JavaScript already has this feature, he sent a link to the docs, and I couldn't make heads or tails of it. I said how the hell do you pronounce that? That's where the comment about linear algebra and differential equations came from, above.  ",
+                    "created": "Sun, 19 Jul 2020 21:35:01 GMT"
+                },
+                {
+                    "text": "Well he started a <a href=\"https://twitter.com/awbjs/status/1284945363531493376\">thread</a> on Twitter asking how people pronounce this feature that as far as I can tell does not have a name? It's an instant classic of course. ",
+                    "created": "Sun, 19 Jul 2020 21:36:04 GMT"
+                }
+            ]
+        }
+    ]
+}
