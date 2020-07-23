@@ -1,0 +1,85 @@
+{
+    "text": "Object initializers in ES6",
+    "created": "Wed, 22 Jul 2020 13:23:41 GMT",
+    "type": "outline",
+    "description": "A welcome simplification in the latest JavaScript.",
+    "subs": [
+        {
+            "text": "A situation that comes up a lot in my <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+javascript&t=hk&ia=web\">JavaScript</a> code: ",
+            "created": "Wed, 22 Jul 2020 13:26:25 GMT",
+            "flCodeSubs": "true",
+            "subs": [
+                {
+                    "text": "var tvShow = {",
+                    "created": "Wed, 22 Jul 2020 13:27:29 GMT",
+                    "subs": [
+                        {
+                            "text": "id: id,",
+                            "created": "Wed, 22 Jul 2020 13:27:40 GMT"
+                        },
+                        {
+                            "text": "title: title,",
+                            "created": "Wed, 22 Jul 2020 13:27:47 GMT"
+                        },
+                        {
+                            "text": "network: network",
+                            "created": "Wed, 22 Jul 2020 13:28:02 GMT"
+                        },
+                        {
+                            "text": "}",
+                            "created": "Wed, 22 Jul 2020 13:28:09 GMT"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "As you type it you think geez there's got to be a better way, and in the <a href=\"https://www.w3schools.com/js/js_es6.asp\">new version</a> of JavaScript, there is.   ",
+            "created": "Wed, 22 Jul 2020 13:28:12 GMT",
+            "flCodeSubs": "true",
+            "subs": [
+                {
+                    "text": "var tvShow = {",
+                    "created": "Wed, 22 Jul 2020 13:27:29 GMT",
+                    "subs": [
+                        {
+                            "text": "id,",
+                            "created": "Wed, 22 Jul 2020 13:27:40 GMT"
+                        },
+                        {
+                            "text": "title,",
+                            "created": "Wed, 22 Jul 2020 13:27:47 GMT"
+                        },
+                        {
+                            "text": "network",
+                            "created": "Wed, 22 Jul 2020 13:28:02 GMT"
+                        },
+                        {
+                            "text": "}",
+                            "created": "Wed, 22 Jul 2020 13:28:09 GMT"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Since usually the only thing you're going to do is pass it off to a subroutine to save it in a file or database, you could do it this way:",
+            "created": "Wed, 22 Jul 2020 13:29:35 GMT",
+            "flCodeSubs": "true",
+            "subs": [
+                {
+                    "text": "saveShow ({id, title, network});",
+                    "created": "Wed, 22 Jul 2020 13:30:14 GMT"
+                }
+            ]
+        },
+        {
+            "text": "In the old more cumbersome notation you probably wouldn't do this, but now I find I do, esp if there is only one property to initialize. ",
+            "created": "Wed, 22 Jul 2020 13:30:57 GMT"
+        },
+        {
+            "text": "I guess the bottom line is I <a href=\"http://scripting.com/2020/07/22.html#a134842\">don't mind</a> two ways to do something if the new way is a simplified version of the old way. ",
+            "created": "Wed, 22 Jul 2020 13:31:41 GMT"
+        }
+    ]
+}
