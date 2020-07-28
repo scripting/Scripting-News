@@ -3,9 +3,10 @@
 	<head>
 		<title>My Podcast Feeds</title>
 		<dateCreated>Mon, 06 Apr 2015 16:19:35 GMT</dateCreated>
-		<dateModified>Sat, 04 Apr 2020 19:54:12 GMT</dateModified>
+		<dateModified>Mon, 27 Jul 2020 14:12:26 GMT</dateModified>
 		</head>
 	<body>
+		<outline text="Joe Trippi" title="Joe Trippi" type="rss" xmlUrl="https://feeds.megaphone.fm/trippishow" />
 		<outline text="99% Invisible" title="99% Invisible" type="rss" xmlUrl="http://feeds.99percentinvisible.org/99percentinvisible" />
 		<outline text="a16z" title="a16z" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:62921190/sounds.rss" />
 		<outline text="Accidental Technology" title="Accidental Technology" type="rss" xmlUrl="http://atp.fm/episodes?format=rss" />
