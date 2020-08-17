@@ -1,0 +1,91 @@
+{
+    "text": "August 16",
+    "created": "Sun, 16 Aug 2020 15:12:16 GMT",
+    "name": "16",
+    "subs": [
+        {
+            "text": "An emergency <a href=\"https://www.inquirer.com/opinion/commentary/trump-mailboxes-sorters-usps-2020-election-louis-dejoy-20200816.html\">must-read piece</a>. 59% of Joe Biden’s supporters currently plan to vote by mail, while the comparable number for Trump backers is only 18%. Can't wait for the election. Trump's plan to steal the election <i>will work.</i> First, do not vote by mail. Do not vote by mail. Not sure what you should do if you live in a state like Utah, Washington or Oregon where vote-by-mail is all you can do. Second, Congress has to come back. We must protest in the streets. Esp in <a href=\"https://twitter.com/KolbieReports/status/1294615470004469760\">DC</a>. They must feel our ire. Now, not in November. That will, for sure, be too late. ",
+            "created": "Sun, 16 Aug 2020 19:47:46 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/03/08/uncleSam.png"
+        },
+        {
+            "text": "A couple of things they changed in the iPhone UI, not sure how recently. To get the app switcher to come up, double-tap the home button. To take a screen shot, click the power button and the home button simultaneously. I will never remember these, but at least I will be able to find them on scripting.com. The problem with the way Apple changes this stuff, when you search for it, you find the old method. To get the new method you have to have as many followers as I do on Twitter. This is a bullshit way to run a platform, Apple. ",
+            "created": "Sun, 16 Aug 2020 19:53:01 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "\"There are no monsters in the sea, only the ones we make up in our heads.\"",
+            "created": "Sun, 16 Aug 2020 16:43:44 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/AliciaSilv/status/1293994798878138368",
+            "image": "http://scripting.com/images/2020/01/17/bagel.png"
+        },
+        {
+            "text": "I had a little dinner party at my house in the country last night. People do this here. But not in the time of Covid. I haven't had a gathering at my house since last winter, but last night we chanced it. These are lovely people who I speak with them frequently online, but it was so much better to eat and imbibe in person, outside, under the stars. With the animals and bugs. Ideas flowed. We made new jokes, new memes. I promised to do things that I have since forgotten. What I will never forget is how much I enjoyed their company.",
+            "created": "Sun, 16 Aug 2020 15:12:17 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "One thing I think we agreed on last night is that people who support Trump do so because he tells them what they want to hear. The truth doesn't enter into it. ",
+            "created": "Sun, 16 Aug 2020 15:22:10 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "BingeWorthy 2",
+            "created": "Sun, 16 Aug 2020 15:58:47 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2020/08/16/odometerRollover.png",
+            "description": "Let's find out which TV series are the best to binge.",
+            "subs": [
+                {
+                    "text": "I just flipped the switch, now the  new version of <a href=\"http://bingeworthy.io/tv/\">BingeWorthy for TV</a> has replaced the previous version. I think it's reliable enough to use going forward. ",
+                    "created": "Sun, 16 Aug 2020 15:58:52 GMT"
+                },
+                {
+                    "text": "If you had an account on the original BingeWorthy, you should have one here as well. Most of what you did on the old BW has been ported to the new one, automatically. ",
+                    "created": "Sun, 16 Aug 2020 16:05:20 GMT"
+                },
+                {
+                    "text": "Notes on the new version. ",
+                    "created": "Sun, 16 Aug 2020 15:59:28 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Your prefs start over. So you should visit Settings, in the system menu, the one you use to log in via Twitter, at the right edge of the menu bar.",
+                            "created": "Sun, 16 Aug 2020 16:00:06 GMT"
+                        },
+                        {
+                            "text": "Also, any ratings added in the previous version after August 5 are <i>not</i> preserved. That's when I ported the data.  ",
+                            "created": "Sun, 16 Aug 2020 16:19:04 GMT"
+                        },
+                        {
+                            "text": "There is no concept of a private profile in this version. Your ratings are public. So people can walk a web of programs and people, as a way to look for new programs to binge, as well as finding people with similar tastes. Another form of serendipity. Finding out a close friend hates a program you think the best.",
+                            "created": "Sun, 16 Aug 2020 16:00:40 GMT"
+                        },
+                        {
+                            "text": "You can share anything you can see, and most of it can be read without logging in. For example, here are <a href=\"http://bingeworthy.io/tv/?screenname=davewiner\">my ratings</a>. And here's the page for <a href=\"http://bingeworthy.io/tv/?id=https%3A%2F%2Fwww.metacritic.com%2Ftv%2Fthe-sopranos\">The Sopranos</a>. You can do a lot of surfing from those two links, wtihout logging in. You must log in to do your own ratings, of course. ",
+                            "created": "Sun, 16 Aug 2020 16:02:15 GMT"
+                        },
+                        {
+                            "text": "You can add programs to the database without my approval. This is a huge deal, because it's what kept the first BW from growing. People would recommend programs I knew nothing about. Which meant I had to discuss each one, and that grew really tiresome. After a while I stopped looking at the suggestions, realizing it was a deal-stopper for the product. First you have to find a page for the show on Metacritic. Then paste the URL of the page into a dialog in BingeWorthy. Look in the menu for <i>Submit a program.</i>",
+                            "created": "Sun, 16 Aug 2020 16:02:22 GMT"
+                        },
+                        {
+                            "text": "I've learned a lot about programming SQL since doing the fit BingeWorthy, so I have been able to streamline the server, factoring, producing a new package, <a href=\"https://www.npmjs.com/package/davesql\">davesql</a>, which anyone can use, and it'll make other projects I have that use SQL easier to upgrade and maintain. The two major ones are River6 and feedBase. I plan to revisit each of those products after BingeWorthy settles down. ",
+                            "created": "Sun, 16 Aug 2020 16:03:29 GMT"
+                        },
+                        {
+                            "text": "The Docs for now are in the <a href=\"https://github.com/scripting/Scripting-News/issues/184\">GitHub thread</a> we've used for support. Ask questions there, report bugs. Eventually I'll rewrite the official docs, and put that on this.how, and point to that instead. Consider this version beta, the product is almost done, but we're watching for problems, and expect to find them.",
+                            "created": "Sun, 16 Aug 2020 16:05:26 GMT"
+                        },
+                        {
+                            "text": "The version number is 2.0.0. Like an odometer rolling over. :rocket:",
+                            "created": "Sun, 16 Aug 2020 16:24:42 GMT"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
