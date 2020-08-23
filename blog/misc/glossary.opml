@@ -3,17 +3,17 @@
 	<head>
 		<title>Glossary</title>
 		<dateCreated>Tue, 13 Jun 2017 13:42:31 GMT</dateCreated>
-		<dateModified>Wed, 12 Aug 2020 14:00:55 GMT</dateModified>
+		<dateModified>Sat, 22 Aug 2020 13:40:24 GMT</dateModified>
 		<ownerName>Dave</ownerName>
 		<ownerId>https://twitter.com/davewiner/</ownerId>
-		<expansionState>1,6,12,30,55,66,69,77,91,97,104,106,108,110,112,117</expansionState>
+		<expansionState>1,6,12,30,38,57,68,71,79,93,99,106,108,110,112,114,119</expansionState>
 		<vertScrollState>1</vertScrollState>
 		<windowTop>631</windowTop>
 		<windowLeft>1087</windowLeft>
 		<windowBottom>831</windowBottom>
 		<windowRight>1472</windowRight>
 		<flPublic>true</flPublic>
-		<lastCursor>107</lastCursor>
+		<lastCursor>37</lastCursor>
 		<ownerTwitterScreenName>davewiner</ownerTwitterScreenName>
 		<urlPublic>http://electricserver.scripting.com/users/davewiner/electric/glossary.opml</urlPublic>
 		<urlJson>http://electricserver.scripting.com/users/davewiner/electric/glossary.json</urlJson>
@@ -121,6 +121,9 @@
 			</outline>
 		<outline text="&quot;isoj&quot;" created="Thu, 21 Feb 2019 17:37:32 GMT">
 			<outline text="&lt;a href=&quot;http://isoj.org/&quot;&gt;ISOJ&lt;/a&gt;" created="Thu, 21 Feb 2019 17:37:35 GMT"/>
+			</outline>
+		<outline text="&quot;it is what it is&quot;" created="Sat, 22 Aug 2020 13:39:44 GMT">
+			<outline text="&lt;a href=&quot;https://duckduckgo.com/?q=site%3Ascripting.com+%22it+is+what+it+is%22&amp;t=hx&amp;ia=web&quot;&gt;it is what it is&lt;/a&gt;" created="Sat, 22 Aug 2020 13:39:51 GMT"/>
 			</outline>
 		<outline text="&quot;JLG&quot;" created="Mon, 26 Aug 2019 18:42:11 GMT">
 			<outline text="&lt;a href=&quot;https://en.wikipedia.org/wiki/Jean-Louis_Gass%C3%A9e&quot;&gt;Jean-Louis Gassée&lt;/a&gt; " created="Mon, 26 Aug 2019 18:42:17 GMT"/>
