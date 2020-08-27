@@ -3,17 +3,17 @@
 	<head>
 		<title>Glossary</title>
 		<dateCreated>Tue, 13 Jun 2017 13:42:31 GMT</dateCreated>
-		<dateModified>Tue, 25 Aug 2020 15:20:13 GMT</dateModified>
+		<dateModified>Wed, 26 Aug 2020 23:24:05 GMT</dateModified>
 		<ownerName>Dave</ownerName>
 		<ownerId>https://twitter.com/davewiner/</ownerId>
-		<expansionState>1,6,12,30,38,57,68,71,79,93,99,106,108,110,112,114,119</expansionState>
+		<expansionState>1,5,8,14,32,40,59,70,73,81,95,101,108,110,112,114,116,121</expansionState>
 		<vertScrollState>1</vertScrollState>
 		<windowTop>631</windowTop>
 		<windowLeft>1087</windowLeft>
 		<windowBottom>831</windowBottom>
 		<windowRight>1472</windowRight>
 		<flPublic>true</flPublic>
-		<lastCursor>24</lastCursor>
+		<lastCursor>5</lastCursor>
 		<ownerTwitterScreenName>davewiner</ownerTwitterScreenName>
 		<urlPublic>http://electricserver.scripting.com/users/davewiner/electric/glossary.opml</urlPublic>
 		<urlJson>http://electricserver.scripting.com/users/davewiner/electric/glossary.json</urlJson>
@@ -31,6 +31,9 @@
 			</outline>
 		<outline text="&quot;Art Show&quot;" created="Mon, 02 Jul 2018 14:47:21 GMT">
 			<outline text="&lt;a href=&quot;http://artshow.scripting.com/&quot;&gt;Art Show&lt;/a&gt;" created="Mon, 02 Jul 2018 14:47:25 GMT"/>
+			</outline>
+		<outline text="&quot;Clubhouse&quot;" created="Wed, 26 Aug 2020 23:23:31 GMT">
+			<outline text="&lt;a href=&quot;https://twitter.com/joinClubhouse&quot;&gt;Clubhouse&lt;/a&gt;" created="Wed, 26 Aug 2020 23:23:35 GMT"/>
 			</outline>
 		<outline text="&quot;bingeworthy&quot;" created="Tue, 14 Nov 2017 15:38:03 GMT">
 			<outline text="&lt;a href=&quot;http://bingeworthy.io/&quot;&gt;BingeWorthy&lt;/a&gt;" created="Tue, 14 Nov 2017 15:38:06 GMT"/>
