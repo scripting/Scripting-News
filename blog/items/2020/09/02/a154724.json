@@ -1,0 +1,27 @@
+{
+    "text": "Macros in Old School",
+    "created": "Wed, 02 Sep 2020 15:47:24 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I have a new <i>macros</i> feature in [%search: Old School%], the Node app I use to build the pages out of the outline I use to edit this blog. Every blogging system needs macros. We had them in Manila and Radio UserLand. I probably had them in AutoWeb and Clay Basket too. I haven't put them in Old School, wanting to wait to see how the software evolved without them",
+            "created": "Wed, 02 Sep 2020 16:19:27 GMT"
+        },
+        {
+            "text": "Old School already has a glossary. You give it a string and a value that is substituted when the string occurs in the text. Today's machines are infinitely fast at that kind of thing, so it's not a burden to make the list of substitutions longer. It makes linking easier, and more consistent. Here's the <a href=\"http://electricserver.scripting.com/users/davewiner/electric/glossary.opml\">OPML source</a> for the glossary I maintain. ",
+            "created": "Wed, 02 Sep 2020 16:21:13 GMT"
+        },
+        {
+            "text": "But what happens when you want to link to a search for a term on this blog. Like here are all the references on scripting.com for [%search: Dr Nick%]. Not something I'd likely put in the glossary because it's not a term I'd use a lot in my writing. But product names like Old School are a good candidate for glossarification.",
+            "created": "Wed, 02 Sep 2020 16:24:37 GMT"
+        },
+        {
+            "text": "This is the syntax: &#91;%search: Dr Nick%]. ",
+            "created": "Wed, 02 Sep 2020 16:27:45 GMT"
+        },
+        {
+            "text": "Right now I'm the only one who can use it. ;-) ",
+            "created": "Wed, 02 Sep 2020 16:29:22 GMT"
+        }
+    ]
+}
