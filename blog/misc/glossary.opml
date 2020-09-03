@@ -3,17 +3,17 @@
 	<head>
 		<title>Glossary</title>
 		<dateCreated>Tue, 13 Jun 2017 13:42:31 GMT</dateCreated>
-		<dateModified>Wed, 26 Aug 2020 23:24:05 GMT</dateModified>
-		<ownerName>Dave</ownerName>
+		<dateModified>Wed, 02 Sep 2020 18:28:24 GMT</dateModified>
+		<ownerName>Dave Winer</ownerName>
 		<ownerId>https://twitter.com/davewiner/</ownerId>
-		<expansionState>1,5,8,14,32,40,59,70,73,81,95,101,108,110,112,114,116,121</expansionState>
+		<expansionState>1,6,8,13,15,33,41,60,68,71,73,75,78,86,100,106,113,115,117,119,121,126</expansionState>
 		<vertScrollState>1</vertScrollState>
 		<windowTop>631</windowTop>
 		<windowLeft>1087</windowLeft>
 		<windowBottom>831</windowBottom>
 		<windowRight>1472</windowRight>
 		<flPublic>true</flPublic>
-		<lastCursor>5</lastCursor>
+		<lastCursor>7</lastCursor>
 		<ownerTwitterScreenName>davewiner</ownerTwitterScreenName>
 		<urlPublic>http://electricserver.scripting.com/users/davewiner/electric/glossary.opml</urlPublic>
 		<urlJson>http://electricserver.scripting.com/users/davewiner/electric/glossary.json</urlJson>
@@ -32,9 +32,6 @@
 		<outline text="&quot;Art Show&quot;" created="Mon, 02 Jul 2018 14:47:21 GMT">
 			<outline text="&lt;a href=&quot;http://artshow.scripting.com/&quot;&gt;Art Show&lt;/a&gt;" created="Mon, 02 Jul 2018 14:47:25 GMT"/>
 			</outline>
-		<outline text="&quot;Clubhouse&quot;" created="Wed, 26 Aug 2020 23:23:31 GMT">
-			<outline text="&lt;a href=&quot;https://twitter.com/joinClubhouse&quot;&gt;Clubhouse&lt;/a&gt;" created="Wed, 26 Aug 2020 23:23:35 GMT"/>
-			</outline>
 		<outline text="&quot;bingeworthy&quot;" created="Tue, 14 Nov 2017 15:38:03 GMT">
 			<outline text="&lt;a href=&quot;http://bingeworthy.io/&quot;&gt;BingeWorthy&lt;/a&gt;" created="Tue, 14 Nov 2017 15:38:06 GMT"/>
 			</outline>
@@ -42,7 +39,7 @@
 			<outline text="&lt;a href=&quot;http://this.how/blackLivesMatter/&quot;&gt;Black Lives Matter&lt;/a&gt;" created="Fri, 03 Jul 2020 15:42:33 GMT"/>
 			</outline>
 		<outline text="&quot;bloggercon&quot;" created="Tue, 13 Feb 2018 16:36:01 GMT">
-			<outline text="&lt;a href=&quot;http://bloggercon.scripting.com/&quot;&gt;BloggerCon&lt;/a&gt;" created="Tue, 13 Feb 2018 16:36:04 GMT"/>
+			<outline text="&lt;a href=&quot;http://bloggercon.scripting.com/iv/format.html&quot;&gt;BloggerCon&lt;/a&gt;" created="Tue, 13 Feb 2018 16:36:04 GMT"/>
 			</outline>
 		<outline text="&quot;bootswatch&quot;" created="Wed, 09 May 2018 16:00:00 GMT">
 			<outline text="&lt;a href=&quot;http://bootswatch.com/&quot;&gt;Bootswatch&lt;/a&gt;"/>
@@ -52,6 +49,9 @@
 			</outline>
 		<outline text="&quot;cheesecake&quot;" created="Tue, 14 Nov 2017 15:38:02 GMT">
 			<outline text="&lt;a href=&quot;http://en.wikipedia.org/wiki/Cheesecake&quot;&gt;&lt;img src=&quot;http://scripting.com/images/2012/05/30/cheesecake.gif&quot; width=&quot;50&quot; height=&quot;42&quot; border=&quot;0&quot; alt=&quot;A picture of a slice of cheese cake.&quot;&gt;&lt;/a&gt;"/>
+			</outline>
+		<outline text="&quot;Clubhouse&quot;" created="Wed, 26 Aug 2020 23:23:31 GMT">
+			<outline text="&lt;a href=&quot;https://twitter.com/joinClubhouse&quot;&gt;Clubhouse&lt;/a&gt;" created="Wed, 26 Aug 2020 23:23:35 GMT"/>
 			</outline>
 		<outline text="&quot;Covid-19&quot;" created="Thu, 19 Mar 2020 16:07:38 GMT">
 			<outline text="&lt;a href=&quot;https://en.wikipedia.org/wiki/Coronavirus_disease_2019&quot;&gt;Covid-19&lt;/a&gt;" created="Thu, 19 Mar 2020 16:07:40 GMT"/>
@@ -200,13 +200,16 @@
 		<outline text="&quot;Occam's News&quot;" created="Thu, 29 Aug 2019 14:06:13 GMT">
 			<outline text="&lt;a href=&quot;https://www.google.com/search?q=site%3Ascripting.com+Occam%27s+News&quot;&gt;Occam's News&lt;/a&gt;" created="Thu, 29 Aug 2019 14:06:19 GMT"/>
 			</outline>
+		<outline text="&quot;old school&quot;" created="Wed, 02 Sep 2020 16:31:52 GMT">
+			<outline text="&lt;a href=&quot;http://scripting.com/2019/06/02/150411.html&quot;&gt;Old School&lt;/a&gt;" created="Wed, 02 Sep 2020 16:31:55 GMT"/>
+			</outline>
 		<outline text="&quot;only steal from the best&quot;">
 			<outline text="&lt;a href=&quot;http://scripting.com/stories/2011/09/09/onlyStealFromTheBest.html&quot;&gt;only steal from the best&lt;/a&gt;"/>
 			</outline>
 		<outline text="&quot;OPML Editor&quot;" created="Mon, 27 Aug 2018 16:53:14 GMT">
 			<outline text="&lt;a href=&quot;http://home.opml.org/&quot;&gt;OPML Editor&lt;/a&gt;" created="Mon, 27 Aug 2018 16:53:19 GMT"/>
 			</outline>
-		<outline text="&quot;OPML Editor&quot;">
+		<outline text="&quot;OPML Editor&quot;" created="Wed, 02 Sep 2020 16:32:43 GMT">
 			<outline text="&lt;a href=&quot;http://home.opml.org/&quot;&gt;OPML Editor&lt;/a&gt;"/>
 			</outline>
 		<outline text="&quot;OPML&quot;" created="Sun, 04 Aug 2019 20:09:10 GMT">
