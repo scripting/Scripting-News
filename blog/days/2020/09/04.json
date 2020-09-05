@@ -1,0 +1,65 @@
+{
+    "text": "September 4",
+    "created": "Fri, 04 Sep 2020 14:30:49 GMT",
+    "name": "04",
+    "subs": [
+        {
+            "text": "I'm sure almost everything I do would make Trump think I'm a <a href=\"https://www.theatlantic.com/politics/archive/2020/09/trump-americans-who-died-at-war-are-losers-and-suckers/615997/\">sucker</a>. To his question, I like to help others. That's what's in it for me. I don't envy anyone who lives only for himself. As you get older, and there's not much life remaining. When you already have enough material wealth, there really can only be satisfaction in helping other, mostly younger, people get more out of their lives. Trump is 74 years old and you can see his health is slipping. Not much time left. He already has more money than he can possibly <a href=\"http://scripting.com/davenet/2000/10/19/transcendentalMoney.html\">spend</a> in 1000 lifetimes. There's no point in making more. He's not making anyone's life better, quite the opposite. There's still a little time left for him to find his way. Or at least get out of the way.",
+            "created": "Fri, 04 Sep 2020 15:34:48 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/09/04/trumpCartoon.png"
+        },
+        {
+            "text": "Trump thinks soldiers are suckers, what about cops?",
+            "created": "Sat, 05 Sep 2020 00:22:58 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "How much <a href=\"http://scripting.com/davenet/2000/10/19/transcendentalMoney.html\">money do you need</a> to feel secure? It's a trick question.",
+            "created": "Fri, 04 Sep 2020 16:19:05 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I'm almost done with the FX series <a href=\"http://bingeworthy.io/tv/?id=https%3A%2F%2Fwww.metacritic.com%2Ftv%2Fdevs\">Devs</a>. Slow start, but it picks up toward the end. Now that I'm in the second to last episode I can't wait to find out what happens next. ",
+            "created": "Fri, 04 Sep 2020 19:42:56 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://podcasts.apple.com/us/podcast/stuart-stevens-how-gop-got-here-red-mirage-wisconsin/id1523896927\">This week's Trippi podcast</a> is fascinating. Guest is Republican strategist and <a href=\"https://lincolnproject.us/\">Lincoln Project</a> founder <a href=\"https://en.wikipedia.org/wiki/Stuart_Stevens\">Stuart Stevens</a>. Great to hear the A-B comparison now they're both on the same side, with Biden. <a href=\"https://en.wikipedia.org/wiki/Joe_Trippi\">Trippi</a> is a fantastic interviewer, I always wonder why he doesn't run for office himself. :rocket:",
+            "created": "Fri, 04 Sep 2020 19:37:08 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/09/01/bidenHarris.png"
+        },
+        {
+            "text": "People forget when they say that DJ Trump will declare victory on election night that he doesn't get to say that, it's the network statisticians who call elections. They know when enough votes have been counted, and I don't think too many people will believe Trump if none of them agree.",
+            "created": "Fri, 04 Sep 2020 20:17:28 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "BTW, when I was a kid growing up in NYC I had a lot of close calls with NYPD. I never worried about them killing me. It never occurred to me. They were mostly  pranks. That's the kind of kid I was and who I hung out with. But we did have a couple of student strikes. We also had a run-in with the <a href=\"http://scripting.com/stories/2011/04/15/letsBuildANewInternetInAca.html#p6233\">teachers union</a>. They totally beat the crap out of us, politically. We were stupid. When they said they wanted to help, we believed them. ",
+            "created": "Fri, 04 Sep 2020 19:52:22 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Thinking about what it would take to turn JavaScript into a simple-enough scripting language. I wouldn't change anything but the syntax for functions that require callbacks. I think that's the only thing that keeps it from being for system scripting, for simple one-off scripts that automate things you do a lot by hand. ",
+            "created": "Fri, 04 Sep 2020 15:02:34 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "A longtime <a href=\"https://en.wikipedia.org/wiki/Guy_Kawasaki\">friend</a> uses Mailchimp to send a periodic newsletter. They have a feature that allows the author to re-send the mail to people who haven't opened it. Here's the <a href=\"https://mailchimp.com/help/resend-an-unopened-campaign/\">writeup</a>. They don't say how they know it wasn't opened. I was under the impression that mail apps prevent this kind of invasive behavior. People used to use one-pixel images with search params, but I think the email apps now copy the image and replace it in the HTML, to prevent the sender from knowing. So I told my friend I don't think it's possible. Pretty sure that's right, but I guess it depends on the app you use for email. I use GMail. I think these days enough people use GMail to make the Mailchimp feature useless. BTW, I did open the first email, and it treated me as if I hadn't. More evidence that the feature doesn't really work. If you have insight, please <a href=\"https://twitter.com/davewiner/status/1301930952151764992\">comment</a>. ",
+            "created": "Fri, 04 Sep 2020 17:05:34 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/09/04/mailChimp.png"
+        },
+        {
+            "text": "Hmm according to this <a href=\"https://www.theverge.com/2019/7/3/20680903/email-pixel-trackers-how-to-stop-images-automatic-download\">Verge article</a> the feature is not disabled in GMail by default. I checked my settings in GMail, and I have it enabled, so the puzzle gets more weird. ",
+            "created": "Fri, 04 Sep 2020 17:24:23 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Something interesting is happening. I left Silicon Valley in 2003. Now that Silicon Valley is dispersing geographically, I seem to becoming part of it again. Weird. ",
+            "created": "Fri, 04 Sep 2020 14:59:04 GMT",
+            "type": "outline"
+        }
+    ]
+}
