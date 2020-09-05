@@ -1,0 +1,6 @@
+{
+    "text": "A longtime <a href=\"https://en.wikipedia.org/wiki/Guy_Kawasaki\">friend</a> uses Mailchimp to send a periodic newsletter. They have a feature that allows the author to re-send the mail to people who haven't opened it. Here's the <a href=\"https://mailchimp.com/help/resend-an-unopened-campaign/\">writeup</a>. They don't say how they know it wasn't opened. I was under the impression that mail apps prevent this kind of invasive behavior. People used to use one-pixel images with search params, but I think the email apps now copy the image and replace it in the HTML, to prevent the sender from knowing. So I told my friend I don't think it's possible. Pretty sure that's right, but I guess it depends on the app you use for email. I use GMail. I think these days enough people use GMail to make the Mailchimp feature useless. BTW, I did open the first email, and it treated me as if I hadn't. More evidence that the feature doesn't really work. If you have insight, please <a href=\"https://twitter.com/davewiner/status/1301930952151764992\">comment</a>. ",
+    "created": "Fri, 04 Sep 2020 17:05:34 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2020/09/04/mailChimp.png"
+}
