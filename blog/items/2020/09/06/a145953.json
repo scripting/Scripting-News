@@ -1,0 +1,40 @@
+{
+    "text": "Australia and Facebook",
+    "created": "Sun, 06 Sep 2020 14:59:53 GMT",
+    "type": "outline",
+    "metaImage": "http://scripting.com/images/2020/09/06/australiaImage.png",
+    "description": "If you want them to not include the information, mate, stop asking them to. ",
+    "subs": [
+        {
+            "text": "Something weird about <a href=\"https://www.reuters.com/article/us-australia-media-facebook/facebook-to-block-news-on-australian-sites-after-new-law-riling-lawmakers-idUSKBN25S36J\">this</a>.",
+            "created": "Sun, 06 Sep 2020 15:00:00 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "At least in the US, if I link to an article on FB, the text of the article isn’t on FB, it’s on the original site.",
+                    "created": "Sun, 06 Sep 2020 15:00:32 GMT"
+                },
+                {
+                    "text": "Any text from the article that appears in FB is in the metadata put in the file specifically so it can be quoted by FB. Totally voluntary. There's no requirement you include that data.",
+                    "created": "Sun, 06 Sep 2020 15:01:00 GMT"
+                },
+                {
+                    "text": "If the news org wants to stop FB, just don’t include that metadata.",
+                    "created": "Sun, 06 Sep 2020 15:01:13 GMT"
+                }
+            ]
+        },
+        {
+            "text": "To be clear, the metadata is saying FB, please include this information when someone links to this story. It's kind of pissy to then complain that they included the information you asked them to include. If you want them to not include the information, mate, stop asking them to. It's really fucking simple. I'm sure there are plenty of Australian programmers who can explain it to you. ",
+            "created": "Sun, 06 Sep 2020 15:01:16 GMT"
+        },
+        {
+            "text": "For example, view the source code of <a href=\"http://scripting.com/2020/09/06/145953.html?title=australiaAndFacebook\">this article</a>. Near the top of the page look for &lt;meta> tags with the og: prefix. Those are put there for Facebook. There are others, with the same info, for Twitter. It's smart to put those in there, they're kind of like ads. ",
+            "created": "Sun, 06 Sep 2020 15:05:36 GMT"
+        },
+        {
+            "text": "PS: I'm not a big fan of [%search: Facebook%]. Really. But I'm also not a big fan of bullshit. ",
+            "created": "Sun, 06 Sep 2020 15:09:58 GMT"
+        }
+    ]
+}
