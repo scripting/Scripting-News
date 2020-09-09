@@ -1,0 +1,45 @@
+{
+    "text": "September 8",
+    "created": "Tue, 08 Sep 2020 13:31:44 GMT",
+    "name": "08",
+    "subs": [
+        {
+            "text": "\"BingeWorthy\"'s hotlist requires a minimum number of ratings to be included in the list. Previously it was 5. I just changed it to 25. Soon it'll give you the ability to set the value for yourself, but the default for new users and people not signed in will be 25. ",
+            "created": "Tue, 08 Sep 2020 16:48:19 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "You'd be amazed how many people have 10-year-old TVs. There's been so much progress. I was one of those people until last year, bought a big Sony for a few thou in 2010. Replaced it with a much better, much larger, higher def screen for 1/5th the price in 2019. Just looked at prices, makes my 2019 screen look like chopped liver. ",
+            "created": "Tue, 08 Sep 2020 14:28:24 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "How does a person, much less a president, come to see fallen soldiers as losers or suckers. Then imagine what the president thinks of people who defend us against the virus. This is the opposite of leadership. He is the enemy.",
+            "type": "tweet",
+            "created": "Tue Sep 08 17:39:45 +0000 2020",
+            "tweetId": "1303387561218510851",
+            "tweetUserName": "davewiner"
+        },
+        {
+            "text": "Things I use my outliner for -- writing my blog and publishing it, writing all my JS code, project management, list-making, decision-making, design. You see outlines in every product, but no one puts a lot of effort into developing them. Most programmers, it seems, aren't good at connecting the dots and seeing trends in our work and then factoring based on those observations. I use two outliners. One is based on \"Concord\", in an Electron shell. Its feature set is an almost exact copy of \"Little Outliner\", with a few extra features to support my blog-writing. And I use \"Frontier\" on my Mac for writing JS code, because I have a well-developed code management system that runs in Frontier. I also write little utilities that are quicker to write in Frontier than they would be in Node, but I have hopes of tackling that job and making Node a real scripting system. I no longer use the server apps we developed in Frontier. Most of them have been ported to Node. Many advantages to doing that, unfortunately none of those compare with Frontier for server programming. What Node has is a huge community that writes lots of packages that I can use. As far as I can tell I am the whole community in Frontier. Eventually that had to give, and it did. I found a good teacher to help me get started in JS in 2013 or so, and boom off to the races. ",
+            "created": "Tue, 08 Sep 2020 13:51:33 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/10/05/goldenGirlActionFigure.png"
+        },
+        {
+            "text": "First episode of Borgen is very good, as <a href=\"http://scripting.com/2020/09/07.html#a151932\">advertised</a>. I tried the English dubbing, but couldn't understand what they were saying and the English subtitles don't match the dubbing, so I reverted to the Danish audio with English subs. ",
+            "created": "Tue, 08 Sep 2020 13:33:21 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I would have defended <a href=\"https://www.theguardian.com/media/2020/sep/08/julian-assange-rapped-by-judge-after-outburst-during-extradition-trial\">Julian Assange</a> if he hadn't helped Russia and Trump hijack the 2016 election. After that, he can rot in jail for the rest of his life as far as I'm concerned.",
+            "type": "outline",
+            "created": "Tue Sep 08 13:17:29 +0000 2020"
+        },
+        {
+            "text": "When criticizing a product, it's a good idea to hedge your criticism so you don't look like a complete fool when it turns out you were wrong. A simple \"it seems to me\" or \"apparently\" would make you look a bit more humble and less like a jerk. It happens to us all, so be careful. :smile:",
+            "type": "outline",
+            "created": "Mon Sep 07 23:32:37 +0000 2020"
+        }
+    ]
+}
