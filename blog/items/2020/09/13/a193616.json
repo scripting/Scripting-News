@@ -1,0 +1,50 @@
+{
+    "text": "Firmware file not compatible",
+    "created": "Sun, 13 Sep 2020 19:36:16 GMT",
+    "type": "outline",
+    "metaImage": "http://scripting.com/images/2020/09/13/willowNewYork.png",
+    "description": "The iPhone could not be updated because the firmware file is not compatible. ",
+    "subs": [
+        {
+            "text": "When I update my iPhone using iTunes I get this error message.  ",
+            "created": "Sun, 13 Sep 2020 19:36:49 GMT",
+            "subs": [
+                {
+                    "text": "The iPhone could not be updated because the firmware file is not compatible. ",
+                    "created": "Sun, 13 Sep 2020 19:37:08 GMT"
+                }
+            ]
+        },
+        {
+            "text": "No one seems to know what that means when you <a href=\"https://www.google.com/search?q=%22firmware+file+is+not+compatible%22\">search</a> for it on Google, and none of the advice works and it's happened a number of times, and every time I have to re-discover the workaround. This time I'm writing a blog post so when I search for it, I'll have the answer.",
+            "created": "Sun, 13 Sep 2020 19:37:28 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "Don't update the phone with iTunes. ",
+                    "created": "Sun, 13 Sep 2020 19:38:23 GMT"
+                },
+                {
+                    "text": "You can update it over wifi, it doesn't need iTunes to do the update.",
+                    "created": "Sun, 13 Sep 2020 19:38:38 GMT"
+                },
+                {
+                    "text": "Open the Settings app, scroll down to General, open it. ",
+                    "created": "Sun, 13 Sep 2020 19:38:51 GMT"
+                },
+                {
+                    "text": "Click on Software Update. Follow the instructions.",
+                    "created": "Sun, 13 Sep 2020 19:39:25 GMT"
+                },
+                {
+                    "text": "Works every damn time!",
+                    "created": "Sun, 13 Sep 2020 19:39:54 GMT"
+                }
+            ]
+        },
+        {
+            "text": "It's basically the <a href=\"https://www.youtube.com/watch?v=7YyBtMxZgQs\">Indiana Jones</a> method of updating. ",
+            "created": "Sun, 13 Sep 2020 19:39:58 GMT"
+        }
+    ]
+}
