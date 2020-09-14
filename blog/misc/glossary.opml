@@ -3,17 +3,17 @@
 	<head>
 		<title>Glossary</title>
 		<dateCreated>Tue, 13 Jun 2017 13:42:31 GMT</dateCreated>
-		<dateModified>Tue, 08 Sep 2020 14:03:01 GMT</dateModified>
+		<dateModified>Sun, 13 Sep 2020 17:11:22 GMT</dateModified>
 		<ownerName>dave@scripting.com</ownerName>
 		<ownerId>https://twitter.com/davewiner/</ownerId>
-		<expansionState>1,6,8,12,15,17,35,43,62,70,73,75,77,80,88,102,108,115,117,119,121,123,128</expansionState>
+		<expansionState>1,6,8,13,15,17,35,43,62,70,73,75,77,80,88,102,108,115,117,119,121,123,125,130</expansionState>
 		<vertScrollState>1</vertScrollState>
 		<windowTop>631</windowTop>
 		<windowLeft>1087</windowLeft>
 		<windowBottom>831</windowBottom>
 		<windowRight>1472</windowRight>
 		<flPublic>true</flPublic>
-		<lastCursor>11</lastCursor>
+		<lastCursor>118</lastCursor>
 		<ownerTwitterScreenName>davewiner</ownerTwitterScreenName>
 		<urlPublic>http://electricserver.scripting.com/users/davewiner/electric/glossary.opml</urlPublic>
 		<urlJson>http://electricserver.scripting.com/users/davewiner/electric/glossary.json</urlJson>
@@ -47,14 +47,14 @@
 		<outline text="&quot;braintrust query&quot;" created="Sun, 25 Aug 2019 15:28:38 GMT">
 			<outline text="&lt;a href=&quot;https://duckduckgo.com/?q=site%3Ascripting.com+%22braintrust+query%22&amp;t=h_&amp;ia=web&quot;&gt;braintrust query&lt;/a&gt;" created="Sun, 25 Aug 2019 15:28:46 GMT"/>
 			</outline>
-		<outline text="&quot;Concord&quot;" created="Tue, 08 Sep 2020 14:02:20 GMT">
-			<outline text="&lt;a href=&quot;http://scripting.com/2013/09/16/concordOurGplOutliner&quot;&gt;Concord&lt;/a&gt;" created="Tue, 08 Sep 2020 14:02:24 GMT"/>
-			</outline>
 		<outline text="&quot;cheesecake&quot;" created="Tue, 14 Nov 2017 15:38:02 GMT">
 			<outline text="&lt;a href=&quot;http://en.wikipedia.org/wiki/Cheesecake&quot;&gt;&lt;img src=&quot;http://scripting.com/images/2012/05/30/cheesecake.gif&quot; width=&quot;50&quot; height=&quot;42&quot; border=&quot;0&quot; alt=&quot;A picture of a slice of cheese cake.&quot;&gt;&lt;/a&gt;"/>
 			</outline>
 		<outline text="&quot;Clubhouse&quot;" created="Wed, 26 Aug 2020 23:23:31 GMT">
 			<outline text="&lt;a href=&quot;https://twitter.com/joinClubhouse&quot;&gt;Clubhouse&lt;/a&gt;" created="Wed, 26 Aug 2020 23:23:35 GMT"/>
+			</outline>
+		<outline text="&quot;Concord&quot;" created="Tue, 08 Sep 2020 14:02:20 GMT">
+			<outline text="&lt;a href=&quot;http://scripting.com/2013/09/16/concordOurGplOutliner&quot;&gt;Concord&lt;/a&gt;" created="Tue, 08 Sep 2020 14:02:24 GMT"/>
 			</outline>
 		<outline text="&quot;Covid-19&quot;" created="Thu, 19 Mar 2020 16:07:38 GMT">
 			<outline text="&lt;a href=&quot;https://en.wikipedia.org/wiki/Coronavirus_disease_2019&quot;&gt;Covid-19&lt;/a&gt;" created="Thu, 19 Mar 2020 16:07:40 GMT"/>
@@ -319,6 +319,9 @@
 			</outline>
 		<outline text="&quot;Woodstock Today&quot;" created="Thu, 19 Mar 2020 15:34:46 GMT">
 			<outline text="&lt;a href=&quot;http://woodstock.today/&quot;&gt;Woodstock Today&lt;/a&gt;" created="Thu, 19 Mar 2020 15:34:52 GMT"/>
+			</outline>
+		<outline text="&quot;Woodward&quot;" created="Sun, 13 Sep 2020 17:11:01 GMT">
+			<outline text="&lt;a href=&quot;http://scripting.com/2020/09/11/135338.html?title=woodwardBetrayedUs&quot;&gt;Woodward&lt;/a&gt;" created="Sun, 13 Sep 2020 17:11:05 GMT"/>
 			</outline>
 		<outline text="&quot;XML-RPC&quot;" created="Sat, 26 May 2018 03:02:46 GMT">
 			<outline text="&lt;a href=&quot;http://xmlrpc.com/&quot;&gt;XML-RPC&lt;/a&gt;" created="Fri, 10 Jan 2020 18:24:14 GMT"/>
