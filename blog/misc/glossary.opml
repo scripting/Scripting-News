@@ -3,17 +3,17 @@
 	<head>
 		<title>Glossary</title>
 		<dateCreated>Tue, 13 Jun 2017 13:42:31 GMT</dateCreated>
-		<dateModified>Sun, 13 Sep 2020 17:11:22 GMT</dateModified>
+		<dateModified>Mon, 14 Sep 2020 13:51:11 GMT</dateModified>
 		<ownerName>dave@scripting.com</ownerName>
 		<ownerId>https://twitter.com/davewiner/</ownerId>
-		<expansionState>1,6,8,13,15,17,35,43,62,70,73,75,77,80,88,102,108,115,117,119,121,123,125,130</expansionState>
+		<expansionState>1,6,8,13,15,17,30,32,39,47,66,74,77,79,81,84,92,106,112,119,121,123,125,127,129,134</expansionState>
 		<vertScrollState>1</vertScrollState>
 		<windowTop>631</windowTop>
 		<windowLeft>1087</windowLeft>
 		<windowBottom>831</windowBottom>
 		<windowRight>1472</windowRight>
 		<flPublic>true</flPublic>
-		<lastCursor>118</lastCursor>
+		<lastCursor>29</lastCursor>
 		<ownerTwitterScreenName>davewiner</ownerTwitterScreenName>
 		<urlPublic>http://electricserver.scripting.com/users/davewiner/electric/glossary.opml</urlPublic>
 		<urlJson>http://electricserver.scripting.com/users/davewiner/electric/glossary.json</urlJson>
@@ -89,8 +89,14 @@
 		<outline text="&quot;Fargo Publisher&quot;" created="Tue, 16 Jan 2018 16:12:32 GMT">
 			<outline text="&lt;a href=&quot;https://github.com/scripting/fargoPublisher&quot;&gt;Fargo Publisher&lt;/a&gt;"/>
 			</outline>
-		<outline text="&quot;fargo&quot;">
+		<outline text="&quot;fargo&quot;" created="Mon, 14 Sep 2020 13:50:34 GMT">
 			<outline text="&lt;a href=&quot;http://fargo.io/&quot;&gt;Fargo&lt;/a&gt;"/>
+			</outline>
+		<outline text="&quot;rssCloud&quot;" created="Mon, 14 Sep 2020 13:50:35 GMT">
+			<outline text="&lt;a href=&quot;http://home.rsscloud.co/&quot;&gt;rssCloud&lt;/a&gt;" created="Mon, 14 Sep 2020 13:50:40 GMT"/>
+			</outline>
+		<outline text="&quot;Fauci&quot;" created="Mon, 14 Sep 2020 13:49:03 GMT">
+			<outline text="&lt;a href=&quot;https://en.wikipedia.org/wiki/Anthony_Fauci&quot;&gt;Fauci&lt;/a&gt;" created="Mon, 14 Sep 2020 13:49:09 GMT"/>
 			</outline>
 		<outline text="&quot;feedBase&quot;" created="Wed, 28 Mar 2018 19:18:33 GMT">
 			<outline text="&lt;a href=&quot;http://feedbase.io/&quot;&gt;feedBase&lt;/a&gt;" created="Wed, 28 Mar 2018 19:18:39 GMT"/>
