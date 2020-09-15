@@ -1,0 +1,35 @@
+{
+    "text": "Chrome playing video halts screen saver",
+    "created": "Mon, 14 Sep 2020 19:33:46 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "A few weeks ago my Mac stopped going to sleep when I left. Not only will this burn out the monitor, it's a security problem. ",
+            "created": "Mon, 14 Sep 2020 19:34:06 GMT"
+        },
+        {
+            "text": "I tried rebooting. No help. ",
+            "created": "Mon, 14 Sep 2020 19:35:11 GMT"
+        },
+        {
+            "text": "Tried quitting all my apps. Then the screen saver would start. ",
+            "created": "Mon, 14 Sep 2020 19:35:14 GMT"
+        },
+        {
+            "text": "Now to figure out which app was the culprit. I figured it was Dropbox, my first guess for anything going wrong. Sorry. But it wasn't Dropbox. ",
+            "created": "Mon, 14 Sep 2020 19:35:28 GMT"
+        },
+        {
+            "text": "Turns out it was Chrome. If it thinks you're watching a video, it will keep the Mac from going to sleep. I had a window from <a href=\"https://www.agora.io/en/\">Agora</a> open, because I was interested in it and planned to go back to learn more. Well it has a video on the home page. It didn't even register with me. ",
+            "created": "Mon, 14 Sep 2020 19:35:34 GMT"
+        },
+        {
+            "text": "So I closed that window, waited a minute, with Chrome running, and the screen saver kicked in. ",
+            "created": "Mon, 14 Sep 2020 19:36:16 GMT"
+        },
+        {
+            "text": "A reminder if you have this problem in the future.  ",
+            "created": "Mon, 14 Sep 2020 19:36:21 GMT"
+        }
+    ]
+}
