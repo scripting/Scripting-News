@@ -1,0 +1,121 @@
+{
+    "text": "September 17",
+    "created": "Thu, 17 Sep 2020 13:22:02 GMT",
+    "name": "17",
+    "subs": [
+        {
+            "text": "I'm on a <a href=\"http://scripting.com/2020/09/17/appleTvShouldBeATvDammit.m4a\">podcast</a> roll these days. 17-minutes worth of rambling about how Apple should fix the TV problem, which btw is all those freaking wires. The tech has advanced so much, you could blow people away with elegance, ease of use, and power, and so what if it costs three times as much as the competition. We're accustomed to paying for the best. I should note that I have some $AAPL stock, purchased in 1997 and held since then so when Apple screws me in software at least I make up for it in my brokerage account. I'm so puzzled why I'm not using Clubhouse these days. And I'm totally maxed out on new services. OMG no more please. Also a story about hanging out with <a href=\"https://www.mixonline.com/recording/don-pearson-1942-2006-377439\">Don Pearson</a> who did the sound for the Dead. ",
+            "created": "Thu, 17 Sep 2020 21:17:18 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2020/09/17/appleTvShouldBeATvDammit.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "8940905",
+            "image": "http://scripting.com/images/2020/07/01/orangeBlob.png"
+        },
+        {
+            "text": "An idea for a business. Home entertainment system makeovers. I have so many friends with obsolete entertainment systems. They work fine. You get used to them. It was exciting when you got it 10 years ago and you still feel that. But. Things have gotten so much better and so much cheaper. Now, for very little money, relative to the amount of time you use it, you can have something much nicer. You could make people really happy and make a good living doing it, I think, at least for a little while until word gets out you just have to buy a new screen and then work out from there. :boom:",
+            "created": "Thu, 17 Sep 2020 14:59:26 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I have a series 5 Apple watch, reading <a href=\"https://www.theverge.com/2020/9/17/21440604/apple-watch-series-6-impressions-photos-video-blood-oxygen\">this review</a>, can't see a reason to get the series 6. I use it mainly for timing my exercise, and to see what the temperature is outside and of course the time. I charge it every night, but it never gets less than 1/2 battery. I already have a <a href=\"https://www.amazon.com/dp/B08925BSQJ?gclid=CjwKCAjwkoz7BRBPEiwAeKw3q5aZ6H8UhO9-Mvimosqj09gb1Ieg576mrwkZy5zwD6s0GzfEl1wdQRoCBssQAvD_BwE\">pulse oximeter</a>, and I take a reading once a day, and record it. ",
+            "created": "Thu, 17 Sep 2020 13:49:49 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I have a new iPhone SE, new Pixel 4a, and a new Subaru, which supports both kinds of phones. I love all three very much. I previously had a super high end iPhone, but I'm a middle class kind of guy, and the SE is much more my speed. And for the first time I've been able to use an Android phone for navigation and listening to podcasts and audio books. I took a drive to Albany on Tuesday, and was able to test it out. It all works, in an unsurprising manner, except Google Maps on the Android has one feature that the iPhone version desperately needs. The map re-orients so that the direction you're heading in is always up and to the right. On the iPhone it's kind of random. Hard to parse. And the layout is much better for a driver, who can't spend any time puzzling out what the computer trying to say. If you have a turn in 2 miles, there's a box that says Right Turn in 2 Miles. And it counts down as you get closer. Next time I'm driving I'll try to take a picture (obviously with the iPhone). ",
+            "created": "Thu, 17 Sep 2020 13:22:03 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/09/17/forester.png"
+        },
+        {
+            "text": "A do-it-yourself <s>Bernie</s> Biden lawn sign. ",
+            "created": "Thu, 17 Sep 2020 21:13:06 GMT",
+            "type": "outline",
+            "inlineImage": "http://scripting.com/images/2020/09/17/aBernieSignTurnedBiden.png"
+        },
+        {
+            "text": "Self-executing functions",
+            "created": "Thu, 17 Sep 2020 14:36:59 GMT",
+            "description": "In EC6, you can create a simple block and declare your variables with let. No clever hacks needed.",
+            "metaImage": "http://scripting.com/images/2020/09/17/melo.png",
+            "subs": [
+                {
+                    "text": "I believe <a href=\"https://developer.mozilla.org/en-US/docs/Glossary/IIFE\">self-executing functions</a> in JavaScript are obsolete with <a href=\"https://www.w3schools.com/js/js_es6.asp\">ES6</a>. I never liked and rarely used them. I prefer to use features put there by the designers, rather than use a clever hack that makes you wonder why the feature wasn't put there. ",
+                    "created": "Thu, 17 Sep 2020 14:46:13 GMT"
+                },
+                {
+                    "text": "Now in ., you can create a simple block and declare your variables with <i>let. </i>No clever hacks needed. ",
+                    "created": "Thu, 17 Sep 2020 14:43:19 GMT"
+                },
+                {
+                    "text": "Some real-world example code.",
+                    "created": "Thu, 17 Sep 2020 14:39:53 GMT",
+                    "flCodeSubs": "true",
+                    "subs": [
+                        {
+                            "text": "{ //insert headline for 1st level subs",
+                            "created": "Thu, 17 Sep 2020 14:42:53 GMT",
+                            "subs": [
+                                {
+                                    "text": "let htmltext = \"\";"
+                                },
+                                {
+                                    "text": "let ixButtonsArray = ix + 1; ",
+                                    "created": "Thu, 17 Sep 2020 14:43:41 GMT"
+                                },
+                                {
+                                    "text": "let theButton = theButtons [ixButtonsArray];",
+                                    "created": "Thu, 17 Sep 2020 14:43:41 GMT"
+                                },
+                                {
+                                    "text": "function div (classname, val) {",
+                                    "created": "Thu, 17 Sep 2020 14:43:51 GMT",
+                                    "subs": [
+                                        {
+                                            "text": "return (\"&lt;div class=\\\"\" + classname + \"\\\">\" + val + \"&lt;/div>\");",
+                                            "created": "Thu, 17 Sep 2020 14:48:05 GMT"
+                                        },
+                                        {
+                                            "text": "}"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "function add (s) {",
+                                    "subs": [
+                                        {
+                                            "text": "htmltext += s;"
+                                        },
+                                        {
+                                            "text": "}"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "add (div (\"divButtonEmoji\", theButton.htmlEmojiCode));"
+                                },
+                                {
+                                    "text": "add (div (\"divButtonTitle\", theButton.theTitle));"
+                                },
+                                {
+                                    "text": "add (div (\"divButtonVal\", ix));"
+                                },
+                                {
+                                    "text": "opInsertRawHtml (htmltext, right);"
+                                },
+                                {
+                                    "text": "}"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "The block, like a bundle in <a href=\"http://frontier.userland.com/manual/userTalk\">Frontier</a>, allows you to collapse some code, hide its variables from the containing code, without declaring a new routine. It's essential that you put a comment at the opening left curly brace to say what the block does. If that's not easy to do that indicates a refactor is needed, imho.",
+                    "created": "Thu, 17 Sep 2020 14:44:08 GMT"
+                }
+            ]
+        }
+    ]
+}
