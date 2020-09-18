@@ -1,0 +1,83 @@
+{
+    "text": "Self-executing functions",
+    "created": "Thu, 17 Sep 2020 14:36:59 GMT",
+    "description": "In EC6, you can create a simple block and declare your variables with let. No clever hacks needed.",
+    "metaImage": "http://scripting.com/images/2020/09/17/melo.png",
+    "subs": [
+        {
+            "text": "I believe <a href=\"https://developer.mozilla.org/en-US/docs/Glossary/IIFE\">self-executing functions</a> in JavaScript are obsolete with <a href=\"https://www.w3schools.com/js/js_es6.asp\">ES6</a>. I never liked and rarely used them. I prefer to use features put there by the designers, rather than use a clever hack that makes you wonder why the feature wasn't put there. ",
+            "created": "Thu, 17 Sep 2020 14:46:13 GMT"
+        },
+        {
+            "text": "Now in ., you can create a simple block and declare your variables with <i>let. </i>No clever hacks needed. ",
+            "created": "Thu, 17 Sep 2020 14:43:19 GMT"
+        },
+        {
+            "text": "Some real-world example code.",
+            "created": "Thu, 17 Sep 2020 14:39:53 GMT",
+            "flCodeSubs": "true",
+            "subs": [
+                {
+                    "text": "{ //insert headline for 1st level subs",
+                    "created": "Thu, 17 Sep 2020 14:42:53 GMT",
+                    "subs": [
+                        {
+                            "text": "let htmltext = \"\";"
+                        },
+                        {
+                            "text": "let ixButtonsArray = ix + 1; ",
+                            "created": "Thu, 17 Sep 2020 14:43:41 GMT"
+                        },
+                        {
+                            "text": "let theButton = theButtons [ixButtonsArray];",
+                            "created": "Thu, 17 Sep 2020 14:43:41 GMT"
+                        },
+                        {
+                            "text": "function div (classname, val) {",
+                            "created": "Thu, 17 Sep 2020 14:43:51 GMT",
+                            "subs": [
+                                {
+                                    "text": "return (\"&lt;div class=\\\"\" + classname + \"\\\">\" + val + \"&lt;/div>\");",
+                                    "created": "Thu, 17 Sep 2020 14:48:05 GMT"
+                                },
+                                {
+                                    "text": "}"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "function add (s) {",
+                            "subs": [
+                                {
+                                    "text": "htmltext += s;"
+                                },
+                                {
+                                    "text": "}"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "add (div (\"divButtonEmoji\", theButton.htmlEmojiCode));"
+                        },
+                        {
+                            "text": "add (div (\"divButtonTitle\", theButton.theTitle));"
+                        },
+                        {
+                            "text": "add (div (\"divButtonVal\", ix));"
+                        },
+                        {
+                            "text": "opInsertRawHtml (htmltext, right);"
+                        },
+                        {
+                            "text": "}"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "The block, like a bundle in <a href=\"http://frontier.userland.com/manual/userTalk\">Frontier</a>, allows you to collapse some code, hide its variables from the containing code, without declaring a new routine. It's essential that you put a comment at the opening left curly brace to say what the block does. If that's not easy to do that indicates a refactor is needed, imho.",
+            "created": "Thu, 17 Sep 2020 14:44:08 GMT"
+        }
+    ]
+}
