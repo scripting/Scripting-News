@@ -1,0 +1,92 @@
+{
+    "text": "September 22",
+    "created": "Tue, 22 Sep 2020 12:37:58 GMT",
+    "name": "22",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=wXBba77U1_Y\">Free Man in Paris</a>.",
+            "created": "Tue, 22 Sep 2020 21:07:22 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "My internet was down today. Oy! I was just warming up, had written a piece about <a href=\"http://scripting.com/2020/09/22/123759.html?title=weNeedOccamsNews\">Occam's News</a> and a <a href=\"http://scripting.com/2020/09/22.html#a125519\">bit</a> about the wonderful word naïveté, when boom -- I'm offline. I made two trips into town to try to connect, but eventually gave up,went for an excellent bike ride on the <a href=\"https://ashokanrailtrail.com/\">Ashokan Rail Trail</a>, a local wonder. I learned that I should have a few printed books around, or at least one downloaded to my Kindle, and some videos that are downloaded on my iPad. Luckily I had a few episodes of Brockmire and they were lovely. The whole thing is so LOL good. Really you do LOL. Rare thing. I tried watching a bit of <a href=\"https://en.wikipedia.org/wiki/Killing_Eve\">Killing Eve</a> season 3, but it's garbage. Bad writing. The first season was so great because it was written by <a href=\"https://en.wikipedia.org/wiki/Phoebe_Waller-Bridge\">Phoebe Waller-Bridge</a>. The acting and the sets, they carry through all the seasons, but sheez, no one tells stories like PWB. So instead I planned out my next few projects, something totally worth doing, instead of wrapping up an abbreviated version of the big one I had been attempting. Tomorrow is another day, knock wood, praise Muphy, <a href=\"https://en.wikipedia.org/wiki/IANAL#:~:text=IANAL%20is%20a%20Usenet%20and,particular%20addressee%20of%20their%20remarks.\">IANAL</a>, my mother loves me, and all other disclaimers. ",
+            "created": "Tue, 22 Sep 2020 21:07:51 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/06/23/mrNatural.png"
+        },
+        {
+            "text": "<a href=\"https://themarkup.org/\">The Markup</a> has a new service called <a href=\"https://themarkup.org/blacklight/\">Blacklight</a> which rates websites based on how much spying they do on their readers. <a href=\"https://themarkup.org/blacklight/?url=scripting.com\">Scripting News</a> does well, but they complain about one thing: the site interacts with \"an ad-tech company\" -- AWS. They've discovered that I load content from Amazon S3, which is true. That's where I store the HTML, CSS, JavaScript and images that make up the site. I'm a paying customer and if they do any spying with the log info, that would be imho unethical. This is a problem with services like Blacklight. They make assumptions that things are nefarious when they're innocent, and if they become popular they constrain the web. This goes against the most powerful thing about the web, it's the platform with no [%search: platform vendor%]. ",
+            "created": "Tue, 22 Sep 2020 13:10:25 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I love the word <a href=\"https://en.wiktionary.org/wiki/na%C3%AFvet%C3%A9\">naïveté</a> because I'm an old time computer user. I started with <a href=\"https://en.wikipedia.org/wiki/Punched_card\">punch cards</a>, then graduated to all upper case terminals with 40 character displays and thought they were incredible, until I got a <a href=\"https://en.wikipedia.org/wiki/Hazeltine_1500\">Hazeltine terminal</a> that had upper <i>and lower</i> case characters and 80 columns. I was in heaven. But now you can include words with all that fancy punctuation, and wow isn't that amazing. And naïveté is such a great word, you actually get two of them in one freaking word. It's only been 80 years but look at all the progress.  ",
+            "created": "Tue, 22 Sep 2020 12:55:19 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/09/22/hazeltineTerminal.png",
+            "imageLink": "https://en.wikipedia.org/wiki/Hazeltine_1500"
+        },
+        {
+            "text": "Our moment of power",
+            "created": "Wed, 23 Sep 2020 01:01:05 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2020/09/22/kavanaughSneer.png",
+            "subs": [
+                {
+                    "text": "You know how when the Repubs pass a disgusting Supreme Court nominee we feel so powerless. ",
+                    "created": "Wed, 23 Sep 2020 01:01:13 GMT"
+                },
+                {
+                    "text": "Well this time, they'll be doing it <i>as America votes. </i>",
+                    "created": "Wed, 23 Sep 2020 01:01:19 GMT"
+                },
+                {
+                    "text": "At our moment of maximum power. "
+                },
+                {
+                    "text": "They didn't choose the moment RBG left us. But they obviously don't mind losing.",
+                    "created": "Wed, 23 Sep 2020 01:02:01 GMT"
+                },
+                {
+                    "text": "Future Supreme Court justice Kavanaugh.",
+                    "created": "Wed, 23 Sep 2020 01:02:12 GMT",
+                    "inlineImage": "http://scripting.com/images/2020/09/22/kavanaughSneer.png"
+                }
+            ]
+        },
+        {
+            "text": "We need Occam's News",
+            "created": "Tue, 22 Sep 2020 12:37:59 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Wake me up when we get [%search: Occam's News%], because there's a lot of really weird reporting going on these days that makes me wish someone would just cut the bull and report what's really happening, not what they feel they can prove. ",
+                    "created": "Tue, 22 Sep 2020 12:38:39 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Yes, Covid is tranmitted via air. This is considered controversial? Why then were nursing homes such great incubators for Covid? Meat packing plants? Schools? And why are supermarkets not? Answer: When you pack a building full of people who stay there for hours they get sick. Because the virus lingers and accumulates. The load is what matters. As more sickness spends more time in an enclosed space the chance you'll get sick goes up. I don't care what it says on the CDC website. You shouldn't either. Obviously Trump is fucking with it. Or so says Occam.",
+                            "created": "Tue, 22 Sep 2020 12:38:40 GMT"
+                        },
+                        {
+                            "text": "Then you hear reporters ask, full of naïveté, why does the CDC keep changing their guidance. They don't you idiot! That's what I want to scream at the reporter. Although of course the reporter knows what's going on. Some Trump apointee got their sweaty hands on the password for the home page of the CDC website and they edit it. The CDC knows, just like we know, that the virus is transmitted as described above. Trump knows too. But he wants his supporters to not know. Shhh. Otherwise they might wear masks. Can't have that. Only Democratic sissies wear masks. ",
+                            "created": "Tue, 22 Sep 2020 12:40:45 GMT"
+                        }
+                    ]
+                },
+                {
+                    "text": "There are many other things like this, maybe I'll add to the list. In the meantime [%search: Occam's News%] says you should report what's obvious, not what can be proven. Later, if it turns out you were wrong, apologize and correct your reporting. Politicians take advantage of the fact that reporters will only say things they know for sure, and then they'll add <i>alleged</i> just to be sure, because the worst thing they can think of is being caught saying something that's wrong. Instead <i>everything</i> they say is wrong, because it's watered down and stupid. We know that Barr and Trump are sick fucks. Stop pretending they aren't. ",
+                    "created": "Tue, 22 Sep 2020 12:45:53 GMT"
+                },
+                {
+                    "text": "BTW, it's been encouraging to see CNN break out of the non-Occam school lately. They don't pretend that there's some controversy over whether or not you should wear a mask. They say the president is an asshole when he makes people come to his concerts without wearing masks. So good for them. But they ought to just go all the way. ",
+                    "created": "Tue, 22 Sep 2020 12:48:35 GMT"
+                },
+                {
+                    "text": "And by the way, when Maddow laments that we have to get the info on our own, does it ever occur to anyone at MSNBC that they are a fucking communications machine. They could put up a page that would say what the CDC would say if they weren't corrupted by Trump. Why sit on the sidelines and complain. Solve the fucking problem Rachel. Come on! (This is what I yelled at the TV last night, which is why you need to have a blog like I do, so you can do this too.)",
+                    "created": "Tue, 22 Sep 2020 12:51:30 GMT"
+                }
+            ]
+        }
+    ]
+}
