@@ -1,0 +1,62 @@
+{
+    "text": "September 29",
+    "created": "Tue, 29 Sep 2020 11:28:02 GMT",
+    "name": "29",
+    "subs": [
+        {
+            "text": "Here's a <a href=\"https://github.com/scripting/es6ModulesHelloWorld\">Hello World web app</a> for ES6 modules. It uses a <a href=\"https://github.com/scripting/es6ModulesHelloWorld/blob/master/module.js\">module</a> that defines one function, secsSince. It then calls that from <a href=\"https://github.com/scripting/es6ModulesHelloWorld/blob/master/code.js\">another module</a>, and displays the result on the page. It's as simple as I could make it and it works. Not sure I want to use ES6 modules, but at least now I know how to do it, and you do too. All the other tutorials were missing some information you need to understand how modules work. The most confusing thing about modules is that you can only invoke modules from other modules. That means all the JavaScript code in your web app has to be in a module. Not sensible imho, but also not much of a burden. BTW you can <a href=\"http://scripting.com/code/moduleshello/\">run the code</a> without downloading. ",
+            "created": "Tue, 29 Sep 2020 16:02:51 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/10/19/mrWhite.png"
+        },
+        {
+            "text": "Joe Biden will show up tonight for a normal presidential debate. Trump is coming to an incitement. He'll point to Biden and say he'll take away your guns. He supports same-sex marriage and abortion. He will give all your money to black people. Biden is the new Hillary. A puppet for the deep state. Your life is over if you allow them to steal this election. The <i>them</i> is everyone but White Christian MAGAs. Get ready to revolt. I'll stand by you if you stand by me, says Trump. ",
+            "created": "Tue, 29 Sep 2020 15:21:02 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "<a href=\"https://twitter.com/MollyJongFast/status/1310910430093750274\">Rudy lost</a> his last marble. ",
+            "created": "Tue, 29 Sep 2020 15:04:31 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/MollyJongFast/status/1310910430093750274"
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1310988175540662273\">Poll</a>: How many pushups can Trump do?",
+            "created": "Tue, 29 Sep 2020 17:04:45 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1310988175540662273"
+        },
+        {
+            "text": "Today's <a href=\"https://www.nytimes.com/2020/09/29/podcasts/the-daily/donald-trump-taxes-investigation.html\">Daily podcast</a> about the Trump tax returns had a fair amount of info, but overall was disappointing. Barbaro never came to grips with a key idea: Trump is not a rich guy evading taxes. He's broke. He's a loser. That's his usual state, even though he's had two huge windfalls of cash, first from his <a href=\"https://en.wikipedia.org/wiki/Fred_Trump\">father</a> and then from <a href=\"https://en.wikipedia.org/wiki/The_Apprentice_(American_TV_series)\">The Apprentice</a>. Each time he's invested in marginal businesses and his management turned them into failures. Then he borrowed, failed to pay back his debt, went bankrupt. He's about to go bankrupt again with the $400 million that comes due in the term he's running for now. But we don't know who he owes the money to, but we can take a <a href=\"https://en.wikipedia.org/wiki/Russian_mafia\">good guess</a>. The big takeaway from the tax returns is <i>Trump is a loser. </i>It's a shame they don't have a whole podcast series about what's in the returns. We've spent so much time speculating about the truth of Trump, now we have a huge load of data. Podcasts are the best medium for revealing it. Sadly only the NYT has this story, so it's not getting a deep dive. ",
+            "created": "Tue, 29 Sep 2020 15:06:43 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/09/04/trumpCartoon.png",
+            "imageLink": "https://www.google.com/search?q=de+adder+cartoon&safe=off&sxsrf=ALeKk028XbIbh7tii1t3fJOktfsJyCp4AA:1601407350109&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi7g_mhi4_sAhW2oXIEHVKtA7sQ_AUoAnoECAwQBA&biw=1163&bih=1135"
+        },
+        {
+            "text": "The ideal blogging tool",
+            "created": "Tue, 29 Sep 2020 15:44:19 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "The ideal blogging tool design would come from merging the publishing of WordPress with the interactivity of Facebook.",
+                    "created": "Tue, 29 Sep 2020 15:44:34 GMT"
+                },
+                {
+                    "text": "I don't mean the culture of either product. WordPress imho is too exclusive in its deployment. It should be easier. And without any FB-like algorithms.",
+                    "created": "Tue, 29 Sep 2020 15:44:44 GMT"
+                },
+                {
+                    "text": "You should be able to deploy it on your own. It should install as easily as an app on your iPhone. And you should have full control of hosting. Move whenever you want with no breakage. It should be as easy to port as it was to install.",
+                    "created": "Tue, 29 Sep 2020 15:44:45 GMT"
+                },
+                {
+                    "text": "A cartoon from 2005. ",
+                    "created": "Tue, 29 Sep 2020 11:28:03 GMT",
+                    "type": "outline",
+                    "inlineImage": "http://scripting.com/images/2020/09/29/theBloggersAreAtTheGateSire.png"
+                }
+            ]
+        }
+    ]
+}
