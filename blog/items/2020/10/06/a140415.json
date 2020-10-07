@@ -1,0 +1,5 @@
+{
+    "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/190\">Braintrust query</a>: I'm tired of getting messages from <a href=\"https://www.w3schools.com/whatis/whatis_npm.asp\">npm</a> saying that <a href=\"https://www.npmjs.com/package/request\">request</a> is being deprecated. I want to write a new request, that has similar calling conventions, limited to the subset I use in my apps, that calls some interface to HTTP that's not being deprecated. I understand that a lot of people are using <a href=\"https://www.google.com/search?q=node+fetch\">fetch</a>. But which one? I don't care about stylistic considerations because all the details are going to be hidden behind a simple API. ",
+    "created": "Tue, 06 Oct 2020 14:04:15 GMT",
+    "type": "outline"
+}
