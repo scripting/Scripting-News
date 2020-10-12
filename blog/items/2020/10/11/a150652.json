@@ -1,0 +1,27 @@
+{
+    "text": "Watchlist feature for BingeWorthy",
+    "created": "Sun, 11 Oct 2020 15:06:52 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "<a href=\"https://www.youtube.com/watch?v=VnL1eMCKQgk\">Quick video demo</a> of the new BingeWorthy <i>watchlist.  </i>",
+            "created": "Sun, 11 Oct 2020 14:44:32 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "When you see a program you want to watch, look for the + icon in the upper left corner of the program box. Click it. The program is added to your watchlist, displayed just below the box. The icon changes to a checkmark. Click again, it's removed from the watchlist and the check icon changes to a + icon. ",
+            "created": "Sun, 11 Oct 2020 15:07:27 GMT",
+            "image": "http://scripting.com/images/2019/10/14/greenAcres.png"
+        },
+        {
+            "text": "The icons are weird, imho, but they are the ones Netflix uses for their watchlist, and Amazon Prime video copied them. So I went with Netflix's icons. As usual thanks to Font Awesome there was no work to finding the icons. ",
+            "created": "Sun, 11 Oct 2020 14:42:02 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I have a few more projects in mind for BingeWorthy. This one was a relative quick hit, took three days from beginning to end. Of course when I started I thought it would take one day. I think there might be another API layer possible for SQL databases that would make such a job much quicker, but I'm not ready to approach that yet. ",
+            "created": "Sun, 11 Oct 2020 14:47:40 GMT",
+            "type": "outline"
+        }
+    ]
+}
