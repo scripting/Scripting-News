@@ -1,0 +1,76 @@
+{
+    "text": "October 11",
+    "created": "Sun, 11 Oct 2020 14:18:18 GMT",
+    "name": "11",
+    "subs": [
+        {
+            "text": "The mistake we keep making, the voters, is not organizing in a way that we stay organized after the election. So the parties and the press revert to ignoring us. You can see the next year take shape, awfully, even if Biden wins.",
+            "created": "Sun, 11 Oct 2020 23:14:02 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/03/24/mirror.png"
+        },
+        {
+            "text": "<a href=\"https://www.axios.com/abc-this-week-fauci-white-house-981a0d0b-d9f8-4759-b658-dd082de7d317.html\">So Fauci couldn't speak</a>. At some point, would a reporter please ask him why he doesn't leave the government so he can speak plainly and frequently. Wouldn't he do more good that way? To my reporter friends, please pass this on. Thanks.",
+            "created": "Sun, 11 Oct 2020 23:14:19 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "The Repubs do something awful. The Repubs do it again. The Repubs say the Dems will do something to fix the awful things the Repubs did. The press goes for it. Court packing is the [%search: Hillary’s Emails%] of 2020. Journalism is fed the question by Repubs, ignoring what a 6-3 majority means for the people. If you’re not careful we’ll spend the rest of our sad lives living in Trumpocracy.",
+            "created": "Sun, 11 Oct 2020 23:14:42 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I continue to regularly log my dev work to the <a href=\"http://littleoutliner.com/?url=http://instantoutliner.com/k5\">status outline</a>. Two items there for today. ",
+            "created": "Sun, 11 Oct 2020 16:17:59 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Watchlist feature for BingeWorthy",
+            "created": "Sun, 11 Oct 2020 15:06:52 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://www.youtube.com/watch?v=VnL1eMCKQgk\">Quick video demo</a> of the new BingeWorthy <i>watchlist.  </i>",
+                    "created": "Sun, 11 Oct 2020 14:44:32 GMT",
+                    "type": "outline"
+                },
+                {
+                    "text": "When you see a program you want to watch, look for the + icon in the upper left corner of the program box. Click it. The program is added to your watchlist, displayed just below the box. The icon changes to a checkmark. Click again, it's removed from the watchlist and the check icon changes to a + icon. ",
+                    "created": "Sun, 11 Oct 2020 15:07:27 GMT",
+                    "image": "http://scripting.com/images/2019/10/14/greenAcres.png"
+                },
+                {
+                    "text": "The icons are weird, imho, but they are the ones Netflix uses for their watchlist, and Amazon Prime video copied them. So I went with Netflix's icons. As usual thanks to Font Awesome there was no work to finding the icons. ",
+                    "created": "Sun, 11 Oct 2020 14:42:02 GMT",
+                    "type": "outline"
+                },
+                {
+                    "text": "I have a few more projects in mind for BingeWorthy. This one was a relative quick hit, took three days from beginning to end. Of course when I started I thought it would take one day. I think there might be another API layer possible for SQL databases that would make such a job much quicker, but I'm not ready to approach that yet. ",
+                    "created": "Sun, 11 Oct 2020 14:47:40 GMT",
+                    "type": "outline"
+                }
+            ]
+        },
+        {
+            "text": "Inline videos on Scripting News",
+            "created": "Sun, 11 Oct 2020 16:19:55 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Added a new feature today to the blog. Still have to check it out in the nightly email. I can now include videos inline, which is a feature I've wanted for special occasions.",
+                    "created": "Sun, 11 Oct 2020 16:20:06 GMT",
+                    "image": "http://scripting.com/images/2019/06/11/strongman.png"
+                },
+                {
+                    "text": "Below is a <a href=\"https://www.youtube.com/watch?v=DwcD8ftY0Mg&feature=emb_logo\">video</a> I took on a country road as some bikers roared by. It seems like I must have been standing there waiting for them, but it was a coincidence. They are really awful, incredibly loud, you can hear them for ten minutes as they go up and down the hills in and out of the valley. I'm not sure why they don't use their mufflers or if their bikes have them, but they really do disturb the peace. ",
+                    "created": "Sun, 11 Oct 2020 16:20:39 GMT"
+                },
+                {
+                    "text": "Anyway here's the video.",
+                    "created": "Sun, 11 Oct 2020 16:23:58 GMT",
+                    "inlineVideo": "https://www.youtube.com/watch?v=DwcD8ftY0Mg"
+                }
+            ]
+        }
+    ]
+}
