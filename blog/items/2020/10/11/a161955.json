@@ -1,0 +1,21 @@
+{
+    "text": "Inline videos on Scripting News",
+    "created": "Sun, 11 Oct 2020 16:19:55 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Added a new feature today to the blog. Still have to check it out in the nightly email. I can now include videos inline, which is a feature I've wanted for special occasions.",
+            "created": "Sun, 11 Oct 2020 16:20:06 GMT",
+            "image": "http://scripting.com/images/2019/06/11/strongman.png"
+        },
+        {
+            "text": "Below is a <a href=\"https://www.youtube.com/watch?v=DwcD8ftY0Mg&feature=emb_logo\">video</a> I took on a country road as some bikers roared by. It seems like I must have been standing there waiting for them, but it was a coincidence. They are really awful, incredibly loud, you can hear them for ten minutes as they go up and down the hills in and out of the valley. I'm not sure why they don't use their mufflers or if their bikes have them, but they really do disturb the peace. ",
+            "created": "Sun, 11 Oct 2020 16:20:39 GMT"
+        },
+        {
+            "text": "Anyway here's the video.",
+            "created": "Sun, 11 Oct 2020 16:23:58 GMT",
+            "inlineVideo": "https://www.youtube.com/watch?v=DwcD8ftY0Mg"
+        }
+    ]
+}
