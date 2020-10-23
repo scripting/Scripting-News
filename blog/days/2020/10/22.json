@@ -1,0 +1,49 @@
+{
+    "text": "October 22",
+    "created": "Thu, 22 Oct 2020 15:41:42 GMT",
+    "name": "22",
+    "subs": [
+        {
+            "text": "<a href=\"https://en.m.wikipedia.org/wiki/Tying_(commerce)\">Tying</a>. A big company uses a monopoly in one area to create a monopoly in another. It was the basis for the anti-trust case against Microsoft in the 90s. They were forcing PC manufacturers to bundle their web browser, which was not a monopoly with their operating system, which was, thus forcing the leading browser, Netscape, out of the market. This happens over and over in tech. Google does it by using their monopoly in search to crush competitors in other categories. It can't be allowed. Products must compete on merit, not because we are forced to use them. ",
+            "created": "Thu, 22 Oct 2020 17:42:49 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "I think I will at least try to watch the debate tonight. Too much at stake, and too much <a href=\"https://en.wikipedia.org/wiki/Looney_Tunes\">Looney Tunes</a> from El Orange the would-be dictator of the United States of America. ",
+            "created": "Thu, 22 Oct 2020 15:48:34 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/03/27/wileECoyote.png"
+        },
+        {
+            "text": "I had way too much to eat and drink at dinner yesterday, but it was great. A local <a href=\"http://www.cucinawoodstock.com/\">restaurant</a> has a great patio, set up comfortably, and they serve excellent food. <a href=\"https://en.wikipedia.org/wiki/Woodstock,_New_York\">Woodstock</a> is a small town, but it has the amenties of a town in the Bay Area (e.g. Berkeley, Palo Alto). But I did eat too much and I'm paying the price for it today. Oy!",
+            "created": "Thu, 22 Oct 2020 15:41:43 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Glad that Andrew is reviewing \"PagePark\" now. There are all kinds of loose-ends. That's what happens when you're developing only for yourself. Looking forward to going back over it and cleaning things up a bit. It's a very fine piece of software imho. In many ways the web server I've always wanted. ",
+            "created": "Thu, 22 Oct 2020 15:43:41 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "One outcome from our recent back and forth is that I'm re-recommending <a href=\"http://my.this.how/davewiner/howtosInLittleOutliner.opml\">my.this.how</a>. It's nice connection between \"LO2\" and the FAQ-type pages I've been doing, like <a href=\"http://this.how/googleAndHttp\">Google and HTTP</a> and the <a href=\"http://this.how/trolls\">trolling</a> faq (and many others). Blogs aren't enough. You need a place to put long-lived docs that you're going to work on over time. ",
+            "created": "Thu, 22 Oct 2020 15:44:10 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Since Andrew is working on a new version of the <a href=\"http://home.rsscloud.co/\">rssCloud</a> server now, he asked if it would make sense to support \"OPML\" in rssCloud. That would mean adding a &lt;head> element that had all the info that's in the rssCloud element in an RSS feed. It's a good idea, but.. (sorry) -- OPML already has a realtime notification service, it came after rssCloud and is based on <a href=\"https://en.wikipedia.org/wiki/WebSocket\">web sockects</a>. It's the core tech behind the [%search: Instant Outliner%], a protocol that \"LO2\" implements. ",
+            "created": "Thu, 22 Oct 2020 16:58:31 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "Andrew has a <a href=\"https://github.com/andrewshell/rsscloud-server/releases/tag/2.0.0-beta.0\">new version</a> of the rssCloud server, a beta of v2.0.",
+            "created": "Thu, 22 Oct 2020 18:05:45 GMT",
+            "type": "outline"
+        },
+        {
+            "text": "We <a href=\"https://www.youtube.com/watch?v=yDDj2-c-q-4&feature=emb_logo\">count</a>!",
+            "created": "Thu, 22 Oct 2020 18:27:53 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=yDDj2-c-q-4"
+        }
+    ]
+}
