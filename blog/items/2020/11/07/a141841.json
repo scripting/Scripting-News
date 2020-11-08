@@ -1,0 +1,26 @@
+{
+    "text": "Fargo digging",
+    "created": "Sat, 07 Nov 2020 14:18:41 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "For a project I'm doing, I wanted to see how \"Fargo\" did calendar structures. This is what I found out. It's here primarily so I can find it again later through search engines. ",
+            "created": "Sat, 07 Nov 2020 14:18:43 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "First, here's an <a href=\"http://scripting.com/publicfolder/misc/fargoOutlines/myPublicProfile.opml\">OPML file</a> from Fargo, that I used briefly in the end of 2013 and beginning of 2014 to edit my blog. ",
+                    "created": "Sat, 07 Nov 2020 14:19:05 GMT"
+                },
+                {
+                    "text": "I was interested in the attributes that Fargo used. I wanted to see what type attributes it used for calendars. I was surprised to see that it didn't use any. It did use a <i>name</i> attribute. And now I can see what it used that for, it was for the name of the file. It allowed you to change the text of the headline without affecting the name of the file the HTML rendering was saved in. This had come up as a question in some of the work we're doing with Old School. ",
+                    "created": "Sat, 07 Nov 2020 14:20:49 GMT"
+                },
+                {
+                    "text": "For clues about Fargo, I found the <a href=\"http://fargo.io/blog/\">Fargo blog</a> indispensible. Here's the <a href=\"http://scripting.com/publicfolder/misc/fargoOutlines/fargoBlog.opml\">OPML source</a> for the Fargo blog. ",
+                    "created": "Sat, 07 Nov 2020 14:22:23 GMT"
+                }
+            ]
+        }
+    ]
+}
