@@ -3,7 +3,7 @@
 	<head>
 		<title>Glossary</title>
 		<dateCreated>Tue, 13 Jun 2017 13:42:31 GMT</dateCreated>
-		<dateModified>Mon, 14 Sep 2020 13:51:11 GMT</dateModified>
+		<dateModified>Thu, 12 Nov 2020 18:49:43 GMT</dateModified>
 		<ownerName>dave@scripting.com</ownerName>
 		<ownerId>https://twitter.com/davewiner/</ownerId>
 		<expansionState>1,6,8,13,15,17,30,32,39,47,66,74,77,79,81,84,92,106,112,119,121,123,125,127,129,134</expansionState>
@@ -13,13 +13,13 @@
 		<windowBottom>831</windowBottom>
 		<windowRight>1472</windowRight>
 		<flPublic>true</flPublic>
-		<lastCursor>29</lastCursor>
+		<lastCursor>9</lastCursor>
 		<ownerTwitterScreenName>davewiner</ownerTwitterScreenName>
 		<urlPublic>http://electricserver.scripting.com/users/davewiner/electric/glossary.opml</urlPublic>
 		<urlJson>http://electricserver.scripting.com/users/davewiner/electric/glossary.json</urlJson>
 		<urInstant>http://instantoutliner.com/63</urInstant>
 		<urlUpdateSocket>ws://electricserver.scripting.com:5383/</urlUpdateSocket>
-		<longTitle>Dave Winer's glossary for Scripting News</longTitle>
+		<longTitle>DW glossary</longTitle>
 		<description>The top level items are terms, the second-level items are the value of the term. As text is rendered, it's run through this list, and substitutions made. </description>
 		</head>
 	<body>
@@ -149,7 +149,7 @@
 		<outline text="&quot;Little Card Editor&quot;">
 			<outline text="&lt;a href=&quot;http://littlecardeditor.com/&quot;&gt;Little Card Editor&lt;/a&gt;"/>
 			</outline>
-		<outline text="&quot;Little Facebook Editor&quot;">
+		<outline text="&quot;Little Facebook Editor&quot;" created="Thu, 12 Nov 2020 18:08:45 GMT">
 			<outline text="&lt;a href=&quot;http://littlecardeditor.com/text/&quot;&gt;Little Facebook Editor&lt;/a&gt;"/>
 			</outline>
 		<outline text="&quot;little outliner&quot;" created="Tue, 27 Jun 2017 12:43:09 GMT">
