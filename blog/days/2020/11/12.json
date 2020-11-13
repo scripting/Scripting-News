@@ -1,0 +1,113 @@
+{
+    "text": "November 12",
+    "created": "Thu, 12 Nov 2020 14:51:30 GMT",
+    "type": "calendarDay",
+    "name": "12",
+    "subs": [
+        {
+            "text": "Trump is firing the people who protect the country. I wonder if that's because some other country is going to attack us.",
+            "created": "Thu, 12 Nov 2020 22:02:07 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The difference in quality between the two groups of <a href=\"https://fivethirtyeight.com/features/georgias-runoffs-will-determine-control-of-the-senate-heres-what-we-know-so-far/\">Georgia senate candidates</a>, Dem and Repub are like night and day. The Dems will use the power of the US government to be sure the Georgians get through the winter of the pandemic in as good shape as possible. The Repubs will not. It's really simple. And when they save the lives of thousands of Georgians, they will also be saving the lives of many thousands of people in every other state of the union. That's power! Thanks in advance to Georgia for helping us out. We won't forget. ",
+            "created": "Thu, 12 Nov 2020 21:54:10 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/12/22/santa.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/Rosental/status/1326903963040559106\">Rosental</a>: \"As a journalist, I covered many coups in Latin America. If I were still there and saw a president who doesn't accept his defeat in a legitimate election, fires the head of the military who refuses to use troops against protesters, I would conclude that a coup d'état was imminent.\"",
+            "created": "Thu, 12 Nov 2020 15:14:31 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://en.wikipedia.org/wiki/Saturday_Night_Live\">SNL</a> must planning a new <a href=\"https://en.wikipedia.org/wiki/Jeopardy!\">Jeopardy</a> hosted by Trump.",
+            "created": "Thu, 12 Nov 2020 14:51:31 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Home exercise in winter",
+            "created": "Thu, 12 Nov 2020 21:37:08 GMT",
+            "type": "outline",
+            "description": "I'd like to start riding daily asap.",
+            "subs": [
+                {
+                    "text": "I have plenty of ways to get exercise in the summer, but winter has been a challenge. I don't like riding a stationary bike, I tried mounting my street bike on a Zwift device, and yuk, I didn't like the simulated racing, I don't ride competitively. And the street scenes were primitive. Unlike my regular real-world rides I always was impatient for the exercise to be over. When I'm riding outdoors, I feel very differently.",
+                    "created": "Thu, 12 Nov 2020 21:37:15 GMT",
+                    "image": "http://scripting.com/images/2020/11/12/bowflex.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A friend suggested getting a rowing machine, and somehow that seemed better. But when I looked into the devices I started feeling it might be the same. ",
+                    "created": "Thu, 12 Nov 2020 21:39:03 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "We just had five unusual warm November days, I rode all of them, outdoors, and was thinking that the difference may be the feel of the ride. Real bike rides you almost never are straight up and down. You lean one way then another, and shift your weight to different sides. Maybe that's the diff. Then I saw an ad for <a href=\"https://www.bowflex.com/bikes/velocore.html/\">this Bowflex bike</a> that leans! It looks in the <a href=\"https://www.youtube.com/watch?v=9DseC78ShNc\">video</a> like it may be more fun to ride. ",
+                    "created": "Thu, 12 Nov 2020 21:39:29 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I posted a bit about this <a href=\"https://twitter.com/davewiner/status/1326968117579436037\">on Twitter</a>. Megan McCarthy sent a <a href=\"https://twitter.com/Megan/status/1326968332717789196\">pointer</a> to a review of the <a href=\"https://www.reviewed.com/health/best-right-now/best-stationary-exercise-bikes\">category</a> and a <a href=\"https://www.reviewed.com/health/features/echelon-review-cheaper-spin-bike-good-peloton\">specific bike</a> I asked about. I might get a Peloton, but it seems I might not have it until January. I'd like to start riding daily asap. But I'm concerned I'm going to spend a lot more money and still not have something I want to use. ",
+                    "created": "Thu, 12 Nov 2020 21:40:48 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Includes in Little Outliner",
+            "created": "Thu, 12 Nov 2020 15:15:19 GMT",
+            "type": "outline",
+            "description": "When you expand an include in LO2, the text from the included outline is expanded below the node. ",
+            "metaImage": "http://scripting.com/images/2020/11/12/alice.png",
+            "subs": [
+                {
+                    "text": "A few days ago a user asked that \"LO2\" support \"includes.\" I did a little investigating, and found that it already supports them. So I thought it might be a good idea to explain what they are and how they work, maybe other people will find it interesting and/or useful.  ",
+                    "created": "Thu, 12 Nov 2020 15:15:28 GMT",
+                    "image": "http://scripting.com/images/2017/08/03/alice.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The idea comes from the <a href=\"https://en.wikipedia.org/wiki/C_(programming_language)\">C programming language</a>. It had the ability to include one file in another. When you included a file, it was as if its text was present in the file doing the including. The C compiler couldn't tell the difference. ",
+                    "created": "Thu, 12 Nov 2020 15:16:37 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This is what a C include statement looks like. ",
+                    "created": "Thu, 12 Nov 2020 17:29:33 GMT",
+                    "flCodeSubs": "true",
+                    "subs": [
+                        {
+                            "text": "#include \"mycode.c\"",
+                            "created": "Thu, 12 Nov 2020 15:18:01 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "In an outliner it works similarly. A node is an <i>include</i> if it has a <i>type</i> attribute with the value include, and a <i>url</i> attribute that points to an OPML file with the outline to be included. ",
+                    "created": "Thu, 12 Nov 2020 15:18:14 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "When you expand an include in LO2, the text from the included outline is expanded below the node. You can edit the text, but none of the edits will be saved to the included file. You should think of it as read-only, even though LO2 doesn't enforce that. ",
+                    "created": "Thu, 12 Nov 2020 15:19:38 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's <a href=\"http://instantoutliner.com/mi\">an outline</a> that opens in LO2 that illustrates. ",
+                    "created": "Thu, 12 Nov 2020 15:19:09 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
