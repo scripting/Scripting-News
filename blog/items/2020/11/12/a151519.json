@@ -1,0 +1,49 @@
+{
+    "text": "Includes in Little Outliner",
+    "created": "Thu, 12 Nov 2020 15:15:19 GMT",
+    "type": "outline",
+    "description": "When you expand an include in LO2, the text from the included outline is expanded below the node. ",
+    "metaImage": "http://scripting.com/images/2020/11/12/alice.png",
+    "subs": [
+        {
+            "text": "A few days ago a user asked that \"LO2\" support \"includes.\" I did a little investigating, and found that it already supports them. So I thought it might be a good idea to explain what they are and how they work, maybe other people will find it interesting and/or useful.  ",
+            "created": "Thu, 12 Nov 2020 15:15:28 GMT",
+            "image": "http://scripting.com/images/2017/08/03/alice.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "The idea comes from the <a href=\"https://en.wikipedia.org/wiki/C_(programming_language)\">C programming language</a>. It had the ability to include one file in another. When you included a file, it was as if its text was present in the file doing the including. The C compiler couldn't tell the difference. ",
+            "created": "Thu, 12 Nov 2020 15:16:37 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "This is what a C include statement looks like. ",
+            "created": "Thu, 12 Nov 2020 17:29:33 GMT",
+            "flCodeSubs": "true",
+            "subs": [
+                {
+                    "text": "#include \"mycode.c\"",
+                    "created": "Thu, 12 Nov 2020 15:18:01 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "In an outliner it works similarly. A node is an <i>include</i> if it has a <i>type</i> attribute with the value include, and a <i>url</i> attribute that points to an OPML file with the outline to be included. ",
+            "created": "Thu, 12 Nov 2020 15:18:14 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "When you expand an include in LO2, the text from the included outline is expanded below the node. You can edit the text, but none of the edits will be saved to the included file. You should think of it as read-only, even though LO2 doesn't enforce that. ",
+            "created": "Thu, 12 Nov 2020 15:19:38 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's <a href=\"http://instantoutliner.com/mi\">an outline</a> that opens in LO2 that illustrates. ",
+            "created": "Thu, 12 Nov 2020 15:19:09 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
