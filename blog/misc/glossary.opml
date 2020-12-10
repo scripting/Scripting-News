@@ -3,17 +3,17 @@
 	<head>
 		<title>Glossary</title>
 		<dateCreated>Tue, 13 Jun 2017 13:42:31 GMT</dateCreated>
-		<dateModified>Thu, 12 Nov 2020 18:49:43 GMT</dateModified>
+		<dateModified>Sun, 06 Dec 2020 16:36:49 GMT</dateModified>
 		<ownerName>dave@scripting.com</ownerName>
 		<ownerId>https://twitter.com/davewiner/</ownerId>
-		<expansionState>1,6,8,13,15,17,30,32,39,47,66,74,77,79,81,84,92,106,112,119,121,123,125,127,129,134</expansionState>
+		<expansionState>1,6,8,13,15,17,30,37,45,64,72,75,77,79,82,90,103,106,112,117,121,123,125,127,129,131,136</expansionState>
 		<vertScrollState>1</vertScrollState>
 		<windowTop>631</windowTop>
 		<windowLeft>1087</windowLeft>
 		<windowBottom>831</windowBottom>
 		<windowRight>1472</windowRight>
 		<flPublic>true</flPublic>
-		<lastCursor>9</lastCursor>
+		<lastCursor>116</lastCursor>
 		<ownerTwitterScreenName>davewiner</ownerTwitterScreenName>
 		<urlPublic>http://electricserver.scripting.com/users/davewiner/electric/glossary.opml</urlPublic>
 		<urlJson>http://electricserver.scripting.com/users/davewiner/electric/glossary.json</urlJson>
@@ -91,9 +91,6 @@
 			</outline>
 		<outline text="&quot;fargo&quot;" created="Mon, 14 Sep 2020 13:50:34 GMT">
 			<outline text="&lt;a href=&quot;http://fargo.io/&quot;&gt;Fargo&lt;/a&gt;"/>
-			</outline>
-		<outline text="&quot;rssCloud&quot;" created="Mon, 14 Sep 2020 13:50:35 GMT">
-			<outline text="&lt;a href=&quot;http://home.rsscloud.co/&quot;&gt;rssCloud&lt;/a&gt;" created="Mon, 14 Sep 2020 13:50:40 GMT"/>
 			</outline>
 		<outline text="&quot;Fauci&quot;" created="Mon, 14 Sep 2020 13:49:03 GMT">
 			<outline text="&lt;a href=&quot;https://en.wikipedia.org/wiki/Anthony_Fauci&quot;&gt;Fauci&lt;/a&gt;" created="Mon, 14 Sep 2020 13:49:09 GMT"/>
@@ -284,6 +281,9 @@
 		<outline text="&quot;RSS-in-JSON&quot;" created="Tue, 13 Jun 2017 16:15:38 GMT">
 			<outline text="&lt;a href=&quot;https://github.com/scripting/Scripting-News/blob/master/rss-in-json/README.md&quot;&gt;RSS-in-JSON&lt;/a&gt;" created="Tue, 13 Jun 2017 16:15:45 GMT"/>
 			</outline>
+		<outline text="&quot;rssCloud&quot;" created="Mon, 14 Sep 2020 13:50:35 GMT">
+			<outline text="&lt;a href=&quot;http://home.rsscloud.co/&quot;&gt;rssCloud&lt;/a&gt;" created="Mon, 14 Sep 2020 13:50:40 GMT"/>
+			</outline>
 		<outline text="&quot;Rudy Kiesler&quot;" created="Wed, 31 Jan 2018 15:43:58 GMT">
 			<outline text="&lt;a href=&quot;http://rudykiesler.com/&quot;&gt;Rudy Kiesler&lt;/a&gt;" created="Wed, 31 Jan 2018 15:44:03 GMT"/>
 			</outline>
@@ -313,6 +313,9 @@
 			</outline>
 		<outline text="&quot;thesaurus.land&quot;">
 			<outline text="&lt;a href=&quot;http://thesaurus.land/&quot;&gt;thesaurus.land&lt;/a&gt;"/>
+			</outline>
+		<outline text="&quot;thread.center&quot;" created="Sun, 06 Dec 2020 16:36:14 GMT">
+			<outline text="&lt;a href=&quot;http://thread.center/&quot;&gt;thread.center&lt;/a&gt;" created="Sun, 06 Dec 2020 16:36:26 GMT"/>
 			</outline>
 		<outline text="&quot;trex&quot;">
 			<outline text="&lt;a href=&quot;http://smallpicture.com/trexDocs.html&quot;&gt;Trex&lt;/a&gt;"/>
