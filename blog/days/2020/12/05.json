@@ -1,0 +1,28 @@
+{
+    "text": "December 5",
+    "created": "Sat, 05 Dec 2020 18:20:10 GMT",
+    "type": "calendarDay",
+    "name": "05",
+    "subs": [
+        {
+            "text": "People seem to think Trump is <a href=\"https://www.military.com/daily-news/2020/11/10/key-pentagon-leaders-replaced-trump-allies-after-espers-firing.html\">just being destructive</a>, but what if the real coup is yet to come. What if he's firing people in the <a href=\"https://en.wikipedia.org/wiki/United_States_Department_of_Defense\">DoD</a> who would get in the way of a military takeover of the government.",
+            "created": "Sat, 05 Dec 2020 21:31:07 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/11/25/godless.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Studying the Unix source code when I was a CS grad student was a revelation. Here's how I summarize the gestalt. <i>This code looks like what it does.</i> It takes a lot of time, care and craft to do. Up till that point, my code tended to quickly get out of control, but somehow the Unix developers kept it clean. From that point on I knew it was possible, and it's what I always strive for. Some languages make it easier than others, but even if you're writing in assembly language, if it's a well crafted language, you can make the code look like what it does. JavaScript is notorious for making it very difficult. As a language designer I keep wanting to fix it. Someday I will. :boom:",
+            "created": "Sat, 05 Dec 2020 18:20:17 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "In programming there's a moment when the code you're working on first does what you're trying to make it do. It's only barely doing it. But it just went from doing nothing to doing The Thing. I call this the moment when <i>the first blade of grass pops through the surface of the earth. </i>Later there will be a nice lawn here. You hope it'll be thick and green. But for now it's just the one blade of grass. It's nice moment. The code is no longer just an idea, it's now a thing. ",
+            "created": "Sat, 05 Dec 2020 19:00:00 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}

@@ -1,0 +1,6 @@
+{
+    "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/195\">Thread</a>: Suppose one were to contemplate a new scripting language that was minimally different from JavaScript, was implemented by a pre-processor (ie it generated JavaScript code), that could handle any JavaScript code or data structure, but -- allowed you to implement asynchronous functions that were called synchronously, both in the built-in functions and developer-defined functions, without using special syntax such as promises or await/async to invoke them. Has anyone attempted that? Delivered? ",
+    "created": "Sat, 14 Nov 2020 16:04:09 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}

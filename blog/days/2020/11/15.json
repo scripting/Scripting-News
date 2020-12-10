@@ -1,0 +1,58 @@
+{
+    "text": "November 15",
+    "created": "Sun, 15 Nov 2020 14:53:15 GMT",
+    "type": "calendarDay",
+    "name": "15",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1327986755853807621\">Have you seen</a> the new season of <a href=\"http://bingeworthy.io/tv/?id=https%3A%2F%2Fwww.metacritic.com%2Ftv%2Fthe-crown\">The Crown</a>? If so, is it great?",
+            "created": "Sun, 15 Nov 2020 14:53:16 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Nate Silver put together a <a href=\"https://twitter.com/NateSilver538/status/1328057404722999300\">quick and dirty table</a> with the share of each state's population ever infected with Covid. 39% of people in North Dakota have been infected. In New York, 18%, California 13%. ",
+            "created": "Sun, 15 Nov 2020 19:52:29 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/TaylorLorenz/status/1328026134139682816\">People are tweeting</a> that Substack is building its own version of Google Reader. I'd be surprised. Imho more likely they're creating a place to read stories published on Substack, as they are published. I'd bet this is more like the reading function in Medium than Google Reader.",
+            "created": "Sun, 15 Nov 2020 17:51:45 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I pay $65 a month for <a href=\"https://tv.youtube.com/\">YouTube TV</a>, which I use to watch CNN and MSNBC for a couple of hours each night. I wonder if there's a less expensive way to get these services. Seems like a lot of money, considering both channels have ads. ",
+            "created": "Sun, 15 Nov 2020 19:18:01 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Right now there are only two stories about Trump that matter imho. 1. How he is leaving and when. 2. What damage will he do before he leaves. Anything else is just him trying to cling to a dream that is over.",
+            "created": "Sun, 15 Nov 2020 19:12:57 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you haven't listened to the <a href=\"https://www.nytimes.com/2020/01/23/podcasts/1619-podcast.html\">1619 podcast</a>, I highly recommend it. It's a whole new way to view American history, compared to what we were taught in school when I grew up. Five episodes. ",
+            "created": "Sun, 15 Nov 2020 17:11:01 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Has any news org written a story about what would happen if January 20 comes and Trump refuses to leave the White House. Not speculation, ie not whether it will or will not happen, but attempt to gather facts about it. Request an interview with the head of the Secret Service, for example. Seems to me this at least rises to the level of the famous <a href=\"https://www.youtube.com/watch?v=zUKW0fL-OqY\">\"I'm in control here\"</a> press conference with <a href=\"https://en.wikipedia.org/wiki/Alexander_Haig\">Alexander Haig</a> in the Reagan administration. There was a West Wing <a href=\"https://www.imdb.com/title/tt0745639/\">episode</a> about this, btw, when the president is shot. Danny wants to know who was in charge then. CJ can't figure it out. Anyway what happens on January 21 when parts of the government are still responding to orders from Trump. Get ready because that's a possibility. That should be on the op-ed pages of every news org, now.",
+            "created": "Sun, 15 Nov 2020 17:12:55 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/11/15/fatladysinging.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I started a <a href=\"https://github.com/scripting/Scripting-News/issues/195#issuecomment-727586716\">thread</a> on yesterday's contemplation of a preprocessor for JavaScript that would allow us to define functions that perform asynchronous operations yet be called as if it were synchronous. I think this can be accomplished with a preprocessor. I want a scripting language for my <a href=\"http://littleoutliner.com/\">JS outliner</a>, that's the motivation.  ",
+            "created": "Sun, 15 Nov 2020 15:21:38 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}

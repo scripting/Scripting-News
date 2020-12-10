@@ -1,0 +1,6 @@
+{
+    "text": "Studying the Unix source code when I was a CS grad student was a revelation. Here's how I summarize the gestalt. <i>This code looks like what it does.</i> It takes a lot of time, care and craft to do. Up till that point, my code tended to quickly get out of control, but somehow the Unix developers kept it clean. From that point on I knew it was possible, and it's what I always strive for. Some languages make it easier than others, but even if you're writing in assembly language, if it's a well crafted language, you can make the code look like what it does. JavaScript is notorious for making it very difficult. As a language designer I keep wanting to fix it. Someday I will. :boom:",
+    "created": "Sat, 05 Dec 2020 18:20:17 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}

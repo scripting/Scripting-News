@@ -1,0 +1,6 @@
+{
+    "text": "The truly significant developments, when viewed in hindsight, are almost never the ones that were hyped at the time of their introduction. There are exceptions, the IBM PC and Mac, both created important platforms, were quick hits. But usually the impactful products develop over time, maybe that's because to be a great product you need a quiet period to adapt to how people use your product. Right now I'm thinking about the way ISPs are gradually moving away from the server model to the app model, as pioneered by Heroku. I still plan to look at Digital Ocean's new offering. I have used [%search: Glitch%] and of course [%search: Heroku%]. Glitch is free, can't beat that price, but you wonder if it's just an introductory offer? Heroku's per-app price was way too high, made it diseconomic, which is unfortunate because it was so much more rational a model than managing your own servers, which is what I've been doing since switching off Heroku. All this is part of a larger thread that maybe it's time to move away from static sites because net apps are being successfully commoditized. ",
+    "created": "Fri, 20 Nov 2020 15:11:35 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}

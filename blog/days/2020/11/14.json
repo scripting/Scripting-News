@@ -1,0 +1,84 @@
+{
+    "text": "November 14",
+    "created": "Sat, 14 Nov 2020 15:01:56 GMT",
+    "type": "calendarDay",
+    "name": "14",
+    "subs": [
+        {
+            "text": "Today's must-listen podcast: <a href=\"https://radioopensource.org/election-disconnection/\">Radio Open Source</a>. A review of the election with eight regular guests. Take-away: Dems need candidates that working class people connect with. ",
+            "created": "Sat, 14 Nov 2020 20:10:01 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davegandy/status/1327627432346660864\">Poll</a>: Are you going to a Thanksgiving dinner with more than your immediate family?",
+            "created": "Sat, 14 Nov 2020 15:01:57 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/195\">Thread</a>: Suppose one were to contemplate a new scripting language that was minimally different from JavaScript, was implemented by a pre-processor (ie it generated JavaScript code), that could handle any JavaScript code or data structure, but -- allowed you to implement asynchronous functions that were called synchronously, both in the built-in functions and developer-defined functions, without using special syntax such as promises or await/async to invoke them. Has anyone attempted that? Delivered? ",
+            "created": "Sat, 14 Nov 2020 16:04:09 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Electoral College shenanigans?",
+            "created": "Sat, 14 Nov 2020 16:17:37 GMT",
+            "type": "outline",
+            "description": "It's still not clear exactly how and who will remove Trump from the White House if he doesn't go voluntarily on January 20.",
+            "metaImage": "http://scripting.com/images/2020/11/14/trumpLoserFailure.png",
+            "subs": [
+                {
+                    "text": "We've been aware since long before the election that the Repubs could <a href=\"http://scripting.com/2020/11/06.html#a153013\">play games</a> with the Electoral College, appointing a group of Electors in states Biden won with Republican legislatures, who do not vote according to the popular vote. This was contemplated in Florida in 2000 by its Republican legislature, but was made unnecessary by the Supreme Court decision.  ",
+                    "created": "Sat, 14 Nov 2020 15:02:38 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Then I heard <a href=\"http://scripting.com/2020/11/13.html#a180723\">Trippi's theory</a>, that McConnell et al are using Trump to support the Republican candidates in the Georgia runoff on January 5. I found it convincing, but the theory doesn't say what happens after that. What if the Electoral College (December 14, a couple of weeks before January 5) elects Biden? Hard to imagine Trump campaigning too enthusiastically for Loeffler and Perdue. ",
+                    "created": "Sat, 14 Nov 2020 16:18:15 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Then this <a href=\"https://www.theguardian.com/commentisfree/2020/nov/12/trump-election-concede-republicans-democrats\">Guardian article</a> I read last night left me convinced that the Repubs should be considered seriously as trying to keep Trump in power through Electoral College shenanigans. ",
+                    "created": "Sat, 14 Nov 2020 16:18:29 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And finally <a href=\"https://twitter.com/jpaceDC/status/1327620970056720384\">this tweet</a> from AP Washington bureau chief, <a href=\"https://twitter.com/jpaceDC\">Julie Pace</a>, that says \"GOP leaders in four critical states won by Biden say they won’t participate in a legally dubious scheme to flip electors to Trump. Their comments effectively shut down a half-baked plot some Republicans floated as a last chance to keep Trump in office.\" ",
+                    "created": "Sat, 14 Nov 2020 16:18:52 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's still not clear exactly how and who will remove Trump from the White House if he doesn't go voluntarily on January 20. ",
+                    "created": "Sat, 14 Nov 2020 16:19:02 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Meanwhile it couldn't hurt to have peaceful <a href=\"http://scripting.com/2016/11/16/december19IsABigDay.html\">candlelight vigils</a> in the Republican state capitals: Madison, Lansing, Harrisburg, Atlanta, Phoenix. ",
+                    "created": "Sat, 14 Nov 2020 16:27:53 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Signage outside Trump's White House. ",
+                    "created": "Sat, 14 Nov 2020 15:11:38 GMT",
+                    "type": "outline",
+                    "inlineImage": "http://scripting.com/images/2020/11/14/whiteHouseSignage.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The \"Battle for the White House\" is over folks. To the extent there is a battle, it's a battle for the Constitution, the rule of law, democracy, the United States, all of our war dead going back to the Revolution. If there's a battle that's what it's about.",
+                    "created": "Sat, 14 Nov 2020 17:06:05 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It will soon be time to ask the Secret Service what they do if on January 20th, the previous president refuses to leave the White House. They will probably say they can't comment on that. But they have to. That's what it's come down to. Who will they take orders from? ",
+                    "created": "Sat, 14 Nov 2020 17:06:39 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}

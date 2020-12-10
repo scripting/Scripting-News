@@ -1,0 +1,67 @@
+{
+    "text": "November 25",
+    "created": "Wed, 25 Nov 2020 15:13:55 GMT",
+    "type": "calendarDay",
+    "name": "25",
+    "subs": [
+        {
+            "text": "Tomorrow is Thanksgiving. Everyone be careful out there. ",
+            "created": "Thu, 26 Nov 2020 01:56:26 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Obviously <a href=\"https://twitter.com/staceyabrams\">Stacey Abrams</a> should be the next chair of the Democratic Party. Just <a href=\"http://scripting.com/images/2020/11/25/electoralMap.png\">look at the electoral map</a>. There's the great state of Georgia, a solid blue in a sea of red. Someone figured it out. Someone was determined it would work. Someone <i>made</i> it work. Another good candidate would be Pete Buttigieg. Because the Dems need to talk to white people. It may not be popular, but if they could steal ten percent of the Trump base from the Repubs, things would go a lot smoother.",
+            "created": "Thu, 26 Nov 2020 01:34:04 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/11/25/smallmap.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Where did people get the idea that this holiday season could be like last year's holiday season? <a href=\"http://this.how/cuomo/\">Andrew Cuomo</a> says it's commercials, and I think he's right. Check out <a href=\"https://www.youtube.com/watch?v=LS8npcVD4Ik\">this Etsy commercial</a>. A feel-good holiday dinner. No masks. People of all generations together, indoors, no social distancing. Where did they get the idea that this kind of ad was appropriate in 2020? I'm sure the question came up.  ",
+            "created": "Thu, 26 Nov 2020 01:22:13 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=LS8npcVD4Ik",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"http://scripting.com/2016/05/04/1237.html\">Political parties</a> must become social nets. We're going through yet another Democratic transition where the voters are being forgotten as the insiders turn to governance. Our job is simply to give them money and vote. That's why it's working so poorly, why polling isn't able to read the electorate. Why as soon as 2022, the Dems could lose the House and then Biden will surely be impeached. We need to organize, <i>so we can help</i> -- using the best networking tools available. ",
+            "created": "Thu, 26 Nov 2020 01:16:21 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "[%search: Occam‘s News%] reports the only reasons Trump pardons: 1. He’s being paid $ to do it. 2. He’s being blackmailed.",
+            "created": "Thu, 26 Nov 2020 01:13:59 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The most <a href=\"http://scripting.com/misc/linkblogbase/report1/\">frequently cited domains</a> from my linkblog. BTW, this is the query that generated that table: <i>select domain, count(domain) from links group by domain order by count(domain) desc limit 100; </i>",
+            "created": "Wed, 25 Nov 2020 15:13:56 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "There was a time, a few years ago, when the [%search: NYT%] went to war with [%search: Facebook%], leading the rest of the journalism industry. Since then I've never seen the NYT say anything positive about Facebook, or even present an alternate point of view of something evil they reported about Facebook. Add their obvious conflict of interest, and you have exactly what Fox, Breitbart or Newsmax does, except with added arrogance and pretense. They aren't even trying to present the factual information so their readers can make up their own minds. This has a very strong effect, it keeps people who follow the NYT from using Facebook to organize. Even on simple totally non-controversial things like being a way for neighbors to communicate. News is too powerful to be this fucked up. That should be the new Washington Post slogan like the one about democracy (which btw, they haven't done a great job of preserving, just sayin). That said, guess which pub is #1 on my <a href=\"http://scripting.com/misc/linkblogbase/report1/\">list</a> of most frequently cited domains? ",
+            "created": "Wed, 25 Nov 2020 15:52:01 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/05/19/beanz.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Want to fuck up the Repubs? Move to a red state.",
+            "created": "Thu, 26 Nov 2020 01:14:11 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Look at all the <a href=\"http://scripting.com/images/2020/11/25/biden.png\">networks carrying</a> the president-elect. ",
+            "created": "Wed, 25 Nov 2020 20:23:32 GMT",
+            "type": "outline",
+            "inlineImage": "http://scripting.com/images/2020/11/25/biden.png",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
