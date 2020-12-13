@@ -1,0 +1,48 @@
+{
+    "text": "How to ask for help with software",
+    "created": "Sat, 12 Dec 2020 16:54:29 GMT",
+    "type": "outline",
+    "description": "1. What you did. 2. What you expected to happen. 3. What actually happened.",
+    "metaImage": "http://scripting.com/images/2020/08/25/countryRoad.png",
+    "subs": [
+        {
+            "text": "Three things your report must include: ",
+            "created": "Sat, 12 Dec 2020 16:54:37 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "What you did.",
+                    "created": "Sat, 12 Dec 2020 16:54:45 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "What you expected to happen.",
+                    "created": "Sat, 12 Dec 2020 16:54:54 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "What actually happened.",
+                    "created": "Sat, 12 Dec 2020 16:55:01 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "It may help to include a screen shot if it reveals something that is hard to communicate in words.   ",
+            "created": "Sat, 12 Dec 2020 16:55:06 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you can access the <a href=\"https://wordpress.org/support/article/using-your-browser-to-diagnose-javascript-errors/\">JavaScript console</a>, take pictures of any messages in red, or anothing else that sounds like an error message.",
+            "created": "Sat, 12 Dec 2020 16:55:27 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you're using free software rememeber that any person who helps you is doing the work for free. Make it easy for them and they're more likely to help. And when it works, say thank you. For good karma. :boom:",
+            "created": "Sat, 12 Dec 2020 16:55:53 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
