@@ -1,0 +1,52 @@
+{
+    "text": "The moment podcasting came into being",
+    "created": "Sun, 13 Dec 2020 16:39:11 GMT",
+    "type": "outline",
+    "metaImage": "http://scripting.com/images/2020/12/13/katzsDelicatessen.png",
+    "description": "It helps to have a user in mind when you're developing. ",
+    "subs": [
+        {
+            "text": "It happened in <a href=\"http://scripting.com/2000/10.html\">October 2000</a> in NYC. I met with Adam Curry over a couple of days at a hotel in midtown on the west side. I mention the meeting in a <a href=\"http://scripting.com/2000/12.html#myUserlandOnTheDesktop\">post</a> on December 28, 2000. Here's an excerpt. ",
+            "created": "Sun, 13 Dec 2020 16:39:21 GMT",
+            "subs": [
+                {
+                    "text": "It helps to have a user in mind when you're developing. In NY, when I met with Adam for two days he kept trying to explain what he wanted, but he's not a software developer, so to my ears it came across like hodgepodge. But I listened anyway, I kept trying to feed back what I heard, but we weren't connecting. ",
+                    "created": "Sun, 13 Dec 2020 16:41:32 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "When I got back home I did what programmers do, I iterated, and kept showing it to him. Is this what you wanted? Eventually we got there, this software hits his button. It's also a framework for his vision for last yard connectivity. You can move huge pieces of content without any waiting and using the bandwidth that you don't use. When you're home sleeping in your bed your desktop system can get the big stuff, you won't even know it's there until it's fully downloaded on your hard disk.",
+                    "created": "Sun, 13 Dec 2020 17:02:41 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This is how video and music are going to move over the net in 2001. Who would have thought RSS would play a role in this? Adam did.",
+                    "created": "Sun, 13 Dec 2020 17:03:29 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "This was the key idea on podcasting. How to distribute large bits of audio and video without having to wait for them to download. At the time, it was the slowness of the net that stood in the way of what we now call podcasting. ",
+            "created": "Sun, 13 Dec 2020 16:42:03 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The significance of this is that it was 20 years ago. It led to a new version of \"RSS\" which supported enclosures for the first time. I also <a href=\"http://scripting.com/2000/12/27.html\">wrote this up</a> on the blog that month. And the software called [%search: MUOTD%] became Radio UserLand, which was a two-way blogging and reading app for RSS. It's something the software industry hasn't replicated, not because it's so hard technically, it isn't. Not sure why. ",
+            "created": "Sun, 13 Dec 2020 16:42:58 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The two-day meetup was on <a href=\"http://scripting.com/2000/10/25.html\">October 25</a> and <a href=\"http://scripting.com/2000/10/26.html\">26</a>. It still took a couple of months from then before we had any real demos. It was competing with other projects we had at UserLand at the time. ",
+            "created": "Sun, 13 Dec 2020 16:54:23 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "There was also a Scripting News dinner at Katz's Deli on Houston St during the same visit on <a href=\"http://scripting.com/2000/10/25.html\">October 25</a>. ",
+            "created": "Sun, 13 Dec 2020 16:57:23 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
