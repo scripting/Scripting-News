@@ -1,0 +1,48 @@
+{
+    "text": "December 17",
+    "created": "Thu, 17 Dec 2020 14:28:28 GMT",
+    "type": "calendarDay",
+    "name": "17",
+    "subs": [
+        {
+            "text": "Should the “paper of record” be behind a paywall?",
+            "created": "Thu, 17 Dec 2020 20:24:30 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "YouTube TV does something smart that all TV services should do. They have a <a href=\"https://tv.youtube.com/\">web interface</a>. So you can go there and edit your preferences, menus, program your DVR, whatever. Roku should do that too, as should <a href=\"http://scripting.com/2020/12/02/211604.html?title=hboMaxIsAHistoricMess\">HBO Mess</a>, or the arcane UI of LG-land. Set up your watch list. Integrate with \"BingeWorthy\"! (i.e. have an API). Connect your world to mine. It's amazing how much of the design of the LG television assumes their TV is the center of our world. It's for watching. Not controlling. Relaxing, meditating, self-medicating with boredom. Not a place where you get big ideas, and if you do it's a lost cause because the UI tools are limited to what a <a href=\"https://www.bhphotovideo.com/c/product/1475971-REG/lg_an_mr19ba_magic_remote_control_with.html?gclid=CjwKCAiAoOz-BRBdEiwAyuvA6zq6C-7XppTkISht-dKLTIKU4-C25MtD4GvWbqQurqJkDVJ8RRRUOhoCRH4QAvD_BwE\">remote</a> can do. ",
+            "created": "Thu, 17 Dec 2020 20:03:35 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/12/17/lgRemote.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "My <a href=\"http://scripting.com/images/2003/campusTourApril/DSC00609.JPG\">friend</a> and former colleague [%search: John Palfrey%] just <a href=\"https://twitter.com/jpalfrey/status/1339583199974883335\">announced</a> that his parents are retiring as deans at Adams House at Harvard. I had heard of <a href=\"https://adamshouse.harvard.edu/people/types-people/faculty-deans\">this role</a>, and wondered what it was about. They have a great <a href=\"http://scripting.com/images/2020/12/17/deanDescription.png\">description</a>. Sounds like a good way to bring a bit of home into a young person's college experience. ",
+            "created": "Thu, 17 Dec 2020 20:16:25 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I was having a talk with a friend about tech stuff and mentioned a few things worth looking at. 1. <a href=\"http://scripting.com/fatpages/about.html\">Fat Web Pages</a>, which were a way of distributing script bits via the web in the 90s. 2. <a href=\"https://en.wikipedia.org/wiki/Robustness_principle\">Postel's Robustness Principle</a>, a cornerstone of web interop. 3. <a href=\"http://scripting.com/98/04/stories/simpleCrossNetworkScript.html\">Simple Cross-Network Scripting</a>, another development project in the 90s, that made it almost as easy to call a procedure over the net as it was to call one on your own machine. I really should write a book with some of these projects and the philosophy behind them. ",
+            "created": "Thu, 17 Dec 2020 16:46:54 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/11/19/marshallAmp.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Trump wants to be \"president\" not president. This came out during the 2016 campaign when he <a href=\"https://www.nytimes.com/2016/07/20/magazine/how-donald-trump-picked-his-running-mate.html\">offered</a> the job of <a href=\"http://scripting.com/images/2020/12/17/excerpt.png\">real president</a> to Kasich. So he'll go to Mar a Lago, take the \"presidential\" oath while Biden takes the actual oath, everyone's happy.",
+            "created": "Thu, 17 Dec 2020 20:15:48 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "An idea of how much snow fell here last night. ",
+            "created": "Thu, 17 Dec 2020 14:28:29 GMT",
+            "type": "outline",
+            "inlineImage": "http://scripting.com/images/2020/12/17/snowfallamount.png",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
