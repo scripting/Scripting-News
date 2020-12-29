@@ -1,0 +1,6 @@
+{
+    "text": "<a href=\"http://scripting.com/misc/metadatademo/\">Somewhat editable tweets</a>. An interesting idea from <a href=\"https://twitter.com/AlecMuffett/status/1343192656470568961\">Alec Moffat</a>. As you may know, you can put metadata in a web page that Twitter will display when you link to it in Twitter. For example, here's a <a href=\"http://scripting.com/misc/metadatademo/\">page</a> with an <a href=\"http://scripting.com/images/2020/12/28/htmlScreenShot.png\">obvious spelling error</a> in the metadata. And here's a <a href=\"https://twitter.com/davewiner/status/1343581454186459138\">tweet</a> that links to the page (<a href=\"http://scripting.com/images/2020/12/28/tweetScreenShot.png\">screen shot</a>). If I correct the spelling error in the metadata, and eventually Twitter will notice, and the tweet will include the changed version. Voila. I've corrected a spelling error in a tweet. It's a really roundabout way to do it, but it works. :boom:",
+    "created": "Mon, 28 Dec 2020 15:05:29 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
