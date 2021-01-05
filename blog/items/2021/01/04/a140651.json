@@ -1,0 +1,76 @@
+{
+    "text": "What Frontier is about",
+    "created": "Mon, 04 Jan 2021 14:06:51 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "<a href=\"https://en.wikipedia.org/wiki/Loren_Brichter\">Loren Brichter</a>, an accomplished developer, wrote to me <a href=\"https://twitter.com/lorenb/status/1345899361700630529\">on Twitter</a>. \"I was a generation late to the party, is there and good reading/watching on what Frontier was all about?\"",
+            "created": "Mon, 04 Jan 2021 14:06:57 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "My first thought was -- he's not too late. Frontier is still in use, I'm guessing mostly on the Mac, but there is also a Windows version. ",
+            "created": "Mon, 04 Jan 2021 14:07:35 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I use it myself to write my JavaScript code. And I use all the ideas in Frontier, and hope one day to have many of the core ideas available in JavaScript-land. ",
+            "created": "Mon, 04 Jan 2021 14:22:28 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Okay so now here's a list of things you can look at and listen to, to get an idea of what makes Frontier good, different, and the ideas in Frontier relevant for future development.",
+            "created": "Mon, 04 Jan 2021 14:08:45 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "I'd start with the <a href=\"http://scripting.com/2020/06/01.html#a204659\">45-minute podcast in 2020</a> -- an oral history of how Frontier came to be. I know a few people for whom that story made the lights go on. I apologize for the shitty production -- I'm famous for not editing my podcasts. I think of it as voicemail. ;-)",
+                    "created": "Mon, 04 Jan 2021 14:09:21 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The <a href=\"http://frontier.userland.com/\">docs</a> for the Frontier environment are online. ",
+                    "created": "Mon, 04 Jan 2021 14:10:08 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The <a href=\"http://docserver.userland.com/\">docs</a> for the verb set are also online. ",
+                    "created": "Mon, 04 Jan 2021 14:18:47 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The <a href=\"https://github.com/tedchoward/Frontier/releases\">codebase</a> is being maintained by Ted Howard. It's licensed under the GPL. (It's called the OPML Editor, but it really is just a distribution of Frontier. The result of some early disharmony when Frontier was initially released as open source in 2004.)",
+                    "created": "Mon, 04 Jan 2021 14:20:56 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "There are several levels to think about Frontier. At the base level, it's an outliner, object database, Algol-like language and its interpreter and verb set all <i>very</i> integrated. The language for example is designed to be edited in an outliner. The outliner is scriptable by the language. The database is the memory space for the language, so you don't have to get data and save data, your code runs in the context of the data. You can write scripts to write scripts and they're stored in the database. ",
+                    "created": "Mon, 04 Jan 2021 14:13:23 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "At the next level up, it's applications, that again -- since they live in the same data space can share data, easily. We were able to build the first web CMS, blogging system, develop syndication for the web, podcasting, etc because Frontier is such a high level system, something that has become much more apparent to me now that I develop in Node and in the browser where you have to do all that yourself for every application. We could build much higher in Frontier, more quickly. ",
+                    "created": "Mon, 04 Jan 2021 14:15:01 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's also a system scripting language. That was the original idea. The Mac is great because of the graphic user interface, but I was originally a Unix programmer, and missed the ability to script things in the OS. I knew the Mac OS was very capable, even if it was mostly hidden. We went further than that, since I came from app development on the Mac, I could see that with not very much new tech, we could wire up the apps so they could be combined by scripts, just like the OS. This all worked beautifully, we got support from lots of apps, including page layout, databases, web browsers. And later we added TCP verbs to Frontier, so it becamse in addition to all the other things it was, a hub for web development.",
+                    "created": "Mon, 04 Jan 2021 14:24:17 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "My dream is to have a Linux port of Frontier. It's the only thing that keeps me on the Mac these days. All my servers run Ubuntu. Plainly put, products like Frontier that give users so much power are not really consistent with Apple's view of the world, but are very much consistent with Linux's. ",
+            "created": "Mon, 04 Jan 2021 14:11:01 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "But just as important, I want to bring the ideas of Frontier to the Node/browser world. And we're getting there. Slowly. We have an <a href=\"http://littleoutliner.com/\">outliner</a>, and are working on an easy scripting language based entirely on JavaScript, for one-off things that are imho too much work in asynchronous JavaScript. ",
+            "created": "Mon, 04 Jan 2021 14:16:42 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
