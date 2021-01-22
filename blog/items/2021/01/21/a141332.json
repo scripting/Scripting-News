@@ -1,0 +1,76 @@
+{
+    "text": "Twenty years ago in podcasting",
+    "created": "Thu, 21 Jan 2021 14:13:32 GMT",
+    "type": "outline",
+    "metaImage": "http://scripting.com/2017/02/21/berkman.png",
+    "description": "In January 2001 I had written a podcatcher and needed a feed to test it. I created one using the Grateful Dead's music.  ",
+    "subs": [
+        {
+            "text": "<b>Background</b>",
+            "created": "Thu, 21 Jan 2021 15:41:52 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Thanks to <a href=\"https://twitter.com/ericnuzum\">Eric Nuzum</a> for writing this <a href=\"https://podnews.net/article/first-podcast-feed-history\">story</a> of the <a href=\"http://xmlviewer.scripting.com/?url=http://scripting.com/misc/fromDaveOfsCom/rss/gratefulDead.xml\">first podcast feed</a>, about the project I did in January 2001, twenty years ago. The feed he writes about was used to test software I had developed that reads podcast feeds, otherwise known as a podcatcher. The feed was a small effort compared to the software that reads podcast feeds. ",
+            "created": "Thu, 21 Jan 2021 14:26:28 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "A few people on Twitter have criticized Eric's story, they say it was wrong, but actually <i>he got it right.</i> That's why it's always a good idea to hedge a bit when you say someone is wrong.  ",
+            "created": "Thu, 21 Jan 2021 14:27:20 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Okay first, a nit -- the idea that Chris Lydon had the first real podcast is not true. There were a couple of others that predate his Radio Open Source -- Doug Kaye's IT Conversations and Steve Gillmor's Gillmor Gang. They were doing MP3-based radio when we came out with the podcast format, and they quickly adopted it. I've written about them here <a href=\"https://www.google.com/search?q=site%3Ascripting.com+%22IT+Conversations%22+%22Gillmor+Gang%22&rlz=1C5CHFA_enUS743US747&oq=site%3Ascripting.com+%22IT+Conversations%22+%22Gillmor+Gang%22\">many times</a>. Lydon's podcast was the <a href=\"http://scripting.com/2017/02/21/cbcsOriginStoryOfPodcasting.html\">first</a> I had a role in producing. I've shrugged off the distinction a few times, because Chris was the first who showed up to play in my sandbox, and that, to me, was worth a lot. I learned from his experience, a lot. ",
+            "created": "Thu, 21 Jan 2021 14:13:47 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<b>My UserLand on the Desktop</b>",
+            "created": "Thu, 21 Jan 2021 15:42:17 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "But here's where Nuzum got it right and his critics are wrong. ",
+            "created": "Thu, 21 Jan 2021 14:29:10 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "In early 2001, after meeting with Adam in New York, which Nuzum documents, I produced a daily feed of Grateful Dead songs. I don't think the RIAA would have had a problem with it (as Nuzum jokingly says) because the Dead had a culture of letting their users do what they like with their music. I thought it was completely appropriate that the <a href=\"https://www.youtube.com/watch?t=320&v=Kj_kK1j3CV0\">Heart of Gold Band</a> would play a role in bootstrapping the new medium. I created the feed to test my new podcatcher. Here's the story of that software, whcih is also documented in the archive of my blog.",
+            "created": "Thu, 21 Jan 2021 14:17:02 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "In 1999, at UserLand, we created a product called My UserLand, to compete with Netscape's My Netscape. Both were server-based RSS reader apps. This was the very beginning of RSS being used as a news publishing format. Then a we created a desktop version of My UserLand called, unimaginatively, My UserLand On The Desktop or MUOTD for short. It did what the server-based product did, but it ran as an <a href=\"http://scripting.com/images/jerrySingsForMe.gif\">app on a user's desktop</a>. <i>The Grateful Dead podcast feed was there to test the podcatcher functionality in MUOTD.</i> That predated Adam's iPodder by over three years. Adam used it. ",
+            "created": "Thu, 21 Jan 2021 14:19:49 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<b>Radio UserLand</b>",
+            "created": "Thu, 21 Jan 2021 15:42:54 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "MUOTD was later merged with Radio UserLand, a desktop blogging tool, creating something that has yet to be matched by anyone -- a desktop blogging and reading app, all in one. It was pretty cool. I'm pretty sure the guys who later formed Twitter used it. It was more or less Twitter on the desktop, based on RSS, five years before Twitter. :rocket:",
+            "created": "Thu, 21 Jan 2021 14:22:41 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "This was all part of an idea I loved that I called a <a href=\"http://scripting.com/davenet/1997/09/14/FractionalHorsepowerHTTPSe.html\">Fractional Horsepower HTTP Servers</a>. MUOTD and Radio UserLand were full powered web servers that ran on the user's machine. Most probably weren't even aware they were running a server, because the user interface was so smooth. ",
+            "created": "Thu, 21 Jan 2021 14:23:49 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "PS: Here's the <a href=\"http://scripting.com/2001/01.html\">archive</a> for Scripting News for January 2001. ",
+            "created": "Thu, 21 Jan 2021 14:37:26 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"http://scripting.com/images/jerrySingsForMe.gif\">Screen shot</a> of MUOTD from 1/11/2001.",
+            "created": "Thu, 21 Jan 2021 20:41:22 GMT",
+            "inlineImage": "http://scripting.com/images/2021/01/21/muotd2001.png",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
