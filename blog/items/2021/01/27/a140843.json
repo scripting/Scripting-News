@@ -1,0 +1,6 @@
+{
+    "text": "<a href=\"https://www.fastcompany.com/90597411/mozilla-firefox-no-ssb-pwa-support\">A browser feature</a> I did not know about. In Chrome, you can make, for example, \"Scripting News\" a web app in its own window. In the ... menu in the upper right corner of the menubar, choose More Tools and then Create Shortcut. Click the <a href=\"http://scripting.com/images/2021/01/27/createShortcut.png\">checkbox</a> that says \"Open as window.\" Click OK and there it is in its own window and no toolbar, and a reminder that it's \"Not Secure\" (thanks Google!). More important it opens a <a href=\"http://scripting.com/images/2021/01/27/chromeApps.png\">Finder window</a> that's a sub-folder of your Applications folder, with your new app in it. Presumably you can move that where ever you like, and my blog is like an app. You could use it for LO2 or Radio3, or any other single-page web app. Presumably these \"apps\" are still sandboxed and can't access your local files, so there's still a use for Electron apps. ",
+    "created": "Wed, 27 Jan 2021 14:08:43 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
