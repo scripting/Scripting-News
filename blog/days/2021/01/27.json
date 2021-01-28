@@ -1,0 +1,58 @@
+{
+    "text": "January 27",
+    "created": "Wed, 27 Jan 2021 14:08:42 GMT",
+    "type": "calendarDay",
+    "name": "27",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?t=82&v=StDpLge_ITM\">Yankee Doodle Dandy</a>.",
+            "created": "Wed, 27 Jan 2021 15:25:47 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?t=82&v=StDpLge_ITM",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://www.google.com/search?q=damage+Facebook+is+doing+to+our+political+system\">We hear a lot</a> about the damage Facebook is doing to our political system, but why are we so complacent and accepting of the damage Fox does? We could bring political and economic power to bear. They may have a right to speak, but we should be able to get news, pay for news, without paying for Fox. I don't accept that we can't do anything about it which seems to be the consensus. ",
+            "created": "Thu, 28 Jan 2021 02:49:26 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "All of a sudden Twitter doesn't work in Safari on my iPad. Neither does GMail. Everything else works fine. I thought it had to do with the East Coast outage a lot of services had the other day, but this problem persists. I much prefer to use them in the browser, there are all kinds of unnecessary barriers in their iPad apps (they try to keep you in the apps, I prefer to work in the web). Here's a <a href=\"http://scripting.com/images/2021/01/27/twitterInSafariOnIpad.png\">screen shot</a> of what I see on Twitter in Safari. And this is what <a href=\"http://scripting.com/images/2021/01/27/gmailSafariIpad.png\">GMail looks like</a> in Safari on the iPad. ",
+            "created": "Thu, 28 Jan 2021 02:54:46 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Two Daily podcasts in the last two days, totally worth the time. One an interview with <a href=\"https://www.nytimes.com/2021/01/27/podcasts/the-daily/coronavirus-cases-testing-variants-vaccine.html\">Donald McNeil</a>, the NYT expert on the virus, and an <a href=\"https://www.nytimes.com/2021/01/26/podcasts/the-daily/anthony-fauci-donald-trump-coronavirus-pandemic.html\">interview with Fauci</a> on his relationship with Trump. ",
+            "created": "Wed, 27 Jan 2021 20:10:48 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "There's a <a href=\"https://github.com/scripting/Scripting-News/issues/198\">report</a> of a problem with the RT feature on Scripting News. I was not able to reproduce. Help much appreciated. ",
+            "created": "Wed, 27 Jan 2021 17:32:16 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you live in the US and subscribe to cable TV it's almost certain that you are finanically supporting Fox News which is primarily responsible for the rise of Trump and downfall of democracy in the US. If I were you (and I am) I would want to do something about this, like demand that your cable company stop giving your money to Fox. How can I get your attention, and get you to tell other people. This is really important, simple, and something we can do to make things better. ",
+            "created": "Wed, 27 Jan 2021 16:02:29 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "So if impeachment were taken off the table for Trump, every time an incumbent president was not re-elected, they would automatically attempt to overthrow and assassinate Congress. Why not? It might work, and there’s no penalty for trying.",
+            "created": "Wed, 27 Jan 2021 14:20:21 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://www.fastcompany.com/90597411/mozilla-firefox-no-ssb-pwa-support\">A browser feature</a> I did not know about. In Chrome, you can make, for example, \"Scripting News\" a web app in its own window. In the ... menu in the upper right corner of the menubar, choose More Tools and then Create Shortcut. Click the <a href=\"http://scripting.com/images/2021/01/27/createShortcut.png\">checkbox</a> that says \"Open as window.\" Click OK and there it is in its own window and no toolbar, and a reminder that it's \"Not Secure\" (thanks Google!). More important it opens a <a href=\"http://scripting.com/images/2021/01/27/chromeApps.png\">Finder window</a> that's a sub-folder of your Applications folder, with your new app in it. Presumably you can move that where ever you like, and my blog is like an app. You could use it for LO2 or Radio3, or any other single-page web app. Presumably these \"apps\" are still sandboxed and can't access your local files, so there's still a use for Electron apps. ",
+            "created": "Wed, 27 Jan 2021 14:08:43 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
