@@ -1,0 +1,6 @@
+{
+    "text": "<a href=\"https://github.com/scripting/pagePark/issues/17\">Braintrust query</a>: Longstanding problem with \"PagePark\", my homebrew web server, when an app on one machine makes a call to an app running on the same machine, where PP is the server. It gets a connection refused error. ",
+    "created": "Thu, 04 Feb 2021 15:51:00 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
