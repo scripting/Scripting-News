@@ -1,0 +1,41 @@
+{
+    "text": "February 4",
+    "created": "Thu, 04 Feb 2021 15:50:59 GMT",
+    "type": "calendarDay",
+    "name": "04",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1357436948244226049\">Poll</a> about who you mute replies from on Twitter. ",
+            "created": "Thu, 04 Feb 2021 21:13:03 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1357436948244226049",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/pagePark/issues/17\">Braintrust query</a>: Longstanding problem with \"PagePark\", my homebrew web server, when an app on one machine makes a call to an app running on the same machine, where PP is the server. It gets a connection refused error. ",
+            "created": "Thu, 04 Feb 2021 15:51:00 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A little computer design/philosophy. Everywhere you look on a computer you see the same pattern repeating itself. Folders, sub-folders, files. If you're looking for it you see it everywhere. So why not have one really great browser for such structures, and use it everywhere. That way when you add a feature to the core, it improves everywhere. I think very quickly the computer itself would become simpler. BTW, this was the basic idea behind [%search: outliners%]. We never got close enough to putting code \"in ROM\" to complete the vision. But that was the idea. ",
+            "created": "Thu, 04 Feb 2021 16:13:31 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A favorite recent Twitter feature: I can filter replies so I only see, by default, replies from people I follow. It has made Twitter more civil for me. But it has a downside, that I realize when I reply to someone who doesn't follow me. They probably can't see my idea.",
+            "created": "Thu, 04 Feb 2021 16:43:55 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The mountain after the blizzard. ",
+            "created": "Thu, 04 Feb 2021 16:19:11 GMT",
+            "type": "outline",
+            "inlineImage": "http://scripting.com/images/2021/02/04/snowInTheMountains.png",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
