@@ -1,0 +1,6 @@
+{
+    "text": "Thanks to the <a href=\"https://github.com/scripting/pagePark/issues/17\">braintrust</a>, once again have figured it out. In the docs for \"PagePark\" we ask them to map port 80 requests to port 1339 using the <a href=\"https://en.wikipedia.org/wiki/Iptables\">iptables</a> command. But the routing was only going one way. When an outside request was coming into the server. For requests made going out of the server, the same mapping must apply. And that fixed the problem. Now I have to update the docs. :boom:",
+    "created": "Fri, 05 Feb 2021 15:34:16 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
