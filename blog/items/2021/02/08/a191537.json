@@ -1,0 +1,7 @@
+{
+    "text": "Part of program design is checking your assumptions. Sometimes things that conceptually seem like a lot of work, might not take a lot of time to run. A great example of this was in the early 00s, I wanted to add a feature to Radio UserLand that was eventually called <a href=\"http://radio.userland.com/stories/storyReader$6957\">upstreaming</a>. It would watch a folder and mirror any changes to a server. That way you could maintain a website on your local hard disk. I had investigated ways to do it through the operating system, but it was too complicated, or not reliable, I don't remember why, but it wasn't feasible to use it. So I decided to write a bit of script code that watched the folder, the simple dumb way, to see what I was up against. To my surprise it took virtually no time to scan a large nested folder looking for changed files. It was something you could do every few seconds without a performance hit. The product shipped, thousands of people used it, upstreaming worked. I try to keep that in mind. Always check your assumptions. :boom:",
+    "created": "Mon, 08 Feb 2021 19:15:37 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2019/11/18/radioUserLand.png",
+    "flInCalendar": true
+}
