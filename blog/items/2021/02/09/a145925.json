@@ -1,0 +1,6 @@
+{
+    "text": "So many programs when you sit down to use them for the first time, don't explain themselves. It's impossible to figure out how to make it work, even if you already understand the general purpose of the program. A good friend sent a pointer to <a href=\"https://astexplorer.net/\">AST Explorer</a>, a tool that takes input from some language and shows you the <a href=\"https://en.wikipedia.org/wiki/Abstract_syntax_tree\">abstract synatx tree</a> for it. Okay that's something I want to do. The language is JavaScript, and let's say the parser is Acorn. Now what? So many choices. And where's the button that says GO, do the thing, give me result. I clicked on the ? in the menubar, hoping it might give me a 1-2-3 to see the app in action, but it starts out with a list of all the myriad things it can do! I can already see that from the UI. I want the docs to give me a procedure for using it. I'm human. I don't know how to use the app. Help me please. (This is generally good advice not just for this app. Before you give it to a user to try, sit down yourself and pretend you know as much about the app as they do. Use newbie eyes.)",
+    "created": "Tue, 09 Feb 2021 14:59:25 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
