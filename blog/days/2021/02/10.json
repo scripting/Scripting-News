@@ -1,0 +1,48 @@
+{
+    "text": "February 10",
+    "created": "Wed, 10 Feb 2021 15:27:02 GMT",
+    "type": "calendarDay",
+    "name": "10",
+    "subs": [
+        {
+            "text": "Trump came very close to overthrowing the government.",
+            "created": "Wed, 10 Feb 2021 17:32:56 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "It’s weird but good that Trump hasn’t figured out that he doesn’t need Twitter to broadcast his virulent trolling on the net.",
+            "created": "Wed, 10 Feb 2021 17:33:48 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "An impeachment lawyer pleading, with a <a href=\"https://www.youtube.com/watch?v=u7ircXGtbqM\">cat on his head</a>.",
+            "created": "Wed, 10 Feb 2021 20:28:09 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=u7ircXGtbqM",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/199#issuecomment-776823796\">Braintrust query followup</a>: It took a couple of days of head scratching and trial and error, but I now have a skeletal JS preprocessor. ",
+            "created": "Wed, 10 Feb 2021 16:14:16 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Airpods followup. As you may recall, I <a href=\"http://scripting.com/2021/01/30.html#a162514\">lost one of my AirPod Pro's</a> 10 days ago. I tried to order a replacement through the <a href=\"https://getsupport.apple.com/repair?caseid=101319750634&locale=en_US\">Apple website</a>, but <a href=\"https://getsupport.apple.com/?caller=sfaq&PGF=PGF32003&category_id=SC0298&symptom_id=23360\">the page</a> appears to be broken. So I compromised, and bought a couple of less expensive bud-style headphones, one from <a href=\"https://www.amazon.com/gp/product/B082Y2KM92/ref=ppx_yo_dt_b_asin_title_o01_s01?ie=UTF8&psc=1\">Jabra</a>, which comes highly recommended by <a href=\"https://www.nytimes.com/wirecutter/reviews/best-wireless-earbuds/\">Wirecutter</a>, and <a href=\"https://www.amazon.com/gp/product/B0857JLRFJ/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1\">Skullcandy</a>. Together they cost about what the Airpod Pro's cost. But here's the thing, both of them sound awful on my iPhone. No bass at all, all high end. So I tried them on my Pixel 4a, same thing. My hearing is fine, I tried the one remaining AirPod Pro, and it sounds great. So now I'm trying to figure out how to equalize the audio on either of these phones. I can't believe there isn't a built-in equalizer, but it seems there's not. I really got to like the AirPods, didn't think I would. I find over-ear headphones clunky now. ",
+            "created": "Wed, 10 Feb 2021 16:37:10 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/01/17/bagel.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "If the Titanic sank today.",
+            "created": "Wed, 10 Feb 2021 20:33:57 GMT",
+            "type": "outline",
+            "inlineImage": "http://scripting.com/images/2021/02/10/titanic.png",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
