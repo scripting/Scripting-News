@@ -3,17 +3,17 @@
 	<head>
 		<title>Glossary</title>
 		<dateCreated>Tue, 13 Jun 2017 13:42:31 GMT</dateCreated>
-		<dateModified>Sat, 06 Feb 2021 17:00:22 GMT</dateModified>
+		<dateModified>Mon, 15 Feb 2021 17:12:30 GMT</dateModified>
 		<ownerName>dave@scripting.com</ownerName>
 		<ownerId>https://twitter.com/davewiner/</ownerId>
-		<expansionState>25,32,40,59,67,70,72,74,77,85,98,101,107,112,116,118,120,122,124,126,131</expansionState>
+		<expansionState>4,27,34,42,61,69,72,74,76,79,87,100,103,109,114,118,120,122,124,126,128,133</expansionState>
 		<vertScrollState>1</vertScrollState>
 		<windowTop>631</windowTop>
 		<windowLeft>1087</windowLeft>
 		<windowBottom>831</windowBottom>
 		<windowRight>1472</windowRight>
 		<flPublic>true</flPublic>
-		<lastCursor>16</lastCursor>
+		<lastCursor>3</lastCursor>
 		<ownerTwitterScreenName>davewiner</ownerTwitterScreenName>
 		<urlPublic>http://electricserver.scripting.com/users/davewiner/electric/glossary.opml</urlPublic>
 		<urlJson>http://electricserver.scripting.com/users/davewiner/electric/glossary.json</urlJson>
@@ -31,6 +31,9 @@
 			</outline>
 		<outline text="&quot;Art Show&quot;" created="Mon, 02 Jul 2018 14:47:21 GMT">
 			<outline text="&lt;a href=&quot;http://artshow.scripting.com/&quot;&gt;Art Show&lt;/a&gt;" created="Mon, 02 Jul 2018 14:47:25 GMT"/>
+			</outline>
+		<outline text="&quot;UserLand&quot;" created="Mon, 15 Feb 2021 17:12:06 GMT">
+			<outline text="&lt;a href=&quot;http://userland.com/&quot;&gt;UserLand&lt;/a&gt;" created="Mon, 15 Feb 2021 17:12:09 GMT"/>
 			</outline>
 		<outline text="&quot;bingeworthy&quot;" created="Tue, 14 Nov 2017 15:38:03 GMT">
 			<outline text="&lt;a href=&quot;http://bingeworthy.io/&quot;&gt;BingeWorthy&lt;/a&gt;" created="Tue, 14 Nov 2017 15:38:06 GMT"/>
