@@ -1,0 +1,71 @@
+{
+    "text": "March 2",
+    "created": "Tue, 02 Mar 2021 17:17:10 GMT",
+    "type": "calendarDay",
+    "name": "02",
+    "subs": [
+        {
+            "text": "<a href=\"http://scripting.com/2021/03/02/theCuomoProblem.m4a\">Podcast</a> about where we're at with Cuomo. ",
+            "created": "Tue, 02 Mar 2021 20:04:39 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2021/03/02/theCuomoProblem.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "8920823",
+            "flInCalendar": true
+        },
+        {
+            "text": "In <a href=\"http://scripting.com/2021/02/09.html#a151330\">mid-February</a> I made a change to my <a href=\"https://github.com/scripting/everyMinute\">script scheduler</a> to attempt to get rid of drift, so that the nightly email would go out more or less precisely at midnight. The fix worked. Sometimes it's one second after midnight, but usually it's exact. The important thing is that any difference is not cumulative, it gets back on track on its own the next day. Here's a screen shot of <a href=\"http://scripting.com/images/2021/03/02/footer.png\">footer</a> on last night's email. ",
+            "created": "Tue, 02 Mar 2021 17:43:21 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The weather. Oy! Very cold very windy and the power has been out, on and off, since yesterday afternoon. I charged up all my devices before the power went out and loaded up lots of podcasts, so I'm very entertained. Made a <a href=\"https://www.youtube.com/watch?v=Fy82ekHbVpM&feature=youtu.be\">nice fire</a>, but the house still got down to about 45 degrees. I was worried about pipes freezing if the outage lasted much longer. But the power is back at about 12:20PM Eastern and I'm feeling pretty good now. ",
+            "created": "Tue, 02 Mar 2021 17:17:11 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/10/14/greenAcres.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, if you download Netflix shows to a mobile device, why does the app refuse to open if you don't have a net connection? What was the point of downloading them? I swear it used to work. How did I watch Netflix shows on airplanes?",
+            "created": "Tue, 02 Mar 2021 17:21:58 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Brian Lehrer is one of the best podcasts out there. Just listened to his <a href=\"https://podcasts.apple.com/us/podcast/how-serious-is-andrew-cuomos-sexual-harassment-scandal/id1482313742?i=1000511167029\">summary</a> of the Cuomo situation, including calls from listeners. They covered it all. Totally worth listening to. ",
+            "created": "Tue, 02 Mar 2021 17:23:08 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Why aren't there teams owned by corporations. Imagine if Amazon had an NBA team. I bet they'd figure out new ways to monetize it. ",
+            "created": "Tue, 02 Mar 2021 19:00:17 GMT",
+            "type": "tweet",
+            "tweetId": "1366825735512608770",
+            "tweetUserName": "davewiner",
+            "flInCalendar": true
+        },
+        {
+            "text": "DocServer was a Mac app, before there was a web, that let you read the verb docs for the UserLand scripting language. Once we transitioned to the web, DocServer became a web app, managed by our <a href=\"http://scripting.com/frontier/netScripting/web.html\">website framework</a>. I had forgotten it was an app before it was a website. And, btw, it was fully scriptable, as were all the apps we were making at the time. Here's a screen shot. ",
+            "created": "Tue, 02 Mar 2021 19:37:13 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "DocServer screen shot, late 80s?",
+            "created": "Tue, 02 Mar 2021 19:39:31 GMT",
+            "type": "outline",
+            "inlineImage": "http://scripting.com/images/2021/03/02/docServerScreenShot.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "We <a href=\"https://www.google.com/search?q=thinktank+fanatic+site%3Ascripting.com\">called</a> our users fanatics. ",
+            "created": "Tue, 02 Mar 2021 17:50:20 GMT",
+            "type": "outline",
+            "inlineImage": "http://scripting.com/images/2021/03/02/fanatics.png",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
