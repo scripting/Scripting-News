@@ -1,0 +1,6 @@
+{
+    "text": "In <a href=\"http://scripting.com/2021/02/09.html#a151330\">mid-February</a> I made a change to my <a href=\"https://github.com/scripting/everyMinute\">script scheduler</a> to attempt to get rid of drift, so that the nightly email would go out more or less precisely at midnight. The fix worked. Sometimes it's one second after midnight, but usually it's exact. The important thing is that any difference is not cumulative, it gets back on track on its own the next day. Here's a screen shot of <a href=\"http://scripting.com/images/2021/03/02/footer.png\">footer</a> on last night's email. ",
+    "created": "Tue, 02 Mar 2021 17:43:21 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
