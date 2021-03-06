@@ -1,0 +1,50 @@
+{
+    "text": "JavaScript: Repetitive code",
+    "created": "Fri, 05 Mar 2021 14:35:34 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "In JavaScript you enter this form a lot. ",
+            "created": "Fri, 05 Mar 2021 14:35:45 GMT",
+            "flCodeSubs": "true",
+            "subs": [
+                {
+                    "text": "if (err) {",
+                    "created": "Fri, 05 Mar 2021 14:35:56 GMT",
+                    "subs": [
+                        {
+                            "text": "}",
+                            "created": "Fri, 05 Mar 2021 14:35:59 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "else {",
+                    "created": "Fri, 05 Mar 2021 14:36:00 GMT",
+                    "subs": [
+                        {
+                            "text": "}",
+                            "created": "Fri, 05 Mar 2021 14:36:03 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "It seems to me there's an opportunity to create a construct to factor this repetitiveness. ",
+            "created": "Fri, 05 Mar 2021 14:36:16 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "But for the life of me, I can't come up with something simpler. ",
+            "created": "Fri, 05 Mar 2021 14:36:45 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
