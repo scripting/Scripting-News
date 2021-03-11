@@ -1,0 +1,103 @@
+{
+    "text": "March 10",
+    "created": "Wed, 10 Mar 2021 14:39:24 GMT",
+    "type": "calendarDay",
+    "name": "10",
+    "subs": [
+        {
+            "text": "The pandemic is not over.",
+            "created": "Wed, 10 Mar 2021 19:38:14 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"http://scripting.com/2021/03/10/iWasBornARamblingMan.m4a\">A 36-minute podcast</a>. There's a lot here, I think, but I haven't listened to it. Will do later. I enjoy taking risks, as you can see. :smile:",
+            "created": "Wed, 10 Mar 2021 19:48:14 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2021/03/10/iWasBornARamblingMan.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "19036064",
+            "flInCalendar": true
+        },
+        {
+            "text": "There is no bipartisanship or \"across the aisle\" with Repubs who excused what Trump did on January 6.",
+            "created": "Wed, 10 Mar 2021 19:54:57 GMT",
+            "type": "tweet",
+            "tweetId": "1369738712205193221",
+            "tweetUserName": "davewiner",
+            "flInCalendar": true
+        },
+        {
+            "text": "Playing with a thread viewer",
+            "created": "Wed, 10 Mar 2021 17:06:05 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I've been accumulating tools to use Twitter as a blog-writing tool, for times when I'm not near my desktop the main place I write.",
+                    "created": "Wed, 10 Mar 2021 17:06:23 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The first one was a tool that, using the Twitter API, gathered all my tweets in the last 24 hours and categorized them as:",
+                    "created": "Wed, 10 Mar 2021 17:06:28 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Original tweets.",
+                            "created": "Wed, 10 Mar 2021 17:06:25 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Links.",
+                            "created": "Wed, 10 Mar 2021 17:06:41 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Replies.",
+                            "created": "Wed, 10 Mar 2021 17:06:43 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "RTs.",
+                            "created": "Wed, 10 Mar 2021 17:06:26 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The idea was to get the original stuff first, to give me a way to jot down an idea in Twitter, so I could recall it later when I'm officially writing my blog for the day.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It worked okay, it was great at first actually, but it required too much work to reassemble a twitter thread for my blog.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "What I really wanted was a tool that could gather a whole thread, like the one you're reading now, into a series of paragraphs, that could then be edited into a blog post.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But there was a missing feature in the Twitter API. No way to ask for all the replies to a given tweet.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Then a few days ago while my mind was wandering, I figured it out. Get the timeline for the person, and figure out which messages are in reply to the main tweet of the thread, or to one of its replies, and build the thread outside of Twitter that way. It worked.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So now I needed a thread to test it with. Something non-trivial, that could also be somewhat meta. And that my friends is what this thread is for. Thanks for your indulgence! :-)",
+                    "created": "Wed, 10 Mar 2021 17:07:18 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: It worked. Here's the source <a href=\"http://threadviewer.com/1369660954150121486\">as viewed by the new app</a>.",
+                    "created": "Wed, 10 Mar 2021 17:07:19 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
