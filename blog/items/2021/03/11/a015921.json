@@ -1,0 +1,29 @@
+{
+    "text": "Threadviewer",
+    "created": "Fri, 12 Mar 2021 01:59:21 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "A new app is coming soon called Threadviewer, not quite ready yet, hopefully tomorrow. Here's how it works. ",
+            "created": "Fri, 12 Mar 2021 01:59:45 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "You give it the ID of a tweet that's at the top of a <a href=\"https://twitter.com/davewiner/status/1370040083055796229\">thread</a>. The app loads all the tweets it can find that are replies to the tweet with that ID, written by the author of the original tweet and shows them inside a box, in chronologic order, as a nice sequence of easy to read paragraphs. ",
+            "created": "Fri, 12 Mar 2021 02:06:14 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "It does what I need it to do. Now twitter can be a writing space for me that flows into my blog. I also have thread.center if I need it, that goes the other way. BTW, you can use this with WordPress, Medium, Substack, email, whatever you like. It's just copy/paste from the threadviewer rendering. ",
+            "created": "Fri, 12 Mar 2021 02:00:37 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "PS: Here's an here's an <a href=\"http://scripting.com/images/2021/03/11/aThreadviewerUrl.png\">example</a> of a Threadviewer URL. ",
+            "created": "Thu, 11 Mar 2021 16:15:33 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
