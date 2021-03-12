@@ -1,0 +1,108 @@
+{
+    "text": "March 11",
+    "created": "Thu, 11 Mar 2021 15:39:47 GMT",
+    "type": "calendarDay",
+    "name": "11",
+    "subs": [
+        {
+            "text": "Someone said tweets are like potato chips and therefore should be limited to 280 chars. I took a few screen shots of tweets that lead to long reads or watches. These are not potato chips. People think of twitter as a home for baby squirrels, this was clever marketing in the beginning, but now it's where the political and cultural world is centered. The former president of the United States was banned from twitter. The potato chip people need to let that sink in. It's a place where real communication happens. The better the tools, imho, the better it works. ",
+            "created": "Thu, 11 Mar 2021 16:22:29 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/10/16/uncleSam.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "They like to say the apps are better than the web, but I find the opposite is true. When I click a link in the twitter app it doesn’t take me to the web. I don’t have all my tools where ever it is they take me. and When I click a link to a tweet I’m taken to a dead end. Ughh.",
+            "created": "Fri, 12 Mar 2021 02:04:19 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The <a href=\"http://scripting.com/2020/03/11.html\">archive</a> for Scripting News on this day last year. ",
+            "created": "Thu, 11 Mar 2021 16:36:54 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Did you see <a href=\"https://twitter.com/Reza_Zadeh/status/1369754306988019714\">this</a> coming? I did not. ",
+            "created": "Thu, 11 Mar 2021 15:39:48 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/Reza_Zadeh/status/1369754306988019714",
+            "flInCalendar": true
+        },
+        {
+            "text": "Threadviewer",
+            "created": "Fri, 12 Mar 2021 01:59:21 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "A new app is coming soon called Threadviewer, not quite ready yet, hopefully tomorrow. Here's how it works. ",
+                    "created": "Fri, 12 Mar 2021 01:59:45 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You give it the ID of a tweet that's at the top of a <a href=\"https://twitter.com/davewiner/status/1370040083055796229\">thread</a>. The app loads all the tweets it can find that are replies to the tweet with that ID, written by the author of the original tweet and shows them inside a box, in chronologic order, as a nice sequence of easy to read paragraphs. ",
+                    "created": "Fri, 12 Mar 2021 02:06:14 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It does what I need it to do. Now twitter can be a writing space for me that flows into my blog. I also have thread.center if I need it, that goes the other way. BTW, you can use this with WordPress, Medium, Substack, email, whatever you like. It's just copy/paste from the threadviewer rendering. ",
+                    "created": "Fri, 12 Mar 2021 02:00:37 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: Here's an here's an <a href=\"http://scripting.com/images/2021/03/11/aThreadviewerUrl.png\">example</a> of a Threadviewer URL. ",
+                    "created": "Thu, 11 Mar 2021 16:15:33 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Morning Twitter Thread",
+            "created": "Thu, 11 Mar 2021 16:00:39 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<i>This was a <a href=\"https://twitter.com/davewiner/status/1370040083055796229\">Twitter thread</a> I wrote to be sucked into the <a href=\"http://scripting.com/2021/03/11/160039.html?title=morningTwitterThread\">blog</a>. </i>",
+                    "created": "Thu, 11 Mar 2021 16:00:45 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Ever since Medium was founded in 2012, I was afraid they were going to do to writing what YouTube did to video, what Twitter did to short outbursts. Medium is a nice product, but it was too strong, and too much of a silo.",
+                    "created": "Thu, 11 Mar 2021 16:02:30 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If Medium didn't exist I'd have the same fear about Substack, but they are there to keep each other from dominating. And I still hope a more distributed approach appears, esp since running a server these days is getting much easier and cheaper and is only going to get more so.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I wonder why Medium hasn't directly competed with Substack. It isn't that hard to ad email subscriptions to a product like Medium. Have they done it and I missed it? I would have thought it would be automatic.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Similarly with Clubhouse. A bit of a juggernaut. I tried it, was briefly addicted, and then for some reason I lost interest. It was a time-filler, like Twitter is, for example. When I reach a milestone in other work, I take a break by checking out Twitter. You can't do that with Clubhouse. There is no 15 minute Clubhouse break. It's either a few seconds, or an hour. I don't usually have an hour in the middle of the day to goof off, and at night I'm not at the computer and in need of distraction.",
+                    "created": "Thu, 11 Mar 2021 16:03:32 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Now Twitter is going where Clubhouse is. I'll try it. I think it has a chance because Twitter and Clubhouse really should be more integrated. And Twitter itself doesn't live with the limits outside devs have. They can create connections we can't.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The world somehow has missed that Twitter has a great API, and it runs fast, and they are expanding it, not contracting it. Briefly, when Dick Costolo was CEO, they made a mistake that they quickly corrected, by cutting off certain (but not all) external devs.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Since then they've been very liberal and reliable. I love using the Twitter API. Of course I would love it even more if they got rid of the 280 char limit. I'm usually good at figuring out angles on things in tech, but I have never seen the logic behind this limit, when they allow so many other much more complex data types to be attached to tweets. I would have thought given all their other payload types that by now they would have a 64K or greater limit to the amount of text attached to a tweet",
+                    "created": "Thu, 11 Mar 2021 16:05:19 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
