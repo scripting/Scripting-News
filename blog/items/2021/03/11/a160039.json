@@ -1,0 +1,44 @@
+{
+    "text": "Morning Twitter Thread",
+    "created": "Thu, 11 Mar 2021 16:00:39 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "<i>This was a <a href=\"https://twitter.com/davewiner/status/1370040083055796229\">Twitter thread</a> I wrote to be sucked into the <a href=\"http://scripting.com/2021/03/11/160039.html?title=morningTwitterThread\">blog</a>. </i>",
+            "created": "Thu, 11 Mar 2021 16:00:45 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Ever since Medium was founded in 2012, I was afraid they were going to do to writing what YouTube did to video, what Twitter did to short outbursts. Medium is a nice product, but it was too strong, and too much of a silo.",
+            "created": "Thu, 11 Mar 2021 16:02:30 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "If Medium didn't exist I'd have the same fear about Substack, but they are there to keep each other from dominating. And I still hope a more distributed approach appears, esp since running a server these days is getting much easier and cheaper and is only going to get more so.",
+            "flInCalendar": true
+        },
+        {
+            "text": "I wonder why Medium hasn't directly competed with Substack. It isn't that hard to ad email subscriptions to a product like Medium. Have they done it and I missed it? I would have thought it would be automatic.",
+            "flInCalendar": true
+        },
+        {
+            "text": "Similarly with Clubhouse. A bit of a juggernaut. I tried it, was briefly addicted, and then for some reason I lost interest. It was a time-filler, like Twitter is, for example. When I reach a milestone in other work, I take a break by checking out Twitter. You can't do that with Clubhouse. There is no 15 minute Clubhouse break. It's either a few seconds, or an hour. I don't usually have an hour in the middle of the day to goof off, and at night I'm not at the computer and in need of distraction.",
+            "created": "Thu, 11 Mar 2021 16:03:32 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Now Twitter is going where Clubhouse is. I'll try it. I think it has a chance because Twitter and Clubhouse really should be more integrated. And Twitter itself doesn't live with the limits outside devs have. They can create connections we can't.",
+            "flInCalendar": true
+        },
+        {
+            "text": "The world somehow has missed that Twitter has a great API, and it runs fast, and they are expanding it, not contracting it. Briefly, when Dick Costolo was CEO, they made a mistake that they quickly corrected, by cutting off certain (but not all) external devs.",
+            "flInCalendar": true
+        },
+        {
+            "text": "Since then they've been very liberal and reliable. I love using the Twitter API. Of course I would love it even more if they got rid of the 280 char limit. I'm usually good at figuring out angles on things in tech, but I have never seen the logic behind this limit, when they allow so many other much more complex data types to be attached to tweets. I would have thought given all their other payload types that by now they would have a 64K or greater limit to the amount of text attached to a tweet",
+            "created": "Thu, 11 Mar 2021 16:05:19 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
