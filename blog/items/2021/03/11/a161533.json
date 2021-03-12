@@ -1,0 +1,7 @@
+{
+    "text": "How <a href=\"http://threadviewer.com/\">threadviewer</a> works. The <a href=\"http://scripting.com/images/2021/03/11/aThreadviewerUrl.png\">number in the URL</a> is the ID of a tweet. The app loads all the tweets it can find that are replies to the tweet with that ID, written by the author of the original tweet and shows them inside a box, in chronologic order, as a nice sequence of easy to read paragraphs. It does what I need it to do. Now twitter can be a writing space for me that flows into my blog. I also have thread.center if I need it, that goes the other way. BTW, you can use this with WordPress, Medium, Substack, email, whatever you like. It's just copy/paste from the threadviewer rendering. ",
+    "created": "Thu, 11 Mar 2021 16:15:33 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2019/12/19/crush.png",
+    "flInCalendar": true
+}
