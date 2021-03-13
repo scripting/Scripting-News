@@ -1,0 +1,7 @@
+{
+    "text": "I'm juggling too many balls in my development work. I just lost about 24 hours tracking down a problem. I had some code outside of my <a href=\"https://github.com/scripting/twitter\">davetwitter</a> module that really belonged in there, so after a half-day of working on something else, I decided to quickly move the code from where it was to where I wanted it. However since I was actively developing the davetwitter module, I included it using a <a href=\"https://nodejs.org/en/knowledge/getting-started/what-is-require/\">require</a> call to include a copy of the file, without going through NPM; and here's the key thing, in one place, and in another I used NPM. I couldn't understand why a properly initialized config object at startup would all of a sudden be completely uninitialized when I used it later. The answer was there were two davetwitters, one initialized the other not. A sloppy mistake I would never have made in a bootstrap. This kind of thing only happens when factoring. I guess the moral of the story is I should only attempt these integrations at the beginning of the day, when no other project is loaded into my brain, and I'd be more likely to spot these kinds of mismatches. In the end it cost me a lot of time to try to do it quickly. That's a lesson I've had to learn many times, and still am learning. I even have a slogan for it -- \"Slow down to hurry up.\" ",
+    "created": "Fri, 12 Mar 2021 15:18:35 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2021/03/12/juggler.png",
+    "flInCalendar": true
+}
