@@ -1,0 +1,53 @@
+{
+    "text": "About Roam's product",
+    "created": "Mon, 15 Mar 2021 14:47:14 GMT",
+    "type": "outline",
+    "description": "I think I'm starting to figure out Roam's product.",
+    "metaImage": "http://scripting.com/images/2021/03/15/kate.png",
+    "subs": [
+        {
+            "text": "Thanks to my correspondents on Twitter, I think I'm starting to figure out <a href=\"https://duckduckgo.com/?q=roam+research&t=h_&ia=web\">Roam's</a> product. I am guessing about some of these things, using the blogger's ethos, put your mistakes out there for everyone to see so you can learn faster. :-) ",
+            "created": "Mon, 15 Mar 2021 14:47:17 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "In Roam's world an outline is computed, not stored. There is no \"OPML\" file for an outline, as with my outliners. There is a database with blocks of text, and they are connected to other nodes/blocks through links that are represented textually by double-square brackets or with a hashtag as in Twitter. ",
+                    "created": "Mon, 15 Mar 2021 14:47:30 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "In Roam, the outline hierarchy is a way of browsing the results of a query. I've often thought of this as an interesting way of doing things, and even have an experiment up that I think is Roam-like, <a href=\"http://thesaurus.land/?word=roam\">thesaurus.land</a>. It's a way of navigating a database of synonyms, using an outline structure as the presentation format. It works.",
+                    "created": "Mon, 15 Mar 2021 14:48:14 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Can you reorganize an outline in Roam? I haven't heard about anyone doing that. This is one of the reasons I'm not sure Roam actually is an outliner. In my world, an outliner has two defining functions: 1. You have control of detail, via expand and collapse and 2. You can reorganize according to structure. The text is on rails. ",
+                    "created": "Mon, 15 Mar 2021 15:00:30 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "People expect by entering all their ideas into Roam's database that there will eventually be serendipities, things they will learn by seeing connections they had not seen before. ",
+                    "created": "Mon, 15 Mar 2021 14:49:15 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You are expected to use Roam for all your note-taking. Many people see Roam as a replacement for Evernote. ",
+                    "created": "Mon, 15 Mar 2021 15:13:14 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "In my world, OPML support is not incidental. Each of my outliners is a church, but the religion is OPML. There is no lock-in in this world. You can use any other tool that can read or write OPML. So when I ask if Roam supports OPML, I'm asking if their product can play with products that are compatible with mine. This is like asking, imho, if a news reader can deal with RSS. With OPML the standard is rock solid. For some reason no one has screwed with it (thankful).",
+                    "created": "Mon, 15 Mar 2021 15:06:34 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Can I use my own editing tools to get my ideas into their database? I don't know. I suspect a developer could create a bridge. Most of my writing is available in OPML. There are lots of examples in the <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog\">repository</a> that holds my blog content starting in May 2017. The rest of it is on the web, and I can provide a zip archive for a developer who wants to try importing all 26-plus years of my blog. ;-)",
+                    "created": "Mon, 15 Mar 2021 14:55:29 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
