@@ -1,0 +1,179 @@
+{
+    "text": "March 17",
+    "created": "Wed, 17 Mar 2021 14:49:34 GMT",
+    "type": "calendarDay",
+    "name": "17",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=Gg9RyiPKhx8\">Josie</a>.",
+            "created": "Wed, 17 Mar 2021 17:43:43 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I was having a philosophical conversation the other day about the difference between an app being scriptable or having an API. This has always been a big question. It's like this question: when does an actor become a star? Aren't they doing the same thing? Yes, they are, but no they aren't. An app being scriptable means that its API went through a process, it was conceived from a user's point of view. The designers looked at the user interface and made sure everything you could do there was also possible in a script. The terminology matched the UI. You didn't have to learn a new vocabulary. There were examples provided that showed how to do things the app couldn't do on its own, things that a user would want to do, and would inspire a script-writing user to want to do more. You're looking for the tiny fraction of users who in their hearts are developers, but don't know it yet. These people make software system devs don't think of, and aren't impressed with, because what drives the user-programmer is utility, not programming prowess. Further if you tell them they're programmers, they'll disagree for a long time -- no, I'm a lawyer, no I drive a bus. No I do this or that. But eventually quite a few will come to see that they are programmers. Then, as the programming priesthood takes hold, these people are confined to niches where the devs thought to add a scripting interface. That becomes a platform and the process begins again. ",
+            "created": "Wed, 17 Mar 2021 15:40:38 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/01/18/anythingGoes.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "You know how <a href=\"https://www.politico.com/news/2021/03/13/ron-johnson-black-lives-matter-antifa-capitol-riot-475727\">Ron Johnson</a> talked casually how if it were black people who attacked the Capitol he’d be worried, as if somehow it was normal for Americans who lost an election to violently try to overthrow the government and no one called him on this!  We are so crazy it makes me want to hurl.",
+            "created": "Wed, 17 Mar 2021 15:12:20 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I was listening to <a href=\"https://www.npr.org/podcasts/381444825/the-brian-lehrer-show\">Brian Lehrer</a> on WNYC this morning. The remarkable thing about Lehrer is that not only is he super smart and informed, he assumes his listeners are as well. No dumbing-down. No gotcha questions. He isn't trying to make headlines, just inform his listeners.",
+            "created": "Wed, 17 Mar 2021 15:39:23 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "When your parents die",
+            "created": "Wed, 17 Mar 2021 15:50:04 GMT",
+            "type": "outline",
+            "description": "The things they give you, their love, the small incidental memories -- they end up mattering more.",
+            "metaImage": "http://scripting.com/images/2019/03/26/eveAndPeterWalkingToSchoolIn1964.png",
+            "subs": [
+                {
+                    "text": "One thing you learn when your parents die, the people whose goals and dreams you studied for your formative years, is that our goals and dreams don't matter  much.  ",
+                    "created": "Wed, 17 Mar 2021 15:50:12 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The thing that matters is that my mother made a <a href=\"http://scripting.com/images/2021/03/17/evesQuilt.png\">quilt</a> for me because she wanted me to have it after she was gone. That she walked my brother to school one day 50 years ago and someone took a picture so I can put it on the wall of my living room today. She planted trees on her street, trees that wouldn't give shade until she was long-gone. ",
+                    "created": "Wed, 17 Mar 2021 15:56:52 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "That my father wrote about what he learned about using a computer to organize his work, with software I had written. The time after I was home from the hospital and he took me to the toy store and said I could have whatever I wanted. I have no recollection of what I chose, but I remember that he did it. I imagine that day he was glad I was okay. ",
+                    "created": "Wed, 17 Mar 2021 15:50:19 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The things they give you, their love, the small incidental memories -- they end up mattering more than any of the battles they fought or the impossible dreams they never achieved. ",
+                    "created": "Wed, 17 Mar 2021 15:59:50 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Following up on Roam",
+            "created": "Wed, 17 Mar 2021 14:49:35 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I got some feedback to my series of <a href=\"http://scripting.com/2021/03/15/144714.html?title=aboutRoamsProduct\">questions/observations</a> about Roam's product, which does appear to be an outliner after all. This was my most basic question. I could see that users had the ability to control detail with a familiar expand and collapse operation, but could it reorganize according to structure, the second major feature of outlining? Text on rails. It does have that ability.",
+                    "created": "Wed, 17 Mar 2021 14:49:39 GMT",
+                    "flBulletedSubs": "true",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "In the meantime I have a couple more questions.",
+                    "created": "Wed, 17 Mar 2021 14:51:45 GMT",
+                    "subs": [
+                        {
+                            "text": "Is there a directory of interesting public graphs created by Roam users.",
+                            "created": "Wed, 17 Mar 2021 14:52:03 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Is it a web? Can I link to other people's graphs? What if I create my own Roam-like product, can my graphs be incorporated into other people's?",
+                            "created": "Wed, 17 Mar 2021 14:52:18 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Observations",
+                    "created": "Wed, 17 Mar 2021 15:13:12 GMT",
+                    "subs": [
+                        {
+                            "text": "I spent some time a few years ago brainstorming with Ward Cunningham, the great wiki dev, about how we could combine outlining and wikis. We didn't figure it out. It seems Roam, or one of the products it has inspired, may have it. Andrew Shell, who has spent more time with Ward recently said he had the same thought.",
+                            "created": "Wed, 17 Mar 2021 14:52:59 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I should really spend some time learning this product, but it's hard to find that kind of time. This is one of the problems with software development. It's not like listening to music, which you can do while you are driving a car, or seeing a movie, which takes at most a few hours. Learning to use a software product can take months or even years. Very few products get used by most developers, which is a big reason we keep reinventing each others' wheels.",
+                            "created": "Wed, 17 Mar 2021 14:54:11 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Long story",
+                    "created": "Wed, 17 Mar 2021 15:13:59 GMT",
+                    "subs": [
+                        {
+                            "text": "I have to distill this down to something shorter, but don't have the time right now..",
+                            "created": "Wed, 17 Mar 2021 15:14:04 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "When I first showed up in Silicon Valley, after spending a couple of years in Madison making my first outliner (and getting a CS degree), I was disappointed to find out that someone else had thought of outliners before I had, years earlier, and had developed one, and made a big splash, of sorts -- but opinion-leaders were just as puzzled about his product as I found people were with mine. ",
+                            "created": "Wed, 17 Mar 2021 14:55:41 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Now I'm having a different feeling, after I stopped trying to make outliners pop up everywhere, and turned to other interesting products such as system-level scripting, RSS readers and web CMSes -- that now a new generation of devs is trying again. ",
+                            "created": "Wed, 17 Mar 2021 15:14:43 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "We had tens of thousands of users of our outliners in the 80s, not millions. People who use outliners are rare, I found. I think it may be possible that doesn't have to be that way, there's nothing very hard about using an outliner, but people have to be interested in how they organize and use info, to see the possibility of tools to make that more efficient, and most people aren't that interested.",
+                            "created": "Wed, 17 Mar 2021 15:26:43 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "The product didn't take off until it did something other than outlining -- presentations. Some people asked if they could just have the outliner, and others wanted just the presenter. Which raised the question, why are these two very distinct functions, in one app? Shouldn't they be split into two, so users could plug them into other tools? This is a big idea, that still hasn't seen its day in the sun.",
+                            "created": "Wed, 17 Mar 2021 15:27:44 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "That made me turn to making glue that could combine the features of products to make a hybrid product. That's the germ of an idea that led to Frontier. ",
+                            "created": "Wed, 17 Mar 2021 15:15:36 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Anyway, when I knock on any developer's door and ask about their connections to the outside world, this is what I'm getting at. I once approached a company making a notification system if they supported \"RSS\" and <a href=\"http://rsscloud.co/\">rssCloud</a>. They said it was a third-party opportunity and sent me back a link to their developer site (it cost money to be a developer, btw). This felt like when I approached <a href=\"http://scripting.com/stories/2012/08/06/whatHasPodcastingAccomplis.html#yesPodcastingIsHugeHeSaysButLookAtHowItsDominatedByNprThatMeansRadioWonHeSaysThePromiseOfPodcastingWhichWasAnOverturningOfTheHierarchyWasALosingProposition\">WBUR</a> at the dawn of podcasting to offer to work with them on a new kind of public radio, and they sent me a prospectus for giving them money. Or the time in 1978 that I cold-called the <a href=\"http://scripting.com/2016/12/18/pressFreedomIsNotMyFreedom.html\">Encyclopedia Britannica</a> and told them I knew how to create a computerized encyclopedia and would they like to work with me, and they sent a salesman to try to sell me books! The guy was persistent, we kind of became friends, but he never understood one word of what I was talking about. Heh. I guess it was hard to understand that someday they would be on the web, but this was way before the web existed. ",
+                            "created": "Wed, 17 Mar 2021 15:17:19 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Anyway, I want to know what kind of product Roam is making. One that welcomes the rest of the world, or one that wants to be its own world. Not really judging, just trying to understand. It's like asking if you want to be a cop or the Chief of Police. (A rabbi, or god?)",
+                            "created": "Wed, 17 Mar 2021 15:17:35 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "PS: Ultimately I personally decided I wanted to be a cop. :cop:",
+                            "created": "Wed, 17 Mar 2021 15:21:48 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "PPS: Anyone else working in this area, if you're planning an API, let's collaborate, I have some working code in this area. ",
+                            "created": "Wed, 17 Mar 2021 15:21:58 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "PPPS: I wonder if <a href=\"https://en.wikipedia.org/wiki/Jerry_Michalski\">Jerry Michalski</a> has looked at this? He was and is an advocate of a product called <a href=\"https://www.jerrysbrain.com/\">The Brain</a>, it seems a lot like Roam too. If Jerry likes it, that means something, imho.",
+                            "created": "Wed, 17 Mar 2021 15:29:19 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "That's about it for now. ",
+                    "created": "Wed, 17 Mar 2021 15:03:13 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
