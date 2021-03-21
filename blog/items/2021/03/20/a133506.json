@@ -1,0 +1,6 @@
+{
+    "text": "I've been talking about \"Frontier\" a lot lately, the usual stuff, outliner, object database, verb set, threading, integration, etc. But I realized I leave out the most important thing about Frontier when I recite the features. Whenever we saw a protocol we could support, we did. And we even created new ones when there was a void, as with XML-RPC, OPML and RSS. The best part is we extended the language to make inter-app communication use exactly the same language syntax as local procedure calls. Factoring was also a very big part of the process. So it is kind of a central station, and always getting more high level through factoring. Our software is all about communication, and making it as effortless as possible. It still is, very much. ",
+    "created": "Sat, 20 Mar 2021 13:35:06 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
