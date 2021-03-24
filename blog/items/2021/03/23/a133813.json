@@ -1,0 +1,7 @@
+{
+    "text": "I've been doing a lot of work on web scripting for the last few months. Put everything else aside. I think I'm ready to create a small subset of \"Frontier\" that runs in the cloud. Basic components are outlining of course, twitter and a cloud-based file system. Scripts run from a user-editable menu as they did in Frontier. Still major things to work out, it's probably months away. But I might start sharing little bits of the work I'm doing, to get discussions going, esp with Frontier alums. The language is JavaScript, but here's the thing -- we don't need callbacks for asynchronous operations, it flows just like any other language. <a href=\"https://blog.andrewshell.org/\">Andrew Shell</a> figured out the escape from callbacks, that was what convinced me that you could make a scripting system based on JavaScript. BTW, the codename for the project is Drummer.  ",
+    "created": "Tue, 23 Mar 2021 13:38:13 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2019/12/24/drummer.png",
+    "flInCalendar": true
+}
