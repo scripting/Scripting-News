@@ -1,0 +1,44 @@
+{
+    "text": "Drummer's key innovation",
+    "created": "Wed, 24 Mar 2021 16:13:31 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Following up on yesterday's news about \"Drummer\", its key innovation is that you can write JavaScript code that's much simpler because it does not need to use callbacks. ",
+            "created": "Wed, 24 Mar 2021 16:10:23 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "An example: ",
+            "created": "Wed, 24 Mar 2021 16:14:03 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<code>dns.getDomainName (dns.getDottedId (\"liveblog.co\"))</code>",
+            "created": "Wed, 24 Mar 2021 16:14:09 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "This works even though both DNS operations do I/O.",
+            "created": "Wed, 24 Mar 2021 16:21:41 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "We are using JavaScript's threading, we are not blocking the CPU. ",
+            "created": "Wed, 24 Mar 2021 16:14:32 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "A programmer in any other language will be scratching their head wondering what's the big deal. I know. I've been saying that for years. If Python can do this, I don't see why JavaScript shouldn't. ",
+            "created": "Wed, 24 Mar 2021 16:17:55 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Note: JavaScript as spec'd <i>can't</i> do this. But we were able to make this work with a very simple pre-processor.",
+            "created": "Wed, 24 Mar 2021 16:14:59 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
