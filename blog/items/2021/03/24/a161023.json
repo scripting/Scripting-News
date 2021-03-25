@@ -1,0 +1,6 @@
+{
+    "text": "Following up on yesterday's news about \"Drummer\", the basic innovation is that we were able to make it so you can write JavaScript code that does not require callbacks. Here's an example of a big of code that works. <code>dns.getDomainName (dns.getDottedId (\"liveblog.co\"))</code> even though both DNS operations do IO. And we are not blocking the CPU, we are using JavaScript's threading. Note: This required writing a preprocessor. JavaScript as spec'd can't do this. But the pre-processor is very simple. ",
+    "created": "Wed, 24 Mar 2021 16:10:23 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
