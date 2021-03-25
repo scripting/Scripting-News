@@ -1,0 +1,106 @@
+{
+    "text": "What is a callback?",
+    "created": "Wed, 24 Mar 2021 16:32:24 GMT",
+    "type": "outline",
+    "description": "In JavaScript functions can be called when an operation is complete. ",
+    "subs": [
+        {
+            "text": "I looked around for a decent explanation of JavaScript callbacks, but they take too long to get to the point, or they never explain what they are. Maybe it's too hard to explain? I've been writing a lot of docs lately, so let me try! :-)",
+            "created": "Wed, 24 Mar 2021 16:32:30 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Callbacks are used when an operation is going to take a long time and your program wants to do other things while it's waiting. So you create a function to run when the operation is done, and provide that function to the slow operation you're calling with the intent that it will call this function when it's done. Thus it is a <i>callback</i> function. ",
+            "created": "Wed, 24 Mar 2021 16:33:09 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "An example:",
+            "created": "Wed, 24 Mar 2021 16:40:04 GMT",
+            "flCodeSubs": "true",
+            "subs": [
+                {
+                    "text": "fs.readFile (\"notes.txt\", function (err, filetext) {",
+                    "created": "Wed, 24 Mar 2021 16:40:07 GMT",
+                    "subs": [
+                        {
+                            "text": "if (err) {",
+                            "created": "Wed, 24 Mar 2021 16:49:00 GMT",
+                            "subs": [
+                                {
+                                    "text": "console.log (err.message);",
+                                    "flInCalendar": true
+                                },
+                                {
+                                    "text": "}",
+                                    "flInCalendar": true
+                                }
+                            ],
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "else {",
+                            "created": "Wed, 24 Mar 2021 16:49:06 GMT",
+                            "subs": [
+                                {
+                                    "text": "console.log (\"The file contains \" + filetext.length + \" characters.\");",
+                                    "flInCalendar": true
+                                },
+                                {
+                                    "text": "}",
+                                    "flInCalendar": true
+                                }
+                            ],
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "});",
+                            "created": "Wed, 24 Mar 2021 16:40:30 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "console.log (\"Hi mom!\")",
+                    "created": "Wed, 24 Mar 2021 16:41:12 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "If you look in the console, you'll see:",
+            "created": "Wed, 24 Mar 2021 16:41:30 GMT",
+            "flCodeSubs": "true",
+            "subs": [
+                {
+                    "text": "Hi mom!",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The file contains 28 characters.",
+                    "created": "Wed, 24 Mar 2021 16:48:42 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "&nbsp;",
+                    "created": "Wed, 24 Mar 2021 16:50:01 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "An example of a real world callback. ",
+            "created": "Wed, 24 Mar 2021 16:34:46 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "After you upload a video to Facebook, you'll get a dialog when the upload is done saying this is going to take a bit of time to process, so we'll let you know when it's done. In the meantime you can read stuff. When the video is ready, you get a message saying you can watch the video now. That's the basic flow of a callback. ",
+            "created": "Wed, 24 Mar 2021 16:50:55 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
