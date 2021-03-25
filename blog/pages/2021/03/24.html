@@ -1,0 +1,77 @@
+<div class="divDayTitle"><a href="http://scripting.com/2021/03/24.html">Wednesday, March 24, 2021</a></div>
+<div class="divSingularItem" data-type="outline" data-flInCalendar="true"><a name="a131407"></a>I have arrived at an interesting place. Every day of every week feels like a weekend day. <span class="spPermaLink"><a href="http://scripting.com/2021/03/24.html#a131407" title="Direct link to this item.">#</a></span></div>
+<div class="divTitledItem">
+	<div class="divTitle"><a name="a161331"></a><a href="http://scripting.com/2021/03/24/161331.html?title=drummersKeyInnovation"><span class="spTitleLink">Drummer's key innovation</span></a><span class="spPermaLink"><a href="http://scripting.com/2021/03/24/161331.html?title=drummersKeyInnovation" title="Direct link to this item.">#</a></span></div>
+	<ul class="ulLevel0">
+	<li data-type="outline" data-flInCalendar="true"><a name="a161023"></a>Following up on yesterday's news about <a href="http://scripting.com/2021/03/23.html#a133813">Drummer</a>, its key innovation is that you can write JavaScript code that's much simpler because it does not need to use callbacks. <span class="spPermaLink"><a href="http://scripting.com/2021/03/24/161331.html?title=drummersKeyInnovation#a161023" title="Direct link to this item.">#</a></span></li>
+	<li data-flInCalendar="true"><a name="a161403"></a>An example: <span class="spPermaLink"><a href="http://scripting.com/2021/03/24/161331.html?title=drummersKeyInnovation#a161403" title="Direct link to this item.">#</a></span></li>
+	<li data-flInCalendar="true"><a name="a161409"></a><code>dns.getDomainName (dns.getDottedId (<a href="http://liveblog.co/">liveblog.co</a>))</code><span class="spPermaLink"><a href="http://scripting.com/2021/03/24/161331.html?title=drummersKeyInnovation#a161409" title="Direct link to this item.">#</a></span></li>
+	<li data-flInCalendar="true"><a name="a162141"></a>This works even though both DNS operations do I/O.<span class="spPermaLink"><a href="http://scripting.com/2021/03/24/161331.html?title=drummersKeyInnovation#a162141" title="Direct link to this item.">#</a></span></li>
+	<li data-flInCalendar="true"><a name="a161432"></a>We are using JavaScript's threading, we are not blocking the CPU. <span class="spPermaLink"><a href="http://scripting.com/2021/03/24/161331.html?title=drummersKeyInnovation#a161432" title="Direct link to this item.">#</a></span></li>
+	<li data-flInCalendar="true"><a name="a161755"></a>A programmer in any other language will be scratching their head wondering what's the big deal. I know. I've been saying that for years. If Python can do this, I don't see why JavaScript shouldn't. <span class="spPermaLink"><a href="http://scripting.com/2021/03/24/161331.html?title=drummersKeyInnovation#a161755" title="Direct link to this item.">#</a></span></li>
+	<li data-flInCalendar="true"><a name="a161459"></a>Note: JavaScript as spec'd <i>can't</i> do this. But we were able to make this work with a very simple pre-processor.<span class="spPermaLink"><a href="http://scripting.com/2021/03/24/161331.html?title=drummersKeyInnovation#a161459" title="Direct link to this item.">#</a></span></li>
+	</ul>
+
+	</div>
+<div class="divTitledItem">
+	<div class="divTitle"><a name="a163224"></a><a href="http://scripting.com/2021/03/24/163224.html?title=whatIsACallback"><span class="spTitleLink">What is a callback?</span></a><span class="spPermaLink"><a href="http://scripting.com/2021/03/24/163224.html?title=whatIsACallback" title="Direct link to this item.">#</a></span></div>
+	<ul class="ulLevel0">
+	<li data-flInCalendar="true"><a name="a163230"></a>I looked around for a decent explanation of JavaScript callbacks, but they take too long to get to the point, or they never explain what they are. Maybe it's too hard to explain? I've been writing a lot of docs lately, so let me try! :-)<span class="spPermaLink"><a href="http://scripting.com/2021/03/24/163224.html?title=whatIsACallback#a163230" title="Direct link to this item.">#</a></span></li>
+	<li data-flInCalendar="true"><a name="a163309"></a>Callbacks are used when an operation is going to take a long time and your program wants to do other things while it's waiting. So you create a function to run when the operation is done, and provide that function to the slow operation you're calling with the intent that it will call this function when it's done. Thus it is a <i>callback</i> function. <span class="spPermaLink"><a href="http://scripting.com/2021/03/24/163224.html?title=whatIsACallback#a163309" title="Direct link to this item.">#</a></span></li>
+	<li data-flCodeSubs="true" data-flInCalendar="true"><a name="a164004"></a>An example:<span class="spPermaLink"><a href="http://scripting.com/2021/03/24/163224.html?title=whatIsACallback#a164004" title="Direct link to this item.">#</a></span></li>
+	<ul class="ulLevel1 ulCodeSubs">
+	<li data-flInCalendar="true"><a name="a164007"></a>fs.readFile ("notes.txt", function (err, filetext) {<span class="spPermaLink"><a href="http://scripting.com/2021/03/24/163224.html?title=whatIsACallback#a164007" title="Direct link to this item.">#</a></span></li>
+	<ul class="ulLevel2">
+	<li data-flInCalendar="true"><a name="a164900"></a>if (err) {<span class="spPermaLink"><a href="http://scripting.com/2021/03/24/163224.html?title=whatIsACallback#a164900" title="Direct link to this item.">#</a></span></li>
+	<ul class="ulLevel3">
+	<li data-flInCalendar="true"><a name="aNaNNaNNaN"></a>console.log (err.message);<span class="spPermaLink"><a href="http://scripting.com/2021/03/24/163224.html?title=whatIsACallback#aNaNNaNNaN" title="Direct link to this item.">#</a></span></li>
+	<li data-flInCalendar="true"><a name="aNaNNaNNaN"></a>}<span class="spPermaLink"><a href="http://scripting.com/2021/03/24/163224.html?title=whatIsACallback#aNaNNaNNaN" title="Direct link to this item.">#</a></span></li>
+	</ul>
+
+	<li data-flInCalendar="true"><a name="a164906"></a>else {<span class="spPermaLink"><a href="http://scripting.com/2021/03/24/163224.html?title=whatIsACallback#a164906" title="Direct link to this item.">#</a></span></li>
+	<ul class="ulLevel3">
+	<li data-flInCalendar="true"><a name="aNaNNaNNaN"></a>console.log ("The file contains " + filetext.length + " characters.");<span class="spPermaLink"><a href="http://scripting.com/2021/03/24/163224.html?title=whatIsACallback#aNaNNaNNaN" title="Direct link to this item.">#</a></span></li>
+	<li data-flInCalendar="true"><a name="aNaNNaNNaN"></a>}<span class="spPermaLink"><a href="http://scripting.com/2021/03/24/163224.html?title=whatIsACallback#aNaNNaNNaN" title="Direct link to this item.">#</a></span></li>
+	</ul>
+
+	<li data-flInCalendar="true"><a name="a164030"></a>});<span class="spPermaLink"><a href="http://scripting.com/2021/03/24/163224.html?title=whatIsACallback#a164030" title="Direct link to this item.">#</a></span></li>
+	</ul>
+
+	<li data-flInCalendar="true"><a name="a164112"></a>console.log ("Hi mom!")<span class="spPermaLink"><a href="http://scripting.com/2021/03/24/163224.html?title=whatIsACallback#a164112" title="Direct link to this item.">#</a></span></li>
+	</ul>
+
+	<li data-flCodeSubs="true" data-flInCalendar="true"><a name="a164130"></a>If you look in the console, you'll see:<span class="spPermaLink"><a href="http://scripting.com/2021/03/24/163224.html?title=whatIsACallback#a164130" title="Direct link to this item.">#</a></span></li>
+	<ul class="ulLevel1 ulCodeSubs">
+	<li data-flInCalendar="true"><a name="aNaNNaNNaN"></a>Hi mom!<span class="spPermaLink"><a href="http://scripting.com/2021/03/24/163224.html?title=whatIsACallback#aNaNNaNNaN" title="Direct link to this item.">#</a></span></li>
+	<li data-flInCalendar="true"><a name="a164842"></a>The file contains 28 characters.<span class="spPermaLink"><a href="http://scripting.com/2021/03/24/163224.html?title=whatIsACallback#a164842" title="Direct link to this item.">#</a></span></li>
+	<li data-flInCalendar="true"><a name="a165001"></a>&nbsp;<span class="spPermaLink"><a href="http://scripting.com/2021/03/24/163224.html?title=whatIsACallback#a165001" title="Direct link to this item.">#</a></span></li>
+	</ul>
+
+	<li data-flInCalendar="true"><a name="a163446"></a>An example of a real world callback. <span class="spPermaLink"><a href="http://scripting.com/2021/03/24/163224.html?title=whatIsACallback#a163446" title="Direct link to this item.">#</a></span></li>
+	<li data-flInCalendar="true"><a name="a165055"></a>After you upload a video to Facebook, you'll get a dialog when the upload is done saying this is going to take a bit of time to process, so we'll let you know when it's done. In the meantime you can read stuff. When the video is ready, you get a message saying you can watch the video now. That's the basic flow of a callback. <span class="spPermaLink"><a href="http://scripting.com/2021/03/24/163224.html?title=whatIsACallback#a165055" title="Direct link to this item.">#</a></span></li>
+	</ul>
+
+	</div>
+<div class="divTitledItem">
+	<div class="divTitle"><a name="a123159"></a><a href="http://scripting.com/2021/03/24/123159.html?title=whenMediumShrugs"><span class="spTitleLink">When Medium shrugs</span></a><span class="spPermaLink"><a href="http://scripting.com/2021/03/24/123159.html?title=whenMediumShrugs" title="Direct link to this item.">#</a></span></div>
+	<ul class="ulLevel0">
+	<li data-flInCalendar="true"><a name="a123223"></a><a href="https://www.crunchbase.com/organization/medium">Medium</a> has been around since 2011, getting pretty close to ten years, and in that time, they have switched business strategies many times. The appear to have <a href="https://ev.medium.com/medium-editorial-team-update-8679bcb9fe81">done it again</a> <a href="https://mediagazer.com/#a210323p19">yesterday</a>. So here's another opportunity to take stock of writing on the web, and where we have been and what could change.<span class="spPermaLink"><a href="http://scripting.com/2021/03/24/123159.html?title=whenMediumShrugs#a123223" title="Direct link to this item.">#</a></span></li>
+	<ul class="ulLevel1">
+	<li data-flInCalendar="true"><a name="a123403"></a>First, I got a nice <a href="https://twitter.com/jayrosen_nyu/status/1374541139970260996">note</a> from Jay Rosen thanking me for pushing him to keep his own web presence, to not depend on any of the platforms. It's gratifying to see a longtime friend doing so well with this approach.<span class="spPermaLink"><a href="http://scripting.com/2021/03/24/123159.html?title=whenMediumShrugs#a123403" title="Direct link to this item.">#</a></span></li>
+	<li data-collapse="true" data-flInCalendar="true"><a name="a123502"></a>Jay then sent me a link to an <a href="https://jabberwocking.com/why-have-blog-audiences-declined-over-the-past-decade/">article</a> by Kevin Drum asking why blogging has declined in the past decade. I think there's more to it than what Drum says, that the disappearance of Google Reader, while it certainly hurt the cause, is only part of the puzzle. The problem is that I can't write on my blog and share it with the popular publishing platforms without limiting what I can do with my blog. If you add up all the limits of Twitter, Facebook, Google Reader and Medium, then you can't blog at all because their requirements are contradictory. <span class="spPermaLink"><a href="http://scripting.com/2021/03/24/123159.html?title=whenMediumShrugs#a123502" title="Direct link to this item.">#</a></span></li>
+	<ul class="ulLevel2 ulCollapsed">
+	<li data-flInCalendar="true"><a name="a125202"></a>One requires titles and two don't allow titles. <span class="spPermaLink"><a href="http://scripting.com/2021/03/24/123159.html?title=whenMediumShrugs#a125202" title="Direct link to this item.">#</a></span></li>
+	<li data-flInCalendar="true"><a name="a150819"></a>Facebook doesn't support the basics of blogging, links, simple styles, podcast enclosures and (again) titles. <span class="spPermaLink"><a href="http://scripting.com/2021/03/24/123159.html?title=whenMediumShrugs#a150819" title="Direct link to this item.">#</a></span></li>
+	<li data-flInCalendar="true"><a name="a150825"></a>Medium supports most of what you would want them to support but doesn't allow updating, so if you make a change you have to do it by hand. <span class="spPermaLink"><a href="http://scripting.com/2021/03/24/123159.html?title=whenMediumShrugs#a150825" title="Direct link to this item.">#</a></span></li>
+	<li data-flInCalendar="true"><a name="a150832"></a>None of them want to peer with blogs. They all insist you do your writing with their tools of greatly varying quality, and some are reallllly bad. Even the new hope of writers everywhere, Substack, requires you to use their editor. <span class="spPermaLink"><a href="http://scripting.com/2021/03/24/123159.html?title=whenMediumShrugs#a150832" title="Direct link to this item.">#</a></span></li>
+	<li data-flInCalendar="true"><a name="a125240"></a>So, trying to keep this short as possible, in 2017 I gave up trying to peer with any of those services, and went back to writing my blog the way I like to write, and the lights came back on. It works again. So the moral of the story imho is to forget about peering, and just blog the way you want to, and I think we can all be happy.<span class="spPermaLink"><a href="http://scripting.com/2021/03/24/123159.html?title=whenMediumShrugs#a125240" title="Direct link to this item.">#</a></span></li>
+	</ul>
+
+	<li data-flInCalendar="true"><a name="a124126"></a>Now I mentioned Google Reader in the list of limiting environments. Oddly, even though it's long gone, it is still controlling how we blog. They didn't support the full RSS spec, they don't handle posts without titles. And all the replacements for Reader copied their limits, so even though it's gone, it's influence is still strong, contributing limits to blogging that weren't here before they came and went. <span class="spPermaLink"><a href="http://scripting.com/2021/03/24/123159.html?title=whenMediumShrugs#a124126" title="Direct link to this item.">#</a></span></li>
+	<li data-flInCalendar="true"><a name="a124248"></a>Is Twitter's character limit protecting Medium? If so, please now would be a good time to change course. Twitter is only increasing in importance. I would love to seem them make a deliberate effort to do all that RSS can do in transporting web writing, so we can start building again, from a sane base. As much as I love Twitter, its constraints are still unbearable. <span class="spPermaLink"><a href="http://scripting.com/2021/03/24/123159.html?title=whenMediumShrugs#a124248" title="Direct link to this item.">#</a></span></li>
+	<li data-flInCalendar="true"><a name="a125705"></a>One more thing. We're still waiting for independent writers to take the lead here, as I <a href="http://scripting.com/2021/03/18/141318.html?title=itsNotReallyAScam">wrote</a> last week. "Until the writers lead here, you're going to keep having your hearts broken and the tech for writing on the web will continue to go nowhere."<span class="spPermaLink"><a href="http://scripting.com/2021/03/24/123159.html?title=whenMediumShrugs#a125705" title="Direct link to this item.">#</a></span></li>
+	</ul>
+
+	</ul>
+
+	</div>
