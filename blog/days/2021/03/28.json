@@ -1,0 +1,43 @@
+{
+    "text": "March 28",
+    "created": "Sun, 28 Mar 2021 15:10:27 GMT",
+    "type": "calendarDay",
+    "name": "28",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/NYGovCuomo/status/1376184608841207818\">Cuomo</a>: Legal cannabis in New York, soon come.",
+            "created": "Sun, 28 Mar 2021 15:24:03 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/NYGovCuomo/status/1376184608841207818",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've known <a href=\"https://www.amazon.com/Nick-Arnett/e/B06VVR3DX6%3Fref=dbs_a_mng_rwt_scns_share\">Nick Arnett</a> for a long time. He used to be a tech journalist, but in recent years, he's become a public service person. He has been on the front lines of fighting fires in California. Most he's recently has been working in Oakland, helping people get their Covid vaccinations at the Coliseum. This morning he asked for help on Facebook. They needed a simple app that could tell them when 15 minutes and 30 minutes were. These are the amounts of time people have to wait before leaving, to be sure that if they have a bad reaction to the vaccine, that they can be helped by medics. Makes sense that in the middle of everything else they have to do, adding 15 and 30 to the current time is a bit much to ask. I said I would be happy to do it. Just a small JavaScript project. I was glad to help. The result is this site: <a href=\"http://timeshifter.scripting.com/\">timeshifter.scripting.com</a>. It's possible other vaccinators could use it, if so please pass it on. ",
+            "created": "Sun, 28 Mar 2021 23:24:05 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "From the Something-Users-Don't-Understand-But-Could Department. Developing software is a <a href=\"http://scripting.com/davenet/2000/11/30/bootstrapping.html\">bootstrap</a>. It's analogous to building a bridge. Start by pulling a wire across the river. Use it to pull up another wire. When you have enough wires, bundle them to create a thicker wire, and use it to pull up something bigger. Eventually you have two thick cables going across the body of water. Use the cables to pull up a roadway. Build on-ramps and off-ramps and toll booths. But you can't build things out of order, and sometimes things are added earlier for features that won't be added until later in the bootstrap process. People who have evolved products know about this. And you never see it more clearly than when you're building your second  or fifteenth or 200th bridge. By that point, you figure, if the users really wanted to understand they could, because they're teaching classes about it in universities.",
+            "created": "Sun, 28 Mar 2021 16:04:03 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/03/28/marley.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "We should dream about what if the tech companies wanted to build a more customizable network, one that works better for users, not advertisers. The answer to every one of these ideas is: <i>They'll never do it.</i> That's what makes it fun.",
+            "created": "Sun, 28 Mar 2021 15:32:34 GMT",
+            "type": "tweet",
+            "tweetId": "1376208148462235650",
+            "tweetUserName": "davewiner",
+            "flInCalendar": true
+        },
+        {
+            "text": "As I'm developing a <a href=\"http://scripting.com/2021/03/24/161331.html?title=drummersKeyInnovation\">Frontier-like product</a>, I'm remembering how much I didn't like some of the developers we attracted. We used to believe in the goodness of everyone, but forgot the humanity, and that as a community grows, eventually you attract <a href=\"http://this.how/trolls/\">people</a> who try to make your life miserable. The pressure of dealing with these people literally made me sick. I got better as soon as I stopped. We've learned a lot about moderating community systems since then. So I'm going to keep my promise to myself, this project is mainly for me, because I want it, and I love the idea of other people using it, and helping each other, and that includes me, but when they start abusing me, I'm turning them off without a second thought. ",
+            "created": "Sun, 28 Mar 2021 15:10:28 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
