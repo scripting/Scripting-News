@@ -1,0 +1,80 @@
+{
+    "text": "Rule 1: No breakage",
+    "created": "Tue, 30 Mar 2021 21:31:01 GMT",
+    "type": "outline",
+    "description": "Rule 1 is pretty simple. Don't break the users. ",
+    "metaImage": "http://scripting.com/2016/11/25/constitution.png",
+    "subs": [
+        {
+            "text": "At <a href=\"https://www.google.com/search?q=site%3Ascripting.com+userland\">UserLand</a>, a company I founded a long time ago, we had a rule called Rule 1. It said simply: No breakage. It meant you couldn't change the environment such that apps that ran in version N did not run in version N+1. It meant you took longer to release a new version because once released, you had to live with it forever. This rule came from bad experiences when we did things that broke users and developers. Since we were both the developers of the platform and users of the platform we had a realistic perspective of this. ",
+            "created": "Tue, 30 Mar 2021 21:44:27 GMT",
+            "image": "http://scripting.com/images/2021/03/30/grannySmithApple.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I was once having a discussion with someone who wanted to implement a successor to Frontier, intending it to be compatible with Frontier, in some way, but right at the beginning said he was going to make it <a href=\"https://en.wikipedia.org/wiki/Case_sensitivity\">case-sensitive</a> where Frontier is not case-sensitive. ",
+            "created": "Tue, 30 Mar 2021 21:21:01 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'd be happy to debate anyone who thinks this is anything but insane. I'd win the argument re Frontier for two reasons: ",
+            "created": "Tue, 30 Mar 2021 21:31:45 GMT",
+            "subs": [
+                {
+                    "text": "1. Frontier is not case-sensitive, and ",
+                    "created": "Tue, 30 Mar 2021 21:31:51 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "2. Rule 1, no breakage. ",
+                    "created": "Tue, 30 Mar 2021 21:31:56 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "As we were originally developing the environment in the early 90s, we didn't give this much thought, but at the last minute a beta user it pleaded that it would be a tragic mistake to make it case-sensitive, so we changed. Never regretted the decision. ",
+            "created": "Tue, 30 Mar 2021 21:31:19 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "To programming neophytes, a language is case-sensitive if HelloGoodbye is a different name from helloGoodbye. ",
+            "created": "Tue, 30 Mar 2021 21:31:30 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Rule 1 was not a joke, it was dead serious. I was sick of programmers who choose to break users and developers. I had worked with a deprecator, for years, and learned the hard way that a development process that permitted user breakage was not much of a process. Eventually the users will go somewhere where they aren't always having to start over because a programmer changed their mind about how something should work. Sometimes breakage happens, all rules have exceptions, but you have to work really hard to avoid those situations, and usually there's a way to do it. ",
+            "created": "Tue, 30 Mar 2021 21:32:56 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "When a language goes out of its way to say Rule 1 demands no breakage, not Rule 27, or Rule 18b, but Rule 1, the first, the one that all other rules follow, well you can't break that rule and still say you're doing the thing you say you're doing. ",
+            "created": "Tue, 30 Mar 2021 21:32:03 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Jake Savin, a UserLander and friend, <a href=\"https://jakesav.in/2011/08/18/hey-firefox-thanks-for-forcing-me-to-switch-to-chrome/\">explained</a> Rule 1 in the context of Firefox, which most definitely is not a Rule 1 product.",
+            "created": "Tue, 30 Mar 2021 21:30:23 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Rule 1 was mentioned in the <a href=\"http://kernel.scripting.com/faq#whyUseTheGpl\">document</a> announcing Frontier's release as open source in 2004. ",
+            "created": "Tue, 30 Mar 2021 21:35:25 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I mentioned Rule 1 in re arguments about whether it mattered <a href=\"http://scripting.com/2002/09/29.html#rule1\">if RSS broke publishers</a> and aggregator developers. I insisted on Rule 1 there too. ",
+            "created": "Tue, 30 Mar 2021 21:35:38 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Rule 1 came up in a piece about <a href=\"http://scripting.com/2020/07/11/152423.html?title=reallySimpleJavascriptDay3#a153245\">Really Simple JavaScript</a>. ",
+            "created": "Tue, 30 Mar 2021 21:38:10 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
