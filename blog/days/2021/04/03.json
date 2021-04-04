@@ -1,0 +1,118 @@
+{
+    "text": "April 3",
+    "created": "Sat, 03 Apr 2021 13:18:34 GMT",
+    "type": "calendarDay",
+    "name": "03",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=WLiIe0KQ_lY\">Chuck E's In Love</a>. ",
+            "created": "Sat, 03 Apr 2021 14:09:46 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=WLiIe0KQ_lY",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/remotely_ruth/status/1377988413832392706\">Ruth</a>: \"Explain APIs to me like I’m 45 (and new to tech).\" ",
+            "created": "Sat, 03 Apr 2021 14:33:49 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "President Biden does something I thought Democrats forgot how to do. He goes around the obstruction in DC, bringing his ideas to the people. Journalism could learn from this. If they understood and took the side of the people more, they'd have more support from the people.",
+            "created": "Sat, 03 Apr 2021 13:18:35 GMT",
+            "type": "tweet",
+            "tweetId": "1378336171168825345",
+            "tweetUserName": "davewiner",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm thinking about <a href=\"https://gothamist.com/news/ny-and-nj-both-legalized-marijuana-this-year-but-theres-one-big-difference\">legal weed</a> in <a href=\"https://en.wikipedia.org/wiki/Woodstock,_New_York\">Woodstock</a>.",
+            "created": "Sat, 03 Apr 2021 20:45:48 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've thought more about <a href=\"http://scripting.com/2021/03/31.html#a004613\">Making of Sgt Pepper</a>. It's amazing to hear the Beatles' perspective on the <a href=\"https://en.wikipedia.org/wiki/Sgt._Pepper%27s_Lonely_Hearts_Club_Band\">album</a>, I had never really thought how it was created, yet as a creative person myself, I’m often surprised and even offended that people don’t consider my point of view about the things I created. But at one time, Sgt Pepper was their thing, their secret. That's why the <a href=\"http://scripting.com/2021/04/01.html#a155654\">final quote</a> was so strong for me. \"You just wait,\" says McCartney -- echoing the feeling in 1967 when he knew he had something great, that was going to shake the world (as it did) and no one but he and a few others knew what it was. And the lesson of the Making of Sgt Pepper is that you and I will never know Sgt Pepper the way McCartney does. And one more thought, if only John Lennon could have been there, what would we have learned. ",
+            "created": "Sat, 03 Apr 2021 13:18:56 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/04/03/lennon.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "The Making of Drummer",
+            "created": "Sat, 03 Apr 2021 13:30:21 GMT",
+            "type": "outline",
+            "description": "Why I'm striving to keep it small, based on experience with Frontier. ",
+            "metaImage": "http://scripting.com/2016/10/31/auroraBridge.png",
+            "subs": [
+                {
+                    "text": "I wear a lot of hats. One of them is as a developer of scripting systems. I did a big one, Frontier, developed mostly in the late 80s and 90s. People seem to refer to it in the past tense, but I use Frontier as do others. it does things no other product can. It works. ",
+                    "created": "Sat, 03 Apr 2021 16:39:02 GMT",
+                    "image": "http://scripting.com/images/2019/09/10/drummer.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "As you may know, \"Drummer\" is my new outliner-based scripting system for the web. It's still at least a few months from shipping, maybe more. But I'm making big decisions about how it works right now. ",
+                    "created": "Sat, 03 Apr 2021 13:30:27 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The same way Frontier was designed around an <a href=\"http://frontier.userland.com/manual/objectDatabase\">object database</a> and the Mac filesystem (and later Windows), Drummer works with public and private files on a server.",
+                    "created": "Sat, 03 Apr 2021 16:42:39 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Frontier is a very broad and deep product, but it wasn't originally designed to be so big. The initial idea was to integrate it with the Finder, add a Scripts menu, and have it do things with the file system, and provide a way to program and connect scriptable apps. That was it. Simple.  I offered it to Apple. At the time, the early 90s, I knew all the decision-makers there, but I asked for too much money, they thought they could do it for less. So now I had tipped my hand, showed them my product, I figured to be competitive I'd have to add more stuff, which I did have available to me, since I always try out ideas that don't make it into the final product. The product got deeper, but it also got more complicated.",
+                    "created": "Sat, 03 Apr 2021 13:31:49 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I always wondered if it would have worked better if we had started with the small product. We could have shipped sooner. It would have been more approachable, more immediately useful. I think there is a good chance it would have worked better, but it didn't go that way. ",
+                    "created": "Sat, 03 Apr 2021 13:34:06 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This time, I'm trying to keep Drummer small, focus on a few innovations, and make a lot of the parts replaceable. ",
+                    "created": "Sat, 03 Apr 2021 13:51:52 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I am creating a product, but as with Radio UserLand, I also want to try to create a new use for our computers. With Radio it was blogging and RSS. This time it's a richer, better connected working environment on the net for power users and devs. ",
+                    "created": "Sat, 03 Apr 2021 13:42:41 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: Power users is a <a href=\"https://en.wikipedia.org/wiki/Power_user\">concept</a> that has fallen into disuse, but they still exist, and you can design for them. Some users are very skilled with the technology.",
+                    "created": "Sat, 03 Apr 2021 13:43:20 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PPS: The <a href=\"http://scripting.com/2021/03/24/161331.html?title=drummersKeyInnovation\">key innovation</a> in Drummer is JavaScript without the callbacks.",
+                    "created": "Sat, 03 Apr 2021 13:43:40 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PPPS: I posted something about Drummer <a href=\"https://twitter.com/davewiner/status/1378357655874498561\">on Twitter</a>. ",
+                    "created": "Sat, 03 Apr 2021 15:37:40 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Calling off the pandemic?",
+            "created": "Sat, 03 Apr 2021 14:00:20 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "A gathering for 50 people? Oy.",
+                    "created": "Sat, 03 Apr 2021 14:00:33 GMT",
+                    "inlineImage": "http://scripting.com/images/2021/04/03/pandemicPostComments.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
