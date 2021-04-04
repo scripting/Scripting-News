@@ -1,0 +1,61 @@
+{
+    "text": "The Making of Drummer",
+    "created": "Sat, 03 Apr 2021 13:30:21 GMT",
+    "type": "outline",
+    "description": "Why I'm striving to keep it small, based on experience with Frontier. ",
+    "metaImage": "http://scripting.com/2016/10/31/auroraBridge.png",
+    "subs": [
+        {
+            "text": "I wear a lot of hats. One of them is as a developer of scripting systems. I did a big one, Frontier, developed mostly in the late 80s and 90s. People seem to refer to it in the past tense, but I use Frontier as do others. it does things no other product can. It works. ",
+            "created": "Sat, 03 Apr 2021 16:39:02 GMT",
+            "image": "http://scripting.com/images/2019/09/10/drummer.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "As you may know, \"Drummer\" is my new outliner-based scripting system for the web. It's still at least a few months from shipping, maybe more. But I'm making big decisions about how it works right now. ",
+            "created": "Sat, 03 Apr 2021 13:30:27 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The same way Frontier was designed around an <a href=\"http://frontier.userland.com/manual/objectDatabase\">object database</a> and the Mac filesystem (and later Windows), Drummer works with public and private files on a server.",
+            "created": "Sat, 03 Apr 2021 16:42:39 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Frontier is a very broad and deep product, but it wasn't originally designed to be so big. The initial idea was to integrate it with the Finder, add a Scripts menu, and have it do things with the file system, and provide a way to program and connect scriptable apps. That was it. Simple.  I offered it to Apple. At the time, the early 90s, I knew all the decision-makers there, but I asked for too much money, they thought they could do it for less. So now I had tipped my hand, showed them my product, I figured to be competitive I'd have to add more stuff, which I did have available to me, since I always try out ideas that don't make it into the final product. The product got deeper, but it also got more complicated.",
+            "created": "Sat, 03 Apr 2021 13:31:49 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I always wondered if it would have worked better if we had started with the small product. We could have shipped sooner. It would have been more approachable, more immediately useful. I think there is a good chance it would have worked better, but it didn't go that way. ",
+            "created": "Sat, 03 Apr 2021 13:34:06 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "This time, I'm trying to keep Drummer small, focus on a few innovations, and make a lot of the parts replaceable. ",
+            "created": "Sat, 03 Apr 2021 13:51:52 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I am creating a product, but as with Radio UserLand, I also want to try to create a new use for our computers. With Radio it was blogging and RSS. This time it's a richer, better connected working environment on the net for power users and devs. ",
+            "created": "Sat, 03 Apr 2021 13:42:41 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "PS: Power users is a <a href=\"https://en.wikipedia.org/wiki/Power_user\">concept</a> that has fallen into disuse, but they still exist, and you can design for them. Some users are very skilled with the technology.",
+            "created": "Sat, 03 Apr 2021 13:43:20 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "PPS: The <a href=\"http://scripting.com/2021/03/24/161331.html?title=drummersKeyInnovation\">key innovation</a> in Drummer is JavaScript without the callbacks.",
+            "created": "Sat, 03 Apr 2021 13:43:40 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "PPPS: I posted something about Drummer <a href=\"https://twitter.com/davewiner/status/1378357655874498561\">on Twitter</a>. ",
+            "created": "Sat, 03 Apr 2021 15:37:40 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
