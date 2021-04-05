@@ -1,0 +1,108 @@
+{
+    "text": "The lost apps of the 80s",
+    "created": "Sun, 04 Apr 2021 17:46:04 GMT",
+    "type": "outline",
+    "description": "In an email conversation, Ray Ozzie and I talked about all the writing tools of the 80s that didn't transiiton to the web.",
+    "metaImage": "http://scripting.com/images/2021/04/04/byteCoverLaptops.png",
+    "subs": [
+        {
+            "text": "As you know I've been asking a question pretty persistently -- where did the apps go? Specifically where did the writing tools go? Before the web, there was a deep market for software writing tools, all kinds of word processors, text editors, desktop publishing tools, even spreadsheets and database software were used to write. Yet few of those tools transitioned to the web. ",
+            "created": "Sun, 04 Apr 2021 17:46:21 GMT",
+            "image": "http://scripting.com/images/2019/09/27/todd.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "In the early years of the web, we thought it was very innovative for browser-based apps to create and write for public websites, which eventually became blogs, entirely through web forms in the browers. It was such a miracle, look at how easy it is! -- that we overlooked that as a writing tool, the web browser is pretty awful. We know how to do it so much better! Why didn't we? Why don't we do it now?",
+            "created": "Sun, 04 Apr 2021 18:04:09 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<b>Introducing Ray Ozzie...</b>",
+            "created": "Sun, 04 Apr 2021 22:44:41 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've been having an email conversation with <a href=\"https://en.wikipedia.org/wiki/Ray_Ozzie\">Ray Ozzie</a>, a fellow productivity tools developer from the 80s. We never worked together but we worked with people who worked together. He did several products you might be familiar with. Lotus Symphony which was the height of the \"integrated software\" period in the mid-80s, and the corporate groupware product, <a href=\"https://www.cio.com/article/2431837/7-things-it-managers-should-know-about-lotus-notes.html\">Lotus Notes</a>. Since then he has been CTO of Microsoft, and has founded several successful startups. He was recently honored as a <a href=\"https://computerhistory.org/events/building-a-better-world-through-tech-for-collaboration/\">fellow</a> of the Computer History Museum. I asked if I could include some of his comments in a blog post here, and he agreed. I didn't do any editing, his words appear exactly as he typed them.",
+            "created": "Sun, 04 Apr 2021 17:48:59 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<b>Dave (me) kicks it off...</b>",
+            "created": "Sun, 04 Apr 2021 17:53:53 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "There used to be, as you know, a deep market for tools for writers. Highly customizable products, or products with UIs with character, people had something they don't have now -- choice. And that made it competitive.",
+            "created": "Sun, 04 Apr 2021 17:54:20 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Now, we don't have choice. If I want to write on Facebook, I have to use their awful buggy editor. If I want a Substack newsletter or a Medium blog, or whatever -- I have to use their editors, which vary in quality, but none of them would have stood a chance in the 80s software market.",
+            "flInCalendar": true
+        },
+        {
+            "text": "We could argue how this happened, but there's no question that it did happen.",
+            "flInCalendar": true
+        },
+        {
+            "text": "Also there should be networked spreadsheets. And since it's 40 years later, there should be products we never imagined in the 80s. They aren't there.",
+            "flInCalendar": true
+        },
+        {
+            "text": "That's the starting point. I'm not saying we should fix it, I don't want to take that on, but I want to focus the tech world on the fact that this happened. ",
+            "flInCalendar": true
+        },
+        {
+            "text": "<b>Now Ray opines on the lost apps of the 80s...</b>",
+            "created": "Sun, 04 Apr 2021 17:54:42 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I agree wholeheartedly that there are things that we were incredibly fortunate to have experienced, and they seem to be gone.  Seemingly forever.",
+            "created": "Sun, 04 Apr 2021 17:55:05 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "ThinkTank and outliners in general is one of them.  I don’t understand this because I think there are many outliner-type people out there who would enjoy them, but because they never became mainstream they aren’t being given a chance to be mainstream once again.",
+            "flInCalendar": true
+        },
+        {
+            "text": "I also think that there were calendar-centric PIM-centric extensions to the outlining concept that were in Agenda that were worth saving; they’re gone.",
+            "flInCalendar": true
+        },
+        {
+            "text": "Pito Salas’s spreadsheet <a href=\"https://medium.com/pito-s-blog/why-improv-didnt-succeed-3e06a43acf73\">Improv</a> had incredible things – far more than just the pivot table – and yet the world is now deprived because the world seems comfortable with a simpler concept of a spreadsheet.  And yes, networked spreadsheets of one form or another would be amazing – especially given that many real-world spreadsheet scenarios involve periodic consolidation/roll-up involving multiple people and processes.",
+            "created": "Sun, 04 Apr 2021 18:02:06 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "A VC friend told me several years ago that it was incredible that even though there is now a wave of “low code” tools such as Airtable, that there is nothing out there with the power and usability that Lotus Notes had back-in-the-day.  And so we cobble together many tools, ignoring the fact that there was a better answer that we’ve chosen to discard.",
+            "flInCalendar": true
+        },
+        {
+            "text": "As you said, I can’t fix it.  I can’t even explain it.  I’ve put an incredible amount of energy and love into products that have commercially failed, and it has made me a bit more cautious.  I’m fortunate that I don’t tend to descend into cynicism, but it remains perplexing.",
+            "flInCalendar": true
+        },
+        {
+            "text": "As a writer and an analyst, I do think this would be a great topic to explore: why have so many great ideas been discarded?  Even if their initial implementation was destined never to withstand the test of time, why do we choose to ignore those aspects that were good?  In an internet that was supposed to allow us to have ‘bubbles’ of special interest groups, why haven’t we created a thriving environment that might support the creation and maintenance of bespoke power tools for creativity and productivity?",
+            "created": "Sun, 04 Apr 2021 17:57:14 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "That's where I'd like to leave it for now, there will be more. ",
+            "created": "Sun, 04 Apr 2021 17:57:19 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "PS: I wrote my side of the conversation in GMail. A pretty standard browser-based text browser and editor. In Chrome on my Mac. I don't know what email app Ray used. ;-)",
+            "created": "Sun, 04 Apr 2021 18:01:29 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "PPS: There's a <a href=\"https://news.ycombinator.com/item?id=26692308\">thread</a> about this piece on Hacker News.",
+            "created": "Sun, 04 Apr 2021 22:52:37 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
