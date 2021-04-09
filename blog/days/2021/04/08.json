@@ -1,0 +1,52 @@
+{
+    "text": "April 8",
+    "created": "Thu, 08 Apr 2021 15:16:20 GMT",
+    "type": "calendarDay",
+    "name": "08",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=bJVWZy4QOy0\">For the benefit of Mr Kite</a>. ",
+            "created": "Thu, 08 Apr 2021 16:57:58 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=bJVWZy4QOy0",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1380196022270504964\">Twitter thread</a>: \"These days I see twitter as an essential utility. Largely because the API is so good.\"",
+            "created": "Thu, 08 Apr 2021 21:20:21 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, \"Drummer\" will have a collection of built-in Twitter verbs. ",
+            "created": "Thu, 08 Apr 2021 21:20:46 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<span style=\"font-size: 16px\">twitter.getScreenname (twitter.getUserProfile (\"jack\").id) //example</span>",
+            "created": "Thu, 08 Apr 2021 22:31:31 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "\"Use the product for its intended purpose.\" This is something I say to myself and people I work with, a lot. A steady drumbeat, to stay on track. ",
+            "created": "Thu, 08 Apr 2021 15:51:06 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I watched the beginning of President Biden's press conference today. Both VP Harris and the president gave very good talks.  Sometimes their cadence is wrong, they speak in typos,  and other times (like today) I say YEAH that's right, that's how you do it. ",
+            "created": "Thu, 08 Apr 2021 16:27:44 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "It would be amazing if all software developers used compatible back-end databases.",
+            "created": "Thu, 08 Apr 2021 17:00:17 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
