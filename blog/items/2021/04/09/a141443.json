@@ -1,0 +1,125 @@
+{
+    "text": "A Drummer example",
+    "created": "Fri, 09 Apr 2021 14:14:43 GMT",
+    "type": "outline",
+    "description": "Even though the script makes a dozen asynchronous calls to Twitter, it's written as if it were synchronous.",
+    "metaImage": "http://scripting.com/images/2021/04/09/drummers.png",
+    "subs": [
+        {
+            "text": "Just for fun I wrote a \"Drummer\" script that lists the earlierst Twitter users in an outline.   ",
+            "created": "Fri, 09 Apr 2021 14:14:14 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<b>Here's the script:</b>",
+            "created": "Fri, 09 Apr 2021 14:15:01 GMT",
+            "flCodeSubs": "true",
+            "subs": [
+                {
+                    "text": "var flfirst = true;",
+                    "created": "Fri, 09 Apr 2021 14:15:19 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "op.insert (\"Early Twitter signups\", down);",
+                    "created": "Fri, 09 Apr 2021 14:17:14 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "for (var i = 12; i < 25; i++) {",
+                    "created": "Fri, 09 Apr 2021 14:16:46 GMT",
+                    "subs": [
+                        {
+                            "text": "var name = twitter.getScreenname (i);",
+                            "created": "Fri, 09 Apr 2021 19:05:46 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "op.insert (name, (flfirst) ? \"right\" : \"down\");",
+                            "created": "Fri, 09 Apr 2021 19:05:53 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "flfirst = false;",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "}",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "op.go (left, 1);",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "<b>The list it generates</b>",
+            "created": "Fri, 09 Apr 2021 14:15:35 GMT",
+            "flCodeSubs": "true",
+            "subs": [
+                {
+                    "text": "<img src=\"http://scripting.com/images/2021/04/09/twitterUsersList.png\" style=\"padding-bottom: 10px;\">",
+                    "created": "Fri, 09 Apr 2021 14:24:09 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "<b>How the script works</b>",
+            "created": "Fri, 09 Apr 2021 14:16:49 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "It inserts a headline in the current outline, <i>down</i> from the bar cursor headline, with the text \"Early Twitter signups.\"   ",
+                    "created": "Fri, 09 Apr 2021 14:16:53 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Then it loops of users whose ids are 12 to 24. I picked 12 because I had figured out from an earlier script that it was the first-listed user. And 24 is a random value I picked out of thin air. ;-)",
+                    "created": "Fri, 09 Apr 2021 14:17:23 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "For each user, it calls the Drummer verb twitter.getScreenname, which takes one parameter, the id of the user whose name you want. Then it inserts the name either to the right or down from the cursor depending on whether this is the first user we're inserting. That's how <a href=\"http://docserver.userland.com/op/insert\">op.insert</a>, an old friend from Frontier, works. ",
+                    "created": "Fri, 09 Apr 2021 14:18:33 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "When it's done looping, it moves the cursor to the left, onto the \"Early Twitter signups\" headline we created. ",
+                    "created": "Fri, 09 Apr 2021 14:19:46 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It leaves the list expanded. ",
+                    "created": "Fri, 09 Apr 2021 14:20:16 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "<b>The killer feature</b>",
+            "created": "Fri, 09 Apr 2021 14:20:49 GMT",
+            "subs": [
+                {
+                    "text": "It's so humble you might actually miss it. ",
+                    "created": "Fri, 09 Apr 2021 14:20:52 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Even though the script makes a dozen asynchronous calls to Twitter, it's written as if it were synchronous. No weird code structures, you just write it as you think of it, and the system translates it into the complicated stuff, for you. Do I have to explain why this is good? Any time you can let the computer do the complex stuff for you is time you save, and errors you don't make. ",
+                    "created": "Fri, 09 Apr 2021 14:21:04 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
