@@ -1,0 +1,158 @@
+{
+    "text": "April 9",
+    "created": "Fri, 09 Apr 2021 13:15:59 GMT",
+    "type": "calendarDay",
+    "name": "09",
+    "subs": [
+        {
+            "text": "Journalism is not accountable. We can’t impeach the NYT, or remove them from office in the next election. Yet they pretty much determine what we talk about, so much so that <a href=\"https://en.wikipedia.org/wiki/Wolf_Blitzer\">Wolf Blitzer</a> on CNN actually negotiates with politicians we do elect, who are accountable.",
+            "created": "Fri, 09 Apr 2021 19:53:53 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "If Congress wants to get the attention of tech companies, make them liable for <a href=\"https://www.droid-life.com/2021/04/08/apple-android-imessage-lock-in/amp/\">lock-in</a>.",
+            "created": "Fri, 09 Apr 2021 13:16:00 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've been catching up on the <a href=\"https://www.cnn.com/2021/04/08/world/meanwhile-in-america-april-8-intl/index.html\">Chauvin trial</a> every night on the news. The testimony is damning. He is obviously guilty of murder. But, the defense isn't trying to win all the votes of the jurors, they only have to convince one juror, and I'm pretty sure they'll do that.",
+            "created": "Fri, 09 Apr 2021 13:16:16 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "One reason <a href=\"https://twitter.com/JRubinBlogger/status/1380510762515509249\">Manchin</a> might want to vote to cancel the filibuster is that it would maintain his power to veto non-budget Democratic legislation. With the filibuster in place the only power he has is to keep the filibuster. If he sticks with that he might as well switch parties now. However, if Biden and the Dems sold the voting plan that the Repubs will certainly block, if 90 percent of West Virginians supported the reforms, I would imagine that Manchin <i>could</i> change his mind. It all comes back to the same thing. <a href=\"http://scripting.com/2021/04/07/142155.html?title=theCampaignNeverStops\">The campaign never stops</a>.",
+            "created": "Fri, 09 Apr 2021 13:22:59 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A Drummer example",
+            "created": "Fri, 09 Apr 2021 14:14:43 GMT",
+            "type": "outline",
+            "description": "Even though the script makes a dozen asynchronous calls to Twitter, it's written as if it were synchronous.",
+            "metaImage": "http://scripting.com/images/2021/04/09/drummers.png",
+            "subs": [
+                {
+                    "text": "Just for fun I wrote a \"Drummer\" script that lists the earlierst Twitter users in an outline.   ",
+                    "created": "Fri, 09 Apr 2021 14:14:14 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<b>Here's the script:</b>",
+                    "created": "Fri, 09 Apr 2021 14:15:01 GMT",
+                    "flCodeSubs": "true",
+                    "subs": [
+                        {
+                            "text": "var flfirst = true;",
+                            "created": "Fri, 09 Apr 2021 14:15:19 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "op.insert (\"Early Twitter signups\", down);",
+                            "created": "Fri, 09 Apr 2021 14:17:14 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "for (var i = 12; i < 25; i++) {",
+                            "created": "Fri, 09 Apr 2021 14:16:46 GMT",
+                            "subs": [
+                                {
+                                    "text": "var name = twitter.getScreenname (i);",
+                                    "created": "Fri, 09 Apr 2021 19:05:46 GMT",
+                                    "flInCalendar": true
+                                },
+                                {
+                                    "text": "op.insert (name, (flfirst) ? \"right\" : \"down\");",
+                                    "created": "Fri, 09 Apr 2021 19:05:53 GMT",
+                                    "flInCalendar": true
+                                },
+                                {
+                                    "text": "flfirst = false;",
+                                    "flInCalendar": true
+                                },
+                                {
+                                    "text": "}",
+                                    "flInCalendar": true
+                                }
+                            ],
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "op.go (left, 1);",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<b>The list it generates</b>",
+                    "created": "Fri, 09 Apr 2021 14:15:35 GMT",
+                    "flCodeSubs": "true",
+                    "subs": [
+                        {
+                            "text": "<img src=\"http://scripting.com/images/2021/04/09/twitterUsersList.png\" style=\"padding-bottom: 10px;\">",
+                            "created": "Fri, 09 Apr 2021 14:24:09 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<b>How the script works</b>",
+                    "created": "Fri, 09 Apr 2021 14:16:49 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "It inserts a headline in the current outline, <i>down</i> from the bar cursor headline, with the text \"Early Twitter signups.\"   ",
+                            "created": "Fri, 09 Apr 2021 14:16:53 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Then it loops of users whose ids are 12 to 24. I picked 12 because I had figured out from an earlier script that it was the first-listed user. And 24 is a random value I picked out of thin air. ;-)",
+                            "created": "Fri, 09 Apr 2021 14:17:23 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "For each user, it calls the Drummer verb twitter.getScreenname, which takes one parameter, the id of the user whose name you want. Then it inserts the name either to the right or down from the cursor depending on whether this is the first user we're inserting. That's how <a href=\"http://docserver.userland.com/op/insert\">op.insert</a>, an old friend from Frontier, works. ",
+                            "created": "Fri, 09 Apr 2021 14:18:33 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "When it's done looping, it moves the cursor to the left, onto the \"Early Twitter signups\" headline we created. ",
+                            "created": "Fri, 09 Apr 2021 14:19:46 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "It leaves the list expanded. ",
+                            "created": "Fri, 09 Apr 2021 14:20:16 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<b>The killer feature</b>",
+                    "created": "Fri, 09 Apr 2021 14:20:49 GMT",
+                    "subs": [
+                        {
+                            "text": "It's so humble you might actually miss it. ",
+                            "created": "Fri, 09 Apr 2021 14:20:52 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Even though the script makes a dozen asynchronous calls to Twitter, it's written as if it were synchronous. No weird code structures, you just write it as you think of it, and the system translates it into the complicated stuff, for you. Do I have to explain why this is good? Any time you can let the computer do the complex stuff for you is time you save, and errors you don't make. ",
+                            "created": "Fri, 09 Apr 2021 14:21:04 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
