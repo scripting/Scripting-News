@@ -1,0 +1,7 @@
+{
+    "text": "Follow-up to yesterday's <a href=\"https://github.com/scripting/Scripting-News/issues/206\">braintrust query</a>. Apparently <a href=\"https://developer.wordpress.org/rest-api/\">WordPress still has an API</a>, there's a <a href=\"https://github.com/WP-API/node-wpapi\">Node package</a> to interface to it, and even better, they still have the <a href=\"https://codex.wordpress.org/XML-RPC_Support\">XML-RPC interface</a> and support the <a href=\"https://codex.wordpress.org/XML-RPC_MetaWeblog_API\">Metaweblog API</a>. So it should be possible to have WordPress support in \"Drummer\" and use the outliner to create and edit posts on a WordPress website, and who knows where that goes. What's especially cool about it is that in <a href=\"http://scripting.com/2019/12/\">December 2019</a> I released a new <a href=\"http://xmlrpc.com/\">reference implementation</a> of XML-RPC in the form of a client and server for Node, in JavaScript of course, and a client that runs in the browser. So now there's a good reason to add \"XML-RPC\" support to Drummer, which I totally want to do. ",
+    "created": "Wed, 14 Apr 2021 14:11:08 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2017/09/01/mrFrog.png",
+    "flInCalendar": true
+}
