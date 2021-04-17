@@ -1,0 +1,6 @@
+{
+    "text": "On the \"Drummer\" front, I decided to rewrite the tab code to use JavaScript closures. Much simpler code and hopefully more easily extended to add new functionality. But right now the app is a mess. I learned some new jQuery tricks with custom event handlers and triggers. You can have a very isolated function with persistent and private storage but you can still make calls into it, for the times when the outside world needs to know something about what's inside. ",
+    "created": "Fri, 16 Apr 2021 20:41:51 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
