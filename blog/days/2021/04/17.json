@@ -1,0 +1,46 @@
+{
+    "text": "April 17",
+    "created": "Sat, 17 Apr 2021 13:31:42 GMT",
+    "type": "calendarDay",
+    "name": "17",
+    "subs": [
+        {
+            "text": "I've been reading <a href=\"https://en.wikipedia.org/wiki/Pale_Blue_Dot_(book)\">Pale Blue Dot</a> by <a href=\"https://en.wikipedia.org/wiki/Carl_Sagan\">Carl Sagan</a>. It's a great book, but already dated. The missions he talks about for the future have already happened. Our understanding of <a href=\"https://en.wikipedia.org/wiki/Saturn\">Saturn</a>, for example, has greatly increased since 1994. Now that <a href=\"https://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens\">Cassini</a> has visited, so much <a href=\"https://stfc.ukri.org/news-events-and-publications/features/10-things-we-ve-learned-from-cassini-huygens/\">more</a> is known. Sagan of course is not alive to do this for us. But it seems someone should. Next up I'm going to re-read <a href=\"https://en.wikipedia.org/wiki/Cosmos:_A_Personal_Voyage\">Cosmos</a>. ",
+            "created": "Sat, 17 Apr 2021 16:53:35 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Just watched a bit of CNN. Overwhelming feeling — they have no reason to exist.",
+            "created": "Sun, 18 Apr 2021 00:49:31 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "\"Drummer\" has a feature that LO2 doesn't have -- [[Bookmarks]]. Here's how they work. There's a [[Bookmarks menu]]. When you choose the first command, Add Bookmark, a dialog confirms that you want to bookmark the current outline. If you click OK, the bookmarks file opens in a tab, and a link to the file you had open appears as the first item in the list. You can move the link where ever you like, and change the text. If you look in the Bookmarks menu, the changes are reflected. The menu can be hierarchic. As you have probably guessed the file is an outline, like any other outline. But it has this special UI. There are a number of other features like this. Anyway, Bookmarks are tricky because of the way asynchronous code works in JavaScript. If bookmarks.opml isn't already open, you have to wait until it is open to create the bookmark link. If you don't, weird things can happen. Now that I've changed how tabs work internally, this feature is broken. It drives me crazy because I depend on Bookmarks, and I'm starting to use Drummer for real work now. So today I must get this problem solved. I'm not getting up until it works. :boom:",
+            "created": "Sat, 17 Apr 2021 13:31:43 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/09/10/drummer.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, it's not <i>exactly</i> true that no outliner I've shipped has had a Bookmarks menu. \"Electric Outliner\" has one. But I haven't exactly promoted it. I use it to write my blog, in fact I'm using it right now to write <a href=\"http://scripting.com/2021/04/17.html#a133713\">this</a>. It has had a Bookmarks menu for years, and I've been able to manage lots of complex projects more easily because of it. EO is an Electron-based outliner that runs on the desktop. There will be a desktop version of Drummer, using lots of what's in EO, hopefully. It's possible we did a bookmarks feature for Frontier too. And <a href=\"http://scripting.com/autowebdocs/menusharingwalkthru_148.html\">menu sharing</a> is something like Bookmarks. My memory sucks. Sorry.",
+            "created": "Sat, 17 Apr 2021 13:37:13 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, there is a hair trimming <a href=\"https://www.amazon.com/s?k=electric+outliner&gclid=CjwKCAjwjuqDBhAGEiwAdX2cj6aRySEOLf2ozvlIG50TKy1OkBRR9CBiDRqbp9q92F3_4EXNFFXy9hoC7QIQAvD_BwE&hvadid=431283316201&hvdev=c&hvlocphy=1023511&hvnetw=g&hvqmt=e&hvrand=169534579424467690&hvtargid=kwd-668587427709&hydadcr=14907_9746130&tag=googhydr-20&ref=pd_sl_9mjtzhtw6e_e\">product</a> called Electric Outliner. It's screwing up my search for mentions of my Electric Outliner outside this blog. ",
+            "created": "Sat, 17 Apr 2021 13:44:26 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Today I learned that the <a href=\"https://www.w3schools.com/jquery/html_attr.asp\">jQuery attr</a> function, if you pass it a function, it <a href=\"https://www.geeksforgeeks.org/jquery-attr-method/\">calls the function</a>. This. Is. A. Bug. It blew my mind when I figured out what was going on. Phewwww. That's the sound of my mind being blown. Back to work Davey.",
+            "created": "Sat, 17 Apr 2021 15:05:17 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
