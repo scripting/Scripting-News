@@ -1,0 +1,7 @@
+{
+    "text": "\"Drummer\" has a feature that LO2 doesn't have -- [[Bookmarks]]. Here's how they work. There's a [[Bookmarks menu]]. When you choose the first command, Add Bookmark, a dialog confirms that you want to bookmark the current outline. If you click OK, the bookmarks file opens in a tab, and a link to the file you had open appears as the first item in the list. You can move the link where ever you like, and change the text. If you look in the Bookmarks menu, the changes are reflected. The menu can be hierarchic. As you have probably guessed the file is an outline, like any other outline. But it has this special UI. There are a number of other features like this. Anyway, Bookmarks are tricky because of the way asynchronous code works in JavaScript. If bookmarks.opml isn't already open, you have to wait until it is open to create the bookmark link. If you don't, weird things can happen. Now that I've changed how tabs work internally, this feature is broken. It drives me crazy because I depend on Bookmarks, and I'm starting to use Drummer for real work now. So today I must get this problem solved. I'm not getting up until it works. :boom:",
+    "created": "Sat, 17 Apr 2021 13:31:43 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2019/09/10/drummer.png",
+    "flInCalendar": true
+}
