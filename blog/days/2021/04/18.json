@@ -1,0 +1,112 @@
+{
+    "text": "April 18",
+    "created": "Sun, 18 Apr 2021 13:23:45 GMT",
+    "type": "calendarDay",
+    "name": "18",
+    "subs": [
+        {
+            "text": "They're having a <a href=\"https://ide.mit.edu/events/the-social-media-summit-mit-smsmit/\">Social Media Summit</a> at MIT next week. I have always been bothered by conferences that call themselves summits. Here's a <a href=\"http://scripting.com/images/2021/04/18/summit.png\">picture</a> of a <a href=\"https://en.wikipedia.org/wiki/Yalta_Conference\">summit</a>. At the end of WWII, FDR sat down with Stalin. That's an actual summit. BTW, not sure why Churchill is there. :-)",
+            "created": "Sun, 18 Apr 2021 13:52:00 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/10/18/jessePinkman.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, if it's a summit, you don't have to say it's a summit. The conference with FDR, Stalin and Churchill was simply called the <a href=\"https://en.wikipedia.org/wiki/Yalta_Conference\">Yalta Conference</a>. My father once told me that a university doesn't have to say it's a university if they really are one. You don't see car window decals for proud parents that say Harvard <i>University</i> or Stanford <i>University. </i>Just Harvard and Stanford will do. He was putting down the window decal I got him for my <a href=\"https://tulane.edu/\">school</a>, which did proclaim itself a university. Even worse, they called themselves <a href=\"https://www.reddit.com/r/Jeopardy/comments/602l8x/the_harvard_of_the_south/\">The Harvard of the South</a>. Oy! That's not a good sign. I wonder if they still do that. And doing a <a href=\"https://www.google.com/search?q=%22harvard+of+the+south%22\">search</a> today I learn that Duke, Rice, Emory and Vanderbilt also consider themselves THOTS. Maybe they should forget it and just try to love their students more.",
+            "created": "Sun, 18 Apr 2021 13:56:02 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW my father was an undergrad at Rutgers, which, while a fine school, isn't exactly <i>The Harvard of New Jersey.</i> Just sayin. :smile:",
+            "created": "Sun, 18 Apr 2021 14:04:23 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<i>The</i> <i>Harvard of New Jersey</i> is Princeton, another school that can leave off the University part. Some people think it's an even better school than the other top most prestigious schools in the US, which imho would be Harvard, Stanford, MIT, Yale.  ",
+            "created": "Sun, 18 Apr 2021 14:10:35 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I like to listen to audiobooks on my daily walks and bike rides, they're good to have around when podcasts aren't so interesting to me. It happens. Right now I'm listening to <a href=\"https://www.audible.com/pd/Roots-Audiobook/B002V8H174\">Roots</a>, narrated by <a href=\"https://en.wikipedia.org/wiki/Avery_Brooks\">Avery Brooks</a>. It's a beautifully crafted story, and the narration is among the best I've heard. I'm still at the beginning, but I love it, I'm even listening when I'm not out getting my exercise. ",
+            "created": "Sun, 18 Apr 2021 13:23:46 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/04/18/roots.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, to follow up on <a href=\"http://scripting.com/2021/04/17.html\">yesterday's</a> posts about tabs and bookmarks in the outliner part of \"Drummer\". It looks like I did get it stabilized yesterday. I have to qualify that because I saw some problems before I shut down for the day yesterday, after fixing a huge number of really serious mistakes and omissions. But I feel confident that I can start the post corner-turn cleanup and get ready for more fun projects starting tomorrow. (<a href=\"https://twitter.com/davewiner/status/1383828003013070850\">Update</a>: Re the problems, oy there was a huge problem. In the main closure for a tab there's a background thread that I did not kill when the tab was closed. As a result it kept running. Whenever it saw a change in a file (not its file) it would save it, to the now-closed file, thus wiping out the contents of the closed file. This was hard to track down. Now everything is really smooth. Haha until I find the next horrible omission! Users never see these problems, hopefully, but this is what you have to deal with getting to the point where software is useful.)",
+            "created": "Sun, 18 Apr 2021 14:07:11 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Hope you don't mind me saying this, but the Mac Finder should have a Bookmarks menu. ",
+            "created": "Sun, 18 Apr 2021 16:25:34 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm learning that more people from my <a href=\"https://en.wikipedia.org/wiki/Ulster_County,_New_York\">Ulster County</a> neighborhood are reading this blog. I find that exciting. Maybe we should have some meetups this summer? At the beer garden at <a href=\"https://www.colonywoodstock.com/\">the Colony</a>? I love the idea of a beer garden in Woodstock, and as everyone knows, summers here are the best. There's a lot of planning to do now that cannabis is legal everywhere in NY State now. And Tuesday is <a href=\"https://en.wikipedia.org/wiki/420_(cannabis_culture)\">4/20</a>. It looks like the <a href=\"https://forecast.weather.gov/MapClick.php?lat=42.0426&lon=-74.1183#.YHw_JRNKjUZ\">weather</a> is going to be nice. ",
+            "created": "Sun, 18 Apr 2021 14:12:08 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I don't know if I've ever told this story about my <a href=\"http://crimson1.scripting.com/kenKiesler\">uncle</a> at his hippie commune outside St Augustine, FL. Once I went to visit, on vacation from my Silicon Valley startup. When I arrived at his little off-grid geodesic cottage in the woods, he showed me they had pinned up an article in Business Week with a picture of me, which labeled me as <i>President</i> Dave Winer of Living Videotext. My uncle who claimed he had changed my diapers when I was an infant, thought this was insanely funny. He told me they started calling each other President Ken, or President Dorothy, or President Pumpkin (one of their dogs) or President Dump Kitty (one of the cats). I didn't object because in my mind I had a terrible case of <a href=\"https://en.wikipedia.org/wiki/Impostor_syndrome\">impostor syndrome</a>. No one in California dared make fun of it, but here in the woods with my dear uncle and friends, it seemed fine.  ",
+            "created": "Sun, 18 Apr 2021 14:17:31 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/09/25/blackLab.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, there's a whole neighborhood on <a href=\"https://www.google.com/maps/place/Crescent+Beach,+FL+32080/@29.7519697,-81.2842847,4793m/data=!3m1!1e3!4m5!3m4!1s0x88e69977c882aea5:0xe61a1afbdfe01fae!8m2!3d29.76886!4d-81.2536786\">his 25 acres</a>. Unbelievable how fast things grow, esp in Florida. ",
+            "created": "Sun, 18 Apr 2021 14:24:42 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The current-events-osphere",
+            "created": "Sun, 18 Apr 2021 14:56:43 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2021/04/18/knuckleBiting.png",
+            "subs": [
+                {
+                    "text": "I'd love to see an exercise bike that's tuned up for podcasts. Not sure exactly what that means. But I don't like competing on my bike rides. I more prefer to learn stuff. In a somewhat organized way. ",
+                    "created": "Sun, 18 Apr 2021 14:56:50 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Most of the podcasts I listen to are suffering from the same problem CNN and MSNBC are. They had a great knuckle-biter story to cover for the last five years, amped up by another knuckle-biter, and now the first one is gone, and the second is waning. Leaving them without anything to talk about. ",
+                    "created": "Mon, 19 Apr 2021 01:12:46 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'm really not worried about Trump anymore, and I'm vaccinated, and I have mask-wearing and social distancing down. I don't travel and I'm fine with that. I enjoy my work, and summer is coming!",
+                    "created": "Mon, 19 Apr 2021 01:10:40 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I found for example that the <a href=\"https://www.google.com/search?q=%22that+trippi+show%22\">Trippi podcast</a> was fascinating in the run-up to the election, but now, I don't care so much about what's on the mind of a classical campaign runner (with apologies to Joe, who is a great guy).  It's a very specific thing he does, and only vitally interesting to me in-season. ",
+                    "created": "Mon, 19 Apr 2021 01:10:49 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The whole current-events-osphere could use a re-think. ",
+                    "created": "Mon, 19 Apr 2021 01:11:41 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Knuckle-biting, demonstrated by <a href=\"https://en.wikipedia.org/wiki/Leonardo_DiCaprio\">Leonardo DiCaprio</a>.",
+                    "created": "Mon, 19 Apr 2021 01:12:51 GMT",
+                    "inlineImage": "http://scripting.com/images/2021/04/18/knuckleBiting.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
