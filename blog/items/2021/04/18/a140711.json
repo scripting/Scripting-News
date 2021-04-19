@@ -1,0 +1,6 @@
+{
+    "text": "BTW, to follow up on <a href=\"http://scripting.com/2021/04/17.html\">yesterday's</a> posts about tabs and bookmarks in the outliner part of \"Drummer\". It looks like I did get it stabilized yesterday. I have to qualify that because I saw some problems before I shut down for the day yesterday, after fixing a huge number of really serious mistakes and omissions. But I feel confident that I can start the post corner-turn cleanup and get ready for more fun projects starting tomorrow. (<a href=\"https://twitter.com/davewiner/status/1383828003013070850\">Update</a>: Re the problems, oy there was a huge problem. In the main closure for a tab there's a background thread that I did not kill when the tab was closed. As a result it kept running. Whenever it saw a change in a file (not its file) it would save it, to the now-closed file, thus wiping out the contents of the closed file. This was hard to track down. Now everything is really smooth. Haha until I find the next horrible omission! Users never see these problems, hopefully, but this is what you have to deal with getting to the point where software is useful.)",
+    "created": "Sun, 18 Apr 2021 14:07:11 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
