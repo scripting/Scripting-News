@@ -1,0 +1,91 @@
+{
+    "text": "April 20",
+    "created": "Tue, 20 Apr 2021 13:55:19 GMT",
+    "type": "calendarDay",
+    "name": "20",
+    "subs": [
+        {
+            "text": "<a href=\"https://www.youtube.com/watch?v=vuO878gwWyw\">Today's song</a>: Keep the Customer Satisfied. ",
+            "created": "Tue, 20 Apr 2021 15:52:35 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=vuO878gwWyw",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://www.youtube.com/watch?v=Mbk81X6WHA4\">Today's theme song</a>: Green Acres.",
+            "created": "Tue, 20 Apr 2021 16:01:48 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=Mbk81X6WHA4",
+            "flInCalendar": true
+        },
+        {
+            "text": "What if the place you live became uninhabitable because of climate change?",
+            "created": "Tue, 20 Apr 2021 16:23:11 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Some day someone in Silicon Valley will figure out how to get stock options to users in proportion to how early they signed on and the size of their contribution to the success of the platform. The ultimate tech gig. <a href=\"https://twitter.com/davewiner/status/1384418824536068096\">Users eat the world</a>.",
+            "created": "Tue, 20 Apr 2021 13:55:20 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1384418824536068096",
+            "flInCalendar": true
+        },
+        {
+            "text": "Predicting the Chauvin verdict",
+            "created": "Tue, 20 Apr 2021 20:23:27 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<i>At 4:15 PM Eastern.</i>",
+                    "created": "Tue, 20 Apr 2021 20:24:53 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "That the verdict is coming in so quickly that imho means it's a guilty verdict. Here's why.",
+                    "created": "Tue, 20 Apr 2021 20:23:47 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Given the strength of the evidence and the fact that there are four black people on the <a href=\"https://www.cnn.com/2021/03/10/us/derek-chauvin-trial-jurors/index.html\">jury</a>, it couldn't be unanimous acquittal.",
+                            "created": "Tue, 20 Apr 2021 20:23:53 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "If it was a divided jury, they couldn't be adjourning so quickly, the judge wouldn't let them.",
+                            "created": "Tue, 20 Apr 2021 20:24:00 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Therefore the only situation that makes sense, at this point, is a unanimous decision to convict.",
+                            "created": "Tue, 20 Apr 2021 20:24:08 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Happy 4/20",
+            "created": "Tue, 20 Apr 2021 14:20:55 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Happy <a href=\"https://en.wikipedia.org/wiki/420_(cannabis_culture)\">4/20</a> to all my hippie dippie dope smoking friends celebrating the big holiday. And remember what Freewheelin Franklin of the <a href=\"https://en.wikipedia.org/wiki/The_Fabulous_Furry_Freak_Brothers\">Fabulous Furry Freak Brothers</a> says.",
+                    "created": "Tue, 20 Apr 2021 14:21:12 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Freewheelin Franklin.",
+                    "created": "Tue, 20 Apr 2021 14:21:17 GMT",
+                    "inlineImage": "http://scripting.com/images/2021/04/20/furryFreakBrother.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
