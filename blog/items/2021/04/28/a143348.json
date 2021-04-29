@@ -1,0 +1,71 @@
+{
+    "text": "Blink's dishonest upsell",
+    "created": "Wed, 28 Apr 2021 14:33:48 GMT",
+    "type": "outline",
+    "metaImage": "http://scripting.com/images/2021/04/21/minkHollow.png",
+    "description": "If you have Blink cameras, skip the cloud service and add a thumb drive to the router and save a bunch.",
+    "subs": [
+        {
+            "text": "Earlier this month I <a href=\"http://scripting.com/2021/04/19.html#a142814\">reported</a> on <a href=\"https://www.amazon.com/stores/page/C5DECBBE-4F56-4C36-B933-E62144578691?maas=maas_adg_api_5916655800301_macro_1_1&ref_=aa_maas&aa_campaignid=9998093451&aa_adgroupid=103704934271&aa_creativeid=ad-460884485470_kwd-13303316_dev-c_ext-&gclid=CjwKCAjwj6SEBhAOEiwAvFRuKGxwQjLXmrvLUgRWqgvHy6yXchcbpRUrAF1D02f-9t_MUSwlgfq3jxoChJwQAvD_BwE\">Blink</a>, a <a href=\"https://www.theverge.com/circuitbreaker/2017/12/22/16810516/amazon-blink-acquisition-smart-camera-doorbell-company\">subsidiary</a> of Amazon, that was trying to sell me a cloud service that up till then I had been receiving for free.",
+            "created": "Wed, 28 Apr 2021 14:30:22 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "First the background...",
+            "created": "Wed, 28 Apr 2021 15:22:46 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I have two battery powered Blink cameras outside my house. When someone arrives, or an animal crosses its view, or the wind blows a tree branch in front of the camera, it takes a short video, which is sent to an Amazon server, which then sends me a notification. If I click the link, the video opens in their mobile app. I could then look at the image to see who or what had woken the camera. It's nice to be able to monitor the comings and goings at my house even when I'm not there. I can tell when packages are delivered, for example. ",
+            "created": "Wed, 28 Apr 2021 14:45:48 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "But now there was a new deal. They wanted me to pay $3 a month per camera, not saying what I would be able to do with the cameras if I let the service lapse, implying that my cameras would be kind of useless if I didn't pay. ",
+            "created": "Wed, 28 Apr 2021 14:48:56 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I decided to let the service lapse to see what would happen. ",
+            "created": "Wed, 28 Apr 2021 15:10:26 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Yesterday the free service cut off. I was down in Kingston while people were working at the house. I wanted to see if they had arrived so I fired up Blink, and saw that something had triggered the camera at 9:08AM, but I couldn't view the video. I was told this was because I was cheap and didn't pay them the lousy money (paraphrasing).  I could if I wanted get a realtime look through the camera, and I could also talk to whoever was there (thus freaking them out I imagine). So there's the limit I thought. But then I remembered that there's a USB slot on the Sync Module (SM), which is a customized router that connects the cameras to the net. I had ordered a new <a href=\"https://www.amazon.com/dp/B001XURP8Q?psc=1&ref=ppx_yo2_dt_b_product_details\">32GB thumb drive</a> for the SM, from Amazon of course, for $15, one time, for all cameras, no monthly fee. I could've gotten a cheaper one, but I decided to splurge and get \"Amazon's Choice.\" Now was the time to figure out how to use it. ",
+            "created": "Wed, 28 Apr 2021 14:34:40 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The <a href=\"https://support.blinkforhome.com/sync-module-2/sync-module-2-local-storage-operation\">instructions</a> are on the web, and are a bit confusing. They don't say how the drive should be formatted, so I took a guess that MS-DOS format would be the most likely to work. They also said it would automatically format the disk if it wasn't readable, and that it would confirm it with me, but there's no monitor or keyboard on the SM, so how the hell would it confirm it? I later figured out that this happens in the mobile app. ",
+            "created": "Wed, 28 Apr 2021 14:37:56 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "It works, <i>exactly as the cloud service works, </i>with $0 monthly fee, and I can add more cameras without incurring a $3 a month fee. All of which says that their marketing of the cloud service is dishonest. Maybe accessing the images would be a little faster coming from the cloud instead of their server having to read them from my thumb drive and then send them to my mobile device. Their <a href=\"https://en.wikipedia.org/wiki/Upselling\">upsell</a> continues in the Blink app, because they say that it's so slow because it's loading it off my local drive. I use the extra time (if it in fact takes longer, I couldn't tell) to curse them out for being such money-grubbers. I might've paid for the convenience of the cloud service if they had just been honest about the choices I had. And maybe if there were features like having my videos mirrored to one of my S3 buckets! Now that would be interesting.",
+            "created": "Wed, 28 Apr 2021 14:39:33 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "This is worth pointing out because they are, as I said earlier, an Amazon company, and Amazon is pretty good at is being clear about your choices. Sure they steer you to the most profitable choice for them, I expect that, but to omit vital information and make false claims about what they're doing for you? They should fix that. The advantages are not very clear, so maybe they should just add 32GB of memory to the SM itself and be done with the cloud service altogether. Memory is pretty cheap these days. ",
+            "created": "Wed, 28 Apr 2021 14:41:55 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, a nice feature, they cache the videos on the phone, so once downloaded you can view the video as many times as you like. ",
+            "created": "Wed, 28 Apr 2021 14:55:13 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "PS: Thanks to <a href=\"https://www.nakedjen.com/\">NakedJen</a> for finding out what the thumb drive on the SM does. ",
+            "created": "Wed, 28 Apr 2021 14:43:10 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The Sync Module with the USB drive attached. ",
+            "created": "Wed, 28 Apr 2021 15:07:05 GMT",
+            "inlineImage": "http://scripting.com/images/2021/04/28/syncModule.png",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
