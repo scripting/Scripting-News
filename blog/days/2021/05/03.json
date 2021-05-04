@@ -1,0 +1,36 @@
+{
+    "text": "May 3",
+    "created": "Mon, 03 May 2021 14:44:35 GMT",
+    "type": "calendarDay",
+    "name": "03",
+    "subs": [
+        {
+            "text": "Yesterday I <a href=\"http://scripting.com/2021/05/02.html#a213217\">wrote</a> about the fan art accounts on Twitter, and what they've made possible. I now have my app running and downloading images from the initial 26 accounts. I've uploaded the <a href=\"https://github.com/scripting/artDownloader/tree/main/data/images\">first batch of images</a> to a <a href=\"https://github.com/scripting/artDownloader\">GitHub repository</a>. I plan to update them as long as there's interest in this project. I've also included the <a href=\"https://github.com/scripting/artDownloader/blob/main/app/artdownloader.js\">source code</a>, with <a href=\"https://github.com/scripting/artDownloader#running-the-app\">instructions</a>, in case you want to run it yourself. I'm sure there will be problems that need fixing, if you spot anything, post an <a href=\"https://github.com/scripting/artDownloader/issues\">issue</a> in the repo for the app. I love this, it started as a warm-up project, but quickly got a life of its own.  ",
+            "created": "Mon, 03 May 2021 15:41:24 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/05/03/diegoRivera.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://www.youtube.com/watch?v=UqSugwfthXM\">Video demo</a>. I pointed my iPhone at my living room TV, displaying my Mac Mini, which has the images from the new <a href=\"https://github.com/scripting/artDownloader\">project</a>. ",
+            "created": "Tue, 04 May 2021 01:16:00 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=UqSugwfthXM",
+            "flInCalendar": true
+        },
+        {
+            "text": "Really big things don't get <a href=\"https://knightcolumbia.org/events/reimagine-the-internet\">imagined</a>, imho, they just show up. I did not understand the web at first, I was reading about it, scratching my head, until boom, I saw it happening. ",
+            "created": "Mon, 03 May 2021 16:34:24 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "This is <a href=\"https://www.youtube.com/watch?v=-05LJPg0aHA\">the kind of ad</a> I hoped the Lincoln Project would run. They can still occupy Trump's brain, rent-free, and it's still worth doing.",
+            "created": "Mon, 03 May 2021 16:39:21 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=-05LJPg0aHA",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
