@@ -1,0 +1,69 @@
+{
+    "text": "May 5",
+    "created": "Wed, 05 May 2021 13:19:34 GMT",
+    "type": "calendarDay",
+    "name": "05",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1389941099653963777\">Tweeted</a> poetry about \"Art Show\". ",
+            "created": "Wed, 05 May 2021 14:24:09 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/i/lists/1389951899424677888\">Twitter list</a> with the fan feeds \"Art Show\" is following.",
+            "created": "Wed, 05 May 2021 14:52:20 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The fan art feeds from Twitter are now available as a web app, at <a href=\"http://artshow.scripting.com/\">artshow.scripting.com</a>. I think that's about all the work I'm going to do on this project for now. The <a href=\"https://github.com/scripting/artDownloader\">GitHub repo</a> will update periodically with more images. I've shared the source for the <a href=\"https://github.com/scripting/artDownloader/tree/main/app\">Node app</a> that gathers the images and data about the images, and the <a href=\"https://github.com/scripting/artDownloader/tree/main/client\">web app</a> that displays the art in a web browser. There's a <a href=\"https://raw.githubusercontent.com/scripting/artDownloader/main/data/art.json\">public JSON file</a>, part of the repo, that is a list of all the images, so you can create your own apps if you like. There is a <a href=\"http://this.how/artshow/\">howto</a> doc. Thanks to the <a href=\"https://github.com/scripting/artDownloader#the-fan-feeds\">fans</a> who curate these wonderful art feeds. I love it, and am glad to be able to do a small part to make the art more useful. If you have questions or comments, please open an <a href=\"https://github.com/scripting/artDownloader/issues/new\">issue</a> on the repo. ",
+            "created": "Wed, 05 May 2021 13:19:35 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/05/05/manet.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "We should have the civil war now while Democrats control the government.",
+            "created": "Thu, 06 May 2021 01:26:32 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"http://scripting.com/2021/05/05/davecast.m4a\">34-minute podcast</a> that's all over the map. But it's been a while, so there's lots to catch up on, esp with Scroll, and Repubs trying to overthrow the US government, how when you \"invent\" something, you have nothing but an intuition that what you're doing might be useful, certainly no clue how it will ultimately be used, the 50 best songs of <a href=\"https://www.npr.org/sections/world-cafe/2021/05/03/992097225/nprs-50-favorite-songs-of-1971\">1971</a>, and lots lots more.  ",
+            "created": "Wed, 05 May 2021 17:02:29 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2021/05/05/davecast.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "66468526",
+            "flInCalendar": true
+        },
+        {
+            "text": "Congress should follow <a href=\"https://arstechnica.com/tech-policy/2021/05/facebook-oversight-board-upholds-ban-on-former-president-trump/\">Facebook's lead</a> and expel members who supported the January 6 insurrection.",
+            "created": "Wed, 05 May 2021 13:34:12 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Why Facebook must continue to ban Trump. Mitigating damage. If there were a sniper shooting up Times Square, it would be wrong for a bullet-supplier deliver more ammo to him. You might argue bullets are too dangerous to sell to anyone, but with Trump there's no excuse.",
+            "created": "Wed, 05 May 2021 15:23:38 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Having written so much about <a href=\"http://scripting.com/stories/2012/05/12/paywallsAreLookingBackward.html\">paywalls</a> and <a href=\"http://scripting.com/2020/06/16/133627.html?title=newsHasBeenUnbundled\">subscriptions</a>, it was a big deal for me that yesterday <a href=\"https://blog.twitter.com/en_us/topics/company/2021/a-better-way-to-publish-and-read-on-twitter.html\">Twitter announced</a> that they had acquired [%search: Scroll%], a company that was founded to fix those problems, if only enough news publishers agreed. That's the chicken that's waiting for the egg, etc. It's possible that Twitter can make the difference, the same way the <a href=\"http://scripting.com/stories/2011/11/07/martinLeavesTheTimes.html\">NYT made the difference for RSS</a> in <a href=\"http://scripting.com/davenet/2002/04/10/newYorkTimesAndUserland.html\">2002</a>. That's what gives life to a standard. An entity so central to an economy, like NYT was to news in 2002, getting behind an independently developed format or protocol. With RSS it was an instant hit. It would be better imho if the NYT had bought Scroll and put its subscription function behind it. Would have also made sense for the Washington Post to do it, esp with Bezos as the owner. No question Amazon would know how to monetize this so as to eliminate the stifling ideas of paywalls and subscriptions. But Twitter is what we got. There was a <a href=\"https://blog.twitter.com/en_us/topics/company/2021/a-better-way-to-publish-and-read-on-twitter.html\">post</a> from them yesterday that spelled out the vision. I wish them, and us, lots of luck, because the current economic system for news is untenable. Maybe Twitter can make the difference.",
+            "created": "Wed, 05 May 2021 15:08:34 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/06/21/30rockcast.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Edward Hopper, Cape Cod Morning. ",
+            "created": "Wed, 05 May 2021 14:26:19 GMT",
+            "type": "outline",
+            "inlineImage": "http://scripting.com/images/2021/05/05/capeCodMorning.png",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
