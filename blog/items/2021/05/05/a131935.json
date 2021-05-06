@@ -1,0 +1,7 @@
+{
+    "text": "The fan art feeds from Twitter are now available as a web app, at <a href=\"http://artshow.scripting.com/\">artshow.scripting.com</a>. I think that's about all the work I'm going to do on this project for now. The <a href=\"https://github.com/scripting/artDownloader\">GitHub repo</a> will update periodically with more images. I've shared the source for the <a href=\"https://github.com/scripting/artDownloader/tree/main/app\">Node app</a> that gathers the images and data about the images, and the <a href=\"https://github.com/scripting/artDownloader/tree/main/client\">web app</a> that displays the art in a web browser. There's a <a href=\"https://raw.githubusercontent.com/scripting/artDownloader/main/data/art.json\">public JSON file</a>, part of the repo, that is a list of all the images, so you can create your own apps if you like. There is a <a href=\"http://this.how/artshow/\">howto</a> doc. Thanks to the <a href=\"https://github.com/scripting/artDownloader#the-fan-feeds\">fans</a> who curate these wonderful art feeds. I love it, and am glad to be able to do a small part to make the art more useful. If you have questions or comments, please open an <a href=\"https://github.com/scripting/artDownloader/issues/new\">issue</a> on the repo. ",
+    "created": "Wed, 05 May 2021 13:19:35 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2021/05/05/manet.png",
+    "flInCalendar": true
+}
