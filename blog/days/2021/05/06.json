@@ -1,0 +1,42 @@
+{
+    "text": "May 6",
+    "created": "Thu, 06 May 2021 12:37:51 GMT",
+    "type": "calendarDay",
+    "name": "06",
+    "subs": [
+        {
+            "text": "Next week I'm going to be on Guy Kawasaki's <a href=\"https://guykawasaki.com/remarkable-people/\">Remarkable People podcast</a>. In preparation I listened to the <a href=\"https://guykawasaki.com/dr-katy-milkman/\">latest episode</a>. I'm not surprised that he's an attentive and thoughtful interviewer. I knew <a href=\"https://www.google.com/search?q=guy+kawasaki+site%3Ascripting.com\">Guy</a> when he was chief evangelist at Apple in the early days of the Mac. I was a software developer. He always treated me with respect. He worked for developers as much as he worked for Apple. I remember watching him talk with a developer who was kind of lost, and I was blown away how Guy treated him like a customer. I wonder if Steve Jobs knew how much care he put into his work. He was also one of the most passionate users of my early outliners. I wanted him to know that podcasting was developed the same way the early Mac products we worked on were. A core idea, an audio blog post. Trial and error. See what works. When something does work, do more of it, until four years after we started it, it took off. That so many years later, Guy is loving podcasting, that is so gratifying to me, that someone who connected to my earliest successes in tech, is flourishing with one of my more recent successes. That's how I came to get on his calendar to be interviewed next week. I'd like to talk with him as a developer and a user, I want to learn from his point of view how the product (podcasting) has helped him create. I'm sure we'll talk about why I keep doing this, iterating over new software ideas, over so many decades. That, right there is it. I do it so I can have conversations with smart people who use it, like my longtime friend Guy. ",
+            "created": "Thu, 06 May 2021 19:00:16 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/05/06/wiseGuy.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "One more thing. I think Guy would really get a kick out of <a href=\"http://scripting.com/stories/2009/10/21/bruceSterlingAtReboot.html\">Bruce Sterling's talk</a> in Copenhagen, in 2009. Everything Guy and Dr Milkman said in his latest show has happened in my own life. Big changes in your life are good times to head off in new directions. I've done it a fair number of times myself.  That's what Sterling, a famous science fiction author, was talking about. How to use those big turns in your life, to have a more interesting life.",
+            "created": "Thu, 06 May 2021 19:11:57 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I keep saying I'm finished with \"Art Show\" and then I think of something else that would be nice to have. I just added an <a href=\"https://github.com/scripting/artDownloader/blob/main/data/rss.xml\">RSS feed</a> for the image flow. Could prove useful.",
+            "created": "Thu, 06 May 2021 13:55:15 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Forget about ending the filibuster, it can stay. Instead, expel the congresspersons who backed and continue to back the insurrection. Let’s fight their civil war now, while the military is controlled by the rule of law. Later, it'll be a fairly one-sided affair. Think about it this way. We're getting a breather, a break between storms. Isn't it nice. Would you be willing to fight for this? Well if so, if you don't want to live in an authoritarian country, now's the time to fight. The situation is the most favorable it probably ever will be. We keep missing these windows. And every step it gets harder to put the genie back in the bottle. ",
+            "created": "Thu, 06 May 2021 12:37:52 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/05/06/humpty.png",
+            "imageLink": "https://en.wikipedia.org/wiki/Humpty_Dumpty",
+            "flInCalendar": true
+        },
+        {
+            "text": "At one point I thought I'd have a <a href=\"http://chat.scripting.com/\">chat app</a> adjacent to Scripting News, so I wrote a little bot that cross-posted everything I write <a href=\"http://scripting.com/\">here</a>, over <a href=\"http://chat.scripting.com/\">there</a>. Just for fun I took a look at the chatbot, it's still running, and has every post I've written for the last year, including images. It's kind of nice when something you wrote that you never look at just scales up fine. I've written so much software like this over the years. I guess I must like to write software? :rocket: ",
+            "created": "Thu, 06 May 2021 12:56:25 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
