@@ -1,0 +1,49 @@
+{
+    "text": "May 10",
+    "created": "Mon, 10 May 2021 16:47:02 GMT",
+    "type": "calendarDay",
+    "name": "10",
+    "subs": [
+        {
+            "text": "My no-lock-in pledge",
+            "created": "Mon, 10 May 2021 16:47:03 GMT",
+            "type": "outline",
+            "description": "I promise that all my editors and storage system will be connected through simple, open APIs. There will be no lock-in for users or devs. ",
+            "subs": [
+                {
+                    "text": "First, I love there's new interest in outlining software. ",
+                    "created": "Mon, 10 May 2021 16:47:16 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But there's too much lock-in in the developing systems. ",
+                    "created": "Mon, 10 May 2021 16:55:49 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This is anyone's business who wants to use these systems for collaboration, now or in the future. I may like to use one editor, others may want to use another. Key point: We should be able to collaborate even though we use different writing and organizing tools.",
+                    "created": "Mon, 10 May 2021 16:56:13 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Same with the servers and back-ends, which are so powerful for outliners. They can be used for beautiful tree visualizations, or networks of nodes, presentation slide shows, blogs. There are many different ways of rendering structures created by outliners. You should be able to innovate here without having to write your own outliner! It would be like having to use a different text editor just because you got a new printer. These things should work together. If we've learned one thing about tech over the decades it's that locking people in to using one vendor's tools stops growth. We should compete on the basis of price, performance and features, not lock-in. Users and devs should demand no lock-in. Long-term it means what holds promise now will devolve into a complete mess of things that don't work together. ",
+                    "created": "Mon, 10 May 2021 16:48:36 GMT",
+                    "image": "http://scripting.com/images/2017/09/20/drummer.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "There should be simple APIs to connect any outline editor with any back-end used for storage, graphic displays, data crunching.",
+                    "created": "Mon, 10 May 2021 16:51:00 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I promise that all my editors, storage systems and renderers will be connected through simple, open APIs. There will be no lock-in for users or devs. I challenge anyone developing idea organizing software and back-ends to to the same. Users and developers should demand it.",
+                    "created": "Mon, 10 May 2021 16:51:30 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
