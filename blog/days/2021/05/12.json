@@ -1,0 +1,61 @@
+{
+    "text": "May 12",
+    "created": "Wed, 12 May 2021 13:52:25 GMT",
+    "type": "calendarDay",
+    "name": "12",
+    "subs": [
+        {
+            "text": "My song in a <a href=\"https://twitter.com/davewiner/status/1392526507881508870\">tweet</a>. \"Interop. Interop. Interop. Choice!\"",
+            "created": "Wed, 12 May 2021 17:18:51 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1392526507881508870",
+            "flInCalendar": true
+        },
+        {
+            "text": "Andrew asked that <a href=\"https://logseq.com/\">Logseq</a>, a platfor for knowledge sharing via outlines, <a href=\"https://discuss.logseq.com/t/support-opml-as-file-format/939\">support OPML</a>. I heartily agree, and add that we will help as much as we can.",
+            "created": "Wed, 12 May 2021 17:03:38 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/10/01/beets.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Congrats to <a href=\"https://en.wikipedia.org/wiki/Todd_Rundgren\">Todd Rundgren</a>, <a href=\"https://ultimateclassicrock.com/rock-and-roll-hall-of-fame-2021-inductees/\">voted in</a> to the <a href=\"https://en.wikipedia.org/wiki/Rock_and_Roll_Hall_of_Fame\">Rock & Roll Hall of Fame</a>. ",
+            "created": "Wed, 12 May 2021 16:46:35 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "When an idea is right it snaps into your mind like it always was there.",
+            "created": "Wed, 12 May 2021 17:08:33 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm finally watching <a href=\"https://en.wikipedia.org/wiki/Fargo_(season_4)\">season 4 of Fargo</a>. Holding my attention. All the characters are great, esp <a href=\"https://en.wikipedia.org/wiki/Chris_Rock\">Chris Rock</a>, who, after getting over the weirdness of a comedian in a serious role, really pulls it off. My favorite character is the nurse, <a href=\"https://fargo.fandom.com/wiki/Oraetta_Mayflower\">Oraetta Mayflower</a>. I've always liked dangerous women. :smile:",
+            "created": "Wed, 12 May 2021 15:05:05 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1392490802056765440\">Poll</a>: What percentage of Trumpers want to reinstate slavery?",
+            "created": "Thu, 13 May 2021 01:46:48 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1392490802056765440",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/CNN/status/1392476430525771780\">Liz Cheney</a> is a great American. Any Republican who at this time stands for the rule-of-law and the Constitution deserves our support. We may disagree on everything but these basics. We can respect them because we agree on everyone's right to participate in our government. We have this cause in common, to make sure the fascists and would-be slave owners go back into hiding. We have a terrible history to overcome. Another way of looking at it -- Cheney might be one of a small number of Republicans in Congress who aren't owned by Russia. ",
+            "created": "Wed, 12 May 2021 13:52:26 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Following up on <a href=\"http://scripting.com/2021/05/11.html#a164404\">yesterday's thread</a> about integrating \"LO2\" with Obsidian, an idea promoted by SMS. He said <a href=\"https://twitter.com/sabre23t/status/1392115762358276097\">he expected</a> that putting a word inside two &lsqb;[square brackets]] would open a page full of links to that word within my outline. This is a very important point, and one I want to focus on. I actually put that feature into the outliner I currently use to write my blog, when I saw how they were doing things in &lsqb;[Roam]] and &lsqb;[wikis]]. I will ship that for sure, it's a good thing, I'm using it myself. But! It would be so much better if all these tools worked together in an open web of these things. That's the way I think about it. Remember, I led the development of &lsqb;[RSS]] in its early years. I always wanted outlines to be <i>world</i> outlines, ie to include content from other outlines all over the web. I've <a href=\"https://www.google.com/search?q=opml+%22world+outline%22\">written</a> a lot about that. In that context, I should be integrating with a <i>world wide</i> service that integrates lots of tools into a database of linked material. Roam insists that you use their editor, which is abhorrent to me, I will never support that, where Obsidian takes the open web approach. So the question I throw back to SMS and others is how can we set things up so a &lsqb;[bracketed]] reference works with the <i>world wide link manager.</i> We can do this. The technology is totally here. It sounds like &lsqb;[Obsidian]] is off to a good start. ",
+            "created": "Wed, 12 May 2021 14:24:49 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/07/07/ohYeah.png",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
