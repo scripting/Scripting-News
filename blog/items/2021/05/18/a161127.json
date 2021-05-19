@@ -1,0 +1,85 @@
+{
+    "text": "Newsgeist calendar",
+    "created": "Tue, 18 May 2021 16:11:27 GMT",
+    "type": "outline",
+    "description": "A Newsgeist 2021 calendar, translated to Eastern time. ",
+    "metaImage": "http://scripting.com/images/2021/05/18/degas.png",
+    "subs": [
+        {
+            "text": "I was invited to <a href=\"https://twitter.com/newsgeist?lang=en\">Newsgeist</a> this year, and accepted.  ",
+            "created": "Tue, 18 May 2021 16:11:41 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's a virtual conference, so no travel is involved.",
+            "created": "Tue, 18 May 2021 16:12:34 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The conference is split in two parts, Ignite and Discussion. Each set of sessions is split into four groups, for various time zones around the world. ",
+            "created": "Tue, 18 May 2021 16:12:46 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The <a href=\"http://scripting.com/images/2021/05/18/newsgeistSchedule.png\">official calendar</a> is hard to figure out because they don't translate all the times into my home timezone which is Eastern Time in the US. So I did a little table with the times in my timezone. You can easily translate to yours, I hope. ",
+            "flInCalendar": true
+        },
+        {
+            "text": "<b>Ignite sessions</b>",
+            "created": "Tue, 18 May 2021 16:14:32 GMT",
+            "subs": [
+                {
+                    "text": "APAC -- May 17, 5AM ET",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "LATAM -- May 18, 4PM ET",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "EMEA -- May 19, 11AM ET",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "North America -- May 20, 5PM ET",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "<b>Discussion sessions</b>",
+            "created": "Tue, 18 May 2021 16:14:31 GMT",
+            "subs": [
+                {
+                    "text": "APAC -- June 14, 10:30AM ET",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "LATAM -- June 15, 9:30AM ET",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "EMEA -- June 16, 4:30AM ET",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "North America -- June 17, 11:30AM ET",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "The only hard ones to figure out were the APAC times, which are in <a href=\"https://www.timeanddate.com/time/zones/sgt\">SGT</a>, which is 12 hours ahead of Eastern time.",
+            "created": "Tue, 18 May 2021 19:50:01 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you see errors, let me know! ;-)",
+            "created": "Tue, 18 May 2021 16:11:43 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
