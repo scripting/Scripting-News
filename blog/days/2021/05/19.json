@@ -1,0 +1,59 @@
+{
+    "text": "May 19",
+    "created": "Wed, 19 May 2021 17:01:37 GMT",
+    "type": "calendarDay",
+    "name": "19",
+    "subs": [
+        {
+            "text": "<a href=\"https://www.youtube.com/watch?v=1r19K2sXXJs\">Video</a>: What happens when you move an outline node out a level.",
+            "created": "Wed, 19 May 2021 20:02:09 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=1r19K2sXXJs",
+            "flInCalendar": true
+        },
+        {
+            "text": "The memory of <a href=\"https://www.google.com/search?q=site%3Ascripting.com+%22google+reader%22\">Google Reader</a> may have faded so much that Google appears ready to try again. Even the headline of this <a href=\"https://techcrunch.com/2021/05/19/undead-again-google-brings-back-rss/amp/\">TechCrunch article</a> is disturbing. Google did so much damage to \"RSS\", the thought of them \"reviving\" it is analogous to Exxon reviving the site of some <a href=\"https://en.wikipedia.org/wiki/Superfund\">huge oil spill</a>, one that they didn't contribute to cleaning up. Even worse, browser vendors have no place trying to provide the user interface for RSS. Another toxic dump site. If Google wants to help RSS, great -- here's how. Do the subscribe button, that's a good thing. But the result should be a <a href=\"http://scripting.com/2013/08/15/feedReaderDevs\">dynamic OPML subscription list</a>, that the user can provide to any reader app they want. It's dynamic in that the contents can change, and the readers should periodically check to see if feeds have been added or removed. This way, if someday Google abandons RSS, again, everything can keep on ticking, more or less. Inviting users to rely on them shows that they have no sense of responsibility for the trust they betrayed in the past. Perhaps users can refuse to go on this ride? That might be too much to hope for. And TechCrunch, they're hopeless, have been for a long time.",
+            "created": "Wed, 19 May 2021 17:01:38 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/08/05/loveRss.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Things Google Reader is like",
+            "created": "Wed, 19 May 2021 17:26:07 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "From a December 2019 <a href=\"http://scripting.com/2019/12/21/170042.html\">post</a>.",
+                    "created": "Wed, 19 May 2021 17:26:12 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "An oil spill by Exxon in virgin Alaskan wilderness. ",
+                            "created": "Wed, 19 May 2021 17:26:38 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "A nuclear meltdown in the city you live in a suburb of.",
+                            "created": "Wed, 19 May 2021 17:26:47 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "A neighbor who runs a crack factory down the block from an elementary school.",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Another way of looking at it -- Google is to RSS as the fox is to the henhouse.",
+                    "created": "Wed, 19 May 2021 17:30:22 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
