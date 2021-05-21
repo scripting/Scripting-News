@@ -1,0 +1,6 @@
+{
+    "text": "\"Art Show\" update: With over <a href=\"https://github.com/scripting/artDownloader/tree/main/data/images\">10K works</a> of art in the <a href=\"https://github.com/scripting/artDownloader\">repo</a>, I needed to slim down the <a href=\"https://github.com/scripting/artDownloader/blob/main/data/art.json\">art.json</a> file that the <a href=\"http://artshow.scripting.com/\">web app</a> loads on startup. It was getting too big, and was only getting bigger. Now there's data for 1000 works of art in the file. After a day or two you might want to reload the page in case there's a new random selection in art.json. ",
+    "created": "Thu, 20 May 2021 14:01:16 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
