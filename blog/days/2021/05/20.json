@@ -1,0 +1,34 @@
+{
+    "text": "May 20",
+    "created": "Thu, 20 May 2021 12:50:42 GMT",
+    "type": "calendarDay",
+    "name": "20",
+    "subs": [
+        {
+            "text": "The next outliner <a href=\"https://www.youtube.com/watch?v=fm2xvfZeP1Y\">demo</a>, the difference betw structure and text. ",
+            "created": "Thu, 20 May 2021 17:23:17 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=fm2xvfZeP1Y",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/209\">Question</a> about debugging in Electron. I want to inspect an object in the HTML page. In the browser I'd right-click on the object, and choose Inspect <a href=\"https://user-images.githubusercontent.com/1686843/119004496-a0c00280-b95c-11eb-8c0f-98dda403d9a0.png\">from the menu</a>. How do I do this in an Electron app? ",
+            "created": "Thu, 20 May 2021 14:39:14 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "\"Art Show\" update: With over <a href=\"https://github.com/scripting/artDownloader/tree/main/data/images\">10K works</a> of art in the <a href=\"https://github.com/scripting/artDownloader\">repo</a>, I needed to slim down the <a href=\"https://github.com/scripting/artDownloader/blob/main/data/art.json\">art.json</a> file that the <a href=\"http://artshow.scripting.com/\">web app</a> loads on startup. It was getting too big, and was only getting bigger. Now there's data for 1000 works of art in the file. After a day or two you might want to reload the page in case there's a new random selection in art.json. ",
+            "created": "Thu, 20 May 2021 14:01:16 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "We should have the civil war now, while we have a rule-of-law executive. The first step is to expel the seditionists from Congress. The next move is theirs. ",
+            "created": "Thu, 20 May 2021 12:50:43 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
