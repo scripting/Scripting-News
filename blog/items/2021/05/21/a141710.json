@@ -1,0 +1,7 @@
+{
+    "text": "In all the years I've been online and been a developer of outliners, I have never participated in a discussion of the design of outliners, from a UX standpoint. This seems to be happening on Twitter now. I'm going to keep readers of the blog in the loop. <a href=\"https://twitter.com/davewiner/status/1395632868035121156\">Latest question</a> -- what to do when the user presses the Return key. Here's how \"LO2\" does it. If the cursor headline has expanded subs, then the new headline is the new first sub. If the cursor head has no subs or they aren’t expanded, it is the next sibling. It doesn't matter which mode you're in, structure or text, the behavior is the same. The Return key is too important to have multiple meanings. It always creates a new headline. BTW, LO2 works the same way ThinkTank, MORE, Ready, Frontier, the OPML Editor all work(ed). Once we had these questions sorted out, we kept the functionality consistent. Some things have evolved over time, for example the wedges are relatively new, earlier outliners had two leaders, a plus, indicating that the headline has subs, and a minus, indicating it has no subs. But the wedges are more expressive. They tell you whether there is unexpanded material underneath (the wedge is black) or not (it's gray). So it's easy to scan to see where there might be hidden structure. ",
+    "created": "Fri, 21 May 2021 14:17:10 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2017/07/23/frontierBox.png",
+    "flInCalendar": true
+}
