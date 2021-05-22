@@ -1,0 +1,41 @@
+{
+    "text": "May 21",
+    "created": "Fri, 21 May 2021 14:17:09 GMT",
+    "type": "calendarDay",
+    "name": "21",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=zYKupOsaJmk\">Walk the Dinosaur</a>. ",
+            "created": "Fri, 21 May 2021 19:36:27 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=zYKupOsaJmk",
+            "flInCalendar": true
+        },
+        {
+            "text": "David Wynn has the <a href=\"https://github.com/scripting/Scripting-News/issues/209#issuecomment-845675052\">answer</a> to the <a href=\"http://scripting.com/2021/05/20.html#a143914\">question</a> I asked yesterday about debugging Electron apps. ",
+            "created": "Fri, 21 May 2021 14:34:19 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/209#issuecomment-846001467\">Now I have another question</a>. In Chrome, when I make a change in some code, sometimes just reloading the page doesn't cause the changes to load. There is a way to force it to do so. 1. Open the JavaScript console. 2. In the browser toolbar, hold down the mouse button while clicking on the Reload icon. A menu pops up, offering you a chance to \"Hard reload\" the page. The single keystroke for this is Cmd-Shift-R (on the Mac at least). How do you do this in Electron? I've been trying to use a cache confuser to the &lt;script> element, but that doesn't always work. I need a reliable way to make sure new versions of code are loaded. It's pretty hard to debug if you can't quickly make changes. ",
+            "created": "Fri, 21 May 2021 14:35:31 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "In all the years I've been online and been a developer of outliners, I have never participated in a discussion of the design of outliners, from a UX standpoint. This seems to be happening on Twitter now. I'm going to keep readers of the blog in the loop. <a href=\"https://twitter.com/davewiner/status/1395632868035121156\">Latest question</a> -- what to do when the user presses the Return key. Here's how \"LO2\" does it. If the cursor headline has expanded subs, then the new headline is the new first sub. If the cursor head has no subs or they aren’t expanded, it is the next sibling. It doesn't matter which mode you're in, structure or text, the behavior is the same. The Return key is too important to have multiple meanings. It always creates a new headline. BTW, LO2 works the same way ThinkTank, MORE, Ready, Frontier, the OPML Editor all work(ed). Once we had these questions sorted out, we kept the functionality consistent. Some things have evolved over time, for example the wedges are relatively new, earlier outliners had two leaders, a plus, indicating that the headline has subs, and a minus, indicating it has no subs. But the wedges are more expressive. They tell you whether there is unexpanded material underneath (the wedge is black) or not (it's gray). So it's easy to scan to see where there might be hidden structure. ",
+            "created": "Fri, 21 May 2021 14:17:10 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/07/23/frontierBox.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, I call it the Return key, but on my keyboard it says Enter. This is to distinguish it from the other Enter key, usually along the right edge of the keyboard, near the numeric keypad if the keyboard has one. That one we reserve for a different function, it's the keyboard method for switching between text and structure mode. ",
+            "created": "Fri, 21 May 2021 14:25:59 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
