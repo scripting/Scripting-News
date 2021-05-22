@@ -1,0 +1,6 @@
+{
+    "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/209#issuecomment-846001467\">Now I have another question</a>. In Chrome, when I make a change in some code, sometimes just reloading the page doesn't cause the changes to load. There is a way to force it to do so. 1. Open the JavaScript console. 2. In the browser toolbar, hold down the mouse button while clicking on the Reload icon. A menu pops up, offering you a chance to \"Hard reload\" the page. The single keystroke for this is Cmd-Shift-R (on the Mac at least). How do you do this in Electron? I've been trying to use a cache confuser to the &lt;script> element, but that doesn't always work. I need a reliable way to make sure new versions of code are loaded. It's pretty hard to debug if you can't quickly make changes. ",
+    "created": "Fri, 21 May 2021 14:35:31 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
