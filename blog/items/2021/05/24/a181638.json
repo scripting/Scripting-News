@@ -1,0 +1,8 @@
+{
+    "text": "My project for last week and this week was to get \"Drummer\" running in <a href=\"https://www.electronjs.org/\">Electron</a> so it can be a desktop app in addition to a web app. I just hit a milestone -- I can now create and open files, and it remembers what tabs were open and when you restart they automatically re-open. The idea, as always, is to create a layer below which there are differences between the app that runs over the net, ie your files are stored on a server in the cloud, and the one that runs on the desktop, where the files are on your local system. For my most important writing, I prefer to use the Electron version. So hopefully by the end of the week I will be able to switch from the Electron app I've been using for the last four years, to the new Drummer-based system, which is much cooler, more \"Frontier\"-like.   ",
+    "created": "Mon, 24 May 2021 18:16:38 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2019/09/10/drummer.png",
+    "imageLink": "http://scripting.com/2021/04/03/133021.html?title=theMakingOfDrummer",
+    "flInCalendar": true
+}
