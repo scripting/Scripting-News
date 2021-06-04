@@ -1,0 +1,66 @@
+{
+    "text": "June 3",
+    "created": "Thu, 03 Jun 2021 14:39:44 GMT",
+    "type": "calendarDay",
+    "name": "03",
+    "subs": [
+        {
+            "text": "Trump's blog was pretty awful, but it was functional, and clearly it flopped, which itself is interesting data about the power of Twitter. Trump ought to thank them for being  there, there would be no \"President Trump\" w/o Twitter.",
+            "created": "Thu, 03 Jun 2021 18:36:27 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "News orgs insist we pay them rent, the same price no matter how much you use them, where users probably would prefer to pay for news as we pay for food or electricity, based on what we use. Ultimately I think we're all losing, but most people refuse to pay the rent.",
+            "created": "Thu, 03 Jun 2021 18:13:02 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The announced-today <a href=\"https://www.theverge.com/2021/6/3/22464291/twitter-blue-subscription-service-canada-australia-undo-reader-mode\">Twitter subscription service</a> is blah in its current form but I bet this is just the beginning. I believe there will be a revenue-sharing program for news orgs. An integration of their stories with Twitter. If they do it right it doesn't have to be a silo, btw.",
+            "created": "Thu, 03 Jun 2021 14:39:45 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "[[Drummer]] docs tease",
+            "created": "Thu, 03 Jun 2021 14:52:52 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "\"Drummer\" has a built-in doc server. ",
+                    "created": "Thu, 03 Jun 2021 14:52:59 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "\"Frontier\" users will find this UI familiar, it's an improved version of the verb docs server we have in Frontier. ",
+                    "created": "Thu, 03 Jun 2021 14:57:23 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Drummer's scripting philosophy, like Frontier's, is that apps not only have user interfaces, they also have scripting interfaces. Which means theoretically, anything you can do with a mouse and keyboard you could also do in a script. ",
+                    "created": "Thu, 03 Jun 2021 14:53:31 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The first app I've created a scripting interface for is Twitter, because I use it so much, and so many other people do. I felt it could immediately benefit from being scriptable. I haven't covered anything like the whole functionality of Twitter, it wouldn't even be possible because their API doesn't cover it all, but -- a lot is possible with the verb set we have working right now. ",
+                    "created": "Thu, 03 Jun 2021 14:54:19 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Screen shot of Drummer's docs UI.",
+                    "created": "Thu, 03 Jun 2021 14:55:37 GMT",
+                    "inlineImage": "http://scripting.com/images/2021/06/03/docserverScreen.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "",
+                    "created": "Thu, 03 Jun 2021 14:55:55 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
