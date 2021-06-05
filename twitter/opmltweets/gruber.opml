@@ -3,13 +3,16 @@
 	<head>
 		<title>gruber tweets</title>
 		<dateCreated>Sat, 05 Jun 2021 15:18:08 GMT</dateCreated>
+		<urlInstant>http://instantoutliner.com/pm</urlInstant>
+		<urlPublic>https://raw.githubusercontent.com/scripting/Scripting-News/master/twitter/opmltweets/gruber.opml</urlPublic>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 5" type="calendarDay" name="05" >
+				<outline text="@telcodud @yenlai @neilcybart @daringfireball @InsideOrchard My suggestion to you is to get bent." type="tweet" created="Sat, 05 Jun 2021 18:09:29 GMT" tweetId="1401239769707958275" urltweet="https://twitter.com/gruber/status/1401239769707958275" inReplyToId="1401229380324454401" tweetUserName="gruber" />
 				<outline text="Me: “Hey Siri, play Liz Phair’s ‘Soberish’.”
 
-Siri: “I didn’t find Liz Phair’s ‘So British’ on Apple Music.”" type="tweet" created="Sat, 05 Jun 2021 17:35:55 GMT" tweetId="1401231323927302145" urltweet="https://twitter.com/gruber/status/1401231323927302145" inReplyToId="" tweetUserName="gruber" />
+Siri: “I didn’t find Liz Phair’s ‘So British’ on Apple Music.”" type="tweet" created="Sat, 05 Jun 2021 17:35:55 GMT" tweetId="1401231323927302145" urltweet="https://twitter.com/gruber/status/1401231323927302145" tweetUserName="gruber" />
 				<outline text="@crewless @stroughtonsmith @daringfireball I’ll bet you’re fun at parties." type="tweet" created="Sat, 05 Jun 2021 16:55:35 GMT" tweetId="1401221170079449088" urltweet="https://twitter.com/gruber/status/1401221170079449088" inReplyToId="1401050398715224065" tweetUserName="gruber" />
 				<outline text="@jamesthomson It’s fine to push for full-time WFH. It’s undoubtedly smart for Apple to make more exceptions to allow WFH in specific cases.
 
