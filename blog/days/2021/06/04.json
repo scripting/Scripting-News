@@ -1,0 +1,36 @@
+{
+    "text": "June 4",
+    "created": "Fri, 04 Jun 2021 15:52:39 GMT",
+    "type": "calendarDay",
+    "name": "04",
+    "subs": [
+        {
+            "text": "All of a sudden Chrome is adding a <a href=\"http://scripting.com/images/2021/06/04/chromeBlackBar.png\">weird black thing</a> to tabs in my browser window. I have no idea what it's supposed to mean.",
+            "created": "Fri, 04 Jun 2021 19:22:53 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/TechEmails/status/1400208754659008519\">A great demo</a> for how outlines work in planning meetings. It would have worked even better if they projected the outline and updated it in real time as people discussed.  ",
+            "created": "Fri, 04 Jun 2021 19:11:08 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/TechEmails/status/1400208754659008519",
+            "flInCalendar": true
+        },
+        {
+            "text": "From my point of view, tech is drowning in too many ways to do the same thing, at all levels.",
+            "created": "Fri, 04 Jun 2021 16:37:52 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Why does every efficiency in the USPS result in breaking users? Calling attention to the fact that the management isn't trying to provide a reliable service. I suppose the silver lining is it means we'll migrate away from the post office more. Burn less carbon.",
+            "created": "Fri, 04 Jun 2021 15:52:40 GMT",
+            "type": "tweet",
+            "tweetId": "1400843168334163968",
+            "tweetUserName": "davewiner",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
