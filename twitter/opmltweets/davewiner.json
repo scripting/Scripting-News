@@ -19,6 +19,23 @@
                             "name": "06",
                             "subs": [
                                 {
+                                    "text": "However there are no rules about how either JSON or XML are arranged, where the whitespace goes, how indentation works, or even if there is any whitespace or indentation, so it's possible to create totally unreadable data in either format. ;-)",
+                                    "type": "tweet",
+                                    "created": "Sun, 06 Jun 2021 16:10:02 GMT",
+                                    "tweetId": "1401572096631787526",
+                                    "urltweet": "https://twitter.com/davewiner/status/1401572096631787526",
+                                    "inReplyToId": "1401572095579115522",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "Maybe: JSON is easier to read than XML.\n\n1. JSON is generally arranged as an outline, \n\n2. JSON generally has more whitespace, better arranged, \n\n3. XML is more dense, and\n\n4. Lists are easier to read vertically than horizontally.",
+                                    "type": "tweet",
+                                    "created": "Sun, 06 Jun 2021 16:10:02 GMT",
+                                    "tweetId": "1401572095579115522",
+                                    "urltweet": "https://twitter.com/davewiner/status/1401572095579115522",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
                                     "text": "@binarybits @MediagazerChat Noted that there was no form of writing that would work in the four places I wanted to publish in addition to my blog. \n\n1. Facebook\n\n2. Twitter\n\n3. Medium\n\n4. Google Reader\n\nEven though GR was long gone in 2017, the rules it imposed on writers were still en force in RSS-land.",
                                     "type": "tweet",
                                     "created": "Sun, 06 Jun 2021 15:54:25 GMT",
