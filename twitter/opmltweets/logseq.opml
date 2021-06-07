@@ -10,6 +10,10 @@
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 7" type="calendarDay" name="07" >
+				<outline text="@AuthenticRisk We're working on a Plugins API 😁" type="tweet" created="Mon, 07 Jun 2021 17:21:50 GMT" tweetId="1401952554754318355" urltweet="https://twitter.com/logseq/status/1401952554754318355" inReplyToId="1401952085587939329" tweetUserName="logseq" />
+				<outline text="@ScroogeMarketer Are you using Logseq with GitHub? If you're, you can always roll back with Git's version control. If you're using Logseq with local folders, remember to back up your local folders first. 
+https://t.co/HYc2J0Eb0w
+This alert will be shown when a graph hasn't been converted too. https://t.co/omYV3ompki" type="tweet" created="Mon, 07 Jun 2021 17:21:08 GMT" tweetId="1401952378098573321" urltweet="https://twitter.com/logseq/status/1401952378098573321" inReplyToId="1401949753731170307" tweetUserName="logseq" />
 				<outline text="@tallguyjenks Thanks!" type="tweet" created="Mon, 07 Jun 2021 17:09:46 GMT" tweetId="1401949516681543681" urltweet="https://twitter.com/logseq/status/1401949516681543681" inReplyToId="1401947728003833862" tweetUserName="logseq" />
 				<outline text="Full changelog at https://t.co/1UJh3QlEzQ https://t.co/7iaGUQlKiq" type="tweet" created="Mon, 07 Jun 2021 17:09:24 GMT" tweetId="1401949425899958279" urltweet="https://twitter.com/logseq/status/1401949425899958279" inReplyToId="1401949287756357633" tweetUserName="logseq" />
 				<outline text="0.1.5 is just out! We added both JSON and EDN export, block embeds and references are included when exporting Markdown and OPML too, another one is that now you can collapse and expand blocks with Ctrl/Cmd + ↑  and with Ctrl/Cmd + ↓ https://t.co/gO7dXYM71m" type="tweet" created="Mon, 07 Jun 2021 17:08:51 GMT" tweetId="1401949287756357633" urltweet="https://twitter.com/logseq/status/1401949287756357633" inReplyToId="" tweetUserName="logseq" />
