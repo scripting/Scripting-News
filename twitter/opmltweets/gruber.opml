@@ -10,6 +10,11 @@
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 7" type="calendarDay" name="07" >
+				<outline text="init(markdown:options:baseURL:)
+
+Creates an attributed string from a Markdown-formatted string using the provided options.
+
+👍 https://t.co/e4MofRLuIM" type="tweet" created="Mon, 07 Jun 2021 19:36:44 GMT" tweetId="1401986502763089920" urltweet="https://twitter.com/gruber/status/1401986502763089920" inReplyToId="" tweetUserName="gruber" />
 				<outline text="@Techinterested1 I highly doubt any compiler other than Swift is going to be possible in Swift Playgrounds." type="tweet" created="Mon, 07 Jun 2021 19:32:15 GMT" tweetId="1401985373371240455" urltweet="https://twitter.com/gruber/status/1401985373371240455" inReplyToId="1401980485551767553" tweetUserName="gruber" />
 				<outline text="@atlauren I honestly don’t know if they’re on by default, but the pref setting has been there for a while now. My favorite change in Safari ever." type="tweet" created="Mon, 07 Jun 2021 19:31:21 GMT" tweetId="1401985147214385157" urltweet="https://twitter.com/gruber/status/1401985147214385157" inReplyToId="1401981603442618369" tweetUserName="gruber" />
 				<outline text="@atlauren Safari has had favicons in tabs for years, perhaps partially driven by me." type="tweet" created="Mon, 07 Jun 2021 19:12:06 GMT" tweetId="1401980304986882057" urltweet="https://twitter.com/gruber/status/1401980304986882057" inReplyToId="1401969907265245184" tweetUserName="gruber" />
