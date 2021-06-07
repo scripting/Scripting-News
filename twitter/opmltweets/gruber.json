@@ -20,6 +20,14 @@
                             "name": "07",
                             "subs": [
                                 {
+                                    "text": "init(markdown:options:baseURL:)\n\nCreates an attributed string from a Markdown-formatted string using the provided options.\n\n👍 https://t.co/e4MofRLuIM",
+                                    "type": "tweet",
+                                    "created": "Mon, 07 Jun 2021 19:36:44 GMT",
+                                    "tweetId": "1401986502763089920",
+                                    "urltweet": "https://twitter.com/gruber/status/1401986502763089920",
+                                    "tweetUserName": "gruber"
+                                },
+                                {
                                     "text": "@Techinterested1 I highly doubt any compiler other than Swift is going to be possible in Swift Playgrounds.",
                                     "type": "tweet",
                                     "created": "Mon, 07 Jun 2021 19:32:15 GMT",
