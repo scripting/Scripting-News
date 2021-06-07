@@ -1,0 +1,183 @@
+{
+    "opml": {
+        "head": {
+            "title": "logseq tweets",
+            "dateCreated": "Sat, 05 Jun 2021 01:48:01 GMT",
+            "urlUpdateSocket": "ws://sockets.scripting.com:1239/",
+            "urlInstant": "http://instantoutliner.com/pl",
+            "urlPublic": "https://raw.githubusercontent.com/scripting/Scripting-News/master/twitter/opmltweets/logseq.opml"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "June 2021",
+                    "type": "calendarMonth",
+                    "name": "june2021",
+                    "subs": [
+                        {
+                            "text": "June 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "If you're using Logseq with GitHub, or if you'd like to set up a DevLog, don't forget to watch this video! Thank you @tallguyjenks!\nhttps://t.co/f9D5Ahp9MI https://t.co/lSfRoL6lKi",
+                                    "type": "tweet",
+                                    "created": "Mon, 07 Jun 2021 17:01:58 GMT",
+                                    "tweetId": "1401947556167380995",
+                                    "urltweet": "https://twitter.com/logseq/status/1401947556167380995",
+                                    "tweetUserName": "logseq"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "June 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "@toranshaw Yes, DM works too",
+                                    "type": "tweet",
+                                    "created": "Thu, 03 Jun 2021 16:15:19 GMT",
+                                    "tweetId": "1400486261786243076",
+                                    "inReplyToId": "1400485908776996867",
+                                    "tweetUserName": "logseq"
+                                },
+                                {
+                                    "text": "@mykeels 🌊",
+                                    "type": "tweet",
+                                    "created": "Thu, 03 Jun 2021 16:08:51 GMT",
+                                    "tweetId": "1400484635163783172",
+                                    "inReplyToId": "1400484257257172996",
+                                    "tweetUserName": "logseq"
+                                },
+                                {
+                                    "text": "0.1.4 is just out!\nFull changelog at https://t.co/MfuOMeoOTu https://t.co/tqGZbZuQlW",
+                                    "type": "tweet",
+                                    "created": "Thu, 03 Jun 2021 16:04:40 GMT",
+                                    "tweetId": "1400483583836319745",
+                                    "tweetUserName": "logseq"
+                                },
+                                {
+                                    "text": "@shuyunzhang99 @obsdmd Looks great!",
+                                    "type": "tweet",
+                                    "created": "Thu, 03 Jun 2021 15:43:13 GMT",
+                                    "tweetId": "1400478185263796226",
+                                    "inReplyToId": "1400474154466381832",
+                                    "tweetUserName": "logseq"
+                                },
+                                {
+                                    "text": "@lifescientistin @msonenote I'm afraid that's way beyond my little magic 😁",
+                                    "type": "tweet",
+                                    "created": "Thu, 03 Jun 2021 15:02:55 GMT",
+                                    "tweetId": "1400468043260588047",
+                                    "inReplyToId": "1400407512579334147",
+                                    "tweetUserName": "logseq"
+                                },
+                                {
+                                    "text": "@muralidharanj Clear cache will not delete your files. Are you using the desktop app or https://t.co/CSJ6vgTXVE?",
+                                    "type": "tweet",
+                                    "created": "Thu, 03 Jun 2021 10:44:44 GMT",
+                                    "tweetId": "1400403070702469121",
+                                    "inReplyToId": "1400290219673354240",
+                                    "tweetUserName": "logseq"
+                                },
+                                {
+                                    "text": "Thanks! https://t.co/Wc1hPnrUTS",
+                                    "type": "tweet",
+                                    "created": "Thu, 03 Jun 2021 10:42:39 GMT",
+                                    "tweetId": "1400402544124305408",
+                                    "tweetUserName": "logseq"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "June 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "@shuyunzhang99 🥰",
+                                    "type": "tweet",
+                                    "created": "Wed, 02 Jun 2021 20:06:23 GMT",
+                                    "tweetId": "1400182022899863553",
+                                    "inReplyToId": "1400181837981372418",
+                                    "tweetUserName": "logseq"
+                                },
+                                {
+                                    "text": "@flancian @volt4ire @flanciavera Oh, the backend is only used for GitHub authentication, our desktop app doesn't need to be login at all, so there's no limited functionality for now.",
+                                    "type": "tweet",
+                                    "created": "Wed, 02 Jun 2021 19:47:20 GMT",
+                                    "tweetId": "1400177230228049921",
+                                    "inReplyToId": "1400176568895426565",
+                                    "tweetUserName": "logseq"
+                                },
+                                {
+                                    "text": "@brianwisti 🥰",
+                                    "type": "tweet",
+                                    "created": "Wed, 02 Jun 2021 19:45:21 GMT",
+                                    "tweetId": "1400176731403685888",
+                                    "inReplyToId": "1400176508417708033",
+                                    "tweetUserName": "logseq"
+                                },
+                                {
+                                    "text": "I forgot to ask one question, is it written in Logseq? 😁",
+                                    "type": "tweet",
+                                    "created": "Wed, 02 Jun 2021 19:05:59 GMT",
+                                    "tweetId": "1400166823388012547",
+                                    "inReplyToId": "1400166309304803334",
+                                    "tweetUserName": "logseq"
+                                },
+                                {
+                                    "text": "💬 @brianwisti Amazing post on @ProductHunt! https://t.co/gm1fFc7hQt 🙏 https://t.co/8DU3W4fzdk",
+                                    "type": "tweet",
+                                    "created": "Wed, 02 Jun 2021 19:03:56 GMT",
+                                    "tweetId": "1400166309304803334",
+                                    "tweetUserName": "logseq"
+                                },
+                                {
+                                    "text": "@toranshaw 🥰 Thanks!",
+                                    "type": "tweet",
+                                    "created": "Wed, 02 Jun 2021 17:11:05 GMT",
+                                    "tweetId": "1400137908867067904",
+                                    "inReplyToId": "1400136833082834955",
+                                    "tweetUserName": "logseq"
+                                },
+                                {
+                                    "text": "@FISSIONcodes Thank you for the shout out! #ToolsForThought are amazing and we'll continue to add support for more formats!",
+                                    "type": "tweet",
+                                    "created": "Wed, 02 Jun 2021 17:10:33 GMT",
+                                    "tweetId": "1400137774871678976",
+                                    "inReplyToId": "1400134288381595650",
+                                    "tweetUserName": "logseq"
+                                },
+                                {
+                                    "text": "@nemons Not at all! Thanks for your support!",
+                                    "type": "tweet",
+                                    "created": "Wed, 02 Jun 2021 16:44:32 GMT",
+                                    "tweetId": "1400131226334236672",
+                                    "inReplyToId": "1400131005776908288",
+                                    "tweetUserName": "logseq"
+                                },
+                                {
+                                    "text": "Thank you very much! Are you in our discord? https://t.co/R7bAyygZYV",
+                                    "type": "tweet",
+                                    "created": "Wed, 02 Jun 2021 15:46:30 GMT",
+                                    "tweetId": "1400116624183611400",
+                                    "tweetUserName": "logseq"
+                                },
+                                {
+                                    "text": "@flanciavera logseek 😀",
+                                    "type": "tweet",
+                                    "created": "Wed, 02 Jun 2021 15:40:18 GMT",
+                                    "tweetId": "1400115062350647300",
+                                    "inReplyToId": "1400114867130933249",
+                                    "tweetUserName": "logseq"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
