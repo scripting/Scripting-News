@@ -1,0 +1,47 @@
+{
+    "text": "Is JSON easier to read than XML?",
+    "created": "Sun, 06 Jun 2021 16:41:20 GMT",
+    "type": "outline",
+    "description": "It's actually impossible to know.",
+    "subs": [
+        {
+            "text": "Maybe: JSON is easier to read than XML.",
+            "created": "Sun, 06 Jun 2021 16:41:30 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "JSON is generally arranged as an outline, ",
+                    "created": "Sun, 06 Jun 2021 16:42:18 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "JSON generally has more whitespace, better arranged, ",
+                    "created": "Sun, 06 Jun 2021 16:42:21 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "XML is more dense, and",
+                    "created": "Sun, 06 Jun 2021 16:42:25 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Lists are easier to read vertically than horizontally.\",                                    ",
+                    "created": "Sun, 06 Jun 2021 16:42:28 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "However there are no rules about how either JSON or XML are arranged, where the whitespace goes, how indentation works, or even if there is any whitespace or indentation, so it's possible to create totally unreadable data in either format.                                ",
+            "created": "Sun, 06 Jun 2021 16:43:25 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "\"curly\"",
+            "created": "Sun, 06 Jun 2021 16:43:34 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
