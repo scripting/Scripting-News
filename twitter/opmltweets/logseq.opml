@@ -3,9 +3,16 @@
 	<head>
 		<title>logseq tweets</title>
 		<dateCreated>Sat, 05 Jun 2021 01:48:01 GMT</dateCreated>
+		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
+		<urlInstant>http://instantoutliner.com/pl</urlInstant>
+		<urlPublic>https://raw.githubusercontent.com/scripting/Scripting-News/master/twitter/opmltweets/logseq.opml</urlPublic>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 7" type="calendarDay" name="07" >
+				<outline text="If you're using Logseq with GitHub, or if you'd like to set up a DevLog, don't forget to watch this video! Thank you @tallguyjenks!
+https://t.co/f9D5Ahp9MI https://t.co/lSfRoL6lKi" type="tweet" created="Mon, 07 Jun 2021 17:01:58 GMT" tweetId="1401947556167380995" urltweet="https://twitter.com/logseq/status/1401947556167380995" inReplyToId="" tweetUserName="logseq" />
+				</outline>
 			<outline text="June 3" type="calendarDay" name="03" >
 				<outline text="@toranshaw Yes, DM works too" type="tweet" created="Thu, 03 Jun 2021 16:15:19 GMT" tweetId="1400486261786243076" inReplyToId="1400485908776996867" tweetUserName="logseq" />
 				<outline text="@mykeels 🌊" type="tweet" created="Thu, 03 Jun 2021 16:08:51 GMT" tweetId="1400484635163783172" inReplyToId="1400484257257172996" tweetUserName="logseq" />
