@@ -20,6 +20,32 @@
                             "name": "07",
                             "subs": [
                                 {
+                                    "text": "@tallguyjenks Thanks!",
+                                    "type": "tweet",
+                                    "created": "Mon, 07 Jun 2021 17:09:46 GMT",
+                                    "tweetId": "1401949516681543681",
+                                    "urltweet": "https://twitter.com/logseq/status/1401949516681543681",
+                                    "inReplyToId": "1401947728003833862",
+                                    "tweetUserName": "logseq"
+                                },
+                                {
+                                    "text": "Full changelog at https://t.co/1UJh3QlEzQ https://t.co/7iaGUQlKiq",
+                                    "type": "tweet",
+                                    "created": "Mon, 07 Jun 2021 17:09:24 GMT",
+                                    "tweetId": "1401949425899958279",
+                                    "urltweet": "https://twitter.com/logseq/status/1401949425899958279",
+                                    "inReplyToId": "1401949287756357633",
+                                    "tweetUserName": "logseq"
+                                },
+                                {
+                                    "text": "0.1.5 is just out! We added both JSON and EDN export, block embeds and references are included when exporting Markdown and OPML too, another one is that now you can collapse and expand blocks with Ctrl/Cmd + ↑  and with Ctrl/Cmd + ↓ https://t.co/gO7dXYM71m",
+                                    "type": "tweet",
+                                    "created": "Mon, 07 Jun 2021 17:08:51 GMT",
+                                    "tweetId": "1401949287756357633",
+                                    "urltweet": "https://twitter.com/logseq/status/1401949287756357633",
+                                    "tweetUserName": "logseq"
+                                },
+                                {
                                     "text": "If you're using Logseq with GitHub, or if you'd like to set up a DevLog, don't forget to watch this video! Thank you @tallguyjenks!\nhttps://t.co/f9D5Ahp9MI https://t.co/lSfRoL6lKi",
                                     "type": "tweet",
                                     "created": "Mon, 07 Jun 2021 17:01:58 GMT",
