@@ -4,7 +4,8 @@
             "title": "gruber tweets",
             "dateCreated": "Sat, 05 Jun 2021 15:18:08 GMT",
             "urlInstant": "http://instantoutliner.com/pm",
-            "urlPublic": "https://raw.githubusercontent.com/scripting/Scripting-News/master/twitter/opmltweets/gruber.opml"
+            "urlPublic": "https://raw.githubusercontent.com/scripting/Scripting-News/master/twitter/opmltweets/gruber.opml",
+            "urlUpdateSocket": "ws://sockets.scripting.com:1239/"
         },
         "body": {
             "subs": [
@@ -13,6 +14,21 @@
                     "type": "calendarMonth",
                     "name": "june2021",
                     "subs": [
+                        {
+                            "text": "June 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "For your pre-WWDC keynote enjoyment: \n\nhttps://t.co/0KqbJwwC59",
+                                    "type": "tweet",
+                                    "created": "Mon, 07 Jun 2021 16:42:40 GMT",
+                                    "tweetId": "1401942696634339328",
+                                    "urltweet": "https://twitter.com/gruber/status/1401942696634339328",
+                                    "tweetUserName": "gruber"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 6",
                             "type": "calendarDay",
