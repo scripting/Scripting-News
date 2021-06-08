@@ -5,7 +5,8 @@
             "dateCreated": "Sat, 05 Jun 2021 01:48:01 GMT",
             "urlUpdateSocket": "ws://sockets.scripting.com:1239/",
             "urlInstant": "http://instantoutliner.com/pl",
-            "urlPublic": "https://raw.githubusercontent.com/scripting/Scripting-News/master/twitter/opmltweets/logseq.opml"
+            "urlPublic": "https://raw.githubusercontent.com/scripting/Scripting-News/master/twitter/opmltweets/logseq.opml",
+            "expansionState": "1,2"
         },
         "body": {
             "subs": [
@@ -19,6 +20,24 @@
                             "type": "calendarDay",
                             "name": "07",
                             "subs": [
+                                {
+                                    "text": "@HolensteinDan We're going to add some filters so that you can toggle displaying those built-in pages.",
+                                    "type": "tweet",
+                                    "created": "Tue, 08 Jun 2021 01:33:41 GMT",
+                                    "tweetId": "1402076330947014656",
+                                    "urltweet": "https://twitter.com/logseq/status/1402076330947014656",
+                                    "inReplyToId": "1402068844047306773",
+                                    "tweetUserName": "logseq"
+                                },
+                                {
+                                    "text": "@ilmarsV @ProductHunt @tiensonqin Thank you so much!",
+                                    "type": "tweet",
+                                    "created": "Tue, 08 Jun 2021 01:32:16 GMT",
+                                    "tweetId": "1402075973755883521",
+                                    "urltweet": "https://twitter.com/logseq/status/1402075973755883521",
+                                    "inReplyToId": "1402056857854910467",
+                                    "tweetUserName": "logseq"
+                                },
                                 {
                                     "text": "@AuthenticRisk We're working on a Plugins API 😁",
                                     "type": "tweet",
