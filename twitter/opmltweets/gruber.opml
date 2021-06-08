@@ -6,21 +6,23 @@
 		<urlInstant>http://instantoutliner.com/pm</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/Scripting-News/master/twitter/opmltweets/gruber.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
+		<expansionState>1,2</expansionState>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 7" type="calendarDay" name="07" >
+				<outline text="@stroughtonsmith Or maybe Catalyst was never more than a stopgap." type="tweet" created="Tue, 08 Jun 2021 00:52:14 GMT" tweetId="1402065901617397765" urltweet="https://twitter.com/gruber/status/1402065901617397765" inReplyToId="1402027303769718784" tweetUserName="gruber" />
 				<outline text="init(markdown:options:baseURL:)
 
 Creates an attributed string from a Markdown-formatted string using the provided options.
 
-👍 https://t.co/e4MofRLuIM" type="tweet" created="Mon, 07 Jun 2021 19:36:44 GMT" tweetId="1401986502763089920" urltweet="https://twitter.com/gruber/status/1401986502763089920" inReplyToId="" tweetUserName="gruber" />
+👍 https://t.co/e4MofRLuIM" type="tweet" created="Mon, 07 Jun 2021 19:36:44 GMT" tweetId="1401986502763089920" urltweet="https://twitter.com/gruber/status/1401986502763089920" tweetUserName="gruber" />
 				<outline text="@Techinterested1 I highly doubt any compiler other than Swift is going to be possible in Swift Playgrounds." type="tweet" created="Mon, 07 Jun 2021 19:32:15 GMT" tweetId="1401985373371240455" urltweet="https://twitter.com/gruber/status/1401985373371240455" inReplyToId="1401980485551767553" tweetUserName="gruber" />
 				<outline text="@atlauren I honestly don’t know if they’re on by default, but the pref setting has been there for a while now. My favorite change in Safari ever." type="tweet" created="Mon, 07 Jun 2021 19:31:21 GMT" tweetId="1401985147214385157" urltweet="https://twitter.com/gruber/status/1401985147214385157" inReplyToId="1401981603442618369" tweetUserName="gruber" />
 				<outline text="@atlauren Safari has had favicons in tabs for years, perhaps partially driven by me." type="tweet" created="Mon, 07 Jun 2021 19:12:06 GMT" tweetId="1401980304986882057" urltweet="https://twitter.com/gruber/status/1401980304986882057" inReplyToId="1401969907265245184" tweetUserName="gruber" />
 				<outline text="For your pre-WWDC keynote enjoyment: 
 
-https://t.co/0KqbJwwC59" type="tweet" created="Mon, 07 Jun 2021 16:42:40 GMT" tweetId="1401942696634339328" urltweet="https://twitter.com/gruber/status/1401942696634339328" inReplyToId="" tweetUserName="gruber" />
+https://t.co/0KqbJwwC59" type="tweet" created="Mon, 07 Jun 2021 16:42:40 GMT" tweetId="1401942696634339328" urltweet="https://twitter.com/gruber/status/1401942696634339328" tweetUserName="gruber" />
 				</outline>
 			<outline text="June 6" type="calendarDay" name="06" >
 				<outline text="@nargan I don’t like it either. It works best if you just type the time. Using the spinners is too fiddly." type="tweet" created="Sun, 06 Jun 2021 19:54:23 GMT" tweetId="1401628558129307651" urltweet="https://twitter.com/gruber/status/1401628558129307651" inReplyToId="1401600028746018817" tweetUserName="gruber" />
