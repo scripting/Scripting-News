@@ -21,6 +21,15 @@
                             "name": "08",
                             "subs": [
                                 {
+                                    "text": "@benedictevans @eric_seufert My understanding is that it’s Safari only. The screenshot you posted suggests that the exception to “Safari only” is “unencrypted traffic”, so I guess anything that doesn’t use SSL would be redirected too. But very little traffic is unencrypted these days.",
+                                    "type": "tweet",
+                                    "created": "Tue, 08 Jun 2021 14:05:51 GMT",
+                                    "tweetId": "1402265621333676047",
+                                    "urltweet": "https://twitter.com/gruber/status/1402265621333676047",
+                                    "inReplyToId": "1402261971462934529",
+                                    "tweetUserName": "gruber"
+                                },
+                                {
                                     "text": "@JasonKAlmeida @reckless @stevesi @urbanstrata The iOS 14 privacy features aren’t possible otherwise, including on MacOS.",
                                     "type": "tweet",
                                     "created": "Tue, 08 Jun 2021 06:28:17 GMT",
