@@ -16,6 +16,22 @@
                     "name": "june2021",
                     "subs": [
                         {
+                            "text": "June 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "@jonfortt @reckless I only posted this morning!",
+                                    "type": "tweet",
+                                    "created": "Tue, 08 Jun 2021 04:00:05 GMT",
+                                    "tweetId": "1402113175319986176",
+                                    "urltweet": "https://twitter.com/gruber/status/1402113175319986176",
+                                    "inReplyToId": "1402076258415091715",
+                                    "tweetUserName": "gruber"
+                                }
+                            ]
+                        },
+                        {
                             "text": "June 7",
                             "type": "calendarDay",
                             "name": "07",
