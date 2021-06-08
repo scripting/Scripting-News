@@ -11,6 +11,8 @@
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 7" type="calendarDay" name="07" >
+				<outline text="@jterhorst @stroughtonsmith No, because Carbon was a big rich set of APIs that powered a lot of amazing apps. So Catalyst is nothing like Carbon." type="tweet" created="Tue, 08 Jun 2021 01:16:28 GMT" tweetId="1402071999581724676" urltweet="https://twitter.com/gruber/status/1402071999581724676" inReplyToId="1402066674950475782" tweetUserName="gruber" />
+				<outline text="@reckless Any of these analogies break down easily. But I think you discount how much of the reason people *want* an iPhone as their primary/only computer is *because* of the walls and gates, not despite them." type="tweet" created="Tue, 08 Jun 2021 01:15:17 GMT" tweetId="1402071702977318913" urltweet="https://twitter.com/gruber/status/1402071702977318913" inReplyToId="1401939056599126018" tweetUserName="gruber" />
 				<outline text="@stroughtonsmith Or maybe Catalyst was never more than a stopgap." type="tweet" created="Tue, 08 Jun 2021 00:52:14 GMT" tweetId="1402065901617397765" urltweet="https://twitter.com/gruber/status/1402065901617397765" inReplyToId="1402027303769718784" tweetUserName="gruber" />
 				<outline text="init(markdown:options:baseURL:)
 
