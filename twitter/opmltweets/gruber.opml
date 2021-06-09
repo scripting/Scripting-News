@@ -11,6 +11,7 @@
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 8" type="calendarDay" name="08" >
+				<outline text="@peternlewis Typo! Long day…" type="tweet" created="Wed, 09 Jun 2021 02:41:12 GMT" tweetId="1402455710588342276" urltweet="https://twitter.com/gruber/status/1402455710588342276" inReplyToId="1402453468195872770" tweetUserName="gruber" />
 				<outline text="Best new icon. https://t.co/csxNtJOCSL" type="tweet" created="Wed, 09 Jun 2021 02:31:30 GMT" tweetId="1402453271097249793" urltweet="https://twitter.com/gruber/status/1402453271097249793" inReplyToId="" tweetUserName="gruber" />
 				<outline text="@stickista Thanks. My hat is off to the local, state, and national officials who’ve quickly gotten on board with these sweepstakes. They’re clearly having a big effect." type="tweet" created="Tue, 08 Jun 2021 17:09:19 GMT" tweetId="1402311792051765249" urltweet="https://twitter.com/gruber/status/1402311792051765249" inReplyToId="1402308018511912967" tweetUserName="gruber" />
 				<outline text="@benedictevans @eric_seufert My understanding is that it’s Safari only. The screenshot you posted suggests that the exception to “Safari only” is “unencrypted traffic”, so I guess anything that doesn’t use SSL would be redirected too. But very little traffic is unencrypted these days." type="tweet" created="Tue, 08 Jun 2021 14:05:51 GMT" tweetId="1402265621333676047" urltweet="https://twitter.com/gruber/status/1402265621333676047" inReplyToId="1402261971462934529" tweetUserName="gruber" />
