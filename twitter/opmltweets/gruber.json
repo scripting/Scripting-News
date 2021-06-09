@@ -16,6 +16,40 @@
                     "name": "june2021",
                     "subs": [
                         {
+                            "text": "June 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "@ttam110 🤣",
+                                    "type": "tweet",
+                                    "created": "Wed, 09 Jun 2021 04:39:29 GMT",
+                                    "tweetId": "1402485478729920513",
+                                    "urltweet": "https://twitter.com/gruber/status/1402485478729920513",
+                                    "inReplyToId": "1402450083208216577",
+                                    "tweetUserName": "gruber"
+                                },
+                                {
+                                    "text": "@russell By trying not to piss anyone off with the obvious truth.",
+                                    "type": "tweet",
+                                    "created": "Wed, 09 Jun 2021 04:38:08 GMT",
+                                    "tweetId": "1402485138907406337",
+                                    "urltweet": "https://twitter.com/gruber/status/1402485138907406337",
+                                    "inReplyToId": "1402466512233893891",
+                                    "tweetUserName": "gruber"
+                                },
+                                {
+                                    "text": "@mpv @daringfireball No. They move too fast. All I knew is we’d talk WWDC.",
+                                    "type": "tweet",
+                                    "created": "Wed, 09 Jun 2021 04:36:19 GMT",
+                                    "tweetId": "1402484682751725568",
+                                    "urltweet": "https://twitter.com/gruber/status/1402484682751725568",
+                                    "inReplyToId": "1402477209990975489",
+                                    "tweetUserName": "gruber"
+                                }
+                            ]
+                        },
+                        {
                             "text": "June 8",
                             "type": "calendarDay",
                             "name": "08",
