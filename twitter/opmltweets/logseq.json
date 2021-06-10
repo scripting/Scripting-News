@@ -26,7 +26,18 @@
                                     "created": "Thu, 10 Jun 2021 03:51:06 GMT",
                                     "tweetId": "1402835687896805381",
                                     "urltweet": "https://twitter.com/logseq/status/1402835687896805381",
-                                    "tweetUserName": "logseq"
+                                    "tweetUserName": "logseq",
+                                    "subs": [
+                                        {
+                                            "text": "Notice that it's a plugin in Logseq instead of the GitHub heatmap! https://t.co/6aFmZfkcVf",
+                                            "type": "tweet",
+                                            "created": "Thu, 10 Jun 2021 03:58:04 GMT",
+                                            "tweetId": "1402837442751700994",
+                                            "urltweet": "https://twitter.com/logseq/status/1402837442751700994",
+                                            "inReplyToId": "1402835687896805381",
+                                            "tweetUserName": "logseq"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@HarmvanderGaag We're still thinking about this, the issue is that the heading might be changed, which makes \"[[begrip|begrippen]]\" not working, also, it adds some limitation that the page title can't include `|`. A block reference `((block-id))` has the benefit that it'll always be the latest.",
