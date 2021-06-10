@@ -1,0 +1,68 @@
+{
+    "text": "GitHub notifications via WebSockets",
+    "created": "Wed, 09 Jun 2021 15:46:56 GMT",
+    "type": "outline",
+    "description": "GitHub API ==> Web Hooks ==> Web Sockets",
+    "subs": [
+        {
+            "text": "A new project I started. ",
+            "created": "Wed, 09 Jun 2021 15:43:26 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "An app that stores files on GitHub. ",
+                    "created": "Wed, 09 Jun 2021 16:14:54 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Other apps can be notified when any of these files changes, via <a href=\"https://en.wikipedia.org/wiki/WebSocket\">WebSockets</a>.",
+                    "created": "Wed, 09 Jun 2021 16:08:46 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This is accomplished by a very thin publicly accessible server app that gets <a href=\"https://docs.github.com/en/developers/webhooks-and-events/webhooks/creating-webhooks\">WebHook</a> calls from GitHub, accepts subscriptions from browser apps and mobile apps, really any kind of app, over WS.",
+                    "created": "Wed, 09 Jun 2021 16:09:06 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I like that it relies on GitHub. It performs well, and it'll probably be around for a while. And it's free to use, all you have to do is set up an account. :smile:",
+                    "created": "Wed, 09 Jun 2021 19:28:34 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Other apps are using it as backend-storage for web apps. I am interested in trying that out too.",
+                    "created": "Wed, 09 Jun 2021 21:30:43 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The files themselves contain the ws:// address of the server app as metadata, so all you need is the address of the data to hook up to the correct server that does notifications over WS.",
+                    "created": "Wed, 09 Jun 2021 16:12:14 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's a schematic of the relationship between the apps. I apologize for my handwriting which used to be much better. I hardly write by hand anymore these days. ",
+            "created": "Wed, 09 Jun 2021 16:10:31 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Schematic.",
+            "created": "Wed, 09 Jun 2021 16:13:50 GMT",
+            "inlineImage": "http://scripting.com/images/2021/06/09/schematicGitHubServer.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "This, btw is exactly the infrastructure neeed by an \"Instant Outliner\" via OPML. The apps that generate the OPML could be outliners, or really any app that wants to deal in outline-structured data. But the protocol is general enough so it could be used for any data file type. ",
+            "created": "Wed, 09 Jun 2021 16:11:23 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "In a few days, once the app has been running for a while, and I have a good demo put together, I'll publish a pointer to a compatible OPML file, and provide example code running in a browser for requesting notification via Web Sockets. ",
+            "created": "Wed, 09 Jun 2021 21:40:12 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
