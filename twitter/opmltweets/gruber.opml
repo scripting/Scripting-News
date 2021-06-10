@@ -10,6 +10,9 @@
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 10" type="calendarDay" name="10" >
+				<outline text="@gyokusai No, because the new Mail Privacy Protection will block those too." type="tweet" created="Thu, 10 Jun 2021 16:33:07 GMT" tweetId="1403027456303546370" urltweet="https://twitter.com/gruber/status/1403027456303546370" inReplyToId="1403014647343632386" tweetUserName="gruber" />
+				</outline>
 			<outline text="June 9" type="calendarDay" name="09" >
 				<outline text="@joelion Do Windows machines still blue screen? (Spoiler: yes.)" type="tweet" created="Thu, 10 Jun 2021 03:09:24 GMT" tweetId="1402825195228962816" urltweet="https://twitter.com/gruber/status/1402825195228962816" inReplyToId="1402707561992785924" tweetUserName="gruber" />
 				<outline text="@hotdogsladies @fullerc And then I wanted a pair." type="tweet" created="Wed, 09 Jun 2021 16:30:33 GMT" tweetId="1402664423026790404" urltweet="https://twitter.com/gruber/status/1402664423026790404" inReplyToId="1402653994296627203" tweetUserName="gruber" />
