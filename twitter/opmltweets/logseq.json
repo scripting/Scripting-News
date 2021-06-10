@@ -16,6 +16,21 @@
                     "name": "june2021",
                     "subs": [
                         {
+                            "text": "June 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "Thank you very much for the support! https://t.co/Pw6ABrI2uT",
+                                    "type": "tweet",
+                                    "created": "Thu, 10 Jun 2021 11:14:13 GMT",
+                                    "tweetId": "1402947201681149952",
+                                    "urltweet": "https://twitter.com/logseq/status/1402947201681149952",
+                                    "tweetUserName": "logseq"
+                                }
+                            ]
+                        },
+                        {
                             "text": "June 9",
                             "type": "calendarDay",
                             "name": "09",
