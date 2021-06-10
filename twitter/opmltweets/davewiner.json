@@ -54,7 +54,18 @@
                                             "tweetId": "1403009246380310531",
                                             "urltweet": "https://twitter.com/davewiner/status/1403009246380310531",
                                             "inReplyToId": "1402990301485010950",
-                                            "tweetUserName": "davewiner"
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "There are so many businesses that work over the web these days, and so few of them do it well. \n\nIt seems like you could do a great online bank by now. \n\nAt least the quality of GMail, say.",
+                                                    "type": "tweet",
+                                                    "created": "Thu, 10 Jun 2021 15:24:33 GMT",
+                                                    "tweetId": "1403010200764928006",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1403010200764928006",
+                                                    "inReplyToId": "1403009246380310531",
+                                                    "tweetUserName": "davewiner"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
