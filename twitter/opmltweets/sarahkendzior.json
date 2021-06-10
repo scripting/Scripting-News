@@ -12,6 +12,21 @@
                     "name": "june2021",
                     "subs": [
                         {
+                            "text": "June 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "This was the plot of a season one X-Files (“Ice”); it did not end well! https://t.co/hXt16nbVbf",
+                                    "type": "tweet",
+                                    "created": "Thu, 10 Jun 2021 11:54:34 GMT",
+                                    "tweetId": "1402957356552671233",
+                                    "urltweet": "https://twitter.com/sarahkendzior/status/1402957356552671233",
+                                    "tweetUserName": "sarahkendzior"
+                                }
+                            ]
+                        },
+                        {
                             "text": "June 9",
                             "type": "calendarDay",
                             "name": "09",
