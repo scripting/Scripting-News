@@ -16,6 +16,22 @@
                     "name": "june2021",
                     "subs": [
                         {
+                            "text": "June 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "@laialai Thanks!",
+                                    "type": "tweet",
+                                    "created": "Thu, 10 Jun 2021 03:45:47 GMT",
+                                    "tweetId": "1402834351356715008",
+                                    "urltweet": "https://twitter.com/logseq/status/1402834351356715008",
+                                    "inReplyToId": "1402623210810527750",
+                                    "tweetUserName": "logseq"
+                                }
+                            ]
+                        },
+                        {
                             "text": "June 8",
                             "type": "calendarDay",
                             "name": "08",
