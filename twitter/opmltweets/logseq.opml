@@ -10,9 +10,12 @@
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 9" type="calendarDay" name="09" >
+				<outline text="@laialai Thanks!" type="tweet" created="Thu, 10 Jun 2021 03:45:47 GMT" tweetId="1402834351356715008" urltweet="https://twitter.com/logseq/status/1402834351356715008" inReplyToId="1402623210810527750" tweetUserName="logseq" />
+				</outline>
 			<outline text="June 8" type="calendarDay" name="08" >
-				<outline text="🥰 https://t.co/jRlpeGYzxf" type="tweet" created="Wed, 09 Jun 2021 01:28:49 GMT" tweetId="1402437493157371912" urltweet="https://twitter.com/logseq/status/1402437493157371912" inReplyToId="" tweetUserName="logseq" />
-				<outline text="Thank you for the shout out! https://t.co/1sDY06zudI" type="tweet" created="Wed, 09 Jun 2021 01:28:16 GMT" tweetId="1402437356125233153" urltweet="https://twitter.com/logseq/status/1402437356125233153" inReplyToId="" tweetUserName="logseq" />
+				<outline text="🥰 https://t.co/jRlpeGYzxf" type="tweet" created="Wed, 09 Jun 2021 01:28:49 GMT" tweetId="1402437493157371912" urltweet="https://twitter.com/logseq/status/1402437493157371912" tweetUserName="logseq" />
+				<outline text="Thank you for the shout out! https://t.co/1sDY06zudI" type="tweet" created="Wed, 09 Jun 2021 01:28:16 GMT" tweetId="1402437356125233153" urltweet="https://twitter.com/logseq/status/1402437356125233153" tweetUserName="logseq" />
 				<outline text="If you encountered any nonresponsive issues, you might want to try the new release `0.1.6`, full changelog at https://t.co/WY4yFDoEAr https://t.co/ewGUr7RLoc" type="tweet" created="Tue, 08 Jun 2021 13:02:58 GMT" tweetId="1402249795981303808" urltweet="https://twitter.com/logseq/status/1402249795981303808" tweetUserName="logseq" />
 				<outline text="If you encountered any nonresponsive issues, you might want to try the new release `0.0.16`, full changelog at https://t.co/WY4yFDoEAr https://t.co/gT6W9eHfQq" type="tweet" created="Tue, 08 Jun 2021 13:01:57 GMT" tweetId="1402249541336719362" urltweet="https://twitter.com/logseq/status/1402249541336719362" tweetUserName="logseq" />
 				<outline text="https://t.co/dcmS4zjjs8
