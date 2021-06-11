@@ -21,6 +21,15 @@
                             "name": "10",
                             "subs": [
                                 {
+                                    "text": "@komocode @daringfireball Only for non-SSL traffic.",
+                                    "type": "tweet",
+                                    "created": "Fri, 11 Jun 2021 01:42:00 GMT",
+                                    "tweetId": "1403165590479675401",
+                                    "urltweet": "https://twitter.com/gruber/status/1403165590479675401",
+                                    "inReplyToId": "1402492084955742212",
+                                    "tweetUserName": "gruber"
+                                },
+                                {
                                     "text": "@jnack @daringfireball Yeah, it was just a bunch of little things sprinkled throughout, not a “let’s talk about AR” segment.",
                                     "type": "tweet",
                                     "created": "Fri, 11 Jun 2021 01:39:25 GMT",
