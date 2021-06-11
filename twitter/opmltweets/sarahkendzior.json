@@ -12,6 +12,22 @@
                     "name": "june2021",
                     "subs": [
                         {
+                            "text": "June 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "@amandarivkin That meeting was held the week it was announced Russia is building a nuclear torpedo and melting the Arctic... https://t.co/Wsa5Y3dXIa",
+                                    "type": "tweet",
+                                    "created": "Fri, 11 Jun 2021 11:41:54 GMT",
+                                    "tweetId": "1403316556713635840",
+                                    "urltweet": "https://twitter.com/sarahkendzior/status/1403316556713635840",
+                                    "inReplyToId": "1403215483495723018",
+                                    "tweetUserName": "sarahkendzior"
+                                }
+                            ]
+                        },
+                        {
                             "text": "June 10",
                             "type": "calendarDay",
                             "name": "10",
