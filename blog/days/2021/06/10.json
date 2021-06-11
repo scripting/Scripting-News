@@ -1,0 +1,45 @@
+{
+    "text": "June 10",
+    "created": "Thu, 10 Jun 2021 11:47:51 GMT",
+    "type": "calendarDay",
+    "name": "10",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=mMqM-9VU8Gw\">Gotta Have Me Go With You</a>.",
+            "created": "Thu, 10 Jun 2021 11:47:52 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "We need some real investigative journalism. Which of our systems are most vulnerable to attack? Should've been done a long time ago. ",
+            "created": "Thu, 10 Jun 2021 16:59:34 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Experiment: call your bank. Tell them you have a security issue. See how long it takes to freeze the account.",
+            "created": "Thu, 10 Jun 2021 14:25:04 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've found that credit card companies are very tuned into security. If you call them up with a security issue, within a minute they have put a freeze on the account, and send you a new card. I generally get the new card the next day. And by \"a minute\" I mean a minute after the phone rings, not after navingating voicemail hell, getting upsold and hung up on, and being reminded your call is important to us, and did you know that you can get all the information you need on the web? Please hold and an operator will be with you soon. We apologize for the inconvenience. ",
+            "created": "Thu, 10 Jun 2021 14:05:20 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm writing a little app that archives my tweets in JSON-flavored OPML, just to <a href=\"https://twitter.com/davewiner/status/1401562845201027075\">see</a> what might happen.",
+            "created": "Thu, 10 Jun 2021 17:21:24 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Programming note. I've decided that, in \"LO2\" and other outliners, the special icon for tweets is annoying. Especially when it's just an <a href=\"http://scripting.com/images/2021/06/10/tweetsWithIcons.png\">outline of tweets</a>. They will still have the \"tweet\" type attribute, but they will display with the default wedge. ",
+            "created": "Thu, 10 Jun 2021 15:34:07 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
