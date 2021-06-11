@@ -16,6 +16,21 @@
                     "name": "june2021",
                     "subs": [
                         {
+                            "text": "June 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "You can use https://t.co/Yzxa2pKusn or any other git client to automatically git commit and optionally push to a remote git server. You can also use Dropbox/Google Drive/iCloud/etc. to back up your notes, this way, you'll have unlimited version control and never lose any data. https://t.co/NcWlNN7FIF",
+                                    "type": "tweet",
+                                    "created": "Fri, 11 Jun 2021 04:06:44 GMT",
+                                    "tweetId": "1403202010778804225",
+                                    "urltweet": "https://twitter.com/logseq/status/1403202010778804225",
+                                    "tweetUserName": "logseq"
+                                }
+                            ]
+                        },
+                        {
                             "text": "June 10",
                             "type": "calendarDay",
                             "name": "10",
