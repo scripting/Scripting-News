@@ -1,0 +1,34 @@
+{
+    "text": "June 11",
+    "created": "Fri, 11 Jun 2021 13:17:42 GMT",
+    "type": "calendarDay",
+    "name": "11",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=hQcf6qRMZMo\">Oklahoma USA</a>.",
+            "created": "Fri, 11 Jun 2021 19:48:47 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Joe Trippi did a <a href=\"https://podcasts.apple.com/us/podcast/id1523896927?i=1000525032434\">podcast</a> in response to <a href=\"http://scripting.com/2021/06/08.html#a152650\">my podcast</a>. This time I listened all the way through. I like that Joe is open to other points of view. This is an important time for that. I'm also glad he's talking with the Lincoln Project. I'm going to think about this for a bit and then respond. ",
+            "created": "Fri, 11 Jun 2021 19:32:56 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I have a two-monitor Mac. Sometimes when I move my mouse in the Dock at the bottom of my main monitor, it moves to the bottom of the other monitor. All of a sudden I have to stop, launch the  Preferences app, open the Dock panel, click the Right button then the Bottom button, and now the Dock is back where it belongs. It seems the problem could be easily solved by putting a Lock icon on the Dock tab, as they have on other panels. I can't imagine why they thought a mouse gesture should do something so radical as move the Dock. ",
+            "created": "Fri, 11 Jun 2021 13:41:49 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/06/23/blackLab.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm putting together a new hub for Instant Outline notifications using GitHub as the intermediary. Today is a docs-writing day. The code is working, knock wood, praise Murphy, etc. Doing some searches I found an <a href=\"http://scripting.com/opmlHowto/dave/editorOpmlOrg/instantOutlineTool.html\">Instant Outline tool</a> I did in 2009, using FriendFeed in roughly the same manner I'm using Twitter and GitHub this time. Let's hope this time it gains traction. I've been waiting for people to play with on this stuff, this is one of those things you <i>can't</i> do on your own. ",
+            "created": "Fri, 11 Jun 2021 13:17:43 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
