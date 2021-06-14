@@ -1,0 +1,42 @@
+{
+    "text": "Is JSON better than XML? No.",
+    "created": "Sun, 13 Jun 2021 20:31:08 GMT",
+    "description": "XML is here to stay, even if JSON was much better. ",
+    "metaImage": "http://scripting.com/images/2021/06/13/hopper.png",
+    "subs": [
+        {
+            "text": "I've been all around this one. I can and often do save both XML and JSON versions of RSS and OPML. Truth is almost no one uses the JSON versions. The reason is simple. If you already have support for the XML version, what's gained by adding support for JSON? And everyone has to support the XML version, because HTML, RSS and OPML are all out there <i>only</i> in the XML format, for all practical purposes. ",
+            "created": "Sun, 13 Jun 2021 20:31:16 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Now, to the supposed advantages of JSON over XML.",
+            "created": "Sun, 13 Jun 2021 20:32:41 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "JSON is supposedly more readable than XML, but if you look at what people actually put on the wire, it's not true. There are no rules about whitespace, tabs, newlines, spaces in either format. Developers save files without including whitespace, thinking this makes their apps more efficient, when any gain has to be miniscule, esp with compression. It's bad engineering not to try to make your data files readable, imho, but it's also the default practice.",
+                    "created": "Sun, 13 Jun 2021 20:33:02 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "JSON is supposed to be easier to process, but that also is not true. First you have to support the XML versions because that's what's out there. So even if it were monumentally more difficult, you can't avoid supporting XML formatted data in your code. Adding a second version makes your code more complex not simpler. ",
+                    "created": "Sun, 13 Jun 2021 20:34:31 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If your development runtime doesn't have a package to serialize and deserialize XML as easily as JSON.parse and JSON.stringify, then do a good deed for your fellow developers, write it and release it as open source. That's a simpler and more ecologically sound way of alleviating any angst about XML. ",
+                    "created": "Sun, 13 Jun 2021 20:47:45 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The old famous programming adage applies -- <a href=\"https://en.wikipedia.org/wiki/Wikipedia:If_it_ain%27t_broke,_don%27t_fix_it\">if it ain't broke don't fix it</a>. XML works. It doesn't matter to users if you use XML or JSON. If you want to make the world a friendlier place, use indentation and newlines in your data. Either XML or JSON can be readable if you put in a little effort. ",
+                    "created": "Sun, 13 Jun 2021 20:36:54 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
