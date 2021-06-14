@@ -1,0 +1,70 @@
+{
+    "text": "June 13",
+    "created": "Sun, 13 Jun 2021 12:21:46 GMT",
+    "type": "calendarDay",
+    "name": "13",
+    "subs": [
+        {
+            "text": "This is important. In the conversations I've had recently with users and devs in the nascent [[Tools For Thought]] community, people talk in terms of importing and exporting outlines, but this emphatically is not good enough in 2021. We need a live connection. So when you hook your outline up to a rendering server,  the connection persists. When you make a change, the worker app on the server has the changes and is ready to re-render, without you doing anything. I can't manually import a file every time there's a change. [[Web sockets]] are built into all browsers, it's simple and standardized tech. Let's use it.  There's at least one public storage system, [[GitHub]], that supports real time notification. Again, let's use it. Instead of going back to the beginning each time a new generation comes along, let's start with the work and knowhow of previous generations. I'm here to help.",
+            "created": "Sun, 13 Jun 2021 14:18:36 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/09/10/drummer.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting?tab=repositories\">GitHub</a> is an incredible free to use resource, reliable, has an excellent <a href=\"https://docs.github.com/en/rest/overview\">API</a> and through <a href=\"https://docs.github.com/en/developers/webhooks-and-events/webhooks/about-webhooks\">webhooks</a> is even real time. I think it could be a strong basis for <a href=\"https://en.wikipedia.org/wiki/Interoperability\">interop</a> between various outline generators and consumers.",
+            "created": "Sun, 13 Jun 2021 12:21:47 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Long ago, when [[RSS]] was starting to boom, I was often surprised when a new product came out and I didn't hear about it until it was announced publicly. The one I remember best was [[FeedBurner]]. You'd think that they would want my endorsement, and to give them a chance to answer technical questions before the press started asking them. Maybe they had a developer story? Or maybe I could have helped with a design decision? At that time Scripting News was pretty well-read in the developer community. It always felt like they must have been hiding something, but if they were I never found it. Yes FeedBurner centralized a technology that was good because it was decentralized, but I don't think my saying that would have hurt them. What was even more strange is I had friends at the company, people from the blogging world and from other RSS devs. ",
+            "created": "Sun, 13 Jun 2021 14:52:33 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Is JSON better than XML? No.",
+            "created": "Sun, 13 Jun 2021 20:31:08 GMT",
+            "description": "XML is here to stay, even if JSON was much better. ",
+            "metaImage": "http://scripting.com/images/2021/06/13/hopper.png",
+            "subs": [
+                {
+                    "text": "I've been all around this one. I can and often do save both XML and JSON versions of RSS and OPML. Truth is almost no one uses the JSON versions. The reason is simple. If you already have support for the XML version, what's gained by adding support for JSON? And everyone has to support the XML version, because HTML, RSS and OPML are all out there <i>only</i> in the XML format, for all practical purposes. ",
+                    "created": "Sun, 13 Jun 2021 20:31:16 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Now, to the supposed advantages of JSON over XML.",
+                    "created": "Sun, 13 Jun 2021 20:32:41 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "JSON is supposedly more readable than XML, but if you look at what people actually put on the wire, it's not true. There are no rules about whitespace, tabs, newlines, spaces in either format. Developers save files without including whitespace, thinking this makes their apps more efficient, when any gain has to be miniscule, esp with compression. It's bad engineering not to try to make your data files readable, imho, but it's also the default practice.",
+                            "created": "Sun, 13 Jun 2021 20:33:02 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "JSON is supposed to be easier to process, but that also is not true. First you have to support the XML versions because that's what's out there. So even if it were monumentally more difficult, you can't avoid supporting XML formatted data in your code. Adding a second version makes your code more complex not simpler. ",
+                            "created": "Sun, 13 Jun 2021 20:34:31 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "If your development runtime doesn't have a package to serialize and deserialize XML as easily as JSON.parse and JSON.stringify, then do a good deed for your fellow developers, write it and release it as open source. That's a simpler and more ecologically sound way of alleviating any angst about XML. ",
+                            "created": "Sun, 13 Jun 2021 20:47:45 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "The old famous programming adage applies -- <a href=\"https://en.wikipedia.org/wiki/Wikipedia:If_it_ain%27t_broke,_don%27t_fix_it\">if it ain't broke don't fix it</a>. XML works. It doesn't matter to users if you use XML or JSON. If you want to make the world a friendlier place, use indentation and newlines in your data. Either XML or JSON can be readable if you put in a little effort. ",
+                            "created": "Sun, 13 Jun 2021 20:36:54 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
