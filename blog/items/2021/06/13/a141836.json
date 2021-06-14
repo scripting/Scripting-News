@@ -1,0 +1,7 @@
+{
+    "text": "This is important. In the conversations I've had recently with users and devs in the nascent [[Tools For Thought]] community, people talk in terms of importing and exporting outlines, but this emphatically is not good enough in 2021. We need a live connection. So when you hook your outline up to a rendering server,  the connection persists. When you make a change, the worker app on the server has the changes and is ready to re-render, without you doing anything. I can't manually import a file every time there's a change. [[Web sockets]] are built into all browsers, it's simple and standardized tech. Let's use it.  There's at least one public storage system, [[GitHub]], that supports real time notification. Again, let's use it. Instead of going back to the beginning each time a new generation comes along, let's start with the work and knowhow of previous generations. I'm here to help.",
+    "created": "Sun, 13 Jun 2021 14:18:36 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2019/09/10/drummer.png",
+    "flInCalendar": true
+}
