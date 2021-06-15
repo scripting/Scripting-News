@@ -1,0 +1,48 @@
+{
+    "text": "June 14",
+    "created": "Mon, 14 Jun 2021 12:02:20 GMT",
+    "type": "calendarDay",
+    "name": "14",
+    "subs": [
+        {
+            "text": "The new <a href=\"https://github.com/scripting/instantOutlines\">Instant Outlines</a> toolkit. Over the last few days I've been tweeting and blogging like a fool about <a href=\"https://github.com/scripting/instantOutlines#simple-use-case\">why</a> importing and exporting outlines from one app to another isn't enough. We can do much better. In the background I was working on a <a href=\"https://github.com/scripting/instantOutlines\">new toolkit</a> for developers who want to be part of a network of outline producer and consumer apps based on [[OPML]] and [[web sockets]]. With <a href=\"https://github.com/scripting/instantOutlines/blob/main/demo/code.js\">source code</a> of course, and a <a href=\"http://scripting.com/code/instantoutlinesrepo/demo/\">demo app</a> to prove it works. All my outliners support the feature as well, it's the basis for sharing outlines. This is my vision for an open ecosystem based on outlining. It's a big part of what I <a href=\"http://scripting.com/dwiner/outlinersProgramming.html\">dreamt</a> of when I started UserLand in 1988. ",
+            "created": "Mon, 14 Jun 2021 12:02:21 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/06/11/pizza.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1404553333751304194\">Has anyone</a> used &lsqb;[double square bracket]] tagging in a blog? If so, I'd love to read some docs about how they did it.",
+            "created": "Mon, 14 Jun 2021 21:48:36 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1404553333751304194",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm <a href=\"https://www.metacritic.com/tv/in-treatment\">still</a> watching [[In Treatment]], but season 3 is mostly cringe-worthy. The writing is awful, and the various plots are ridiculous, though Debra Winger is pretty great. It's a very simple concept, they must've gotten bored with it (?) and tried to turn it into some kind of mysterious love affair between patient and doctor and then doctor-as-patient. Also too many patients have miraculous turn-arounds, and it's not clear why. They seem to be charmed by Paul, but we know Paul ain't charming! Oy. I'm slogging through season 3 knowing there's a <a href=\"https://www.vulture.com/article/in-treatment-review-hbo-season-4-uzo-aduba.html\">new season</a> already in progress, with a new shrink played by a familiar actor, and I want to watch it so I don't want to skip anything. ",
+            "created": "Mon, 14 Jun 2021 21:27:47 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1404550207812014085\">Poll</a>: Do you prefer white text on a black background (dark mode) or black on white (light mode)?",
+            "created": "Mon, 14 Jun 2021 21:24:15 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1404550207812014085",
+            "flInCalendar": true
+        },
+        {
+            "text": "Proof by [[induction]]. If a statement is true for 0, and if it being true for n implies it's true for n+1, then it's proven for all positive integers. When we let Dubya off for his sins, and when we didn't restructure the banking industry after the crash in 2008, we set the stage for it to <a href=\"https://slate.com/news-and-politics/2021/06/no-consequences-for-trump-garland-biden.html\">happen again</a>, only worse. And Trump isn't done with us yet. He's the weird case of a former president who hasn't relinquished power. He hasn't learned how to use it yet, but he'll get more effective in his new role. ",
+            "created": "Mon, 14 Jun 2021 12:48:11 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"http://scripting.com/2002/07/26.html#dearAsshole\">BTW</a>, this is a non-[[smoking]] weblog since <a href=\"http://scripting.com/2002/06/14.html\">June 14, 2002</a>.  ",
+            "created": "Mon, 14 Jun 2021 13:18:18 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
