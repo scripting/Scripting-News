@@ -1,0 +1,7 @@
+{
+    "text": "The new <a href=\"https://github.com/scripting/instantOutlines\">Instant Outlines</a> toolkit. Over the last few days I've been tweeting and blogging like a fool about <a href=\"https://github.com/scripting/instantOutlines#simple-use-case\">why</a> importing and exporting outlines from one app to another isn't enough. We can do much better. In the background I was working on a <a href=\"https://github.com/scripting/instantOutlines\">new toolkit</a> for developers who want to be part of a network of outline producer and consumer apps based on [[OPML]] and [[web sockets]]. With <a href=\"https://github.com/scripting/instantOutlines/blob/main/demo/code.js\">source code</a> of course, and a <a href=\"http://scripting.com/code/instantoutlinesrepo/demo/\">demo app</a> to prove it works. All my outliners support the feature as well, it's the basis for sharing outlines. This is my vision for an open ecosystem based on outlining. It's a big part of what I <a href=\"http://scripting.com/dwiner/outlinersProgramming.html\">dreamt</a> of when I started UserLand in 1988. ",
+    "created": "Mon, 14 Jun 2021 12:02:21 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2019/06/11/pizza.png",
+    "flInCalendar": true
+}
