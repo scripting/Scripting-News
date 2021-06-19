@@ -1,0 +1,54 @@
+{
+    "text": "June 18",
+    "created": "Fri, 18 Jun 2021 13:49:39 GMT",
+    "type": "calendarDay",
+    "name": "18",
+    "subs": [
+        {
+            "text": "A few days ago I asked for an idea of what the term \"garden\" meant when applied to a software product. I had seen it used in conjunction with various [[Tools for Thought]] projects. I also saw <a href=\"https://twitter.com/holden\">Mike Caulfield</a> talk about it on Twitter. I wanted to understand what it means. After reading his <a href=\"https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/\">whitepaper</a> on the garden and the stream, I think I get it. My garden is various product and technology sites, like \"XML-RPC\", \"OPML\" and \"RSS\". The product sites for \"Frontier\", \"Fargo\", the \"OPML Editor\". There's even a <a href=\"http://outliners.com/\">garden</a> for outliners of the 80s: ThinkTank, Ready! and MORE. And the stream? That's a blog! And podcasts, and RSS itself. OPML is more the language of the garden. These are useful words to apply to ideas we've been developing since the dawn of the web. It's good to have these words. I also thought of Chance the Gardener's idea of a <a href=\"https://www.youtube.com/watch?v=YgGvd1UPZ88\">garden</a> in <a href=\"https://en.wikipedia.org/wiki/Being_There\">Being There</a>, a wonderful comedy about how the world really works. Chance talks about tending his garden. People find great meaning in this, which is weird because he really is talking about his garden, not economics. It's a farce, a current-day, more thoughtful version of <a href=\"https://en.wikipedia.org/wiki/Idiocracy\">Idiocracy</a>, another great movie. ",
+            "created": "Fri, 18 Jun 2021 18:39:36 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/08/07/tangerineChair.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I updated the <a href=\"http://this.how/opmlChecklist/\">OPML checklist</a> with a <a href=\"http://this.how/opmlChecklist/#1624040113000\">section</a> explaining what OPML is, and how it came to be the interchange format for outlines. I also added a link to the Instant Outlines <a href=\"https://github.com/scripting/instantOutlines\">project</a> which was released after the checklist. Keep the garden properly tended. :boom:",
+            "created": "Fri, 18 Jun 2021 18:35:23 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "\"Drummer\" has node-level bookmarks. When you choose an item from the Bookmarks menu, it opens the outline with the cursor on the node you were pointing to when you created the bookmark. ",
+            "created": "Fri, 18 Jun 2021 19:19:20 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, thinking about Ward Cunningham's <a href=\"http://makecommoningwork.fed.wiki/federated-wiki.html\">Federated Wiki</a>  project, if it understood OPML and had an outliner built in, that would make a pretty great publishing platform. Even better than a built-in outliner, an API by which any outliner could plug in. I'd love to help with that. I love designing and supporting APIs. Ward and I talked about this in our <a href=\"http://scripting.com/2016/08/23/gettingBlogsAndWikisTogether.html\">meetup in 2016</a>. I'm about to ship a new outliner, so it's a fresh topic for me in 2021. Lots of talk about integrating the output of one outliner into another. ",
+            "created": "Fri, 18 Jun 2021 19:06:07 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "It would be great if philanthropy gave the human race a way to publish freely that wasn't tied to the non-existent business model of a mostly failed Silicon Valley startup. <a href=\"https://mackenzie-scott.medium.com/seeding-by-ceding-ea6de642bf\">MacKenzie Scott talks</a> of empowering voices that need to be heard, start at the foundation. The <a href=\"https://en.wikipedia.org/wiki/The_medium_is_the_message\">medium</a> is the message.",
+            "created": "Fri, 18 Jun 2021 18:07:47 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I have Apple's latest <a href=\"https://www.apple.com/airpods-pro/?afid=p238%7CsoMhByjUO-dc_mtid_1870765e38482_pcrid_482593959245_pgrid_87272266274_&cid=aos-us-kwgo-airpods--slid---product-\">AirPods</a>, now I hear they have something called <a href=\"https://www.apple.com/newsroom/2021/05/apple-music-announces-spatial-audio-and-lossless-audio/\">Spatial Audio</a>. I've tried the short demo that's part of the setup for the airpods. Are there more demos? I do not want to sign up for Apple Music, btw. Thanks. ",
+            "created": "Fri, 18 Jun 2021 13:49:40 GMT",
+            "type": "tweet",
+            "tweetId": "1405886336461160451",
+            "tweetUserName": "davewiner",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"http://davewiner.com/\">davewiner.com</a> is my personal website. Just updated.",
+            "created": "Fri, 18 Jun 2021 19:33:11 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
