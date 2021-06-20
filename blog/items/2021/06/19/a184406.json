@@ -1,0 +1,6 @@
+{
+    "text": "Today's project is really twisty. I have an OPML file that should always show exactly what's on the blog, but in OPML. That's different from a realtime update, because it only updates when I publish. I don't necessarily like being watched while I edit. It could get weird. It would have been simple to put it on S3 and give it a scripting.com URL, but I wanted it to be on GitHub, so it would be transparent about how it got to the client. And then there's the notification server, that gets a webhook call from GitHub when the OPML file updates. But that's not enough! The client apps, which are browser-based, hook up to the notification server via websocket, which it found the address of in the &lt;head> section of the OPML file. It's all very simple for the client apps, which is the point, but there are a lot of moving parts to debug on my end of things.  ",
+    "created": "Sat, 19 Jun 2021 18:44:06 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
