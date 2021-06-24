@@ -1,0 +1,35 @@
+{
+    "text": "Revisiting Glitch, a year later",
+    "created": "Wed, 23 Jun 2021 14:55:59 GMT",
+    "type": "outline",
+    "description": "I'm trying to figure out what's the best use of my time.",
+    "subs": [
+        {
+            "text": "In <a href=\"http://scripting.com/2020/04/\">April 2020</a> I gave <a href=\"http://glitch.com/\">Glitch</a> a <a href=\"https://www.google.com/search?q=site%3Ascripting.com+glitch\">try</a>. ",
+            "created": "Wed, 23 Jun 2021 14:47:19 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's a unique free Node.js hosting service, that cuts out a lot of the complexity in creating and managing network apps. It's a <a href=\"https://en.wikipedia.org/wiki/Joel_Spolsky\">Joel Spolsky</a> project, run by <a href=\"https://en.wikipedia.org/wiki/Anil_Dash\">Anil Dash</a>, both people I've known for many years. Early bloggers. <a href=\"https://www.joelonsoftware.com/\">Joel</a> is founder of Stack Exchange, Trello and many other projects, and now is super rich, probably a billionaire, after selling both his hits to big companies. I knew him when he was a normal ex-Microsoft NYC-based developer.",
+            "created": "Wed, 23 Jun 2021 15:08:02 GMT",
+            "image": "http://scripting.com/images/2017/09/02/mrFrog.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Anyway, I succeeded at getting several apps running on Glitch last year, but it wasn't simple for me, an experienced Node developer. That's okay. I left them the apps there, and they continued to work. But when I tried to update my \"PagePark\" installation on Glitch to the latest version, all of a sudden I'm getting errors from Node that make no sense. Things that worked before. There have been hardly any changes in PagePark in the last year. I have no idea what the problem is. And I'm concerned it might take days to figure it out and get things working properly. And these are days I don't have. Trying to complete Drummer, my latest product release, and help users get going in the OPML ecosystem (which is why I was drawn back to Glitch in the first place).",
+            "created": "Wed, 23 Jun 2021 14:49:47 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "So now I'm trying to figure out what's the best use of my time. Glitch is inexpensive, but not the least expensive way to run a server, if you don't want the server to go to sleep. It takes (it seems) a minute or more for it to wake up. Perhaps that's the incentive to get you to pay. I'd understand that. But their <a href=\"https://glitch.com/pricing\">price</a> is $8 a month, paid annually. I can host a server on Digital Ocean for <a href=\"https://cloud.digitalocean.com/droplets/new\">$5 a month</a>, and it's pay as you go. If you use the server for a week you pay for a week. And while I appreciate that Glitch is trying to make it easier by factoring and editing in the browser (good things to do!), Digital Ocean makes it as easy as possible to get started using standard Linux at the command line, and their docs are excellent, the best I've seen. It's what got me to switch from AWS in the first place (their docs are impossibly bad). I've been using Digital Ocean for years now, and the other thing I like about it is that my apps continue to work, they don't break them, as apparently has happened on Glitch (which is okay, not complaining, just making a decision).",
+            "created": "Wed, 23 Jun 2021 14:52:23 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "But then something amazing happened. After writing this post, all of a sudden <a href=\"http://pagepark.glitch.me/\">PagePark-on-Glitch</a> is working. Fuck me. ",
+            "created": "Wed, 23 Jun 2021 14:59:00 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
