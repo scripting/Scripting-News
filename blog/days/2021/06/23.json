@@ -1,0 +1,296 @@
+{
+    "text": "June 23",
+    "created": "Wed, 23 Jun 2021 14:33:38 GMT",
+    "type": "calendarDay",
+    "name": "23",
+    "subs": [
+        {
+            "text": "The vision of using GitHub to host users data that could be accessed by lots of apps, a planned community of  apps that autormatically interop, where users fully own their data, will have to wait until we better understand how <a href=\"http://scripting.com/2021/06/23/174309.html?title=isGithubRawStorageReliable\">GitHub works</a> with raw data.",
+            "created": "Wed, 23 Jun 2021 22:14:40 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you’re having a kid, consider naming him/her, Pulitzer Prize Winner. Might open some doors",
+            "created": "Wed, 23 Jun 2021 14:33:39 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Revisiting Glitch, a year later",
+            "created": "Wed, 23 Jun 2021 14:55:59 GMT",
+            "type": "outline",
+            "description": "I'm trying to figure out what's the best use of my time.",
+            "subs": [
+                {
+                    "text": "In <a href=\"http://scripting.com/2020/04/\">April 2020</a> I gave <a href=\"http://glitch.com/\">Glitch</a> a <a href=\"https://www.google.com/search?q=site%3Ascripting.com+glitch\">try</a>. ",
+                    "created": "Wed, 23 Jun 2021 14:47:19 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's a unique free Node.js hosting service, that cuts out a lot of the complexity in creating and managing network apps. It's a <a href=\"https://en.wikipedia.org/wiki/Joel_Spolsky\">Joel Spolsky</a> project, run by <a href=\"https://en.wikipedia.org/wiki/Anil_Dash\">Anil Dash</a>, both people I've known for many years. Early bloggers. <a href=\"https://www.joelonsoftware.com/\">Joel</a> is founder of Stack Exchange, Trello and many other projects, and now is super rich, probably a billionaire, after selling both his hits to big companies. I knew him when he was a normal ex-Microsoft NYC-based developer.",
+                    "created": "Wed, 23 Jun 2021 15:08:02 GMT",
+                    "image": "http://scripting.com/images/2017/09/02/mrFrog.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Anyway, I succeeded at getting several apps running on Glitch last year, but it wasn't simple for me, an experienced Node developer. That's okay. I left them the apps there, and they continued to work. But when I tried to update my \"PagePark\" installation on Glitch to the latest version, all of a sudden I'm getting errors from Node that make no sense. Things that worked before. There have been hardly any changes in PagePark in the last year. I have no idea what the problem is. And I'm concerned it might take days to figure it out and get things working properly. And these are days I don't have. Trying to complete Drummer, my latest product release, and help users get going in the OPML ecosystem (which is why I was drawn back to Glitch in the first place).",
+                    "created": "Wed, 23 Jun 2021 14:49:47 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So now I'm trying to figure out what's the best use of my time. Glitch is inexpensive, but not the least expensive way to run a server, if you don't want the server to go to sleep. It takes (it seems) a minute or more for it to wake up. Perhaps that's the incentive to get you to pay. I'd understand that. But their <a href=\"https://glitch.com/pricing\">price</a> is $8 a month, paid annually. I can host a server on Digital Ocean for <a href=\"https://cloud.digitalocean.com/droplets/new\">$5 a month</a>, and it's pay as you go. If you use the server for a week you pay for a week. And while I appreciate that Glitch is trying to make it easier by factoring and editing in the browser (good things to do!), Digital Ocean makes it as easy as possible to get started using standard Linux at the command line, and their docs are excellent, the best I've seen. It's what got me to switch from AWS in the first place (their docs are impossibly bad). I've been using Digital Ocean for years now, and the other thing I like about it is that my apps continue to work, they don't break them, as apparently has happened on Glitch (which is okay, not complaining, just making a decision).",
+                    "created": "Wed, 23 Jun 2021 14:52:23 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But then something amazing happened. After writing this post, all of a sudden <a href=\"http://pagepark.glitch.me/\">PagePark-on-Glitch</a> is working. Fuck me. ",
+                    "created": "Wed, 23 Jun 2021 14:59:00 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "They can't see what they can't see",
+            "created": "Wed, 23 Jun 2021 16:23:12 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Journalism, academia, government and the corporate world all hire from the same talent pool.",
+                    "created": "Wed, 23 Jun 2021 21:41:19 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "They go to the same universities, get their news from the same sources. Corporate people take government jobs, then go back to the corporations. The people move fluidly in and out of each bucket. ",
+                    "created": "Wed, 23 Jun 2021 16:23:33 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So you get the same story, the reality they believe in, developed over centuries, that is radically different from the reality most other people experience. The story recited daily at CNN, MSNBC, The New Yorker, NYT. The world changes, again and again, and the story they tell is how angry this makes them, and how everyone must snap back.",
+                    "created": "Wed, 23 Jun 2021 16:23:53 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "New technologies can make change possible, like the one we're using now. ",
+                    "created": "Wed, 23 Jun 2021 16:32:39 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "We would never have Trump if it weren't for Twitter. Imagine someone saying that sentence 20 years ago. It would pay to have that kind of imagination built into journalism, and it is available. The incumbents, like the Democratic incumbents, will have to be left behind. ",
+                    "created": "Wed, 23 Jun 2021 16:32:52 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Today we can't rely on journalism, not because of a campaign run by Russians or Republicans or billionaires. ",
+                    "created": "Wed, 23 Jun 2021 16:24:27 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "They think the problem is that we don't see what they see, but I think it's the other way. They hold on to a normalcy that is gone. ",
+                    "created": "Wed, 23 Jun 2021 16:26:08 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "They can't see what they can't see.",
+                    "created": "Wed, 23 Jun 2021 16:23:16 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Is GitHub raw storage reliable?",
+            "created": "Wed, 23 Jun 2021 17:43:09 GMT",
+            "type": "outline",
+            "description": "It seems that GitHub raw storage is not reliable. Results of an experiment included, and source code. ",
+            "metaImage": "http://scripting.com/images/2021/06/23/dataCenter.png",
+            "subs": [
+                {
+                    "text": "See the <a href=\"https://github.com/scripting/Scripting-News/issues/213\">GitHub thread</a> for this post. ",
+                    "created": "Wed, 23 Jun 2021 18:34:56 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I've been building apps on the assumption that if you store something on GitHub, when you get the raw version of that thing, it'll be current. I was getting inconsistent results, so I decided to test that assumption, and it seems that it is <i>not</i> reliable storage. ",
+                    "created": "Wed, 23 Jun 2021 17:43:19 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If you read an object immediately after writing it, you will not always get back what you wrote. It's not just a matter of waiting a second or two, sometimes it's wrong for up to 10 seconds (the delay I programmed into the test).",
+                    "created": "Wed, 23 Jun 2021 18:24:50 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's <a href=\"https://gist.github.com/scripting/6a59532e1a2d1d0a8e6120cf07b9af45\">the Node app</a> I'm running to test this. It wakes up every minute and saves a file to GitHub with the current local time string. If I reload the <a href=\"https://github.com/scripting/instantOutlines/blob/main/misc/now.txt\">non-raw version</a> of the page, it usually seems to have the current value. But if I reload the <a href=\"https://raw.githubusercontent.com/scripting/instantOutlines/main/misc/now.txt\">raw version</a> of the page, it often does not have the correct value. ",
+                    "created": "Wed, 23 Jun 2021 17:44:14 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here are the results of the app for the first half hour.",
+                    "created": "Wed, 23 Jun 2021 18:26:36 GMT",
+                    "collapse": "true",
+                    "subs": [
+                        {
+                            "text": "everyMinute: 1:58:13 PM, status == 200, bad",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "everyMinute: 1:59:00 PM, status == 200, bad",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "everyMinute: 2:00:00 PM, status == 200, bad",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "everyMinute: 2:01:00 PM, status == 200, good",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "everyMinute: 2:02:00 PM, status == 200, bad",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "everyMinute: 2:03:00 PM, status == 200, bad",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "everyMinute: 2:04:00 PM, status == 200, bad",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "everyMinute: 2:05:00 PM, status == 200, bad",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "everyMinute: 2:06:00 PM, status == 200, bad",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "everyMinute: 2:07:00 PM, status == 200, good",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "everyMinute: 2:08:00 PM, status == 200, bad",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "everyMinute: 2:09:00 PM, status == 200, bad",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "everyMinute: 2:10:00 PM, status == 200, bad",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "everyMinute: 2:11:00 PM, status == 200, bad",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "everyMinute: 2:12:00 PM, status == 200, bad",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "everyMinute: 2:13:00 PM, status == 200, good",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "everyMinute: 2:14:00 PM, status == 200, bad",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "everyMinute: 2:15:00 PM, status == 200, bad",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "everyMinute: 2:16:00 PM, status == 200, bad",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "everyMinute: 2:17:00 PM, status == 200, bad",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "everyMinute: 2:18:00 PM, status == 200, bad",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "everyMinute: 2:19:00 PM, status == 200, good",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "everyMinute: 2:20:00 PM, status == 200, bad",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "everyMinute: 2:21:00 PM, status == 200, bad",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "everyMinute: 2:22:00 PM, status == 200, bad",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "everyMinute: 2:23:00 PM, status == 200, bad",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "everyMinute: 2:24:00 PM, status == 200, bad",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "everyMinute: 2:25:00 PM, status == 200, good",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "everyMinute: 2:26:00 PM, status == 200, bad",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "everyMinute: 2:27:00 PM, status == 200, bad",
+                            "created": "Wed, 23 Jun 2021 18:40:44 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "everyMinute: 2:28:00 PM, status == 200, bad",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You can see that more often than not the raw value is incorrect after ten seconds. ",
+                    "created": "Wed, 23 Jun 2021 18:27:40 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'm leaving the app running for a while, so if you want to verify this, you can. ",
+                    "created": "Wed, 23 Jun 2021 17:45:40 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'll post a note in the <a href=\"https://github.com/scripting/Scripting-News/issues/213\">GitHub thread</a> when I turn the app off. ",
+                    "created": "Wed, 23 Jun 2021 18:28:06 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Hopper",
+            "created": "Wed, 23 Jun 2021 16:13:18 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Carolina Morning by Edward Hopper, 1955",
+                    "created": "Wed, 23 Jun 2021 16:13:23 GMT",
+                    "inlineImage": "http://scripting.com/images/2021/06/23/carolinaMorning.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
