@@ -1,0 +1,78 @@
+{
+    "text": "The glossary in Little Outliner",
+    "created": "Thu, 24 Jun 2021 15:02:34 GMT",
+    "type": "outline",
+    "description": "The glossary is a substitution table. When a term appears in text being rendered, the term is replaced with its value. ",
+    "metaImage": "http://scripting.com/images/2021/06/24/cezanne.png",
+    "subs": [
+        {
+            "text": "If you're new to \"LO2\", the glossary is a pretty unique feature that goes back to \"Clay Basket\" in 1995, and was <a href=\"http://scripting.com/downloads/Website%20Tutorial/GlossariesandFilters.html\">documented</a> as part of Frontier's website framework. It's a permanent fixture, very useful, and easy once you know what it does and how it works.  ",
+            "created": "Thu, 24 Jun 2021 15:02:44 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<b>What it is</b>",
+            "created": "Thu, 24 Jun 2021 15:14:56 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The glossary is a substitution table. When a term appears in text being rendered, the term is replaced with its value. So you could define an entry called \"my blog\" (the quotes are part of the definition) and its value would be a link to your blog. At some time in the future if your blog moves, just change the value of \"my blog\" and links to the blog will change too, when the text is rendered. ",
+            "created": "Thu, 24 Jun 2021 15:07:03 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's the <a href=\"http://drummer.scripting.com/davewiner/glossary.opml\">glossary</a> I use in all my pages. It's a public outline. It has to be public for it to work, so you shouldn't put private information into the glossary. ",
+            "created": "Thu, 24 Jun 2021 15:04:09 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "In LO2 a glossary is a two-level outline. At the top level are a set of terms the renderer will look for, and its subordinate text is what it will be replaced with.   ",
+            "created": "Thu, 24 Jun 2021 15:06:39 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's a <a href=\"http://scripting.com/images/2021/06/24/glossaryScreen.png\">screen shot</a> of part of my glossary, being edited in my outliner.",
+            "created": "Thu, 24 Jun 2021 15:20:30 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<b>How to</b>",
+            "created": "Thu, 24 Jun 2021 15:15:08 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "To use your glossary outline, here's what you do:",
+            "created": "Thu, 24 Jun 2021 15:09:26 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "Make the outline public. ",
+                    "created": "Thu, 24 Jun 2021 15:09:42 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Choose the View OPML command in the File menu to get a link to the glossary outline. ",
+                    "created": "Thu, 24 Jun 2021 15:09:51 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Put the URL on the clipboard.",
+                    "created": "Thu, 24 Jun 2021 15:11:23 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "In an outline where you want to use the glossary, choose Edit OPML Head from the file menu, and add an attribute to the table. Its name is urlGlossary, and the value is the URL you have on the clipboard. ",
+                    "created": "Thu, 24 Jun 2021 15:10:25 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Now you should be able to use the glossary in your outline. ",
+            "created": "Thu, 24 Jun 2021 15:12:44 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
