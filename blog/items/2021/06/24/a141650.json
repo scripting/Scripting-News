@@ -1,0 +1,53 @@
+{
+    "text": "GitHub as app storage, cont'd",
+    "created": "Thu, 24 Jun 2021 14:16:50 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Yesterday I wrote <a href=\"http://scripting.com/2021/06/23.html#a221440\">two</a> <a href=\"http://scripting.com/2021/06/23/174309.html?title=isGithubRawStorageReliable\">bits</a> about using GitHub as a storage system for a community of apps.  ",
+            "created": "Thu, 24 Jun 2021 14:17:00 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The idea matches the as-yet unachieved ideal of using the web as an operating system, that for me goes back to 1994. It's the potential I saw when I first understood how HTTP works. Now in 2021, the one thing the web OS doesn't have is reliable storage for users that multiple apps can access to edit and render on the user's behalf. The same way you might have a text file on your desktop, that you write in a word processor (of your choosing, this is important) and send it over email, put it in a tweet, or a Facebook post, or print it. Or any of a million other uses. The key thing is the text file is yours. Not just for Mac or Windows, for everyone, anywhere. It's the wedge we need to be able to build a new world that's been technically possible for a couple of decades now. :-)",
+            "created": "Thu, 24 Jun 2021 14:18:21 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's important that we're using GIT which is an open and often-cloned data structure. You could move your data to another GIT provider if GitHub proved too expensive, or their service was failing, or really any reason at all. ",
+            "created": "Thu, 24 Jun 2021 14:21:03 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Dropbox was getting close to this idea, but they pulled back. That's why I did \"Fargo\", which used Dropbox for storage. But no other app could access Fargo's outline files. They couldn't even access public files, that's the feature they withdrew. They had reasons to change course, not faulting the company. ",
+            "created": "Thu, 24 Jun 2021 14:21:46 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<b>LogSeq</b>",
+            "created": "Thu, 24 Jun 2021 14:24:11 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The main reason I picked up using GitHub as storage, again (I had experimented in 2017 with a GitHub-backed <a href=\"http://this.how/english/\">text editor</a>) is that another app developer, \"LogSeq\" is going down this path: using GitHub as a place for users to store their data. Even better LogSeq is an outliner! And even better, they're supporting \"OPML\". So now it gets interesting. I can imagine a user opening an outline in \"Drummer\" because it has a feature they need, and then opening the same file in \"LogSeq\" because it has features that Drummer doesn't. This is the nirvana we've been waiting so long for. And we're close to having it. ",
+            "created": "Thu, 24 Jun 2021 14:24:14 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "GitHub is tempting, but there appear to be problems when accessed through their API, as I am doing. For example, if I saved a file to a user's repo, it might take 20 minutes before the changed version showed up to other apps. There must be a cache somewhere in there. I don't have a clear statement of how GitHub works here, maybe it's out there, but I wanted to do a reality check. ",
+            "created": "Thu, 24 Jun 2021 14:29:58 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "LogSeq says they use a Node package called <a href=\"https://github.com/isomorphic-git/isomorphic-git\">Isomorphic-Git</a>. It has been reliable. But there are other problems. ",
+            "created": "Thu, 24 Jun 2021 14:31:10 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've <a href=\"https://github.com/scripting/Scripting-News/issues/213\">started a thread</a> on this. Maybe we can figure this out. Or maybe it's something we come back to periodically until it works. We'd love to hook up with people at GitHub, after we've explored all other options. ",
+            "created": "Thu, 24 Jun 2021 14:31:35 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
