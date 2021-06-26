@@ -1,0 +1,7 @@
+{
+    "text": "Okay following up on yesterday's bit about <a href=\"http://scripting.com/2021/06/24/141650.html?title=githubAsAppStorageContd\">using GitHub</a> as an app storage system, even though I know it's possible, [[LogSeq]] has it working, but I'm not good enough with GIT as an API to figure out how to make it work. I have to table this idea for now and move on. I'm going to use S3 in its place. I know how it behaves, I have simple code to write to it that works. Unfortunately S3 does not come in a user-friendly package, so it doesn't get us anywhere as far as user control of their data. I think this is an ethical mission for devs, akin to the \"First do no harm\" <a href=\"https://en.wikipedia.org/wiki/Primum_non_nocere\">edict</a> for doctors. Don't lock your users in. I want to establish a norm here, for [[Tools For Thought]], that users expect to be able to move their data around where ever they want. Not giving up on this. We've done it before, with [[RSS]], for example. And podcasting still hasn't been siloized, amazingly. :boom:",
+    "created": "Fri, 25 Jun 2021 13:48:46 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2017/09/01/mrFrog.png",
+    "flInCalendar": true
+}
