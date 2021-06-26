@@ -3,7 +3,7 @@
 	<head>
 		<title>My Podcast Feeds</title>
 		<dateCreated>Mon, 06 Apr 2015 16:19:35 GMT</dateCreated>
-		<dateModified>Mon, 27 Jul 2020 14:12:26 GMT</dateModified>
+		<dateModified>Fri, 25 Jun 2021 18:20:29 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="Joe Trippi" title="Joe Trippi" type="rss" xmlUrl="https://feeds.megaphone.fm/trippishow" />
@@ -38,7 +38,7 @@
 		<outline text="Fivethirtyeight.com sports" title="Fivethirtyeight.com sports" type="rss" xmlUrl="http://sports.espn.go.com/espnradio/podcast/feeds/itunes/podCast?id=12474672" />
 		<outline text="Framelab" title="Framelab" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:372194030/sounds.rss" />
 		<outline text="Freakonomics Radio" title="Freakonomics Radio" type="rss" xmlUrl="http://feeds.feedburner.com/freakonomicsradio" />
-		<outline text="Fresh Air" title="Fresh Air" type="rss" xmlUrl="http://www.npr.org/rss/podcast.php?id=13" />
+		<outline text="Fresh Air" title="Fresh Air" type="rss" xmlUrl="https://feeds.npr.org/381444908/podcast.xml" />
 		<outline text="Friday Night Comedy from BBC Radio 4" title="Friday Night Comedy from BBC Radio 4" type="rss" xmlUrl="http://downloads.bbc.co.uk/podcasts/radio4/fricomedy/rss.xml" />
 		<outline text="Frontline" title="Frontline" type="rss" xmlUrl="http://feeds.feedburner.com/FrontlineAudiocastPbs" />
 		<outline text="Frontline Dispatch" title="Frontline Dispatch" type="rss" xmlUrl="http://feeds.frontline.org/TheFrontlineDispatch" />
