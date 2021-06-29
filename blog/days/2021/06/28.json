@@ -1,0 +1,117 @@
+{
+    "text": "June 28",
+    "created": "Mon, 28 Jun 2021 13:20:50 GMT",
+    "type": "calendarDay",
+    "name": "28",
+    "subs": [
+        {
+            "text": "A new header image, a <a href=\"http://scripting.com/images/2021/06/28/fridaKahloSelfPortraitSlice.png\">slice</a> of a <a href=\"https://www.wikiart.org/en/frida-kahlo/self-portrait-with-bonito-1941\">Frida Kahlo self-portrait</a>. Just her eyes. Staring <a href=\"http://scripting.com/images/2021/06/28/theEyesStaringAtYou.png\">at you</a> while you read <a href=\"http://scripting.com/2021/06/28.html\">my blog</a>.  ",
+            "created": "Mon, 28 Jun 2021 22:39:11 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Working my way through <a href=\"https://en.wikipedia.org/wiki/In_Treatment#Season_4\">Season 4</a> of In Treatment. I wish they'd spend less time on the story and problems of the therapist.  ",
+            "created": "Mon, 28 Jun 2021 14:11:42 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Last night's <a href=\"https://nypost.com/2021/06/27/bucks-top-hawks-trae-young-hurts-ankle-by-stepping-on-ref/\">playoff game</a> was weird. I went in thinking I wanted Atlanta to win, but it turned out I actually was rooting for Milwaukee, who won again, decisively. ",
+            "created": "Mon, 28 Jun 2021 14:15:13 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2011/06/28/elephant.jpg",
+            "flInCalendar": true
+        },
+        {
+            "text": "There should be a limit on the number of times a team can foul one player. When a team exceeds the limit, the team being fouled gets to choose a player on the fouling team who is fouled out of the game. Do it again, lose another player. <a href=\"https://en.wikipedia.org/wiki/Hack-a-Shaq\">Hack-A-Shaq</a> isn't good for the game. There's no reason a power dunker like <a href=\"https://en.wikipedia.org/wiki/Giannis_Antetokounmpo\">Giannis</a> has to be a good foul shooter.",
+            "created": "Mon, 28 Jun 2021 14:15:52 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I start my programming day with a new outline entry where I make notes about the first projects I'm going to do as I start working on code. Inevitably, I think of next steps, so I note them too. At the end of the day, I make notes for the next day, so I never have to worry about showing up to work and having no idea of what I'm supposed to do (this happens sometimes). In the middle, I note anything I might need to remember about the work in teh future, similar to the way a doctor takes notes on your chart as they do an exam, or decide on a plan. ",
+            "created": "Mon, 28 Jun 2021 13:20:51 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "This is an interesting time in the \"Drummer\" project. I'm deep in InstantOutlineLand, this time doing lots of documenting, sample code writing, and developing flows of automatically updating outlines so we have something to test against. Not too different from the initial development for various other projects, such as podcasting. You need to do all the chickens and eggs if you want a new protocol to develop.",
+            "created": "Mon, 28 Jun 2021 13:22:09 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://gist.github.com/scripting/ae8e2f426d2dfb18b3962f72a586ac48\">This script</a> runs in UserLand Frontier or the OPML Editor to create glue in instantoutliner.com. I don't expect anyone else will need this, but I want to be able to find it in the future. ",
+            "created": "Mon, 28 Jun 2021 19:11:21 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I often call Doc Searls Papa Doc, using the name of a <a href=\"https://en.wikipedia.org/wiki/Fran%C3%A7ois_Duvalier\">dictator</a> of Haiti. His son, who was also a dictator, was called <a href=\"https://en.wikipedia.org/wiki/Jean-Claude_Duvalier\">Baby Doc</a>. This is a picture, <a href=\"http://scripting.com/2021/06/28/152349.html?title=docSearls\">below</a>, of Baby Doc Searls. :smile:",
+            "created": "Mon, 28 Jun 2021 19:12:42 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Doc Searls",
+            "created": "Mon, 28 Jun 2021 15:23:49 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2021/06/28/babyDoc.png",
+            "description": "Doc, as a boy, with his dog, on summer vaction.",
+            "subs": [
+                {
+                    "text": "<a href=\"http://twitter.com/dsearls\">Doc</a>, as a boy, with his dog, on summer vaction.",
+                    "created": "Mon, 28 Jun 2021 15:23:53 GMT",
+                    "inlineImage": "http://scripting.com/images/2021/06/28/babyDoc.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Paycasts?",
+            "created": "Mon, 28 Jun 2021 13:57:11 GMT",
+            "type": "outline",
+            "description": "It's kind of a shame Apple didn't do something creative with their pricing for podcasts.",
+            "metaImage": "http://scripting.com/images/2021/06/28/parisStreetScene.png",
+            "subs": [
+                {
+                    "text": "It's kind of a shame Apple didn't do something creative with their pricing for podcasts.   ",
+                    "created": "Mon, 28 Jun 2021 13:57:24 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "First, pricing for podcasts, as they have implemented it, is awkward and confusing, as evidenced by the way NPR did it. The pricing is voluntary, according to their <a href=\"https://www.npr.org/sections/npr-extra/2021/06/15/1006687574/support-your-favorite-npr-podcasts-with-apple-podcasts-subscriptions\">press release</a>. You can still listen if you don't subscribe (for money). Not sure how it could work otherwise. Would NPR want to transition Fresh Air, one of the founding podcasts? It's kind of like the Meet The Press of podcasting. ",
+                    "created": "Mon, 28 Jun 2021 13:57:34 GMT",
+                    "image": "http://scripting.com/images/2021/06/28/flower.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But, what if there were something new, call it a <i>paycast</i> perhaps, where you pay per episode. Maybe $1 per. Flat price, everything costs the same, at least at first. Keep it simple and easy to understand. ",
+                    "created": "Mon, 28 Jun 2021 13:58:22 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You need a special app so there's no confusion about what's what. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's tied to your credit card. Every time you listen to at least 5 minutes of a podcast, you pay. Put a warning beep at 4 minutes 45 seconds.",
+                    "created": "Mon, 28 Jun 2021 13:58:37 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I would love to try this out because I'm pretty sure this is the way web news will ultimately work, and there is no pricing model for podcasts, therefore nothing to displace, unless you consider ads a model, see below. As long as we're trying something new, might as well try something better than what's already out there, from the point of view of users (we're the ones with your money in our pockets).",
+                    "created": "Mon, 28 Jun 2021 13:58:37 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And btw, no ads please. Ads in podcasts really suck, esp the ones at the beginning. I almost never make it through the ads. ",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
