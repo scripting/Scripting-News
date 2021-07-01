@@ -1,0 +1,27 @@
+{
+    "text": "June 30",
+    "created": "Wed, 30 Jun 2021 12:45:17 GMT",
+    "type": "calendarDay",
+    "name": "30",
+    "subs": [
+        {
+            "text": "Some times I have the sense of humor of an 8-year-old boy. Well, actually always. :boom:",
+            "created": "Thu, 01 Jul 2021 01:04:23 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/215\">Braintrust query</a>. I need a regular expression to find t.co links in tweets, so they can be turned into outline <i>link</i> nodes.  ",
+            "created": "Wed, 30 Jun 2021 14:36:59 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I posted a <a href=\"https://github.com/Leonidas-from-XIV/node-xml2js/issues/380#issuecomment-871369365\">question/suggestion</a> on the xml2js issues board. ",
+            "created": "Wed, 30 Jun 2021 12:45:18 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
