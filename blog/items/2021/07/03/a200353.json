@@ -1,0 +1,35 @@
+{
+    "text": "Sustainable web, day 2",
+    "created": "Sat, 03 Jul 2021 20:03:53 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I'd like to buy, in advance, 100 years of:",
+            "created": "Sat, 03 Jul 2021 20:03:59 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "Static HTTP serving from an S3 bucket. ",
+                    "created": "Sat, 03 Jul 2021 20:04:07 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Run a set of Node apps.",
+                    "created": "Sat, 03 Jul 2021 20:04:17 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Register domains.",
+                    "created": "Sat, 03 Jul 2021 20:04:08 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "When this is real, we can start thinking about the web, realistically, as a for-the-record platform for writing, video, podcasts, etc.",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
