@@ -1,0 +1,63 @@
+{
+    "text": "July 3",
+    "created": "Sat, 03 Jul 2021 13:41:17 GMT",
+    "type": "calendarDay",
+    "name": "03",
+    "subs": [
+        {
+            "text": "I binged <a href=\"https://www.metacritic.com/tv/hacks/season-1\">Hacks</a> on HBO in one day. It's that <a href=\"http://bingeworthy.io/tv/?id=https%3A%2F%2Fwww.metacritic.com%2Ftv%2Fhacks%2Fseason-1\">good</a>. ",
+            "created": "Sat, 03 Jul 2021 14:15:54 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Andrew Shell has put together a <a href=\"https://github.com/scripting/pagePark/issues/20\">checklist</a> for installing PagePark on Glitch. It's pretty straightforward. Getting PagePark to run on your own server is something that \"Drummer\" will be able to connect to for storage. It's really important that people who want complete independence can have it. No silos here. We want to do the same for Digital Ocean and AWS. If you're the kind of person who likes to run their own server, please pitch in, and provide feedback. I did it myself, it takes about ten minutes. And we may be able to make it even simpler, depending on how this experiment goes. Thanks! :boom:",
+            "created": "Sat, 03 Jul 2021 13:44:17 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/12/24/drummer.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "The most realistic idea of what's up with Trump continues to be, imho, the <a href=\"https://podcasts.apple.com/us/podcast/wounded-trump-is-dangerous-trump-conversation-david/id1530639447?i=1000527576909\">Mea Culpa podcast</a>. <a href=\"https://twitter.com/MichaelCohen212\">Michael Cohen</a> has the best perspective, having been <a href=\"https://en.wikipedia.org/wiki/Michael_Cohen_(lawyer)\">Trump's fixer</a>. He doesn't mind saying what he really thinks. This week's episode is especially good. ",
+            "created": "Sat, 03 Jul 2021 13:41:18 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Sustainable web, day 2",
+            "created": "Sat, 03 Jul 2021 20:03:53 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I'd like to buy, in advance, 100 years of:",
+                    "created": "Sat, 03 Jul 2021 20:03:59 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Static HTTP serving from an S3 bucket. ",
+                            "created": "Sat, 03 Jul 2021 20:04:07 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Run a set of Node apps.",
+                            "created": "Sat, 03 Jul 2021 20:04:17 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Register domains.",
+                            "created": "Sat, 03 Jul 2021 20:04:08 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "When this is real, we can start thinking about the web, realistically, as a for-the-record platform for writing, video, podcasts, etc.",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
