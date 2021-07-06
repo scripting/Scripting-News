@@ -1,0 +1,64 @@
+{
+    "text": "July 5",
+    "created": "Mon, 05 Jul 2021 13:02:24 GMT",
+    "type": "calendarDay",
+    "name": "05",
+    "subs": [
+        {
+            "text": "Podcast/rant: <a href=\"http://scripting.com/2021/07/05/ourOngoingCivilWarIsAboutSlavery.m4a\">Our ongoing civil war is about slavery</a>.",
+            "created": "Mon, 05 Jul 2021 16:47:20 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2021/07/05/ourOngoingCivilWarIsAboutSlavery.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "8680040",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, there's a new <a href=\"https://github.com/scripting/pagePark#v0820-7521-by-dw\">version</a> of PagePark, v0.8.20, that has the feature described in the <a href=\"https://github.com/scripting/pagePark/issues/19\">RFC from Friday</a>. It makes it a bit simpler to set up a Glitch server, for example, for people who are new to PP.",
+            "created": "Mon, 05 Jul 2021 16:10:48 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/07/05/fridaBarbie.png",
+            "imageLink": "https://www.walmart.com/ip/Barbie-Inspiring-Women-Series-Frida-Kahlo-Doll-Iconic-Fringe-Shawl/753705253?wmlspartner=wlpa&selectedSellerId=8984&&adid=22222222227128497662&wl0=&wl1=g&wl2=c&wl3=235177691734&wl4=aud-1319366384141:pla-388260369501&wl5=1023511&wl6=&wl7=&wl8=&wl9=pla&wl10=115786543&wl11=online&wl12=753705253&veh=sem&gclid=Cj0KCQjw24qHBhCnARIsAPbdtlLTXWMGhGCgRjuYY7pxeG1w5s-w5HV7sKSZgk0QYanAcz9KSBVWBdgaAk2LEALw_wcB&gclsrc=aw.ds",
+            "flInCalendar": true
+        },
+        {
+            "text": "A problem happens when an app running in \"PagePark\" makes a request of another app that's running on the same machine. It reared its ugly head again today, and I had a heck of a time finding <a href=\"https://github.com/scripting/pagePark/issues/17\">this thread</a> by searching. In this post I used all the terms I used in my search, so hopefully if I ever hit it again, I'll find my way back here, with <a href=\"https://github.com/scripting/pagePark/issues/17\">this link</a> to the answer. ",
+            "created": "Mon, 05 Jul 2021 15:49:41 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "America’s <a href=\"https://politicalwire.com/2021/07/05/americas-politics-are-stubbornly-fixed/\">politics</a> appear to be stubbornly fixed. That's just a symptom. The bigger problem is the US has a genetic defect that makes it impossible for it to be united. Slavery. Everyone has a position on that. Either for or against. Not too many people in the middle. And the division in the country, to me, appears to be right along that line. People may be pro-slavery without putting it that way. ",
+            "created": "Mon, 05 Jul 2021 15:11:26 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you think archive.org is backing up all the stuff you care about, check it out, see if they are. ",
+            "created": "Mon, 05 Jul 2021 13:49:57 GMT",
+            "type": "tweet",
+            "tweetId": "1412046361877532678",
+            "tweetUserName": "davewiner",
+            "flInCalendar": true
+        },
+        {
+            "text": "I am happy to report that archive.org has a <a href=\"https://web.archive.org/web/20170705073731/http://dev.opml.org/spec2.html\">good copy</a> of the <a href=\"http://dev.opml.org/spec2.html\">OPML 2.0 spec</a>. It's the easiest kind of page to archive, static HTML, stored in an Amazon S3 bucket. They started sampling it in 2016, even though the page has been there since the mid-00s.",
+            "created": "Mon, 05 Jul 2021 13:02:25 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's really weird <a href=\"https://web.archive.org/web/20190815000000*/https://cyber.harvard.edu/rss/rss.html\">how they do</a> the <a href=\"https://cyber.harvard.edu/rss/rss.html\">RSS 2.0 spec</a>. They're sampling it every day, as many as 17 times a day. <a href=\"http://scripting.com/images/2021/07/05/rss2archiveorgsampling.png\">Screen shot</a>. It's a static page for a format that's been frozen since 2002. A few samplings a year would be sufficient. As with the OPML spec, their archive starts in 2016, but the doc has been there at since 2003. ",
+            "created": "Mon, 05 Jul 2021 13:04:15 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's a <a href=\"http://scripting.com/images/2021/07/05/opmlarchivescreen.png\">screen shot</a> that shows how frequently the OPML 2.0 spec is sampled. I can think of three differences. 1. RSS is more famous than OPML. 2. RSS spec is on a Harvard website, the OPML spec is on opml.org. 3. The RSS spec is served via HTTPS, the OPML spec via HTTP.",
+            "created": "Mon, 05 Jul 2021 13:16:52 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
