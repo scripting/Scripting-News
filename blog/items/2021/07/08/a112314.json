@@ -1,0 +1,9 @@
+{
+    "text": "A <a href=\"http://scripting.com/2021/07/04/myPitchForOpml.m4a\">podcast</a> I recorded on July 4 about why interop is so important in outliners, and how the <a href=\"https://github.com/scripting/opmlPackage\">OPML toolkit for JavaScript</a> facilitates that. Also a bit of RSS history, because there's a connection between RSS and OPML. This is part of getting ready for \"Drummer\". And there's at least one mistake in the podcast, the package in the browser requires jQuery. I said it's completely self-contained. Not true. ",
+    "created": "Thu, 08 Jul 2021 11:23:14 GMT",
+    "type": "outline",
+    "enclosure": "http://scripting.com/2021/07/04/myPitchForOpml.m4a",
+    "enclosureType": "audio/mpeg",
+    "enclosureLength": "9087677",
+    "flInCalendar": true
+}
