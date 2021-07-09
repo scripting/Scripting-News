@@ -1,0 +1,72 @@
+{
+    "text": "July 8",
+    "created": "Thu, 08 Jul 2021 11:23:13 GMT",
+    "type": "calendarDay",
+    "name": "08",
+    "subs": [
+        {
+            "text": "A <a href=\"http://scripting.com/2021/07/04/myPitchForOpml.m4a\">podcast</a> I recorded on July 4 about why interop is so important in outliners, and how the <a href=\"https://github.com/scripting/opmlPackage\">OPML toolkit for JavaScript</a> facilitates that. Also a bit of RSS history, because there's a connection between RSS and OPML. This is part of getting ready for \"Drummer\". And there's at least one mistake in the podcast, the package in the browser requires jQuery. I said it's completely self-contained. Not true. ",
+            "created": "Thu, 08 Jul 2021 11:23:14 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2021/07/04/myPitchForOpml.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "9087677",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://stratechery.com/2021/instagrams-evolution/\">Ben Thompson</a>: \"Why does the beloved photo-sharing service have to copy everyone else, and not simply do what it is best at?\"",
+            "created": "Thu, 08 Jul 2021 12:05:06 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "My outlines are a mess. I'm always giving myself shit about that, but I should stop. The important thing is that the ideas make it into the structure. I do need better ways to pull stuff out of the structures. ",
+            "created": "Thu, 08 Jul 2021 11:53:43 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm listening to the <a href=\"https://www.audible.com/pd/The-Autobiography-of-Malcolm-X-Audiobook/B084YVRDJX?ref=a_library_t_c5_libItem_&pf_rd_p=fd324a4f-488e-4a24-a1a8-462a3e819d7b&pf_rd_r=0J6ECV6GPWMXDP4N07DW\">Autobiography of Malcolm X</a> and loving it. ",
+            "created": "Thu, 08 Jul 2021 12:31:57 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "People, drugs and feelings",
+            "created": "Thu, 08 Jul 2021 14:35:05 GMT",
+            "type": "outline",
+            "description": "There is no such thing as a drug you enjoy that your body doesn't already produce on its own. Feelings work like that too.",
+            "metaImage": "http://scripting.com/images/2021/07/08/boat.png",
+            "subs": [
+                {
+                    "text": "I once had a girlfriend named Kim. We spent a lot of time together. I really loved her, but she also totally frustrated me. One day I was taking a walk with my friend Bodie, a massage therapist, and I kept complaining about Kim. Oh if only Kim would do this. If only Kim would be like that. I hate it when Kim is this way or some other way. Every time I did that, Bodie would say \"Why do you feel that way about yourself.\" I started getting mad, but she kept doing it. Finally, as she said she knew I would, I realized I was projecting all over Kim. None of this had anything to do with her, I was using her to examine my feelings about myself.",
+                    "created": "Thu, 08 Jul 2021 14:31:24 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Like everyone, I like drugs. Alcohol, weed. I like opiates, I was given huge amounts of them when I had my surgery in 2002. I could have gotten addicted, I probably did to some extent, but luckily it was easy for me to stop. I was a <a href=\"https://pubmed.ncbi.nlm.nih.gov/15799595/\">nicotine</a> fiend for over 30 years. And I like sex, and in a way sex is one or more people sharing <a href=\"https://www.webmd.com/sex-relationships/news/20131125/how-the-love-hormone-works-its-magic\">oxytocin</a>. You feel love because your body bathes you in great drugs! ",
+                    "created": "Thu, 08 Jul 2021 14:35:58 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The interesting thing about drugs, I learned, is there is no such thing as a drug you enjoy that your body doesn't already produce on its own. Feelings work like that too. If someone's anger or fear upsets you, it's only possible because you already had the anger or fear yourself. It's also why people sometimes completely miss how other people feel, they mistake their own feelings for the other person's feelings. If someone does X that evokes my fear, I assume they caused the fear, and therefore are somehow to blame for it. It's usually not the experience the other person has. If you ask them \"Are you scared or angry?\" in a non-judgemental way (very hard to do I know) you might find they are not. Or if they were, it has passed. Do you remember how, as a child your emotions would flow so easily, one second a baby is smiling and happy, and two seconds later the baby screaming in apparent agony. Inside you're still doing that, even if you pretend not to. ",
+                    "created": "Thu, 08 Jul 2021 14:41:51 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I think in some sense we all want to go back to the womb, to find the perfect container, where everything you need is provided: warmth, shelter, food, and probably some very good drugs too. But no matter how much you love someone, how much you expect from them, they can't take you there. It's not the way it works. We're all on solo trips, fending for ourselves, and beneath it, not too happy about it. :smile:",
+                    "created": "Thu, 08 Jul 2021 14:40:55 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "There is one important caveat. Fear and anger are useful feelings when you're really in danger. If a bear is attacking you, fear is correct! It doesn't matter if you had the feelings before, you're not projecting, you have to decide right now in real time to fight or run. And your brain is flooding your system with drugs that increase your chance of surviving the attack. But, if you mistakenly feel fear, ie there is no real threat, your body still releases the drugs. It's why we accumulate tension in the neck, because it's part of the fight or flight response. If you're in constant fear, your neck never relaxes. ",
+                    "created": "Thu, 08 Jul 2021 14:54:10 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
