@@ -1,0 +1,53 @@
+{
+    "text": "Drummer for poets",
+    "created": "Fri, 09 Jul 2021 14:28:55 GMT",
+    "type": "outline",
+    "description": "I'm thinking about how people will host their own Drummers.",
+    "metaImage": "http://scripting.com/images/2021/07/09/poetsOnAPorch.png",
+    "subs": [
+        {
+            "text": "I'm thinking about how people will host their own Drummers. ",
+            "created": "Fri, 09 Jul 2021 14:32:42 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I don't want to run the only server, I might not even want to run the main server. I do want to continue developing the software. This is different from how Facebook and Twitter run, I'm not trying to create another walled garden. It's not the kind of work I like, or am particularly good at. It's much more like how WordPress works. Only I think Drummer can be even easier to set up and manage. ",
+            "created": "Fri, 09 Jul 2021 14:33:21 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I want to create networks of outliner users. I call this \"Communication with a big C.\" Not the wires, but the ideas that go over the wires. Nodes in my network are human minds, not computers. ",
+            "created": "Fri, 09 Jul 2021 14:34:53 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The world I imagine is something like 1980s software model with a much more efficient distribution system. And the product, unlike the one from the 80s, is built around networking, where the networking features of MORE and ThinkTank were barely a twinkle in the eye. There was no software to back it up ",
+            "created": "Fri, 09 Jul 2021 14:33:30 GMT",
+            "collapse": "true",
+            "subs": [
+                {
+                    "text": "One of the reasons I wanted Symantec to <a href=\"https://techmonitor.ai/techonology/symantec_acquires_think_technologies\">buy</a> Think Technologies: they had one of the leading Mac email packages at the time, a product called InBox. There were two others, and I was friends with them too. I wanted desperately to get real networking support into MORE. Never happened, unfortunately, that had to wait for Frontier. ",
+                    "created": "Fri, 09 Jul 2021 14:42:17 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm starting to put the pieces together. One of them is to get the hosting working on systems like AWS, Digital Ocean and Glitch. So a user can just launch a server from a repo, have it mostly configure itself, have a Drummer server running in minutes. That's the goal. We have some experience with this, the various <a href=\"https://www.google.com/search?q=site%3Ascripting.com+%22for+poets%22\">For Poets</a> projects we've done here. ",
+            "created": "Fri, 09 Jul 2021 14:38:15 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've started a <a href=\"https://github.com/scripting/Scripting-News/issues/216\">thread</a> if you have questions or suggestions. ",
+            "created": "Fri, 09 Jul 2021 14:40:31 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "PS: For programmers, the key piece of software has a funny name. <a href=\"https://github.com/scripting/appServer\">daveappserver</a>. It's an application server, perfectly set up to host Drummer, because in fact it is what I use to host Drummer. :smile:",
+            "created": "Fri, 09 Jul 2021 14:52:13 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
