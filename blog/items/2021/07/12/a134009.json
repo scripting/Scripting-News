@@ -1,0 +1,47 @@
+{
+    "text": "How my apps do storage",
+    "created": "Mon, 12 Jul 2021 13:40:09 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "<i>This is a technical post, written in response to a <a href=\"https://twitter.com/logseq/status/1414472093589114880\">tweet</a> from Logseq. </i>",
+            "created": "Mon, 12 Jul 2021 13:40:12 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "This is <a href=\"https://github.com/scripting/nodeStorage/blob/master/api.js\">the API</a> I use to access my storage system.",
+            "created": "Mon, 12 Jul 2021 13:41:10 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The names begin with \"tw\" because I use Twitter for identity, so initially thought of these as twitter ops.",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you scroll to the <a href=\"https://github.com/scripting/nodeStorage/blob/master/api.js#L1195\">bottom of the file</a> you'll see a <i>nodeStorageApp</i> function which is how my apps are organized to access the storage system.",
+            "created": "Mon, 12 Jul 2021 13:41:59 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The first implementation was in 2014, it was an NPM package called <a href=\"https://github.com/scripting/nodeStorage\">nodeStorage</a>. ",
+            "created": "Mon, 12 Jul 2021 13:54:23 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "In 2020, I came up with a smaller, more streamlined package called <a href=\"https://github.com/scripting/appServer\">daveAppServer</a> that I've been using for all my latest projects. Key point -- it supports the same API as nodeStorage. I like to do things that way. It's also a proof of concept that it's possible to put another server behind the API. This will probably be necessary at some point to augment or replace Twitter as the identity system.",
+            "created": "Mon, 12 Jul 2021 13:42:11 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm very much thinking about <a href=\"http://scripting.com/2021/07/09/142855.html?title=drummerForPoets\">Drummer for Poets</a> where not-very-technical users can run their own servers.",
+            "created": "Mon, 12 Jul 2021 13:42:40 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Just wanted you to know how I do storage. ;-)",
+            "created": "Mon, 12 Jul 2021 13:55:21 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
