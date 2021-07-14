@@ -1,0 +1,34 @@
+{
+    "text": "July 13",
+    "created": "Tue, 13 Jul 2021 12:30:43 GMT",
+    "type": "calendarDay",
+    "name": "13",
+    "subs": [
+        {
+            "text": "Something very scary just happened. There's a bug in \"Drummer\" that it sometimes updates the wrong outline when an <a href=\"https://github.com/scripting/instantOutlines\">I/O</a> update comes in. This can result in <a href=\"http://thesaurus.land/?word=sarcasm\">hilarity</a> when somehow the updates overwrite the file for \"Scripting News\", and it seems there is no backup. It's a bug. And bugs hurt! I looked everywhere and kicked myself virtually for not maintaining a backup of this vital file. Every time I publish there should be a copy preserved. Well, it turns out that <i>was</i> happening. I post the outline to the instantOutlines <a href=\"https://github.com/scripting/instantOutlines/blob/main/outlines/scripting.opml\">repo</a>, and thanks to the power and elegance of GitHub, there's a snapshot of <a href=\"https://github.com/scripting/instantOutlines/commits/main/outlines/scripting.opml\">every update</a>, going back to when I <a href=\"https://github.com/scripting/instantOutlines/commits/main?after=8131158da2d286bb63af971a89c286e1e6f6c217+349&branch=main&path%5B%5D=outlines&path%5B%5D=scripting.opml\">started</a> doing <a href=\"https://github.com/scripting/instantOutlines/commit/845ff95bfb4be0f23decf8293c87bd1265f2e6a3#diff-89806a2beb32ade7fba211d2a60aa14df918ef736850ccfc08a615de0a7bfefc\">this</a> on <a href=\"https://github.com/scripting/instantOutlines/commit/3786362d531109220bafe8f62b9689692f03f92b#diff-89806a2beb32ade7fba211d2a60aa14df918ef736850ccfc08a615de0a7bfefc\">June 17</a>. Catastrophe averted. Whew. And wow GitHub is starting to turn into a very nice network file system. ",
+            "created": "Tue, 13 Jul 2021 13:22:14 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/06/18/orangeCrush.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "We're finding that the \"logseq\" people and I have the same values re software and users. In yesterday's Twitter thread, they asked what would be the <a href=\"https://twitter.com/logseq/status/1414588756389023744\">perfect storage system</a>. I said: \"my answer, for now, is <a href=\"https://www.npmjs.com/package/daveappserver\">daveappserver</a>. But it isn't perfect, it's what we can do now that meets the criteria for now and the near future (the vision, the direction I want to go in). I think we share that. We want users to be as independent as possible, and to empower all levels of technical interest. I don't want the responsibility of keeping the world's ideas online. I want that distributed with rock-solid interop.\" I think that's about as concise a definition of why I do things the way I do them. As I was sure they would, the Logseq folk agreed. ",
+            "created": "Tue, 13 Jul 2021 13:16:09 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The best approach to solving our problems is to spread the gospel of journalism, to everyone who wants to learn. Teach elementary school students. Make a semester of journalism required for all college grads. The model of journalism of the past no longer works. That's why lies are winning, people have no idea of the elements of good journalism.Teach senior citizens how to do good journalism.",
+            "created": "Tue, 13 Jul 2021 12:58:44 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/217\">Brandon Toner</a> is trying to get \"PagePark\" running on his Ubuntu server at Digital Ocean. It seems like he's pretty close, but is stuck on a DNS question. He uses Namecheap, a service I am not familiar with. If you have set up a PagePark server, and have a few minutes could you <a href=\"https://github.com/scripting/Scripting-News/issues/217\">help him out</a>? Thanks. ",
+            "created": "Tue, 13 Jul 2021 12:30:44 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
