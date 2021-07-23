@@ -1,0 +1,88 @@
+{
+    "text": "Tagging in Scripting News",
+    "created": "Thu, 22 Jul 2021 13:56:36 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "There's something new on \"Scripting News\" today -- tags. ",
+            "created": "Thu, 22 Jul 2021 13:54:40 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "When you see a tag reference, click on it to see a list of refs to the same tag. ",
+            "created": "Thu, 22 Jul 2021 14:43:57 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "An example of a tag reference. Click it, see what happens: [[RSS]]. ",
+            "created": "Thu, 22 Jul 2021 14:02:47 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "When you hover over a tag ref, it should turn blue.  ",
+            "created": "Thu, 22 Jul 2021 14:06:04 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "When you click on one you should see a dialog that <a href=\"http://scripting.com/images/2021/07/22/taggingDialog.png\">looks like this</a>. ",
+            "created": "Thu, 22 Jul 2021 14:06:22 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "If the text in the dialog has tags, you can click on them. ",
+            "created": "Thu, 22 Jul 2021 14:07:20 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The left and right arrows move back and forth through the tags you've clicked on like the arrows in a browser.  ",
+            "created": "Thu, 22 Jul 2021 14:07:31 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's how it works:",
+            "created": "Thu, 22 Jul 2021 13:56:58 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "When I'm writing, my CMS passes the OPML of today's writing to a new server app called a <i>tag server</i> that scans for tags. A tag is simply text that's enclosed in &lsqb;[double square brackets]].",
+                    "created": "Thu, 22 Jul 2021 13:56:55 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "When it finds a tag, it adds it to a database, with the following info: the URL of the OPML file it came from, the path to the tag in the outline, the <i>created</i> attribute of the headline it came from in the outline, and the screenname of the author (for now, just me).",
+                    "created": "Thu, 22 Jul 2021 13:59:23 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Now we can do a query, such as: Find me all the items tagged by davewiner with the term RSS.",
+                    "created": "Thu, 22 Jul 2021 14:01:28 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And that query can be displayed in a dialog when you're reading the blog.",
+                    "created": "Thu, 22 Jul 2021 13:58:24 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "A quick <a href=\"https://www.youtube.com/watch?v=FkNWAr6s5K8\">video demo</a>.",
+            "created": "Thu, 22 Jul 2021 14:44:50 GMT",
+            "urlvideo": "https://www.youtube.com/watch?v=FkNWAr6s5K8",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'll have more to say about this, but first I wanted to introduce the feature so you can try it out. ",
+            "created": "Thu, 22 Jul 2021 14:08:03 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you have questions or comments, you can post them <a href=\"https://github.com/scripting/Scripting-News/issues/218\">in this thread</a>. ",
+            "created": "Thu, 22 Jul 2021 14:08:30 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
