@@ -1,0 +1,117 @@
+{
+    "text": "July 22",
+    "created": "Thu, 22 Jul 2021 13:54:39 GMT",
+    "type": "calendarDay",
+    "name": "22",
+    "subs": [
+        {
+            "text": "Now that I can see [[tagging]] in action, I changed how tags are displayed. A tag appears as a single-square-bracketed term, in blue. When you hover over it, it's underlined. This is more consistent with the way links work. And single-square-brackets are less intrusive than double, but still convey the idea that where you're going is different from a normal link. Feedback is <a href=\"https://github.com/scripting/Scripting-News/issues/218\">welcome</a>. I'm also finding bugs in the tag server. Of course, and that's good. ",
+            "created": "Thu, 22 Jul 2021 17:16:55 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/07/21/giannis.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Falling in love with [[Google Reader]] and then giving up on open [[RSS]]-based news after it was cancelled is like falling in love with <a href=\"https://www.youtube.com/watch?v=ZcXpKiY2MXE\">The Monkees</a>, and giving up on music when their show was <a href=\"https://www.quora.com/Why-was-The-Monkees-show-cancelled\">cancelled</a>. Long term the open wholesome tech ecosystem is where the breakthroughs come from. When the users learn to accept that tech companies just harvest these developments, don't manage them or develop them, or care about them, then progress will accelerate, but not until then. The power is strong, but you have to use it.",
+            "created": "Thu, 22 Jul 2021 17:21:10 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Scott Love sent a link to a <a href=\"https://www.theringer.com/2021/7/21/22586870/google-reader-ode-end-of-the-good-internet\">piece</a> that said Google Reader was beautiful, and something huge was lost when they shut it down. Kind of like <a href=\"https://www.youtube.com/watch?v=iX_TFkut1PM\">American Pie</a> about the death of music, and as wrong. As it turns out, since we now <i>know</i> how it turned out, having [[Google]] adopt [[RSS]] was a pretty bad thing for everyone, except maybe Google. The tragedy isn't that Google fucked us over so hard, it's that even now, eight years later, people still haven't figured out that companies don't make wholesome tech, they consume it. Leave it like an Amazon rain forest after harvesting. [[Google Reader]] should have been called Exxon Valdez Reader. The author's attitude toward people who understand this tragedy is to dismiss us as naïve. Which is ridiculous given the premise. It's like saying that we liked the meal but we insisted on it being served it by [[Darth Vader]]. Oh boy he betrayed us! The users have the power, this has always been true, and until now, they have used the power to be idiots.",
+            "created": "Thu, 22 Jul 2021 17:04:23 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2011/07/11/loveRss.gif",
+            "flInCalendar": true
+        },
+        {
+            "text": "Tagging in Scripting News",
+            "created": "Thu, 22 Jul 2021 13:56:36 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "There's something new on \"Scripting News\" today -- tags. ",
+                    "created": "Thu, 22 Jul 2021 13:54:40 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "When you see a tag reference, click on it to see a list of refs to the same tag. ",
+                    "created": "Thu, 22 Jul 2021 14:43:57 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "An example of a tag reference. Click it, see what happens: [[RSS]]. ",
+                    "created": "Thu, 22 Jul 2021 14:02:47 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "When you hover over a tag ref, it should turn blue.  ",
+                    "created": "Thu, 22 Jul 2021 14:06:04 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "When you click on one you should see a dialog that <a href=\"http://scripting.com/images/2021/07/22/taggingDialog.png\">looks like this</a>. ",
+                    "created": "Thu, 22 Jul 2021 14:06:22 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If the text in the dialog has tags, you can click on them. ",
+                    "created": "Thu, 22 Jul 2021 14:07:20 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The left and right arrows move back and forth through the tags you've clicked on like the arrows in a browser.  ",
+                    "created": "Thu, 22 Jul 2021 14:07:31 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's how it works:",
+                    "created": "Thu, 22 Jul 2021 13:56:58 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "When I'm writing, my CMS passes the OPML of today's writing to a new server app called a <i>tag server</i> that scans for tags. A tag is simply text that's enclosed in &lsqb;[double square brackets]].",
+                            "created": "Thu, 22 Jul 2021 13:56:55 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "When it finds a tag, it adds it to a database, with the following info: the URL of the OPML file it came from, the path to the tag in the outline, the <i>created</i> attribute of the headline it came from in the outline, and the screenname of the author (for now, just me).",
+                            "created": "Thu, 22 Jul 2021 13:59:23 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Now we can do a query, such as: Find me all the items tagged by davewiner with the term RSS.",
+                            "created": "Thu, 22 Jul 2021 14:01:28 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "And that query can be displayed in a dialog when you're reading the blog.",
+                            "created": "Thu, 22 Jul 2021 13:58:24 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A quick <a href=\"https://www.youtube.com/watch?v=FkNWAr6s5K8\">video demo</a>.",
+                    "created": "Thu, 22 Jul 2021 14:44:50 GMT",
+                    "urlvideo": "https://www.youtube.com/watch?v=FkNWAr6s5K8",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'll have more to say about this, but first I wanted to introduce the feature so you can try it out. ",
+                    "created": "Thu, 22 Jul 2021 14:08:03 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If you have questions or comments, you can post them <a href=\"https://github.com/scripting/Scripting-News/issues/218\">in this thread</a>. ",
+                    "created": "Thu, 22 Jul 2021 14:08:30 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
