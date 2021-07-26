@@ -1,0 +1,22 @@
+{
+    "text": "July 25",
+    "created": "Sun, 25 Jul 2021 17:26:54 GMT",
+    "type": "calendarDay",
+    "name": "25",
+    "subs": [
+        {
+            "text": "A new [[PagePark]] <a href=\"https://github.com/scripting/pagePark/issues/21#issuecomment-886229200\">feature</a> makes it possible to serve an [[OPML]] file as the home page of a site, even if the file is on another server. ",
+            "created": "Sun, 25 Jul 2021 17:26:55 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/Phil_Lewis_/status/1418676246003818496\">Rand Paul</a>, taking calls from Kentucky voters, is surprised at the passion of the support he's getting. I found it quite illuminating. ",
+            "created": "Sun, 25 Jul 2021 21:06:53 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/Phil_Lewis_/status/1418676246003818496",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
