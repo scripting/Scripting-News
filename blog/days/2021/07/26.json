@@ -1,0 +1,123 @@
+{
+    "text": "July 26",
+    "created": "Mon, 26 Jul 2021 13:50:06 GMT",
+    "type": "calendarDay",
+    "name": "26",
+    "subs": [
+        {
+            "text": "New tagging feature. Click <a href=\"http://scripting.com/?tag=nyt\">here</a> to open the tagref dialog for \"NYT.\" So now I can post tagrefs to Twitter. Heh. ",
+            "created": "Mon, 26 Jul 2021 19:08:36 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Something they don’t teach us in school in <a href=\"https://en.wikipedia.org/wiki/United_States\">my country</a> is that when we <a href=\"https://en.wikipedia.org/wiki/Pledge_of_Allegiance\">pledge</a> allegiance to the <a href=\"http://scripting.com/images/2021/07/26/flag.png\">flag</a> of the United States of America, we are really pledging allegiance to each other. Because that’s all there is, the people. No dear leader, no state church, just us. ",
+            "created": "Mon, 26 Jul 2021 13:50:07 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Listening is hard",
+            "created": "Mon, 26 Jul 2021 17:55:08 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "At [[Living Videotext]], we worked with Data General on the <a href=\"https://en.wikipedia.org/wiki/Data_General-One\">DG/One</a>. A 9-pound battery powered luggable. [[1984]], ran [[MS-DOS]]. It was a real portable, you could use it on a plane, in a restaurant, at a meeting. ",
+                    "created": "Mon, 26 Jul 2021 17:55:21 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It was rolled out in a huge expensive press conf at a Los Gatos winery. Everything the best. Hundreds of people, great party and a great breakthrough product.",
+                    "created": "Mon, 26 Jul 2021 18:01:27 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But you couldn't read the screen.  ",
+                    "created": "Mon, 26 Jul 2021 18:03:33 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And they didn't light the demo room.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So that's all anyone talked about. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "They were really good people, spent a lot of money on the product, and it should have changed the world more than it did. But they had the same problem many product people have, they didn't know how to listen.",
+                    "created": "Mon, 26 Jul 2021 17:56:49 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Listening is hard.",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "My quick reMarkable review",
+            "created": "Mon, 26 Jul 2021 17:18:17 GMT",
+            "type": "outline",
+            "description": "In reMarkable, the path to success is cluttered with lots of tutorials.",
+            "subs": [
+                {
+                    "text": "One of the perks of being on Guy's podcast is you get a <a href=\"https://remarkable.com/\">reMarkable</a> tablet to play with. I tried using it, and sent him an email which he has forwarded to the development team at the company. Here's the email.",
+                    "created": "Mon, 26 Jul 2021 17:18:25 GMT",
+                    "subs": [
+                        {
+                            "text": "I have two physical issues that make it hard for me to use.",
+                            "created": "Mon, 26 Jul 2021 17:20:10 GMT",
+                            "flBulletedSubs": "true",
+                            "subs": [
+                                {
+                                    "text": "My eyesight sucks, and if I'm not mistaken the screen isn't backlit. I was going to keep it near my tv-watching chair, I usually watch the news in the evening, and I thought this would be a good time, but the light isn't good, and as it got darker, I had to give up, I just couldn't read the screen.",
+                                    "created": "Mon, 26 Jul 2021 17:20:14 GMT",
+                                    "flInCalendar": true
+                                },
+                                {
+                                    "text": "My handwriting, which used to be great, is now a pretty slow way for me to record my ideas. Obviously the reason is I've spent the last 40 years using a keyboard all day every day.  ",
+                                    "created": "Mon, 26 Jul 2021 17:20:15 GMT",
+                                    "flInCalendar": true
+                                }
+                            ],
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Now, as a user -- I found your pitch, on the podcast, compelling. It was a very familiar one. ;-)",
+                            "created": "Mon, 26 Jul 2021 17:20:42 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "If I could have quickly found that model, take notes, quickly send it to my desktop somehow, I would overcome the other two problems. ",
+                            "created": "Mon, 26 Jul 2021 17:23:53 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "In [[reMarkable]], the path to success is cluttered with lots of tutorials that show me how to be an expert user, but I haven't become a newbie yet. A lot of software devs do this. They don't set up their product so it quickly hooks you. And therefore it doesn't get hooked.",
+                            "created": "Mon, 26 Jul 2021 17:29:30 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I learned this over years, the hard way, by failing. It started with the first internal release of what became [[ThinkTank]] at the [[Visicalc]] company, which I was part of. No one would use my product. I never did figure out how to get them to do that. But by the time the product got those fabulous reviews in the [[NYT]] and [[Infoworld]], the software did present itself with the minimum info, and clear clues as to how to be successful. ",
+                            "created": "Mon, 26 Jul 2021 17:21:37 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "There are engineering techniques to getting a product set up for new users. It involves making lists of steps, and finding ways to eliminate them one at a time. So when you turn the tablet on, the first thing it presents is a wifi login, then immediately, a box you write in (the prompt makes that obvious), and a big button that says \"send it to me\" where you enter your email address and off you go. Nothing else on the screen, no other \"important\" information. Give me success, and give me something I can repeat, and later when I decide to use it regularly, I can go looking for other things to do. That should be easy too, but at the right time.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "The hardware is good Guy. The pencil has a nice feel. I'm sure inside the software it has all the functionality I just described, but it has to be presented in the right way in the right order.",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
