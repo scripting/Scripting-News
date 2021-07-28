@@ -1,0 +1,61 @@
+{
+    "text": "July 27",
+    "created": "Tue, 27 Jul 2021 13:58:43 GMT",
+    "type": "calendarDay",
+    "name": "27",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=MKuq0rpMvpk\">Writing</a>.",
+            "created": "Tue, 27 Jul 2021 20:44:01 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=MKuq0rpMvpk",
+            "flInCalendar": true
+        },
+        {
+            "text": "Both forms of revenue, advertising and subscriptions, <a href=\"https://www.nytimes.com/2021/07/27/business/media/buzzfeed-vox-media-vice-group-nine-ipo.html\">for news</a>, are unworkable. Take down the paywalls, let me pay per article, then when I'm spending $100 a month, then and only then, offer me a sub, as a way of saving money.",
+            "created": "Tue, 27 Jul 2021 21:30:44 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I recently saw a video of a very early <a href=\"https://en.wikipedia.org/wiki/Pee-wee_Herman\">Pee-wee Herman</a> standup act. I remember the first time I saw him on TV, it was a bit after this, but I couldn't figure out if he was for real or playing a role. That's <a href=\"https://www.youtube.com/watch?v=dBEipABTws8\">how good</a> he was. Too bad he got cancelled for doing a very natural human thing to do, I can't see how anyone was hurt. [[Pee-wee Herman]] is a comedian who gets so intertwined with the role, like <a href=\"https://en.wikipedia.org/wiki/Rowan_Atkinson\">Rowan Atkinson</a> or <a href=\"https://en.wikipedia.org/wiki/Andy_Kaufman\">Andy Kaufman</a>, that you can't really tell if they're for real. We always assumed [[Robin Williams]] was an act too, but it's become apparent that the wild riffing comedian was who he really was, and it was part of the <a href=\"https://en.wikipedia.org/wiki/Lewy_body_dementias\">disease</a> he died from.  ",
+            "created": "Tue, 27 Jul 2021 15:31:55 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/08/23/peeweeHerman.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Extra song, dedicated to Pee-wee: <a href=\"https://www.youtube.com/watch?v=lGIds7cSf3U\">Roy Rogers</a>.",
+            "created": "Tue, 27 Jul 2021 15:31:30 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=K-93jphMpTM",
+            "flInCalendar": true
+        },
+        {
+            "text": "Almost every time I visit YouTube they make me confirm that I don't want a free trial for <a href=\"https://tv.youtube.com/\">YouTube TV</a>. Not too smart. Every time I see it I want to tell them, hey, I tried your service and liked it, and would still be using it if you had Knicks games. They could skip the pitch until they got the Knicks, then I would say yes, maybe -- after giving it some thought. But without local games, forget about it. I'll put up with Spectrum. BTW, YTTV is really superior to Spectrum, whose UI is awkward, even after you've gotten used to it. And they don't have a virtual VCR, which was the nicest thing about YouTube TV. ",
+            "created": "Tue, 27 Jul 2021 14:50:37 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://en.wikipedia.org/wiki/Ulster_County,_New_York\">Where I live</a> some people call city folk \"cityots\" -- not sure I'm spelling it right. It's supposed to be an <a href=\"https://en.wiktionary.org/wiki/amalgam\">amalgam</a> of \"city\" and \"idiot.\" Weird thing, almost everyone who lives here is from the city. It's the <a href=\"https://en.wikipedia.org/wiki/New_York_City\">biggest city</a> in the country, it can't help but exert its influence. ",
+            "created": "Tue, 27 Jul 2021 14:40:09 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/06/03/tinaTheBearNurseFromBojackHorseman.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "That said, some of them <i>are</i> idiots. I was out for a walk in the early days of the pandemic when we didn't know much about social distancing or mask wearing, and a man and woman couple were approaching, taking up more than half the (fairly wide) road we all were walking on, making it difficult to pass them without coming too close. As we passed I remarked that they were taking up a lot of space,. The woman pointed to the man and said \"he's working on a vaccine\" as if (I suppose) to imply he could take up as much of the road as he wanted, was he larger than he appeared? A kind of royalty? I thanked him and said hurry up, and thought to myself what a bunch of assholes. I guess they thought I was a <a href=\"https://www.urbandictionary.com/define.php?term=country%20bumpkin\">country bumpkin</a> and not the tech god I imagine I am. :smile:",
+            "created": "Tue, 27 Jul 2021 14:43:26 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "For serious [[PagePark]] users, it has a <a href=\"https://github.com/scripting/pagePark/tree/master/cli\">command line tool</a>, and can run apps. This work was complete over a year ago but I didn't announce it because I wanted to burn it in for a while. I've been using it on a production server without issue for many months, running lots of apps. You still want to use <a href=\"https://www.npmjs.com/package/forever\">Forever</a> or something like it to be sure that PagePark stays running, but for the apps that PagePark is managing, it takes care of keeping them running. The Forever people made their great app into a Node package, that's what made this possible. I wrote my own command line tool. ",
+            "created": "Tue, 27 Jul 2021 13:58:44 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
