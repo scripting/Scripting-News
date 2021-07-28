@@ -1,0 +1,6 @@
+{
+    "text": "For serious [[PagePark]] users, it has a <a href=\"https://github.com/scripting/pagePark/tree/master/cli\">command line tool</a>, and can run apps. This work was complete over a year ago but I didn't announce it because I wanted to burn it in for a while. I've been using it on a production server without issue for many months, running lots of apps. You still want to use <a href=\"https://www.npmjs.com/package/forever\">Forever</a> or something like it to be sure that PagePark stays running, but for the apps that PagePark is managing, it takes care of keeping them running. The Forever people made their great app into a Node package, that's what made this possible. I wrote my own command line tool. ",
+    "created": "Tue, 27 Jul 2021 13:58:44 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
