@@ -1,0 +1,101 @@
+{
+    "text": "July 29",
+    "created": "Thu, 29 Jul 2021 13:56:50 GMT",
+    "type": "calendarDay",
+    "name": "29",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=ooRX9GB9vTU\">Adrian</a>.",
+            "created": "Thu, 29 Jul 2021 21:16:12 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=ooRX9GB9vTU",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://en.wikipedia.org/wiki/Reds_(film)\">Reds</a> is a fine film, playing on [[HBO]] now. ",
+            "created": "Thu, 29 Jul 2021 21:25:26 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A couple of my sites to check out if you like <a href=\"http://artshow.scripting.com/\">art</a> and/or <a href=\"http://nbariver.com/\">the NBA</a>.",
+            "created": "Thu, 29 Jul 2021 21:33:00 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A <a href=\"https://www.youtube.com/watch?v=S_xlikEjc4A\">video demo</a> of why instant updating in outlines is so important for content management applications. ",
+            "created": "Thu, 29 Jul 2021 14:13:11 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=S_xlikEjc4A",
+            "flInCalendar": true
+        },
+        {
+            "text": "[[Tools for thought]] users hear me. Don't let us get locked in. There's absolutely no need for it. You have the power. This is a pivotal time. Insist on <a href=\"http://scripting.com/2021/07/11.html#a170443\">interop</a>. ",
+            "created": "Thu, 29 Jul 2021 20:47:10 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "It would be cool if you could hire a Trump impersonator to speak at a rally or business conference, and have him say whatever you like. Like the way <a href=\"https://en.wikipedia.org/wiki/Colonel_Sanders#Legacy\">KFC reinvented Colonel Sanders</a>. Or the <a href=\"https://en.wikipedia.org/wiki/Elvis_impersonator\">Elvis impersonators</a> you can hire in Las Vegas. Flood the market with fake Trumps. Think of all the good causes he could support in a Trumpian way. Render him harmless.",
+            "created": "Thu, 29 Jul 2021 20:41:24 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "There's a <a href=\"https://github.com/scripting/pagePark#v0823-72821-by-dw\">new release</a> of [[PagePark]] with the door closed for serving config.json files in domain folders. I asked for comments yesterday, and there weren't any objections. However this is a potential breakage issue, so I wanted to flag it. There is a new config option that lets you re-open the door, either globally or for a specific domain.",
+            "created": "Thu, 29 Jul 2021 13:56:51 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The NYT should've kept McNeil",
+            "created": "Thu, 29 Jul 2021 17:33:30 GMT",
+            "type": "outline",
+            "description": "The NYT mission should be to make the NYT readers the best informed people on the planet. ",
+            "metaImage": "http://scripting.com/images/2021/07/29/earthrise.png",
+            "subs": [
+                {
+                    "text": "Every time I try to listen to a [[Daily podcast]] update on [[Covid]], I realize in a deeper way how the [[NYT]] made the wrong decision when they canned [[Donald McNeil]]. ",
+                    "created": "Thu, 29 Jul 2021 17:34:14 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's the tradeoff.",
+                    "created": "Thu, 29 Jul 2021 17:35:06 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "What he said made NYT staffers angry.",
+                            "created": "Thu, 29 Jul 2021 17:35:01 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "He was providing a continuous perspective on a virus that continues to threaten the human race. He was trusted, for good reason -- he was trust-worthy.",
+                            "created": "Thu, 29 Jul 2021 17:35:02 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So what if the NYT staffers were angry. Maybe being angry is good for them. They are lost. They don't understand that their mission is to do exactly what McNeil was doing. Build trust on vital subject matter. Make the NYT readers the best informed people on the planet. ",
+                    "created": "Thu, 29 Jul 2021 17:35:28 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "As a lifetime NYT subscriber, the right call would have been to fire the staffers and start over with more people like McNeil.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And I wouldn't care if the word he said was insulting to Jews. Please re-watch the [[Carl Sagan]] bit about the <a href=\"https://www.youtube.com/watch?v=wupToqz1e2g\">pale blue dot</a> for a proper sense of perspective. ",
+                    "created": "Thu, 29 Jul 2021 17:37:05 GMT",
+                    "urlvideo": "https://www.youtube.com/watch?v=wupToqz1e2g",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
