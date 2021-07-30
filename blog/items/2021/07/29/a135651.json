@@ -1,0 +1,6 @@
+{
+    "text": "There's a <a href=\"https://github.com/scripting/pagePark#v0823-72821-by-dw\">new release</a> of [[PagePark]] with the door closed for serving config.json files in domain folders. I asked for comments yesterday, and there weren't any objections. However this is a potential breakage issue, so I wanted to flag it. There is a new config option that lets you re-open the door, either globally or for a specific domain.",
+    "created": "Thu, 29 Jul 2021 13:56:51 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
