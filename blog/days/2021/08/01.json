@@ -1,0 +1,61 @@
+{
+    "text": "August 1",
+    "created": "Sun, 01 Aug 2021 15:41:32 GMT",
+    "type": "calendarDay",
+    "name": "01",
+    "subs": [
+        {
+            "text": "\"Drummer\" is coming along nicely. There's a small test group, that includes a couple of old friends who are experienced software developers. The focus in the first part of this process is [[Drummer]] as a programming environment. I don't want distractions from that at first, because I remember how important it is to review and re-review everything about a platform like this before trying to make it work for users. Programmers at this stage will understand breakage  more than others. I'm doing what I've been doing for the last four--plus years, developing for myself, following my wants and intuition, not letting it be driven by others. Ouija boards yield a certain kind of software, the world is filled with it. You can only get so far if you have to reach consensus. I'm driving towards a place I've been before. And I know I'm doing it. :smile:",
+            "created": "Sun, 01 Aug 2021 18:25:06 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/12/24/drummer.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Something about [[tagging]] has been bugging me and I think I just figured it out. Suppose you have a topic that's starting to develop, and you want to hijack its links to redirect to a page that includes more information than just a scrolling list of references. Well I have <a href=\"http://scripting.com/2021/06/24/150234.html?title=theGlossaryInLittleOutliner\">the glossary</a> for that, I just realized. I can override what double-square brackets means for a certain term, have it link to a page which also has a list of the references. Boom and bing. Do they have these overrides at \"logseq\" and other [[tools for thought]] products?",
+            "created": "Sun, 01 Aug 2021 18:31:06 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I watched <a href=\"https://en.wikipedia.org/wiki/The_Color_Purple_(film)\">The Color Purple</a> on HBO last night. I'm looking for ways to learn what black people say about the black experience in America through history. It was a weird choice, because, even though the actors are black, it was a <a href=\"https://en.wikipedia.org/wiki/Steven_Spielberg_filmography\">Steven Spielberg movie</a>, like ET or Jaws. Always upbeat, even when a husband is raping his sister-in-law. The weirdest thing to have Indiana Jones type music playing while Oprah Winfrey is being beaten by a mob of white men. So bizarre. But I loved all the actors, esp of course Whoopi Goldberg, and there was at times a bit of suspension of disbelief, but the Spielbergishness of the movie was very awkard. ",
+            "created": "Sun, 01 Aug 2021 16:49:00 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/08/01/purpleFlowers.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "The <a href=\"http://scripting.com/2020/06/23/115824.html?title=anEzpassForNews\">E-ZPass for News</a> idea is <a href=\"https://twitter.com/KristyT/status/1421204761177518080\">out there</a>. ",
+            "created": "Sun, 01 Aug 2021 15:44:17 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1421859236842250241\">Someone</a> should write a book about the lost software ideas of the 70s and 80s. There's a lot of reinventing going on. Layers of reinvention. It'd be great if there was one book earnest devs could read, ones who want to build on what was learned in the past. ",
+            "created": "Sun, 01 Aug 2021 15:43:39 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1421859236842250241",
+            "flInCalendar": true
+        },
+        {
+            "text": "I usually do my bike rides in the afternoon, but today I knew the park would be really crowded, I live in a place where people go to get away in the summer, so I went first thing in the morning. What they say is true, the exercise powers you through the day. It's now mid-afternoon and I'm still feeling the strength in my body from the workout. I think I may reorient my day. ",
+            "created": "Sun, 01 Aug 2021 18:23:46 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A number of years ago I wrote about the importance of <a href=\"http://scripting.com/davenet/1999/03/27/submission.html\">submission</a>. No point fighting some things. I also was learning at the time that there is nothing you think of, that has to do with values, that isn't projection. Science is different, using your senses and intellect to draw inferences. But opinions and values, is just you broadcasting everything you feel to everyone in the world. But really it's an audience of one, you. Combine the two, and years later I realize that submission to yourself must come before submission to another. Give up the struggles between who you feel you should be and who you actually are. If you submit to yourself, you can stop worrying about that. :smile:",
+            "created": "Sun, 01 Aug 2021 16:41:41 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/12/22/oneFlewOver.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "The monthly ritual is complete. Here's the <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/opml/2021/07.opml\">OPML for July 2021</a>. And just for fun, I <a href=\"http://scripting.com/publicfolder/misc/scriptingNewsArchiveInOpmlFromMay2017.zip\">zipped up</a> an archive going back to May 2017, when I deployed my \"new\" content management system. It's all a matter of perspective I guess. 2017 seems to me like a short time ago, but then a lot has happened in the interim. Some of it is in the contents of the blog. I think some interesting apps could be built using this archive as a seed. So far there haven't been any takers that I know of, but I think we may be getting close with all the [[tools for thought]] activity. ",
+            "created": "Sun, 01 Aug 2021 15:41:33 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
