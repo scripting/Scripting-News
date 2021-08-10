@@ -1,0 +1,28 @@
+{
+    "text": "August 9",
+    "created": "Mon, 09 Aug 2021 14:46:43 GMT",
+    "type": "calendarDay",
+    "name": "09",
+    "subs": [
+        {
+            "text": "Is there a theory on why <a href=\"https://www.politico.com/news/2021/08/08/biden-infrastructure-bill-senate-502785\">the Repubs</a> are going along with Biden's infrastructure bill? I've heard that it's their way to break away from Trump. Also thought it might be a trap, to push forward the date when they deficit ceiling has to be raised? Very odd.",
+            "created": "Mon, 09 Aug 2021 15:42:53 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I loved everything about Alice Walker's narration of <a href=\"https://www.audible.com/pd/The-Color-Purple-Audiobook/B07LCV3R2F?ref=a_library_t_c5_libItem_&pf_rd_p=80765e81-b10a-4f33-b1d3-ffb87793d047&pf_rd_r=ZQPG218HEYYMHVWY2V03\">The Color Purple</a>. It's a beautiful story, and Walker has such a beautiful voice, oddly I find myself narrating my own story in my head in her voice. The book is in the form of letters between two sisters, who lead very different intertwined lives starting in the early 20th century. This has been so far a year where I have let black authors speak to me of the black perspective on life in America. I'm going to continue this exploration. ",
+            "created": "Mon, 09 Aug 2021 15:31:07 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"http://scripting.com/98/04/stories/simpleCrossNetworkScript.html\">Back in 1998</a>, we were getting ready to simplify scripting of apps that ran on other nodes on the net. I felt there was no reason function calls should be more complicated than they need to be, just because the function was on a server. Spoiler alert, we did implement this in \"Frontier\" and it was wonderful. Now the question is -- can we implement it in JavaScript, or will it require a pre-preprocessor, which is an option in \"Drummer\" since we have a very thin pre-processor. I opened a thread for discussion <a href=\"https://github.com/scripting/Scripting-News/issues/219\">here</a>. ",
+            "created": "Mon, 09 Aug 2021 14:46:44 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/09/10/drummer.png",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
