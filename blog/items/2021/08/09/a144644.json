@@ -1,0 +1,7 @@
+{
+    "text": "<a href=\"http://scripting.com/98/04/stories/simpleCrossNetworkScript.html\">Back in 1998</a>, we were getting ready to simplify scripting of apps that ran on other nodes on the net. I felt there was no reason function calls should be more complicated than they need to be, just because the function was on a server. Spoiler alert, we did implement this in \"Frontier\" and it was wonderful. Now the question is -- can we implement it in JavaScript, or will it require a pre-preprocessor, which is an option in \"Drummer\" since we have a very thin pre-processor. I opened a thread for discussion <a href=\"https://github.com/scripting/Scripting-News/issues/219\">here</a>. ",
+    "created": "Mon, 09 Aug 2021 14:46:44 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2019/09/10/drummer.png",
+    "flInCalendar": true
+}
