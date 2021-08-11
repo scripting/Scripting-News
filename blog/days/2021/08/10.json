@@ -1,0 +1,36 @@
+{
+    "text": "August 10",
+    "created": "Tue, 10 Aug 2021 14:19:04 GMT",
+    "type": "calendarDay",
+    "name": "10",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/kidney_boy/status/1425210653376196611\">First hints</a> that the whole medical system is about to melt down. Actually the whole <i>everything</i> system.",
+            "created": "Tue, 10 Aug 2021 21:55:09 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"http://scripting.com/2021/08/10/timeToAppealToTheFear.m4a\">3-minute podcast</a>. Maybe enough  with the pleading for people to get vaccinated. The fear of getting sick is building, dig in on that. You do have something to fear. This thing is trying to kill you. Don't be a fool. ",
+            "created": "Tue, 10 Aug 2021 16:53:32 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2021/08/10/timeToAppealToTheFear.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "1564032",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've been reading books this year by black cultural figures. Really informative, perspective <a href=\"http://mindbomb.org/\">exploding</a> stuff. Some great writing, like Alice Walker. And she narrates so beautifully. An interesting side-effect is that I embrace my <a href=\"https://twitter.com/davewiner/status/1425130084038545408\">own cultural heritage</a> with more confidence. ",
+            "created": "Tue, 10 Aug 2021 16:22:59 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I need to create an S3 bucket that's publicly accessible over the web, so serve web content. I used to do this routinely, but not recently. They've changed it enough that I can't figure out how to do it.  BTW, I found a current tutorial and filled in the missing bit, and now my bucket is happily serving over the web.",
+            "created": "Tue, 10 Aug 2021 14:19:05 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
