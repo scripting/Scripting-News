@@ -1,0 +1,7 @@
+{
+    "text": "<a href=\"https://www.hover.com/\">Hover</a>, my primary registrar, <a href=\"http://scripting.com/2019/12/16/170209.html?title=theyCanMap\">did something important right</a>. You could use a CNAME for any name, including the top level of a domain. It's so rational, I don't understand why all DNS service providers don't allow it. Except now it no longer appears to work on Hover. I'm trying to set up opml.org to be CNAME for pagepark.scripting.com. I don't want to hard-code it to a specific server IP address. The whole idea of having a name like <a href=\"http://pagepark.scripting.com/\">pagepark.scripting.com</a> is so that I can easily relocate it to new hardware someday without having to find all the places that have its IP address hard-coded. Here's a <a href=\"http://scripting.com/images/2021/08/15/hoverScreenShot.png\">screen shot</a> of what it says when I try to do that now. It appears to be a user interface thing only, the domains I set up previously using this feature still appear to work. If you have an idea what's going on, please post a note <a href=\"https://github.com/scripting/Scripting-News/issues/220\">here</a>. ",
+    "created": "Sun, 15 Aug 2021 14:00:54 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2019/12/16/excellence.png",
+    "flInCalendar": true
+}
