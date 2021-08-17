@@ -1,0 +1,195 @@
+{
+    "text": "August 16",
+    "created": "Mon, 16 Aug 2021 12:45:11 GMT",
+    "type": "calendarDay",
+    "name": "16",
+    "subs": [
+        {
+            "text": "Imagine if we used the <a href=\"https://www.nytimes.com/interactive/2019/12/09/world/middleeast/afghanistan-war-cost.html\">money</a> we wasted in Afghanistan to overhaul the healthcare system in the United States.",
+            "created": "Tue, 17 Aug 2021 02:00:11 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Trumping on Twitter",
+            "created": "Mon, 16 Aug 2021 15:06:29 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Someone I follow on Twitter complained that people thought just because he was a VC he wasn't allowed to have opinions. So I decided to take a look at what his opinion was.",
+                    "created": "Mon, 16 Aug 2021 15:06:53 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This is what I wrote to him. ",
+                    "subs": [
+                        {
+                            "text": "\"I think you should have opinions, but trump watched tv all day, and sold us out any chance he got. He’s a fucking Nazi. When he lost the election he tried to overthrow the government. That’s what you support? I didn’t block you yet, but I did unfollow.\"",
+                            "created": "Mon, 16 Aug 2021 15:07:13 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I don't see him as a troll. I think there are VCs in Calif who have a very limited set of people they talk with, and they actually fit into Trump's target. Even though they;'re hugely rich, young, healthy, super super privileged, they really feel misunderstood and victimized. It's real. They really feel it. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So it was worth one shake of the shoulders. Hey this isn't a good look.",
+                    "created": "Mon, 16 Aug 2021 15:07:19 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Undoing the opml.org redirect mess",
+            "created": "Mon, 16 Aug 2021 13:10:02 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Yesterday I wrote a <a href=\"http://scripting.com/2021/08/15.html#a210111\">post</a> about the mess that opml.org has become, and how I want to start fresh with a well-organized site that points to all the resources available to devs working with OPML, and has lots of room for more. ",
+                    "created": "Mon, 16 Aug 2021 13:10:21 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Today I want to try to unwind one part of the mess.",
+                    "created": "Mon, 16 Aug 2021 13:11:07 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's the situation.",
+                    "created": "Mon, 16 Aug 2021 13:11:18 GMT",
+                    "subs": [
+                        {
+                            "text": "opml.org's DNS is at hover.com.",
+                            "created": "Mon, 16 Aug 2021 13:11:56 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I've set up the root, <a href=\"http://opml.org/\">opml.org</a> itself, as an A record pointing to 142.93.4.110. This server is where I host all my simple PagePark sites, ones that consist of static pages, and config.json settings. ",
+                            "created": "Mon, 16 Aug 2021 13:12:06 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "When I try to go to opml.org, I am redirected to dev.opml.org. ",
+                            "created": "Mon, 16 Aug 2021 13:16:13 GMT",
+                            "subs": [
+                                {
+                                    "text": "Why? Until recently opml.org was a bucket on S3, set up to redirect to <a href=\"http://dev.opml.org/\">dev.opml.org</a>.",
+                                    "created": "Mon, 16 Aug 2021 13:17:09 GMT",
+                                    "flInCalendar": true
+                                },
+                                {
+                                    "text": "I'm guessing they used a 301 permanent redirect, which causes my browser to cache the redirect. It doesn't bother making a DNS request for opml.org, because (guessing) the redirect was permanent. ",
+                                    "created": "Mon, 16 Aug 2021 13:17:23 GMT",
+                                    "flInCalendar": true
+                                }
+                            ],
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "So that's where I am this morning. I want to get opml.org unstuck, and able to be its own site, not to redirect to dev.opml.org, which I'd very much like to retire (and in doing so probably redirecting in the other direction to opml.org).",
+                            "created": "Mon, 16 Aug 2021 13:18:38 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A <a href=\"https://youtu.be/EeiLcLTisBQ\">video demo</a> of the problem I hope to solve today.",
+                    "created": "Mon, 16 Aug 2021 14:04:08 GMT",
+                    "urlvideo": "https://www.youtube.com/watch?v=EeiLcLTisBQ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'm going to try various things and <a href=\"https://github.com/scripting/Scripting-News/issues/221\">put notes here</a>.",
+                    "created": "Mon, 16 Aug 2021 13:21:55 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Followup -- we fixed it. Thanks for all the help...",
+                    "created": "Tue, 17 Aug 2021 02:00:26 GMT",
+                    "subs": [
+                        {
+                            "text": "Brent Ashley had exactly the <a href=\"https://twitter.com/brentashley/status/1427290535480463361\">advice</a> I <a href=\"https://twitter.com/davewiner/status/1427293487410696195\">needed</a>. opml.org problem solved everywhere. I can start with a <a href=\"http://scripting.com/images/2021/08/16/solved.png\">fresh slate</a>. Excellent. ",
+                            "created": "Mon, 16 Aug 2021 15:38:12 GMT",
+                            "type": "outline",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "The problem re opml.org, below, has <a href=\"https://github.com/scripting/Scripting-News/issues/221#issuecomment-899563687\">narrowed</a> quite a bit. ",
+                            "created": "Mon, 16 Aug 2021 14:39:16 GMT",
+                            "type": "outline",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "<a href=\"https://twitter.com/davewiner/status/1427273264485781511\">Poll</a>: What do you get when you go to opml.org?",
+                            "created": "Mon, 16 Aug 2021 14:18:06 GMT",
+                            "type": "outline",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Comments on Afghanistan",
+            "created": "Mon, 16 Aug 2021 12:52:12 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I grew up in the time of the Vietnam War. I was draft age, had a low lottery number, no exemptions, and was flunking out of high school, so the prospect of being drafted was pretty real. ",
+                    "created": "Mon, 16 Aug 2021 12:45:12 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "One thing I was absolutely sure of was that none of the people who were draft age in that time would start another war like Vietnam, but then <a href=\"https://en.wikipedia.org/wiki/George_W._Bush\">one of them</a> did. ",
+                    "created": "Mon, 16 Aug 2021 12:52:44 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It became a debacle just like Vietnam. But with a few differences. No draft and no body bags. And far fewer American casualties. ",
+                    "created": "Mon, 16 Aug 2021 12:52:51 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The idea of the US converting a country we know nothing about and don't want to know anything about into a country modeled after the US is just as wrong today as it was in the 60s and 70s. ",
+                    "created": "Mon, 16 Aug 2021 12:53:15 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And <a href=\"https://en.wikipedia.org/wiki/Lyndon_B._Johnson\">LBJ</a>, who did so much for civil rights, also was brought down by <a href=\"https://en.wikipedia.org/wiki/Lyndon_B._Johnson#Vietnam_War\">Vietnam</a>. ",
+                    "created": "Mon, 16 Aug 2021 12:53:20 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Lots of parallels. Another one is that journalism is completely fucking up the story, telling bedtime stories about what the US could do, and how events developed, and getting the story completely wrong. I'm no expert, but I've read enough to know that there was a deal between the US and the Taliban that did not include the Afghan government, where the US committed to leave in 2020, and the Taliban agreed to not attack us as we left. Had we decided to stay, breaking that deal, we would have committed to a full scale war with the Taliban. There was no middle alternative between leaving and war. Whether or not this was wise is something you have to ask former president Trump. He desperately wanted to get out of Afghanistan and was willing to give up everything to get it. But even that much he couldn't pull off. ",
+                    "created": "Mon, 16 Aug 2021 12:53:30 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Fact: once we went in, there was no graceful way out. Give Biden credit for being willing to take the hit to get us out, finally, after Bush, Obama and Trump kicked the can down the road to the next administration. ",
+                    "created": "Mon, 16 Aug 2021 12:54:34 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Of all the things you can read today, I recommend this <a href=\"https://laurajedeed.medium.com/afghanistan-meant-nothing-9e3f099b00e5\">piece</a>, written by an Afghanistan vet. It rings true. ",
+                    "created": "Mon, 16 Aug 2021 12:54:54 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Also Heather Cox Richardson's <a href=\"https://heathercoxrichardson.substack.com/p/august-15-2021\">summary</a> is as usual excellent. ",
+                    "created": "Mon, 16 Aug 2021 13:05:02 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
