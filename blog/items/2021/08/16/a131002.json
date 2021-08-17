@@ -1,0 +1,93 @@
+{
+    "text": "Undoing the opml.org redirect mess",
+    "created": "Mon, 16 Aug 2021 13:10:02 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Yesterday I wrote a <a href=\"http://scripting.com/2021/08/15.html#a210111\">post</a> about the mess that opml.org has become, and how I want to start fresh with a well-organized site that points to all the resources available to devs working with OPML, and has lots of room for more. ",
+            "created": "Mon, 16 Aug 2021 13:10:21 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Today I want to try to unwind one part of the mess.",
+            "created": "Mon, 16 Aug 2021 13:11:07 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's the situation.",
+            "created": "Mon, 16 Aug 2021 13:11:18 GMT",
+            "subs": [
+                {
+                    "text": "opml.org's DNS is at hover.com.",
+                    "created": "Mon, 16 Aug 2021 13:11:56 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I've set up the root, <a href=\"http://opml.org/\">opml.org</a> itself, as an A record pointing to 142.93.4.110. This server is where I host all my simple PagePark sites, ones that consist of static pages, and config.json settings. ",
+                    "created": "Mon, 16 Aug 2021 13:12:06 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "When I try to go to opml.org, I am redirected to dev.opml.org. ",
+                    "created": "Mon, 16 Aug 2021 13:16:13 GMT",
+                    "subs": [
+                        {
+                            "text": "Why? Until recently opml.org was a bucket on S3, set up to redirect to <a href=\"http://dev.opml.org/\">dev.opml.org</a>.",
+                            "created": "Mon, 16 Aug 2021 13:17:09 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I'm guessing they used a 301 permanent redirect, which causes my browser to cache the redirect. It doesn't bother making a DNS request for opml.org, because (guessing) the redirect was permanent. ",
+                            "created": "Mon, 16 Aug 2021 13:17:23 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So that's where I am this morning. I want to get opml.org unstuck, and able to be its own site, not to redirect to dev.opml.org, which I'd very much like to retire (and in doing so probably redirecting in the other direction to opml.org).",
+                    "created": "Mon, 16 Aug 2021 13:18:38 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "A <a href=\"https://youtu.be/EeiLcLTisBQ\">video demo</a> of the problem I hope to solve today.",
+            "created": "Mon, 16 Aug 2021 14:04:08 GMT",
+            "urlvideo": "https://www.youtube.com/watch?v=EeiLcLTisBQ",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm going to try various things and <a href=\"https://github.com/scripting/Scripting-News/issues/221\">put notes here</a>.",
+            "created": "Mon, 16 Aug 2021 13:21:55 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Followup -- we fixed it. Thanks for all the help...",
+            "created": "Tue, 17 Aug 2021 02:00:26 GMT",
+            "subs": [
+                {
+                    "text": "Brent Ashley had exactly the <a href=\"https://twitter.com/brentashley/status/1427290535480463361\">advice</a> I <a href=\"https://twitter.com/davewiner/status/1427293487410696195\">needed</a>. opml.org problem solved everywhere. I can start with a <a href=\"http://scripting.com/images/2021/08/16/solved.png\">fresh slate</a>. Excellent. ",
+                    "created": "Mon, 16 Aug 2021 15:38:12 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The problem re opml.org, below, has <a href=\"https://github.com/scripting/Scripting-News/issues/221#issuecomment-899563687\">narrowed</a> quite a bit. ",
+                    "created": "Mon, 16 Aug 2021 14:39:16 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://twitter.com/davewiner/status/1427273264485781511\">Poll</a>: What do you get when you go to opml.org?",
+                    "created": "Mon, 16 Aug 2021 14:18:06 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
