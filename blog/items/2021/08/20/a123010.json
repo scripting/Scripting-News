@@ -1,0 +1,60 @@
+{
+    "text": "opml.org",
+    "created": "Fri, 20 Aug 2021 12:30:10 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Finished restoration of the <a href=\"http://opml.org/\">main OPML site</a>.",
+            "created": "Fri, 20 Aug 2021 13:36:22 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Preserved the old site, and linked to it from the new one. ",
+            "created": "Fri, 20 Aug 2021 13:32:50 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here are the URLs.",
+            "created": "Fri, 20 Aug 2021 13:33:28 GMT",
+            "subs": [
+                {
+                    "text": "<a href=\"http://opml.org/\">opml.org</a> -- the spec, examples, links to source code, in the future a directory of apps.",
+                    "created": "Fri, 20 Aug 2021 13:33:31 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"http://dev.opml.org/\">dev.opml.org</a> -- the previous site, dating back to 2005, now redirects to opml.org.",
+                    "created": "Fri, 20 Aug 2021 13:34:08 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"http://2005.opml.org/\">2005.opml.org</a> -- the preserved version of the previous site. ",
+                    "created": "Fri, 20 Aug 2021 13:34:26 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"http://2021.opml.org/\">2021.opml.org</a> -- notes on the work just done.",
+                    "created": "Fri, 20 Aug 2021 13:34:39 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Interesting -- a <a href=\"http://opml.org/history/devOpmlOrSiteOutline.opml\">list of all the pages</a> on the previous site. ",
+            "created": "Fri, 20 Aug 2021 13:46:26 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Questions/comments, post <a href=\"https://github.com/scripting/opml.org/issues/1\">here</a>. (Note that's a public place.)",
+            "created": "Fri, 20 Aug 2021 13:40:43 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Now back to the <a href=\"https://github.com/scripting/drummerTesting\">Drummer</a> release. 😀",
+            "created": "Fri, 20 Aug 2021 13:35:03 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
