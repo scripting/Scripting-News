@@ -1,0 +1,122 @@
+{
+    "text": "August 20",
+    "created": "Fri, 20 Aug 2021 12:42:15 GMT",
+    "type": "calendarDay",
+    "name": "20",
+    "subs": [
+        {
+            "text": "No one cares what you think. ",
+            "created": "Fri, 20 Aug 2021 22:22:13 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "When you start a war, you better be prepared to win it. If you can't win, getting out is going to be ugly, no matter what. Because US journalism is pretending there's another way to get out, they make it necessary for the US to bend over and make more concessions to the Taliban",
+            "created": "Fri, 20 Aug 2021 22:20:08 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/08/20/giJoe.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "You know where [[Twitter]] asks \"What's happening?\" <a href=\"http://scripting.com/images/2021/08/20/noOneCaresWhatYouThink.png\">This might work better</a>. It's in the spirit of the <a href=\"https://www.youtube.com/watch?v=dTGfLObZYfU\">Progressive commercials</a> where they teach people not to be their parents. \"The waiter does not need to know your name.\" Yet there are exceptions. There are a few people who write on Facebook who, when they write, I always stop and read. Because they have a track record of finding interesting things for me to think about. They write well too.",
+            "created": "Fri, 20 Aug 2021 14:15:20 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A new feature in PagePark (<a href=\"https://github.com/scripting/pagePark#v0824-81721-by-dw\">v0.8.24</a>) made it possible to use a custom template for <a href=\"http://opml.org/\">opml.org</a>. I wanted to put a menu at the top of the page, linking to other outlines on the site. ",
+            "created": "Fri, 20 Aug 2021 14:05:03 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "opml.org",
+            "created": "Fri, 20 Aug 2021 12:30:10 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Finished restoration of the <a href=\"http://opml.org/\">main OPML site</a>.",
+                    "created": "Fri, 20 Aug 2021 13:36:22 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Preserved the old site, and linked to it from the new one. ",
+                    "created": "Fri, 20 Aug 2021 13:32:50 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here are the URLs.",
+                    "created": "Fri, 20 Aug 2021 13:33:28 GMT",
+                    "subs": [
+                        {
+                            "text": "<a href=\"http://opml.org/\">opml.org</a> -- the spec, examples, links to source code, in the future a directory of apps.",
+                            "created": "Fri, 20 Aug 2021 13:33:31 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "<a href=\"http://dev.opml.org/\">dev.opml.org</a> -- the previous site, dating back to 2005, now redirects to opml.org.",
+                            "created": "Fri, 20 Aug 2021 13:34:08 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "<a href=\"http://2005.opml.org/\">2005.opml.org</a> -- the preserved version of the previous site. ",
+                            "created": "Fri, 20 Aug 2021 13:34:26 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "<a href=\"http://2021.opml.org/\">2021.opml.org</a> -- notes on the work just done.",
+                            "created": "Fri, 20 Aug 2021 13:34:39 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Interesting -- a <a href=\"http://opml.org/history/devOpmlOrSiteOutline.opml\">list of all the pages</a> on the previous site. ",
+                    "created": "Fri, 20 Aug 2021 13:46:26 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Questions/comments, post <a href=\"https://github.com/scripting/opml.org/issues/1\">here</a>. (Note that's a public place.)",
+                    "created": "Fri, 20 Aug 2021 13:40:43 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Now back to the <a href=\"https://github.com/scripting/drummerTesting\">Drummer</a> release. 😀",
+                    "created": "Fri, 20 Aug 2021 13:35:03 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Catching up on the news",
+            "created": "Fri, 20 Aug 2021 14:59:32 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I caught up on the news last night, and was surprised to hear that somehow what's going on in Afghanistan is dooming the Biden presidency.",
+                    "created": "Fri, 20 Aug 2021 14:59:37 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And the reporters, esp Wolf Blitzer, are spinning it that way through the words they use to characterize events. And as a result, everyone has to tiptoe in this space. It's a dangerous time. The whole thing could explode at any time. Beating the drum for war, as they are, is a crazy crazy thing to do, as destructive as invading the Capitol on January 6.",
+                    "created": "Fri, 20 Aug 2021 14:59:56 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If they felt so strongly about Afghanistan (they didn't) why didn't they say something before? They had 20 years to speak up. No one ever did. Better to leave it to fester. Let's live this lie, everyone seemed to agree. Now all of a sudden, Afghanistan is more important as everything else.  ",
+                    "created": "Fri, 20 Aug 2021 15:00:57 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's the thing, this all is fake news. It's worse than the lies on Facebook because they use brands like CNN and the NYT to lie this way.",
+                    "created": "Fri, 20 Aug 2021 15:01:49 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
