@@ -1,0 +1,32 @@
+{
+    "text": "Tree charts and outliners",
+    "created": "Thu, 26 Aug 2021 01:06:54 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "A \"Tree Chart\" in \"MORE\", circa 1987. ",
+            "created": "Thu, 26 Aug 2021 01:06:57 GMT",
+            "inlineImage": "http://scripting.com/images/2021/08/25/treeChartMore.png",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "Organize the data in the outliner, flip a switch, see the graphic. ",
+                    "created": "Thu, 26 Aug 2021 01:09:15 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Today you wouldn't have to do flip a switch, there's enough CPU power to automatically update the graphic view from the outline editor view as you made editing changes. ",
+                    "created": "Thu, 26 Aug 2021 01:11:00 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'd love to hook up \"Drummer\" to someone else's Tree Chart renderer. It would accept \"OPML\" as input, of course. ",
+                    "created": "Thu, 26 Aug 2021 01:08:37 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
