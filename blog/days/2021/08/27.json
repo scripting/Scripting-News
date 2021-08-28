@@ -1,0 +1,68 @@
+{
+    "text": "August 27",
+    "created": "Fri, 27 Aug 2021 12:56:55 GMT",
+    "type": "calendarDay",
+    "name": "27",
+    "subs": [
+        {
+            "text": "There's a CNN commercial where a white guy in a suit, probably an actor, is talking to the camera. He says (paraphrasing): \"The NRA is not going away. Every American should have a gun.\" I wanted to ask if he felt that every Black man should have a gun, or just Whites. What about religion? Should Jews and Muslims have guns too? Should only rich people have guns, or should poor people have them too? If a Black man came to your all-White neighborhood would you like to see him with a gun? Would you call the cops if a Black man came into a convenience store with a gun? I suspect he was thinking, when he said every American should have a gun, of Americans like himself. ",
+            "created": "Fri, 27 Aug 2021 12:56:56 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/08/27/businessmanWithAGun.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "API for newsletter publishing",
+            "created": "Fri, 27 Aug 2021 13:11:37 GMT",
+            "type": "outline",
+            "description": "I want to use my own editor to write a newsletter and publish it through a commercial newsletter service.",
+            "subs": [
+                {
+                    "text": "I keep beating <a href=\"http://scripting.com/2021/08/24.html#a211637\">this</a> <a href=\"http://scripting.com/2021/04/02/153208.html?title=aProposalForNewsletterTools\">drum</a>, because it's important. ",
+                    "created": "Fri, 27 Aug 2021 13:11:50 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This morning <a href=\"https://twitter.com/thej/status/1431230072103440389\">Thejesh posted</a> a link to <a href=\"https://api.buttondown.email/v1/schema\">Buttondown's API</a>. I like it -- it's really simple. But it could be even simpler! :smile:",
+                    "created": "Fri, 27 Aug 2021 13:17:35 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "First a summary of why this is important. I want to use my own editor to write a newsletter and publish it through a commercial newsletter service. I don't want to use their editor. Why? Because as a writer, I have the best editor for me. And I don't like being a copy-paste-bot. My writing has too many ways to get out to make it possible to do that for all of them. And I want someone to go first, to make it easy to publish without forcing me to be creative in their world, with their inadequate (for me) editor.",
+                    "created": "Fri, 27 Aug 2021 13:12:01 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So to further the discussion -- here's how I would do the API .",
+                    "created": "Fri, 27 Aug 2021 13:13:30 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "The user, through the app's user interface, enters the URL of an RSS feed. That interaction is of course authenticated.",
+                            "created": "Fri, 27 Aug 2021 13:14:08 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "When a new item appears in the feed, publish it.",
+                            "created": "Fri, 27 Aug 2021 13:14:14 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "For extra credit, accept a simple unauthenticed ping message with the username, which tells your server to check the feed. That way your server doesn't have to check as often.",
+                            "created": "Fri, 27 Aug 2021 13:14:23 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Voila, super simple API.",
+                    "created": "Fri, 27 Aug 2021 13:14:18 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
