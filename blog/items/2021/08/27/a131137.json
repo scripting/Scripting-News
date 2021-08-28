@@ -1,0 +1,52 @@
+{
+    "text": "API for newsletter publishing",
+    "created": "Fri, 27 Aug 2021 13:11:37 GMT",
+    "type": "outline",
+    "description": "I want to use my own editor to write a newsletter and publish it through a commercial newsletter service.",
+    "subs": [
+        {
+            "text": "I keep beating <a href=\"http://scripting.com/2021/08/24.html#a211637\">this</a> <a href=\"http://scripting.com/2021/04/02/153208.html?title=aProposalForNewsletterTools\">drum</a>, because it's important. ",
+            "created": "Fri, 27 Aug 2021 13:11:50 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "This morning <a href=\"https://twitter.com/thej/status/1431230072103440389\">Thejesh posted</a> a link to <a href=\"https://api.buttondown.email/v1/schema\">Buttondown's API</a>. I like it -- it's really simple. But it could be even simpler! :smile:",
+            "created": "Fri, 27 Aug 2021 13:17:35 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "First a summary of why this is important. I want to use my own editor to write a newsletter and publish it through a commercial newsletter service. I don't want to use their editor. Why? Because as a writer, I have the best editor for me. And I don't like being a copy-paste-bot. My writing has too many ways to get out to make it possible to do that for all of them. And I want someone to go first, to make it easy to publish without forcing me to be creative in their world, with their inadequate (for me) editor.",
+            "created": "Fri, 27 Aug 2021 13:12:01 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "So to further the discussion -- here's how I would do the API .",
+            "created": "Fri, 27 Aug 2021 13:13:30 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "The user, through the app's user interface, enters the URL of an RSS feed. That interaction is of course authenticated.",
+                    "created": "Fri, 27 Aug 2021 13:14:08 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "When a new item appears in the feed, publish it.",
+                    "created": "Fri, 27 Aug 2021 13:14:14 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "For extra credit, accept a simple unauthenticed ping message with the username, which tells your server to check the feed. That way your server doesn't have to check as often.",
+                    "created": "Fri, 27 Aug 2021 13:14:23 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Voila, super simple API.",
+            "created": "Fri, 27 Aug 2021 13:14:18 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
