@@ -1,0 +1,50 @@
+{
+    "text": "August 29",
+    "created": "Sun, 29 Aug 2021 13:06:44 GMT",
+    "type": "calendarDay",
+    "name": "29",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1431959907927040001\">An idea</a> for the news industry to collaborate on. Sometimes a news org takes down the paywall on a story because it's important that everyone see it. Make an RSS feed that combines all such stories across all pubs. Make spreading the news even more efficient.",
+            "created": "Sun, 29 Aug 2021 13:06:45 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1431959907927040001",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://gist.github.com/scripting/35cadce5f0a19a26b62a2732cdea4622\">Local file-chooser dialog in HTML and JavaScript</a>. This app opens a text file on the local computer and displays the file text in the JavaScript console. I couldn't find a package that did what I needed, so when I wrote it -- I put it out there for anyone to find, and use.",
+            "created": "Sun, 29 Aug 2021 14:38:40 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "As I wrote <a href=\"http://scripting.com/2021/08/28.html#a150550\">yesterday</a>, I really liked <a href=\"https://en.wikipedia.org/wiki/The_Chair_(2021_TV_series)\">The Chair</a>, but there was something in the story I wish they had explored. Spoilers follow. One of the faculty, a young white male superstar, is accused of being a Nazi by students. They have demonstrations. Make demands. The faculty freezes. He tries to respond, his colleagues tell him this never works, when men try to defend themselves, it only makes it worse. He's seen as not contrite. We see the issue only from the faculty standpoint, all we hear from students are slogans and soundbites. We do hear from one student who will be hurt by the takedown. We understand from the start that the professor is not a Nazi. As I watched the confrontation, I wondered if the individual students knew they're wrong. Why was this not explored? Do any of the students argue that they should help the professor instead of attacking? (He's a sympathetic character, his wife died recently.) I know this is TV and they're subject to the same dishonesty they're portraying (Netflix defends Nazis). As I said yesterday, the acting is great, the characters are appealing, it's a page-turner of a binge-watch. But with one small exception, the students are portrayed as flat angry unreasonable monsters. They can't be that single-minded, unconflicted, thoughtless. It left me feeling dissatisfied. Now that I've written it up, I can move on. :boom:",
+            "created": "Sun, 29 Aug 2021 13:12:57 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/04/16/cannedCherries.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I like people who look like people.",
+            "created": "Sun, 29 Aug 2021 13:55:33 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Edward Hopper",
+            "created": "Sun, 29 Aug 2021 18:16:31 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2021/08/29/twoOnTheAisle.png",
+            "subs": [
+                {
+                    "text": "<a href=\"https://www.wikiart.org/en/edward-hopper/two-on-the-aisle\">Two on the Aisle</a>, 1927.",
+                    "created": "Sun, 29 Aug 2021 18:16:36 GMT",
+                    "inlineImage": "http://scripting.com/images/2021/08/29/twoOnTheAisle.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
