@@ -1,0 +1,114 @@
+{
+    "text": "August 30",
+    "created": "Mon, 30 Aug 2021 15:00:50 GMT",
+    "type": "calendarDay",
+    "name": "30",
+    "subs": [
+        {
+            "text": "The war in Afghanistan is now over. ",
+            "created": "Mon, 30 Aug 2021 21:12:35 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "This <a href=\"http://scripting.com/images/2021/08/30/americanCommander.png\">man</a> is an incredible communicator.",
+            "created": "Mon, 30 Aug 2021 21:45:13 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The Biden government speaks to us as adults,  journalism translates it into Trump talk.",
+            "created": "Mon, 30 Aug 2021 21:10:08 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Debuggers aren't only for debugging, they're also programmer's way of looking inside the body of the software. We can stop the heart beat and look anywhere we want. We can put our attention in any organ we want. Or more than one at a time. It's how you can watch the organism doing its work, if you forget how it works because you wrote it a long time ago, or if someone else wrote it. If you aren't using a debugger in all aspects of your programming work you're limiting the amount of complexity you can deal with in your code.",
+            "created": "Mon, 30 Aug 2021 15:00:51 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A place for urgent news",
+            "created": "Mon, 30 Aug 2021 15:19:43 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Yesterday I posted an <a href=\"https://twitter.com/davewiner/status/1431959907927040001\">item</a> that about collaboration in the news industry to help disseminate critical information. ",
+                    "created": "Mon, 30 Aug 2021 15:20:00 GMT",
+                    "subs": [
+                        {
+                            "text": "<i>An idea for the news industry to collaborate on. Sometimes a news org takes down the paywall on a story because it's important that everyone see it. Make an RSS feed that combines all such stories across all pubs. Make spreading the news even more efficient.</i>",
+                            "created": "Mon, 30 Aug 2021 15:21:43 GMT",
+                            "isComment": "false",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A simple idea, really -- not much tech, and news orgs are already doing it. The post got a lot of traction on Twitter, and favorable notice from a fair number of people <i>inside news orgs, </i>people who would be critical to making this idea a reality.",
+                    "created": "Mon, 30 Aug 2021 15:21:46 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So what's needed, technically, beyond what's already there? Probably just this -- a way to tell, in an \"RSS\" feed, that an item is outside the paywall.  ",
+                    "created": "Mon, 30 Aug 2021 15:23:01 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "How to do that? Create a namespace, anyone can do that. Call it (say) the <i>urgentNews</i> namespace. You could have its url point to this post if you like.",
+                    "created": "Mon, 30 Aug 2021 15:23:48 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "To begin with the namespace has one element, <i>isOutsidePaywall.</i>",
+                    "created": "Mon, 30 Aug 2021 15:24:29 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This is what an item might look like for such a news item.",
+                    "created": "Mon, 30 Aug 2021 15:24:54 GMT",
+                    "flCodeSubs": "true",
+                    "subs": [
+                        {
+                            "text": "&lt;item>",
+                            "created": "Mon, 30 Aug 2021 15:25:07 GMT",
+                            "subs": [
+                                {
+                                    "text": "&lt;title>Sed do eiusmod tempor&lt;/title>",
+                                    "created": "Mon, 30 Aug 2021 15:25:10 GMT",
+                                    "flInCalendar": true
+                                },
+                                {
+                                    "text": "&lt;description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.&lt;/description>",
+                                    "created": "Mon, 30 Aug 2021 15:25:35 GMT",
+                                    "flInCalendar": true
+                                },
+                                {
+                                    "text": "&lt;link>https://anytownnews.com/2021/923883.html&lt;/link>",
+                                    "created": "Mon, 30 Aug 2021 15:26:52 GMT",
+                                    "flInCalendar": true
+                                },
+                                {
+                                    "text": "&lt;urgentNews:isOutsidePaywall>true&lt;/urgentNews:isOutsidePaywall>",
+                                    "created": "Mon, 30 Aug 2021 15:27:31 GMT",
+                                    "flInCalendar": true
+                                },
+                                {
+                                    "text": "&lt;/item>",
+                                    "created": "Mon, 30 Aug 2021 15:27:25 GMT",
+                                    "flInCalendar": true
+                                }
+                            ],
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
