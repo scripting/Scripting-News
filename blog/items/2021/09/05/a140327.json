@@ -1,0 +1,53 @@
+{
+    "text": "Getting caught up with Electron",
+    "created": "Sun, 05 Sep 2021 14:03:27 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "A query for <a href=\"https://en.wikipedia.org/wiki/Electron\">Electron</a> devs. ",
+            "created": "Sun, 05 Sep 2021 14:03:33 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I have been <a href=\"https://www.google.com/search?q=site%3Ascripting.com+electron\">developing</a> Electron apps for five years at least.",
+            "created": "Sun, 05 Sep 2021 14:03:50 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I have an Electron version of \"Drummer\" for the Mac (to start) almost ready to go, but there are problems with the File dialogs. It feels like a versioning thing? These routines worked fine in earlier software. So I figure what I need to do is get this app building using the latest versions of Electron and the latest build tools. If I recall correctly they change a lot. And it's been a while since I figured out how to do it. When I read their docs for building stuff I feel as lost as I felt when I was just starting out. ",
+            "created": "Sun, 05 Sep 2021 14:04:09 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Okay, so here's how I build the app currently:",
+            "created": "Sun, 05 Sep 2021 14:05:30 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<code>sudo electron-packager . \"Electric Drummer\" --platform=darwin --arch=all --overwrite --icon=drummer.icns --electron-version=7.1.10</code> ",
+            "created": "Sun, 05 Sep 2021 14:05:38 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "What should I change to get my build process up to date? ",
+            "created": "Sun, 05 Sep 2021 14:22:02 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "It works, it builds the app, and I've been using it, it's just not the current Electron release and their are quirks with the file dialogs. ",
+            "created": "Sun, 05 Sep 2021 14:13:11 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Ideally I'd like to not have to learn too much about the Electron release process or versions -- just give me something that works and I can get back to my sprawling codebase. ",
+            "created": "Sun, 05 Sep 2021 14:09:01 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's a <a href=\"https://github.com/scripting/Scripting-News/issues/222\">thread for comments</a>. Thanks in advance. :smile:",
+            "created": "Sun, 05 Sep 2021 14:09:41 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
