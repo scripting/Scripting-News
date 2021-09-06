@@ -1,0 +1,34 @@
+{
+    "text": "JSON Feed after four years",
+    "created": "Sun, 05 Sep 2021 16:08:29 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I've <a href=\"http://scripting.com/2019/11/04/164251.html\">written</a> about JSON Feed a few times. Summary: it was a bad idea. I don't know why devs want to come up with new names for well-established concepts. It makes all our lives more complicated if the format catches on, and if it doesn't, it just makes a mess.",
+            "created": "Sun, 05 Sep 2021 16:08:41 GMT",
+            "image": "http://scripting.com/images/2017/07/11/chairmanMeow.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you absolutely had to have a JSON feed format, which no one does, it's easy to encapsulate anything you don't like about a format behind a simplifying API, and anything you can represent in [[RSS]] can be represented in JSON and vice versa, the best thing to do was a <a href=\"http://scripting.com/rss.json\">JSONified RSS</a>. But they didn't do that either. ",
+            "created": "Sun, 05 Sep 2021 16:09:40 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Okay, so four years later <a href=\"https://github.com/manton/JSONFeed/issues/157\">this thread</a> appears in the support repo. ",
+            "created": "Sun, 05 Sep 2021 16:10:37 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I might have been vaguely aware that Apple has a new format, obviously its own reinvention of RSS, also a totally bad idea, and another developer thinks JSON Feed should adopt its features. He is correct. That is the right move. Or even better, just leave JSON Feed behind and support both Apple's new incompatible format and RSS 2.0. Given that they're rooted in the Apple world, probably both. But the sparsely supported format they put out there was a bad idea and today it's an even worse idea, and it's only going to get more so. ",
+            "created": "Sun, 05 Sep 2021 16:11:05 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "People keep doing this, thinking that starting over is the thing to do. Apple will have trouble with their format because publishers will see it as the trap that it obviously is and probably will forever tell Apple it would be better if they didn't go off and blaze a new trail when there already is a well-worn path. No one wants to get locked in the trunk, they want to ride up front with you. And in publishing, thankfully, Apple still is not dominant. And hopefully it stays that way. And the rest of us have to circle the wagons and <i>reduce</i> the number of formats we have to deal with, not add to them.",
+            "created": "Sun, 05 Sep 2021 16:13:26 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
