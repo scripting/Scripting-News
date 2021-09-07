@@ -1,0 +1,23 @@
+{
+    "text": "This just worked",
+    "created": "Mon, 06 Sep 2021 14:30:17 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Each of the two calls are implemented on a server, btw.",
+            "created": "Mon, 06 Sep 2021 14:30:50 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "opml.getAtt (\"tmp.opml\", \"name\") + \" is \" + opml.getAtt (\"tmp.opml\", \"age\") + \" years old.\"",
+            "created": "Mon, 06 Sep 2021 14:30:21 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Ask a friend who's a JavaScript dev why this is interesting. ",
+            "created": "Mon, 06 Sep 2021 14:30:25 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
