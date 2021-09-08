@@ -1,0 +1,104 @@
+{
+    "text": "September 7",
+    "created": "Tue, 07 Sep 2021 13:54:48 GMT",
+    "type": "calendarDay",
+    "name": "07",
+    "subs": [
+        {
+            "text": "I love one thing about Facebook. It gives the person who posted a piece absolute power over the existence of comments. On pieces I post, I don't limit myself to deleting abusive or personal comments, I delete ornery or challenging ones too. I hate online debates. I host a debate-free environment. If you want to debate, take your business elsewhere. ",
+            "created": "Tue, 07 Sep 2021 15:31:08 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/09/07/mrMeeseeks.png",
+            "imageLink": "https://en.wikipedia.org/wiki/Mr._Meeseeks",
+            "flInCalendar": true
+        },
+        {
+            "text": "All the nasty fascist crap that's surfacing now has always been there, handed down lovingly from generation to generation. Every family no matter how good or bad, depraved, sociopathic, narcissistic, everything -- they all think they're the best, smartest, luckiest <i>and</i> the worst treated and unluckiest. SItting around the kitchen table listening to mom and dad philosophize about the world, it rubs off. What makes families different is how they deal with those beliefs. March, write letters, watch Maddow or Hannity. Or join the Nazi party. I don't honestly think there's anything that can be done to break this, family is the strongest force for determining our view of the world. ",
+            "created": "Tue, 07 Sep 2021 20:28:17 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I just remembered that Apple basically <a href=\"https://en.wikipedia.org/wiki/Beats_Electronics#Subsidiary_of_Apple_Inc._(2014%E2%80%93present)\">merged</a> with the music industry, so it's not surprising that it's difficult if not impossible to copy MP3s from my Mac to my iPhone so I can program my own music.",
+            "created": "Tue, 07 Sep 2021 20:15:33 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A <a href=\"https://medium.com/inside-of-elle-beau/body-autonomy-is-protected-by-the-constitution-ede4fb256ebb\">must-read piece</a> on abortion. \"The government cannot force you to save someone else’s life against your will.\" ",
+            "created": "Tue, 07 Sep 2021 14:07:14 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Winter is coming. Technically it's still summer, but I'm sitting here trying to warm up for a day of work, wearing a sweat shirt and shivering. Thinking about warm climates where I can spend the winter. ",
+            "created": "Tue, 07 Sep 2021 13:54:49 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I went on a boat yesterday with friends on the <a href=\"https://en.wikipedia.org/wiki/Hudson_River\">Hudson River</a> between the <a href=\"https://en.wikipedia.org/wiki/Kingston%E2%80%93Rhinecliff_Bridge\">Rhinecliff Bridge</a> and <a href=\"https://en.wikipedia.org/wiki/Saugerties,_New_York\">Saugerties</a>. I had been on the Hudson before, but only in a much larger <a href=\"https://www.circleline.com/\">boat</a>, and way south, in NYC. This was a great experience. I drank too much. Hic.",
+            "created": "Tue, 07 Sep 2021 13:55:45 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Factoring",
+            "created": "Tue, 07 Sep 2021 15:41:26 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I spent about an hour today doing a factoring experiment, taking a promises-based API and transforming it into a callbacks-based API.",
+                    "created": "Tue, 07 Sep 2021 15:41:33 GMT",
+                    "image": "http://scripting.com/images/2021/09/07/mrPoopyButthole.png",
+                    "imageLink": "https://youtu.be/a9Ke8h3GFuE?t=234",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Well no surprise they're <a href=\"https://en.wikipedia.org/wiki/Isomorphism\">isomorphic</a>. When you do the translation, you end up with the same thing with different names. ",
+                    "created": "Tue, 07 Sep 2021 15:47:59 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The promises syntax is slightly more compact. A long distance to go and a lot of introduced complexity for very little gain.  ",
+                    "created": "Tue, 07 Sep 2021 15:41:54 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's like getting nice fat clothes instead of just losing the weight. ",
+                    "created": "Tue, 07 Sep 2021 15:42:15 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I have a philosophy in programming, one I thought was stolen from, but actually <a href=\"https://www.nature.com/articles/d41586-018-05004-4\">mis-attributed</a> to Einstein, who ironically said as much in a lot more words.",
+                    "created": "Tue, 07 Sep 2021 15:42:46 GMT",
+                    "subs": [
+                        {
+                            "text": "\"Everything should be made as simple as possible, but no simpler.\"",
+                            "created": "Tue, 07 Sep 2021 15:42:32 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This is a basic mathematics thing. They're always looking for a way to find one theorum that encapsulates and makes unnecessaray two or more. A more fundamental truth. The hope is ultimately to have one concise way of saying everything. A <a href=\"https://en.wikipedia.org/wiki/Rick_and_Morty\">Rick and Morty</a> kind of idea. But why do programmers always seem to do the opposite? Solving a problem of too much complexity by adding even more complexity.  ",
+                    "created": "Tue, 07 Sep 2021 15:43:11 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I was a math major before I was a programmer, so I find this whole thing super frustrating.",
+                    "created": "Tue, 07 Sep 2021 15:44:57 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "At some point, instigated by Drummer perhaps, I hope we will have a great debate in the JavaScript community where our respected leaders explain to us why we need any of this stuff, and we can't have a language that behaves like all others, where asynchronous bits live underneath the interface that the langauge defines for the programmer.",
+                    "created": "Tue, 07 Sep 2021 15:45:18 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
