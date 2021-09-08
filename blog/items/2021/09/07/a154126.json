@@ -1,0 +1,57 @@
+{
+    "text": "Factoring",
+    "created": "Tue, 07 Sep 2021 15:41:26 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I spent about an hour today doing a factoring experiment, taking a promises-based API and transforming it into a callbacks-based API.",
+            "created": "Tue, 07 Sep 2021 15:41:33 GMT",
+            "image": "http://scripting.com/images/2021/09/07/mrPoopyButthole.png",
+            "imageLink": "https://youtu.be/a9Ke8h3GFuE?t=234",
+            "flInCalendar": true
+        },
+        {
+            "text": "Well no surprise they're <a href=\"https://en.wikipedia.org/wiki/Isomorphism\">isomorphic</a>. When you do the translation, you end up with the same thing with different names. ",
+            "created": "Tue, 07 Sep 2021 15:47:59 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The promises syntax is slightly more compact. A long distance to go and a lot of introduced complexity for very little gain.  ",
+            "created": "Tue, 07 Sep 2021 15:41:54 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's like getting nice fat clothes instead of just losing the weight. ",
+            "created": "Tue, 07 Sep 2021 15:42:15 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I have a philosophy in programming, one I thought was stolen from, but actually <a href=\"https://www.nature.com/articles/d41586-018-05004-4\">mis-attributed</a> to Einstein, who ironically said as much in a lot more words.",
+            "created": "Tue, 07 Sep 2021 15:42:46 GMT",
+            "subs": [
+                {
+                    "text": "\"Everything should be made as simple as possible, but no simpler.\"",
+                    "created": "Tue, 07 Sep 2021 15:42:32 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "This is a basic mathematics thing. They're always looking for a way to find one theorum that encapsulates and makes unnecessaray two or more. A more fundamental truth. The hope is ultimately to have one concise way of saying everything. A <a href=\"https://en.wikipedia.org/wiki/Rick_and_Morty\">Rick and Morty</a> kind of idea. But why do programmers always seem to do the opposite? Solving a problem of too much complexity by adding even more complexity.  ",
+            "created": "Tue, 07 Sep 2021 15:43:11 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I was a math major before I was a programmer, so I find this whole thing super frustrating.",
+            "created": "Tue, 07 Sep 2021 15:44:57 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "At some point, instigated by Drummer perhaps, I hope we will have a great debate in the JavaScript community where our respected leaders explain to us why we need any of this stuff, and we can't have a language that behaves like all others, where asynchronous bits live underneath the interface that the langauge defines for the programmer.",
+            "created": "Tue, 07 Sep 2021 15:45:18 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
