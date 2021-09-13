@@ -1,0 +1,40 @@
+{
+    "text": "September 12",
+    "created": "Sun, 12 Sep 2021 14:09:22 GMT",
+    "type": "calendarDay",
+    "name": "12",
+    "subs": [
+        {
+            "text": "The other night I was bored and noticed that <a href=\"https://en.wikipedia.org/wiki/The_Wire\">The Wire</a> was on HBO, so I watched one episode. Then another. And another. Later I started at Episode 1. I don't know how many times I've watched <a href=\"https://www.metacritic.com/tv/the-wire\">The Wire</a>. I'm almost at a point where I can recite the lines along with the actors. I've yet to see a flaw in this show, there's nothing I don't follow with rapt attention. I can't believe there are people who haven't seen it. It's as I imagine Shakespeare was in his day.",
+            "created": "Sun, 12 Sep 2021 17:12:36 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"http://publicfolder.io/\">Public Folder</a> is an app I put together after Dropbox stopped supporting a public folder. It's too important a feature to live without. ",
+            "created": "Sun, 12 Sep 2021 17:11:33 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Everyone but silo-builders wins if our products interop.",
+            "created": "Sun, 12 Sep 2021 14:57:29 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Drummer has a feature called the <a href=\"https://www.google.com/search?q=site%3Ascripting.com+glossary\">glossary</a>, it's been part of every outliner I have done since the mid-90s. It's a very simple idea. A table that associates terms with text. If I use one of the terms in my writing, when it's published, the term is replaced with the text. We use \"OPML\" to represent the glossaries. Here's my <a href=\"http://drummer.scripting.com/davewiner/glossary.opml\">personal glossary</a>. I wish every place I type text could be configured to use my glossary, so where ever I go I can use my terms. It would also be great to configure my searches to use these terms too, so Google for example would know what I am referring to when I type the name of one of my own products. ",
+            "created": "Sun, 12 Sep 2021 14:23:58 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/09/12/pileOfBooks.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/223\">Braintrust query</a>: I want to understand the extended Markdown some outliners use. If you use one of them, you can help.",
+            "created": "Sun, 12 Sep 2021 14:09:23 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
