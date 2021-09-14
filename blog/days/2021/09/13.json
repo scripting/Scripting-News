@@ -1,0 +1,70 @@
+{
+    "text": "September 13",
+    "created": "Mon, 13 Sep 2021 13:55:13 GMT",
+    "type": "calendarDay",
+    "name": "13",
+    "subs": [
+        {
+            "text": "Don't assume they wanted advice. ",
+            "created": "Mon, 13 Sep 2021 18:22:28 GMT",
+            "type": "tweet",
+            "tweetId": "1437481952865624066",
+            "tweetUserName": "davewiner",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm <a href=\"http://scripting.com/2021/09/12.html#a171236\">re-watching</a> [[The Wire]], after the <a href=\"https://www.nytimes.com/2021/09/06/arts/michael-k-williams-dead.html\">death</a> of <a href=\"https://en.wikipedia.org/wiki/Michael_K._Williams\">Michael K Williams</a>, the actor who played <a href=\"https://en.wikipedia.org/wiki/Omar_Little\">Omar</a>. He was right about <a href=\"https://www.youtube.com/watch?v=RpST8KE3vSI\">type-casting</a>. His one great role was Omar. Once you get a part that good, and play it so well, and everyone else is that good, you just don't get to do that twice.",
+            "created": "Mon, 13 Sep 2021 18:04:37 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "More web breakage from Google",
+            "created": "Mon, 13 Sep 2021 13:55:14 GMT",
+            "type": "outline",
+            "description": "Sites that are running fine appear to be down, thanks to Google.",
+            "metaImage": "https://upload.wikimedia.org/wikipedia/commons/0/03/Auto_accident_on_Bloor_Street_West_in_1918.jpg",
+            "subs": [
+                {
+                    "text": "Chrome has done something insidious to break the web a little more. They do this so often, breaking the web seems to be Google's business model. ",
+                    "created": "Mon, 13 Sep 2021 13:55:20 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's what they changed. ",
+                    "created": "Mon, 13 Sep 2021 13:55:53 GMT",
+                    "subs": [
+                        {
+                            "text": "If you type a domain name into the address bar of the browser, the protocol is hidden. This isn't new, or particularly bad, until they made the next change.",
+                            "created": "Mon, 13 Sep 2021 14:01:38 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Now instead of automatically generating http as the protocol in the URL, they generate https. ",
+                            "created": "Mon, 13 Sep 2021 13:56:20 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "So sites that are running fine appear to be broken. ",
+                            "created": "Mon, 13 Sep 2021 13:58:28 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It happened on a <a href=\"http://javascriptscript.com/\">placeholder site</a> to me just now. I was fooled, I immediately thought a server had gone down, and started looking for the outage. Then I was reminded of this trickery Google is doing. I was reminded of how much I hate what Google is doing to the web. They're fighting with me, and weakening the web in a way they have no right to. My site is a perfectly functional web site. It's just a placeholder. No one needs to worry about a \"man in the middle\" interference. There are no ads on this site. I don't know how else to say it. My choice of protocols is none of Google's business. ",
+                    "created": "Mon, 13 Sep 2021 13:58:29 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "That's basically a protection racket. If mobsters were doing it. \"Nice little website you have there, be a shame if people couldn't reach it because Google broke the web.",
+                    "created": "Mon, 13 Sep 2021 13:56:32 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
