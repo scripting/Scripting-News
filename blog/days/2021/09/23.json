@@ -1,0 +1,108 @@
+{
+    "text": "September 23",
+    "created": "Thu, 23 Sep 2021 14:09:52 GMT",
+    "type": "calendarDay",
+    "name": "23",
+    "subs": [
+        {
+            "text": "We are <a href=\"http://scripting.com/2021/09/23/134131.html?title=backingOffTweetsopml\">backing off</a> the Twitter feed feature I had developed for Drummer. ",
+            "created": "Thu, 23 Sep 2021 16:36:35 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "To developers wishing to work in the [[tools for thought]] world, we can work together as equals, instead of platform vendor and third-party developer. There's a huge difference between the two models. In the first model we are free to compete, but never on the basis of user lock-in. In the latter, the platform vendor has all the power, you can only coexist with them on their terms, and they can change the terms at any time. This has always been true in my experience. The way we work as equals is we agree on an interchange format. I have committed to supporting [[OPML]] in all my products. So they can all be replaced. And so can yours, if you make it easy for users to migrate, and when you do that you also open the door for people to create products that plug into yours without having to replace yours. We compete as equals. We compete to please users. We are free to build on each others' work. That's the kind of discipline I like as a developer. ",
+            "created": "Thu, 23 Sep 2021 16:32:11 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/06/29/chevyTruck.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Journalism did their part in screwing up the 2016 election. No contrition, they’ve never done an exposé, and they have the gall to be sarcastic. I’m no fan of Facebook, but journalism is actually making them sympathetic.",
+            "created": "Thu, 23 Sep 2021 15:28:23 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1441017027037179905",
+            "flInCalendar": true
+        },
+        {
+            "text": "Backing off tweets.opml",
+            "created": "Thu, 23 Sep 2021 13:41:31 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I have taken the feature out of the first public release of Drummer. ",
+                    "created": "Thu, 23 Sep 2021 13:41:38 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It turned out it was a mistake to try something so ambitious so late in the game. We'll come back to it in a due time.  ",
+                    "created": "Thu, 23 Sep 2021 13:41:54 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This happens sometimes, I wish it hadn't happened in view of the testers.",
+                    "created": "Thu, 23 Sep 2021 13:42:31 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "They all have been wonderful, enthusiastic, and understanding. ",
+                    "created": "Thu, 23 Sep 2021 13:42:50 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Onward! :smile:",
+                    "created": "Thu, 23 Sep 2021 16:40:44 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Journalism in the aggregate",
+            "created": "Thu, 23 Sep 2021 14:09:53 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I judge journalism in the aggregate. ",
+                    "created": "Thu, 23 Sep 2021 14:09:59 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "In other words, I say \"journalism\" did this or that.",
+                    "created": "Thu, 23 Sep 2021 14:10:07 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I do it that way for a number of reasons.",
+                    "created": "Thu, 23 Sep 2021 14:10:17 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "They do act as a unit. You'll see basically the same stories on all websites and cable news stations. They often interview each other, which is pretty amazing if you think about it. ",
+                            "created": "Thu, 23 Sep 2021 14:10:13 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "To balance the way they treat online writers. They talk about us in the aggregate too. ",
+                            "created": "Thu, 23 Sep 2021 14:10:28 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "And to balance the way they view Facebook, with 2.7 billion users, they only consider one user when they talk about Facebook, as if we all are just Zuck-clones. I made a <a href=\"http://scripting.com/2021/09/17/153104.html?title=facebookIsAtLeastEightThings\">list</a> of all the things Facebook is, and journalism rarely considers anything but the personality of one person when talking about \"Facebook.\" Not that they really have any insight into his personality, btw. ",
+                            "created": "Thu, 23 Sep 2021 14:10:31 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "To tell journalism, to the extent that I can, how unthinking and automaton-like they are. There will come a day when computers do what they do, because they use so little of the intellect they certainly have. ",
+                            "created": "Thu, 23 Sep 2021 14:10:14 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
