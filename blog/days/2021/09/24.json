@@ -1,0 +1,22 @@
+{
+    "text": "September 24",
+    "created": "Fri, 24 Sep 2021 15:15:40 GMT",
+    "type": "calendarDay",
+    "name": "24",
+    "subs": [
+        {
+            "text": "The <a href=\"https://github.com/scripting/opmlPackage\">OPML package</a> has a new <a href=\"https://github.com/scripting/opmlPackage/blob/3b4a4e289d87ebd9cffe9d239c7a8b63b3954a4c/client/opml.js#L154\">end-point</a> that reads an OPML file, and if it has an <i>urlUpdateSocket</i> head-level attribute, sets up a subscription, and calls back when the outline is modified. Captures all the complex code behind the interface, so an OPML-consuming app can have instant updates with no effort. It's wonderful to see this in action, hope to have a public demo soon. ",
+            "created": "Fri, 24 Sep 2021 18:26:21 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://www.youtube.com/watch?v=TY8x3r3niDI\">Pee Wee Herman</a> is LOL funny. Really simple comedy. :smile:",
+            "created": "Fri, 24 Sep 2021 15:15:41 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=TY8x3r3niDI",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
