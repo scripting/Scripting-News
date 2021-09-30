@@ -1,0 +1,35 @@
+{
+    "text": "The dateformat module",
+    "created": "Wed, 29 Sep 2021 13:37:47 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "A story about the <a href=\"https://en.wikipedia.org/wiki/Node.js\">Node.js</a> ecosystem. ",
+            "created": "Wed, 29 Sep 2021 13:20:28 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Yesterday I noticed that one of my server apps had restarted 21 hours ago, so I looked at the log, saw where it should have checked if something was <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined\">undefined</a>, added the check, published a new release, then went to the app, updated it, tried to restart it, and it failed. The source of the failure was a very small module known as <a href=\"https://www.npmjs.com/package/dateformat\">dateformat</a> that had updated, which is fine, maybe they have bugs. So I went to their <a href=\"https://github.com/felixge/node-dateformat/releases\">repo</a>, and saw a reference to a <a href=\"http://scripting.com/images/2021/09/29/breakingChange.png\">breaking change</a>, which sounded like it might be the thing that broke my app (not well documented imho), and I found a <a href=\"https://github.com/felixge/node-dateformat/releases/tag/v4.5.1\">version</a> before the breaking change, released on Jan 30, and updated the <a href=\"https://github.com/scripting/oldSchoolBlog/blob/master/package.json\">package.json</a> for the <a href=\"https://github.com/scripting/oldSchoolBlog\">app</a> at the beginning of this tale to require the earlier version, rebuilt it, and it worked. ",
+            "created": "Wed, 29 Sep 2021 13:38:03 GMT",
+            "image": "http://scripting.com/images/2021/09/29/wheaties.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Sounds painless enough, but each step involved me figuring out how this or that worked. A tiny area of one app that I had long ago forgot about because you figure once date formatting is done, it's done. Right. It's not like there's any great technological breakthroughs in date formatting, btw. ",
+            "created": "Wed, 29 Sep 2021 13:38:41 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "It turned out that the maintainers of the dateformat module wanted to use a feature that wasn't in the version of Node my server was running. As far as I can tell the feature had nothing to do with its mission, formatting dates. What they were saying is I should accept their change and upgrade to the version of Node they require.  if I were to do that, I'd have to shut down the server, upgrade Node, and then test all of the apps running on the server to see whether the new version of Node broke them, which imho is much more likely than dateformat breaking them. ",
+            "created": "Wed, 29 Sep 2021 13:39:02 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "This is the culture of development these days. Breaking changes for stylistic reasons are fine. It's the reward for maintaining a useful <i>little</i> module -- you can force the attention of developers all over the place. This is just one module, add it up and the half-life of a Node app is very short indeed. Not a good situation imho. ",
+            "created": "Wed, 29 Sep 2021 13:39:29 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
