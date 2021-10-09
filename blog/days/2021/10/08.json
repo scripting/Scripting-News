@@ -1,0 +1,40 @@
+{
+    "text": "October 8",
+    "created": "Fri, 08 Oct 2021 12:20:04 GMT",
+    "type": "calendarDay",
+    "name": "08",
+    "subs": [
+        {
+            "text": "Maybe other devs can make software without users, but not me. I need the feedback. I imagine it's like being a musician playing on a stage with no audience. Two users, in particular, have made the greatest contribution, Anton Zuiker and Ken Smith. Neither are devs. Anton works at <a href=\"http://antonzuiker.com/\">Duke University</a> as a research communication specialist. Ken is an <a href=\"https://clas.iusb.edu/english/faculty/smith.html\">English professor</a> at Indiana University. Both are bloggers, both are intelligent, persevere, and put up with my demands (ahem). I need good bug reports, and they are learning, and the bugs are being fixed, and some have been quite vexing, as I've rewritten major parts of Drummer. I know it's been frustrating at times for them. I hope this is just the start of a wonderful new community. I know a bunch of other people are using Drummer, but Ken and Anton have been most actively helping the developer and that's very much appreciated. ",
+            "created": "Fri, 08 Oct 2021 12:20:05 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/12/12/asGoodAsItGets.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Anton wrote an <a href=\"http://oldschool.scripting.com/mistersugar/2021/10/07/183552.html?title=whyDrummer\">ode to Drummer</a> yesterday. ",
+            "created": "Fri, 08 Oct 2021 12:30:58 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"http://oldschool.scripting.com/KenSmith/\">Ken</a> wanted to <a href=\"http://oldschool.scripting.com/KenSmith/2021/10/07/002100.html?title=stopwatchOnDrummer\">see how long</a> it would take to write and publish a Drummer blog post. I'd love to see the same benchmark done with other blogging software.  ",
+            "created": "Fri, 08 Oct 2021 12:35:27 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, Anton got on my case about a bug in the <a href=\"http://scripting.com/?tab=links\">Links tab</a> on Scripting News not updating often enough. He noticed this because the same thing was happening on his Drummer blog. This got me off my ass to fix the problem. So if you're a fan of the Links tab here, rejoice -- it works about a million percent better thanks to Anton. This is the power of users who actually care, and pitch in to help. ",
+            "created": "Fri, 08 Oct 2021 17:30:49 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "All the breakage I'm experiencing with HTTPS sites on my Macbook gave me an idea -- how about a proxy server for HTTPS sites, making them accessible over HTTP. Seems quite doable.",
+            "created": "Fri, 08 Oct 2021 17:42:35 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
