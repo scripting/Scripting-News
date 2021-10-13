@@ -1,0 +1,51 @@
+{
+    "text": "October 12",
+    "created": "Tue, 12 Oct 2021 11:41:27 GMT",
+    "type": "calendarDay",
+    "name": "12",
+    "subs": [
+        {
+            "text": "I’ve called myself a developer, media hacker, showrunner, programmer, never a coder (ugh), maker of software snacks and shitty software (with bugs). Now I’m thinking of calling myself a software factor.",
+            "created": "Tue, 12 Oct 2021 20:18:24 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1447987918014910467",
+            "flInCalendar": true
+        },
+        {
+            "text": "This <a href=\"http://scripting.com/images/2021/10/12/quote.png\">quote</a>, which is part of what I wrote for The Future of Text, kind of says it all, everything I've discovered and built on in my career. I guess it's the answer to the question: \"What's possible with computers that most people don't know about.\" They posted this in a <a href=\"https://twitter.com/TheFutureofText/status/1447969903571505161/photo/3\">tweet</a> at the same time I was <a href=\"https://twitter.com/davewiner/status/1447971032053293066\">posting one</a> about how we fixed the big problem with JavaScript in \"Drummer\". I love JavaScript because it's the closest thing we have to a universal language. We have <a href=\"https://en.wikipedia.org/wiki/Marc_Andreessen\">Marc Andreessen</a> to thank for that (no sarcasm!). But there's no reason JS has to be hobbled by <a href=\"http://callbackhell.com/\">callback hell</a>, <a href=\"https://jsmanifest.com/promises-in-javascript/\">promises</a>, <a href=\"https://javascript.info/async-await\">async/await</a>, or whatever new hack they think up next. It's not hard to factor all that out. Every other language does it. There is absolutely no reason JavaScript has to leave all that mess visible to the programmer who wants it hidden. We proved that in [[Drummer]]. Now our implementation may not be fully baked, and at least one JS guru thinks it may be too slow, all that can be fixed. I want to write straight-line code and let the runtime handle the synchronization. That's worth trading off some speed for, but I don't see why it should require that. And it's the way comptuers are <i>supposed</i> to work, imho. If I didn't say anything most devs probably wouldn't even notice it's there, they still might not, that's how <a href=\"http://scripting.com/2021/03/24/161331.html?title=drummersKeyInnovation\">natural</a> it feels. :rocket:",
+            "created": "Tue, 12 Oct 2021 17:06:01 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/01/11/klaesAshford.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Observed in a middle-of-the-night <a href=\"https://twitter.com/davewiner/status/1447820006855790602\">tweet</a>: Drummer is working. It’s possible finally we’re moving beyond blogging as a big production. Writing publicly can be fluid, fast. And not locked in a silo.",
+            "created": "Tue, 12 Oct 2021 15:27:01 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1447820006855790602",
+            "flInCalendar": true
+        },
+        {
+            "text": "A frequently asked question -- where is \"Drummer\" and how much does it cost? Hopefully the <a href=\"http://drummer.scripting.com/\">link</a> answers the first question. The <a href=\"http://docserver.scripting.com/drummer/about.opml\">About page</a> answers the second. \"You can use Drummer at no cost.\" Further: \"Much of the software is open source.\" Why is it so inexpensive and will it always be that way? I don't have big plans to take over the universe. I just want to make sure that outlining, web scripting and easy, fluid blogging are not lost arts. I have been very lucky in my career, so at this point, money, at least the kind of money it takes to operate Drummer, is not an issue. So let's have fun and see where it takes us! :boom:",
+            "created": "Tue, 12 Oct 2021 11:41:28 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/12/24/drummer.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Childe Hassam ",
+            "created": "Tue, 12 Oct 2021 16:29:52 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://www.wikiart.org/en/childe-hassam/the-goldfish-window\">The Goldfish Window</a>, 1916 .",
+                    "created": "Tue, 12 Oct 2021 16:30:03 GMT",
+                    "inlineImage": "http://scripting.com/images/2021/10/12/goldfishWindow.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
