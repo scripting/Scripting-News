@@ -1,0 +1,53 @@
+{
+    "text": "Why we use Twitter identity",
+    "created": "Wed, 13 Oct 2021 14:05:00 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I got an email last night that said the person felt I had been hypocritical in using Twitter for identity for Drummer.",
+            "created": "Wed, 13 Oct 2021 14:05:13 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Obviously, I don't think I was hypocritical. ",
+            "created": "Wed, 13 Oct 2021 14:05:38 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I use Twitter for identity because they have a nice API that scales, and they have kept it open for this kind of use for many years. In all that time, they didn't change their mind because of new management, didn't deprecate anything, it just keeps running reliably.",
+            "created": "Wed, 13 Oct 2021 14:05:48 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Are you sharing some information with Twitter? Yes, a little, but not as much as you might think. They certainly never see your outlines. They don't know how many times you log in, that information doesn't pass through to them.",
+            "created": "Wed, 13 Oct 2021 14:06:35 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "We don't keep any information on that ourselves. I don't care. I'm not in any business at all, and certainly not in the business of knowing how much you do whatever you do.",
+            "created": "Wed, 13 Oct 2021 14:07:35 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "They don't know your location, btw -- if they know a location, it's the location of the server, which is at Digital Ocean. I'm not even sure where they keep their servers. That information it seems to me is of no value.",
+            "created": "Wed, 13 Oct 2021 14:08:09 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you don't want them to know <i>anything</i> about you -- just create a fake account for this purpose.  ",
+            "created": "Wed, 13 Oct 2021 14:08:48 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Also I want to build features around Twitter. It's a fact of life. It's there. It ain't going anywhere. If I chose not to use it for identity it wouldn't hurt them one bit. I'd have to write an identity server myself and I already have plenty of things to do trying to keep Drummer users happy.",
+            "created": "Wed, 13 Oct 2021 14:09:11 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Net-net -- I don't see a problem here. 😀",
+            "created": "Wed, 13 Oct 2021 14:10:49 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
