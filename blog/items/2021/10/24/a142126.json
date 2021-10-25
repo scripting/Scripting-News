@@ -1,0 +1,7 @@
+{
+    "text": "I've been dealing with some complicated problems with JavaScript dates in \"Old School\", which is the blogging CMS that Drummer uses. It's the same software I use to build Scripting News. I had to take a step back on the project yesterday because I was having so much trouble wrapping my head around what exactly the problem was. It was showing up in India and the Far East mostly. We didn't hit this set of problems with \"Fargo\", because the blog rendering happened on the user's machine, so there was no timezone difference. And oddly, there is no problem with the RSS feeds of sites in the Far East. But at some times during the day if you posted something new from India, Malaysia or Australia, it would not appear on your home page. Anyway, it's great to have a bunch of smart super-interested people. It's very early days in Drummer Land, and the people really want their blogs to work, and of course I want this even more than they do. But I've never dealt with these issues before and they are mindfucks. You can read about it in this thread on the Drummer support site, <a href=\"https://github.com/scripting/drummerSupport/issues/88#issuecomment-950206243\">starting here</a>. I am figuring it out, it seems, I hope, Murphy-willing. ",
+    "created": "Sun, 24 Oct 2021 14:21:26 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2019/12/24/drummer.png",
+    "flInCalendar": true
+}
