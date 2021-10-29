@@ -1,0 +1,77 @@
+{
+    "text": "October 28",
+    "created": "Thu, 28 Oct 2021 15:30:21 GMT",
+    "type": "calendarDay",
+    "name": "28",
+    "subs": [
+        {
+            "text": "<a href=\"http://docserver.scripting.com/drummer/about.opml\">Drummer</a> is a better name than Meta.",
+            "created": "Thu, 28 Oct 2021 20:39:26 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I have to use Facebook because so many other people do. Something new from Zuck? Oh please hell no.",
+            "created": "Thu, 28 Oct 2021 20:42:34 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I saw <a href=\"http://scripting.com/images/2021/10/28/metaMetaMets.png\">this</a> and for a moment I thought it said Mets. Maybe he should have named Facebook The New York Mets. He could've bought the team with the change that falls out of his pocket at night. ",
+            "created": "Thu, 28 Oct 2021 20:39:43 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "If Zuck had asked me what to name his company I would've said name it The New York Times.",
+            "created": "Thu, 28 Oct 2021 20:38:37 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I think we have a new version of the Drummer CMS that correctly <a href=\"http://scripting.com/drummer/blog/2021/10/28/151936.html?title=experiment3AppearsToBeASuccess\">handles</a> blogs in all time zones. I'm getting incredible support from the Drummer users. This is the kind thing you have nightmare dreams about, a deployed product where you missed a serious problem in development and have to scramble to deal with. We still have some serious problems to deal with, but I think it's mostly possible to avoid them, and I'm confident we will get them fixed. I want to get to work on some new features, I really miss that. ",
+            "created": "Thu, 28 Oct 2021 15:30:22 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/06/14/strongman.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Update: the new CMS is deployed and seems to work. Most important the problems with international blogs appear to be solved. Drummer blogs are unique in that there are archive pages for each day, and month. Which is a date problem other blogging tools don't have. I was trying to think how we solved the problem in Manila and Radio, and then realized we didn't have the problem. Drummer is different. Which is kind of what you'd expect from a product with that name. :smile:",
+            "created": "Thu, 28 Oct 2021 20:35:57 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Property tax is a wealth tax. Why not tax long-term-held stocks the way you deal with real estate. Not that I want to pay more taxes, esp on my savings! :boom:",
+            "created": "Thu, 28 Oct 2021 15:34:36 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "\"Where ever you get podcasts.\" I did that.",
+            "created": "Thu, 28 Oct 2021 20:42:43 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Rebranding",
+            "created": "Fri, 29 Oct 2021 02:03:07 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Facebook <a href=\"https://www.cnn.com/2021/10/28/tech/facebook-mark-zuckerberg-keynote-announcements/index.html\">rebrands</a> as Meta.",
+                    "created": "Fri, 29 Oct 2021 02:03:11 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://twitter.com/therecount/status/1453772988361453572\">Zuckerberg</a> rebrands as Data?",
+                    "created": "Fri, 29 Oct 2021 02:03:20 GMT",
+                    "inlineImage": "http://scripting.com/images/2021/10/28/data.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
