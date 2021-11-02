@@ -1,0 +1,76 @@
+{
+    "text": "The monthly ritual",
+    "created": "Mon, 01 Nov 2021 12:56:25 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "This is the first \"monthly ritual\" I've done since \"Drummer\" shipped. So I'm going to write down what I did in more detail than usual.",
+            "created": "Mon, 01 Nov 2021 12:57:03 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "I do my blog writing in Electric Drummer, so all the files are on my local disk. ",
+                    "created": "Mon, 01 Nov 2021 12:57:30 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "In the finder, I make a copy of my blog.opml file. I move the copy into a special folder for archives. ",
+                    "created": "Mon, 01 Nov 2021 12:57:47 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I open the copy in E/D and delete the portion that's in November (the stuff I'm writing now). Once it's saved, I close the file. ",
+                    "created": "Mon, 01 Nov 2021 12:58:24 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I open the GitHub archive for Scripting News in the GitHub desktop app for the Mac, and click the Sync button, to get all the new stuff in the last month on my local disk (the nightly archive of posts in JSON and OPML).",
+                    "created": "Mon, 01 Nov 2021 13:00:49 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I copy the archive file for October into the local folder for Scripting News on GitHub into the correct location. ",
+                    "created": "Mon, 01 Nov 2021 13:02:33 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "In the GitHub app, I note the new file shows up in the list of changes. I set the Commit Message to a period (I don't have anything to say about this change) then I commit the change, and sync. ",
+                    "created": "Mon, 01 Nov 2021 13:05:07 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I visit the site on the web to be sure <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/opml/2021/10.opml\">October's OPML file</a> is there. ",
+                    "created": "Mon, 01 Nov 2021 13:05:47 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Back in E/D, I delete the October branch of my blog.opml file. ",
+                    "created": "Mon, 01 Nov 2021 13:07:08 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Then I click the rebuild icon and pray. ",
+                    "created": "Mon, 01 Nov 2021 13:07:24 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And... it did not work! (Most of the month of October is missing. I figured since this was part of the overhaul there likely would be problems. I will finish this post after I do my debugging.)",
+                    "created": "Mon, 01 Nov 2021 13:08:12 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Back from debugging. The mistake was I wrote theDay.getDay instead of theDay.getDate. The first returns the day of the week (0-6) and the latter returns day of the month (1-31).",
+                    "created": "Mon, 01 Nov 2021 14:12:51 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "So the monthly ritual is good. ",
+            "created": "Mon, 01 Nov 2021 14:14:08 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
