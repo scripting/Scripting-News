@@ -1,0 +1,151 @@
+{
+    "created": "2021-11-01T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "01",
+    "path": "2021/11/01",
+    "text": "November 01",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Over the weekend <a href=\"https://www.papascott.de/archives/2021/10/31/blogging-in-gatsby-with-drummer/\">Scott Hanson</a> was <a href=\"https://github.com/scripting/drummerRFC/issues/3\">able</a> to use Drummer to write prose that was published by a popular <a href=\"https://github.com/gatsbyjs/gatsby\">open source</a> static site generator called <a href=\"https://www.gatsbyjs.com/\">Gatsby</a>. Apparently the software is a Gatsby plugin. Gatsby is <a href=\"https://www.crunchbase.com/organization/gatsby-e828\">also</a> a <a href=\"https://www.gatsbyjs.com/about/\">company</a>, based in Berkeley, they have raised $46.8 million. I'm looking for an quick tutorial. I have literally never used it, so i would like to at least be able to talk about it, explain what it is and what this connection means. BTW, our goal is to connect everything with everything with \"Drummer\". Outlines in the middle. We rock! 😀",
+            "created": "Mon, 01 Nov 2021 15:39:03 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/09/28/cowboy.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "The fact that I've never used Gatsby and I'm sure they've never used Drummer (do they use outliners?) says we have to create better connections in tech. I hope that Drummer will do that. Get us looking at each others' work and figuring out how to help our users make our products work better together. I've been motivated in this direction ever since I developed an integrated product in the 80s and the #1 feature request from users was I unbundle the components. They were right. We need interfaces, not behemoths. ",
+            "created": "Mon, 01 Nov 2021 15:44:39 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, Scott posted his <a href=\"https://github.com/scripting/drummerRFC/issues/3\">notice</a> on the Drummer RFC site. It's a place I started for non-support stuff. Perfect for this project. I've found over the years if you mix support and development the users are often intimidated. Each thread has it's place. In a user oriented tool with a deep scripting capability, you always have to be aware <span style=\"background-color: yellow\">there are both plumbers and poets in the same space</span>. That's where the power is. You don't want to keep them separated, but you want to be careful everyone feels empowered to ask questions, get help. ",
+            "created": "Mon, 01 Nov 2021 15:54:32 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, the ad I <a href=\"http://scripting.com/2021/10/30/143128.html?title=weAreTheGovernment\">wrote about</a> the other day <a href=\"https://twitter.com/davewiner/status/1454964026748907526\">showed up</a> while I was watching a game yesterday. I caught the end of it on my iPad. ",
+            "created": "Mon, 01 Nov 2021 16:04:20 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1454964026748907526",
+            "flInCalendar": true
+        },
+        {
+            "text": "Working on a server today, I moved the software for a <a href=\"http://1999.io/\">1999.io</a> server that's been running for a few years and remembered there is some nice stuff there. I designed it to answer the question -- what would a blogging system look like if it was created after Facebook and Twitter already existed. There are some good new ideas in both products, and they should influence blogging. I wrote Scripting News in 1999.io for a few years, but in 2017 I realized what I really wanted was what I had in 1997, leading to Old School and eventually Drummer. But 1999.io is still running. Here's the <a href=\"http://1999.io/about/\">positioning document</a>. ",
+            "created": "Tue, 02 Nov 2021 03:19:43 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A breaking <a href=\"http://scripting.com/drummer/blog/2021/11/01/152727.html?title=freediskspace\">change</a> in a forgotten <a href=\"https://www.npmjs.com/package/node-cmd\">package</a> in a <a href=\"https://github.com/scripting/freeDiskSpace\">utility</a> I wrote that I allocate zero percent of my consciousness to, pops up as I was provisioning a new server, and already juggling more than I should try to manage. ",
+            "created": "Mon, 01 Nov 2021 15:36:20 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I wish there was a <a href=\"https://en.wikipedia.org/wiki/CliffsNotes\">Cliff Notes</a> version of the Washington Post <a href=\"https://www.washingtonpost.com/politics/interactive/2021/jan-6-insurrection-capitol/\">article</a> about the insurrection. An Axios version would be perfect. A podcast. I went looking for one and found nothing. ",
+            "created": "Mon, 01 Nov 2021 14:30:47 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Mark my words -- outliners are destined to be in the middle of everything. That‘s why I’ve invested so much in <a href=\"http://opml.org/\">OPML</a>, the open format designed for sharing outlines. It's the native file format of \"Drummer\". We don't need to have another giant Facebook in the middle of everything controlling everyone. Much better if it's distributed. That's what's made possible by open formats. ",
+            "created": "Mon, 01 Nov 2021 12:53:35 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The monthly ritual",
+            "created": "Mon, 01 Nov 2021 12:56:25 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "This is the first \"monthly ritual\" I've done since \"Drummer\" shipped. So I'm going to write down what I did in more detail than usual.",
+                    "created": "Mon, 01 Nov 2021 12:57:03 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "I do my blog writing in Electric Drummer, so all the files are on my local disk. ",
+                            "created": "Mon, 01 Nov 2021 12:57:30 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "In the finder, I make a copy of my blog.opml file. I move the copy into a special folder for archives. ",
+                            "created": "Mon, 01 Nov 2021 12:57:47 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I open the copy in E/D and delete the portion that's in November (the stuff I'm writing now). Once it's saved, I close the file. ",
+                            "created": "Mon, 01 Nov 2021 12:58:24 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I open the GitHub archive for Scripting News in the GitHub desktop app for the Mac, and click the Sync button, to get all the new stuff in the last month on my local disk (the nightly archive of posts in JSON and OPML).",
+                            "created": "Mon, 01 Nov 2021 13:00:49 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I copy the archive file for October into the local folder for Scripting News on GitHub into the correct location. ",
+                            "created": "Mon, 01 Nov 2021 13:02:33 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "In the GitHub app, I note the new file shows up in the list of changes. I set the Commit Message to a period (I don't have anything to say about this change) then I commit the change, and sync. ",
+                            "created": "Mon, 01 Nov 2021 13:05:07 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I visit the site on the web to be sure <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/opml/2021/10.opml\">October's OPML file</a> is there. ",
+                            "created": "Mon, 01 Nov 2021 13:05:47 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Back in E/D, I delete the October branch of my blog.opml file. ",
+                            "created": "Mon, 01 Nov 2021 13:07:08 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Then I click the rebuild icon and pray. ",
+                            "created": "Mon, 01 Nov 2021 13:07:24 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "And... it did not work! (Most of the month of October is missing. I figured since this was part of the overhaul there likely would be problems. I will finish this post after I do my debugging.)",
+                            "created": "Mon, 01 Nov 2021 13:08:12 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Back from debugging. The mistake was I wrote theDay.getDay instead of theDay.getDate. The first returns the day of the week (0-6) and the latter returns day of the month (1-31).",
+                            "created": "Mon, 01 Nov 2021 14:12:51 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So the monthly ritual is good. ",
+                    "created": "Mon, 01 Nov 2021 14:14:08 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Paul Gauguin ",
+            "created": "Mon, 01 Nov 2021 16:13:37 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2021/11/01/whisperedWords.png",
+            "subs": [
+                {
+                    "text": "<a href=\"https://www.wikiart.org/en/paul-gauguin/whispered-words-1892\">Whispered Words</a>, 1892.",
+                    "created": "Mon, 01 Nov 2021 16:14:03 GMT",
+                    "inlineImage": "http://scripting.com/images/2021/11/01/whisperedWords.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
