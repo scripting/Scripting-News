@@ -1,0 +1,90 @@
+{
+    "created": "2021-11-02T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "02",
+    "path": "2021/11/02",
+    "text": "November 02",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "A nice <a href=\"http://scripting.com/drummer/blog/2021/11/02/161818.html?title=newOldSchoolBuild\">improvement to Old School</a>. Now it more accurately reports how much time it spent building your blog, and it also reports on the pages it rebuild, and the feeds it pinged on your behalf. ",
+            "created": "Tue, 02 Nov 2021 16:53:08 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A new Drummer verb: <a href=\"http://scripting.com/drummer/blog/2021/11/02/143316.html?title=stringmarkdownprocess\">string.markdownProcess</a>.",
+            "created": "Tue, 02 Nov 2021 14:40:02 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A tools-for-thought challenge",
+            "created": "Tue, 02 Nov 2021 18:42:43 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2021/11/02/blackboard.png",
+            "description": "It would be tragic if a market with so much promise became another silo controlled by one or two big companies. ",
+            "subs": [
+                {
+                    "text": "After I've taken notes on what I'm thinking about, how to find:",
+                    "created": "Tue, 02 Nov 2021 18:42:50 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "The things I wrote about. (Where did I say that?)",
+                            "created": "Tue, 02 Nov 2021 18:43:19 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Patterns in my writing.",
+                            "created": "Tue, 02 Nov 2021 18:43:22 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Threads. I wrote about a topic many times, show them all to me in chronological order.",
+                            "created": "Tue, 02 Nov 2021 18:43:23 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It shouldn't matter where I took all those notes.  Perhaps I used different note-taking apps on my phone, tablet or desktop. Or one year I tried a new note-taking app and then switched back. My ideas are mine, and it's up to me how to use them, and there should be no limits. This is how computers, networks and databases are <i>supposed</i> to work.",
+                    "created": "Tue, 02 Nov 2021 18:43:58 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It would be tragic if an area with so much promise became another silo controlled by one or two big companies. It's still so early, we have a chance to make this community work better. Our tools for thought should not be controlled by anyone other than ourselves.",
+                    "created": "Tue, 02 Nov 2021 18:45:03 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "An example, I have an <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog/opml\">archive of outlines</a> going back to mid 2017, one every day, public. They are archived in a GitHub repo. I'd like to see that content in a tools-for-thought database. ",
+                    "created": "Tue, 02 Nov 2021 18:45:59 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "When we're there, I'll feel like we're really going somewhere..",
+                    "created": "Tue, 02 Nov 2021 18:46:14 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Sell Staten Island",
+            "created": "Wed, 03 Nov 2021 01:56:49 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2021/11/02/ferry.png",
+            "subs": [
+                {
+                    "text": "We should sell Staten Island to Texas.",
+                    "created": "Wed, 03 Nov 2021 01:56:53 GMT",
+                    "inlineImage": "http://scripting.com/images/2021/11/02/whoNeedsStatenIsland.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
