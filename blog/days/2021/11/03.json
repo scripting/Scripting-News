@@ -1,0 +1,144 @@
+{
+    "created": "2021-11-03T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "03",
+    "path": "2021/11/03",
+    "text": "November 03",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "The <a href=\"http://docserver.scripting.com/drummer/scripting.opml\">Scripting howto</a> for Drummer. ",
+            "created": "Wed, 03 Nov 2021 14:31:32 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I <a href=\"https://twitter.com/davewiner/status/1455714840375435264\">suggested</a> to <a href=\"https://twitter.com/eastgate\">Mark Bernstein</a> at Eastgate that they could use Old School to <a href=\"http://docserver.scripting.com/drummer/blogging.opml\">update a blog</a> from their hypertext software the same way it works in Drummer. He <a href=\"https://twitter.com/eastgate/status/1455729745178599430\">asked</a> for more info.  Here's the resulting <a href=\"https://twitter.com/davewiner/status/1455907981644730369\">thread</a>. ",
+            "created": "Wed, 03 Nov 2021 15:22:32 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/11/03/zuckerbergDogDoll.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'd love to have an excellent connection between \"Drummer\" and GitHub via <a href=\"http://docserver.scripting.com/drummer/scripting.opml\">scripting</a>. Scott Hanson and Kevin Tofel are having a <a href=\"https://github.com/scripting/drummerRFC/issues/3#issuecomment-958793021\">discussion</a> on how to get that started over the the RFC site. ",
+            "created": "Wed, 03 Nov 2021 14:18:08 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/Devilstower/status/1455940510653235203\">Mark Sumner</a>: Voters observing Democrats: \"Why hasn't the administration, Congress, or DOJ held anyone responsible for Jan. 6?\" Democrats observing election results: \"Why won't voters hold Republicans responsible for Jan. 6?\"",
+            "created": "Wed, 03 Nov 2021 16:57:18 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/Devilstower/status/1455940510653235203",
+            "flInCalendar": true
+        },
+        {
+            "text": "Zuckerberg is proof that no matter how rich you get, no matter how huge your product and company get, you still just get a <a href=\"http://scripting.com/2016/05/31/1296.html\">human-size life</a>. We're all proof of that, btw -- but for most of us, no one ever thought we were anything more than a human being. ",
+            "created": "Wed, 03 Nov 2021 21:06:23 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The Knicks have a new slogan, <a href=\"https://www.espn.com/nba/story/_/id/32505366/bing-bong-new-york-knicks-lastest-rallying-cry-simple-phrase-pays-homage-city-roots\">bing bong</a>. It's lovely. I also like <a href=\"https://www.google.com/search?q=%22bingo+bongo+bingo%22+site%3Ascripting.com\">bingo bongo bingo</a>. It just comes out of my mouth sometimes. ",
+            "created": "Wed, 03 Nov 2021 14:35:27 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "There was a lot of angst in my family when I was growing up. I guess a lot of families have it, but I think we had more than most because before my uncle and myself, we were the first in our family to be born in the US, everyone emigrated, running for their lives from the Nazis, and coming close to not making it. They were all survivors, and had traits of people with severe <a href=\"https://en.wikipedia.org/wiki/Post-traumatic_stress_disorder\">PTSD</a>, untreated because this was the 60s and 70s, before they even knew such a thing existed in any formal treatable way. Anyway, I must've had a heavy family dream last night because I woke up feeling upset, unsettled, unloved -- all the feelings I knew very well in childhood. ",
+            "created": "Wed, 03 Nov 2021 14:36:13 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/11/03/americanPsycho.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "My GitHub projects",
+            "created": "Wed, 03 Nov 2021 14:22:15 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Over the years I have been trying to find a magic connection to GitHub. It seems too good a resource to not use in some first class way. Here are a few of my GitHub reading and writing projects.",
+                    "created": "Wed, 03 Nov 2021 13:54:36 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "<a href=\"https://github.com/scripting/publishScriptingOpml\">publishScriptingOpml</a> -- A simple server that copies scripting.com's OPML to the instantOutlines project on GitHub, when pinged. ",
+                            "created": "Wed, 03 Nov 2021 13:54:46 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "<a href=\"https://github.com/scripting/github\">github</a> -- The source for the <a href=\"https://www.npmjs.com/package/davegithub\">davegithub</a> package that reads and writes to and from GitHub. ",
+                            "created": "Wed, 03 Nov 2021 13:55:57 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "<a href=\"https://github.com/scripting/oldSchoolNightly\">oldSchoolNightly</a> -- A script that runs on the same machine as my CMS, that uploads JSON, OPML, RSS and HTML files from Scripting News to the repository on GitHub, every night.  ",
+                            "created": "Wed, 03 Nov 2021 13:56:57 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "<a href=\"https://github.com/scripting/githubpub\">githubpub</a> -- A Node app that serves from GitHub repositories over the web.  ",
+                            "created": "Wed, 03 Nov 2021 13:57:40 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "<a href=\"https://github.com/scripting/opmlToGitHub\">opmlToGitHub</a> -- A Node app that reads an OPML file, converts it to Markdown, and uploads it to GitHub. ",
+                            "created": "Wed, 03 Nov 2021 13:58:50 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "<a href=\"https://github.com/scripting/pagePark\">pagepark</a> -- My general-purpose Node web server can serve from a GitHub repo. That's how the <a href=\"http://xmlrpc.com/\">xmlrpc.com</a> and <a href=\"http://pagepark.io/\">pagepark.io</a> sites work. ",
+                            "created": "Wed, 03 Nov 2021 13:59:54 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "<a href=\"http://this.how/english/\">english</a> -- An editor that runs in the browser that can create and edit a Markdown document in a GitHub repository.",
+                            "created": "Wed, 03 Nov 2021 14:02:18 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "I ❤️ HTTPS",
+            "created": "Wed, 03 Nov 2021 15:35:51 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "A user said they were surprised that I encouraged people to use HTTPS with their \"Drummer\" blogs, even though I <a href=\"http://this.how/googleAndHttp/\">speak out</a> against Google trying to force HTTPS on the open web.",
+                    "created": "Wed, 03 Nov 2021 15:36:09 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "These are very different things!",
+                    "created": "Wed, 03 Nov 2021 15:39:06 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I want people to use my software in every way that makes sense, and if you're generating web content, which Drummer most certainly <a href=\"http://docserver.scripting.com/drummer/blogging.opml\">does</a>, HTTPS is one of the things people want to do. I support this. Let me say that slowly: I. Support. This.",
+                    "created": "Wed, 03 Nov 2021 15:36:40 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Further, I use HTTPS myself. I am glad my bank uses it. And the health clinic I use. ",
+                    "created": "Wed, 03 Nov 2021 15:40:18 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "What I object to is Google trying to take ownership of the web. I love that the web is the platform with no platform vendor. We're all guests here and that includes big companies like Google. And guests don't make the rules. ",
+                    "created": "Wed, 03 Nov 2021 15:37:26 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I know some people run their lives such that they won't work with other people who don't see the world <i>exactly</i> as they do -- but I am not one of those people. Emphatically. I preach working together. It's my mission more than anything else. I am against walls that keep people out. Except with my private info, then I like them. See how that works?",
+                    "created": "Wed, 03 Nov 2021 15:38:09 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
