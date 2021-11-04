@@ -1,0 +1,51 @@
+{
+    "text": "My GitHub projects",
+    "created": "Wed, 03 Nov 2021 14:22:15 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Over the years I have been trying to find a magic connection to GitHub. It seems too good a resource to not use in some first class way. Here are a few of my GitHub reading and writing projects.",
+            "created": "Wed, 03 Nov 2021 13:54:36 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "<a href=\"https://github.com/scripting/publishScriptingOpml\">publishScriptingOpml</a> -- A simple server that copies scripting.com's OPML to the instantOutlines project on GitHub, when pinged. ",
+                    "created": "Wed, 03 Nov 2021 13:54:46 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://github.com/scripting/github\">github</a> -- The source for the <a href=\"https://www.npmjs.com/package/davegithub\">davegithub</a> package that reads and writes to and from GitHub. ",
+                    "created": "Wed, 03 Nov 2021 13:55:57 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://github.com/scripting/oldSchoolNightly\">oldSchoolNightly</a> -- A script that runs on the same machine as my CMS, that uploads JSON, OPML, RSS and HTML files from Scripting News to the repository on GitHub, every night.  ",
+                    "created": "Wed, 03 Nov 2021 13:56:57 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://github.com/scripting/githubpub\">githubpub</a> -- A Node app that serves from GitHub repositories over the web.  ",
+                    "created": "Wed, 03 Nov 2021 13:57:40 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://github.com/scripting/opmlToGitHub\">opmlToGitHub</a> -- A Node app that reads an OPML file, converts it to Markdown, and uploads it to GitHub. ",
+                    "created": "Wed, 03 Nov 2021 13:58:50 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://github.com/scripting/pagePark\">pagepark</a> -- My general-purpose Node web server can serve from a GitHub repo. That's how the <a href=\"http://xmlrpc.com/\">xmlrpc.com</a> and <a href=\"http://pagepark.io/\">pagepark.io</a> sites work. ",
+                    "created": "Wed, 03 Nov 2021 13:59:54 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"http://this.how/english/\">english</a> -- An editor that runs in the browser that can create and edit a Markdown document in a GitHub repository.",
+                    "created": "Wed, 03 Nov 2021 14:02:18 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
