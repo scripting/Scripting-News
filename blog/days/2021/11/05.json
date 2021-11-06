@@ -1,0 +1,35 @@
+{
+    "created": "2021-11-05T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "05",
+    "path": "2021/11/05",
+    "text": "November 05",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Here's a <a href=\"https://github.com/scripting/drummerRFC/issues/5#issuecomment-961942204\">pretty good writeup</a> of why I want to get my OPML documents into tools-for-thought databases. ",
+            "created": "Fri, 05 Nov 2021 14:34:43 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The other day Gruber read the <a href=\"https://twitter.com/davewiner/status/1453349951665287168\">Infoworld review</a> of ThinkTank in 1983, and <a href=\"https://twitter.com/gruber/status/1455673711634300930\">wondered</a> about the \"Pascal operating system\" they referred to. It was the <a href=\"http://pascal.hansotten.com/ucsd-p-system/\">UCSD P-system</a>. Without it I would not have been able to build an app as rich as ThinkTank that ran on the Apple II. UCSD was an orders of magnitude more memory-efficient than BASIC or assembly language, very important for a machine with just 48K for application code. And the P-system had overlays. Which meant if something didn't have to be in memory all the time, it could be swapped in when needed. Most Apple IIs only had floppy drives in those days, so it was slow and a pain in the ass, but a lot faster than quitting the program, inserting another disk and launching another app just to edit the text of a headline. What I learned as a result of Gruber's inquiry is that the P-system was one of <a href=\"https://en.wikipedia.org/wiki/James_Gosling\">James Gosling's</a> <a href=\"https://en.wikipedia.org/wiki/UCSD_Pascal#cite_note-6\">inspirations</a> for <a href=\"https://en.wikipedia.org/wiki/Java_(programming_language)\">Java</a>. ",
+            "created": "Fri, 05 Nov 2021 14:35:50 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I was on a drive yesterday on the <a href=\"https://en.wikipedia.org/wiki/Massachusetts_Turnpike\">Masspike</a> and stopped in at a truckstop and bought a <a href=\"http://subway.com/\">Subway</a> sandwich, paid cash, went to the bathroom, noted that most of the truckers weren't wearing masks and continued my trip back to the <a href=\"https://en.wikipedia.org/wiki/New_York_State_Thruway\">NY State Thruway</a>. I used to eat Subways a lot when I was driving cross-country back in the <a href=\"http://morningcoffeenotes.com/\">early days of podcasting</a>, doing my road trip casts. Well here's the funny thing. I got an email today from Subway saying how they're running a special. And I saw an ad for Subway on Facebook. Hello. Did I get made even though I paid cash? Did they have a face recognition camera in the truckstop? Oy. Living in the future kind of sucks. ",
+            "created": "Fri, 05 Nov 2021 14:04:49 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/11/05/subwaySandwich.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Devs, you can have OPML in JSON. We have a <a href=\"https://www.npmjs.com/package/opml?activeTab=readme\">toolkit</a> that reads OPML files and returns JavaScript structures, among other things. From there, do whatever you want.",
+            "created": "Fri, 05 Nov 2021 22:31:02 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
