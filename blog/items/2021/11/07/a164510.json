@@ -1,0 +1,23 @@
+{
+    "text": "Debugging http.client",
+    "created": "Sun, 07 Nov 2021 16:45:10 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Scott <a href=\"https://github.com/scripting/drummerRFC/issues/6#issuecomment-962586664\">asked</a> whether <a href=\"http://docserver.scripting.com/?verb=http.client\">http.client</a> does headers, and at first I said no, but then when I dug in, I realized yes, it does, for non-proxied calls, and with a simple addiiton it should work with proxied calls as well. ",
+            "created": "Sun, 07 Nov 2021 16:03:43 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I made the change in the released web Drummer, so theoretically it should work now. I don't have something immediately available to test with. ",
+            "created": "Sun, 07 Nov 2021 16:48:00 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you're expecting to do HTTP-related programming from Drummer, this is something you should pay attention and if possible participate in. This is an important verb, and it's important to get it right. ",
+            "created": "Sun, 07 Nov 2021 16:47:56 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
