@@ -1,0 +1,23 @@
+{
+    "text": "JavaScript in Drummer",
+    "created": "Sun, 07 Nov 2021 16:45:16 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "<a href=\"http://oldschool.scripting.com/PostMonsterG/?tab=blog\">Gary Teter</a>, whose name I recognize from the Frontier community, I think -- has been writing eloquently about JavaScript and Drummer. I'm learning a lot reading how the product reflects off his mind. ",
+            "created": "Sun, 07 Nov 2021 16:49:57 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "And I agree totally about the potential for JavaScript which is being wasted by the way the language is being driven. We should be trying to coalesce it, not drive it apart into a bunch of incompatible languages. Reminds me of something <a href=\"https://rms2.tumblr.com/post/35571080444/andrew-singer\">Andrew Singer</a> who started Think Technologies (a company that should be remembered btw) -- in tech we don't stand on the shoulders of giants, we stand on their toes. ",
+            "created": "Sun, 07 Nov 2021 16:05:42 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "We have another chance to coalesce JavaScript. Drummer's language, which Gary has a name for btw, one that I like, removes the one imho sin of JavaScript that keeps it from being a scripting language. And I'm trying to hone a broad verb set, and writing good docs for them, and just in general slowing down and getting it right, looking at prior art, and not deprecting things that matter (like <i>request</i> in Node.js, what a terrible idea!). It's all been very mindless. But JavaScript's universality is as important as say RSS's. It should be focused and developed. Yes, I am that ambitious for the language in Drummer which may soon have a name. 😇",
+            "created": "Sun, 07 Nov 2021 16:08:41 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
