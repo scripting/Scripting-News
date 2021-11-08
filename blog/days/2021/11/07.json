@@ -1,0 +1,82 @@
+{
+    "created": "2021-11-07T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "07",
+    "path": "2021/11/07",
+    "text": "November 07",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "A Twitter <a href=\"https://twitter.com/davewiner/status/1457377401386721288\">thread</a> on the name of the language in Drummer. ",
+            "created": "Sun, 07 Nov 2021 16:01:14 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Anton <a href=\"https://github.com/scripting/drummerSupport/issues/105#issuecomment-962507805\">asked</a> why don't the outlines rendered through PagePark support the same <a href=\"http://docserver.scripting.com/drummer/instantOutlines.opml\">Instant Outlines</a> feature that Drummer and Concord Reader support.  There was no good answer, so I made it work. There's a quick video demo <a href=\"http://scripting.com/drummer/blog/2021/11/07/175742.html?title=instantOutlinesInPageparkservedOutlines\">here</a>. ",
+            "created": "Sun, 07 Nov 2021 18:01:58 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Debugging http.client",
+            "created": "Sun, 07 Nov 2021 16:45:10 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Scott <a href=\"https://github.com/scripting/drummerRFC/issues/6#issuecomment-962586664\">asked</a> whether <a href=\"http://docserver.scripting.com/?verb=http.client\">http.client</a> does headers, and at first I said no, but then when I dug in, I realized yes, it does, for non-proxied calls, and with a simple addiiton it should work with proxied calls as well. ",
+                    "created": "Sun, 07 Nov 2021 16:03:43 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I made the change in the released web Drummer, so theoretically it should work now. I don't have something immediately available to test with. ",
+                    "created": "Sun, 07 Nov 2021 16:48:00 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If you're expecting to do HTTP-related programming from Drummer, this is something you should pay attention and if possible participate in. This is an important verb, and it's important to get it right. ",
+                    "created": "Sun, 07 Nov 2021 16:47:56 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "JavaScript in Drummer",
+            "created": "Sun, 07 Nov 2021 16:45:16 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"http://oldschool.scripting.com/PostMonsterG/?tab=blog\">Gary Teter</a>, whose name I recognize from the Frontier community, I think -- has been writing eloquently about JavaScript and Drummer. I'm learning a lot reading how the product reflects off his mind. ",
+                    "created": "Sun, 07 Nov 2021 16:49:57 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And I agree totally about the potential for JavaScript which is being wasted by the way the language is being driven. We should be trying to coalesce it, not drive it apart into a bunch of incompatible languages. Reminds me of something <a href=\"https://rms2.tumblr.com/post/35571080444/andrew-singer\">Andrew Singer</a> who started Think Technologies (a company that should be remembered btw) -- in tech we don't stand on the shoulders of giants, we stand on their toes. ",
+                    "created": "Sun, 07 Nov 2021 16:05:42 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "We have another chance to coalesce JavaScript. Drummer's language, which Gary has a name for btw, one that I like, removes the one imho sin of JavaScript that keeps it from being a scripting language. And I'm trying to hone a broad verb set, and writing good docs for them, and just in general slowing down and getting it right, looking at prior art, and not deprecting things that matter (like <i>request</i> in Node.js, what a terrible idea!). It's all been very mindless. But JavaScript's universality is as important as say RSS's. It should be focused and developed. Yes, I am that ambitious for the language in Drummer which may soon have a name. 😇",
+                    "created": "Sun, 07 Nov 2021 16:08:41 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Georgia O'Keeffe",
+            "created": "Mon, 08 Nov 2021 00:55:25 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://www.wikiart.org/en/georgia-o-keeffe/red-poppy\">Red Poppy</a>, 1927.",
+                    "created": "Mon, 08 Nov 2021 00:55:30 GMT",
+                    "inlineImage": "http://scripting.com/images/2021/11/07/redPoppy.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
