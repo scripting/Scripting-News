@@ -1,0 +1,39 @@
+{
+    "created": "2021-11-09T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "09",
+    "path": "2021/11/09",
+    "text": "November 09",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I'm spending a couple of days <a href=\"https://github.com/scripting/drummerRFC/issues/7\">baking</a> GitHub into \"Drummer\" via scripting. We used to call this a \"scriptable app\" on the Mac, when apps were <a href=\"https://en.wikipedia.org/wiki/FileMaker\">Filemaker</a> and <a href=\"https://en.wikipedia.org/wiki/QuarkXPress\">Quark Xpress</a>, the <a href=\"https://en.wikipedia.org/wiki/Finder_(software)\">Finder</a>, stuff like that. Then when \"Frontier\" moved to the web, the apps were <a href=\"https://en.wikipedia.org/wiki/Eudora_(email_client)\">Eudora</a>, <a href=\"https://en.wikipedia.org/wiki/Netscape\">Netscape</a>, <a href=\"https://en.wikipedia.org/wiki/Internet_Explorer\">MSIE</a> and <a href=\"https://en.wikipedia.org/wiki/MacHTTP\">MacHTTP</a>, then Google and \"Manila\", then WordPress and Twitter. Along the way came new protocols -- \"XML-RPC\", \"RSS\", \"OPML\". Drummer already has excellent scripting support for <a href=\"http://docserver.scripting.com/?verb=twitter.addGroupToList\">Twitter</a>. I made this a priority to have one really good scriptable app when Drummer came out. Now I'm working on the second biggie. I wrote <a href=\"http://scripting.com/2021/11/08.html#a143815\">yesterday</a> that GitHub could be <a href=\"https://en.wikipedia.org/wiki/MS-DOS\">MS-DOS</a>. What I meant is that it's basic low-cost storage for everyone with a GitHub account that's about as easy to work with as MS-DOS was. For early adopters, what we used to call power users. It's an amazing resource. And that made me think of MS-DOS because both are owned by Microsoft and storage is basically what MS-DOS did, and btw, MS-DOS is the one product they didn't use as a weapon when they were trying to usurp the web, so it has a nice taste to it, still. I have <a href=\"https://github.com/scripting/drummerRFC/issues/7\">started a thread</a>, on GitHub of course, narrating what I've got working. Watch this space.",
+            "created": "Tue, 09 Nov 2021 16:43:16 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/11/09/2001.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I put about twenty <a href=\"https://en.wikipedia.org/wiki/Tom_Petty\">Tom Petty</a> songs on my iPhone and have been <a href=\"https://www.youtube.com/watch?v=1lWJXDG2i0A\">listening</a> to <a href=\"https://www.youtube.com/watch?v=xqmFxgEGKH0\">them</a> on and off. The thing about Tom Petty is his songs are the kind that you sing in your head all the time days and days awake or in dreams. To have twenty Petty tunes co-resident means you're living the Tom Petty lifestyle, <a href=\"https://www.youtube.com/watch?v=uMyCa35_mOg\">waiting</a> for it to pass, but kind of hoping it doesn't. It's kind of like <a href=\"https://en.wikipedia.org/wiki/Rickrolling\">Rickrolling</a> but with really good music. ",
+            "created": "Tue, 09 Nov 2021 16:40:07 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=uMyCa35_mOg",
+            "flInCalendar": true
+        },
+        {
+            "text": "Central Park",
+            "created": "Tue, 09 Nov 2021 17:16:40 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2021/11/09/centralPark.png",
+            "subs": [
+                {
+                    "text": "On this day in 2013.",
+                    "created": "Tue, 09 Nov 2021 17:16:44 GMT",
+                    "inlineImage": "http://scripting.com/images/2021/11/09/centralPark.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
