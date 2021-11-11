@@ -1,0 +1,103 @@
+{
+    "text": "Why GitHub, for poets",
+    "created": "Wed, 10 Nov 2021 14:51:08 GMT",
+    "type": "outline",
+    "description": "Think of GitHub as a great arena where all kinds of sports are played, except in this analogy the sports are ideas and docs.",
+    "metaImage": "http://scripting.com/2016/10/31/auroraBridge.png",
+    "subs": [
+        {
+            "text": "I'm sure the plumbers fully appreciate the value of hooking up a writing tool like \"Drummer\" to the default place in the world for posting code. ",
+            "created": "Wed, 10 Nov 2021 14:51:16 GMT",
+            "subs": [
+                {
+                    "text": "We can do a lot of renderings of outlines in Markdown, which is the writing language favored by GitHub. ",
+                    "created": "Wed, 10 Nov 2021 14:51:48 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Watch out, because the docs on GitHub are about to get an upgrade, the same kind of lift blogging gets from writing with an outliner.",
+                    "created": "Wed, 10 Nov 2021 14:52:08 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Docs are even more structured than blogs.   ",
+                    "created": "Wed, 10 Nov 2021 14:52:29 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Okay that's the plumber's rationale.  ",
+            "created": "Wed, 10 Nov 2021 14:52:37 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "For poets, think of GitHub as a great arena where all kinds of sports are played, except in this analogy the sports are ideas and docs. ",
+            "created": "Wed, 10 Nov 2021 14:52:50 GMT",
+            "subs": [
+                {
+                    "text": "Until now there hasn't been a great arena for poets. There's only been such an arena for programmers, and that's very new. GitHub didn't exist as the great programming idea arena until maybe the mid-teens. Maybe it's just now starting to come into its own.",
+                    "created": "Wed, 10 Nov 2021 14:53:25 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Certainly a big publishing platform like Facebook and Medium had the opportunity to do this, but the too quickly pivoted to business models, and that had a chilling effect at making it a great arena for ideas. ",
+                    "created": "Wed, 10 Nov 2021 14:54:26 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Amazon, amazingly, had the best opportunity to create such an arena, I <a href=\"http://scripting.com/2017/01/18/enduserStorageFromAmazon.html\">begged</a> them to do it, openly, but they wouldn't do it.",
+                    "created": "Wed, 10 Nov 2021 14:55:09 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "What does such an arena need? Not a whole lot actually.",
+                    "created": "Wed, 10 Nov 2021 14:55:37 GMT",
+                    "subs": [
+                        {
+                            "text": "A simple user authentication method. The technology for this is called OAuth. It's what everyone uses. It's what GitHub uses. Twitter does, Facebook, Slack, on and on. The important thing about this method of authentication is that YOU KNOW HOW TO DO IT.  You use it, you don't even think about it. It makes sense to you. So right off the bat, you're ready to join in. I can put a command in a menu to <i>Log on to GitHub</i> and you won't be surprised at all by what it does.",
+                            "created": "Wed, 10 Nov 2021 14:55:47 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "The only other thing it needs to do is storage, and GitHub does that, very powerfully. Have a look at my <a href=\"https://github.com/scripting/artDownloader\">ArtDownloader</a> project for an idea. There is a <a href=\"http://scripting.com/images/2021/11/10/artdirectoryscreenshot.png\">huge amount</a> of art there. It's great stuff. Hook it up to your screen saver, and enrich your life. It's free for you, and guess what, it's free for me too. GitHub says fine, we'll host it, you don't even have to ask. You can create your own repos. I promise you, it's not hard and we can probably even make it easier, given enough time. ",
+                            "created": "Wed, 10 Nov 2021 14:57:34 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Why is it such a great arena?",
+                    "created": "Wed, 10 Nov 2021 14:59:24 GMT",
+                    "subs": [
+                        {
+                            "text": "Because you can point other apps to the arena you write to using Drummer, and they can do stuff for you with that data. ",
+                            "created": "Wed, 10 Nov 2021 14:59:29 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "It's a fucking platform. It's free. ",
+                            "created": "Wed, 10 Nov 2021 14:59:52 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Another thing it is -- based on an open standard -- GIT. So we're not getting locked in the trunk here. We are free to leave. We are depending on their API which their competitors will hopefully clone. They'd be idiots if they didn't. They probably already are. ",
+                            "created": "Wed, 10 Nov 2021 15:00:03 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This is where I like to work -- at the edge of possibility. We might be able to bootstrap something wonderful here. I am certainly optimistic myself based on the intelligence and curiosity of the people who are using Drummer. And their collegiality. That's the most important ingredient. I've had all this stuff for years, outliners, code that writes to GitHub, scripting interpreters, etc etc. But having all of it in a package that is used by enough smart people, to help start the bootstrap, that's like the sourdough starters everyone was trading in the early days of the pandemic. You can have all the ingredients, but if you don't have people to play in the arena, nothing interesting is going to happen. ",
+                    "created": "Wed, 10 Nov 2021 15:01:12 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
