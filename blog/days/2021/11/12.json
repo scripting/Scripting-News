@@ -1,0 +1,43 @@
+{
+    "created": "2021-11-12T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "12",
+    "path": "2021/11/12",
+    "text": "November 12",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Poll: <a href=\"https://twitter.com/davewiner/status/1459138243446857729\">Metaverse?</a>",
+            "created": "Fri, 12 Nov 2021 13:43:20 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://blog.twitter.com/en_us/topics/company/2021/introducing-twitter-blue\">Twitter Blue</a> which I accidentally subscribed to, actually deletes your tweets if you aren’t paying close attention. It’s supposed to be a feature I guess, give you a chance to change your mind. I’ve lost a bunch of writing this way. Did they user test this?",
+            "created": "Fri, 12 Nov 2021 20:34:57 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/02/19/blueJello.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "When I was starting out in tech, after getting a degree in computer science, I was drawn to PCs because the adults hadn’t gotten there first. They were still simple. If they had kept their stuff simple, I might have invested on their platforms. The web after all these years is still really simple if you ignore Google and use common sense. It’s still possible to see the web as unspoiled as it was at the beginning. Just ignore Google and it’s all good.",
+            "created": "Fri, 12 Nov 2021 13:44:03 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Catbercrombie",
+            "created": "Fri, 12 Nov 2021 14:15:33 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "A cat in an Abercrombie bag, via Facebook. ",
+                    "created": "Fri, 12 Nov 2021 14:15:38 GMT",
+                    "inlineImage": "http://scripting.com/images/2021/11/12/catbercrombie.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
