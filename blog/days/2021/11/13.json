@@ -1,0 +1,47 @@
+{
+    "created": "2021-11-13T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "13",
+    "path": "2021/11/13",
+    "text": "November 13",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Someone once said that music is <a href=\"https://twitter.com/jamieeast/status/1459250740837470219\">bass and drums</a>, and all the rest is just dressing up.  ",
+            "created": "Sat, 13 Nov 2021 14:10:17 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/jamieeast/status/1459250740837470219",
+            "flInCalendar": true
+        },
+        {
+            "text": "Algorithmic humanity ",
+            "created": "Sat, 13 Nov 2021 13:10:55 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2021/11/13/algorithmicHumans.png",
+            "description": "The humans behave because they are programmed to.",
+            "subs": [
+                {
+                    "text": "That's how Facebook transforms into Meta.",
+                    "created": "Sat, 13 Nov 2021 13:11:01 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "That’s how they solve the ills of social networks.",
+                    "created": "Sat, 13 Nov 2021 13:11:16 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The humans behave because they are programmed to.",
+                    "created": "Sat, 13 Nov 2021 13:11:23 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "That’s what they mean when they promise a Disney-like experience. ",
+                    "created": "Sat, 13 Nov 2021 13:11:02 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
