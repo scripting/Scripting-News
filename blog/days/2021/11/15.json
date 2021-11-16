@@ -1,0 +1,25 @@
+{
+    "created": "2021-11-15T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "15",
+    "path": "2021/11/15",
+    "text": "November 15",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Edward Hopper",
+            "created": "Mon, 15 Nov 2021 18:31:22 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2021/11/15/conferenceAtNight.png",
+            "subs": [
+                {
+                    "text": "<a href=\"https://www.wikiart.org/en/edward-hopper/conference-at-night\">Conference at Night</a>, 1949. ",
+                    "created": "Mon, 15 Nov 2021 18:31:31 GMT",
+                    "inlineImage": "http://scripting.com/images/2021/11/15/conferenceAtNight.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
