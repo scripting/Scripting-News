@@ -1,0 +1,167 @@
+{
+    "created": "2021-11-17T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "17",
+    "path": "2021/11/17",
+    "text": "November 17",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "A <a href=\"http://scripting.com/2021/11/17/projectGlorp.m4a\">podcast</a> about  Project Glorp.",
+            "created": "Wed, 17 Nov 2021 16:02:47 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2021/11/17/projectGlorp.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "30320086",
+            "flInCalendar": true
+        },
+        {
+            "text": "A collection of great art in <a href=\"https://github.com/scripting/artDownloader\">one big folder</a>. Download and point your screen saver at the folder for a live art show.",
+            "created": "Thu, 18 Nov 2021 01:56:03 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'd love to discuss Markdown with people who know Markdown and use Drummer. We should have a Markdown nodetype. I've been playing around with it, but I'm not satisfied with what I have yet, not ready to lock it down. Here's <a href=\"https://github.com/scripting/drummerRFC/issues/14\">an RFC</a> with a link to an example. ",
+            "created": "Wed, 17 Nov 2021 22:15:50 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Project Glorp",
+            "created": "Wed, 17 Nov 2021 15:12:47 GMT",
+            "type": "outline",
+            "description": "Glorp is for you if you document projects on GitHub. It's good at managing docs across lots of projects, all in one outline. ",
+            "metaImage": "http://scripting.com/images/2021/11/17/glorp.png",
+            "subs": [
+                {
+                    "text": "The next Drummer-related project is called [[Glorp]]. ",
+                    "created": "Wed, 17 Nov 2021 15:13:08 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Glorp is for you if you document projects on GitHub. It's good at managing docs across lots of projects, all in one outline. ",
+                    "created": "Wed, 17 Nov 2021 15:16:03 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'd like to get a small group of people who do a lot of doc-writing for GitHub to review the design and docs.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If you're part of the test group, you are making a commitment to use the software, to report problems, to let us know if fixes worked. ",
+                    "created": "Wed, 17 Nov 2021 15:22:09 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'm looking forward to working on this software with some excellent developer docs kind of people. ",
+                    "created": "Wed, 17 Nov 2021 15:13:44 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If you'd like to be part of the test group, <a href=\"https://docs.google.com/forms/d/e/1FAIpQLScFQVIFPYAMgudYkpADq6pLuYOoZzX6F-2WXdS2uvcpMFXGlA/viewform\">please fill out this form</a>. ",
+                    "created": "Wed, 17 Nov 2021 15:15:25 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<i>Glorp!</i>",
+                    "created": "Wed, 17 Nov 2021 15:13:45 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: A <a href=\"http://scripting.com/2021/11/17/projectGlorp.m4a\">podcast</a> about Glorp.",
+                    "created": "Wed, 17 Nov 2021 16:16:28 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "A week of Peloton",
+            "created": "Wed, 17 Nov 2021 16:18:47 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I've had my [[Peloton]] for a couple of weeks now. ",
+                    "created": "Wed, 17 Nov 2021 16:19:04 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I've done a session every day for the last six days. ",
+                    "created": "Wed, 17 Nov 2021 16:19:21 GMT",
+                    "inlineImage": "http://scripting.com/images/2021/11/17/calendar.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "At first I didn't think I wanted to do the classes, but the second time I tried a class I was intrigued, then by the third, I was hooked. ",
+                    "created": "Wed, 17 Nov 2021 16:21:20 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The exercise on a Peloton is more than twice the exercise you get riding around the moutains on an E-bike. It's hard work going up the hills, but you get to just have fun going down, there's no work involved. So 20 minutes of Peloton riding equals 40 minutes of road riding. Only it's even more, because you're working harder. Always harder. ",
+                    "created": "Wed, 17 Nov 2021 16:22:47 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "My legs feel stronger and healthier, and overall I feel that way too. ",
+                    "created": "Wed, 17 Nov 2021 16:24:03 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "An entirely positive experience, and my idea of what exercise is about is shifting in an interesting way.",
+                    "created": "Wed, 17 Nov 2021 16:24:47 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And -- tomorrow I get my Tesla Model 3. So I expect some more major horizon busting is to come. ",
+                    "created": "Wed, 17 Nov 2021 16:25:05 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Chromebook for Dave?",
+            "created": "Wed, 17 Nov 2021 18:40:46 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Thinking of a <a href=\"https://www.amazon.com/s?k=chromebook&ref=nb_sb_noss_2\">Chromebook</a>, for reading news over breakfast, possibly taking it with me to a coffee place to do a little writing. ",
+                    "created": "Wed, 17 Nov 2021 18:40:54 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Running an Electron app in Linux? Is this possible?",
+                    "created": "Wed, 17 Nov 2021 18:41:59 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It should have a couple of USB ports, bluetooth, a  nice keyboard, mike, camera, etc. ",
+                    "created": "Wed, 17 Nov 2021 18:42:24 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Looks nice. Light.",
+                    "created": "Wed, 17 Nov 2021 18:42:35 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Under $200?",
+                    "created": "Wed, 17 Nov 2021 18:41:02 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Comment <a href=\"https://twitter.com/davewiner/status/1461041596401688579\">here</a>. ",
+                    "created": "Wed, 17 Nov 2021 18:41:02 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: I went with the <a href=\"https://www.amazon.com/gp/product/B086383HC7/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&th=1\">Lenovo Chromebook Flex 5</a>. ",
+                    "created": "Thu, 18 Nov 2021 01:58:28 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
