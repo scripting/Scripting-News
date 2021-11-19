@@ -1,0 +1,46 @@
+{
+    "text": "A simple XML viewer?",
+    "created": "Thu, 18 Nov 2021 13:31:47 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "When you view a normal XML file in the browser, Chrome gives you a simple, <a href=\"http://scripting.com/images/2021/11/18/xmlviewofscriptingopml.png\">readable XML viewer</a>. ",
+            "created": "Thu, 18 Nov 2021 14:22:47 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I want to be able to invoke that viewer from a JavaScript app running in the browser. ",
+            "created": "Thu, 18 Nov 2021 14:30:52 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Some kind of JavaScript call like",
+            "created": "Thu, 18 Nov 2021 13:32:01 GMT",
+            "flCodeSubs": "true",
+            "subs": [
+                {
+                    "text": " window.xmlViewer (xmltext);",
+                    "created": "Thu, 18 Nov 2021 14:21:54 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "The only other option is to rewrite it from scratch, which I'm open to doing but would rather not. <a href=\"https://github.com/scripting/Scripting-News/issues/226\">Does anyone know if such a thing exists</a>?",
+            "created": "Thu, 18 Nov 2021 14:21:57 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, one of the things that kind of silently limits the size of RSS is the way browsers display RSS feeds. They can handle other XML types in a normal sensible way. But the RSS viewer is broken. I wish they would just let it be, and show it as a normal XML file. ",
+            "created": "Thu, 18 Nov 2021 13:31:58 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "A <a href=\"https://github.com/scripting/Scripting-News/issues/226\">thread</a> to discuss.",
+            "created": "Thu, 18 Nov 2021 13:35:19 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
