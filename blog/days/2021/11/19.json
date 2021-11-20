@@ -1,0 +1,113 @@
+{
+    "created": "2021-11-19T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "19",
+    "path": "2021/11/19",
+    "text": "November 19",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "A new Drummer verb, <a href=\"http://docserver.scripting.com/?verb=rss.readFeed\">rss.readFeed</a>, returns a JavaScript object. This used to be a complex thing to do, but it's absolutely as simple as it can be. I did something new here. I'm only passing through values that are documented in the <a href=\"https://cyber.harvard.edu/rss/rss.html\">RSS 2.0 spec</a> and the <a href=\"http://source.scripting.com/\">source namespace</a>. That's not as draconian as it might sound, because I'm using a <a href=\"https://github.com/danmactough/node-feedparser\">Node package</a> written by my friend Dan MacTough that handles all the common feed flavors, including Atom. His code translates the variants to a common vocabulary. And I further winnow it down to just the basic concepts. To some extent, RSS grew in an unruly chaotic way, but imho the core is solid. After all this time, with \"Drummer\" as a new platform, I think it's a good time to pause and create (hopefully) a simpler future that can work better.  ",
+            "created": "Fri, 19 Nov 2021 21:58:57 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/09/11/tide.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "A <a href=\"https://github.com/scripting/drummerRFC/issues/14#issuecomment-974157255\">discussion</a> about how Markdown should be processed for Drummer blogs. Basically, what role if any should indentation play, and how many newlines to generate for each line in the outline. My current position -- indentation should play no role in the Markdown we generate from the outline, it should be ignored. And we should generate one newline for every line in the outline. Note this is not how Drummer works now. ",
+            "created": "Fri, 19 Nov 2021 15:16:46 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "What people at bigco's say for 2000, Alex",
+            "created": "Fri, 19 Nov 2021 16:33:01 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Something I've been hearing from employees of big tech companies for my entire career, going back to the late 70s --> \"Who the fuck are you?\"",
+                    "created": "Fri, 19 Nov 2021 16:33:13 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "That's what they say and do. So many examples. And almost all of them are gone. They were significant, maybe, for a few weeks. Then poof, some other asshole at some other tech giant comes along, and gets his or her (mostly his) few minutes to be a super asshole. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "How much more would we get done if we lived up to the hype about supporting innovation. You can't do a lot of that as some random putz inside of a bigco. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You pretty much have to do what I've done, which is stay out of those monstrous structures, that is, if you want to actually do anything. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And then of course the jerks come along and kick over your sand castle. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And then they're gone in a few weeks. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So far I've survived them all. Knock wood, praise murph, etc. ",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "My new Tesla",
+            "created": "Fri, 19 Nov 2021 14:02:04 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Here she is, my new blue Tesla Model 3.",
+                    "created": "Fri, 19 Nov 2021 14:03:27 GMT",
+                    "inlineImage": "http://scripting.com/images/2021/11/19/teslaModel3.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Drives great. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A bit hard to get in and out of.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Very comfortable to drive.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Quiet.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Wish it had Apple CarPlay.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's charging now in the garage. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's as powerful a car as I've ever driven, like my 2007 BMW 535i.",
+                    "created": "Fri, 19 Nov 2021 14:04:10 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Most of the Tesla people at the <a href=\"https://www.tesla.com/findus/location/service/mtkisco\">Mt Kisco store</a> were assholes, but they finally gave me someone who talked like a New Yorker. Most of the Tesla people have the same smarmy attitude that they're doing you some kind of favor to sell you a hugely expensive car, like at an Apple store. The guy we finally got talked to us like human beings who love computers and are excited to own a new kind of car.",
+                    "created": "Fri, 19 Nov 2021 14:04:31 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Thanks to Peter Politi for taking the trip with me. ",
+                    "created": "Fri, 19 Nov 2021 14:05:07 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
