@@ -1,0 +1,6 @@
+{
+    "text": "A <a href=\"https://github.com/scripting/drummerRFC/issues/14#issuecomment-974157255\">discussion</a> about how Markdown should be processed for Drummer blogs. Basically, what role if any should indentation play, and how many newlines to generate for each line in the outline. My current position -- indentation should play no role in the Markdown we generate from the outline, it should be ignored. And we should generate one newline for every line in the outline. Note this is not how Drummer works now. ",
+    "created": "Fri, 19 Nov 2021 15:16:46 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
