@@ -1,0 +1,54 @@
+{
+    "text": "Markdown summary",
+    "created": "Sun, 21 Nov 2021 18:58:33 GMT",
+    "type": "markdown",
+    "subs": [
+        {
+            "text": "\"Drummer\", an outliner, now allows you to write blog posts in Markdown.",
+            "created": "Sun, 21 Nov 2021 18:58:38 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "",
+            "created": "Sun, 21 Nov 2021 19:13:56 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The question was -- how? ",
+            "created": "Sun, 21 Nov 2021 19:13:57 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "",
+            "created": "Sun, 21 Nov 2021 19:13:58 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "This is what we came up with:",
+            "created": "Sun, 21 Nov 2021 19:12:30 GMT",
+            "subs": [
+                {
+                    "text": " - One newline per outline node.",
+                    "created": "Sun, 21 Nov 2021 18:58:50 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": " - Indentation belongs to the author, generates nothing. ",
+                    "created": "Sun, 21 Nov 2021 18:58:50 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "",
+                    "created": "Sun, 21 Nov 2021 19:14:02 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "I think this works and is true to the philosophy of MD.",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
