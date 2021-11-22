@@ -1,0 +1,51 @@
+{
+    "text": "Markdown work",
+    "created": "Sun, 21 Nov 2021 14:14:50 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Going to do some more cleanup work this morning on Markdown support in Old School. ",
+            "created": "Sun, 21 Nov 2021 14:14:53 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "In the meantime, <a href=\"https://github.com/scripting/drummerRFC/issues/14#issuecomment-974824472\">the thread continues</a>. If you're planning on using Markdown to write blog posts in Drummer, you might want to tune in, because things are being locked down today. ",
+            "created": "Sun, 21 Nov 2021 14:23:59 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "There are only two rules that govern how Old School generates source for the Markdown processor:",
+            "created": "Sun, 21 Nov 2021 14:15:06 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "One newline per outline node. ",
+                    "created": "Sun, 21 Nov 2021 14:19:01 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Indentation belongs to the author, generates nothing.",
+                    "created": "Sun, 21 Nov 2021 14:19:42 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "I sent a private note to <a href=\"https://twitter.com/gruber\">John Gruber</a> a few days ago, letting him know this discussion is going on. As far as I know we are setting prior art for outliners used to generate Markdown for publishing. If there is prior art, I would love to know about it now, asap. ",
+            "created": "Sun, 21 Nov 2021 14:15:51 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "This is different from the Obsidian model also used by LogSeq -- which uses Markdown as a file format for outlines. ",
+            "created": "Sun, 21 Nov 2021 14:21:46 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Update: Here's a list of <a href=\"http://scripting.com/drummer/blog/2021/11/21/153825.html?title=updatesToMarkdownSupport\">this morning's changes</a> to Markdown support for publishing. ",
+            "created": "Sun, 21 Nov 2021 15:41:32 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
