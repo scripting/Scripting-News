@@ -1,0 +1,6 @@
+{
+    "text": "There's a new version of the <a href=\"http://this.how/publicFolder/\">PublicFolder</a> app that allows you turn off the feature where PF deletes files from S3 when that have been deleted from the watched folder. This is useful if you're uploading files from more than one location to the folder on S3. Details <a href=\"http://this.how/publicFolder/#1637683953000\">here</a>.",
+    "created": "Wed, 24 Nov 2021 14:20:54 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
