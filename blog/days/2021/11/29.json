@@ -1,0 +1,42 @@
+{
+    "created": "2021-11-29T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "29",
+    "path": "2021/11/29",
+    "text": "November 29",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://en.wikipedia.org/wiki/Jack_Dorsey\">Jack Dorsey</a> is leaving Twitter again. All kinds of paranoid thoughts go through my head. Meanwhile, he posted his announcement <a href=\"https://twitter.com/jack/status/1465347002426867720\">as a tweet</a>, not in text but as a <a href=\"http://scripting.com/images/2021/11/29/jackDorseyEmail.png\">screen shot</a> because Twitter <i>still</i> doesn't support text in a reasonable manner, even though they support video, images, <a href=\"https://www.clubhouse.com/\">Clubhouse</a>-style conferences, and email newsletters. This is insane. Twitter is an important platform. Not supporting text is a religious thing, as if they didn't have water fountains in The Vatican. (I just came up with that randomly.) I hope the first thing the new CEO does is fix this situation. Let's move outlines over Twitter. Whatever. Text isn't a new innovation, the blogger said ironically.",
+            "created": "Mon, 29 Nov 2021 21:44:51 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I didn't give up on the <a href=\"https://en.wikipedia.org/wiki/The_Beatles:_Get_Back\">Beatles on Disney</a>. It is totally worth watching. The Beatles were falling apart, but all they needed was a little help. A manager. Someone to keep the assholes away. So many jerks were wasting their time and talent. And someone to make sure that George Harrison felt loved, and they were focusing on the music, which is what they were so incredibly great at. At one point, John Lennon is getting briefed on some bullshit plan for a concert, it's all nonsense, and in the background Paul McCartney is working out the music and lyrics for one of the greatest songs of all time -- <a href=\"https://www.youtube.com/watch?v=QDYfEBY9NM4\">Let It Be</a>. I always wondered what their collaboration was like, they really did like each other. Such a shame. They had something incredible, and they just needed a little help. ",
+            "created": "Mon, 29 Nov 2021 21:13:16 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/11/29/letItBe.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Yesterday I had one of my Drummer outlines overwrite another. There were no instant outlines updating while this happened, so that's not the source of the problem. If you've had this happen: 1. I am sorry this is happening, that's first. 2. Make sure you do backups. 3. Were you by any chance editing <a href=\"http://docserver.scripting.com/drummer/scripting.opml#1627490175000\">the Scripts menu</a> when this happened? If so, please comment <a href=\"https://github.com/scripting/drummerSupport/issues/127\">here</a>. I'm looking for more clues. I added more debugging code so if it happens to me again, I'll get closer to knowing that the cause is. I really want to get this bug out of there.",
+            "created": "Mon, 29 Nov 2021 21:35:11 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I hear there's some kind of controversy over a frying pan that VP Harris bought. I also hear this is getting a lot of play on the news. My filters must be working, because all I've heard of it are ridiculous rebuttals from people trying to argue somewhat logically that this is an illustration of old white men in charge of the Republican Party. I'm sure that's not it. It's marketing. They are always focus-group-testing bullshit like this to see if the people will pick it up, and then they shoot blasts of this bullshit at news people, and 1-in-10 of the focus-grouped bullshit gets picked up by the press. It's worth it, because it keeps the real news off the air, and helps people forget that Trump paid for his golf vacations at his own resorts with taxpayer money. Hundreds of millions of dollars. There's no logic to any of this. And they're not old white menu, that's bullshit. It's just marketing people, and computers. ",
+            "created": "Mon, 29 Nov 2021 21:25:57 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/11/29/instantPot.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I have a new project in the works that hooks up to \"Drummer\" outlines (really any outlines in OPML) and puts all the items in a relational database and lets you do searches. I have a few applications in mind for this stuff. The codename of the project is Daytona. Coming soon to a theater near you. ",
+            "created": "Mon, 29 Nov 2021 21:33:20 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
