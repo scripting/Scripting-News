@@ -1,0 +1,6 @@
+{
+    "text": "Yesterday I had one of my Drummer outlines overwrite another. There were no instant outlines updating while this happened, so that's not the source of the problem. If you've had this happen: 1. I am sorry this is happening, that's first. 2. Make sure you do backups. 3. Were you by any chance editing <a href=\"http://docserver.scripting.com/drummer/scripting.opml#1627490175000\">the Scripts menu</a> when this happened? If so, please comment <a href=\"https://github.com/scripting/drummerSupport/issues/127\">here</a>. I'm looking for more clues. I added more debugging code so if it happens to me again, I'll get closer to knowing that the cause is. I really want to get this bug out of there.",
+    "created": "Mon, 29 Nov 2021 21:35:11 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
