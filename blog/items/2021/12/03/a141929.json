@@ -1,0 +1,53 @@
+{
+    "text": "Tesla's missing app ecosystem",
+    "created": "Fri, 03 Dec 2021 14:19:29 GMT",
+    "type": "outline",
+    "description": "I've gotten used to controlling music, podcasts, and anything else -- directly on the car's screen, and this is imho a must-have feature that Tesla does not have. ",
+    "metaImage": "http://scripting.com/images/2021/12/03/tesla.png",
+    "subs": [
+        {
+            "text": "I wrote in a <a href=\"https://twitter.com/davewiner/status/1466594398230106113\">tweet</a> yesterday that the Tesla needs to run Apple Car Play. This was a short statement with a lot packed in it.",
+            "created": "Fri, 03 Dec 2021 14:19:41 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "My Tesla is both a car and a computer system. ",
+                    "created": "Fri, 03 Dec 2021 14:19:50 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Almost all the controls for the car are on a big screen in the middle of the dashboard, between the driver and the passenger, slightly tilted toward the driver. ",
+                    "created": "Fri, 03 Dec 2021 14:40:10 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "There are other controls, a stick attached to right side of the steering wheel that shifts between Reverse, Neutral, Drive and Park. A stick on the left signals turns and I think adjusts the brights, but honestly I'm kind of confused about that. I think the car decides when you need lights and what intensity, and it's not possible to overrided it? ",
+                    "created": "Fri, 03 Dec 2021 14:40:15 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "There are two pedals on the floor, roughly analogous to the brake and gas pedals in a gasoline-powered car. When you press the gas pedal the car accelerates, but unlike previous cars when you let up on the gas pedal, the car slows much faster. You only need to use the brake pedal when you need to stop quickly, otherwise all your acceleration and decelration is done via the accelerator pedal.",
+                    "created": "Fri, 03 Dec 2021 14:32:41 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "There are also controls on the outside of the car. Handles on each of the doors and the two trunks (front and rear). If you tap the charging port door, it opens. There probably are other outside controls that I'm not yet aware of.",
+                    "created": "Fri, 03 Dec 2021 14:23:27 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Otherwise, <i>everything</i> is done through the UI of the big screen in the middle of the passenger compartment. It works as it would if it were created by Apple, Google, Amazon or Microsoft. There are tech industry norms, and people move around between the companies. This is a standard tech industry UI. But the design is radically different from every other car anyone has ever driven. And it works, but -- and this is important -- there is no <a href=\"http://scripting.com/davenet/1995/08/22/whatisaplatform.html\">app ecosystem</a>. I can play music from my iPhone via Bluetooth, but I can't control the music via the car's screen, I have to use the screen on the iPhone. Since my Subaru has <a href=\"https://en.wikipedia.org/wiki/CarPlay\">Car Play</a> and <a href=\"https://en.wikipedia.org/wiki/Android_Auto\">Android Auto</a>, I've gotten used to controlling music, podcasts, and anything else -- directly on the car's screen, and this is imho a must-have feature that Tesla does not have. ",
+                    "created": "Fri, 03 Dec 2021 14:24:38 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "For right now this doesn't seem to be an issue for most Tesla users. I'm happy to drive my new wonder machine knowing that it's missing its app ecosystem. Tesla (again imho) has to have one, either they start to develop it now, or they hook up with Apple and/or Google, and allow their apps to run in TeslaLand. In a few years I think it will be necessary, because esp luxury car makers are going to feel the pressure to do what Tesla does in terms of controls. I'm pretty sure Apple and Google will offer it to them. And I think both of them are capable of doing what Tesla does. And they both have app ecosystems. ",
+                    "created": "Fri, 03 Dec 2021 14:28:02 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
