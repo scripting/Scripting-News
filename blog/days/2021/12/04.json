@@ -1,0 +1,120 @@
+{
+    "created": "2021-12-04T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "04",
+    "path": "2021/12/04",
+    "text": "December 04",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1467200646852096002\">Poll</a>: Does your mouse have a scroll wheel? Do you use it?",
+            "created": "Sat, 04 Dec 2021 18:34:41 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1467159571726802949\">Poll</a>:  Should the US pay reparations to descendants of slaves?",
+            "created": "Sat, 04 Dec 2021 15:51:32 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Andrew Sullivan wrote a <a href=\"https://andrewsullivan.substack.com/p/why-roe-will-fall-and-obergefell-77a\">piece</a> where he wonders why men don't have as much at stake in abortion as women. This is like imho \"all lives matter.\" Fact: You and I have already been born, not aborted, so we do not have a personal interest in abortion.",
+            "created": "Sat, 04 Dec 2021 18:38:51 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Going forward, I don't expect to be using the relatively new <a href=\"http://scripting.com/2021/07/22/135636.html?title=taggingInScriptingNews\">tagging</a> functionality on \"Scripting News\". I think that's over. I have something I believe is better that requires no effort, no forethought, no decision-making. It's one of those things that Just Works. Yes I plan to share it. And it's not just for blogging, and it's not just for [[Drummer]]. ",
+            "created": "Sat, 04 Dec 2021 15:24:37 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The <a href=\"https://radioopensource.org/a-new-history-of-humanity/\">latest Radio Open Source</a> is very interesting. I'm only half-way through it. Will report when I've gone all the way.",
+            "created": "Sat, 04 Dec 2021 15:23:02 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm now on the third segment of the Beatles show on Disney. The amazing thing is how much fun they had doing Let It Be. And you can see the process, they talk about it. I had the wrong idea about the Beatles as people. I love them now even more than I did when I was a kid. ",
+            "created": "Sat, 04 Dec 2021 15:23:31 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "My Tesla endorsement: I haven't had a car that was this much fun to drive since I had a <a href=\"https://en.wikipedia.org/wiki/Mazda_MX-5\">Mazda Miata</a> in the early 90s. ",
+            "created": "Sat, 04 Dec 2021 15:19:16 GMT",
+            "type": "tweet",
+            "tweetId": "1467151700242882563",
+            "tweetUserName": "davewiner",
+            "flInCalendar": true
+        },
+        {
+            "text": "Idea: Open source patents",
+            "created": "Sat, 04 Dec 2021 15:39:23 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I had a radical idea about patents many years ago, when they were starting to spoil the software world.",
+                    "created": "Sat, 04 Dec 2021 15:39:31 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The idea -- open source patents.",
+                    "created": "Sat, 04 Dec 2021 15:39:40 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Develop something new. Document it, have it evaluated by a panel of experts. If it's new you get a \"patent\". ",
+                    "created": "Sat, 04 Dec 2021 15:42:59 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The <a href=\"https://en.wikipedia.org/wiki/Ersatz_good\">ersatz</a> patent does a few things.",
+                    "created": "Sat, 04 Dec 2021 15:40:03 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "It prevents Google or Apple from patenting it. ",
+                            "created": "Sat, 04 Dec 2021 15:40:04 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "It gives the inventor proper credit for their work.",
+                            "created": "Sat, 04 Dec 2021 15:40:24 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "It makes the idea useful to other software devs because it isn't just some random feature ready to be patented by Microsoft or Amazon.",
+                            "created": "Sat, 04 Dec 2021 15:40:27 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "You can find out if something you did really is unique or if someone did it 25 years earlier (this has happened to me, I thought I had invented outlining until I read Ted Nelson's book and leared about Doug Engelbart).",
+                            "created": "Sat, 04 Dec 2021 15:40:32 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "It's good publicity, giving people an incentive to participate. ",
+                            "created": "Sat, 04 Dec 2021 15:40:06 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Unlike non-open patents, everyone is free to use the idea for free. However they can't claim that they invented it. It's like <a href=\"https://creativecommons.org/\">Creative Commons</a> for patents. ",
+                    "created": "Sat, 04 Dec 2021 15:43:04 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I must not have been very good at explaining it, I thought it was something my friends at Harvard Law School would help with, but we're still stuck in this horrible situation where inventors of new ideas are forced to put up gates to simply get credit for their work. I'm never willing to do this myself, so I've seen many of my works being ignored or even undermined (notably podcasting by the f'ing EFF) or patented by IBM or Salesforce.",
+                    "created": "Sat, 04 Dec 2021 15:44:11 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
