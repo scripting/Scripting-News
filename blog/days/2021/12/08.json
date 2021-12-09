@@ -1,0 +1,70 @@
+{
+    "created": "2021-12-08T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "08",
+    "path": "2021/12/08",
+    "text": "December 08",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1468716744458051585\">Poll</a>: Will Tesla be Apple, or Blackberry?",
+            "created": "Wed, 08 Dec 2021 23:10:59 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://strokedoc.wordpress.com/2021/12/08/will-tesla-be-apple-or-blackberry/\">Really interesting blog post</a> from a new Tesla user who switched from a Subaru. I also assume the car is going to alert me if there's a car in the left lane. Icaught myself switching lanes without looking the other day, based on being trained by the Subaru. I'm not going to forget to look, I have decades of experience that I had forgotten. Also the thing about the Tesla is the promise it makes with that huge screen in the middle of everything, but then you find out it doesn't do any of the things you expect from Apple Car Play. All that promising screen real estate -- it doesn't deliver what you expect it to. How much would it cost for Subaru to add a huge screen to their 2023 or 2024 models? Heh, they <i>have</i> to be doing this. ",
+            "created": "Wed, 08 Dec 2021 22:53:58 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/12/08/soup.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Apple and Google can get other companies, large and small, to do things for them. That goes for huge automakers to individual developers. Tesla is a loner company, and ultimately there is an ecosystems already growing around Google and Apple. I know very well what they're going up against. Back in the early 90s I built a great system-level scripting product, around simple open protocols. Apple swooped in, and first took over the protocols, and then took over scripting systems, with, imho demonstrably inferior products. Didn't matter. When Apple had a developer meeting they all came. I knew it was over when they had a meeting and I wasn't even invited. I think Elon Musk is going to know that feeling pretty soon. ",
+            "created": "Wed, 08 Dec 2021 23:06:50 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The de-upgrading of the web",
+            "created": "Wed, 08 Dec 2021 16:34:51 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Probably the worst thing to happen to the web is the gradual degradation of Google's search engine. ",
+                    "created": "Wed, 08 Dec 2021 16:35:15 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Ever since I started in tech, I assumed everyone was at least trying to move forward. Then it hit me, quite the opposite. The biggest companies monetize the de-upgrading of tech. ",
+                    "created": "Wed, 08 Dec 2021 16:35:26 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Reminds me of that great <a href=\"https://www.c-span.org/video/?118981-101/senator-dale-bumpers-defense-president-clinton&event=118981&playEvent\">Dale Bumpers</a> interpretation of the great <a href=\"https://en.wikipedia.org/wiki/H._L._Mencken\">HL Mencken</a> saying during Clinton's impeachment in 1999.",
+                    "created": "Wed, 08 Dec 2021 16:35:47 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "When they say it's not about the money, it's about the money.",
+                            "created": "Wed, 08 Dec 2021 16:38:50 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "When they say it's not about sex, it's about sex.",
+                            "created": "Wed, 08 Dec 2021 16:36:43 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And when they say <a href=\"https://en.wikipedia.org/wiki/Don%27t_be_evil\">don't be evil</a>, they're being evil.",
+                    "created": "Wed, 08 Dec 2021 16:36:59 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
