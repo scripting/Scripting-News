@@ -1,0 +1,6 @@
+{
+    "text": "Made a small change to <a href=\"http://daytona.scripting.com/\">Daytona</a>. When you enter a search string, it constructs a URL for the search and redirects to it. That way the address bar has a link that's ready to be shared. This is something Google does that's quite useful. It works if you're searching Scripting News or the Drummer Docs, but sharing searches into your own public writing doesn't make sense, because they will search in the other person's public writing, not yours. For now you're the only person who can search your public writing. But I had it redirect because you might want to remember the URL for your own use.",
+    "created": "Sat, 11 Dec 2021 16:53:28 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
