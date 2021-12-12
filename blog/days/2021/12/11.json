@@ -1,0 +1,110 @@
+{
+    "created": "2021-12-11T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "11",
+    "path": "2021/12/11",
+    "text": "December 11",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "BTW -- some perspective. Drummer is a baseline product. There aren't many new ideas, it's mostly making some tried-and-true ideas work in an environment that has a strong future. But <a href=\"http://daytona.scripting.com/?q=daytona&collection=scriptingnews\">Daytona</a> <i>is</i> new. We needed it and it's so weird we didn't know we needed it. The really interesting things are like that. It breaks new ground and it's not just for blogging. But it's not for lazy people. If you don't want to read the docs and understand what it's doing, you won't get it to work. Maybe in a while we'll figure out how to pave over some of the difficulties, but not yet. Daytona is a gift. It's something we had no right to expect. But sometimes there are breakthroughs, you discover some power that's amazing, and everything you try with it is something new. This is one of those products. ",
+            "created": "Sat, 11 Dec 2021 19:16:50 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/12/11/mrNatchRespect.png",
+            "imageLink": "http://scripting.com/images/2021/12/11/fullSizeMrNatch.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "The Democrats need someone who can be counted on to say \"The Republicans are full of shit\" when called on by the press. Too bad we had one, in Al Franken -- well, now we need another. It's really simple, most of the things they say are BS, so it needs to be said apparently because journalists seem largely unable to say that simple truth. ",
+            "created": "Sat, 11 Dec 2021 18:41:32 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Pro tip: If you’re plotting to overthrow the US government, don’t do a PowerPoint about it.",
+            "created": "Sat, 11 Dec 2021 18:43:04 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Today I learned that if you want Apple's mouse to scroll, as if it had a scroll wheel, you have to go to the Accessibility panel on Preferences, then click Options, and check the Scrolling checkbox. Then it works. I had gotten a cheap Microsoft mouse that had a scroll wheel, but it's junky compared to the Apple mouse. ",
+            "created": "Sat, 11 Dec 2021 17:21:52 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm finally watching <a href=\"https://en.wikipedia.org/wiki/The_Marvelous_Mrs._Maisel\">The Marvelous Mrs Maisel</a>. I had tried before and gave up, for the same reason I guess I gave up on <a href=\"https://en.wikipedia.org/wiki/Halt_and_Catch_Fire_(TV_series)\">Halt and Catch Fire</a> -- it's too close to home. I come from both cultures, Maisel from my home in NY. Miriam's mother and father could have been my parents or grandparents. And I lived the HACF life in Silicon Valley in the same timeframe as the show. But for some reason when I tried MMM this week, I got into it. I think I figured out why. The family I was part of is now completely gone, and has been gone since early 2018 when my mother died. Enough time has passed that the memory has softened and idealized in an emotional way. I still remember why they upset me so, but I don't feel it so much any more, so Maisel is tolerable, even adorable. And bingeable. TV shows are excellent because they immerse you in their society, you start thinking of the characters on the show as members of your clan. Maybe I should try HACF again. Also, it's really funny that <a href=\"https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)\">Silicon Valley</a> comes even closer to the lifestyle I led, and I loved it when it came out! I think I was actually in a couple of episodes of that show, certainly some of my friends were. ",
+            "created": "Sat, 11 Dec 2021 15:56:45 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/12/11/mrsMaisel.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Made a small change to <a href=\"http://daytona.scripting.com/\">Daytona</a>. When you enter a search string, it constructs a URL for the search and redirects to it. That way the address bar has a link that's ready to be shared. This is something Google does that's quite useful. It works if you're searching Scripting News or the Drummer Docs, but sharing searches into your own public writing doesn't make sense, because they will search in the other person's public writing, not yours. For now you're the only person who can search your public writing. But I had it redirect because you might want to remember the URL for your own use.",
+            "created": "Sat, 11 Dec 2021 16:53:28 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "When someone tells you to relax when they don't like something you said, the reason it feels bad is that it's <a href=\"http://daytona.scripting.com/?q=gaslighting&collection=scriptingnews\">gaslighting</a>. ",
+            "created": "Sat, 11 Dec 2021 16:22:29 GMT",
+            "type": "tweet",
+            "tweetId": "1469704394186891269",
+            "tweetUserName": "davewiner",
+            "flInCalendar": true
+        },
+        {
+            "text": "What is OPML?",
+            "created": "Sat, 11 Dec 2021 14:50:32 GMT",
+            "type": "outline",
+            "description": "OPML is just a file format, like HTML or RSS. So it can be used for whatever you want, large files, small files.",
+            "subs": [
+                {
+                    "text": "A thread on Twitter led to this <a href=\"https://twitter.com/blogisch/status/1469579178890743808\">question</a> from Joël de Bruijn: \"Is an OPML file meant to encompass a whole library (with a notebook, subnotebook, note structure) or is it more like \"one note = one OPML file\" structure? Or something in between, what a user prefers?\" ",
+                    "created": "Sat, 11 Dec 2021 14:50:40 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "\"OPML\" is just a file format, like HTML or RSS. So it can be used for whatever you want, large files, small files, libraries, bullet charts, tree charts, graphs, calendars, directories, projects, things we haven't invented yet. ",
+                    "created": "Sat, 11 Dec 2021 14:53:23 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It was <a href=\"http://scripting.com/manila/opml/spec.html\">originally</a> designed as the interchange format for the outliner in \"Frontier\", a scripting environment I created at UserLand Software in the late 80s and 90s. In Frontier, an outline could be a script, a menu, an object database, a blog, a blog post, or just an outline. We needed a way to exchange outlines with our product and other outliners, so this is what we came up with. OPML wasn't the first interchange format for outlines, there was a format called <a href=\"http://scripting.com/fatpages/misc/dotHeadFormat.html\">.HEAD</a> (pronounced dot-head) that we used for outliners in the 80s, but OPML was better because not only did it handle structures of text, they could also have attributes. Anywhere you could put an outline node, you could add attributes. They aren't visible when you're editing, but they're accessible through a dialog, or software can automatically attach attributes, such as the creation date of a node, so that they are indentifiable and can be pointed to from outside the outline. ",
+                    "created": "Sat, 11 Dec 2021 14:53:52 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Then came a very special attribute, the <i>type</i> attribute -- which says basically that this node in an outline is a document, so the outline containing the node behaves like a file system. That's how I edit my blog. Each post is a document contained within a day, which is part of a month. I find it convenient to start a new outline every month, and archive the previous month in a GitHub repository. You can study what real-world OPML looks like <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog/opml\">there</a>, I have 4.5 years of archives there. I recently created a <a href=\"http://daytona.scripting.com/\">search utility</a> for those, which is kind of like the tagging systems you see in Tools For Thought products, but I don't have to tag anything, I can just search for the words. It's already a lot better than Google or other search engines that don't understand outline structure. ",
+                    "created": "Sat, 11 Dec 2021 14:57:03 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Anyway that's a longish answer to a question that can be answered simply by saying that an OPML file can be whatever size makes sense for the application. It's just a file format. Its signficance, I hope, is that it can provide a way for all kinds of outliners, and applications that accept outlines as input, to share the same data, making it possible for lots of outline-based tools to co-exist, and for users to be able the use the right tool for whatever job they want to do right now, without having to convert any data. It's totally possible, and I'm happy to help any way I can.",
+                    "created": "Sat, 11 Dec 2021 15:00:04 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And btw, a plug for my product \"Drummer\", whose native file format is OPML. :smile:",
+                    "created": "Sat, 11 Dec 2021 15:02:54 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Don't do this",
+            "created": "Sun, 12 Dec 2021 01:50:50 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "One or the other.",
+                    "created": "Sun, 12 Dec 2021 01:50:54 GMT",
+                    "inlineImage": "http://scripting.com/images/2021/12/11/uglyFireplace.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
