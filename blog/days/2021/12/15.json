@@ -1,0 +1,43 @@
+{
+    "created": "2021-12-15T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "15",
+    "path": "2021/12/15",
+    "text": "December 15",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=nlaoR5m4L80\">Let the Mystery Be</a>. ",
+            "created": "Wed, 15 Dec 2021 23:20:01 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=nlaoR5m4L80",
+            "flInCalendar": true
+        },
+        {
+            "text": "I was there for the early web, it wasn't a vague VC pyramid scheme. The web was a reduction of all the crazy complexity of tech platforms, web made it so you could write a network app in an afternoon. It was the opposite of the FUD that they're <a href=\"https://twitter.com/karaswisher/status/1471115846101737476\">calling</a> \"web3.\" I've yet to hear a coherent explanation of why it should be called web-anything. Selfish beyond belief. ",
+            "created": "Wed, 15 Dec 2021 21:57:19 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "All of a sudden the Dems are running a lethal PR campaign against corrupt Repubs. Why now? Well it could be because a <a href=\"https://www.youtube.com/watch?v=_lEhanKIPJs\">Republican is leading</a> the charge. ",
+            "created": "Wed, 15 Dec 2021 14:53:57 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "It takes a Republican",
+            "created": "Wed, 15 Dec 2021 14:57:09 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "\"POTUS needs to calm this shit down.\"",
+                    "created": "Wed, 15 Dec 2021 14:57:36 GMT",
+                    "inlineImage": "http://scripting.com/images/2021/12/15/potusNeedsToCalmThisShitDown.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
