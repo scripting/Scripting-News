@@ -1,0 +1,37 @@
+{
+    "text": "Why Daytona is a game-changer",
+    "created": "Fri, 17 Dec 2021 13:47:55 GMT",
+    "type": "outline",
+    "description": "It's past time to take responsibility for finding the stuff we write.",
+    "subs": [
+        {
+            "text": "I spent all of 2021 working on \"Drummer\", and part of 2020, and I'm going to keep working on it in 2022 (which is just a couple of weeks away gulp). One of the goals of the project was to have great <a href=\"http://docserver.scripting.com/drummer/about.opml\">docs</a>, and I think they came out pretty good, but there was still a major problem -- where to put things. This is the problem in all docs. Even if you're a good docs writer, and I've had a lot of practice, and you know the product well, and care about the users, some things just won't have a place. So you document them on the <a href=\"http://scripting.com/drummer/blog/\">blog</a>, or in the Change Notes outline, and hope people can find them in a search engine. But they keep doing a worse job of indexing our stuff, and they don't know what is a Drummer doc and what isn't, so you can't say for example, \"search the Drummer docs for instructions on how to restore a blog.opml file in a myfiles archive\" which is a question a user posed <a href=\"https://github.com/scripting/drummerSupport/issues/140#issue-1082790948\">yesterday</a>. I smiled when I saw it. This is a job for Daytona. So here's the query I entered.",
+            "created": "Fri, 17 Dec 2021 13:48:02 GMT",
+            "image": "http://scripting.com/images/2021/06/14/strongman.png",
+            "subs": [
+                {
+                    "text": "<a href=\"http://daytona.scripting.com/?q=Import%20opml&collection=drummerdocs\">http://daytona.scripting.com/?q=Import%20opml&collection=drummerdocs</a>",
+                    "created": "Fri, 17 Dec 2021 13:51:40 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "I laughed out loud when the result came back. Yes, that's exactly what I was looking for. It wasn't in a place a user would have looked, and Google <i>never</i> would have found it. ",
+            "created": "Fri, 17 Dec 2021 13:52:01 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The point is this -- it's past time to take responsibility for finding the stuff we write, and if we do it well, and Daytona does, all of a sudden blogging works so much better, and the incentive to write stuff, to document, to narrate our work, to index everything you can, makes total sense. ",
+            "created": "Fri, 17 Dec 2021 13:52:42 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "We crossed into a new generation. I think this is a lot closer to \"Web3\" than the hyped up garbage the VC industry is selling, btw.",
+            "created": "Fri, 17 Dec 2021 13:53:44 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
