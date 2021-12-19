@@ -1,0 +1,74 @@
+{
+    "created": "2021-12-18T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "18",
+    "path": "2021/12/18",
+    "text": "December 18",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "The <a href=\"https://www.youtube.com/watch?v=JK-2BITa6g4\">life of a developer</a> in the real world.",
+            "created": "Sun, 19 Dec 2021 03:54:20 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=JK-2BITa6g4",
+            "flInCalendar": true
+        },
+        {
+            "text": "Please would people learn how to write bug reports. It's not that hard. Pretend you're Columbo or one of the Law & Order detectives. We're working together to convict and sentence the problem. No one can read your mind. <a href=\"https://www.cheatsheet.com/entertainment/dragnet-jack-webbs-joe-friday-never-actually-said-just-facts-maam-comedian.html/\">Just the facts ma'am</a>. You have to get us the data we need or we can't help you. Saying you have no idea what's happening have you ever seen this isn't to help you get your stuff working. ",
+            "created": "Sun, 19 Dec 2021 03:48:00 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/03/26/rjBarrett.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Maybe in 2023 <a href=\"https://twitter.com/rasmus_kleis/status/1471904731605917696\">journalism</a> can work on giving users a better experience, because we read more than one publication. Wouldn't it be great if you all built off each others work, instead of pretending each of you is the whole world?",
+            "created": "Sat, 18 Dec 2021 17:49:21 GMT",
+            "type": "tweet",
+            "tweetId": "1472410166779858947",
+            "tweetUserName": "davewiner",
+            "flInCalendar": true
+        },
+        {
+            "text": "A demo for Jeff",
+            "created": "Sat, 18 Dec 2021 17:13:08 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I was having a private conversation with longtime friend <a href=\"https://twitter.com/jeffjarvis?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor\">Jeff Jarvis</a>. ",
+                    "created": "Sat, 18 Dec 2021 17:13:21 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I want to show him what's new with blogging, with a quick demo. ",
+                    "created": "Sat, 18 Dec 2021 17:12:51 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"http://daytona.scripting.com/?q=newsgeist&collection=scriptingnews\">daytona.scripting.com/?q=newsgeist&collection=scriptingnews</a>",
+                    "created": "Sat, 18 Dec 2021 17:14:02 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "These are my blogged notes about a conference we both went to. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "What's new is I can find this stuff now! :-)",
+                    "created": "Sat, 18 Dec 2021 17:13:14 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Believe it or not, in <a href=\"http://scripting.com/code/testing/timesincescriptingstarted/\">all the years</a> I've been blogging, this is the first time I can say that. ",
+                    "created": "Sat, 18 Dec 2021 17:16:46 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Mind bomb!",
+                    "created": "Sat, 18 Dec 2021 17:13:45 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
