@@ -1,6 +1,6 @@
 # Archive from 1999.io blogging
 
-Between August 2016 and May 2017, I wrote Scripting News in 1999.io, and the source was in a format called chatLog.json which was fairly easily converted to OPML, which I did in December 2021. The result is in this folder, along with the original chatLog.json file.
+Between August 2016 and May 2017, I wrote Scripting News in 1999.io, and the source was in a format called chatLog.json which was fairly easily converted to OPML, which I did in December 2021. The result is in this folder, along with the <a href="https://github.com/scripting/Scripting-News/blob/master/blog/opmlOtherSources/2016-2017/chatlogToOpml/chatLog.json">original chatLog.json file</a>.
 
 All stories had titles in this period, this was before Old School where I declared my freedom from the restrictions of the long-gone Google Reader. 
 
@@ -8,7 +8,7 @@ Before installing these files in the Daytona collection for Scripting News there
 
 ### Source code
 
-Here's the source for the Node app that did the conversion from chatLog.json to OPML.
+Here's the <a href="https://github.com/scripting/Scripting-News/tree/master/blog/opmlOtherSources/2016-2017/chatlogToOpml">source</a> for the Node app that did the conversion from chatLog.json to OPML.
 
 ### Story list
 
