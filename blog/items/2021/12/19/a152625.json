@@ -1,0 +1,52 @@
+{
+    "text": "Following my tweets in Drummer",
+    "created": "Sun, 19 Dec 2021 15:26:25 GMT",
+    "type": "outline",
+    "description": "Twitter is sort of a go-anywhere outliner. ",
+    "subs": [
+        {
+            "text": "You can now follow my tweets in outline form in Drummer. ",
+            "created": "Sun, 19 Dec 2021 15:42:09 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here are the steps.",
+            "created": "Sun, 19 Dec 2021 15:26:49 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "Click this <a href=\"http://drummer.scripting.com/?url=http://tweets.opml.org/davewiner/tweets.opml\">link</a>. It'll open a tab in Drummer with a live outline of my tweets. When I write a thread, it will be nested in the outline. ",
+                    "created": "Sun, 19 Dec 2021 15:37:07 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "There's nothing more to do and it doesn't cost anything. ",
+            "created": "Sun, 19 Dec 2021 15:32:22 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you want to broadcast your tweets like I do, no problem, just go to <a href=\"http://tweets.opml.org/\">tweets.opml.org</a>. The instructions are right there. Basically all you have to do is log in, the server will do the rest. No cost, my treat. ",
+            "created": "Sun, 19 Dec 2021 15:32:28 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "And if your outliner supports \"OPML\", you don't even have to use \"Drummer\". The same way you didn't have to use <a href=\"http://daytona.scripting.com/?q=radio%20userland&collection=scriptingnews\">Radio UserLand</a> to get the benefit of \"RSS\". It's exactly analogous, and it worked, so  if you have your doubts remember that bootstraps work.  ",
+            "created": "Sun, 19 Dec 2021 15:32:47 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I want to create an ecosystem around outliners and OPML. Twitter is sort of a go-anywhere outliner. That's why integrating Twitter and outliners is so good. I can jot a note down on my phone and it'll be in my outliner when I get back to my desktop. I think this is an important combination. It is for me, as a writer. ",
+            "created": "Sun, 19 Dec 2021 15:40:27 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Remember <a href=\"http://scripting.com/2021/12/16/153331.html?title=myProductIsInterop\">my product is interop</a> . I meant it. ",
+            "created": "Sun, 19 Dec 2021 15:33:00 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
