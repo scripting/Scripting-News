@@ -1,0 +1,99 @@
+{
+    "created": "2021-12-20T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "20",
+    "path": "2021/12/20",
+    "text": "December 20",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://github.com/scripting/tweets.opml.org\">tweets.opml.org</a> is an interesting site. ",
+            "created": "Mon, 20 Dec 2021 15:07:58 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1472938479231381508\">Poll</a>: If Donald Trump runs for president in 2024, which of the following candidates would you <i>not</i> vote for.",
+            "created": "Mon, 20 Dec 2021 18:51:15 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/09/07/mrMeeseeks.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "This is how senators transfer wealth to their <a href=\"https://www.cnn.com/2016/09/07/politics/manchin-defends-bresch-mylan-epipen-price/index.html\">children</a>. He made many <a href=\"https://www.kff.org/medicare/issue-brief/explaining-the-prescription-drug-provisions-in-the-build-back-better-act/\">billions for pharma</a> by killing <a href=\"https://www.whitehouse.gov/build-back-better/\">BBB</a>. His family no doubt will be paid <a href=\"https://www.washingtonpost.com/news/to-your-health/wp/2016/08/24/senators-daughter-who-raised-price-of-epipen-got-paid-19-million-salary-perks-in-2015/\">many millions</a> in return. Everyone wins except the USA.",
+            "created": "Mon, 20 Dec 2021 21:20:05 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1472976747192799244",
+            "flInCalendar": true
+        },
+        {
+            "text": "Dear media experts. Have you wondered why podcasting is still a competitive thing? No tech company dominates, but not for lack of trying. How do you explain that?",
+            "created": "Mon, 20 Dec 2021 14:26:28 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I forget where I read this, but the idea of the US losing our democracy is too strange for people to accept it, so you can be pretty sure it’s going to happen. Then 30 years later, maybe we’ll overthrow the dictatorship, with great effort and loss.",
+            "created": "Mon, 20 Dec 2021 14:53:34 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I heard on NPR this morning that we elected Biden to fight Covid. Nothing else. Stated as fact.  I don't know about you, but I would have voted for anyone who wasn't Trump.   I think NPR ought to be much more careful lest people forget to vote in 2022 and 2024.",
+            "created": "Mon, 20 Dec 2021 14:18:27 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Another thing. Americans need to grow the fuck up.  The president made vaccines free. But he couldn't make everyone take it. Thus we're experiencing more sickness. And you (the press) want to blame Biden? You're crazy. Journalism, never has it been more clear, <a href=\"https://www.youtube.com/watch?v=aFQFB5YpDZE\">you're hurting America</a>.   ",
+            "created": "Mon, 20 Dec 2021 14:19:15 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I apologize for a mistake I made yesterday in my bit about <a href=\"http://scripting.com/2021/12/19.html#a210633\">Google searching</a> my blog for a specific title. There was a typo in the query that explains the missing results. Here's the <a href=\"https://www.google.com/search?q=gravitas+wins+elections+site%3Ascripting.com\">correct query</a> without the typo. Oy. I totally hate it when this happens. ",
+            "created": "Mon, 20 Dec 2021 14:22:20 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "New blog archives in Daytona",
+            "created": "Mon, 20 Dec 2021 15:02:13 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I did the initial Scripting News collection on Daytona with the <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog/opml\">current archive</a>, started in May 2017. It's in OPML, so it was ready to be imported into the database as-is.",
+                    "created": "Mon, 20 Dec 2021 15:02:31 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I have now converted the previous months, August 2016 through May 2017, from a JSON-based format to OPML, and published the result <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog/opmlOtherSources/2016-2017\">in the GitHub repo</a>, and also imported this archive into Daytona. ",
+                    "created": "Mon, 20 Dec 2021 15:03:11 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Along the way I found another eight months of blogging that's in the same format. I plan to convert those as well, and flow the result into Daytona.",
+                    "created": "Mon, 20 Dec 2021 15:12:04 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I plan to march back in time, looking for OPML versions of the blog, or OPMLizable data. The goal is to see how much of the 27 years of Scripting News I can get into Daytona. ",
+                    "created": "Mon, 20 Dec 2021 15:06:36 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I also published the <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog/opmlOtherSources/2016-2017/chatlogToOpml\">Node app</a> that converts chatLog.json text to OPML.",
+                    "created": "Mon, 20 Dec 2021 15:05:07 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: I recorded a <a href=\"https://www.youtube.com/watch?v=GWbsrjRrDOw\">video demo</a> of the tool I used to edit my blog in this period. The software is 1999.io.",
+                    "created": "Mon, 20 Dec 2021 16:22:00 GMT",
+                    "urlvideo": "https://www.youtube.com/watch?v=GWbsrjRrDOw",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
