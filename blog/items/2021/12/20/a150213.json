@@ -1,0 +1,39 @@
+{
+    "text": "New blog archives in Daytona",
+    "created": "Mon, 20 Dec 2021 15:02:13 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I did the initial Scripting News collection on Daytona with the <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog/opml\">current archive</a>, started in May 2017. It's in OPML, so it was ready to be imported into the database as-is.",
+            "created": "Mon, 20 Dec 2021 15:02:31 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I have now converted the previous months, August 2016 through May 2017, from a JSON-based format to OPML, and published the result <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog/opmlOtherSources/2016-2017\">in the GitHub repo</a>, and also imported this archive into Daytona. ",
+            "created": "Mon, 20 Dec 2021 15:03:11 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Along the way I found another eight months of blogging that's in the same format. I plan to convert those as well, and flow the result into Daytona.",
+            "created": "Mon, 20 Dec 2021 15:12:04 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I plan to march back in time, looking for OPML versions of the blog, or OPMLizable data. The goal is to see how much of the 27 years of Scripting News I can get into Daytona. ",
+            "created": "Mon, 20 Dec 2021 15:06:36 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I also published the <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog/opmlOtherSources/2016-2017/chatlogToOpml\">Node app</a> that converts chatLog.json text to OPML.",
+            "created": "Mon, 20 Dec 2021 15:05:07 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "PS: I recorded a <a href=\"https://www.youtube.com/watch?v=GWbsrjRrDOw\">video demo</a> of the tool I used to edit my blog in this period. The software is 1999.io.",
+            "created": "Mon, 20 Dec 2021 16:22:00 GMT",
+            "urlvideo": "https://www.youtube.com/watch?v=GWbsrjRrDOw",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
