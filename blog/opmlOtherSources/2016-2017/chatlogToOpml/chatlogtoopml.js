@@ -4,7 +4,6 @@ const fs = require ("fs");
 const utils = require ("daveutils");
 const opml = require ("opml"); 
 
-
 function exportChatlog (theChatLog) {
 	var months = new Object ();
 	function textToArray (theText, createdAtt) { //turn a sequence of <p>s into a list of OPML items.
@@ -73,7 +72,6 @@ function exportChatlog (theChatLog) {
 		
 		
 		});
-	
 	for (var x in months) {
 		let opmltext = opml.stringify (months [x]);
 		let splits = x.split ("/"); //x == something like "8/2016"
@@ -87,13 +85,9 @@ function exportChatlog (theChatLog) {
 				});
 			});
 		}
-	
-	
-	
 	}
 
-
-fs.readFile ("chatlog.json", function (err, jsontext) {
+fs.readFile ("chatlog.json", function (err, jsontext) { //first batch, coming from chatlog.json file
 	var jstruct;
 	if (err) {
 		console.log (err.message);
