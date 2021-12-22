@@ -1,0 +1,180 @@
+{
+    "created": "2021-12-21T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "21",
+    "path": "2021/12/21",
+    "text": "December 21",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I haven't been listening to a lot of political podcasts these days because political reporting is asleep at the wheel, like the Biden administration, re the coup that keeps going, but <a href=\"https://slate.com/transcripts/Z3FUKzFDL2x0NURwZmJ2RmdnL0dXQzc4cUVwVmUyUzBzeWRrempwVElpYz0=\">this week's Amicus podcast</a> is the exception. Though they are too kind to the press, the guest, Walter Shaub, has a clear mind re the coup, and the Biden's lack of response. I highly recommend a listen. ",
+            "created": "Tue, 21 Dec 2021 16:01:18 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I want gists in Drummer blogs",
+            "created": "Tue, 21 Dec 2021 16:58:56 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "GitHub has a nice feature called gists. They're little documents you can edit and share with other devs. GitHub hosts them.",
+                    "created": "Tue, 21 Dec 2021 16:59:09 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "For fun here are <a href=\"https://gist.github.com/scripting\">all my gists</a>. ",
+                    "created": "Tue, 21 Dec 2021 17:06:53 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You can also embed them in web pages. I tried it, and it works.",
+                    "created": "Tue, 21 Dec 2021 16:59:34 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But they won't for some reason let me embed them in blogs that my users use. ",
+                    "created": "Tue, 21 Dec 2021 16:59:48 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So maybe I'm missing something? Or maybe I have to replicate the functionality of their plug-in.",
+                    "created": "Tue, 21 Dec 2021 17:00:03 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But I really want the look and feel of their plugin. ",
+                    "created": "Tue, 21 Dec 2021 17:00:25 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Oy! There must be an answer to this. ",
+                    "created": "Tue, 21 Dec 2021 17:00:36 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: I embedded a gist here, manually. Hey maybe this is good enough. ",
+                    "created": "Tue, 21 Dec 2021 17:05:58 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<script src=\"https://gist.github.com/scripting/3e5454f2b7a10029dfc301d7deabb576.js?file=package.json\"></script>",
+                    "created": "Tue, 21 Dec 2021 17:08:43 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Reading OPML in JavaScript apps",
+            "created": "Tue, 21 Dec 2021 16:54:21 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I was talking on the phone yesterday with Scott Hanson, a \"Drummer\" user and programmer, and longtime friend. He's been using the <a href=\"https://github.com/scripting/opmlPackage\">OPML package</a>. Among other things it reads OPML files into JavaScript structures, and goes the other way, writes them out as OPML.",
+                    "created": "Tue, 21 Dec 2021 16:54:34 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's like reading and writing JSON. It parses and stringifies. ",
+                    "created": "Tue, 21 Dec 2021 16:55:31 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Well Scott was surprised at how simple it is. I was surprised that he was surprised, but pleased that he used it, and happy to shine a light on what he saw. ",
+                    "created": "Tue, 21 Dec 2021 16:55:43 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So -- here's an <a href=\"http://drummer.scripting.com/davewiner/states.opml\">OPML file</a>. Click on the link to see. ",
+                    "created": "Tue, 21 Dec 2021 16:56:13 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's an <a href=\"https://github.com/scripting/opmlPackage/blob/main/examples/browser/index.html\">app</a> that uses the OPML package to read the file and it <a href=\"http://scripting.com/code/opmlpackage/examples/browser/index.html#json\">displays what it gets</a>, which should look familiar to any JavaScript programmer. ",
+                    "created": "Tue, 21 Dec 2021 16:56:29 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "From there your code and do anything it wants with the data it has. ",
+                    "created": "Tue, 21 Dec 2021 17:01:04 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Maybe I should write some high-level routines that do common operations to an in-memory OPML structure. Hmm.",
+                    "created": "Tue, 21 Dec 2021 17:01:16 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If you have questions about the OPML package, here's a <a href=\"https://github.com/scripting/opmlPackage/issues/2\">good place to ask</a>. ",
+                    "created": "Tue, 21 Dec 2021 17:15:57 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "A note to \"Web3\" backers ",
+            "created": "Tue, 21 Dec 2021 16:20:00 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "If there is actual substance to the hijack called \"Web3\" then they should do two things.",
+                    "created": "Tue, 21 Dec 2021 16:20:12 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Come up with a name I can use for it that doesn't begin with W-E-B  because I don't want to support hijacking the web.",
+                            "created": "Tue, 21 Dec 2021 16:20:22 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": " I'm going to keep working in JS and Node, and writing my blog, but give me bridges into your world. I am not under any circumstances moving my act into your space. Only suckers would do that, so you have to build these bridges so you might as well start there. ",
+                            "created": "Tue, 21 Dec 2021 16:20:22 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Why podcasting isn't dominated",
+            "created": "Tue, 21 Dec 2021 12:42:05 GMT",
+            "type": "outline",
+            "description": "Users have the power, but they have to use it. ",
+            "metaImage": "http://scripting.com/images/2021/12/21/happyPodcastPioneers.png",
+            "subs": [
+                {
+                    "text": "I asked this question <a href=\"http://scripting.com/2021/12/20.html#a142628\">on the blog</a> and <a href=\"https://twitter.com/davewiner/status/1472930147137466372\">on Twitter</a> yesterday. And so far all the answers have been about the companies, and imho they've been wrong. First, there are plenty of huge tech companies that have set out to own podcasting, and were fairly sure their dominance in other categories would help them achieve dominance in podcasting. I've listened to their bluster and at times have been worried that it might work. After all Google owns search, and Apple made the iPod (and therefore it's assumed by many that they invented podcasting). Amazon owns Audible which dominates audiobooks. Spotify is huge, and they've set out to dominate podcasting, and maybe they will, but they haven't so far.",
+                    "created": "Tue, 21 Dec 2021 12:42:20 GMT",
+                    "image": "http://scripting.com/images/2017/06/22/paulBunyan.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Second, how do I know that no single tech company dominates podcasting, or as some people claim a few of them do? Because the market doesn't behave like one that is dominated. There is no gatekeeper that can turn down your podcast, make you not cover topics they don't want covered or use language or images they don't think are acceptable, or compete with them. All these are features of dominated product categories. The press doesn't turn to Spotify or Apple to blame them for something someone said on a podcast that incited a riot or threatened a celebrity or politician. They don't turn to the companies because they are not dominant and they know it. I know no big tech company dominates podcasting because if you want to start a podcast there's no one who can tell you you can't. If you want to listen to a podast on your favorite player, yes there are some you can't, but you can for the vast majority of them. ",
+                    "created": "Tue, 21 Dec 2021 12:44:40 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Now to the question that I actually asked that no one seems to want to answer. Why? Why is it this way? Why podcasting and not the other tech-based media. Why is podcasting still open after over 20 years? Drumroll please. The answer: there are enough users who understand how it is supposed to work. They expect to be able to listen to any podcast anywhere they want. Most probably don't understand why they have this ability, about the <a href=\"http://daytona.scripting.com/?q=podcasting&collection=scriptingnews\">history</a> and technology design that <a href=\"http://scripting.com/images/2021/12/21/metaImage.png\">made</a> it possible, but they understand that they have the ability. And it doesn't have to be all of them or even most of them, just <i>enough</i> of them, whatever that means. And for right now, at the end of 2021, there are enough. Podcasting has always been and remains an open platform. I can't say it will be for the future, but so far so good. ",
+                    "created": "Tue, 21 Dec 2021 12:46:42 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'm not saying this as a form of self-congratulation, or an appeal for kudos, though I gratefully accept any that are offered. I'm focusing your attention on this because <i>we can do it again.</i> Start a new medium with the understanding that users have the right to move, the right to use any tool they want to create media or listen to (or read or view or experience) it. That there are no gatekeepers that control them. ",
+                    "created": "Tue, 21 Dec 2021 12:49:54 GMT",
+                    "image": "http://scripting.com/images/2017/06/23/mrNatural.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "In other words the example of podcasting says there's hope. We don't have to accept a bad answer. We can have freedom, and users are the key to that. I've always said that, because it's true. Users have the power, but they have to use it. But first developers have to set it up from the beginning so they are not locked in and so creators are not controlled. To set the expectation that they have the freedom to not be.",
+                    "created": "Tue, 21 Dec 2021 13:00:32 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
