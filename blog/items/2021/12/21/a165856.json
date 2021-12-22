@@ -1,0 +1,53 @@
+{
+    "text": "I want gists in Drummer blogs",
+    "created": "Tue, 21 Dec 2021 16:58:56 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "GitHub has a nice feature called gists. They're little documents you can edit and share with other devs. GitHub hosts them.",
+            "created": "Tue, 21 Dec 2021 16:59:09 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "For fun here are <a href=\"https://gist.github.com/scripting\">all my gists</a>. ",
+            "created": "Tue, 21 Dec 2021 17:06:53 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "You can also embed them in web pages. I tried it, and it works.",
+            "created": "Tue, 21 Dec 2021 16:59:34 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "But they won't for some reason let me embed them in blogs that my users use. ",
+            "created": "Tue, 21 Dec 2021 16:59:48 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "So maybe I'm missing something? Or maybe I have to replicate the functionality of their plug-in.",
+            "created": "Tue, 21 Dec 2021 17:00:03 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "But I really want the look and feel of their plugin. ",
+            "created": "Tue, 21 Dec 2021 17:00:25 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Oy! There must be an answer to this. ",
+            "created": "Tue, 21 Dec 2021 17:00:36 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "PS: I embedded a gist here, manually. Hey maybe this is good enough. ",
+            "created": "Tue, 21 Dec 2021 17:05:58 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<script src=\"https://gist.github.com/scripting/3e5454f2b7a10029dfc301d7deabb576.js?file=package.json\"></script>",
+            "created": "Tue, 21 Dec 2021 17:08:43 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
