@@ -10,3 +10,7 @@ I wrote a <a href="https://github.com/scripting/Scripting-News/blob/master/blog/
 
 Here's the same script <a href="https://gist.github.com/scripting/2531341ed9e2426b1d11848b76905f7c">as a gist</a> so you can see how it works even if you don't have an outliner handy. ;-)
 
+### Big file of includes
+
+I also uploaded an <a href="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opmlOtherSources/1997-2010/includes.opml">outline</a> that includes all the OPML files from this part of the archive as include nodes, so you can browse them in an outliner. 
+
