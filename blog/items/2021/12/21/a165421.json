@@ -1,0 +1,48 @@
+{
+    "text": "Reading OPML in JavaScript apps",
+    "created": "Tue, 21 Dec 2021 16:54:21 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I was talking on the phone yesterday with Scott Hanson, a \"Drummer\" user and programmer, and longtime friend. He's been using the <a href=\"https://github.com/scripting/opmlPackage\">OPML package</a>. Among other things it reads OPML files into JavaScript structures, and goes the other way, writes them out as OPML.",
+            "created": "Tue, 21 Dec 2021 16:54:34 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's like reading and writing JSON. It parses and stringifies. ",
+            "created": "Tue, 21 Dec 2021 16:55:31 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Well Scott was surprised at how simple it is. I was surprised that he was surprised, but pleased that he used it, and happy to shine a light on what he saw. ",
+            "created": "Tue, 21 Dec 2021 16:55:43 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "So -- here's an <a href=\"http://drummer.scripting.com/davewiner/states.opml\">OPML file</a>. Click on the link to see. ",
+            "created": "Tue, 21 Dec 2021 16:56:13 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's an <a href=\"https://github.com/scripting/opmlPackage/blob/main/examples/browser/index.html\">app</a> that uses the OPML package to read the file and it <a href=\"http://scripting.com/code/opmlpackage/examples/browser/index.html#json\">displays what it gets</a>, which should look familiar to any JavaScript programmer. ",
+            "created": "Tue, 21 Dec 2021 16:56:29 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "From there your code and do anything it wants with the data it has. ",
+            "created": "Tue, 21 Dec 2021 17:01:04 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Maybe I should write some high-level routines that do common operations to an in-memory OPML structure. Hmm.",
+            "created": "Tue, 21 Dec 2021 17:01:16 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you have questions about the OPML package, here's a <a href=\"https://github.com/scripting/opmlPackage/issues/2\">good place to ask</a>. ",
+            "created": "Tue, 21 Dec 2021 17:15:57 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
