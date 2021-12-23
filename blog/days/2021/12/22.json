@@ -1,0 +1,60 @@
+{
+    "created": "2021-12-22T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "22",
+    "path": "2021/12/22",
+    "text": "December 22",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"http://daytona.scripting.com/?q=Elizabeth%20Warren&collection=scriptingnews\">Elizabeth Warren</a> is letting the ruling class off too easy by saying we should tax them. What we should do is stop them from turning our government into an autocracy. Imagine if every night Ari Melber ran a profile of one of the people who could be funding the Republican push to autocracy and Manchin and Sinema's obstruction. Just say hey this is a billionaire who, according to recent Supreme Court rulings, can turn the US into a fascist hell, and might be one of them who's doing it. You could film Ari calling his office and asking the receptionist if he could speak to the ruling class member who could be quietly pulling the strings. No talk of \"kill shots\" or the like. No mobs invading their offices or homes. Just let's find out who they are and what they've done that we know of that fucks us over. And call Elizabeth Warren and ask why she talks about taxes all the time, when that's not the actual problem. ",
+            "created": "Wed, 22 Dec 2021 17:30:55 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/08/07/elizabethWarrenActionFigure.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "If the people on TV weren't tools for the ruling class, if they really cared about you, they'd say the truth about Omicron. 1. We have no idea if it will kill you. 2. You should probably stay home if you don't want to be one of the test cases.",
+            "created": "Wed, 22 Dec 2021 17:28:16 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://github.com/alexjj/drummer-blog\">alexjj</a> is doing really interesting stuff with Drummer and GitHub. I've been thinking about new integrations with GH myself. I think there's a lot of power there. ",
+            "created": "Wed, 22 Dec 2021 16:57:41 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I had a bit of time to kill the other day, an amazing thing -- I was caught up in all my rush jobs, so I decided to look for OPML archives for Scripting News. I started by reviewing the top level folders on scripting.com. I saw a folder called opmlArchive. In there were folders for the years 1997 through 2010. I opened them up, and saw folders with each of the months, 01, 02 and so on. Then I opened each of those, and there were OPML files for each of the days. And inside the OPML files, the source text for that day's blog. And they're pretty much exactly the same format as the format I use today. My CMS isn't called Old School for nothing. Anyway I'm just merging the daily files into monthly ones, to be consistent with the archive that I've been keeping on GitHub since 2017. In few minutes I'll be adding 12+ years of source text. And then after a bit I'll load all this into Daytona. My memory is so weird, I vaguely remember setting this up. I mostly just do things like that and forget them. What this tells me is if I hunt around on my hard drive, I'll find the editing tools I was using then. It's almost as if someone else did all this stuff. ",
+            "created": "Wed, 22 Dec 2021 16:03:34 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/05/30/elephant.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "And here is <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog/opmlOtherSources/1997-2010\">the big archive</a>. More to say later for sure. ",
+            "created": "Wed, 22 Dec 2021 16:47:40 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, yesterday a Radio UserLand blogger asked me if there was a way to convert their blog archive to OPML. I'm sure we could do it, probably fairly easily. The thing to look for is a file called radio.root. It's the object database that contains everything, including your blog posts. I started a <a href=\"https://github.com/scripting/Scripting-News/issues/227\">thread</a> to discuss.",
+            "created": "Wed, 22 Dec 2021 15:02:17 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Food for thought. Suppose the web was started by venture capitalists. And suppose only venture capitalists made web sites and apps. They would have gotten a lot of press, that's for sure. But do you think the web would have amounted to anything?",
+            "created": "Wed, 22 Dec 2021 14:32:18 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm starting to think about <a href=\"https://www.google.com/search?q=site%3Ascripting.com+boty\">Blogger Of The Year</a>, something I try to do every year, for no particular reason other than it's good to think about people who are doing an exemplary job of keeping the tradition of blogging alive on the web. ",
+            "created": "Wed, 22 Dec 2021 14:20:04 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
