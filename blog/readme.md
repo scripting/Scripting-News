@@ -2,11 +2,13 @@
 
 #### What is this?
 
-Every night a <a href="https://github.com/scripting/oldSchoolNightly/blob/master/oldschoolnightly.js">Node app</a> runs on one of my servers that backs up the new stuff on <a href="http://scripting.com/">Scripting News</a> in a GitHub <a href="https://github.com/scripting/Scripting-News/tree/master/blog">repository</a>. It's my way of trying to create an archive of my writing that will persist, even if everything in my hosting chain were to fail. <a href="http://scripting.com/">DW</a>
+Every night a <a href="https://github.com/scripting/oldSchoolNightly/blob/master/oldschoolnightly.js">Node app</a> runs on one of my servers that backs up the new stuff on <a href="http://scripting.com/">Scripting News</a> in a GitHub <a href="https://github.com/scripting/Scripting-News/tree/master/blog">repository</a>. 
+
+It's my way of trying to create an archive of my writing that will persist, even if everything in my hosting chain were to fail. <a href="http://scripting.com/">DW</a>
 
 #### How it works
 
-I <a href="http://scripting.com/images/2018/09/02/editingMyBlogInOutliner.png">use</a> an <a href="http://littleoutliner.com/">outliner</a> to write my <a href="http://scripting.com/">blog</a>. To publish changes to the outline, on the blog, I click an icon. This sends an HTTP call to the server saying "update the site." It has been told where the <a href="http://electricserver.scripting.com/users/davewiner/electric/blog.opml">OPML file</a> is, and has all the prefs set in a local config file. It then generates a folder of JSON and HTML files representing the days, items and pages of the site. From this data, the renderer can generate the home page, the story pages, and the monthy and daily archive pages. 
+I <a href="http://scripting.com/images/2018/09/02/editingMyBlogInOutliner.png">use</a> an <a href="http://littleoutliner.com/">outliner</a> to write my <a href="http://scripting.com/">blog</a>. To publish changes to the outline, on the blog, I click an icon. This sends an HTTP call to the server saying "update the site." It has been told where the <a href="http://electricserver.scripting.com/users/davewiner/electric/blog.opml">OPML file</a> is, and has all the prefs set in a local config file. It then generates a folder of JSON and HTML files representing the days, items and pages of the site. From this data, the renderer can generate the home page, the story pages, and the monthy and daily archive pages.  
 
 The <a href="https://github.com/scripting/oldSchoolNightly">nightly script</a> incrementally <a href="https://github.com/scripting/Scripting-News/tree/master/blog">backs up</a> all these files, every night.
 
