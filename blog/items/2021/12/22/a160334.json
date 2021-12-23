@@ -1,0 +1,7 @@
+{
+    "text": "I had a bit of time to kill the other day, an amazing thing -- I was caught up in all my rush jobs, so I decided to look for OPML archives for Scripting News. I started by reviewing the top level folders on scripting.com. I saw a folder called opmlArchive. In there were folders for the years 1997 through 2010. I opened them up, and saw folders with each of the months, 01, 02 and so on. Then I opened each of those, and there were OPML files for each of the days. And inside the OPML files, the source text for that day's blog. And they're pretty much exactly the same format as the format I use today. My CMS isn't called Old School for nothing. Anyway I'm just merging the daily files into monthly ones, to be consistent with the archive that I've been keeping on GitHub since 2017. In few minutes I'll be adding 12+ years of source text. And then after a bit I'll load all this into Daytona. My memory is so weird, I vaguely remember setting this up. I mostly just do things like that and forget them. What this tells me is if I hunt around on my hard drive, I'll find the editing tools I was using then. It's almost as if someone else did all this stuff. ",
+    "created": "Wed, 22 Dec 2021 16:03:34 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2017/05/30/elephant.png",
+    "flInCalendar": true
+}
