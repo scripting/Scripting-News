@@ -1,0 +1,6 @@
+{
+    "text": "BTW, yesterday a Radio UserLand blogger asked me if there was a way to convert their blog archive to OPML. I'm sure we could do it, probably fairly easily. The thing to look for is a file called radio.root. It's the object database that contains everything, including your blog posts. I started a <a href=\"https://github.com/scripting/Scripting-News/issues/227\">thread</a> to discuss.",
+    "created": "Wed, 22 Dec 2021 15:02:17 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
