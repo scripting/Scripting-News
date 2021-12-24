@@ -1,0 +1,6 @@
+{
+    "text": "I'm now loading all the posts from 1997 to 2010 into the Daytona database. For all the time involved, it's amazing how consistent the format is. In the early part of the archive, most posts had no created attribute. Then starting around 2004 most did, but I think it was only until 2017 that they all did. So I had to revise the conversion script to synthesize them if they weren't there.",
+    "created": "Thu, 23 Dec 2021 15:41:21 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
