@@ -1,0 +1,6 @@
+{
+    "text": "About eight years ago I sat down to write a bit of software that would let me edit numerous files in a single outline, and when I saved the outline they would all update in the various places they were aimed. So with one click I could update a server and its user interface, scripts that run on the server, and a documentation website on GitHub. All the associated files would be in one outline. The <a href=\"http://daytona.scripting.com/?q=outline%20as%20a%20file%20system&collection=scriptingnews\">outline as a file system</a> model. It came together remarkable quickly in 2013, in Frontier. In the last few days I've rewritten the software to run in <a href=\"http://docserver.scripting.com/drummer/electricDrummer.opml\">Electric Drummer</a>. The codename for the product is <a href=\"http://daytona.scripting.com/?q=glorp&collection=scriptingnews\">Glorp</a>. I'm actually kind of falling in love with the name. When I wrote the initial version in Frontier in 2013 it was just for me. I called it <a href=\"http://daytona.scripting.com/?q=NodeEditor&collection=scriptingnews\">NodeEditor</a> because it was initially conceived as a way of editing Node apps. It has outgrown that name, it does much more than that now. Glorp will do for now.",
+    "created": "Mon, 27 Dec 2021 23:22:33 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
