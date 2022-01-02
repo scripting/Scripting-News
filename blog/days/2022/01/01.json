@@ -1,0 +1,111 @@
+{
+    "created": "2022-01-01T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "01",
+    "path": "2022/01/01",
+    "text": "January 01",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"http://scripting.com/2022/01/01/thoughtsOnInteropInOutlineLandBasedOnMarkdown.m4a\">Podcast</a>: Thoughts on interop in outline-land based on Markdown.",
+            "created": "Sat, 01 Jan 2022 16:06:55 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2022/01/01/thoughtsOnInteropInOutlineLandBasedOnMarkdown.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "7391549",
+            "flInCalendar": true
+        },
+        {
+            "text": "Yesterday, the last day of the year, totally by coincidence, I did my 50th Peloton ride. It's had a mostly positive effect, but my 66-year-old knees really feel it. Thing about these bodies they don't tell you, joints actually wear out like parts on a car, for example.",
+            "created": "Sat, 01 Jan 2022 14:54:08 GMT",
+            "type": "tweet",
+            "tweetId": "1477292632976117763",
+            "tweetUserName": "davewiner",
+            "flInCalendar": true
+        },
+        {
+            "text": "Rollover day",
+            "created": "Sat, 01 Jan 2022 14:57:48 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Today, the first of the month, is rollover day in my blog. I do it on the first of the month.",
+                    "created": "Sat, 01 Jan 2022 14:57:59 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I have done the usual ritual: ",
+                    "created": "Sat, 01 Jan 2022 14:58:19 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Put my December sub-outline it its own file in <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/opml/2021/12.opml\">the GitHub repo</a>.",
+                            "created": "Sat, 01 Jan 2022 15:51:00 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Emptied out my main blog.opml file. ",
+                            "created": "Sat, 01 Jan 2022 15:51:19 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Ran a one-line script to remove all references to blog.opml in the index. (See below.)  ",
+                            "created": "Sat, 01 Jan 2022 15:52:17 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Pinged Daytona to index the archived outline. Now Daytona has been rolled over.",
+                            "created": "Sat, 01 Jan 2022 15:52:52 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Drummer bloggers, you should do something similar when you roll over your blog.opml file. ",
+                            "created": "Sat, 01 Jan 2022 15:56:01 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I added a couple of posts to the empty blog.opml outline, which triggered triggered an indexing of blog.opml by Daytona. ",
+                            "created": "Sat, 01 Jan 2022 15:53:36 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Verified that both the old and new stuff is in the index. ",
+                            "created": "Sat, 01 Jan 2022 15:52:07 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Continue blogging until February 1.",
+                            "created": "Sat, 01 Jan 2022 16:00:59 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's the code I ran in Drummer to do the rollover in Daytona.",
+                    "created": "Sat, 01 Jan 2022 15:59:16 GMT",
+                    "flCodeSubs": "true",
+                    "subs": [
+                        {
+                            "text": "daytona.removeOutlineRefs (\"http://drummer.scripting.com/davewiner/blog.opml\")",
+                            "created": "Sat, 01 Jan 2022 15:59:28 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "daytona.ping (\"https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opml/2021/12.opml\")",
+                            "created": "Sat, 01 Jan 2022 15:59:34 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: More rollover. I had to add rollover to the code in <a href=\"http://tweets.opml.org/\">tweets.opml.org</a>. And verify that the GitHub archive of our tweets rolled over at the beginning of the year. For example, <a href=\"https://github.com/scripting/tweets.opml.org/tree/main/users/davewiner\">here's the folder</a> that holds the archive of my tweets. You can see there's now a sub-folder for 2022, alongside the one from 2021. ",
+                    "created": "Sat, 01 Jan 2022 16:40:00 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
