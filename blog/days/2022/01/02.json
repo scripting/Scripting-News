@@ -1,0 +1,72 @@
+{
+    "created": "2022-01-02T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "02",
+    "path": "2022/01/02",
+    "text": "January 02",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "The web needs a simple API for storage and identity that users pay for and apps are given permission to hook into. Not a freebie from a huge tech monopoly. Blockchain an option, but not the only one.",
+            "created": "Mon, 03 Jan 2022 01:30:15 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/09/09/jessica.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Why outsiders see things insiders miss.  Watch <a href=\"https://en.wikipedia.org/wiki/The_Fog_of_War\">The Fog of War</a>. An incredible documentary about how we fight wars with almost no idea of what's going on. If you're outside <a href=\"https://www.youtube.com/watch?v=nU1bzm-BW0o\">the fog</a>, it stands to reason you see things insiders can't see.",
+            "type": "outline",
+            "created": "Sun, 02 Jan 2022 17:17:15 GMT",
+            "urlvideo": "https://www.youtube.com/watch?v=nU1bzm-BW0o",
+            "flInCalendar": true
+        },
+        {
+            "text": "There are two fundamental approaches to <a href=\"http://daytona.scripting.com/?q=outliner&collection=scriptingnews\">outliners</a>, and until now I've never felt the need to find a simple explanation of the difference. And I don't yet have a concise explanation. The difference goes back to ThinkTank vs Microsoft Word in the 80s. In ThinkTank when you moved an object out one level by pressing shift-tab, the node only took with it its own subs. In Word -- it could take some of its siblings with it. It depends on whether it views the document as a hierarchy or as a word processing document. The difference is also present between Drummer and LogSeq (and I imagine it comes from earlier products such as Org Mode). I'll keep coming back to this discussion, and I welcome input on what's the best way to understand the differences. I imagine in the end the difference will be similar to the difference between paint programs and draw programs, the former that deals with pixels, and the latter with objects. I've opened a <a href=\"https://github.com/scripting/Scripting-News/issues/228\">thread</a> for discussion. ",
+            "created": "Sun, 02 Jan 2022 16:03:16 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you've never used one of my outliners, starting with ThinkTank in the 80s, through <a href=\"http://drummer.scripting.com/\">Drummer</a>, first introduced last year, <a href=\"http://docserver.scripting.com/drummer/outliner.opml\">this howto</a> explains how they work. ",
+            "created": "Sun, 02 Jan 2022 16:12:46 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Outlining is different from word processing in terms of <a href=\"https://en.wikipedia.org/wiki/WYSIWYG\">wysiwyg</a>. So many renderings can come from outlines. It would be great to edit in wizzy mode for every possible rendering. But it's almost as good to have a flip-switch.",
+            "type": "outline",
+            "created": "Sun, 02 Jan 2022 17:01:35 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The Leftovers don't warm up",
+            "created": "Sun, 02 Jan 2022 15:23:17 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2022/01/02/leftovers.png",
+            "description": "Watch the first season in its entirety. Then watch the last episode of the last season.",
+            "subs": [
+                {
+                    "text": "I've been feeling a little under the weather the last few days so I decided it was time for a binge-watch of something familiar, <a href=\"https://en.wikipedia.org/wiki/The_Leftovers_(TV_series)\">The Leftovers</a> on HBO. I had watched it when it came out, one episode at a time, over three seasons. ",
+                    "created": "Sun, 02 Jan 2022 15:18:26 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I think this is a series that was never meant to be binged, because it became harsh and ridiculous, but I remembered it had a great ending. It was one of those science fiction plots that actually makes sense. Unlike <a href=\"https://en.wikipedia.org/wiki/Lost_(TV_series)\">Lost</a>, for example, that sputtered out at the end and never explained the mystery -- Leftovers very much does explain itself. And the crazy thing is that I didn't remember the plot until I watched the whole thing and it was explained in the last scene of the last episode of the final season. ",
+                    "created": "Sun, 02 Jan 2022 15:24:21 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So if you want to watch the show, here's what I recommend. Watch the first season in its entirety. Then watch the last episode of the last season. You might not understand some of the setup, but you'll totally get the punchline, and it's a good one and worth it. The rest of it is crap imho, and I'm surprised the show has held on to its <a href=\"https://www.metacritic.com/tv/the-leftovers\">high rating</a>. I think maybe we need to re-review these shows after they've been out there for a few years to see if they hang together as rapid-watches. ",
+                    "created": "Sun, 02 Jan 2022 15:25:06 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "One thing about the show, not sure if it's the cause, but my dreams have been a lot more vivid and annoying the last few nights while I've been doing the binge. ",
+                    "created": "Sun, 02 Jan 2022 15:23:39 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
