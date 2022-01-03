@@ -1,0 +1,6 @@
+{
+    "text": "There are two fundamental approaches to <a href=\"http://daytona.scripting.com/?q=outliner&collection=scriptingnews\">outliners</a>, and until now I've never felt the need to find a simple explanation of the difference. And I don't yet have a concise explanation. The difference goes back to ThinkTank vs Microsoft Word in the 80s. In ThinkTank when you moved an object out one level by pressing shift-tab, the node only took with it its own subs. In Word -- it could take some of its siblings with it. It depends on whether it views the document as a hierarchy or as a word processing document. The difference is also present between Drummer and LogSeq (and I imagine it comes from earlier products such as Org Mode). I'll keep coming back to this discussion, and I welcome input on what's the best way to understand the differences. I imagine in the end the difference will be similar to the difference between paint programs and draw programs, the former that deals with pixels, and the latter with objects. I've opened a <a href=\"https://github.com/scripting/Scripting-News/issues/228\">thread</a> for discussion. ",
+    "created": "Sun, 02 Jan 2022 16:03:16 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
