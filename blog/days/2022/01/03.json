@@ -1,0 +1,85 @@
+{
+    "created": "2022-01-03T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "03",
+    "path": "2022/01/03",
+    "text": "January 03",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "We now have a <a href=\"https://github.com/scripting/drummerRFC/issues/4#issuecomment-1004157802\">plan</a> for the next steps in <a href=\"http://scripting.com/2021/12/16/153331.html?title=myProductIsInterop\">interop</a> between Drummer and Logseq. ",
+            "created": "Mon, 03 Jan 2022 21:37:12 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The first part of the plan is done, <a href=\"https://github.com/scripting/opmlPackage/blob/main/README.md#v0412----1322-by-dw\">v0.4.12</a> of the OPML package, it now reads and writes the extended Markdown used by Tools For Thought products such as LogSeq. Here's <a href=\"https://github.com/scripting/opmlPackage/blob/main/commoncode.js\">the code</a>, as you can see it's not very complicated. Discuss <a href=\"https://github.com/scripting/drummerRFC/issues/4#issuecomment-1004157802\">here</a>. ",
+            "created": "Mon, 03 Jan 2022 23:33:15 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I would never use a publishing tool that required me to use their editor to publish. Because, as a writer for many years, I already ahve a great writing environment that's perfectly tuned for me, or (more likely) I've learned to ignore its flaws. It's very forgiving of my foibles. Your editor doesn't know me at all. And btw, I might want to publish this stuff somewhere else at some time, which is probably the real reason they don't let you choose your editor.",
+            "type": "outline",
+            "created": "Mon, 03 Jan 2022 17:33:05 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Why not drive a Tesla",
+            "created": "Mon, 03 Jan 2022 13:44:50 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2022/01/03/teslaDash.png",
+            "description": "What users want first and foremost is the UI of the cars to not change.",
+            "subs": [
+                {
+                    "text": "My longtime friend <a href=\"https://en.wikipedia.org/wiki/Robert_Scoble\">Robert Scoble</a> has owned a Tesla Model 3 for years, and always touts the over-the-air software updates, so he can wake up one morning and find his car has a bunch of new features. Yeah but what if they break users, I kept wondering. How well do they test these instant universal updates before uploading? Well, of course -- they <i>don't</i> test them. Duh. It's a Silicon Valley company and their fear of breaking users isn't the most important factor in their engineering effort, and that of course is an understatement. ",
+                    "created": "Mon, 03 Jan 2022 13:44:58 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I found out in the latest update. I had the temperature in the car set to 65 degrees, the same temperature I have my house thermostat set to. When I got into my updated car, the temperature was 72. It said so very clearly on the big display in the middle of the dash. So I did what I did before, touched the temperature, up pops the environment panel, but I couldn't find any way to change the temp back to 65. I know how to scan a UI from left to right and top to bottom to find the thing that should be big, in the middle the display. A slider that sets the temperature. It wasn't there. I sat in the car in my garage for a few minutes before I had a brilliant idea. Try doing it on the phone where the UI didn't change. Voila. Back to comfort. I'm in good shape until they auto-update the phone UI. :smile:",
+                    "created": "Mon, 03 Jan 2022 13:46:49 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A bunch of other things were moved around. Why? Developers have their own insights into what users need, and they're always wrong. What users want first and foremost is the UI of the fucking cars to not fucking change! I put the f-word in there twice to emphasize the importance of this idea. ",
+                    "created": "Mon, 03 Jan 2022 13:48:42 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I still have my 2020 Subaru Forester, which I drive at least once a week to take out the garbage (I have a long driveway) and to keep the battery charged and to evict any <a href=\"http://scripting.com/2020/08/30/152537.html?title=howToFightMiceInCars\">mouse families</a> that might be nesting in the heating system. In all this time, the heating controls, which are just a few knobs on the dashboard, obviously haven't moved or changed. They aren't made of software and therefore can be trusted to stay where they are and continue to work the way they used to work when I first learned how to use them. ",
+                    "created": "Mon, 03 Jan 2022 13:49:29 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If the Tesla developers had access to user testing or if they gave a shit about users, they would not have moved the temperature control, and their software certainly wouldn't have changed my temperature setting. ",
+                    "created": "Mon, 03 Jan 2022 13:50:46 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Another longtime friend, <a href=\"https://www.crunchbase.com/person/david-carlick\">Dave Carlick</a>, also drives a Tesla. This is what he wrote about the recent UI changes, <a href=\"https://www.facebook.com/davidscottcarlick/posts/10159365261220609\">on Facebook</a>.",
+                    "created": "Mon, 03 Jan 2022 13:51:37 GMT",
+                    "subs": [
+                        {
+                            "text": "Seat position selector? Ha ha ha! Hid it! Swipe on tire pressure? Mwaa ha ha. Hid that too! Cell phone music selector? You'll never find it! Song that is playing? Ha ha ha ha. Keep guessing. Temperature controls? Stop driving right now and hunt around!",
+                            "created": "Mon, 03 Jan 2022 13:52:05 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Now meanwhile, let me say that I <i>love</i> driving my Tesla more every week. I sometimes look for excuses to drive somewhere just so I can take my muscle car that looks like a Toyota Camry for a spin. The way it hugs the corners on mountain roads, and accelerates in an instant to pass cars running on gasoline. I love the car. But I wish it behaved more like an old style car in viewing the user interface as immutable. ",
+                    "created": "Mon, 03 Jan 2022 13:53:31 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Marc Andreessen famously said <a href=\"https://www.wsj.com/articles/SB10001424053111903480904576512250915629460\">software is eating the world</a>. Maybe that wasn't the best idea ever? Heh. :boom:",
+                    "created": "Mon, 03 Jan 2022 14:26:05 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
