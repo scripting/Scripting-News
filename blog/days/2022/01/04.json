@@ -1,0 +1,98 @@
+{
+    "created": "2022-01-04T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "04",
+    "path": "2022/01/04",
+    "text": "January 04",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=kGeCeK85sUg\">Many Rivers to Cross</a>.",
+            "created": "Tue, 04 Jan 2022 16:54:37 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=kGeCeK85sUg",
+            "flInCalendar": true
+        },
+        {
+            "text": "A big mea culpa. Yesterday I released a version of the <a href=\"https://github.com/scripting/opmlPackage\">OPML package</a> that didn't work. There's a new version, that includes new <a href=\"https://github.com/scripting/opmlPackage/tree/main/examples/markdown\">example code</a> illustrating how to use the new Markdown variant format for outline-based interop. ",
+            "created": "Tue, 04 Jan 2022 18:32:09 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/09/07/mrMeeseeks.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "What OS made you think computers were really cool inside. For me it was <a href=\"http://daytona.scripting.com/?q=unix&collection=scriptingnews\">Unix</a> in the late 70s. That's what really opened my eyes to how things could be both very powerful and very simple. ",
+            "created": "Tue, 04 Jan 2022 23:10:56 GMT",
+            "type": "tweet",
+            "tweetId": "1478504289517584385",
+            "tweetUserName": "davewiner",
+            "flInCalendar": true
+        },
+        {
+            "text": "I rarely listen to the Daily podcast but today I listened to one <a href=\"https://www.nytimes.com/2022/01/03/podcasts/the-daily/omicron-variant-hospitalizations-cdc-isolation.html\">about the Omicron variant</a> of Covid, and I don't think the person they interviewed really understood the science, or they were dumbing it down. How I miss <a href=\"http://daytona.scripting.com/?q=Donald%20McNeil&collection=scriptingnews\">Donald McNeil</a> who used to tell it like it is. Too bad he said the n-word when talking about the n-word instead of saying literally n-word he said the word the n-word is standing in for. How tired is that. Think of all the things we have to fight for to just get back to where we were and this wasn't one of them. Such fools at the NY Times.",
+            "created": "Tue, 04 Jan 2022 22:13:08 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://en.wikipedia.org/wiki/Give_%27em_Hell,_Harry!\">Harry Truman</a>: \"I don't give them Hell. I just tell the truth about them, and they think it's Hell.\"",
+            "created": "Tue, 04 Jan 2022 22:28:08 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The cable industry is just as responsible as Facebook for the garbage information people are getting. Both Facebook and Twitter remove the bad actors, why can't cable do the same. Even worse, we have to pay Fox money, even though we abhor what they do.",
+            "created": "Tue, 04 Jan 2022 19:19:21 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Many worlds, one structure",
+            "created": "Tue, 04 Jan 2022 16:49:49 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "It's interesting. ",
+                    "created": "Tue, 04 Jan 2022 16:49:52 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "People from the blogging world didn't necessarily pay attention to the podcasting world as it grew out of it.  ",
+                    "created": "Tue, 04 Jan 2022 16:50:05 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Same with the outlining world, even though outlines play a big role in blogs and podcasts. ",
+                    "created": "Tue, 04 Jan 2022 16:50:30 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Podcasters mostly were not bloggers, or outliners. ",
+                    "created": "Tue, 04 Jan 2022 16:50:31 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And most of the people who know me from outlining (all boomers and graybeards btw) had no idea that I went on to develop blogging and podcasting, even though they were natural outgrowths of outlining.",
+                    "created": "Tue, 04 Jan 2022 16:50:45 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "All these things are connected. They really are.",
+                    "created": "Tue, 04 Jan 2022 16:51:10 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And no one seems to understand that there is a format that ties all this stuff together. And it's not RSS, although that's important too.",
+                    "created": "Tue, 04 Jan 2022 16:51:39 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "There <i>is</i> a master plan! I kid you not. ",
+                    "created": "Tue, 04 Jan 2022 16:52:18 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
