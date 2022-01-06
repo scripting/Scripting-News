@@ -1,0 +1,53 @@
+{
+    "text": "The two-ways rule",
+    "created": "Wed, 05 Jan 2022 15:18:48 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "The rule: One way of doing something is better than two. ",
+            "created": "Wed, 05 Jan 2022 16:09:15 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "So when the language gets a new way of doing something that is only slightly better than the previous version, or not better at all, I always stick with the way I was doing it before. That way when reading the code I never have to wonder why did the author choose this way in one place and another way elsewhere.",
+            "created": "Wed, 05 Jan 2022 16:09:32 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Coding tricks is not why we program -- we program to create new utility, and to create something that is easy not to break when it needs maintenence. ",
+            "created": "Wed, 05 Jan 2022 16:10:25 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's very common and imho totally wrong to not adopt the conventions of code you're contributing to. ",
+            "created": "Wed, 05 Jan 2022 16:11:07 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Another way of emphasizing <a href=\"http://daytona.scripting.com/?q=prior%20art&collection=scriptingnews\">prior art</a>. ",
+            "created": "Wed, 05 Jan 2022 15:19:00 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you can get to zero ways of doing something that's way better than one, and way-way better than two or more. ",
+            "created": "Wed, 05 Jan 2022 15:19:23 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "There are exceptions. Sometimes they add a feature to a language that is so sensible you have to use it. For example, initial values for parameters to functions in JavaScript. Or not having to say <i>name: name</i> in an object definititon, just <i>name</i> will do. Another one, the forEach function in JavaScript is more sensible than the equalent for version.",
+            "created": "Wed, 05 Jan 2022 16:13:08 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "See the <a href=\"http://this.how/standards/#1497798940000\">rule</a> in the standards-makers howto. It's the same idea.",
+            "created": "Wed, 05 Jan 2022 15:19:45 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Sometimes I don't have time to write a full prose version of a post, I think it's better to write the skeletal version rather than publish nothing at all.",
+            "created": "Wed, 05 Jan 2022 16:11:41 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
