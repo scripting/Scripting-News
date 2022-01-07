@@ -1,0 +1,6 @@
+{
+    "text": "Fixed a bug in the <a href=\"https://github.com/scripting/docServer/tree/main/markdownapp\">DocServer-to-Markdown</a> project where two classes of verbs were not included in the <a href=\"https://github.com/scripting/docServer/blob/main/docs/readme.md\">long list</a> of verbs, the <a href=\"https://github.com/scripting/docServer/blob/main/docs/pages/op.md\">op</a> and <a href=\"https://github.com/scripting/docServer/blob/main/docs/pages/twitter.md\">twitter</a> verbs.",
+    "created": "Thu, 06 Jan 2022 14:16:41 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
