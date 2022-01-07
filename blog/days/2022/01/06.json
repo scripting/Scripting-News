@@ -1,0 +1,77 @@
+{
+    "created": "2022-01-06T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "06",
+    "path": "2022/01/06",
+    "text": "January 06",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I like the <a href=\"https://www.amazon.com/gp/product/B088MGT2WP/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1\">Microsoft Mouse</a> with the scroll wheel, having  adopted it in the last month. But it has a cheap feel, and mouse pointer freezes a lot. If I'm going to use a scroll wheel mouse eight hours a day every day, I am willing to buy a <a href=\"https://www.amazon.com/Scroll-Wheel-Mouse-Mac/s?k=Scroll+Wheel+Mouse+for+Mac\">better product</a>. ",
+            "created": "Thu, 06 Jan 2022 22:18:17 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1479215870501134340",
+            "flInCalendar": true
+        },
+        {
+            "text": "About <a href=\"http://scripting.com/2022/01/05.html#a163044\">open storage systems</a>, there are lots of them out there. I <a href=\"https://www.npmjs.com/package/daveappserver\">wrote one</a> myself, the one that's in use in Drummer, built on Twitter identity. But it's not enough to have the functionality, it has to be an obvious choice for users. That's why Amazon is perfect, so many people have accounts there and are comfortable using it, and they have a great <a href=\"https://aws.amazon.com/s3/\">storage system</a> already, it's just a matter of linking the two. There must be a reason they don't do it, it's so obvious. Maybe they don't want all the hassle YouTube has to go through with copyright. ",
+            "created": "Thu, 06 Jan 2022 14:25:16 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/09/17/simpsonsBeeGuy.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Fixed a bug in the <a href=\"https://github.com/scripting/docServer/tree/main/markdownapp\">DocServer-to-Markdown</a> project where two classes of verbs were not included in the <a href=\"https://github.com/scripting/docServer/blob/main/docs/readme.md\">long list</a> of verbs, the <a href=\"https://github.com/scripting/docServer/blob/main/docs/pages/op.md\">op</a> and <a href=\"https://github.com/scripting/docServer/blob/main/docs/pages/twitter.md\">twitter</a> verbs.",
+            "created": "Thu, 06 Jan 2022 14:16:41 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Asking for help with software",
+            "created": "Thu, 06 Jan 2022 14:54:55 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "If you want help, you have to put the effort in, first. You can't expect people to help you if haven't checked your work.  First you have to carefully read the docs. Not just once, but two or three times. Then stare at the problem. Try changing something and see what happens. Maybe the docs say one thing but you're observing something else. What did I do wrong? You have to ask that question first. We all make mistakes, there's no shame in it, but it's not good to show no effort before sounding an alarm. Esp when the person you're asking for help from is doing it as a volunteer. ",
+                    "created": "Thu, 06 Jan 2022 15:46:54 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "One thing I've learned from far too many years using computers, I'm usually the one who made the mistake, though it's tempting to assume the software is wrong. When I say \"usually\" --- I mean once in a thousand times the software was wrong. ",
+                    "created": "Thu, 06 Jan 2022 21:31:13 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "There was a situation the other day when the user appeared to be reporting that the software had completely failed. We're now months into the shipment of the software, and I was pretty sure this part worked. I depended on it myself. The user gave me no information other than he thought the software was broken. I closed the issue and moved on. I can't work with people who aren't at least a little humble. And nothing is so urgent that I should stop everything I'm doing and help a panicked user who won't even do a little work to try to figure out whether they misunderstood or made a mistake. ",
+                    "created": "Thu, 06 Jan 2022 21:33:23 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The problems I like helping people with are ones that are dished up in clear terms -- this is what I saw, I expected something else to happen (please explain), I read the docs (be sure you actually have) and tried a few things (explain) but I can't figure it out. When the explanation is so clear I recognize the issue and am able to quickly help. I <i>like</i> helping people. I don't like doing other people's work for them. ",
+                    "created": "Thu, 06 Jan 2022 21:38:27 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Uncle Arno",
+            "created": "Thu, 06 Jan 2022 15:00:05 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "A <a href=\"https://twitter.com/cartoonist/status/1479001101580095493\">cartoon image</a> of my great-uncle <a href=\"https://en.wikipedia.org/wiki/Arno_Schmidt\">Arno Schmidt</a>, my maternal grandmother's brother. He was a German novelist. 1914-1979.",
+                    "created": "Thu, 06 Jan 2022 15:00:11 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"http://daytona.scripting.com/?q=arno%20schmidt&collection=scriptingnews\">Arno Schmidt</a> by <a href=\"https://twitter.com/cartoonist\">Ralf Zeigermann</a>.",
+                    "created": "Thu, 06 Jan 2022 15:01:29 GMT",
+                    "inlineImage": "http://scripting.com/images/2022/01/06/arnoSchmidt.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
