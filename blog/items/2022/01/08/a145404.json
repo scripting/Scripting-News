@@ -1,0 +1,61 @@
+{
+    "text": "Why LogSeq?",
+    "created": "Fri, 08 Jan 2022 14:54:04 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I'm sure some Drummer users are a little puzzled that the change notes outline all of a sudden has a bunch of stuff about LogSeq in it. ",
+            "created": "Fri, 07 Jan 2022 14:54:10 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "To a web outliner user who might not have heard of the product, or of the nascent \"Tools For Thought\" category, it could seem odd. My interest comes from the growth of the TFT category, and its close proximity to my products, and the potential for interop. ",
+            "created": "Fri, 07 Jan 2022 14:54:50 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I have put out a format for interop -- \"OPML\", but I've decided I don't want to wait for its broad adoption in the category to get interop. It's similar to  when RSS 0.90 came out when I already had <a href=\"http://daytona.scripting.com/?q=scriptingnews%20format&collection=scriptingnews\">scriptingNews format</a>. You have a choice at that point, you can have interop right now, or you can wait for a consensus that may never come. In the first case you have the chance to <i>create</i> the consensus, in the latter, you have to wait for others to agree. It's why I've noted in the past that the person who goes second has all the power. So I chose in this case to go second. ",
+            "created": "Fri, 07 Jan 2022 14:56:32 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "So if I want to interop with TFT products, why LogSeq?",
+            "created": "Fri, 07 Jan 2022 14:58:12 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "First, when I approached them, they responded, and listened, and followed up. ",
+                    "created": "Fri, 07 Jan 2022 14:58:30 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Second, they have an open product, you can interop with it without getting in a locked trunk. What you look for in interop is a level playing field, that it be a peering arrangement, and that your interop partner can't shut off the connection without losing their users. LogSeq meets all those requirements. They are committed to being open. It's not just a thing they say, it's how they've built their product.",
+                    "created": "Fri, 07 Jan 2022 14:59:24 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Third, the format is simple. I am familiar with it, having created a similar format for my outliners in the 80s called .HEAD. I know what it can and can't do. There's enough that we can do with the LogSeq format that makes for interesting projects built on the interop. ",
+                    "created": "Fri, 07 Jan 2022 15:00:52 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Fourth, I like the team! They have a fresh can-do go-get-em attitude that is very refreshing. You don't see this very often in the US (they are in China). One thing that makes interop work better is if there's compatibility between the people. ",
+                    "created": "Fri, 07 Jan 2022 15:02:28 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Now I have to make a disclosure that I wish I had been able to make in November. I have made a small investment in the company. They have not announced this yet, and they asked me to wait until they do, but I feel I've already waited too long. I need people to know that I have a financial interest in the success of the company. But I also wanted to send a signal to them, to the users of our products, to the Tools For Thought category, to developers and others -- that we can compete and still see our success as beneficial to each other. This space is so large and under-developed that we can work for many years building on each others' strengths. ",
+            "created": "Fri, 07 Jan 2022 15:03:45 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I think what we're doing is substantially different. The focus of my projects tends to be in publishing and tools for development. I see their product as being useful in that context, but I don't think there's a big conflict. If we are able to co-exist with products that support OPML, surely we can do the same with LogSeq.",
+            "created": "Fri, 07 Jan 2022 15:06:30 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
