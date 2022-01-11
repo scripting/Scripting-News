@@ -1,0 +1,28 @@
+{
+    "created": "2022-01-10T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "10",
+    "path": "2022/01/10",
+    "text": "January 10",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "On this day in 2018: I have a new motto --  if the world is going to end, I might as well have some nice headphones.",
+            "created": "Mon, 10 Jan 2022 17:03:38 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://www.w3schools.com/whatis/whatis_npm.asp\">NPM</a> Is a mess that could be cleaned up if we had the will to do it. There's no reason we use so many different packages. Node should have an extensive library of built-ins. And there should be a professional review process in place before key components are updated.",
+            "created": "Mon, 10 Jan 2022 14:35:49 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Update on the <a href=\"http://scripting.com/2022/01/09/185121.html?title=noCellCoverage\">No Cell Coverage</a> issue. I got a note that said to: 1. Turn on Airplane Mode. 2. Turn on Wifi. The thought is that should be enough to get the iPhone to stop trying to find a cell connection and thus stop draining my battery. If this works, all I'll have to do is remember to turn off Airplane Mode when I return to civilization.",
+            "created": "Mon, 10 Jan 2022 14:34:46 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
