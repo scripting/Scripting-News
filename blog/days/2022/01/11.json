@@ -1,0 +1,96 @@
+{
+    "created": "2022-01-11T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "11",
+    "path": "2022/01/11",
+    "text": "January 11",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=fQ7uXX9K7Sk\">You Can't Hurry Love</a>.",
+            "created": "Tue, 11 Jan 2022 22:20:29 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "What I did today",
+            "created": "Tue, 11 Jan 2022 21:55:49 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "In a screen shot because I was writing in LogSeq. ",
+                    "created": "Tue, 11 Jan 2022 21:56:00 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I have code that reads my Journals folder and turns it into an outline ready to be pushed at Old School and published as a blog. ",
+                    "created": "Tue, 11 Jan 2022 21:56:15 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It feels like building the transcontinental railroad. Something we did a lot of twice in the past...",
+                    "created": "Tue, 11 Jan 2022 21:56:41 GMT",
+                    "subs": [
+                        {
+                            "text": "Hooking up Mac apps using IAC.",
+                            "created": "Tue, 11 Jan 2022 21:57:02 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Hooking up web apps using XML-RPC and Menu Sharing. ",
+                            "created": "Tue, 11 Jan 2022 21:57:10 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here we are again, but this time OPML is the common language. I've been waiting for this for twenty years!",
+                    "created": "Tue, 11 Jan 2022 21:57:24 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Hey you can't hurry love. :heart:",
+                    "created": "Tue, 11 Jan 2022 21:57:48 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's the screen shot.",
+                    "created": "Tue, 11 Jan 2022 21:58:07 GMT",
+                    "inlineImage": "http://scripting.com/images/2022/01/11/logSeqNotes.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "What's your price Joe?",
+            "created": "Tue, 11 Jan 2022 16:27:55 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Manchin is a tool. Obviously he's being paid off. We even know how. That said, perhaps we can put together a GoFundMe to get him even more money than his backers are giving him, to do the right thing. If he can be bought, in other words, why don't we just buy him??",
+                    "created": "Tue, 11 Jan 2022 16:24:02 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It would be something for Wolf Blitzer to talk about. They could even have a box on CNN saying how much money had been raised so far. Reporters could ask Manchin all the time if $5 million isn't enough, what is your actual price?",
+                    "created": "Tue, 11 Jan 2022 16:28:17 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "He would say \"I don't have a price\" and we'd just..",
+                    "created": "Tue, 11 Jan 2022 16:28:36 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You don't say!",
+                    "created": "Tue, 11 Jan 2022 16:29:33 GMT",
+                    "inlineImage": "http://scripting.com/images/2022/01/11/orly.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
