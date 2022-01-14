@@ -1,0 +1,41 @@
+{
+    "created": "2022-01-13T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "13",
+    "path": "2022/01/13",
+    "text": "January 13",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=FKgPTkIulEI\">The Best Things In Life Are Free</a>. ",
+            "created": "Thu, 13 Jan 2022 17:15:52 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=FKgPTkIulEI",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's <a href=\"https://github.com/scripting/myLogseqBlog\">the software</a> I've been working on, it builds a Drummer blog from a LogSeq journals folder. Interop. Golden spike. We win. ",
+            "created": "Thu, 13 Jan 2022 17:21:54 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "There's a <a href=\"http://oldschool.scripting.com/mylogseqblog/2022/01/13/000005.html?title=changeNotesForV041\">new version</a> of the <a href=\"https://github.com/scripting/myLogseqBlog\">myLogseqBlog tool</a> fixing a couple of bugs reported on day one. There's also a note there on how this will evolve. Right now all the loose-ends are showing, that's because I know almost nothing about LogSeq. As the people from LogSeq-land get familiar with this, they will no doubt have ideas about how to better integrate this software so it's super easy. This is how <a href=\"http://daytona.scripting.com/?q=bootstrap&collection=scriptingnews\">bootstraps</a> start.  ",
+            "created": "Fri, 14 Jan 2022 00:49:53 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The finale of <a href=\"http://daytona.scripting.com/?q=Station%20Eleven&collection=scriptingnews\">Station Eleven</a> was very nice. And if you aren't weeping like a baby, well you will be. It's a sweet story of human dignity, trust and cooperation.",
+            "created": "Thu, 13 Jan 2022 17:26:20 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "At some point Sinema and Manchin will have a press conference with McConnell where he's wearing a Majority Leader badge.",
+            "created": "Thu, 13 Jan 2022 18:19:51 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
