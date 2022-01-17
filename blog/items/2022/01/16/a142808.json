@@ -1,0 +1,39 @@
+{
+    "text": "Word games",
+    "created": "Sun, 16 Jan 2022 14:28:08 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I've been doing crosswords for many years, but I'm still not great at them. They start out easy at the beginning of each week, and get harder progressively until the Sunday puzzle which only great crossword solvers can do, like my mom. It was one of the things we could do together. I'd fill in a few of the answers and come back later to find the whole puzzle solved. She said she didn't mind that I did the easy ones.",
+            "created": "Sun, 16 Jan 2022 14:28:13 GMT",
+            "image": "http://scripting.com/images/2022/01/16/crossword.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "The Washington Post recently started publishing <a href=\"https://www.washingtonpost.com/crossword-puzzles/daily/\">free crosswords</a>. Even though I'm a paying NYT subscriber, their crosswords cost more, even for me. I find the Post crosswords are just as satisfying and clever as the NYT ones, and the price is great. ",
+            "created": "Sun, 16 Jan 2022 14:32:32 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "As far as I know I have never been the answer to a clue in a NYT puzzle, or for that matter on Jeopardy. And I've never written a NYT guest column. I will be able to die a happy man when I've checked all these boxes. :boom:",
+            "created": "Sun, 16 Jan 2022 14:38:43 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Now we turn to <a href=\"https://www.powerlanguage.co.uk/wordle/\">Wordle</a>. At first I looked at it and thought it was too much trouble, but then I read a <a href=\"http://oldschool.scripting.com/KenSmith/2022/01/13/164646.html?title=solvingWordleWithLetterFrequency\">piece</a> by my friend Ken Smith, the English professor from Indiana, who explained how to approach it mathematically. The idea is that your first word should have as many of the most likely characters as possible, which are the vowels and N, R, S, T etc. Then I don't know the best approach for the second word or third. What I've been doing is taking the matches from the first word, and there are bound to be one or two, and use them in the second word. If the position is correct, use that letter in that position, to make it a bit like a crossword, except there is no clue. Repeat in the third, fourth, etc.",
+            "created": "Sun, 16 Jan 2022 14:28:47 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've played Wordle twice and both times got extremely lucky and solved the puzzle in the third word. ",
+            "created": "Sun, 16 Jan 2022 14:31:27 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, I <i>hate</i> Scrabble. No patience for it. ",
+            "created": "Sun, 16 Jan 2022 14:41:01 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
