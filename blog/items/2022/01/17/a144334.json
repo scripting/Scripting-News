@@ -1,0 +1,7 @@
+{
+    "text": "LogSeq plugin developer? As you may know, I've written a <a href=\"https://github.com/scripting/myLogseqBlog\">Node app</a> that flows LogSeq journal writing to a Drummer blog. Here's an <a href=\"http://oldschool.scripting.com/KLTransit/\">example</a>. It does the whole thing, except it should be baked into LogSeq. Setting up a Node app and running it externally is both too difficult for an average user and too many steps. We already have a <a href=\"https://github.com/scripting/myLogseqBlog/issues/1#issuecomment-1013997158\">great techie user</a> who I worked with me to get the Node app working, who is up to speed on using the software. He can guide the process, we just need a dev to work with him. I'm available to help too, to the extent that I can. If you are a LogSeq plugin dev, please post a note in <a href=\"https://github.com/scripting/myLogseqBlog/issues/1\">this thread</a>, and we can hopefully get started right away. <i>Thanks!</i>",
+    "created": "Mon, 17 Jan 2022 14:43:34 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2021/09/17/simpsonsBeeGuy.png",
+    "flInCalendar": true
+}
