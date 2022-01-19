@@ -1,0 +1,52 @@
+{
+    "text": "What is Electric Drummer?",
+    "created": "Tue, 18 Jan 2022 16:33:08 GMT",
+    "type": "outline",
+    "description": "And overview of where Electric Drummer fits in.",
+    "subs": [
+        {
+            "text": "As we're starting to test the Linux and Windows versions of Electric Drummer there have been some basic questions. I thought I should respond publicly so people understand what we're doing.  ",
+            "created": "Tue, 18 Jan 2022 16:33:14 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "<a href=\"http://docserver.scripting.com/drummer/electricDrummer.opml\">Electric Drummer</a> or E/D for short, is an app that runs on the desktop, hosted by its operating system.  Like a word processor or a graphics program. It's most like <a href=\"https://slack.engineering/building-hybrid-applications-with-electron/\">Slack</a> or the <a href=\"https://atom.io/\">Atom</a> editor, but it's <a href=\"http://daytona.scripting.com/?q=drummer&collection=scriptingnews\">Drummer</a>, a multi-tab outliner for note-taking, organizing and publishing.",
+                    "created": "Tue, 18 Jan 2022 16:34:21 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It runs in <a href=\"https://en.wikipedia.org/wiki/Electron_(software_framework)\">Electron</a>, a beautiful environment that makes cross-platform apps easier to create and manage. ",
+                    "created": "Tue, 18 Jan 2022 16:35:54 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "E/D saves files on your local file system as any desktop app does. ",
+                    "created": "Tue, 18 Jan 2022 16:36:20 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It can also hook up to your web Drummer account for outlines that you want to make public. It's how I do \"Scripting News\". The outline that I edit is on my local system,. It's also a <a href=\"http://drummer.scripting.com/davewiner/blog.opml\">public file</a>, so it can be accessed by the CMS when I ask it to render my blog from the outline. The public file is stored in my web Drummer account. It's a nice combination.",
+                    "created": "Tue, 18 Jan 2022 16:37:13 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "E/D is a scripting system, like web Drummer is. It will be able to access the local file system, and also will be able to run a server, none of which are possible from the web app. ",
+                    "created": "Tue, 18 Jan 2022 16:35:05 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "There is already a <a href=\"http://docserver.scripting.com/drummer/electricDrummer.opml\">Mac version</a> of E/D that has been available since October 10, when Drummer shipped. ",
+                    "created": "Tue, 18 Jan 2022 16:42:10 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's the same as web Drummer, a few commands work differently because it runs in a different place, but it's the same code, same outliner, same UI, same bugs (!), etc.  ",
+                    "created": "Tue, 18 Jan 2022 16:40:34 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
