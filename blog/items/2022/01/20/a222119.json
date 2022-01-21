@@ -1,0 +1,148 @@
+{
+    "text": "How I use my outliner to organize my work",
+    "created": "Thu, 20 Jan 2022 22:21:19 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I've just completed the Tree Chart project for now, and I was going through my todo outline, revising things and figuring out what my next project would be. I thought the outline for the project was a pretty good illustration, so here it is as rendered through my blogging software .",
+            "created": "Thu, 20 Jan 2022 22:21:30 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Note I didn't do everything in the outline. :-) ",
+            "created": "Thu, 20 Jan 2022 22:23:45 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "tree chart",
+            "created": "Sat, 15 Jan 2022 15:36:09 GMT",
+            "subs": [
+                {
+                    "text": "let's try it this way.",
+                    "created": "Sat, 15 Jan 2022 17:35:37 GMT",
+                    "subs": [
+                        {
+                            "text": "get rid of the controls, just display a tree chart",
+                            "created": "Sat, 15 Jan 2022 17:35:40 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "one outline can contain many charts",
+                            "created": "Sun, 16 Jan 2022 03:17:36 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "node type == treechart",
+                            "created": "Sun, 16 Jan 2022 03:17:43 GMT",
+                            "subs": [
+                                {
+                                    "text": "atts on the node determine the styles",
+                                    "created": "Sun, 16 Jan 2022 03:18:00 GMT",
+                                    "flInCalendar": true
+                                },
+                                {
+                                    "text": "we gather atts by visiting to the summit",
+                                    "created": "Sun, 16 Jan 2022 03:18:12 GMT",
+                                    "flInCalendar": true
+                                }
+                            ],
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "there's a menu of all the tree charts",
+                            "created": "Sun, 16 Jan 2022 03:17:50 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "we open the tree chart as an instant outline, ",
+                            "created": "Sat, 15 Jan 2022 17:35:49 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "the values that define the view of the chart are head-level atts",
+                            "created": "Sat, 15 Jan 2022 17:35:57 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "because we're hooked up to the web socket we are notified of changes",
+                            "created": "Sat, 15 Jan 2022 17:36:16 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "and we redisplay",
+                            "created": "Sat, 15 Jan 2022 17:36:41 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "old school gets hooked in somehow",
+                    "created": "Sun, 16 Jan 2022 03:20:00 GMT",
+                    "subs": [
+                        {
+                            "text": "I want to include tree charts in my blog",
+                            "created": "Sun, 16 Jan 2022 03:20:10 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "node-level atts control the display of the tree",
+                    "created": "Sat, 15 Jan 2022 15:36:12 GMT",
+                    "subs": [
+                        {
+                            "text": "textStyle",
+                            "created": "Sat, 15 Jan 2022 15:36:28 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "treeAlignment",
+                            "created": "Sat, 15 Jan 2022 15:36:46 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "fontFamily",
+                            "created": "Sat, 15 Jan 2022 15:36:49 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "fontSize",
+                            "created": "Sat, 15 Jan 2022 15:36:57 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "treeWidth",
+                            "created": "Sat, 15 Jan 2022 15:37:00 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "treeHeight",
+                            "created": "Sat, 15 Jan 2022 15:37:05 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "textColor",
+                            "created": "Sat, 15 Jan 2022 15:37:08 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "fillColor",
+                            "created": "Sat, 15 Jan 2022 15:37:13 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "lineColor",
+                            "created": "Sat, 15 Jan 2022 15:37:17 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
