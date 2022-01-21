@@ -1,0 +1,175 @@
+{
+    "created": "2022-01-20T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "20",
+    "path": "2022/01/20",
+    "text": "January 20",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "A new <a href=\"http://scripting.com/images/2022/01/20/motdScreenShot.png\">feature</a> in Drummer with news of features and connections. ",
+            "created": "Thu, 20 Jan 2022 16:04:26 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Tree Charts and outliners",
+            "created": "Thu, 20 Jan 2022 16:50:09 GMT",
+            "type": "outline",
+            "description": "Up till then color graphics, which were still very new to computers, was something for a priesthood. This was color graphics for thinkers. ",
+            "metaImage": "http://static.userland.com/misc/outliners/images/more11c/treeChart.gif",
+            "subs": [
+                {
+                    "text": "Way back in 1986, my then-company Living Videotext shipped a product called MORE. ",
+                    "created": "Thu, 20 Jan 2022 16:50:20 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "We called it that because there was so much more in it than the earlier outliner, ThinkTank 512, we didn't have any idea which new feature, if any, would be the one that turned people on. ",
+                    "created": "Thu, 20 Jan 2022 16:50:37 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "We didn't have the luxury of picking among them because our company was on the verge of going out of business. We needed help from Apple to make it to shipping. They gave us a loan of $400K, and we put our source code in escrow in case the company failed, which looked like a real possibility. ",
+                    "created": "Thu, 20 Jan 2022 16:51:13 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Well the product was an instant hit. And now, so many years later, I can tell you for sure which features made the difference -- tree charts and bullet charts. ",
+                    "created": "Thu, 20 Jan 2022 16:52:06 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's what a MORE tree chart looked like:",
+                    "created": "Thu, 20 Jan 2022 16:52:41 GMT",
+                    "subs": [
+                        {
+                            "text": "<img src=\"http://static.userland.com/misc/outliners/images/more11c/treeChart.gif\">",
+                            "created": "Thu, 20 Jan 2022 16:53:48 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You'd edit an outline, click a button and boom a colorful tree chart would appear. Go back to the outline and make a change, view it again, and boom, the tree chart changed. Up till then color graphics, which were still very new to computers, was something for a priesthood. This was color graphics for <i>thinkers. </i>",
+                    "created": "Thu, 20 Jan 2022 16:53:59 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "We sold a huge number of MOREs that year and in 1987 sold the company for a lot of money and I was able to go back to making software and stop being a CEO which was a good thing for me to do! :-)",
+                    "created": "Thu, 20 Jan 2022 16:55:26 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<b>It's 2022 Dave</b>",
+                    "created": "Thu, 20 Jan 2022 17:06:16 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "OK so here we are, it's 2022, an unthinkable number of years later (36) and here we are again. We have a nice powerful outliner. Like MORE it can print (these days that means render as a blog), but where are the beautiful graphics?  ",
+                    "created": "Thu, 20 Jan 2022 16:56:14 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here they are. A <a href=\"https://github.com/scripting/treechart/blob/main/README.md\">new Tree Chart viewer</a> that hooks into Drummer very neatly. ",
+                    "created": "Thu, 20 Jan 2022 16:57:23 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If you're a Drummer user, go have fun. I'm sure you'll love it. And if you use another kind of outliner, either give Drummer a try, or ask the people who make your outliner to have a look at Tree Chart (it's open source) and either adapt their outliner to work with Tree Chart (the better idea) or adapt Tree Chart to work with their outliner. ",
+                    "created": "Thu, 20 Jan 2022 16:57:43 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "As I said before, these days my product is interop. I made my fortune in the 80s, and I've invested well enough so that I don't need a hit product now. What I want to do is re-kindle the interest in computers used as thinking tools around common formats and protocols so it can grow like the open web, not so much like a silo. We've been down both roads and open is better for the users. And also for the vendors imho. ",
+                    "created": "Thu, 20 Jan 2022 16:58:59 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "We need to change the subject",
+            "created": "Thu, 20 Jan 2022 13:41:46 GMT",
+            "type": "outline",
+            "description": "Four more Senators and hold the House, and you can have it all.",
+            "metaImage": "http://scripting.com/images/2022/01/20/horseRace.png",
+            "subs": [
+                {
+                    "text": "The press is stuck in a rut. Everything is about Biden and the various horse races. But that isn't what matters. What matters is that we don't become a fascist country with slavery for Blacks, ovens for Jews and women turned into baby-producing handmaidens. Also a human-habitable planet would be nice. Focus on these things. This is what matters, not that random journalists earn a salary for flushing America down the toilet. ",
+                    "created": "Thu, 20 Jan 2022 13:41:55 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I was watching <a href=\"https://en.wikipedia.org/wiki/Ari_Melber\">Ari Melber</a> last night. The only reason I didn't turn it off is because he had <a href=\"https://en.wikipedia.org/wiki/James_Carville\">James Carville</a> on. Melber is entertaining and sometimes interesting, but usually just repeats the same bullshit night after night all the while claiming to be a journalist. He's an entertainer. But Carville, while also very entertaining, actually has ideas that you don't hear all the time on cable and in the NYT etc. More Carville please. ",
+                    "created": "Thu, 20 Jan 2022 13:43:57 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's what Carville says. ",
+                    "created": "Thu, 20 Jan 2022 13:45:17 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "The Dems are actually doing okay. ",
+                            "created": "Thu, 20 Jan 2022 13:45:23 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "They would do better if there were a few more Dems in the Senate, and also in the House. ",
+                            "created": "Thu, 20 Jan 2022 13:45:34 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "So the campaign, he says, should be about what they can do for us, workers, families. And they have quite a few things they want to do for us, s<i>o sell those things!</i> Man, sometimes it's so simple when you get a clear thinker who doesn't have anything in particular to sell and doesn't give a shit if you like him (and we do like him, he's a <a href=\"https://en.wikipedia.org/wiki/Coonass\">coonass</a> after all). ",
+                            "created": "Thu, 20 Jan 2022 13:45:49 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Four more Senators and hold the House, and you can have it all. So we can do some very specific things <i>for you.</i>",
+                            "created": "Thu, 20 Jan 2022 14:08:20 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's so logical. Get actors, great ones, who look like Democratic voters, and run ads that say what Carville says they should say, and let's have the slogan be something like this. You have the power, for real. Just vote, and we all win. Yeah it could be shorter. Use the last three words. We All Win. Come on, that's what it's about. I would give the max to fund such a campaign and so would a lot of people. The ads sell more ads. And the call to action is: Make a difference and vote. ",
+                    "created": "Thu, 20 Jan 2022 13:47:15 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Run the same ad with different faces. Surprise us, have one with Stacey Abrams or Val Demings. Run it over and over. We all win. We all win. Over and over. Buttons, bumper stickers, flags, lawn signs. We all win everywhere all the time. Basketball games. Hockey games. Football, baseball. County fairs. ",
+                    "created": "Thu, 20 Jan 2022 13:55:34 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Because we all want to feel we can do good. Maybe not all of us, but I suspect a lot of Trump voters while they may be racist (face it, we're a racist country, so you have to work really hard to <i>not</i> be racist) what they really want is this: To make a difference. Trump filled a vacuum, the Democrats while they care about us in the aggregate, never get that we are individuals and we want to make a difference. We all want to know there's something we can do to help us all win. If you want to win, Mr or Ms Democrat, you have to bring the people into your marketing. And then, if you want to keep governing and not be completely obstructed, you have to bring us into governing too. The mistake that Obama made was not bringing the people into his administration. McConnell and his fascist Federalists wouldn't have been able to stand up to him if he had us behind him. No Democrat should ever try to do that again (though Biden is doing it too). ",
+                    "created": "Thu, 20 Jan 2022 13:48:58 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "We all win. Tatoo that on your forehead.",
+                    "created": "Thu, 20 Jan 2022 13:58:31 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Diego Rivera",
+            "created": "Thu, 20 Jan 2022 15:57:39 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://www.wikiart.org/en/diego-rivera/portrait-of-mrs-elisa-saldivar-de-gutierrez-roldan\">Portrait of Mrs Elisa Saldivar de Gutierrez Roldan</a>, 1946.",
+                    "created": "Thu, 20 Jan 2022 15:57:42 GMT",
+                    "inlineImage": "http://scripting.com/images/2022/01/20/portrait.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
