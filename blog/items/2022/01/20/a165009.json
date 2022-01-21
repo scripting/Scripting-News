@@ -1,0 +1,77 @@
+{
+    "text": "Tree Charts and outliners",
+    "created": "Thu, 20 Jan 2022 16:50:09 GMT",
+    "type": "outline",
+    "description": "Up till then color graphics, which were still very new to computers, was something for a priesthood. This was color graphics for thinkers. ",
+    "metaImage": "http://static.userland.com/misc/outliners/images/more11c/treeChart.gif",
+    "subs": [
+        {
+            "text": "Way back in 1986, my then-company Living Videotext shipped a product called MORE. ",
+            "created": "Thu, 20 Jan 2022 16:50:20 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "We called it that because there was so much more in it than the earlier outliner, ThinkTank 512, we didn't have any idea which new feature, if any, would be the one that turned people on. ",
+            "created": "Thu, 20 Jan 2022 16:50:37 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "We didn't have the luxury of picking among them because our company was on the verge of going out of business. We needed help from Apple to make it to shipping. They gave us a loan of $400K, and we put our source code in escrow in case the company failed, which looked like a real possibility. ",
+            "created": "Thu, 20 Jan 2022 16:51:13 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Well the product was an instant hit. And now, so many years later, I can tell you for sure which features made the difference -- tree charts and bullet charts. ",
+            "created": "Thu, 20 Jan 2022 16:52:06 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's what a MORE tree chart looked like:",
+            "created": "Thu, 20 Jan 2022 16:52:41 GMT",
+            "subs": [
+                {
+                    "text": "<img src=\"http://static.userland.com/misc/outliners/images/more11c/treeChart.gif\">",
+                    "created": "Thu, 20 Jan 2022 16:53:48 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "You'd edit an outline, click a button and boom a colorful tree chart would appear. Go back to the outline and make a change, view it again, and boom, the tree chart changed. Up till then color graphics, which were still very new to computers, was something for a priesthood. This was color graphics for <i>thinkers. </i>",
+            "created": "Thu, 20 Jan 2022 16:53:59 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "We sold a huge number of MOREs that year and in 1987 sold the company for a lot of money and I was able to go back to making software and stop being a CEO which was a good thing for me to do! :-)",
+            "created": "Thu, 20 Jan 2022 16:55:26 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<b>It's 2022 Dave</b>",
+            "created": "Thu, 20 Jan 2022 17:06:16 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "OK so here we are, it's 2022, an unthinkable number of years later (36) and here we are again. We have a nice powerful outliner. Like MORE it can print (these days that means render as a blog), but where are the beautiful graphics?  ",
+            "created": "Thu, 20 Jan 2022 16:56:14 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here they are. A <a href=\"https://github.com/scripting/treechart/blob/main/README.md\">new Tree Chart viewer</a> that hooks into Drummer very neatly. ",
+            "created": "Thu, 20 Jan 2022 16:57:23 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you're a Drummer user, go have fun. I'm sure you'll love it. And if you use another kind of outliner, either give Drummer a try, or ask the people who make your outliner to have a look at Tree Chart (it's open source) and either adapt their outliner to work with Tree Chart (the better idea) or adapt Tree Chart to work with their outliner. ",
+            "created": "Thu, 20 Jan 2022 16:57:43 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "As I said before, these days my product is interop. I made my fortune in the 80s, and I've invested well enough so that I don't need a hit product now. What I want to do is re-kindle the interest in computers used as thinking tools around common formats and protocols so it can grow like the open web, not so much like a silo. We've been down both roads and open is better for the users. And also for the vendors imho. ",
+            "created": "Thu, 20 Jan 2022 16:58:59 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
