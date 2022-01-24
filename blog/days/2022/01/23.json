@@ -1,0 +1,34 @@
+{
+    "created": "2022-01-23T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "23",
+    "path": "2022/01/23",
+    "text": "January 23",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "There's a <a href=\"http://scripting.com/drummer/blog/2022/01/23/171322.html?title=newUiForTweetsopmlorg\">new UI</a> for tweets.opml.org. ",
+            "created": "Sun, 23 Jan 2022 17:18:15 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Change notes: <a href=\"http://scripting.com/drummer/blog/2022/01/23/153755.html?title=howToUseTreechartFromDrummer\">How to use TreeChart from Drummer</a>.",
+            "created": "Sun, 23 Jan 2022 15:44:39 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's the <a href=\"http://treechart.scripting.com/?url=http://drummer.scripting.com/cluelessnewbie/treechartDemo.opml\">actual TreeChart app</a>. It's set up to display my example file, with two charts, one with some countries and the other, operating systems and their products. ",
+            "created": "Sun, 23 Jan 2022 14:40:23 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The thing that \"RSS\" and \"OPML\" have in common is that they're simple formats designed to be put in public places, where all different kinds of apps can get at them.",
+            "created": "Sun, 23 Jan 2022 17:19:30 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
