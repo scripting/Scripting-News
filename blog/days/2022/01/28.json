@@ -1,0 +1,141 @@
+{
+    "created": "2022-01-28T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "28",
+    "path": "2022/01/28",
+    "text": "January 28",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1487119042506862601\">Poll</a>: Are you a Belter or an Earther? ",
+            "created": "Fri, 28 Jan 2022 17:43:20 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1487119042506862601",
+            "flInCalendar": true
+        },
+        {
+            "text": "You know how guests on TV news shows look and sound crappy compared to the moderator? That's because 30 years ago the powers that be laughed when you said people wouldn't just be downloading stuff, they'd want to upload too. They didn't believe everyone would be on TV.",
+            "created": "Fri, 28 Jan 2022 20:20:05 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "My internet service has been crappy all week. This is the <a href=\"http://scripting.com/images/2022/01/28/speedTest.png\">latest speed test</a>. I'm paying for 400Mbps down and 20Mbps up. It's so slow that even updating my blog is an iffy thing, without images or video, just text. The uploading speed is slower than the DSL speeds I was getting in the mid-90s. Spectrum has a tech coming out next week.",
+            "created": "Fri, 28 Jan 2022 14:28:08 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I see that LogSeq is getting basic Twitter features. This is good, because Twitter is an incredible I/O device for outliners. For the \"I\" part, I have written a <a href=\"http://tweets.opml.org/\">web service</a> that will monitor your account, for free, and creates a calendar-structured outline with all your tweets in it. The outlines are in OPML of course. I'm hoping we eventually do get our products interoperating smoothly, so when I write a utility like this, you can use it in whatever outliner you like. I have it working beautifully with Drummer, of course. <a href=\"http://tweets.opml.org/davewiner/tweets.opml\">Here's my outline</a>. You can sign up here. It's free. All I want from it is interop! ;-)",
+            "created": "Fri, 28 Jan 2022 14:11:31 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I finally decided I had enough with my weak-ass <a href=\"http://daytona.scripting.com/?q=iPhone%20SE&collection=scriptingnews\">iPhone SE</a> that I bought a couple of years ago. The new iPhone, coming on Monday, is a honker. What did I get? An iPhone 13 Pro 512GB Sierra Blue. I probably should have sprung for the 1TB model, but I'm irrevocably middle class. The SE I had was just 64GB. Always running out of memory, and offloading apps. Get ready for some new pictures and amazement. I remember why I opted for the cheap-shit SE. I had just dropped my previous super expensive honker and broke its screen rendering it useless. I was feeling bitter. I guess I got over it? The SE screen is still intact 1.5 years later. :shrug: ",
+            "created": "Fri, 28 Jan 2022 13:44:48 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2022/01/28/iphone13.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "The richest you can be",
+            "created": "Fri, 28 Jan 2022 17:45:09 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Here's a picture of a plate of sushi waiting to be eaten. The best sushi I have ever had. If you have this sushi in front of you waiting to be eaten, you are the richest you can possibly be. It does not matter how much money you have in the bank. Or how long you will live. Or who likes you. You are about to eat the best meal possible. You can't be richer than that. ",
+                    "created": "Fri, 28 Jan 2022 17:45:13 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Via <a href=\"https://sushiran.com/\">Sushiran</a>, Sausalito, CA.",
+                    "created": "Fri, 28 Jan 2022 17:45:40 GMT",
+                    "inlineImage": "http://scripting.com/images/2022/01/28/sushi.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Why Outliners?",
+            "created": "Fri, 28 Jan 2022 16:28:20 GMT",
+            "type": "outline",
+            "description": "Visually mapping what's in your brain activates a kind of intelligence that can't be activated otherwise.",
+            "metaImage": "http://scripting.com/images/2022/01/28/skyline.png",
+            "subs": [
+                {
+                    "text": "Here's the simple answer to the question -- Why Outliners?  ",
+                    "created": "Fri, 28 Jan 2022 16:28:41 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Everywhere you look in computers you'll find recursive data structures. Instead of making lots of different tools for managing those recursive structures, make one really good one, and use it to edit all the structures.",
+                    "created": "Fri, 28 Jan 2022 16:28:58 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "That's why I always felt there should be a great outliner in the ROMs of computers going all the way back to the Apple II. The web should have an outliner baked in.",
+                    "created": "Fri, 28 Jan 2022 16:29:42 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Our brains <i>don't</i> have outliners baked in, so there's no way for the conscious mind to visualize the information the brain is storing and organizing. That's why the simple task of visually mapping what's in your brain activates a kind of intelligence that can't be activated otherwise.",
+                    "created": "Fri, 28 Jan 2022 16:34:09 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Thinking out loud",
+            "created": "Fri, 28 Jan 2022 14:58:57 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://twitter.com/davewiner/status/1486374478594592777\">A thinking-out-loud thread</a> from Twitter, a couple of days ago.  ",
+                    "created": "Fri, 28 Jan 2022 14:58:25 GMT",
+                    "subs": [
+                        {
+                            "text": "Looking back, there's no doubt my work had huge influence over media, though they don't know it, or wouldn't acknowledge it.   It also has had huge influence over politics.",
+                            "created": "Wed, 26 Jan 2022 16:24:25 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I don't care so much about how media uses the new tech, but the fact that the Dems have left it to the Repubs to abuse it, and won't use it themselves (one exception, the Dean campaign, h/t Joe Trippi), that's a tragedy.",
+                            "created": "Wed, 26 Jan 2022 16:24:26 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "There's so much we can do now we could never do before, but it's waiting for a political leader to use it for good. Obama looked like he got it, but he didn't follow through. We're stuck until a Dem decides to take the leap, as Dean did. ",
+                            "created": "Wed, 26 Jan 2022 16:24:26 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Where did Dean get the idea that he could use blogs and create a network of his supporters and let them run wild? I'm pretty sure it didn't come from Dean himself.",
+                            "created": "Wed, 26 Jan 2022 16:24:26 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "\"Run wild\" is the wrong term.  \"Make politics\" is a better way of looking at it.  The core problem is journalism and Dem politics don't trust voters. That's why they won't make the obvious leap. And that's why we're mired in the mess we're in, and it keeps getting worse.",
+                            "created": "Wed, 26 Jan 2022 16:30:15 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "When the tech VCs talk about \"decentralization\" they're talking about chicken shit decentralization.  What we really need is political decentralization.  Our founders, Franklin, Jefferson, Madison, Hamilton, btw, were chickenshit too. ;-)",
+                            "created": "Wed, 26 Jan 2022 16:31:20 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "One of the polling companies should do a survey that asks -- Do you feel that you, or people like you, have any say in governing the United States.   Here's what I think you'd get.  1% of Dems will say they do.  4% of Repubs. ",
+                            "created": "Wed, 26 Jan 2022 16:40:43 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
