@@ -1,0 +1,6 @@
+{
+    "text": "I see that LogSeq is getting basic Twitter features. This is good, because Twitter is an incredible I/O device for outliners. For the \"I\" part, I have written a <a href=\"http://tweets.opml.org/\">web service</a> that will monitor your account, for free, and creates a calendar-structured outline with all your tweets in it. The outlines are in OPML of course. I'm hoping we eventually do get our products interoperating smoothly, so when I write a utility like this, you can use it in whatever outliner you like. I have it working beautifully with Drummer, of course. <a href=\"http://tweets.opml.org/davewiner/tweets.opml\">Here's my outline</a>. You can sign up here. It's free. All I want from it is interop! ;-)",
+    "created": "Fri, 28 Jan 2022 14:11:31 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
