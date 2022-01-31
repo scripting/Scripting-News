@@ -1,0 +1,44 @@
+{
+    "created": "2022-01-30T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "30",
+    "path": "2022/01/30",
+    "text": "January 30",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I've <a href=\"https://twitter.com/davewiner/status/1487785959345295362\">started</a> a Twitter <a href=\"https://twitter.com/i/lists/1487789175931813892?show=top\">list</a> of devs currently working on outliners.",
+            "created": "Sun, 30 Jan 2022 13:53:37 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1487785959345295362",
+            "flInCalendar": true
+        },
+        {
+            "text": "Daytona searches are cached now. So when you click on a link to a search, if it has already been done today, the result will come faster. For example, a <a href=\"http://daytona.scripting.com/?q=meatloaf&collection=scriptingnews\">search</a> for \"meatloaf\". ",
+            "created": "Sun, 30 Jan 2022 13:46:42 GMT",
+            "type": "outline",
+            "image": "http://images.scripting.com/archiveScriptingCom/2005/05/23/microBBanimes.gif",
+            "flInCalendar": true
+        },
+        {
+            "text": "It has been pointed out that poor people have it harder than rich and famous people. Some things are so obvious they don't need to be said. I've been exploring this topic for all the years I've been blogging (27+), the difference between (say) Steve Jobs as a person and Steve Jobs as the superstar. I'm figuring things out at a whole new level, in the difference between who the Beatles were as people and how the Beatles were part of my personal foundation. I watched the Beatles on the Ed Sullivan Show. When I was in the hospital recovering from a ruptured appendix, She Loves You was #1 and played all the time on the hospital PA. And on and on. To have the clouds lifted on all this history in the Get Back documentary calls for some recalculation. ",
+            "created": "Sun, 30 Jan 2022 19:19:06 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1487479557624107013\">Tweeted</a>: I don’t want to wait for <a href=\"http://daytona.scripting.com/?q=interop&collection=scriptingnews\">interop</a> in <a href=\"http://daytona.scripting.com/?q=Tools%20for%20Thought&collection=scriptingnews\">Tools for Thought</a>. It’s already well understood how to connect <a href=\"http://daytona.scripting.com/?q=outliner&collection=scriptingnews\">outliners</a>. I don’t care if people want to use JSON, Markdown or XML or whatever but let’s not wait too long otherwise we’re going to end up with a bunch of silos.",
+            "created": "Sun, 30 Jan 2022 13:41:42 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1487479557624107013",
+            "flInCalendar": true
+        },
+        {
+            "text": "My mind, when it comes to Beatles songs, is like one of those old computer monitors that's been sitting in a clerical office for 20 years, and the default prompt is burned into the screen so you can read it clearly even if the monitor is turned off. I never listen to the actual words of Beatles songs. When I first heard them, I'm sure I had no idea what they were talking about, and I played the songs so many times, as a child, and all through my life. It's like the Beatles are the <a href=\"https://en.wikipedia.org/wiki/BIOS\">ROM BIOS</a> of my music brain OS. Now that I've been reading about them as songs with meaning and connected to the musician's lives when they were writing them, the words all of a sudden are there. Fantastic. ",
+            "created": "Sun, 30 Jan 2022 14:41:43 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2022/01/30/revolverCover.png",
+            "flInCalendar": true
+        }
+    ]
+}
