@@ -1,0 +1,102 @@
+{
+    "created": "2022-02-02T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "02",
+    "path": "2022/02/02",
+    "text": "February 02",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=Hg-ILjqbKT4\">Rockin' Chair</a>.",
+            "created": "Wed, 02 Feb 2022 18:49:20 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I want to watch <a href=\"https://en.wikipedia.org/wiki/The_Beatles_Anthology\">The Beatles Anthology</a> but come on, it must be streamable, right? I don't want DVD or VHS. It does appear to be <a href=\"https://www.youtube.com/results?search_query=beatles+anthology\">on YouTube</a> in some form. ",
+            "created": "Wed, 02 Feb 2022 20:38:19 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've finished <a href=\"https://www.amazon.com/Dreaming-Beatles-Story-Whole-World/dp/0062207652\">Dreaming The Beatles</a>. Great book, exactly what I had been looking for, highly opinionated writing about Beatles songs and their characters, from a fan. ",
+            "created": "Wed, 02 Feb 2022 20:46:16 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://www.youtube.com/watch?v=Kgr0Gxi_9Gg\">Video demo</a> of how I tweet in my outliner so it's also published on my blog. Lots of synergy between the two.",
+            "created": "Wed, 02 Feb 2022 19:18:11 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=Kgr0Gxi_9Gg",
+            "flInCalendar": true
+        },
+        {
+            "text": "When you say someone died of complications of covid, you can shorten that to they died of covid. ",
+            "created": "Wed, 02 Feb 2022 19:04:53 GMT",
+            "type": "tweet",
+            "tweetId": "1488951821444042765",
+            "tweetUserName": "davewiner",
+            "flInCalendar": true
+        },
+        {
+            "text": "Is there a nice open source JavaScript clone of Wordle? By nice I mean: 1. It covers all the functionality of the original. 2. The code is clearly written, not obfuscated, easy to build on. No amazing JS tricks, just straight boring code. I'd like to add a simple back-end, to automatically save your history, publish an RSS feed. Easily integratable into a community. Back-end is open source Node app. I'll just operate a server a few Wordler friends. A labor of love like the original app.",
+            "created": "Wed, 02 Feb 2022 18:10:23 GMT",
+            "type": "tweet",
+            "tweetId": "1488938249678696449",
+            "tweetUserName": "davewiner",
+            "flInCalendar": true
+        },
+        {
+            "text": "Apple's boastful robot",
+            "created": "Wed, 02 Feb 2022 20:25:12 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "When you call 1-800-MYAPPLE, an intelligent robot answers the phone, introduces itself as as such and kept sending me to tech support when I had a customer service problem, and said so clearly in short phrases. I am trained at talking to Alexa, Siri and my Tesla, I know how to give them commands. ",
+                    "created": "Wed, 02 Feb 2022 20:25:23 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Then, on my way back to tech support, it asked me to identify myself, but didn't say what info it wanted. It paused and in a stern voice said I had not answered the question in enough time.  ",
+                    "created": "Wed, 02 Feb 2022 20:26:09 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And then it connected me to customer service to talk to a human.  ",
+                    "created": "Wed, 02 Feb 2022 20:26:51 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Which btw was exactly what I was hoping for when I called the number in the first place. ",
+                    "created": "Wed, 02 Feb 2022 20:33:40 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "For a super high tech company this was embarrassing. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "To their credit, the human I spoke with was apologetic.",
+                    "created": "Wed, 02 Feb 2022 20:27:06 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Do they test their software at Apple? ",
+                    "created": "Wed, 02 Feb 2022 20:27:12 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I also tried using their text chat service, it was worse. It repeatedly told me to use the self-help system. Why offer a chat service if you're just going to tell me to use the self-help system? (Interestingly the self-help system gave me information I did not have.)",
+                    "created": "Wed, 02 Feb 2022 20:27:44 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A $1300 purchase, btw. ",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
