@@ -1,0 +1,7 @@
+{
+    "text": "We now know what happens when the <a href=\"http://scripting.com/email/\">mail sender</a> bot doesn't see anything new at midnight -- it keeps checking. I wrote the code, but that's never been tested so who knows if that's actually what it does. So when I updated the blog a few minutes ago, with posts I was able to write because the generator was working, but not publish because there was no net connection, the bot kicked in and sent the mail to all the subscribers. The rare Scripting News update that was not sent at exactly midnight. ",
+    "created": "Sun, 06 Feb 2022 16:05:21 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2021/06/14/strongman.png",
+    "flInCalendar": true
+}
