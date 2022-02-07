@@ -1,0 +1,50 @@
+{
+    "created": "2022-02-06T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "06",
+    "path": "2022/02/06",
+    "text": "February 06",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Power is back on, as is the internet. Learned so much being disconnected for over 48 hours. Nice to rejoin civlization. ",
+            "created": "Sun, 06 Feb 2022 15:48:37 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "We now know what happens when the <a href=\"http://scripting.com/email/\">mail sender</a> bot doesn't see anything new at midnight -- it keeps checking. I wrote the code, but that's never been tested so who knows if that's actually what it does. So when I updated the blog a few minutes ago, with posts I was able to write because the generator was working, but not publish because there was no net connection, the bot kicked in and sent the mail to all the subscribers. The rare Scripting News update that was not sent at exactly midnight. ",
+            "created": "Sun, 06 Feb 2022 16:05:21 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/06/14/strongman.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "What got me scrambling this morning was that the generator had run out of propane and the temperature outside was 10 degrees F. That's a pipe-freezing temperature. And the forecast for tonight was 16 (not that I knew this, I wasn't in the loop on the most basic information such as the weather forecast). Power's back on, pipes are safe, for now.",
+            "created": "Sun, 06 Feb 2022 16:29:41 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1490397028509274112\">One reason</a>, four words or less, why someone would <i>not</i> want to play Wordle? ",
+            "created": "Sun, 06 Feb 2022 18:49:09 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Chaotic trees",
+            "created": "Sun, 06 Feb 2022 17:12:46 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2022/02/06/bigTrees.png",
+            "subs": [
+                {
+                    "text": "These ice-covered trees are lovely. They also cause havoc.",
+                    "created": "Sun, 06 Feb 2022 17:12:52 GMT",
+                    "inlineImage": "http://scripting.com/images/2022/02/06/iceCoveredTrees.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
