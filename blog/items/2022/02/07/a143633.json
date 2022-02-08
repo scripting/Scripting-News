@@ -1,0 +1,23 @@
+{
+    "text": "Mac OS plist corruption?",
+    "created": "Mon, 07 Feb 2022 14:36:33 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I'm having problems with the clipboard and keyboard modifier mapping on High Sierra. It's relatively new behavior and think it might be related to permissions changes I made to run a <a href=\"https://github.com/scripting/pagePark/tree/master/cli\">Node app</a> with a simple command, pp, as I do on my servers. ",
+            "created": "Mon, 07 Feb 2022 14:36:44 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I shouldn't have taken any chances, but I did. Now I have to try to figure out why these two things aren't working and fix the system so they do work. I can't work this way, and it's too much work to reinstall the OS. I want to fix it. I need advice on this.  ",
+            "created": "Mon, 07 Feb 2022 14:43:14 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I outlined what doesn't work in this <a href=\"https://github.com/scripting/Scripting-News/issues/230\">comment</a> on the Scripting News repo. I'm going to try fixing this again, and will put any notes there on stuff I find out.",
+            "created": "Mon, 07 Feb 2022 14:39:11 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
