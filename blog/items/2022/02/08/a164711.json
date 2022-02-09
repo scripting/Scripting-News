@@ -1,0 +1,69 @@
+{
+    "text": "Where are the Beatles of software?",
+    "created": "Tue, 08 Feb 2022 16:47:11 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I had a lot more time to think than I had to write when the power was out. I thought about the projects I've done in my long career. My goal always was to work with other people. I'm not kidding. I wanted to be part of the Beatles of software. But, what generally would happen was that people wanted to take over my projects and work on them, without me. It has happened over and over. An unmistakeable pattern. Every time I heard about it, I was really puzzled. Some of the people were software developers who should understand that when you get someone's source code you're getting a very small thing, relative to understanding all the decisions that went into it. If you take over the project you don't know any of that. And when it has happened, for example at UserLand, I knew there was trouble when one of the developers complained that there was too much code to figure out how it worked. He couldn't understand why there was so much of it! This was a guy who had shipped real products. Why would he be surprised by this? Doesn't he understand that it takes a lot of code to create something simple and consistent, so the human mind can deal with it. I have thought about his comment for years. And why didn't he call and ask me to walk him through it. I was alive, I would have taken his call and I would have helped because it would have been an example of that elusive \"working together\" thing that I've been searching for. ",
+            "created": "Tue, 08 Feb 2022 16:47:18 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "So many more examples. A friend tried to buy Radio UserLand. I would have worked with him. He didn't have to buy it to work on it. If he wanted stock I would have given him stock. ",
+            "created": "Tue, 08 Feb 2022 16:51:57 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "My problem is that I generate a shitload of projects, and I can't keep up with all of them so they languish. Yet for some reason all I get are predators. People who want to grab, naively, as if there were something to grab. Why doesn't anyone want to collaborate?",
+            "created": "Tue, 08 Feb 2022 17:06:26 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "When someone says the first thing they want to do in Frontier (it is open source, anyone can start from where we left off) is to make an easy but very fundamental change in how it works. It would break every bit of code that had been written to run in Frontier. It meant everything would have to be written starting from scratch. Why? It's a programming environment that has had a long life. Most of the value is in the software that has been to run on top of the kernel. Whatever this new thing is, if it ever sees the light of day, it should not be called Frontier. I guess these people want to be me, and having me around would make it hard to believe that's what was happening. I guess I make what I do look like fun? Hah. It's sometimes fun, but usually hard work and sometimes it hurts. ",
+            "created": "Tue, 08 Feb 2022 16:53:22 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Then there was the colleague at Harvard who told me he was taking over OPML. His exact words. What an idiot. ",
+            "created": "Tue, 08 Feb 2022 16:55:53 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Another person, a former friend also was going to take over OPML. He somehow convinced Harvard to let him run an OPML conference at the law school. And invited people. And they came. I can't imagine what the sessions were like. Never-never land. This was in the heyday of RSS, so I guess people figured anything I did was gold and could be just taken over. Amazed, I stopped working on OPML and I hope they all lost all the money they put into it. I have no sympathy to people who are so cold and brazen and wasteful, I can't stop thinking of words to describe how heinous it is. ",
+            "created": "Tue, 08 Feb 2022 17:31:02 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "It happened with RSS too of course. I was talking with many of the VCs who ended up backing RSS startups before there were any. I thought they were talking to me about doing a startup. It wouldn't be a ridiculous idea, I had experience in all areas, had run a software company, been part of an IPO, obviously I knew how to build a standard even with the main standards bodies and big companies working against me. It never got to term sheets, the first I heard about the investments were the announcements. I couldn't believe it. They basically hired people who knew nothing about any of it. I guess they felt I understood too much? Maybe I offended them, if so, if they were adults they would have asked about it. They all lost every dollar they put into these ridiculous startups. ",
+            "created": "Tue, 08 Feb 2022 16:58:18 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "And then there was Adam Curry and his partner Ron Bloom. They raised $50 million to fund their podcasting startup. They hired someone to do the tech for them. As far as I know they lost all the money their investors put in. All along all I wanted out of it was to get to build a real devteam around the idea, and try out lots of approaches. It was way too early to bet on any one model. Again I don't think they had any idea what I do and how you make the tech work. Adam did understand the basic idea. There was no overlap in what I did and what they did. But they thought all they needed was to hire someone who supposedly did what I do. How could people be so stupid.",
+            "created": "Tue, 08 Feb 2022 17:12:29 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Then there was <a href=\"http://daytona.scripting.com/?q=twittergram&collection=scriptingnews\">TwitterGram</a>, which was Instagram before there was an Instagram. I actually managed to sell that to an incubator, but it was so weird all they wanted was to rip me off for my expenses. I ended up launching bit.ly for them, and I was paid $25K or so. I don't think they even bothered to find out what TG was. Wasn't it obvious that Twitter had left this huge open door -- no images. We knew users loved them, Flickr was already a big deal. That one would have made billions. It was ready to go.  Again, I don't think they were listening when I told them about it and demo'd it for them. Why? Why couldn't they hear it? I wasn't keep it anything like a secret, btw, it was all over my blog.",
+            "created": "Tue, 08 Feb 2022 17:14:37 GMT",
+            "image": "http://images.scripting.com/archiveScriptingCom/2008/05/15/postman.jpg",
+            "flInCalendar": true
+        },
+        {
+            "text": "I could keep going for a long time here. ",
+            "created": "Tue, 08 Feb 2022 17:16:45 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "So I was thinking about the Beatles of software. The closest anyone got as far as I know was Jobs and Woz, but I don't think that lasted very long. I don't know. So 48 hours with nothing to distract, got me to look deeper and question why I keep doing this stuff. It makes more sense that I spent the last four years prior to 2021 working only for myself. Last year I spent making software for others. I put a lot of time into it, wrote good docs, etc. The next thing I do might once again be for myself. Maybe that's all there is left now. But maybe there's still some collaboration possible. ",
+            "created": "Tue, 08 Feb 2022 17:00:29 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Reality is always good imho. ",
+            "created": "Tue, 08 Feb 2022 17:21:16 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
