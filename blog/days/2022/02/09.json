@@ -1,0 +1,76 @@
+{
+    "created": "2022-02-09T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "09",
+    "path": "2022/02/09",
+    "text": "February 09",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=azdwsXLmrHE\">Radio Ga Ga</a>.",
+            "created": "Wed, 09 Feb 2022 16:35:43 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Queen had the right idea -- involve the people in the music.",
+            "created": "Wed, 09 Feb 2022 17:03:38 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I like the idea of a <a href=\"https://www.joelonsoftware.com/2022/01/27/making-the-web-better-with-blocks/\">block protocol</a> that makes compatible writing tools possible, <a href=\"http://scripting.com/2021/12/16/153331.html?title=myProductIsInterop\">my product is interop</a>, but I use straight JavaScript, no toolkits, frameworks, no TypeScript. I feel strongly that packages that want to tie things together should be written in straight JS, that's why I chose that as my development platform many years ago. Actually I'd prefer if we stuck to the JS we were using in 2013. :boom:",
+            "created": "Wed, 09 Feb 2022 14:33:06 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The continuing saga of my lost iPhone 13 Pro. I tried to cancel the order yesterday, but the best I could do was what I could have gotten without calling. I get to return the phone when it is delivered. That's like saying you get the prize when you win the prize. Right now my job is to wait and hope, according to Apple. Here's the thing -- if the phone were to ever actually arrive I would keep it. I wanted to buy it for a reason. But Apple doesn't have a button their customer service people can press when they understand that the company's system is torturing a customer and to escalate it to someone who can give the person their money back and maybe a nice present to indicate that they are somehow valued. There is no such button. And btw, Apple says the phone is \"out for delivery\" and <a href=\"http://scripting.com/images/2022/02/08/upsScreen.png\">UPS says what they said yesterday</a>, basically we can't find the phone in our system because of COVID or bad weather, which translates to \"we left the phone somewhere where it could be stolen.\" Of course if it arrives I will let you know. 🍿",
+            "created": "Wed, 09 Feb 2022 13:53:00 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2022/02/09/jobsWoz.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Beatles of software, Day 2",
+            "created": "Wed, 09 Feb 2022 20:41:42 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2022/02/09/beatles.png",
+            "description": "Mozart didn't get to be a Beatle, or Beethoven, Bach. What if they had found a peer and worked out a collaboration?",
+            "subs": [
+                {
+                    "text": "Following up on <a href=\"http://scripting.com/2022/02/08/164711.html?title=whereAreTheBeatlesOfSoftware\">yesterday's post</a>, from a <a href=\"https://twitter.com/davewiner/status/1491504432151998470\">Twitter thread</a>. ",
+                    "created": "Wed, 09 Feb 2022 20:41:59 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "More thoughts about the Beatles and their breakup.  None of the individual Beatles did better work after the breakup. They were unique, and as individuals had moments of greatness, but they had something that almost no one ever gets, a chance to be part of something great.",
+                    "created": "Wed, 09 Feb 2022 20:43:42 GMT",
+                    "image": "http://scripting.com/images/2022/02/09/allThingsMustPass.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "In software, you can try to team up with people as good as you are, or just try to lead a team of people who do your work. I've always wanted the former, but pretty sure I never got it. I don't think anyone has gotten it, not for the decade or so the Beatles were at work. ",
+                    "created": "Wed, 09 Feb 2022 20:43:46 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "In sports, esp basketball they try to put together super teams, but they never seem to work. But look at the Warriors for an example of one that happened. They are kind of like the Beatles. But you know who didn't belong on the Warriors? The one who wasn't from Liverpool. ",
+                    "created": "Wed, 09 Feb 2022 20:44:42 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Mozart didn't get to be a Beatle, or Beethoven, Bach. What if they had found a peer and worked out a collaboration?  Hemingway didn't have a band either.  ",
+                    "created": "Wed, 09 Feb 2022 20:44:50 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Just some random thoughts. This has been on my mind my whole career but has been coming into focus lately.",
+                    "created": "Wed, 09 Feb 2022 20:45:13 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
