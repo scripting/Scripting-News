@@ -1,0 +1,6 @@
+{
+    "text": "I fixed a bug. There's an <a href=\"https://github.com/scripting/opmlPackage/issues/6\">encoding mismatch</a> between text coming from Twitter through its API, which is encoded in UTF-8, and text in OPML files which is encoded in ISO-8859-1. In outlines that only contain tweets the fix is simple.",
+    "created": "Sat, 12 Feb 2022 17:23:05 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
