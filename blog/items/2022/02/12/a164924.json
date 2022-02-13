@@ -1,0 +1,6 @@
+{
+    "text": "I found there's an encoding problem anywhere you include text from Twitter in an outline. Text you get from Twitter is UTF-8. We've been saving outlines with a different encoding -- ISO-8859-1. The answer is going to be converting Twitter text to ISO-8859-1 when it's added to an outline. I'm <a href=\"https://github.com/scripting/opmlPackage/issues/6\">writing it up</a> as an issue in the <a href=\"https://github.com/scripting/opmlPackage\">OPML package</a> repo.",
+    "created": "Sat, 12 Feb 2022 16:49:24 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
