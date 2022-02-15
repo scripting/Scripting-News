@@ -1,0 +1,105 @@
+{
+    "text": "Twitter and RSS in 2022",
+    "created": "Mon, 14 Feb 2022 15:33:42 GMT",
+    "type": "outline",
+    "description": "When Twitter went from 140 to 280 chars, there was an opportunity to re-think the connection between Twitter and RSS. ",
+    "subs": [
+        {
+            "text": "When Twitter went from 140 to 280 chars, there was an opportunity to re-think the connection between Twitter and <a href=\"https://cyber.harvard.edu/rss/rss.html\">RSS</a>. ",
+            "created": "Mon, 14 Feb 2022 15:34:41 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "280 chars is enough to communicate a few thoughts, with optional room for a title. ",
+                    "created": "Mon, 14 Feb 2022 15:56:49 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Also, the integration of a thread-writing tool in Twitter made it easier to chain tweets together, to form a full document. ",
+                    "created": "Mon, 14 Feb 2022 15:57:10 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This is, imho, enough to make RSS a viable connector between Twitter and the rest of the world. This is significant because RSS is a simpler API than Twitter's API. It will open Twitter up to more applications",
+                    "created": "Mon, 14 Feb 2022 15:57:15 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "As an experiment I wrote a Node.js service that periodically reads my tweet stream and publishes an RSS feed. ",
+            "created": "Mon, 14 Feb 2022 15:40:38 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "Titles. I can put a title on a tweet with Markdown-ish syntax.  ",
+                    "created": "Mon, 14 Feb 2022 15:43:09 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Unlimited length posts. RSS has no limit on document length. With threads, neither does Twitter. So I'll just roll up threads into a single RSS item. I haven't implemented this yet.",
+                    "created": "Mon, 14 Feb 2022 15:43:17 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Links. My plan is to use Markdown syntax for <a href=\"https://anvilproject.org/guides/content/creating-links\">links</a>. It's right there. Why not use it. Again, not implemented yet. ",
+                    "created": "Mon, 14 Feb 2022 15:44:14 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Other RSS concepts such as pubDate and guid are all easily synthesized from the metadata Twitter provides through its API.",
+                    "created": "Mon, 14 Feb 2022 15:45:44 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Styling. Why not allow *any* Markdown in tweets, properly interpreted for the RSS item representing the tweet. ",
+                    "created": "Mon, 14 Feb 2022 19:42:13 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "The next step is to create a feed viewer for RSS feeds that emanate from Twitter, so we can easily view and debug the code that does the translation, and then start adding more features. ",
+            "created": "Mon, 14 Feb 2022 15:46:11 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "These feeds will work with all RSS-compatible feed readers that can handle items without titles (which is redundant btw, RSS titles have always been optional).",
+            "created": "Mon, 14 Feb 2022 16:09:18 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Interestingly, RSS gets a fresh start, a new way of generating feeds from an editing environment miliions of people use. Twitter wins because its API is more broadly applicable, and it can immediately start fostering a decentralized community. It should happen quickly. We've been down this road before. And we can do all this with the existing Twitter API. Important point. No waiting. ",
+            "created": "Mon, 14 Feb 2022 15:46:49 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<b>History</b>",
+            "created": "Mon, 14 Feb 2022 15:56:12 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The last time the combination of Twitter and RSS was seriously considered was when Twitter itself supplied an RSS feed. But that was in the time of 140 chars, with no thread tool, and further, Twitter duplicated the text of the tweet in the title and description elements of each RSS item. The dominant RSS reader of the day, Google Reader, made no special allowance, so it repeated the text in their user interface, and it was ugly and distracting, didn't fit in with the other feeds people were reading.  ",
+            "created": "Mon, 14 Feb 2022 15:37:09 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I also did a tweet-to-RSS service. Instead of duplicating the tweet in the title and description elements, I omitted the title, which is optional in RSS 2.0, but Google Reader didn't handle RSS items without titles. So that was a dead-end too.",
+            "created": "Mon, 14 Feb 2022 15:39:08 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Google Reader is long gone and Twitter no longer has RSS feeds. ",
+            "created": "Mon, 14 Feb 2022 15:39:33 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "PS: A <a href=\"https://twitter.com/davewiner/status/1492891287095320578\">thread</a> with the new style of tweet developing.",
+            "created": "Mon, 14 Feb 2022 22:59:16 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
