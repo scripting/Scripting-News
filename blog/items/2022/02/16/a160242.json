@@ -1,0 +1,7 @@
+{
+    "text": "<a href=\"https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await\">Promises, asynch, await</a> were the wrong responses to <a href=\"https://en.wikipedia.org/wiki/Asynchronous_I/O#Callback_functions\">callback hell</a>, for the same reason you don't fix problems with a format by <a href=\"https://xkcd.com/927/\">inventing</a> a new one. You didn't solve the problem, you just made it more complicated. The thing to do, imho, is to factor out the need for the callback, if you can. Pop up a level and ask why other languages don't have the mess, and then find out how they solved the problem. They do async stuff, it's just invivisble to the HLL programmer. They did the callback hell stuff once and buried it. There's a name for this process: <a href=\"http://scripting.com/2021/09/07/154126.html?title=factoring\">factoring</a>. That's the answer. It's like the <a href=\"https://www.youtube.com/watch?v=kQKrmDLvijo\">famous scene</a> from Indiana Jones. If you don't have to fight the battle, don't.",
+    "created": "Wed, 16 Feb 2022 16:02:42 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2017/08/18/indianaJones.png",
+    "flInCalendar": true
+}
