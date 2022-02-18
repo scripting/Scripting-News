@@ -1,0 +1,63 @@
+{
+    "created": "2022-02-17T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "17",
+    "path": "2022/02/17",
+    "text": "February 17",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "If the open web had a good lawyer we could stop Spotify from calling their radio programs \"podcasts\" because it's a fraudulent claim. It's like saying a car gets 800 miles per gallon when it gets 30 mpg. It's a lie. People expect podcasts to work in any player. Spotify is lying",
+            "created": "Thu, 17 Feb 2022 13:57:35 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1494306812471955460",
+            "flInCalendar": true
+        },
+        {
+            "text": "I know <a href=\"http://mi.onepeloton.com/p/ap/70d2acbf6eee03c9/landing.html?mi_u=92a9a67742aa4b2d1d074b1a4611f2e6becfac434dd6481896a2207d0f9ed15f&instructor=&mi_location=US&mi_instructor3=Kendall%20Toole&mi_instructor2=Tunde%20Oyeneyin&mi_instructor1=Emma%20Lovewell&utm_source=simon&utm_medium=email&utm_campaign=RET_21_US_INSTRUCTOR_MILESTONE_100WKTS_0407\">it's not a personal message</a>, but it feels personal, from my <a href=\"https://twitter.com/emmalovewell\">favorite Peloton teacher</a>, the cutest of the cuties. ",
+            "created": "Thu, 17 Feb 2022 21:10:52 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I was driving the <a href=\"http://daytona.scripting.com/?q=tesla&collection=scriptingnews\">Tesla</a> on a mountain road yesterday, when I came upon a family of deer in the middle of the road. They took no notice so I stopped and just watched, until a car came in the other direction and they scattered as it got close. I have a theory on why this happened, but don't want to spoil the puzzle for you. ",
+            "created": "Thu, 17 Feb 2022 17:35:01 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/11/21/tesla.png",
+            "imageLink": "http://daytona.scripting.com/?q=tesla&collection=scriptingnews",
+            "flInCalendar": true
+        },
+        {
+            "text": "I was having breakfast with a local friend the other day and we were talking about the Beatles. He is not a fan. He cited as an example that Hey Jude is too long, at over 7 minutes. I had never thought about that. I expected that it was meant to crowd out other music on FM radio, where the standard song length was more like 3 minutes. He said he didn't know about that. I said if it were tech instead of music that would definitely have been the motivation. I <a href=\"https://www.google.com/search?q=why+is+hey+jude+so+long\">looked</a> it up. ",
+            "created": "Thu, 17 Feb 2022 14:10:35 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Doc Searls on iPhone 13",
+            "created": "Thu, 17 Feb 2022 20:13:50 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<i><a href=\"https://en.wikipedia.org/wiki/Doc_Searls\">Doc</a> commented on the <a href=\"http://daytona.scripting.com/?q=iPhone%2013&collection=scriptingnews\">iPhone 13</a> saga in a thread on Facebook. </i>",
+                    "created": "Thu, 17 Feb 2022 20:14:46 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "All these companies, Apple included, have service systems that are big B2B backends sold and serviced, again as a B2B thing, by Salesforce, Oracle, ServiceNow and other giants which, in the business, they call \"arms dealers.\" And all of them put all of the blame for their system failures on the poor low-wage workers who handle the phones when \"please go to our website\" and \"talk to our chat system\" diversions don't work.",
+                    "created": "Thu, 17 Feb 2022 20:13:55 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And then, after the service fails, usually because the system and not the voice on the phone is to blame, they want you to complete a survey the whole purpose of which is to punish or not punish the poor person who failed to solve the problem they couldn't solve.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The only way to solve this is by creating new systems that start by equipping customers with their own standardized ways to interact with any service function on the sellers' side, at scale. We actually have tools for that called phones and browsers, but we need to advance on both.",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
