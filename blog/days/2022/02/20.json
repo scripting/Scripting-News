@@ -1,0 +1,128 @@
+{
+    "created": "2022-02-20T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "20",
+    "path": "2022/02/20",
+    "text": "February 20",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Tweets, Markdown and RSS go well together. ",
+            "created": "Sun, 20 Feb 2022 17:32:05 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, if you're linking to the Emoji short code <a href=\"http://scripting.com/images/2022/02/20/emojiShortCodeScreen.png\">cheat sheet</a> from your site, please change the URL to this <a href=\"https://web.archive.org/web/20160316075154/http://emoji-cheat-sheet.com/\">archive.org backup</a>. Apparently the former owner let the domain lapse, and there's a huge ad for something irrelevant that makes it hard to find this simple and useful and <i>very open source</i> information. ",
+            "created": "Sun, 20 Feb 2022 17:23:05 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've started bingeing <a href=\"https://www.metacritic.com/tv/raised-by-wolves/season-1\">Raised By Wolves</a> on HBO. I like it so far into 3 episodes, and I hear it gets better. I have no idea why it's called Raised By Wolves, there are no wolves in the show (so far). The human kids are raised by androids. Here's something good/.interesting. It was liked by one person on <a href=\"http://bingeworthy.io/tv/?id=https%3A%2F%2Fwww.metacritic.com%2Ftv%2Fraised-by-wolves\">Bingeworthy</a>, Jake Savin, who is also considered the best match with me on BW. Jake said it was the Best. Aha I know I'm in the right place. :smile:",
+            "created": "Sun, 20 Feb 2022 16:36:38 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "It could be that Putin gets to pick the day WW III starts. If so why wouldn't he wait till Tuesday so it can be a famous day -- 2/22/22. Just wondering about that while working on some tricky code. Yes, this is the kind of thing programmers think about.",
+            "created": "Sun, 20 Feb 2022 16:02:39 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The Twitter-to-RSS project",
+            "created": "Sun, 20 Feb 2022 16:40:38 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "The project is coming along. Implemented so far... ",
+                    "created": "Sun, 20 Feb 2022 16:52:54 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Tweets can have titles. Make the first character in a tweet a #. The rest of the first line is the title. ",
+                            "created": "Sun, 20 Feb 2022 16:41:01 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Full Markdown support. Anything you can type in a tweet can be Markdown and will be rendered as it's converted to an RSS item. Markdown is ideal for where Twitter is at now. It a plain text environment, and that's what MD is designed for. ",
+                            "created": "Sun, 20 Feb 2022 16:41:42 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Threads are rolled up into the first message, forming one RSS item. In RSS there is no character limit. And Twitter has a good thread composition tool built in. ",
+                            "created": "Sun, 20 Feb 2022 16:43:02 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "<a href=\"https://web.archive.org/web/20160316075154/http://emoji-cheat-sheet.com/\">Emoji short codes</a>. This was an easy one so I thought why not. :smile:",
+                            "created": "Sun, 20 Feb 2022 16:44:00 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Not sure how I'll package it for release. I want to wait until the major coding is done before deciding that. ",
+                    "created": "Sun, 20 Feb 2022 16:44:43 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<i>Still diggin! </i>",
+                    "created": "Sun, 20 Feb 2022 16:45:04 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: This post as a <a href=\"https://twitter.com/davewiner/status/1495442593630638086\">Twitter thread</a>, and then as an <a href=\"http://scripting.com/images/2022/02/20/thePostInMyReader.png\">RSS feed item</a>.",
+                    "created": "Sun, 20 Feb 2022 17:12:36 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "My AirPod Pro problem",
+            "created": "Sun, 20 Feb 2022 16:31:12 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I have three <a href=\"https://www.amazon.com/Apple-MLWK3AM-A-AirPods-Pro/dp/B09JQMJHXY/ref=sr_1_1_sspa?keywords=airpod+pro&qid=1645374864&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFENzVCNzQySVRMQ0YmZW5jcnlwdGVkSWQ9QTA2NDc1MzUyMDBaS0hBVzk0MjdDJmVuY3J5cHRlZEFkSWQ9QTAyNjk4MjYyOVc1WTA1RkxXQUw0JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==\">AirPod Pro</a> earbuds and two cases. ",
+                    "created": "Sun, 20 Feb 2022 16:31:35 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "One of the cases doesn't work, or it could be one of the buds. I don't know. ",
+                    "created": "Sun, 20 Feb 2022 16:32:04 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I also don't know the rules about mixing and matching. ",
+                    "created": "Sun, 20 Feb 2022 16:32:30 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I also have a set of <a href=\"https://www.amazon.com/gp/product/B082Y2KM92/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1\">Jabra earbuds</a> I don't like as much, but they've been what I'm using. ",
+                    "created": "Sun, 20 Feb 2022 16:33:11 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Michelangelo ",
+            "created": "Mon, 21 Feb 2022 02:38:00 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2022/02/20/joel.png",
+            "subs": [
+                {
+                    "text": "Sistine Chapel Ceiling: <a href=\"https://en.wikipedia.org/wiki/Prophet_Joel_(Michelangelo)\">The Prophet Joel</a>, 1512 .",
+                    "created": "Mon, 21 Feb 2022 02:38:07 GMT",
+                    "inlineImage": "http://scripting.com/images/2022/02/20/joel.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
