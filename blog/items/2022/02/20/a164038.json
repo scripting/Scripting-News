@@ -1,0 +1,51 @@
+{
+    "text": "The Twitter-to-RSS project",
+    "created": "Sun, 20 Feb 2022 16:40:38 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "The project is coming along. Implemented so far... ",
+            "created": "Sun, 20 Feb 2022 16:52:54 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "Tweets can have titles. Make the first character in a tweet a #. The rest of the first line is the title. ",
+                    "created": "Sun, 20 Feb 2022 16:41:01 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Full Markdown support. Anything you can type in a tweet can be Markdown and will be rendered as it's converted to an RSS item. Markdown is ideal for where Twitter is at now. It a plain text environment, and that's what MD is designed for. ",
+                    "created": "Sun, 20 Feb 2022 16:41:42 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Threads are rolled up into the first message, forming one RSS item. In RSS there is no character limit. And Twitter has a good thread composition tool built in. ",
+                    "created": "Sun, 20 Feb 2022 16:43:02 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://web.archive.org/web/20160316075154/http://emoji-cheat-sheet.com/\">Emoji short codes</a>. This was an easy one so I thought why not. :smile:",
+                    "created": "Sun, 20 Feb 2022 16:44:00 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Not sure how I'll package it for release. I want to wait until the major coding is done before deciding that. ",
+            "created": "Sun, 20 Feb 2022 16:44:43 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<i>Still diggin! </i>",
+            "created": "Sun, 20 Feb 2022 16:45:04 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "PS: This post as a <a href=\"https://twitter.com/davewiner/status/1495442593630638086\">Twitter thread</a>, and then as an <a href=\"http://scripting.com/images/2022/02/20/thePostInMyReader.png\">RSS feed item</a>.",
+            "created": "Sun, 20 Feb 2022 17:12:36 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
