@@ -1,0 +1,76 @@
+{
+    "created": "2022-02-21T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "21",
+    "path": "2022/02/21",
+    "text": "February 21",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "If I didn’t know better I’d say it’s spring outside.",
+            "created": "Mon, 21 Feb 2022 18:31:59 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I don't know the person who wrote <a href=\"https://www.eurasiareview.com/16022022-the-crisis-in-ukraine-is-not-about-ukraine-its-about-germany-oped/\">this piece</a>, or where he's coming from, but it's an alternate view of what's going on between Russia and Ukraine. The author says it's about Russia and the US and that the US doesn't want the new pipeline to be used to pump natural gas directly from Russia to Germany. The one weird thing about this is why would Putin pick this time to invade Ukraine when it gives the US pretext to shut down the new pipeline before it could get started? Seems like he has a lot to lose right now. Why not cement the bond with Germany before having an adventure in Ukraine. In any case, he says the US public is being conned, much as our journalism says the Russian people are being conned by their media. I don't doubt for a moment that the news we're getting is at least misleading if not total fiction.",
+            "created": "Mon, 21 Feb 2022 16:13:15 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/08/20/giJoe.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Larry Lessig was a <a href=\"https://en.wikipedia.org/wiki/MORE_(application)\">MORE</a> user in the 80s, and is <a href=\"https://github.com/scripting/opmlPackage/issues/5#issuecomment-1046791864\">trying to rescue</a> the data from his files. Luckily there was a successful <a href=\"https://github.com/scripting/opmlPackage/issues/5\">project</a> to get access to MORE files earlier this month, so he's getting help there. ",
+            "created": "Mon, 21 Feb 2022 13:59:01 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Twitter Articles?",
+            "created": "Mon, 21 Feb 2022 22:45:54 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "There have been rumors for a while about Twitter Articles, not sure exactly what they are, but they have titles, styling and links. ",
+                    "created": "Mon, 21 Feb 2022 22:46:00 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A <a href=\"http://scripting.com/images/2022/02/21/articlesScreenShot.png\">screen shot</a> was <a href=\"https://twitter.com/nima_owji/status/1494989510744199169\">posted</a> on Twitter. ",
+                    "created": "Mon, 21 Feb 2022 22:46:31 GMT",
+                    "urltweet": "https://twitter.com/nima_owji/status/1494989510744199169",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Big questions.",
+                    "created": "Mon, 21 Feb 2022 22:47:39 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Available through the API for reading, publishing?",
+                            "created": "Mon, 21 Feb 2022 22:47:40 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Character limit on articles?",
+                            "created": "Mon, 21 Feb 2022 22:48:02 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "RSS feed for articles?",
+                            "created": "Mon, 21 Feb 2022 22:47:41 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If you have more info, please let me know. If you work at Twitter, I'm happy to do an NDA. ",
+                    "created": "Mon, 21 Feb 2022 22:46:39 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
