@@ -1,0 +1,47 @@
+{
+    "created": "2022-02-22T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "22",
+    "path": "2022/02/22",
+    "text": "February 22",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=nS5_EQgbuLc\">Back in the USSR</a>.",
+            "created": "Tue, 22 Feb 2022 22:48:11 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=nS5_EQgbuLc",
+            "flInCalendar": true
+        },
+        {
+            "text": "I finished Season 1 of <a href=\"http://daytona.scripting.com/?q=Raised%20By%20Wolves&collection=scriptingnews\">Raised By Wolves</a>. It's definitely not a funny movie, or especially fun. But it has held my attention. ",
+            "created": "Tue, 22 Feb 2022 20:22:08 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's my <a href=\"http://scripting.com/2011/11/11.html\">archive</a> for 11/11/2011 and <a href=\"http://scripting.com/2011/01/11.html\">for</a> 1/11/2011. Neither mentions the magic-ness of the date, like today's date: 2/22/2022.",
+            "created": "Tue, 22 Feb 2022 20:19:40 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"http://daytona.scripting.com/?q=Twitter-to-RSS&collection=scriptingnews\">Twitter-to-RSS</a> update: I think I'm going to wait and see what <a href=\"http://scripting.com/2022/02/21/224554.html?title=twitterArticles\">Twitter Articles</a> are like before offering a service to create \"RSS\" feeds from tweet streams. I have the code working, but deploying and supporting it is a whole other story. I don't want to get in their way. Let's see what they have.",
+            "created": "Tue, 22 Feb 2022 15:40:14 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "If <a href=\"http://scripting.com/2022/02/21/224554.html?title=twitterArticles\">Twitter Articles</a> is what it appears to be, Twitter is about to become a much more important part of the open web, assuming it's all accessible through the API in both directions (apps can post articles, as well as read them) and if it supports linking. It's very late, but better late than never, and in the future it'll mean that blogging tools such as the one I offer <a href=\"http://docserver.scripting.com/drummer/blogging.opml\">in Drummer</a>, will be able to peer with Twitter without hacks. Yes, we'll probably have to give up some features, and if the API isn't there then that would kind of render the whole thing null and void, but all <a href=\"http://scripting.com/2016/04/30/1229.html\">we've been asking for</a> from Twitter et al is there in the screen shot. And if they need RSS support I'll be ready to provide it. ",
+            "created": "Tue, 22 Feb 2022 15:40:36 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm looking forward to a NYC art museum that has a room where you can smoke weed.",
+            "created": "Tue, 22 Feb 2022 23:06:34 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
