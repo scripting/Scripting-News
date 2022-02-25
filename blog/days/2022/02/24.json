@@ -1,0 +1,81 @@
+{
+    "created": "2022-02-24T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "24",
+    "path": "2022/02/24",
+    "text": "February 24",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Anti-war <a href=\"http://scripting.com/images/2022/02/24/antiwarProtestorsMoscow.png\">protestors</a> in Moscow, today.",
+            "created": "Fri, 25 Feb 2022 00:44:19 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I aced <a href=\"http://daytona.scripting.com/?q=worldle&collection=scriptingnews\">Worldle</a> today. Spoiler <a href=\"http://scripting.com/images/2022/02/24/worldleResult.png\">screen shot</a>. ",
+            "created": "Thu, 24 Feb 2022 17:33:50 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Just thinking out loud, but why not send some Americans to Russia. Here's a <a href=\"https://www.google.com/maps/place/Alaska/@54.7060568,167.6445207,10z/data=!4m5!3m4!1s0x5400df9cc0aec01b:0xbcdb5e27a98adb35!8m2!3d64.2008413!4d-149.4936733!5m1!1e4\">nice spot</a>. ",
+            "created": "Thu, 24 Feb 2022 18:19:27 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Comment to CNN: Yes, right now Biden is leader of the free world, but a couple of years ago our president was on the other team, and not too far down the road, if things don't change radically, we'll be changing teams again. Don't forget that context. That's where Putin has fun. He can screw with our political system, but it appears we have no power in the other direction. We can't give him a problem at home.",
+            "created": "Thu, 24 Feb 2022 17:48:39 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Drummer status report",
+            "created": "Thu, 24 Feb 2022 17:01:55 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Yesterday, a DM from Ken Smith, an everyday user of <a href=\"http://daytona.scripting.com/?q=drummer&collection=scriptingnews\">Drummer</a>: ",
+                    "created": "Thu, 24 Feb 2022 16:59:40 GMT",
+                    "type": "outline",
+                    "subs": [
+                        {
+                            "text": "\"It's been so long since I had any hiccups in Drummer that I can't remember when it might have been. Not sure there's anywhere in particular to report that.\"  ",
+                            "created": "Thu, 24 Feb 2022 17:02:05 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I have had the same experience though I'm using <a href=\"http://docserver.scripting.com/drummer/electricDrummer.opml\">Electric Drummer</a> mostly, and testing new stuff in the <a href=\"http://drummer.scripting.com/\">web Drummer</a>. ",
+                    "created": "Thu, 24 Feb 2022 17:02:11 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I haven't seen an outline overwritten in a long time. That was the big problem with the new tabs system in Drummer, contexts would get swapped incorrectly, and one outline would replace another. It's a hard problem to get data on, bug reports invariably are vague. You can't see the problem happen, the user typically doesn't see the problem until long afer the mistake was made.",
+                    "created": "Thu, 24 Feb 2022 17:02:22 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "There's reason to believe the problem has been fixed. I was led to a problem in <a href=\"https://github.com/scripting/drummerSupport/issues/150\">this thread</a>, on Jan 8, with steps to reproduce an outline overwrite. When I traced the problem to its source and fixed it, it occurred to me that this mis-coding could be the source of the remaining overwrites we were seeing. I didn't say that in the thread, but I did say it in a private conversation with Scott Hanson. ",
+                    "created": "Thu, 24 Feb 2022 17:04:14 GMT",
+                    "image": "http://scripting.com/images/2021/09/11/drummer.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I still don't know if the problem is gone, but it was worth commenting that the product has been really stable for well over a month, zero problems seen, or reported. ",
+                    "created": "Thu, 24 Feb 2022 17:08:52 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A <a href=\"https://github.com/scripting/drummerRFC/issues/22\">place</a> to comment.",
+                    "created": "Thu, 24 Feb 2022 17:15:49 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
