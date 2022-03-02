@@ -1,0 +1,37 @@
+{
+    "text": "The monthly ritual",
+    "created": "Tue, 01 Mar 2022 13:44:32 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "The monthly ritual is partially done. I have archived the <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/opml/2022/02.opml\">outline</a> for February in the GitHub repo.",
+            "created": "Tue, 01 Mar 2022 13:33:47 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "And as a reminder to myself and other Drummer users -- this is what I did for the Daytona part of the rollover.",
+            "created": "Tue, 01 Mar 2022 13:44:44 GMT",
+            "flCodeSubs": "true",
+            "subs": [
+                {
+                    "text": "daytona.removeOutlineRefs (\"http://drummer.scripting.com/davewiner/blog.opml\")",
+                    "created": "Tue, 01 Mar 2022 13:40:27 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "daytona.ping (\"https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opml/2022/02.opml\")",
+                    "created": "Tue, 01 Mar 2022 13:41:39 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "And, amazingly -- it worked. Here's a <a href=\"http://daytona.scripting.com/?q=ukraine&collection=scriptingnews\">search</a> for Ukraine and it finds the refs from February. They moved from the main blog.opml file to the archive file.",
+            "created": "Tue, 01 Mar 2022 13:46:22 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
