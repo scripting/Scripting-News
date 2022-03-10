@@ -1,0 +1,7 @@
+{
+    "text": "One of the biggest problems/design mistakes in JavaScript is that programming on the server and the client are so different. The built-in verbs are the same, <a href=\"https://www.w3schools.com/jsref/jsref_obj_date.asp\">date verbs</a>, <a href=\"https://www.w3schools.com/js/js_string_methods.asp\">string verbs</a>, but the data models are completely different. And the modules are different. How did that happen. Why couldn't <a href=\"https://nodejs.org/en/knowledge/getting-started/what-is-require/\">require</a> work in the client? If I had been in charge, there would have been a rule that if we're implementing something in the client that has already been done in the server, we must do it the same way, unless it really is impossible, and it has to be <i>very</i> impossible. And vice versa of course.",
+    "created": "Wed, 09 Mar 2022 14:19:10 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2017/06/13/weaselsRippedMyFlesh.png",
+    "flInCalendar": true
+}
