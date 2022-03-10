@@ -1,0 +1,137 @@
+{
+    "created": "2022-03-09T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "09",
+    "path": "2022/03/09",
+    "text": "March 09",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "One of the biggest problems/design mistakes in JavaScript is that programming on the server and the client are so different. The built-in verbs are the same, <a href=\"https://www.w3schools.com/jsref/jsref_obj_date.asp\">date verbs</a>, <a href=\"https://www.w3schools.com/js/js_string_methods.asp\">string verbs</a>, but the data models are completely different. And the modules are different. How did that happen. Why couldn't <a href=\"https://nodejs.org/en/knowledge/getting-started/what-is-require/\">require</a> work in the client? If I had been in charge, there would have been a rule that if we're implementing something in the client that has already been done in the server, we must do it the same way, unless it really is impossible, and it has to be <i>very</i> impossible. And vice versa of course.",
+            "created": "Wed, 09 Mar 2022 14:19:10 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/06/13/weaselsRippedMyFlesh.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Decades of debugging software help you see patterns other people miss.",
+            "created": "Wed, 09 Mar 2022 13:39:37 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Who makes us who we are",
+            "created": "Wed, 09 Mar 2022 22:42:44 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Two Grateful Dead songs. ",
+                    "created": "Wed, 09 Mar 2022 23:02:09 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://www.youtube.com/watch?v=MP4gy0TBDfU\">Mama Tried</a>, written by Merle Haggard, but I like the Grateful Dead version better.  ",
+                    "created": "Wed, 09 Mar 2022 22:48:21 GMT",
+                    "subs": [
+                        {
+                            "text": "And I turned twenty-one in prison doin' life without parole.",
+                            "created": "Wed, 09 Mar 2022 22:52:11 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "No one could steer me right but Mama tried, Mama tried.",
+                            "created": "Wed, 09 Mar 2022 23:04:53 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Mama tried to raise me better, but her pleading, I denied.",
+                            "created": "Wed, 09 Mar 2022 23:04:52 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "That leaves only me to blame 'cause Mama tried.",
+                            "created": "Wed, 09 Mar 2022 22:52:47 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://www.youtube.com/watch?v=U5Ngb6CgUOI\">Me and My Uncle</a>, another Dead song that says that uncles can have a lot of influence too. ",
+                    "created": "Wed, 09 Mar 2022 22:48:58 GMT",
+                    "subs": [
+                        {
+                            "text": "Love my uncle, God rest his soul.",
+                            "created": "Wed, 09 Mar 2022 22:49:21 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Taught me good, Lord, taught me all I know. ",
+                            "created": "Wed, 09 Mar 2022 22:49:27 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Taught me so well, that I grabbed that gold. ",
+                            "created": "Wed, 09 Mar 2022 22:49:32 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I left his dead ass there by the side of the road, yeah.",
+                            "created": "Wed, 09 Mar 2022 22:49:38 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Seems perhaps we have a little more mercy for mama. :boom:",
+                    "created": "Wed, 09 Mar 2022 23:04:57 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Writing, reading and projection",
+            "created": "Wed, 09 Mar 2022 14:57:28 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "When you read something, you're not in touch with the author's emotions, not when they wrote it, and esp not now, long after they wrote it. Emotions are fluid things, and unless you're very careful, it's unlikely that the emotions you are feeling, as you read the piece, are the author's. It would be a remarkable coincidence if they were. They're your feelings.",
+                    "created": "Wed, 09 Mar 2022 14:57:34 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It just happened to me on Twitter, someone thought a tweet of mine was rage. I never feel that when I'm writing. Because writing is different, transcribing thoughts and feelings I had long ago. Writing feels very different. Usually I'm laughing out loud if I'm writing something that I really like. Writing is like riding a roller coaster. Often it's an exercise in frustration, but when you get it right, it's a wonderful feeling, it's a joyful act, paradoxically, even when you're writing about something that is far from joyful. ",
+                    "created": "Wed, 09 Mar 2022 14:58:27 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "In this case, I was writing an idea I had in the early 90s, and first wrote about in the mid-90s, at much greater length than in the tweet. In all that time, I've continued to hold the belief that we create each other, that we're a single species, not two. ",
+                    "created": "Wed, 09 Mar 2022 15:14:18 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Anyway, projection isn't fun, on the receiving end. ",
+                    "created": "Wed, 09 Mar 2022 15:16:46 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Grateful Dead",
+            "created": "Wed, 09 Mar 2022 14:51:52 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://www.youtube.com/watch?v=NTRLYnwnAXM\">Me and my Uncle</a>, 12/30/77, <a href=\"https://en.wikipedia.org/wiki/Winterland_Ballroom\">Winterland</a>.  ",
+                    "created": "Wed, 09 Mar 2022 14:51:57 GMT",
+                    "inlineImage": "http://scripting.com/images/2022/03/09/dead.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
