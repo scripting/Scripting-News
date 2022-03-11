@@ -1,0 +1,80 @@
+{
+    "created": "2022-03-10T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "10",
+    "path": "2022/03/10",
+    "text": "March 10",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Podcast: <a href=\"http://scripting.com/2022/03/10/whoWillBeTheAmericanZelensky.m4a\">Who will be the American Zelensky?</a>",
+            "created": "Thu, 10 Mar 2022 17:11:34 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2022/03/10/whoWillBeTheAmericanZelensky.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "7532111",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://en.wikipedia.org/wiki/All_Things_Must_Pass\">All Things Must Pass</a> was produced by Phil Spector. ",
+            "created": "Thu, 10 Mar 2022 17:25:28 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I think if I were designing an RSS reader app now, I would first do a reader that only worked with content written in my own blogging tool. That way I could really drill in there, sharpen the edges, create an ideal user experience for both writers and readers. I would not try to support everything that's out there. Anyway, once that was working well, I'd try to add feeds with the help of people who write on other sites, and hopefully they can tweak up their feeds so they work really well in my reader. Ideally I'd have good communication with the devs who work on their blogging software. But writers and readers drive the process, ideally ones with experience with user testing software. All the while I'd publish my notes so other designers could emulate them. See, the thing is: RSS is supposed to be a standard, but in the early days there was a free-for-all wild west mentality that meant no one worked with anyone else because they were all hell-bent on world domination. The idea was I don't need you because I own this shit. Well you can't all own it. That made a mess of things. <i>Now it's almost 20 years later,</i> and it should be obvious that hurrying up isn't the answer. We can create another mess, or we can slowly rebuild and create a strong, well-understood standard, and forget about world domination, let's just make a nice reading and writing environment. Software is an art, not just a way to get rich. That would be what I would focus on. I have a motto \"Slow down to hurry up.\" Think about the 15 wasted years in RSS-land, and you'll see what I mean. And btw, this would not be an invitation to have another fight with RDF nerds. It would be about writers and readers not nerds. Sorry.",
+            "created": "Thu, 10 Mar 2022 15:37:58 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/09/21/tree.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I live two hours north of NYC but I haven't been there since the summer of 2019. Just thought that was worth mentioning. ",
+            "created": "Thu, 10 Mar 2022 15:14:46 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Substack's reader",
+            "created": "Thu, 10 Mar 2022 15:00:38 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Nieman's Laura Hazard Owen <a href=\"https://www.niemanlab.org/2022/03/substacks-google-reader-esque-app-is-part-of-media-ecosystem-based-on-different-laws-of-physics-company-says/\">writes</a> about Substack's new \"RSS\" reader app for the iPhone. I think there's a chance we'll see a return to the more thoughtful blogosphere of the late 90s and early 00s, and I think Substack is part of it. I also would love to know, without having to dig through the app, if they've extended RSS, added a new namespace with Substack-specific data, or if it's straight RSS with common namespace extensions. Also it looks like their reader requires items to have titles. Is that so? I've been playing around with some new reader ideas, no claim that anything will ship, but one thing we have to accommodate is title-less posts, otherwise we're going to end up right back where we are now with a division -- the quick stuff on Twitter, and only long stuff in RSS. That was a divide forced on us by the now long-defunct Google Reader. Also factor in the idea that Twitter might be about to add <a href=\"http://scripting.com/2022/02/21/224554.html?title=twitterArticles\">longer titled posts</a> to their ecosystem. ",
+                    "created": "Thu, 10 Mar 2022 14:21:27 GMT",
+                    "type": "outline",
+                    "image": "http://scripting.com/images/2017/11/13/rssCoffeeMug.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Update: This is how Substack's reader deals with <a href=\"http://scripting.com/images/2022/03/10/substackTitlelessPosts.png\">title-less posts</a>. ",
+                    "created": "Thu, 10 Mar 2022 14:48:47 GMT",
+                    "type": "outline",
+                    "inlineImage": "http://scripting.com/images/2022/03/10/substackTitlelessPosts.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "They generate a title from the permalink of the post. I don't think this is necessary, I think designers of readers have to pick a different starting point if they want to work with the way writing in the web works today. I know they don't pay any attention to me, which is really weird, because I do know a thing or two about this. But it is a fact, a lot of posts don't have titles. If your reader can't accommodate them, you have a problem, imho.",
+                    "created": "Thu, 10 Mar 2022 15:00:55 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Arkhip Kuindzhi ",
+            "created": "Thu, 10 Mar 2022 23:33:09 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2022/03/10/afterTheThunderstorm.png",
+            "subs": [
+                {
+                    "text": "<a href=\"https://www.wikiart.org/en/arkhip-kuindzhi/after-the-thunderstorm-1879\">After the Thunderstorm</a>, 1879.",
+                    "created": "Thu, 10 Mar 2022 23:33:12 GMT",
+                    "inlineImage": "http://scripting.com/images/2022/03/10/afterTheThunderstorm.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
