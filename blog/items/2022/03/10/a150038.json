@@ -1,0 +1,27 @@
+{
+    "text": "Substack's reader",
+    "created": "Thu, 10 Mar 2022 15:00:38 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Nieman's Laura Hazard Owen <a href=\"https://www.niemanlab.org/2022/03/substacks-google-reader-esque-app-is-part-of-media-ecosystem-based-on-different-laws-of-physics-company-says/\">writes</a> about Substack's new \"RSS\" reader app for the iPhone. I think there's a chance we'll see a return to the more thoughtful blogosphere of the late 90s and early 00s, and I think Substack is part of it. I also would love to know, without having to dig through the app, if they've extended RSS, added a new namespace with Substack-specific data, or if it's straight RSS with common namespace extensions. Also it looks like their reader requires items to have titles. Is that so? I've been playing around with some new reader ideas, no claim that anything will ship, but one thing we have to accommodate is title-less posts, otherwise we're going to end up right back where we are now with a division -- the quick stuff on Twitter, and only long stuff in RSS. That was a divide forced on us by the now long-defunct Google Reader. Also factor in the idea that Twitter might be about to add <a href=\"http://scripting.com/2022/02/21/224554.html?title=twitterArticles\">longer titled posts</a> to their ecosystem. ",
+            "created": "Thu, 10 Mar 2022 14:21:27 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/11/13/rssCoffeeMug.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Update: This is how Substack's reader deals with <a href=\"http://scripting.com/images/2022/03/10/substackTitlelessPosts.png\">title-less posts</a>. ",
+            "created": "Thu, 10 Mar 2022 14:48:47 GMT",
+            "type": "outline",
+            "inlineImage": "http://scripting.com/images/2022/03/10/substackTitlelessPosts.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "They generate a title from the permalink of the post. I don't think this is necessary, I think designers of readers have to pick a different starting point if they want to work with the way writing in the web works today. I know they don't pay any attention to me, which is really weird, because I do know a thing or two about this. But it is a fact, a lot of posts don't have titles. If your reader can't accommodate them, you have a problem, imho.",
+            "created": "Thu, 10 Mar 2022 15:00:55 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
