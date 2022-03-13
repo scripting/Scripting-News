@@ -1,0 +1,8 @@
+{
+    "text": "An addendum to my <a href=\"http://scripting.com/2022/03/10.html#a153758\">spec</a> for how I'd do a <a href=\"http://scripting.com/2022/03/10.html#a153758\">new feed reader</a>. At least at first, we'd approve feeds the way Apple approves apps for their app store. We wouldn't let through feeds that look bad in the reader. Let me amend that. If it's due to a bug in my software, or my reader failing to support a feature of \"RSS\" correctly, then the feed would be put in a different pile. One of the problems in the RSS world was people who made feeds didn't know that they had to care how their feeds behaved. Or they only cared about <a href=\"http://scripting.com/2013/03/15/oneGreatThingAboutTheDemiseOfGoogleReader.html\">one reader</a>. That was a prescription for the mess we're in now. My hypothetical feed reader would not work like that. Bugs in feeds are not compensated for by workarounds in readers. ",
+    "created": "Sat, 12 Mar 2022 15:00:18 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2017/08/05/loveRss.png",
+    "imageLink": "https://cyber.harvard.edu/rss/rss.html",
+    "flInCalendar": true
+}
