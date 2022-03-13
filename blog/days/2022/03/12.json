@@ -1,0 +1,72 @@
+{
+    "created": "2022-03-12T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "12",
+    "path": "2022/03/12",
+    "text": "March 12",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I don’t think \"RSS\" feeds should have ads.",
+            "created": "Sun, 13 Mar 2022 02:29:48 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Think about it, how is Ukraine doing such a great job of making sure they aren't forgotten. Their president is a comedian. It would be great if Biden had comedian friends. Let them explain what's going on. Let Biden do the behind the scenes stuff, he's doing that well. ",
+            "created": "Sat, 12 Mar 2022 16:43:42 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1502651171131043851\">Poll</a>: Should we protect Ukraine against the attacks from Russia? ",
+            "created": "Sat, 12 Mar 2022 15:08:36 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1502651171131043851",
+            "flInCalendar": true
+        },
+        {
+            "text": "An addendum to my <a href=\"http://scripting.com/2022/03/10.html#a153758\">spec</a> for how I'd do a <a href=\"http://scripting.com/2022/03/10.html#a153758\">new feed reader</a>. At least at first, we'd approve feeds the way Apple approves apps for their app store. We wouldn't let through feeds that look bad in the reader. Let me amend that. If it's due to a bug in my software, or my reader failing to support a feature of \"RSS\" correctly, then the feed would be put in a different pile. One of the problems in the RSS world was people who made feeds didn't know that they had to care how their feeds behaved. Or they only cared about <a href=\"http://scripting.com/2013/03/15/oneGreatThingAboutTheDemiseOfGoogleReader.html\">one reader</a>. That was a prescription for the mess we're in now. My hypothetical feed reader would not work like that. Bugs in feeds are not compensated for by workarounds in readers. ",
+            "created": "Sat, 12 Mar 2022 15:00:18 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/08/05/loveRss.png",
+            "imageLink": "https://cyber.harvard.edu/rss/rss.html",
+            "flInCalendar": true
+        },
+        {
+            "text": "<img src=\"http://scripting.com/images/2022/03/12/wordle.png\">",
+            "created": "Sat, 12 Mar 2022 23:56:17 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Google Reader, nine years later",
+            "created": "Sat, 12 Mar 2022 15:41:57 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I wrote <a href=\"http://scripting.com/2013/03/15/oneGreatThingAboutTheDemiseOfGoogleReader.html\">this piece</a> in 2013, after Google Reader had its plug pulled. I'm guessing most people who read that piece have no idea what I'm talking about, because most don't think about online systems as defining a base of content they can move around. Think of it this way. Imagine if you couldn't fly into one city, you had to take a train, but to another city you had to fly, there was no train. The obvious thing would be to build a train route to the city without one, and do the same for air. ",
+                    "created": "Sat, 12 Mar 2022 15:42:11 GMT",
+                    "image": "http://static.scripting.com/larryKing/images/2013/03/15/wickedWitch.gif",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Simply: Twitter says posts have no titles and Google said posts must have titles. ",
+                    "created": "Sat, 12 Mar 2022 15:45:26 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But the online world has been so dysfunctional that here we are nine years later, and RSS readers still can't deal with Twitter style content. I see Twitter is advertising that they're going to open up. Then this is going to be a problem they have to deal with too. I also believe it can be solved. I've been using a reader that handles both kinds of posts since the advent of RSS, there to be copied by anyone who dared to look. ",
+                    "created": "Sat, 12 Mar 2022 15:47:23 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Anyway... Maybe we can fix it.",
+                    "created": "Sat, 12 Mar 2022 15:45:49 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
