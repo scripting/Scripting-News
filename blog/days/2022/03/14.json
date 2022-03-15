@@ -1,0 +1,76 @@
+{
+    "created": "2022-03-14T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "14",
+    "path": "2022/03/14",
+    "text": "March 14",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "My <a href=\"https://twitter.com/davewiner/status/1503405268582998016\">theory of glop</a> in programming languages as a Twitter thread. ",
+            "created": "Mon, 14 Mar 2022 16:44:11 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The problem with Putin and any “great” person is that as their fame grows they remain a normal-size human. Eventually they revert to normal size in perception too. There are no exceptions.",
+            "created": "Mon, 14 Mar 2022 14:39:14 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A summary of the VC business model. Take an idea that was developed on the open internet, without lock-in, then fund a startup to do the same thing, with lock-in and don't change the name. In other words take something like <a href=\"http://scripting.com/2021/12/21/124205.html\">podcasting</a>, which thrives because users and publishers have choice and there are no gatekeepers, and lock it up and still call it podcasting. ",
+            "created": "Mon, 14 Mar 2022 13:22:21 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2022/03/14/blueMonday.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "This subject comes up in <a href=\"https://stratechery.com/\">Ben Thompson's latest newsletter</a>, which he has kindly given me a free subscription to. He discusses <a href=\"https://substack.com/\">Substack's</a> business model. The occasion is their releasing an iOS version of their \"RSS\" reader. Since Substack is VC-funded, I am suspicious of their support for RSS. I expect there's lock-in in there. But I don't have the time or actual interest to dig in and find out what they did. I know they require you to use their editor to publish through their channel. When they came out I was looking for a way to distribute this blog via email, so I asked if they supported inbound RSS. No. You have to use their editor. Well I had been through that with Facebook and Medium and was fed up with software turning me into a typist. As with most writers, I have a writing setup that I'm happy with, and I'm not going to change all that just to get an email delivery system. I wrote my own <a href=\"http://scripting.com/email/\">emailer</a>. I wish we had a good way to offer that to everyone, but that takes time that I don't have. And frankly some users aren't adult enough to deal well with gifts. So writers who want to distribute via email are getting locked in. So it goes. ",
+            "created": "Mon, 14 Mar 2022 13:25:11 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I just watched a <a href=\"https://www.hulu.com/movie/kurt-vonnegut-unstuck-in-time-46b7fa51-c254-4a03-b911-120b40522640\">Vonnegut bio</a> on Hulu which is very good.",
+            "created": "Mon, 14 Mar 2022 14:15:27 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "He must have his cheeseburger",
+            "created": "Mon, 14 Mar 2022 15:53:51 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "This <a href=\"https://twitter.com/KevinRothrock/status/1503039647739428864\">short video</a> says so much to me. A <a href=\"http://scripting.com/images/2022/03/14/fatRussianMcDonaldsFan.png\">fat</a> Russian man named <a href=\"https://en.wikipedia.org/wiki/Nikas_Safronov\">Nikas Safronov</a> chains himself to a closed Moscow McDonald's, fighting for his right to a cheeseburger. ",
+                    "created": "Mon, 14 Mar 2022 15:33:24 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "“They don’t have the right to close down!” he protests.",
+                    "created": "Mon, 14 Mar 2022 19:54:26 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "On Wikipedia he <a href=\"http://scripting.com/images/2022/03/14/safronov.png\">looks</a> like a rock star. Seriously. If this is what we did to Russia, well I understand now what we're looking at. That could be Lincoln, Nebraska -- if they lost their Wendy's or Boston if they cut off the internet. We need to turn our attention to the people of Ukraine, and observe the difference. The future demands our determination. We are failing the test. ",
+                    "created": "Mon, 14 Mar 2022 15:56:13 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Putin, Trump, Boris Johnson, they're all the same disease. To break free and get our species on track, we need to face ourselves. So much of what I hear as criticism of Russia applies equally to the US.   ",
+                    "created": "Mon, 14 Mar 2022 15:56:35 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Russian cheeseburger man.",
+                    "created": "Mon, 14 Mar 2022 15:54:23 GMT",
+                    "inlineImage": "http://scripting.com/images/2022/03/14/fatRussianMcDonaldsFan.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
