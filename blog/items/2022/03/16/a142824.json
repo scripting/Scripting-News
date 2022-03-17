@@ -1,0 +1,7 @@
+{
+    "text": "The other day, after <a href=\"http://scripting.com/2022/03/12.html#a150018\">writing</a> about a theoretical new RSS reader app, I decided to try an experiment. I took the feed of a well known tech publication and just displayed the <i>description</i> element of an <i>item</i> from its feed in my browser. This is <a href=\"http://scripting.com/images/2022/03/16/unwantedbullshitinyourfeed.png\">what showed up</a> in the JavaScript console. How embarrassing for the publisher. That's what I mean about being picky about which feeds I'm willing to allow into my lovely theoretical RSS garden. If you're going to hack at the browser like that, you're not invited. Please no business models in my app. You want the people who read your feed to pay? Ask them for some money. ",
+    "created": "Wed, 16 Mar 2022 14:28:24 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2017/08/05/loveRss.png",
+    "flInCalendar": true
+}
