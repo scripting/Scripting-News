@@ -1,0 +1,41 @@
+{
+    "created": "2022-03-18T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "18",
+    "path": "2022/03/18",
+    "text": "March 18",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I like <a href=\"https://twitter.com/JonErlichman/status/1504782250034012160\">this</a> Elon Musk interview. ",
+            "created": "Fri, 18 Mar 2022 17:12:48 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I have something new coming shortly, it's the beginning of a thread that implements a JavaScript API for feed reading in Node.js. Much like the update I did for <a href=\"http://opml.org/\">OPML</a> last year. Really simple sample code. It was time to pull together the code I use to parse feeds these days in JavaScript apps and publish it as open source. It builds on Dan MacTough's <a href=\"https://www.npmjs.com/package/feedparser\">feedparser</a> package, so it inherits its support of different feed formats: \"RSS\", Atom and RDF. The result is what developers want in 2022. A simple JavaScript object containing the information in a feed and nothing more. One system call to parse it. Works like <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse\">JSON.parse</a>. From there, a simple feed reader could be built. Or any other feed-consuming software. I felt it was time to try to bring this together, enough time has passed, don't you think? :rocket: ",
+            "created": "Fri, 18 Mar 2022 16:18:37 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/10/03/queen.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "My two cents: <a href=\"https://twitter.com/davewiner/status/1504807644963479562\">The NYT Editorial Board is correct</a>. We all <a href=\"https://www.memeorandum.com/220318/p17#a220318p17\">filter</a> what we say to avoid all kinds of <a href=\"https://en.wiktionary.org/wiki/tsuris\">tsuris</a>. Sometimes it's cops at your house in SWAT gear, guns drawn, responding to a call there's been a murder. Or a knock on the door from a stranger, saying they just wanted to know if this is where you live. It could be a small thing, or it could drive you <a href=\"https://en.wikipedia.org/wiki/Gawker#Hulk_Hogan_sex_tape\">out of business</a>. The key point is people hold back what they think because they don't want the drama or danger that would come from expressing the idea. The rebuttals are stale. Heard them for decades. It doesn't change the fact that there's important ideas not being exchanged. And we need the best minds, with the freshest ideas to deal with the issues of the day.  And btw this kind of suppression is just as effective as what the <a href=\"https://www.politico.com/news/2022/03/08/florida-senate-approves-dont-say-gay-bill-00015120\">Repubs are doing</a> in Florida, for example. Think about that, and look in the mirror. You aren't that different from them. ",
+            "created": "Fri, 18 Mar 2022 14:44:32 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1504863932908982274\">Poll</a>: If you thought the NYT was right in their famous <a href=\"https://twitter.com/davewiner/status/1504807644963479562\">editorial</a> today, would you say so publicly or would you join the crowd condemning them?",
+            "created": "Fri, 18 Mar 2022 17:22:35 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<img src=\"http://scripting.com/images/2022/03/18/woohoo.png\">",
+            "created": "Fri, 18 Mar 2022 16:38:45 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
