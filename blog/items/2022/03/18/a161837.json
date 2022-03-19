@@ -1,0 +1,7 @@
+{
+    "text": "I have something new coming shortly, it's the beginning of a thread that implements a JavaScript API for feed reading in Node.js. Much like the update I did for <a href=\"http://opml.org/\">OPML</a> last year. Really simple sample code. It was time to pull together the code I use to parse feeds these days in JavaScript apps and publish it as open source. It builds on Dan MacTough's <a href=\"https://www.npmjs.com/package/feedparser\">feedparser</a> package, so it inherits its support of different feed formats: \"RSS\", Atom and RDF. The result is what developers want in 2022. A simple JavaScript object containing the information in a feed and nothing more. One system call to parse it. Works like <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse\">JSON.parse</a>. From there, a simple feed reader could be built. Or any other feed-consuming software. I felt it was time to try to bring this together, enough time has passed, don't you think? :rocket: ",
+    "created": "Fri, 18 Mar 2022 16:18:37 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2019/10/03/queen.png",
+    "flInCalendar": true
+}
