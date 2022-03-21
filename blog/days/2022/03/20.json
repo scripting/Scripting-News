@@ -1,0 +1,87 @@
+{
+    "created": "2022-03-20T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "20",
+    "path": "2022/03/20",
+    "text": "March 20",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Scott Hanson: <a href=\"https://github.com/scotthansonde/DrummerNotes/blob/main/buildingElectron.md\">Building Electron apps for Linux and Windows</a>. We're looking for <a href=\"https://github.com/scotthansonde/DrummerNotes/issues/1\">feedback</a> from people who have successfully built Linux and Windows versions of Electron apps.  ",
+            "created": "Sun, 20 Mar 2022 14:17:33 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Something I learned from reading <a href=\"https://www.amazon.com/Allow-Me-Retort-Black-Constitution/dp/1620976811\">Elie Mystal's book</a>. The Second Amendment’s original <a href=\"https://www.thedailybeast.com/how-slave-owners-dictated-the-language-of-the-2nd-amendment\">purpose</a> was to enable slavers in Virginia to put down a slave rebellion without depending on the federal government. It wasn't put in the Constitution so people could protect themselves against robbers, not that that's necessarily a bad thing, and if appropriate there could be laws that allow it specifically. But it isn't really a Constitutional right. ",
+            "created": "Sun, 20 Mar 2022 22:30:05 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/ST_Culture/status/1505470787993673729\">Anne Tyler</a>: \"It would be very foolish for me to write, let’s say, a novel from the viewpoint of a black man, but I think I should be allowed to do it.\" What a world, where such an accomplished and respected author feels this intimidated.",
+            "created": "Sun, 20 Mar 2022 14:56:23 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "My <a href=\"http://daytona.scripting.com/?q=human%20sushi&collection=scriptingnews\">human sushi</a> comment is up to <a href=\"http://scripting.com/images/2022/03/20/358.png\">358 likes</a> now. ",
+            "created": "Sun, 20 Mar 2022 16:01:44 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A Wordle hack",
+            "created": "Sun, 20 Mar 2022 14:21:53 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://www.nytimes.com/games/wordle/index.html\">Wordle</a> is an addictive word game that became popular and then was bought by the NY Times. It's free to play, as far as I know (I have a NYT subscription so if it weren't free it's possible I might not know). The diagram to the right is a standard, produced by the game. It tells you how my last game went without giving away the answer. Even that part of the game is clever. ",
+                    "created": "Sun, 20 Mar 2022 14:44:23 GMT",
+                    "image": "http://scripting.com/images/2022/03/20/wordleResult.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Anyway, here's the hack...",
+                    "created": "Sun, 20 Mar 2022 14:46:51 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Suppose you know the second and third letters, as above, and have eliminated a fair number of consonants, and are sure the first letter is a consonant…",
+                    "created": "Sun, 20 Mar 2022 14:22:56 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Type one of the eligable consonants and the next two letters into a web browser and check out the auto completes. Repeat. That's how I figured out the answer to today's puzzle after I got to the situation in the third line. ",
+                    "created": "Sun, 20 Mar 2022 14:23:13 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'm pretty consistently getting the answer in four steps. In the first two steps I'm not trying to solve the puzzle, just gathering data. By the third, I constrain my guess by the information I've gathered so far, assuming I've got one or two hits.  ",
+                    "created": "Sun, 20 Mar 2022 14:23:55 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "In this case I got two green squares on the first one. I thought for sure I'd get the answer in three instead of four, but I hadn't eliminated enough consonants to be able to puzzle it out. I was surprised by how hard it was after step three, mostly because (I think) this was a weird word, letter-wise. ",
+                    "created": "Sun, 20 Mar 2022 14:24:56 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Edward Hopper",
+            "created": "Sun, 20 Mar 2022 23:00:01 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://www.artic.edu/artworks/50091/night-on-the-el-train\">Night on the El Train</a>, 1918.",
+                    "created": "Sun, 20 Mar 2022 23:00:05 GMT",
+                    "inlineImage": "http://scripting.com/images/2022/03/20/nightOnTheElTrain.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
