@@ -1,0 +1,39 @@
+{
+    "text": "A Wordle hack",
+    "created": "Sun, 20 Mar 2022 14:21:53 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "<a href=\"https://www.nytimes.com/games/wordle/index.html\">Wordle</a> is an addictive word game that became popular and then was bought by the NY Times. It's free to play, as far as I know (I have a NYT subscription so if it weren't free it's possible I might not know). The diagram to the right is a standard, produced by the game. It tells you how my last game went without giving away the answer. Even that part of the game is clever. ",
+            "created": "Sun, 20 Mar 2022 14:44:23 GMT",
+            "image": "http://scripting.com/images/2022/03/20/wordleResult.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Anyway, here's the hack...",
+            "created": "Sun, 20 Mar 2022 14:46:51 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Suppose you know the second and third letters, as above, and have eliminated a fair number of consonants, and are sure the first letter is a consonant…",
+            "created": "Sun, 20 Mar 2022 14:22:56 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Type one of the eligable consonants and the next two letters into a web browser and check out the auto completes. Repeat. That's how I figured out the answer to today's puzzle after I got to the situation in the third line. ",
+            "created": "Sun, 20 Mar 2022 14:23:13 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm pretty consistently getting the answer in four steps. In the first two steps I'm not trying to solve the puzzle, just gathering data. By the third, I constrain my guess by the information I've gathered so far, assuming I've got one or two hits.  ",
+            "created": "Sun, 20 Mar 2022 14:23:55 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "In this case I got two green squares on the first one. I thought for sure I'd get the answer in three instead of four, but I hadn't eliminated enough consonants to be able to puzzle it out. I was surprised by how hard it was after step three, mostly because (I think) this was a weird word, letter-wise. ",
+            "created": "Sun, 20 Mar 2022 14:24:56 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
