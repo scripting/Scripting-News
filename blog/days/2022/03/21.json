@@ -1,0 +1,102 @@
+{
+    "created": "2022-03-21T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "21",
+    "path": "2022/03/21",
+    "text": "March 21",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I'm doing more work on feed reading, and realize the problem has never been with my feed reading software, rather it's the mess that was created around feed reading with the lack of working-together among the vendors. I've written about this <a href=\"http://scripting.com/2022/03/18.html#a161837\">before</a>. As I go deeper into this project, I'm becoming more resolved that I'm only going to support a subset of feeds. What will come out of it will not be a feed reader in the sense that people think of them for the last 20 or so years. They all try to read everything, and that makes it hard to go beyond the intersection of features found in all feeds. I don't see any point in producing yet another one of those. If people producing blogging software want to give this another shot, they should be ready to retool, a bit. Not very much. Maybe not at all (if you've been considerate in your feeds). And not breaking anything. This is absolute. I will not break anyone either with feeds I produce (I write a popular blog and make blogging software.) Which is a bit tricky because there are important features in my feeds that most readers don't support thanks to <a href=\"http://scripting.com/2013/03/15/oneGreatThingAboutTheDemiseOfGoogleReader.html\">Google</a>. This is how everything got broken. I want to go back to before this all became such a mess, and slowly and carefully pull through something beautifully simple and easy to work with. And then go from there. Not leaving the past behind, but also not being limited by it. It's possible. :rocket:",
+            "created": "Mon, 21 Mar 2022 16:41:37 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2022/03/21/beetle.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "2022: Really Simple Syndication has become anything but simple.",
+            "created": "Mon, 21 Mar 2022 16:57:34 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://www.youtube.com/watch?v=rpxZZFJKKYU\">Today's song</a>: \"Don't the sunrise look so pretty, never such a sight. Like a rollin' into New York City with the skyline in the morning light.\"",
+            "created": "Mon, 21 Mar 2022 13:37:52 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I told Alexa to play George Harrison songs. She's playing the best ones. There are so many. ",
+            "created": "Tue, 22 Mar 2022 00:18:32 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I gotta say there are a few public figures who, if they died tonight, I'd do a little jig, drink a toast, in private of course. In anticipation my heart beats a little faster. Oh could we be so lucky! I'd put a George Harrison <a href=\"https://www.youtube.com/watch?v=lIbVWNy7HBk\">song</a> on the speaker, only <i>slightly</i> with sarcasm.",
+            "created": "Tue, 22 Mar 2022 00:18:09 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm watching <a href=\"https://en.wikipedia.org/wiki/Severance_(TV_series)\">Severance</a> on AppleTV+. It's good science fiction, good acting, a bit of a mystery that unravels slowly. The cast is amazing.  ",
+            "created": "Mon, 21 Mar 2022 13:45:55 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<img src=\"http://scripting.com/images/2022/03/21/bonanzaWordle.png\">",
+            "created": "Mon, 21 Mar 2022 13:40:28 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "If money is speech...",
+            "created": "Mon, 21 Mar 2022 15:55:31 GMT",
+            "type": "outline",
+            "description": "I don't see why I should have to pay for Fox News if I find their view of things abhorrent.",
+            "metaImage": "http://scripting.com/images/2022/03/21/money.png",
+            "subs": [
+                {
+                    "text": "<a href=\"https://twitter.com/JoeTrippi/status/1505904993223725058\">Joe Trippi tweets</a>: \"You're probably paying for Putin TV.\" ",
+                    "created": "Mon, 21 Mar 2022 15:55:45 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "He's right, you are. If you have a basic cable package that includes Fox News, you're paying your share to keep Tucker Carlson on the air. ",
+                    "created": "Mon, 21 Mar 2022 15:56:22 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Joe, I think this would be an incredible political cause to raise a fuss about. Focus the spotlight on how we're subsidizing Fox. I think that law, whatever it is that makes this possible or necessary, needs to be changed.",
+                    "created": "Mon, 21 Mar 2022 15:56:48 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's as fundamental as the First Amendment. I should not be required to fund speech that I find abhorrent. The Supreme Court ruled that <a href=\"https://en.wikipedia.org/wiki/Citizens_United_v._FEC\">money is speech</a>. Let's get some lawyers working on this! Make news. It's the kind of issue Repubs raise huge money on. And it pisses me off that my money goes to fund the destruction of our political system. ",
+                    "created": "Mon, 21 Mar 2022 15:57:23 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: I wrote about this on <a href=\"http://scripting.com/2021/01/27.html#a160229\">1/27/2021</a>. ",
+                    "created": "Mon, 21 Mar 2022 16:05:54 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Doyle Dane Bernbach",
+            "created": "Tue, 22 Mar 2022 00:07:29 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://en.wikipedia.org/wiki/Think_Small\">Think small</a>, 1962. ",
+                    "created": "Tue, 22 Mar 2022 00:07:36 GMT",
+                    "inlineImage": "http://scripting.com/images/2022/03/21/thinkSmall.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
