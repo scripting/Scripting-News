@@ -1,0 +1,38 @@
+{
+    "text": "Difference between link and permalink",
+    "created": "Mon, 28 Mar 2022 13:31:52 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I've been doing a review of RSS in 2022, and eventually will release a Node package that reads a feed and returns a JavaScript structure that represents the information in the feed. The names in the object will track the names used in RSS, so for example, each item will have a title and description if the item has those in the feed. The name is the same. ",
+            "created": "Mon, 28 Mar 2022 13:32:03 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "But a feed can have many kinds of links, but there is only one property called link. ",
+            "created": "Mon, 28 Mar 2022 13:33:55 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The link property goes all the way back to RSS 0.90. Only later did we realize we also need a permalink for the object, so it was made a possible value of the then-new guid element. I know this is confusing, we were confused at the time. In hindsight there should have been a permalink property, and its documentation would have said that it could be used as a unique identifier. That would have fit what eventually became the form in the blogosphere, which is where permalinks come up. ",
+            "created": "Mon, 28 Mar 2022 13:34:31 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Okay so now I'm sorting out the confusion. ",
+            "created": "Mon, 28 Mar 2022 13:36:18 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I thought I had it all worked out until I looked at the feed for a linkblog, for example the one for Scripting News. It can fit into the RSS model, but there is no possibility of a permalink, because the linkblog isn't like a normal publication. It uses the link element differently than, say, a NYT feed does, even though the link could be the address of a NYT article. It is not a link to something on the site that hosts the linkblog. That's a really important point. ",
+            "created": "Mon, 28 Mar 2022 13:36:27 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "",
+            "created": "Mon, 28 Mar 2022 13:38:47 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
