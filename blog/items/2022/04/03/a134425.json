@@ -1,0 +1,6 @@
+{
+    "text": "BTW, written explanations of <a href=\"https://en.wikipedia.org/wiki/Closure_(computer_programming)\">closures</a> always read like gobbledygook. Here's what I would say. A closure is an <i>instance</i> of a function, as opposed to a <i>call</i> to a function, but they start life as a call. If when you call the function, it still has work to do, in the form of local functions that run every second or minute, for example, or to respond to messages from the outside, such as a click on an object it created (and is linked into the DOM), or an HTTP request, then all its data sticks around. And it's private to the function, no one else can get at it. That helps you keep the overall program simpler, there are fewer things that can go wrong.  Now as I read this I'm not sure I got it, but it's close. I guess the thing is I've never written an interpreter for a language that has closures. In my experience that's when you really understand a piece of machinery, when it stops being magic -- when you've implemented it. ",
+    "created": "Sun, 03 Apr 2022 13:44:25 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
