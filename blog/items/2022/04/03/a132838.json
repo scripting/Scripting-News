@@ -1,0 +1,6 @@
+{
+    "text": "I'm working on a piece of software built around a single closure. The data type that's at the center of the user experience. When you create it as a closure, it is very easy to tweak it up. Every instance of a closure is a little world unto itself. You have to set up protocols for the outside world to speak to the object. That's good because there can't be any other interactions. When debugging you just have to look there. And when there are no deeply hidden bugs, its deliciously easy to work on. But when you type <code>[feedItem, theFeed]</code> when you really meant <code>{feedItem, theFeed}</code>, and your eyes are imperfect as mine are, and you tend to see what you expect to see in debugging, and miss the little subtle mistakes. Whether you use square or curly brackets makes all the difference in the world. It can turn rich structures into <code>undefined</code>. And all the debugging code in the world doesn't help until you see the square brackets are where there should be curly ones. I think this is a lot like Wordle. The pattern has to be seen by the subconscious. You don't move on until you've solved the problem. But unlike Wordle you get as many tries as it takes. ",
+    "created": "Sun, 03 Apr 2022 13:28:38 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
