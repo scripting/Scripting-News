@@ -1,0 +1,74 @@
+{
+    "created": "2022-04-04T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "04",
+    "path": "2022/04/04",
+    "text": "April 04",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"http://this.how/cunyClassNotes/\">My notes</a> from a talk I gave at a <a href=\"https://www.cuny.edu/\">CUNY</a> journalism class led by Jeff Jarvis and Douglas Rushkoff.",
+            "created": "Mon, 04 Apr 2022 19:41:48 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Matt Mullenweg's <a href=\"https://twitter.com/photomatt/status/1510689903280984068\">comments</a> on the open source model for WordPress, as part of an open discussion with Jack Dorsey who is (I assume) talking about an open source Twitter with <a href=\"https://en.wikipedia.org/wiki/Bluesky_(protocol)\">BlueSky</a>. He isn't very clear on what he's talking about when he says they're working on something related to the open web. If you read the <a href=\"https://blueskyweb.org/\">BlueSky website</a>, it's also pretty vague except that it'll be using XMPP and ActiveSomethingOrOther which is yet another (sigh) \"RSS\" not-invented-here project inspired by Google as far as I can tell. I was not invited to their meetings. People have to stop doing that btw, defining projects about who and what they will not work with. I don't care if you're Jesus Christ, you still have to deal with the momentum of the installed base. People who thought they could make a feed reader and ignore RSS soon found out that people basically ignored <i>them</i> until they got on board. You don't get to fight over petty bullshit like the wire format. If you do, that says you're doing something other than building products for the open web. I think Jack is creative, and has courage, but that's a mistake he shouldn't be making at this stage of his career. I honestly and humbly think Jack could benefit from reading my <a href=\"http://this.how/standards/\">rules for standards-makers</a>. It's based on a lot of real-world experience, both successes and failures at establishing new standards for the open web.",
+            "created": "Mon, 04 Apr 2022 14:17:08 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/06/14/strongman.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://www.reuters.com/technology/musk-discloses-92-stake-twitter-2022-04-04/\">Elon Musk bought 9.2% of Twitter's stock</a>. Very interesting move. It appears he's now the largest shareholder. I like the idea of Twitter being managed like SpaceX or Tesla, speaking as a user of their products. I bought some Twitter stock a few years ago, and have held it. I think the smart move for Twitter is to remove limits, allow editing of tweets, support basic HTML features link linking, titles, style and some features from \"RSS\" such as enclosures (ie podcasting). And then federate, so they can peer with other instances, much as WordPress offers their product as open source. I already have built a lot of functionality for peering with Twitter in \"Drummer\". It could be moved into any product. Then we could have a twitterverse with lots of experimentation. Hopefully a Musk-led Twitter wouldn't be closed off to competition. ",
+            "created": "Mon, 04 Apr 2022 13:11:01 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "If Twitter and Facebook had been federated from the start, like the web or email, or the internet itself, the companies wouldn't be in any way responsible for what's posted on the network. They would just be one node and would be unable to cut anyone off.",
+            "created": "Mon, 04 Apr 2022 13:10:54 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "WordPress is huge",
+            "created": "Mon, 04 Apr 2022 16:29:20 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I'm wondering if another blogging system could develop in competition with WordPress, using the same model they use. An open source base, with a commercial service.",
+                    "created": "Mon, 04 Apr 2022 16:29:33 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Or will <a href=\"http://scripting.com/2022/03/04/134033.html?title=evolutionInSoftware\">evolution</a> allow only one huge open source blogging system.",
+                    "created": "Mon, 04 Apr 2022 16:29:44 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Another related thought.",
+                    "created": "Mon, 04 Apr 2022 16:29:59 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Did you know Twitter is a feed reader?",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It is except it's private, doesn't use RSS.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You could build a feed reader, based on RSS that had Twitter's user experience. It can be done. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But why haven't RSS-based feed readers evolved to work like Twitter?",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
