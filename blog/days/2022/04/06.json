@@ -1,0 +1,23 @@
+{
+    "created": "2022-04-06T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "06",
+    "path": "2022/04/06",
+    "text": "April 06",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "A <a href=\"http://scripting.com/code/opmltojson/\">utility</a> I wrote a while back that converts an <a href=\"http://scripting.com/code/opmltojson/?url=http://this.how/blackLivesMatter/?format=opml\">OPML file</a> from XML to JSON. It's exactly the same outline either way. If people prefer to use JSON to XML for outlines, this is how to do it. I've written a lot of JavaScript code that assumes exactly this structure.",
+            "created": "Wed, 06 Apr 2022 17:07:00 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you're a developer who's been hanging around DrummerSpace, I'd like to invite you to participate in this <a href=\"https://github.com/phonetonote/tft-interop/discussions/2#discussion-3989388\">thread</a> that's been started by <a href=\"https://github.com/scottrblock\">Scott Block</a>, who popped up in a Twitter thread about interop among tools for thought. I am head-down on another project now, something new, that of course will connect to Drummer. But I am still 100 percent on board for interop #TFT space. I want all of them to peer, based on an open format, so a healthy ecosystem of databases, renderers and editors can emerge around the basic idea of using computers for thinking and communicating ideas. This is why I got into software in the first place. Scott appears to understand how Roam works, and of course I know how Drummer works, so the goal is to get this going, one step at a time. I've written a <a href=\"https://github.com/phonetonote/tft-interop/discussions/2#discussioncomment-2512422\">comment</a> on what I think a good first step would be. And the <a href=\"https://github.com/scripting/opmlPackage\">OPML package</a> I wrote for JavaScript seems will play a role in this project which I hope happens, and I hope you can help with. ",
+            "created": "Wed, 06 Apr 2022 13:02:36 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/07/21/giannis.png",
+            "flInCalendar": true
+        }
+    ]
+}
