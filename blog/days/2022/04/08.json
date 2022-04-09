@@ -1,0 +1,69 @@
+{
+    "created": "2022-04-08T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "08",
+    "path": "2022/04/08",
+    "text": "April 08",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "NakedJen <a href=\"https://twitter.com/nakedjen/status/1512494100355989516\">dreams</a> of interop.",
+            "created": "Fri, 08 Apr 2022 18:17:02 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1512445341911724036\">Poll</a>: Who is the star of Severance? <i>Helly.</i>",
+            "created": "Fri, 08 Apr 2022 15:01:07 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "We should add 20 justices to the Supreme Court and impose term limits, to head off the disaster in the making on the court.",
+            "created": "Fri, 08 Apr 2022 13:51:32 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Dreamweaver is on an evolutionary path we left behind",
+            "created": "Fri, 08 Apr 2022 15:10:35 GMT",
+            "type": "outline",
+            "description": "In hindsight, simple networking was more important than a simple and consistent graphic interface. ",
+            "subs": [
+                {
+                    "text": "<a href=\"https://www.crunchbase.com/person/matt-mullenweg\">Matt Mullenweg</a>, the founder of <a href=\"https://en.wikipedia.org/wiki/Automattic\">Automattic</a> and lead developer of WordPress, <a href=\"https://twitter.com/photomatt/status/1511382286641508352\">said</a> something interesting on Twitter on April 5.",
+                    "created": "Fri, 08 Apr 2022 15:10:57 GMT",
+                    "subs": [
+                        {
+                            "text": "It's amazing how much development, how many startups, and how much funding is going into rebuilding Microsoft FrontPage and Macromedia Dreamweaver as a web app. (Gutenberg included.)",
+                            "created": "Fri, 08 Apr 2022 15:11:33 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I've been thinking and <a href=\"http://scripting.com/2022/03/04/134033.html?title=evolutionInSoftware\">writing</a> about evolution and how we never go back, only forward. The great example is the <a href=\"https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson\">Neil deGrasse Tyson</a> <a href=\"https://www.facebook.com/Mentallicaa/videos/191445391404751/\">discussion</a> of the evolution of the human eye. The eye originated when our ancestors lived underwater. They don't work well in the air, but it's done. We can't get a better eye. Evolution has finished the eye. Look at all our eyes, every animal on earth has watery eyes. You don't notice it until you look for it. ",
+                    "created": "Fri, 08 Apr 2022 15:13:19 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I think this same idea applies to the evolution of software. The theory says FrontPage and Dreamweaver will never fit well into the writing and publishing environment of 2022 and beyond. The evolutionary fork that took us off that course was when Apple made the decision in the late 80s to make networking virtually impossible to write software for. It was such a tease, because Macs all had builtin networking hardware, and the wires were easy to set up and inexpensive. They wanted all Macs to be connected. But for some reason the APIs were <a href=\"https://en.wiktionary.org/wiki/inscrutable\">inscrutable</a>. I know, I banged my head against those APIs for years. I gave up when I saw how easy HTTP was to develop for. If Apple had the same insight for software that they had for hardware, if they factored their APIs so that networking could easily be added to any application, as it is on the web, we'd be evolving off a base with a strong <a href=\"https://developer.apple.com/library/archive/documentation/mac/pdf/ImagingWithQuickDraw.pdf\">well-documented GDI</a> and a well-defined graphic user interface, with <a href=\"https://andymatuschak.org/files/papers/Apple%20Human%20Interface%20Guidelines%201987.pdf\">guidelines</a> that made sure all software worked the same, as opposed to the user interface chaos of the web. The two worlds are <a href=\"https://www.merriam-webster.com/dictionary/antithetical\">antithetical</a>. ",
+                    "created": "Fri, 08 Apr 2022 15:14:59 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "In hindsight, simple networking was more important than a simple and consistent graphic interface. It's why \"Manila\" and \"Radio UserLand\" took off, and \"Clay Basket\" did not (in the UserLand universe). And why Dreamweaver and Frontpage have faded out, and <a href=\"https://www.markdownguide.org/cheat-sheet/\">plain text</a> rules. ",
+                    "created": "Fri, 08 Apr 2022 15:17:58 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Now the challenge imho is to swing back to writers, not people who need a lot of stylistic control of text. The people who valued WYSIWYG were the first owners of laser printers. In a world where most people are using smart phones, there isn't that much you can do with wizzy tools that shows up for the reader. Today's writers need the UI to get out of their way, and make it easy to create more complex and useful structures for notes. I think this is the way forward. And we should of course keep improving and simplifying the underlying network protocols. ",
+                    "created": "Fri, 08 Apr 2022 15:19:35 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
