@@ -1,0 +1,41 @@
+{
+    "created": "2022-04-09T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "09",
+    "path": "2022/04/09",
+    "text": "April 09",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I found the archive of all the DaveNet stories going back from 1994 to 2004 in OPML, the format that the Daytona database uses, including the titles and publication dates. I'm going to spend a little time gettomg it in shape, and then upload the database and all the OPML text to the GitHub repo. A bit of restoration work. I love this, there's a lot of good stuff here. I started a <a href=\"http://this.how/davenetInOpml/\">this.how page</a> for this project. ",
+            "created": "Sat, 09 Apr 2022 19:22:43 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I had a small package delivered today via Fedex containing a SIM that I was going to use in my phone. But the package was opened, and there was nothing inside. This seems to be happening a lot these days. Hackers get jobs at Fedex or UPS and grab stuff as it's in transit. PS: Fedex <a href=\"http://scripting.com/images/2022/04/09/fedexApologizesForAnyInconvenience.png\">apologizes</a> for any inconvenience when they should be apologizing for completely failing at the job they were hired to do.",
+            "created": "Sat, 09 Apr 2022 15:16:23 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've been working my way through <a href=\"https://en.wikipedia.org/wiki/Dickinson_(TV_series)\">Dickinson</a>, in Season 3 now. It's funny the first season was given so-so reviews, but the critics were agog with Season 3. I think it's the other way around. The last season is a real drag. Repetitive, silly, not sexy at all. Where the first season had me laughing out loud with my chin permanently dropped at all the innovation that worked. ",
+            "created": "Sat, 09 Apr 2022 13:48:49 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I noticed this morning that \"1999.io\" was getting a bunch of hits. It's a blogging system I wrote in 2015 and 2016, after learning Facebook, and liking a lot of the features in it, and thought they should make their way back into the blogging world. That was the idea. It's a full-featured blogging system, written in JavaScript with a Node.js backend, intending to be a revisit to the ideas in Manila, which came out in 1999, hence the name of 1999.io. But -- I decided to stop building on it in 2017, because I wanted to use something else. The thing about 1999.io, is it made a compromise with Google Reader and the RSS readers that followed it. All posts had titles. And they were meant to be multi-paragraph things, and it had no provision for short titleless posts. I was trying to surrender to the mass decision that blogs had a certain form, but it wasn't my form. That led me to create \"Old School\", which was a return to the blogging system I used before Manila, based on the editor being an outliner. That meant leaving 1999.io behind. But it's still there. And someone out there is using it for something. I don't have any plans to work on it or use it, but does still appear to work. Here's a Google <a href=\"https://www.google.com/search?q=site%3Ascripting.com+1999.io\">search</a> for 1999.io on this site, in case you're interested in exploring. ",
+            "created": "Sat, 09 Apr 2022 13:21:41 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/06/29/chevyTruck.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "A UI <a href=\"https://twitter.com/davewiner/status/1511867757134024722\">puzzle</a> for Font-Awesome.",
+            "created": "Sat, 09 Apr 2022 13:05:07 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
