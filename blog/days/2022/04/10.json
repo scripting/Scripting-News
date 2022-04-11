@@ -1,0 +1,50 @@
+{
+    "created": "2022-04-10T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "10",
+    "path": "2022/04/10",
+    "text": "April 10",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I have the <a href=\"http://scripting.com/publicfolder/davenet/davenetOpml.zip\">OPML files</a> for the DaveNet archive, <a href=\"http://this.how/davenetInOpml/#1649603551000\">more info here</a>. ",
+            "created": "Sun, 10 Apr 2022 15:41:03 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I wish they used <a href=\"https://www.google.com/search?q=sarah+sherman+snl\">Sarah Sherman</a> more on SNL.",
+            "rawText": "I wish they used Sarah Sherman more on SNL.",
+            "type": "tweet",
+            "created": "Sun, 10 Apr 2022 23:55:02 GMT",
+            "tweetId": "1513304581463330818",
+            "urltweet": "https://twitter.com/davewiner/status/1513304581463330818",
+            "tweetUserName": "davewiner",
+            "flInCalendar": true
+        },
+        {
+            "text": "I would use Instagram more if they had an iPad client.",
+            "rawText": "I would use Instagram more if they had an iPad client.",
+            "type": "tweet",
+            "created": "Sun, 10 Apr 2022 23:54:29 GMT",
+            "tweetId": "1513304440270430211",
+            "urltweet": "https://twitter.com/davewiner/status/1513304440270430211",
+            "tweetUserName": "davewiner",
+            "flInCalendar": true
+        },
+        {
+            "text": "Big message for families",
+            "created": "Mon, 11 Apr 2022 02:37:52 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Breaking generational trauma.",
+                    "created": "Mon, 11 Apr 2022 02:38:05 GMT",
+                    "inlineImage": "http://scripting.com/images/2022/04/10/breakingGenerationalTrauma.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
