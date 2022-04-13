@@ -1,0 +1,102 @@
+{
+    "text": "StarLink setup",
+    "created": "Tue, 12 Apr 2022 16:31:00 GMT",
+    "type": "outline",
+    "metaImage": "http://scripting.com/images/2022/04/12/starLinkInLawn.png",
+    "description": "It took five minutes to install StarLink. A marvel of simplicity.",
+    "subs": [
+        {
+            "text": "<i><a href=\"https://en.wikipedia.org/wiki/Starlink\">StarLink</a> is an internet service, like Comcast or Spectrum, except it uses a dish to communicate with orbiting satellites which from there connect to the net. As a user, once it's set up, you're just using wifi. I ordered it as a backup for my land-based net connection from Spectrum, which sometimes goes out where I live in the mountains in upstate NY. StarLink is made by <a href=\"https://www.spacex.com/\">SpaceX</a>, which like Tesla, is a company run by Elon Musk. Anyway, I read how simple it was to set up, so I opened the box and put it together myself and it worked. These are my notes from the setup.</i>",
+            "created": "Wed, 13 Apr 2022 02:57:50 GMT",
+            "image": "http://scripting.com/images/2022/04/12/dish.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I have a guy who normally does installations on my house, but I couldn't wait so I set up StarLink myself. ",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's incredible how it unboxes. No instructions, none are needed.  Here's what you get:",
+            "created": "Tue, 12 Apr 2022 16:31:16 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "Dish: Three parts, a dish, a stand and a pipe that connects the dish to the stand.",
+                    "created": "Tue, 12 Apr 2022 16:31:30 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A wifi router with jacks for power and a cable that connects to the dish.  ",
+                    "created": "Tue, 12 Apr 2022 16:31:31 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A 100 foot cable to connect the dish to the router. ",
+                    "created": "Tue, 12 Apr 2022 17:43:47 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "What I did, what happened",
+            "created": "Tue, 12 Apr 2022 16:31:36 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "Put the dish outside, plug in the router, connect the dish to the router and turn everything on.",
+                    "created": "Tue, 12 Apr 2022 16:31:44 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I didn't get a video, but the dish moves itself around to find the clearest view of the satellite. It's out of a scifi movie. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But the app on the iPhone still says Booting.. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I imagine it's getting an over-the-air update?",
+                    "created": "Tue, 12 Apr 2022 16:31:49 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Where we're at...",
+            "created": "Tue, 12 Apr 2022 16:31:53 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "I can connect to the wifi from all my devices, they just don't connect to the internet yet. ",
+                    "created": "Tue, 12 Apr 2022 16:31:59 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Update: now instead of booting it says searching.",
+                    "created": "Tue, 12 Apr 2022 16:33:09 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Will keep you posted. ",
+                    "created": "Tue, 12 Apr 2022 16:32:07 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"http://scripting.com/images/2022/04/12/gatheringdata.png\">Gathering data</a> on obstructions. Usually takes 12 hours! It's like a rocket ship. It's got a little software Mission Control built in. ",
+                    "created": "Tue, 12 Apr 2022 16:35:53 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's working. I have it connecting to the internet. Here's the <a href=\"http://scripting.com/images/2022/04/12/speedtest.png\">result</a> of a speed test. ",
+                    "created": "Tue, 12 Apr 2022 16:42:56 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
