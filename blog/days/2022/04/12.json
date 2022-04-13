@@ -1,0 +1,184 @@
+{
+    "created": "2022-04-12T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "12",
+    "path": "2022/04/12",
+    "text": "April 12",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I like the way all the <a href=\"http://daytona.scripting.com/?q=web3&collection=scriptingnews\">Web3</a> people put .eth after their names on Twitter. I am <a href=\"http://scripting.com/images/2022/04/12/dave.rss.png\">using .rss</a> because RSS is due for a bounce-back. It's got a strong foundation, and it has a simpler mission than the crypto folk -- simply, to get news to the people. ",
+            "created": "Wed, 13 Apr 2022 03:10:20 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "StarLink setup",
+            "created": "Tue, 12 Apr 2022 16:31:00 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2022/04/12/starLinkInLawn.png",
+            "description": "It took five minutes to install StarLink. A marvel of simplicity.",
+            "subs": [
+                {
+                    "text": "<i><a href=\"https://en.wikipedia.org/wiki/Starlink\">StarLink</a> is an internet service, like Comcast or Spectrum, except it uses a dish to communicate with orbiting satellites which from there connect to the net. As a user, once it's set up, you're just using wifi. I ordered it as a backup for my land-based net connection from Spectrum, which sometimes goes out where I live in the mountains in upstate NY. StarLink is made by <a href=\"https://www.spacex.com/\">SpaceX</a>, which like Tesla, is a company run by Elon Musk. Anyway, I read how simple it was to set up, so I opened the box and put it together myself and it worked. These are my notes from the setup.</i>",
+                    "created": "Wed, 13 Apr 2022 02:57:50 GMT",
+                    "image": "http://scripting.com/images/2022/04/12/dish.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I have a guy who normally does installations on my house, but I couldn't wait so I set up StarLink myself. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's incredible how it unboxes. No instructions, none are needed.  Here's what you get:",
+                    "created": "Tue, 12 Apr 2022 16:31:16 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Dish: Three parts, a dish, a stand and a pipe that connects the dish to the stand.",
+                            "created": "Tue, 12 Apr 2022 16:31:30 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "A wifi router with jacks for power and a cable that connects to the dish.  ",
+                            "created": "Tue, 12 Apr 2022 16:31:31 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "A 100 foot cable to connect the dish to the router. ",
+                            "created": "Tue, 12 Apr 2022 17:43:47 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "What I did, what happened",
+                    "created": "Tue, 12 Apr 2022 16:31:36 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Put the dish outside, plug in the router, connect the dish to the router and turn everything on.",
+                            "created": "Tue, 12 Apr 2022 16:31:44 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I didn't get a video, but the dish moves itself around to find the clearest view of the satellite. It's out of a scifi movie. ",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "But the app on the iPhone still says Booting.. ",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I imagine it's getting an over-the-air update?",
+                            "created": "Tue, 12 Apr 2022 16:31:49 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Where we're at...",
+                    "created": "Tue, 12 Apr 2022 16:31:53 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "I can connect to the wifi from all my devices, they just don't connect to the internet yet. ",
+                            "created": "Tue, 12 Apr 2022 16:31:59 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Update: now instead of booting it says searching.",
+                            "created": "Tue, 12 Apr 2022 16:33:09 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Will keep you posted. ",
+                            "created": "Tue, 12 Apr 2022 16:32:07 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "<a href=\"http://scripting.com/images/2022/04/12/gatheringdata.png\">Gathering data</a> on obstructions. Usually takes 12 hours! It's like a rocket ship. It's got a little software Mission Control built in. ",
+                            "created": "Tue, 12 Apr 2022 16:35:53 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "It's working. I have it connecting to the internet. Here's the <a href=\"http://scripting.com/images/2022/04/12/speedtest.png\">result</a> of a speed test. ",
+                            "created": "Tue, 12 Apr 2022 16:42:56 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "What if writers had choice",
+            "created": "Tue, 12 Apr 2022 12:21:39 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I'm looking for one or two service providers who are ready to offer users a choice of writing tools. To not force them to use <i>their</i> writing tools, their storage, and at best, offer a way to back up their writing. As a writer I want to use the tools I like best, and perhaps send them out through more than one channel. I don't want to be locked in, and forced to transcribe my writing for every possible service I might use.",
+                    "created": "Tue, 12 Apr 2022 12:21:41 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'd like to see someone like Substack or Medium, for example, who says \"Write your stuff in your favorite writing tool, export it in Markdown, and give us the link. We'll take it from there.\"",
+                    "created": "Tue, 12 Apr 2022 12:22:04 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "That way you could:",
+                    "created": "Tue, 12 Apr 2022 12:22:27 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Use a tool that fits your writing style perfectly.",
+                            "created": "Tue, 12 Apr 2022 12:22:23 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Developers would be incentivized to create such tools.",
+                            "created": "Tue, 12 Apr 2022 12:22:40 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "You could use more than one service, say use Substack to manage your mail list, and Medium to manage your web presence, and Facebook for discussion among your friends, Slack to discuss among your work colleagues. (BTW, Slack has a good enough API to do this already.)",
+                            "created": "Tue, 12 Apr 2022 12:22:41 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Great archival services could come about because they could be one of the services you cc on your writing.",
+                            "created": "Tue, 12 Apr 2022 12:22:24 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Service providers could make custom toolkits to make it easy for tools to adapt to this interface. No need to master their whole API when all your users want is to shoot a story over for publication, indexing, rendering or storage.",
+                            "created": "Tue, 12 Apr 2022 12:23:44 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Who knows what else will come about. ",
+                            "created": "Tue, 12 Apr 2022 12:22:46 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It takes two vendors to define a standard, and then there would be reason enough for all to do it. ",
+                    "created": "Tue, 12 Apr 2022 12:24:44 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's amazing that we have this incredibly powerful network, but the business models of service providers protect their services by not allowing writers a choice in writing tools.  ",
+                    "created": "Tue, 12 Apr 2022 12:25:12 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
