@@ -1,0 +1,63 @@
+{
+    "created": "2022-04-13T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "13",
+    "path": "2022/04/13",
+    "text": "April 13",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "People <a href=\"https://twitter.com/davewiner/status/1514078580602454020\">seem</a> to want movement in FeedLand. It's been <a href=\"http://backend.userland.com/rssChangeNotes#2091802Dw\">almost 20</a> <a href=\"http://scripting.com/2002/09.html\">years</a> since the last time RSS was refreshed. I've mostly stayed away because the community was pretty flamey. But so much time has passed, we could use some new developer tools, and namespaces based on how feed publishing has evolved over the 20 years. ",
+            "created": "Wed, 13 Apr 2022 17:46:52 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The other day I <a href=\"http://scripting.com/2022/04/10.html#a235429\">said</a> I'd use Instagram a lot more if I could post from my desktop or iPad. Turns out that <a href=\"https://9to5mac.com/2021/10/19/instagram-now-lets-everyone-post-from-the-desktop-and-more/\">since October</a> of last year, it was possible to do so. Learn something new every day. I just posted a <a href=\"https://www.instagram.com/p/CcS3_XWLFhu/\">picture</a> of my StarLink dish to prove the point. ",
+            "created": "Wed, 13 Apr 2022 14:41:28 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Does anyone have a contact at Snapchat who can provide a technical background on what they're <a href=\"https://9to5mac.com/2022/04/12/dynamic-stories-snapchat/\">doing with RSS</a>. Thanks in advance.",
+            "created": "Thu, 14 Apr 2022 00:36:51 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Sources Go Direct, explained",
+            "created": "Wed, 13 Apr 2022 16:50:56 GMT",
+            "type": "outline",
+            "description": "We had expertise we wanted to share that wasn't getting out through journalism. So we took matters into our own hands as soon as the technology gave us the means to. ",
+            "subs": [
+                {
+                    "text": "Sources Go Direct is a concept I've been promoting for a <a href=\"https://www.google.com/search?q=site%3Ascripting.com+%22sources+go+direct%22\">long time</a>, without a simple one-page explanation of what it means. Here's my attempt to solve that problem. ",
+                    "created": "Wed, 13 Apr 2022 16:51:06 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The term focuses on the flow of news. Before the web news flowed from sources to reporters to readers. Some readers were sources of course. And sometimes reporters were sources. ",
+                    "created": "Wed, 13 Apr 2022 16:53:09 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The web <a href=\"https://www.google.com/search?q=site%3Ascripting.com+disintermediated\">disintermediated</a> news reporting as it did to other things. It's a fancy word that means that people went around the intermediaries. So travel agents which used to be a big thing, were replaced with Expedia and Kayak. We got information about real estate from Zillow. And the sources of reporters got blogs, and then Twitter accounts, and started going directly to the users of news. Of course there still are travel agents, and when I bought a house recently I used an agent to help me, but I did a lot of researching myself on Zillow. And there are still reporters, of course, and they use the tools that sources use, that's how they get the information they pass on to their readers. We're much better informed these days about lots of things. Some info we get through intermediaries and some we get directly.",
+                    "created": "Wed, 13 Apr 2022 16:53:57 GMT",
+                    "image": "http://scripting.com/images/2019/05/07/fdBox.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "In the late 90s and into the 00s, we needed the term Sources Go Direct to focus our reporter friends on the role bloggers were playing. They jumped to the conclusion that we were trying to be reporters. Most of us were not. We had expertise we wanted to share that wasn't getting out through journalism. So we took matters into our own hands as soon as the technology gave us the means to. ",
+                    "created": "Wed, 13 Apr 2022 16:56:59 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "In my case, I was making Mac software in 1994 and reporters were saying there was no new Mac software. I wanted  to correct that misunderstanding, so I started what eventually came to be called a blog, and then podcasting. All to get around a clogged bottleneck of news flow about something that was important to me.",
+                    "created": "Wed, 13 Apr 2022 17:04:52 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
