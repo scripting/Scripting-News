@@ -1,0 +1,82 @@
+{
+    "created": "2022-04-20T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "20",
+    "path": "2022/04/20",
+    "text": "April 20",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=xwtdhWltSIg\">Losing My Religion</a>.",
+            "created": "Wed, 20 Apr 2022 22:04:08 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, my plan is to hook \"RSS\" up to any protocol people come up with. And when I say RSS, I mean all flavors including RDF and Atom. I don't just have advice for other people, sometimes I give myself advice too. I think it's time to love RSS again. :heart:",
+            "created": "Wed, 20 Apr 2022 17:21:34 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I adore the current <a href=\"https://twitter.com/Jeopardy/status/1516612723471224838\">Jeopardy champion Mattea Roach</a>. Actually I adore them all. They are amazing people. Not only do they have great memory, but think about all the things they know. I also think <a href=\"https://en.wikipedia.org/wiki/Ken_Jennings\">Ken Jennings</a> is the obvious best choice to be the Jeopardy host because he's such a great Jeopardy player, is immersed in all aspects of the game and he really connects with the players, and therefore the fans at home. They are all such wonderful unabashed nerds. I've been watching the show since I was a kid, when <a href=\"https://en.wikipedia.org/wiki/Art_Fleming\">Art Fleming</a> was the host, when I watched it with my mom. ",
+            "created": "Wed, 20 Apr 2022 13:07:42 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2022/04/20/earlyJeopardyBoard.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/phonetonote/status/1516538831528468490\">Yes</a>, I do edit my JavaScript code in an <a href=\"http://home.opml.org/\">outliner</a>. A few years ago I started including the OPML source in my GitHub projects. Look for source.opml. It has the source for all the files in the project in one file. <a href=\"https://github.com/scripting/opmlPackage\">Example</a>. ",
+            "created": "Wed, 20 Apr 2022 14:23:43 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "We're curing ourselves from Covid the way people who smoke while they quit smoking aren't actually quitting. To quit, you stop. If you take your masks off, that's like buying a pack of cigarettes, and having one or two and then finishing the pack and then getting another. I speak as an ex-smoker for over 30 years. I had all kinds of plans for quitting, but the only way to do it is to quit. We'll never get out of the Covid hole until <i>all of us</i> commit to it and then follow through. Otherwise it's going to continue to be a lingering tragedy. ",
+            "created": "Wed, 20 Apr 2022 17:36:55 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm going to continue to wear a mask when I go out in public. My face feels naked without it. The other day I went into the supermarket without a mask and had to go back out to the car to get one. In that moment I got to think about why I wear a mask even when others aren't. It's because I want to send a message to my fellow shoppers that I care about their health. I was raised to be a considerate person. So many people were raised to be self-centered and pissy. I never want to see myself that way. Anyway it was really annoying how quickly the airlines took down their mask requirements. I suggest if you want to make your feelings known to them, stop flying until they bring the mandates back.",
+            "created": "Wed, 20 Apr 2022 13:03:19 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2022/04/20/elves.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "\"Tactical\" nuclear weapon is an idea like \"neo\" Nazi. A distinction without a difference.",
+            "created": "Wed, 20 Apr 2022 20:22:45 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Jeopardy!",
+            "created": "Wed, 20 Apr 2022 13:15:52 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Jeopardy host <a href=\"https://en.wikipedia.org/wiki/Art_Fleming\">Art Fleming</a> with contestants.",
+                    "created": "Wed, 20 Apr 2022 13:16:01 GMT",
+                    "inlineImage": "http://scripting.com/images/2022/04/20/jeopardyHostArtFlemingWithContestants.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Gilbert Shelton",
+            "created": "Wed, 20 Apr 2022 17:11:52 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Freewheelin Franklin of the <a href=\"https://en.wikipedia.org/wiki/The_Fabulous_Furry_Freak_Brothers\">Fabulous Furry Freak Brothers</a>. ",
+                    "created": "Wed, 20 Apr 2022 17:11:57 GMT",
+                    "inlineImage": "http://scripting.com/images/2022/04/20/freewheelinFranklin.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
