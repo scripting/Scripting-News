@@ -1,0 +1,22 @@
+{
+    "text": "RSS is a two-way protocol",
+    "created": "Mon, 25 Apr 2022 14:16:18 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "1. It's great if your app supports outbound RSS.",
+            "created": "Mon, 25 Apr 2022 14:16:38 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "2. Even better to support inbound RSS, esp if your software acts as an aggregator or distributor. ",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://substack.com/\">Substack</a> is a great example of an app I wish supported <a href=\"https://www.google.com/search?q=%22inbound+RSS%22\">inbound RSS</a>.",
+            "created": "Mon, 25 Apr 2022 14:41:15 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
