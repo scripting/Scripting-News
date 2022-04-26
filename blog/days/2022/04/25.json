@@ -1,0 +1,125 @@
+{
+    "created": "2022-04-25T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "25",
+    "path": "2022/04/25",
+    "text": "April 25",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=xwtdhWltSIg\">Losing My Religion</a>.",
+            "created": "Mon, 25 Apr 2022 13:34:47 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, you'd be a fool to leave if Musk buys Twitter. It'll be the greatest show on the Internet. A regular three-ring-circus.",
+            "created": "Mon, 25 Apr 2022 14:09:37 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "In general I buy too many <a href=\"http://muskland.org/\">domain names</a>. ",
+            "created": "Mon, 25 Apr 2022 14:21:16 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "RSS is a two-way protocol",
+            "created": "Mon, 25 Apr 2022 14:16:18 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "1. It's great if your app supports outbound RSS.",
+                    "created": "Mon, 25 Apr 2022 14:16:38 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "2. Even better to support inbound RSS, esp if your software acts as an aggregator or distributor. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://substack.com/\">Substack</a> is a great example of an app I wish supported <a href=\"https://www.google.com/search?q=%22inbound+RSS%22\">inbound RSS</a>.",
+                    "created": "Mon, 25 Apr 2022 14:41:15 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "The latest news from MuskLand",
+            "created": "Mon, 25 Apr 2022 13:09:52 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2022/04/14/elonMusk.png",
+            "description": "Watching them watch us watch them watch us, watch them watch us, etc,",
+            "subs": [
+                {
+                    "text": "There's a lot of talk on Twitter today about what to do if Elon Musk ends up owning Twitter. Based on an article in the WSJ, it appears that might happen very soon, maybe even later today. The Twitter board is carefully studying the offer. Presumably after looking at their lack of success of getting Twitter to grow like other tech industry social networks. ",
+                    "created": "Mon, 25 Apr 2022 13:20:00 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://twitter.com/benedictevans/status/1518559177093926912\">Benedict Evans</a> described Twitter as the  \"Craigslist of Web 2.0, coasting on network effects, building nothing much, and getting unbundled piece by piece.\" I think that's a good synopsis of the last decade or so in TwitterLand. ",
+                    "created": "Mon, 25 Apr 2022 13:20:31 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Finally there's a lot of discussion about where we'll go, which is good. We could have been talking about this long ago, and be more independent of Twitter now. But this is when people get creative. ",
+                    "created": "Mon, 25 Apr 2022 13:21:04 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://twitter.com/TaylorLorenz/status/1518574700611264513\">Taylor Lorenz</a> suggests we all go back to Tumblr, presumably where she started blogging. My <a href=\"https://twitter.com/davewiner/status/1518575186383101952\">response</a> -- \"Let's all go back to what we like, and meet up in the middle.\" Honestly I think that's what Musk must be thinking of. Unbundling Twitter. Turning it into an identity system and an aggregator of lots of sources of bite-size ideas from all kinds of people. ",
+                    "created": "Mon, 25 Apr 2022 13:27:46 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://twitter.com/benedictevans/status/1518559637553008644\">Evans suggests</a>, as do many others. that the moderation problem on Twitter is insurmountable. I don't think it actually is. My Tesla car can drive it self, somewhat, with my assistance, guidance and supervision. Couldn't an algorithmic approach to moderation work just as well? If we're willing to trust our bodies to an algorithm, why not moderation? I think the problem is solvable. Musk's other companies solve bigger problems adequately. Amazon can deliver packages to millions of addresses in the US every day. I just don't think Twitter's are that much harder. ",
+                    "created": "Mon, 25 Apr 2022 13:22:10 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "On the other hand Musk has shown himself to have a childish personality, I can't imagine people who are serious about doing hard jobs are willing to work for him, but apparently enough are to make SpaceX and Tesla very successful companies. A paradox I expect we'll learn a lot more about. ",
+                    "created": "Mon, 25 Apr 2022 13:24:44 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I said to Jeff Jarvis yesterday that we need a Plan B. ",
+                    "created": "Mon, 25 Apr 2022 13:25:05 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I suspect if Musk buys Twitter, we'll all get used to grumbling about him, and Twitter will continue to work more or less, and will gradually improve over time, as basic software development principles, which have evolved over many decades, will get Twitter growing and actually doing new things, which will be appreciated. ",
+                    "created": "Mon, 25 Apr 2022 13:25:16 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: I am a Twitter developer and shareholder. As a shareholder, I don't want to sell out. Just thought I should get all that on the record. ;-)",
+                    "created": "Mon, 25 Apr 2022 13:26:27 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PPS: I own a Tesla Model 3 and a StarLink dish. I'm very happy with both products, so far. ",
+                    "created": "Mon, 25 Apr 2022 13:33:47 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PPPS: In the early blogosphere I wrote about them watching them watch us watch them watch us, watch them watch us, watch them, etc. Same old same old. The more things change the more they stay the same. ",
+                    "created": "Mon, 25 Apr 2022 13:28:38 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PPPPS: A lot of people are saying they will leave Twitter if Musk buys it. I've been through this before. Very few if any will leave. It's why I have this motto: \"Don't slam the door on the way out.\"",
+                    "created": "Mon, 25 Apr 2022 13:50:47 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PPPPPS: Finally <a href=\"https://www.prnewswire.com/news-releases/elon-musk-to-acquire-twitter-301532245.html\">at 3PM</a>, the age of MuskTwitter has begun. <a href=\"https://twitter.com/davewiner/status/1518666782608867329\">Welcome</a>. ",
+                    "created": "Mon, 25 Apr 2022 19:01:24 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
