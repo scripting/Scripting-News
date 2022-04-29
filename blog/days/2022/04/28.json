@@ -1,0 +1,40 @@
+{
+    "created": "2022-04-28T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "28",
+    "path": "2022/04/28",
+    "text": "April 28",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "It's time to read the <a href=\"https://en.wikipedia.org/wiki/Elon_Musk\">Wikipedia page</a> for Elon Musk. ",
+            "created": "Fri, 29 Apr 2022 02:41:48 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you're working on an \"RSS\" reader, you should allow users to subscribe to OPML files. It should be a standard feature in RSS reader apps. If you have questions or comments, <a href=\"https://github.com/scripting/opmlPackage/discussions/8\">this</a> is the place.",
+            "created": "Thu, 28 Apr 2022 13:39:34 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Does anyone believe that with journalism as it is, we will be able to manage the climate crisis without huge lost of human life.",
+            "created": "Thu, 28 Apr 2022 14:17:38 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I wanted to read the docs for the <a href=\"http://daytona.scripting.com/?q=MetaWeblog%20API&collection=scriptingnews\">MetaWeblog API</a>, but found that the link was broken. I was able to <a href=\"http://xmlrpc.com/storyreader/story2198.md\">find the page</a> in the new XML-RPC website, but I'm going to find some time to patch the original URL and the other docs that are locked up in the same folder. ",
+            "created": "Thu, 28 Apr 2022 13:50:11 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I figure if my Tesla can sense a human standing on the curb and slow down as my car goes by, Twitter can detect a troll's tweet, and warn you about it or even not show it to you at all (subject to a preference of course).",
+            "created": "Thu, 28 Apr 2022 13:12:26 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
