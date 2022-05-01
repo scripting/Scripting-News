@@ -1,0 +1,7 @@
+{
+    "text": "Four months ago I shipped a package called <a href=\"https://github.com/scripting/myLogseqBlog\">myLogseqBlog</a> that made it possible to publish from LogSeq outlines to Old School, following the same path as blogs written using Drummer, like <a href=\"http://scripting.com/\">Scripting News</a>. My hope was this would serve as a seed that would help someone who was skilled at doing LogSeq add-ons to take my code and convert it to something that ran inside LogSeq, so blog publishing from an outline would be just as easy there as it is in Drummer. Well it took a while, but <a href=\"https://twitter.com/phonetonote\">Scott Block</a>, a brilliant and persistent programmer, made it work. Here's the <a href=\"https://github.com/phonetonote/tft-interop/tree/main/logseq-opml-drummer\">project</a> and his <a href=\"https://twitter.com/phonetonote/status/1520232574093832197\">announcement</a> on Twitter. Please if you can, and you are a LogSeq user, <a href=\"https://twitter.com/davewiner/status/1520399527089520641\">help</a> him out. I want to build <a href=\"http://scripting.com/2021/12/16/153331.html?title=myProductIsInterop\">interop</a> between outliners based on \"OPML\". I don't want to see silos rule something as wonderful as outlining, the way they do in so many other areas of tech. ",
+    "created": "Sat, 30 Apr 2022 13:13:34 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2020/08/09/gary.png",
+    "flInCalendar": true
+}
