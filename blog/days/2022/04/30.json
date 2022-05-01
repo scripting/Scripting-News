@@ -1,0 +1,95 @@
+{
+    "created": "2022-04-30T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "30",
+    "path": "2022/04/30",
+    "text": "April 30",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://www.youtube.com/watch?v=aSHkH_uMmtY\">McCartney songs</a> are great to <a href=\"https://www.azlyrics.com/lyrics/paulmccartney/everynight.html\">sing along</a> with.",
+            "created": "Sun, 01 May 2022 02:50:08 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=aSHkH_uMmtY",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1520395452537094144\">Thank god</a> we have prickish billionaires to protect our freedoms. ",
+            "created": "Sat, 30 Apr 2022 22:55:58 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Four months ago I shipped a package called <a href=\"https://github.com/scripting/myLogseqBlog\">myLogseqBlog</a> that made it possible to publish from LogSeq outlines to Old School, following the same path as blogs written using Drummer, like <a href=\"http://scripting.com/\">Scripting News</a>. My hope was this would serve as a seed that would help someone who was skilled at doing LogSeq add-ons to take my code and convert it to something that ran inside LogSeq, so blog publishing from an outline would be just as easy there as it is in Drummer. Well it took a while, but <a href=\"https://twitter.com/phonetonote\">Scott Block</a>, a brilliant and persistent programmer, made it work. Here's the <a href=\"https://github.com/phonetonote/tft-interop/tree/main/logseq-opml-drummer\">project</a> and his <a href=\"https://twitter.com/phonetonote/status/1520232574093832197\">announcement</a> on Twitter. Please if you can, and you are a LogSeq user, <a href=\"https://twitter.com/davewiner/status/1520399527089520641\">help</a> him out. I want to build <a href=\"http://scripting.com/2021/12/16/153331.html?title=myProductIsInterop\">interop</a> between outliners based on \"OPML\". I don't want to see silos rule something as wonderful as outlining, the way they do in so many other areas of tech. ",
+            "created": "Sat, 30 Apr 2022 13:13:34 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/08/09/gary.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Fractional horsepower TWTR",
+            "created": "Sat, 30 Apr 2022 15:00:26 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "People often ask if when I talk about having our own TWTRs that means Mastodon. It could, if that's your thing. But the center of this space will host all kinds of apps. Just like vehicles with wheels aren't all Chevies and Hondas. Some are buses, trucks, Teslas or eBikes. There will be a lot of variety in the middle. ",
+                    "created": "Sat, 30 Apr 2022 15:02:40 GMT",
+                    "image": "http://scripting.com/images/2022/04/30/charlotte.png",
+                    "imageLink": "https://www.onepeloton.com/instructors/bike/pelo_cw",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "There was a time when all computers were basically the same. Big honkers in air conditioned rooms with raised floors. You had to have a degree to run one.",
+                    "created": "Sat, 30 Apr 2022 19:39:31 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Then we got personal computers. Steve Jobs had a term for this. He called them \"fractional horsepower\" computers, to compare it to large mainframes.",
+                    "created": "Sat, 30 Apr 2022 19:40:13 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I loved the idea of the Mac because it made the power of the mainframe usable by independent and free individuals. People who had ideas, and wanted to organize and share them. In the old centralized way of doing things it wasn't so easy to get a computer to do the kinds of things Macs did, because there was such a variety of software, and anyone could make software, ordinary people who were motivated. That's how the great stuff was made, by people. This was a form of freedom we don't enjoy so much these days because we all use big corporate mainframe-style software, like Twitter, Facebook etc. (I'm different, I've kept making software in a personal way, now for almost 50 years believe it or not.)",
+                    "created": "Sat, 30 Apr 2022 19:40:53 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Back then freedom was a big part of what tech offered. And it worked. We wouldn't have Twitter today if it couldn't build on PCs. Twitter is made out of our freedom, captured and condensed into billions of dollars to make a few very rich people even richer. You and I how much do we get for our risk and creativity? Nothing. They've been really cheap in sharing the profits, and the credit, btw. ",
+                    "created": "Sun, 01 May 2022 02:34:08 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Tech goes in cycles, like everything else. Now that an oligarch owns Twitter, even though he knows how to tweet, and feels like a man of the people, he lives in a different world from you and I. He's cute but he owns us. He has freedom, don't believe for a minute that you do. Key point. This is how rich people trick us all the time. They get us to identify with them. That's why so many poor people vote Republican. This idea goes all the way back to slavery.",
+                    "created": "Sat, 30 Apr 2022 19:42:44 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "We have to think about what we really want to use -- we won't be able to use this TWTR forever. This was always true, but now a lot more people can see it.",
+                    "created": "Sun, 01 May 2022 02:36:19 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The old owners of Twitter used their power to make Twitter be like they wanted it to be. If you were their friend you did better than if you weren't. This is a fact. That kept people from criticizing them. The same way the owners of the big media companies are immune from criticism, or even exposure. Who owns MSNBC. Think about it. I bet you don't know. (<a href=\"https://en.wikipedia.org/wiki/Brian_L._Roberts\">This dude</a>.)",
+                    "created": "Sun, 01 May 2022 02:36:41 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But the web doesn't work like that. So far no one owns the web, but Google is trying to. That's where we need to escape to. And while Mastodon is, I'm sure, a fine product, it will not be the only kind of fractional horsepower TWTR.",
+                    "created": "Sat, 30 Apr 2022 22:28:00 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: My handle on <a href=\"http://daytona.scripting.com/?q=CompuServe&collection=scriptingnews\">CompuServe</a> in the early 1980s was Mastodon. I've often wondered if this is a random coincidence or what?",
+                    "created": "Sat, 30 Apr 2022 22:28:01 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PPS: My TWTR will of course be two-way RSS top-to-bottom.",
+                    "created": "Sat, 30 Apr 2022 22:43:50 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
