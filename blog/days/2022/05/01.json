@@ -1,0 +1,63 @@
+{
+    "created": "2022-05-01T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "01",
+    "path": "2022/05/01",
+    "text": "May 01",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I'm <a href=\"https://twitter.com/davewiner/status/1520786270728990721\">trying to figure out</a> why Wordle's reports get mangled when they come through the Twitter API. I find when I paste them into a local text file they <a href=\"http://scripting.com/images/2022/05/01/wordleMangle.png\">look pretty bad</a> too. Update: It appears it has nothing to do with the Twitter API, rather <a href=\"https://twitter.com/davewiner/status/1520791215414947847\">the fonts</a> that are used to render the page. ",
+            "created": "Sun, 01 May 2022 15:32:17 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The monthly ritual is complete. Here's the <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/opml/2022/04.opml\">archive</a> for April. ",
+            "created": "Sun, 01 May 2022 13:54:35 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "My tweets for April are automatically archived <a href=\"https://raw.githubusercontent.com/scripting/tweets.opml.org/main/users/davewiner/2022/04.json\">in JSON</a>. I can leave notes to my future self in this manner. ",
+            "created": "Sun, 01 May 2022 14:42:15 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I want my karass",
+            "created": "Sun, 01 May 2022 14:34:22 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2022/05/01/vonnegut.png",
+            "description": "A concept defined by Vonnegut in 'Cat's Cradle' which I believe can apply to software and networks. ",
+            "subs": [
+                {
+                    "text": "The problem on Twitter is that no one will hear this tweet. Because trying to stay in touch with 1000 people is utterly impossible. Some people follow many more. And then there are the people you don't follow who have a good idea. How do you keep that channel open without also leaving it open for scammers. We haven't figured that out yet. As far as I know, no one is trying. ",
+                    "created": "Sun, 01 May 2022 14:34:34 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "What we are left with -- everyone's attention even for the things you follow relatively closely is infinitesimal, and it's constantly diminishing. So it gets even harder for ideas to circulate because nothing penetrates. How can I forward you something you need to know if I never see it?",
+                    "created": "Sun, 01 May 2022 14:35:50 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "What I yearn for is a \"karass\" system, for the 12 people who I want to communicate with who I know will pay attention, and will let me build up ideas over a period of weeks or months. And I do the same for them. Their projects connect with mine, we're constanty improving the system, creating new gateways, modifying others. ",
+                    "created": "Sun, 01 May 2022 14:36:42 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I've had that work once in 2001, when I was working on Radio UserLand with a small team of people spread out over the world. Ever since I have been trying to recreate the experience.  ",
+                    "created": "Sun, 01 May 2022 14:39:15 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: According to the Wikipedia page on <a href=\"https://en.wikipedia.org/wiki/Cat%27s_Cradle#Bokononism\">Cat's Cradle</a>, a karass is \"a group of people linked in a cosmically significant manner, even when superficial linkages are not evident.\"",
+                    "created": "Sun, 01 May 2022 14:39:16 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
