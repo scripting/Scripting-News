@@ -1,0 +1,73 @@
+{
+    "created": "2022-05-04T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "04",
+    "path": "2022/05/04",
+    "text": "May 04",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Consider the possibility that the leak of the Alito decision might not have anything to do with Roe v Wade. It might be the work of a Putinite wanting to distract attention from the atrocities they're committing in Ukraine.",
+            "created": "Wed, 04 May 2022 15:15:49 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The Supreme Court protects the rights of Americans. They’re not a religious body, they are not chartered to adjudicate religious questions, because there is no religion attached to our government. That part is in <a href=\"https://constitution.congress.gov/constitution/amendment-1/\">the text</a> of the Constitution, for our textualist  friends.",
+            "created": "Wed, 04 May 2022 13:05:28 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Chatting about Bluesky on Twitter",
+            "created": "Wed, 04 May 2022 23:30:47 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I wrote: \"I don’t envy the <a href=\"https://blueskyweb.xyz/\">Bluesky</a> people. Everyone is watching with great expectation and they’ve bit off the problem of federating a closed system that has been built over sixteen years.\"",
+                    "created": "Wed, 04 May 2022 23:30:54 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "My friend <a href=\"https://twitter.com/jeffjarvis/status/1521983728481931266\">Jeff Jarvis</a> wrote: \"I will admit that I am pinning hopes on bluesky.\" <i>I know. </i>",
+                    "created": "Wed, 04 May 2022 23:31:18 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://twitter.com/davewiner/status/1521984608237240326\">I responded</a>: \"Software takes time. Replicating the functionality of a system that’s huge in complexity and scale while changing its underlying design, think about any other field, imagine rebuilding the NYC subway in a year or two with one of the basic constraints changed. People expect miracles of software mostly because they don’t understand how it’s made but it’s pretty much like everything else, if it took a long time to make it the first time it’s going to take almost as much time the second and that’s assuming you’re cloning it.\"",
+                    "created": "Wed, 04 May 2022 23:31:46 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Outliners and big code comments",
+            "created": "Wed, 04 May 2022 13:36:06 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://twitter.com/shanselman/status/1521719807116148736\">Scott Hanselman laments</a>: \"No one writes code comments today like we wrote code comments in the 90s,\" citing a <a href=\"https://twitter.com/jeffwilcox/status/1519742875759611904\">tweet</a> with a big <a href=\"http://scripting.com/images/2022/05/04/oldSchoolBigCodeComment.png\">example</a>.",
+                    "created": "Wed, 04 May 2022 13:36:11 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://twitter.com/davewiner/status/1521805736124325889\">My response</a> -- I do leave big code comments, and it's not painful because I use an outliner, and do it carefully and consistently. There's a big comment the top of each major routine, it’s like a blog, with reverse chronologic notes about each major change. At the end of the list in the first comment is an explanation of what it does, params, etc. And since it’s in an outliner, it’s all collapsed until you need to read it.",
+                    "created": "Wed, 04 May 2022 13:38:14 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's a <a href=\"http://scripting.com/listings/oldschool.html\">read-only outline</a> listing of oldschool.js, the CMS that renders this blog. If you scroll down to <i>publishBlog</i> and expand it, you'll see a Changes sub-outline. Expand it to see the changes, and under each change are notes.",
+                    "created": "Wed, 04 May 2022 13:59:11 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This format goes all the way back to the 90s believe it or not when we started coding in an outliner in Frontier. It's the way to organize internal docs. And yes they are absolutely necessary if you plan to maintain and build on the code. ",
+                    "created": "Wed, 04 May 2022 14:00:07 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
