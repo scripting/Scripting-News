@@ -1,0 +1,28 @@
+{
+    "text": "Outliners and big code comments",
+    "created": "Wed, 04 May 2022 13:36:06 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/shanselman/status/1521719807116148736\">Scott Hanselman laments</a>: \"No one writes code comments today like we wrote code comments in the 90s,\" citing a <a href=\"https://twitter.com/jeffwilcox/status/1519742875759611904\">tweet</a> with a big <a href=\"http://scripting.com/images/2022/05/04/oldSchoolBigCodeComment.png\">example</a>.",
+            "created": "Wed, 04 May 2022 13:36:11 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1521805736124325889\">My response</a> -- I do leave big code comments, and it's not painful because I use an outliner, and do it carefully and consistently. There's a big comment the top of each major routine, it’s like a blog, with reverse chronologic notes about each major change. At the end of the list in the first comment is an explanation of what it does, params, etc. And since it’s in an outliner, it’s all collapsed until you need to read it.",
+            "created": "Wed, 04 May 2022 13:38:14 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's a <a href=\"http://scripting.com/listings/oldschool.html\">read-only outline</a> listing of oldschool.js, the CMS that renders this blog. If you scroll down to <i>publishBlog</i> and expand it, you'll see a Changes sub-outline. Expand it to see the changes, and under each change are notes.",
+            "created": "Wed, 04 May 2022 13:59:11 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "This format goes all the way back to the 90s believe it or not when we started coding in an outliner in Frontier. It's the way to organize internal docs. And yes they are absolutely necessary if you plan to maintain and build on the code. ",
+            "created": "Wed, 04 May 2022 14:00:07 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
