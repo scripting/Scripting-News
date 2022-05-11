@@ -1,0 +1,133 @@
+{
+    "created": "2022-05-10T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "10",
+    "path": "2022/05/10",
+    "text": "May 10",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Super Block",
+            "created": "Tue, 10 May 2022 17:37:00 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Feature request for Twitter.",
+                    "created": "Tue, 10 May 2022 17:37:05 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Call it \"Super Block.\"",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Blocks anything posted by a person, and RTs of anything they posted. ",
+                    "created": "Tue, 10 May 2022 17:37:13 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Tricky part, I'd want screen shots of their posts to be blocked too.",
+                    "created": "Tue, 10 May 2022 17:37:21 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's as if the super-blocked person does not exist. ",
+                    "created": "Tue, 10 May 2022 17:37:28 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "None of us learned the real history of the United States in school",
+            "created": "Tue, 10 May 2022 16:33:10 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I've spent most of the last 1.5 years reading about slavery in the US, mostly from the perspective of descendants of slaves.",
+                    "created": "Tue, 10 May 2022 16:33:27 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'm not done yet. I think I could spend the rest of my life reading only about this, and with every book learn something important about my country that I never knew before. ",
+                    "created": "Tue, 10 May 2022 16:34:12 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'm now reading <a href=\"https://www.amazon.com/How-South-Won-Civil-War/dp/0190900903\">HCR's book</a> about slavery, it's from a very different perspective, that of a current-day (white) historian.",
+                    "created": "Tue, 10 May 2022 16:34:33 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I find this piece fits in nicely with the others I've read. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's the missing history book, the one we didn't read in school. None of us did, of no American generation. As far as I know, the truth about America has never been taught in an American school, to American kids.",
+                    "created": "Tue, 10 May 2022 16:35:14 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Never. And that means you got the wrong story as I did.",
+                    "created": "Tue, 10 May 2022 16:35:15 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And please don't assume you know what the story is. You can't and you don't.",
+                    "created": "Tue, 10 May 2022 16:35:34 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "An OPML-related project",
+            "created": "Tue, 10 May 2022 15:49:52 GMT",
+            "type": "outline",
+            "description": "I wanted a really good example of an OPML subscription list for my RSS-related project.",
+            "subs": [
+                {
+                    "text": "If you aren't into \"OPML\" and \"RSS\" you can skip this post. :smile:",
+                    "created": "Tue, 10 May 2022 15:59:55 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I have yet to organize all the bits going into my next project, the one I've been working on all year (so far). It doesn't even have a codename yet, which is unusual for me, I usually come up with them at the beginning. It will eventually have one. Anyway at this time I don't have a good place on GitHub to put the bits, the data and scripts, so I'll hang them off this post on my blog until a better place shows up. ",
+                    "created": "Tue, 10 May 2022 15:49:59 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I wanted a really good example of an OPML subscription list for the RSS-related project. The canonical example is the collection of feeds for the NY Times. They have them all assembled on a <a href=\"https://www.nytimes.com/rss\">single page</a>. I did a view source, and saw that it's good HTML. I selected the part of the HTML with the feed list, and opened it in an HTML source editor, and cleaned it up until it validated. ",
+                    "created": "Tue, 10 May 2022 15:51:09 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Then in \"Frontier\", I wrote a <a href=\"http://scripting.com/publicfolder/misc/nytFeedsOpmlList/frontierScriptSource.opml\">script</a> to read the file into an <a href=\"http://scripting.com/publicfolder/misc/nytFeedsOpmlList/scratchpad.nytstruct.fttb\">object database structure</a>, and then wrote a script to create a <a href=\"http://scripting.com/publicfolder/misc/nytFeedsOpmlList/flatlist.opml\">flat OPML subscription list</a> with the data. I opened the outline in \"Drummer\", and <a href=\"http://scripting.com/publicfolder/misc/nytFeedsOpmlList/nytFeeds.opml\">organized it</a> the way they have it organized on their site. I then opened the outline in my feed reader app and copied a few of the feeds from the NYT list, pasted them into the list for the test app, and it worked. :smile:",
+                    "created": "Tue, 10 May 2022 15:53:37 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Now we also have a current, complete and well-organized <a href=\"http://scripting.com/publicfolder/misc/nytFeedsOpmlList/nytFeeds.opml\">list</a> of the NYT feeds. It should prove useful in the work to come.",
+                    "created": "Tue, 10 May 2022 15:58:13 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Edward Hopper",
+            "created": "Tue, 10 May 2022 15:37:39 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2022/05/10/newYorkRestaurant.png",
+            "subs": [
+                {
+                    "text": "<a href=\"https://www.edwardhopper.net/new-york-restaurant.jsp\">New York Restaurant</a>, 1922.",
+                    "created": "Tue, 10 May 2022 15:37:42 GMT",
+                    "inlineImage": "http://scripting.com/images/2022/05/10/newYorkRestaurant.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
