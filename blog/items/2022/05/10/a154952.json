@@ -1,0 +1,34 @@
+{
+    "text": "An OPML-related project",
+    "created": "Tue, 10 May 2022 15:49:52 GMT",
+    "type": "outline",
+    "description": "I wanted a really good example of an OPML subscription list for my RSS-related project.",
+    "subs": [
+        {
+            "text": "If you aren't into \"OPML\" and \"RSS\" you can skip this post. :smile:",
+            "created": "Tue, 10 May 2022 15:59:55 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I have yet to organize all the bits going into my next project, the one I've been working on all year (so far). It doesn't even have a codename yet, which is unusual for me, I usually come up with them at the beginning. It will eventually have one. Anyway at this time I don't have a good place on GitHub to put the bits, the data and scripts, so I'll hang them off this post on my blog until a better place shows up. ",
+            "created": "Tue, 10 May 2022 15:49:59 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I wanted a really good example of an OPML subscription list for the RSS-related project. The canonical example is the collection of feeds for the NY Times. They have them all assembled on a <a href=\"https://www.nytimes.com/rss\">single page</a>. I did a view source, and saw that it's good HTML. I selected the part of the HTML with the feed list, and opened it in an HTML source editor, and cleaned it up until it validated. ",
+            "created": "Tue, 10 May 2022 15:51:09 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Then in \"Frontier\", I wrote a <a href=\"http://scripting.com/publicfolder/misc/nytFeedsOpmlList/frontierScriptSource.opml\">script</a> to read the file into an <a href=\"http://scripting.com/publicfolder/misc/nytFeedsOpmlList/scratchpad.nytstruct.fttb\">object database structure</a>, and then wrote a script to create a <a href=\"http://scripting.com/publicfolder/misc/nytFeedsOpmlList/flatlist.opml\">flat OPML subscription list</a> with the data. I opened the outline in \"Drummer\", and <a href=\"http://scripting.com/publicfolder/misc/nytFeedsOpmlList/nytFeeds.opml\">organized it</a> the way they have it organized on their site. I then opened the outline in my feed reader app and copied a few of the feeds from the NYT list, pasted them into the list for the test app, and it worked. :smile:",
+            "created": "Tue, 10 May 2022 15:53:37 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Now we also have a current, complete and well-organized <a href=\"http://scripting.com/publicfolder/misc/nytFeedsOpmlList/nytFeeds.opml\">list</a> of the NYT feeds. It should prove useful in the work to come.",
+            "created": "Tue, 10 May 2022 15:58:13 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
