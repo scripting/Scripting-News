@@ -1,0 +1,7 @@
+{
+    "text": "I would love to have a very simple XML viewer app. I have <a href=\"http://xmlviewer.scripting.com/?url=http://scripting.com/rss.xml\">one</a> that I don't like very much. The app would run in a web page or on a server (if so, must be a Node app). It takes a <i>url</i> parameter, displays the contents of the file, parsed and indented consistently, and uses the same display that <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/rss.xml\">GitHub uses</a> to display code, though it doesn't need any of the GH features, just the appearance. Horizontal scrolling, not wrapping text. I would use it in <a href=\"http://xmlviewer.scripting.com/?url=http://scripting.com/rss.xml\">my existing app</a>, with credit of course. I need this because my work requires me to look at XML files. And as far as I know there isn't a great way to do that, and given all the XML that's out there (web pages are XML, RSS feeds are XML) it would make sense to solve this problem well, as a very useful upgrade to the user experience of the web. Comments/questions <a href=\"https://github.com/scripting/Scripting-News/issues/234\">here</a>. ",
+    "created": "Wed, 11 May 2022 13:04:36 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2017/10/04/goldenGirl.png",
+    "flInCalendar": true
+}
