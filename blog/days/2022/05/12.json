@@ -1,0 +1,104 @@
+{
+    "created": "2022-05-12T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "12",
+    "path": "2022/05/12",
+    "text": "May 12",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Think of all the places you write and read. Why shouldn't all of them understand RSS, and in and out, where ever possible?",
+            "created": "Thu, 12 May 2022 16:57:01 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Twitter is like AT&T was in the 70s. Imagine trying to use the telephone in 1978 but you couldn't access AT&T's network. That's the role of Twitter in 2022.",
+            "created": "Thu, 12 May 2022 16:31:45 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"http://scripting.com/2022/05/09/021942.html?title=twitterPro\">Twitter Pro</a>, as I've described it <a href=\"http://scripting.com/2022/05/09/021942.html?title=twitterPro\">earlier</a>, would have a legitimate claim to the term \"Web3.\" Because this is what the web of 2022 is. It's basically a lot of tweets and blog posts. ;-)",
+            "created": "Thu, 12 May 2022 14:53:45 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Just guessing that the people who will force people to get abortions are the same people who won't wear a mask to protect others.  ",
+            "created": "Thu, 12 May 2022 13:06:53 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "OPML package update",
+            "created": "Thu, 12 May 2022 13:42:11 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "TL;DR -- there's a new <i>expandIncludes</i> function in the <a href=\"https://github.com/scripting/opmlPackage#v0424----51122-by-dw\">OPML package</a> for JavaScript.",
+                    "created": "Thu, 12 May 2022 14:11:10 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "As you know I'm working on a refresh of all the stuff I have related to \"RSS\", and part of that is the use of \"OPML\" for subscription lists. ",
+                    "created": "Thu, 12 May 2022 13:41:27 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A <a href=\"http://opml.org/spec2.opml#subscriptionLists\">subscription list</a> is an outline containing nodes of type <i>rss</i> that have an <i>xmlUrl</i> attribute that points to a feed. Even though the type is rss, it can be used to point to feeds in any format, including Atom and RDF. ",
+                    "created": "Thu, 12 May 2022 13:42:55 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The lists can contain anything else you like, feeds, docs, and they can include other subscription lists. ",
+                    "created": "Thu, 12 May 2022 13:43:55 GMT",
+                    "subs": [
+                        {
+                            "text": "Example: You could maintain a list of people you follow and plug that into your reader's subscription list, and also offer it to friends, where they could include it in their list. And because you're using pointers, when your list updates, your friends are automatically updated. ",
+                            "created": "Thu, 12 May 2022 14:06:13 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "To include a list in another, just insert a node of type <i>include, </i>with a <i>url</i> attribute that points to another OPML file which should include nodes of type <i>rss</i> and possibly other <i>include</i> nodes. ",
+                    "created": "Thu, 12 May 2022 13:55:33 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "They work like <a href=\"https://en.wikipedia.org/wiki/Include_directive#C/C++\">includes in C</a>, which is where the name came from. ",
+                    "created": "Thu, 12 May 2022 13:45:28 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Anyway, the new thing is that the <a href=\"https://www.npmjs.com/package/opml\">OPML package</a> now has an <a href=\"https://github.com/scripting/opmlPackage/blob/main/opmlpackage.js#L322\">expandIncludes</a> function that can be given an outline, in a JavaScript object, and it returns an outline with all the include nodes expanded. ",
+                    "created": "Thu, 12 May 2022 13:46:48 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I've had code that does this for decades in various environments. It's trivial in a language like C, Python, or Frontier -- any rational language that takes care of I/O under the hood, but it's a difficult problem in a language like JavaScript where you have to manage your own synchronization. This code first appeared in 2014 as part of PagePark, then moved to the daveopml package, and finally, today into the <a href=\"https://www.npmjs.com/package/opml\">opml package</a>. This is where it belongs, where everyone else can easily get to it. ",
+                    "created": "Thu, 12 May 2022 13:47:36 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The new version, 0.4.24 is <a href=\"https://github.com/scripting/opmlPackage\">on GitHub</a> and <a href=\"https://www.npmjs.com/package/opml\">in NPM</a>. There's a <a href=\"https://github.com/scripting/opmlPackage#v0424----51122-by-dw\">release note</a> and <a href=\"https://github.com/scripting/opmlPackage/tree/main/examples/includes\">example code</a> with an <a href=\"https://github.com/scripting/opmlPackage/blob/main/examples/includes/includes.opml\">OPML file</a> that illustrates. ",
+                    "created": "Thu, 12 May 2022 13:50:18 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If you have questions or comments post an <a href=\"https://github.com/scripting/opmlPackage/issues\">issue</a> in the repo.",
+                    "created": "Thu, 12 May 2022 13:50:53 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: This should also be useful in <a href=\"http://daytona.scripting.com/?q=Tools%20For%20Thought&collection=scriptingnews\">Tools For Thought</a> projects.",
+                    "created": "Thu, 12 May 2022 13:51:43 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
