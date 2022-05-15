@@ -1,0 +1,7 @@
+{
+    "text": "There was a time back in the early-mid 00s, that I hoped the <a href=\"http://daytona.scripting.com/?q=world%20outline&collection=scriptingnews\">World Outline</a> would be the future of the web. Much later, in 2015, I ported the World Outline software from Frontier running as a server, to Node.js, but I left the site private, probably because I wasn't planning to build in this direction, I just wanted to get some sites that were running in Frontier to work in Node. This morning some of my work led me to this software, and I saw that it was private, and <a href=\"https://github.com/scripting/worldOutline\">made it public</a>. Basically the <i>wo</i> is like the <i>www</i> except with outlines instead of HTML. You can of course render the outlines as HTML, and that's what the WO software does. Given all the interest in outliners these days, it seemed like a good time to open this stuff up. However at this point I don't plan to run the server software here. If you get it running, all I ask is that you continue to support OPML. Interop is everything. Thanks.",
+    "created": "Sat, 14 May 2022 16:46:40 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2022/05/14/beatles.png",
+    "flInCalendar": true
+}
