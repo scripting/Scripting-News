@@ -1,0 +1,43 @@
+{
+    "created": "2022-05-14T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "14",
+    "path": "2022/05/14",
+    "text": "May 14",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "If a baker may not be forced to bake a cake for a same-sex wedding on the basis of religious freedom, surely a woman can’t be forced to give birth. ",
+            "created": "Sat, 14 May 2022 18:28:22 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://en.wikipedia.org/wiki/Taylor_Lorenz\">Taylor Lorenz</a> gets a lot of shit, what else is new, that's what happens when you speak from a terrific pulpit, as she does -- she's a Washington Post columnist, before that was a reporter for the NY Times. If you go back far enough she was a blogger on Tumblr, so we feel pride, a local girl did good. And she adds a bit of open web, user-centric thought to everything. As a software developer, I see things the same way. I don't care how much money Zuck or Bezos or Musk have, like most journalists seem to, I care how empowered the users are, because that's how we will solve the problems of our world, by smart people who see things from important perspectives, who say what they see. Her <a href=\"https://wapo.st/3sBrFLS\">recent piece</a> in the WP is about a group of startups who want the big silos to make it easier for their users to migrate to other platforms. This is a hard problem both economically and technically, and I'm not sure the startups are sincere, it could be they only want the publicity. There are no details <a href=\"https://myfriendsmydata.org/\">on the website</a>, and a project like this is all about the details. Also VC-backed startups are the last devs I expect to go this route and I don't imagine if one of them is successful that they're going to rush to share their user lists with the others. The only way something like this can work is if they share a membership system from the start. And if they do that, and want credibility, there should be some non-VC open source devs in their group. One more thing, why not just use Twitter's identity system. It's got a great API, scales really well, and other devs (such as me) are using it that way. Instead of building my own identity system, I just use theirs. I have no interest in controlling my users, so it's a no-brainer. Sure the day could come when Twitter shuts off the API, but I could also get hit by a car riding my bike on a country road, or any number of other calamities.",
+            "created": "Sat, 14 May 2022 17:52:10 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2012/04/12/web.gif",
+            "flInCalendar": true
+        },
+        {
+            "text": "There was a time back in the early-mid 00s, that I hoped the <a href=\"http://daytona.scripting.com/?q=world%20outline&collection=scriptingnews\">World Outline</a> would be the future of the web. Much later, in 2015, I ported the World Outline software from Frontier running as a server, to Node.js, but I left the site private, probably because I wasn't planning to build in this direction, I just wanted to get some sites that were running in Frontier to work in Node. This morning some of my work led me to this software, and I saw that it was private, and <a href=\"https://github.com/scripting/worldOutline\">made it public</a>. Basically the <i>wo</i> is like the <i>www</i> except with outlines instead of HTML. You can of course render the outlines as HTML, and that's what the WO software does. Given all the interest in outliners these days, it seemed like a good time to open this stuff up. However at this point I don't plan to run the server software here. If you get it running, all I ask is that you continue to support OPML. Interop is everything. Thanks.",
+            "created": "Sat, 14 May 2022 16:46:40 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2022/05/14/beatles.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I was out driving the new Model Y with a fresh pizza on the passenger seat, rounded a corner and there was a fat turkey waddling across the road. Slammed the brakes. They work, but turkey keeps waddling as if nothing happened. Pizza mess on the floor of the new car. Where the Model 3 had the new car smell even six months after getting it, this car smells of pizza. Hey at least it was good pizza. Heh.",
+            "created": "Sat, 14 May 2022 14:22:27 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I think a lot of people on Twitter argue for fame. They want to be famous for having an idea first, whether or not they did have it first. I don't think I do that. I like setting precedent in software. But even there, I have a <a href=\"http://daytona.scripting.com/?q=Only%20steal%20from%20the%20best&collection=scriptingnews\">motto</a> -- \"Only steal from the best.\" My goal is to find ways to work with others so that the sum is greater than the parts. I think that's the challenge of our generation and all subsequent generations. We're not dealing with climate change, for example. We're losing our minds as a country in other ways, for example the decision the Supreme Court is contemplating. You know it's not going to work, it'll be as big a disaster as climate change, but we'll feel it right away. We can't connect enough so that the people who we've supposedly trusted for being wise to avoid jumping unnecessarily, with no possible gain, into an abyss that will certainly lead to war. It's that big a deal. At age 67, I don't have the same goals I had at 22. I'm not trying to set the world on fire, I'm trying nudge people into working with each other, even today's 22 year-olds. We should be giving out Nobel Prizes to people who find ways to work with others. That's the challenge for the human species, from now on, imho of course.",
+            "created": "Sat, 14 May 2022 14:01:02 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/05/15/accordionGuy.png",
+            "flInCalendar": true
+        }
+    ]
+}
