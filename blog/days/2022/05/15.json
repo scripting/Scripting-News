@@ -1,0 +1,35 @@
+{
+    "created": "2022-05-15T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "15",
+    "path": "2022/05/15",
+    "text": "May 15",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1525839800183431174\">Poll</a>: When does life begin?",
+            "created": "Sun, 15 May 2022 14:33:47 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "It was always possible to edit subscription lists in \"Drummer\", its native format is \"OPML\" which is the same format used for subscription lists for \"RSS\" applications, but a feature was added and a <a href=\"http://editsubscriptionlists.opml.org/\">howto written</a> that makes it easier. You can start with a list exported from your feed reader, or write one from scratch to import into your reader. ",
+            "created": "Sun, 15 May 2022 17:12:53 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/05/30/nancy.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've noticed my Spectrum bill inches up a few dollars every month. Not enough to make a stink about but it adds up. I have <a href=\"http://daytona.scripting.com/?q=StarLink&collection=scriptingnews\">StarLink</a> now, but haven't mounted the antenna well enough to get good connections, so I can't turn off Spectrum, yet. ;-)",
+            "created": "Sun, 15 May 2022 17:36:20 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Two Game 7s in the NBA playoffs today.  Uncle Davey will be watching TV.  The two games mean different things, to me at least. Either way, in the first game, one very deserving team will move forward and another very deserving team will go home. The other game will determine if future <a href=\"https://en.wikipedia.org/wiki/List_of_players_in_the_Naismith_Memorial_Basketball_Hall_of_Fame\">Hall of Famer</a> <a href=\"https://en.wikipedia.org/wiki/Chris_Paul\">Chris Paul</a> will get another shot at the championship, or if he's forever banished to being a great player who never got there. You get a sense this, at age 37, is his last shot. There's no shame in that, he has lots of company.",
+            "created": "Sun, 15 May 2022 17:16:21 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
