@@ -1,0 +1,6 @@
+{
+    "text": "Today I wrote a Node app that reads an OPML subscription list, loops over all the feeds and only passes on the ones that are reachable and parseable. Yes, I plan to share the code, because it's useful and also good example code for reading and writing lists, and reading feeds. ",
+    "created": "Tue, 17 May 2022 16:49:04 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
