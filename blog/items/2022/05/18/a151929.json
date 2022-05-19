@@ -1,0 +1,6 @@
+{
+    "text": "Yesterday I wrote about a <a href=\"https://github.com/scripting/subscriptionListCleanup/blob/main/subscriptionlistcleanup.js\">utility</a> that takes an OPML list of RSS feeds and validates them. Only feeds that can be read and are parseable are added to the OPML file it creates. It's what I use to clean up old lists before putting them in a database. I can see from where I'm going next that I won't be swinging back this way for a bit, so I thought it was better to <a href=\"https://github.com/scripting/subscriptionListCleanup/blob/main/subscriptionlistcleanup.js\">point</a> to it now, in case people could use it. Important: It's a programmer's utility and meant to be example code. You have to be a JavaScript programmer to use it. If you have questions, post a comment in this <a href=\"https://github.com/scripting/subscriptionListCleanup/issues/1\">issue thread</a>. ",
+    "created": "Wed, 18 May 2022 15:19:29 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
