@@ -1,0 +1,154 @@
+{
+    "created": "2022-05-20T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "20",
+    "path": "2022/05/20",
+    "text": "May 20",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "One my favorite things to tweet is that <a href=\"https://twitter.com/davewiner/status/1527786609491464192\">there are No Nets fans</a>, and wait for a Nets fan to show up and flame me. It never happens. I think even the Clippers must have some fans in NYC, or the Expos, but I can honestly say I've never met a Nets fan. ",
+            "created": "Sat, 21 May 2022 00:45:40 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's amazing that senators like Susan Collins expect an extrordinary level of <a href=\"https://twitter.com/brianbeutler/status/1527656326142345216\">service</a> when they have given their (necessary!) approval to four SC justices who they had to know were part of the open-but-deniable plot to dismantle the Constitution, starting with voting rights, and foreign money in our elections, and the latest offense the overturn of Roe. Collins plays on our assumption that grandmothers who appear kindly are more likely to be fooled than shifty. She milks that for all it's worth. Obviously if someone rises to her level of the Republican Party, a multi-term senator from a <a href=\"https://en.wikipedia.org/wiki/Red_states_and_blue_states\">blue state</a>, her reliable vote for Republican atrocities gets her a lot of deference, and we know it. ",
+            "created": "Fri, 20 May 2022 14:27:09 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2022/05/20/collins.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "One of the most important principles in programming is that you want to expose problems in code when you're working on it. The more time between when you did the work and when you find the problem, the more impossible it's going to be to implement a good fix. It's analogous to finding a flaw in the design of something buried under the foundation of a skyscraper, long after the whole building has been constructed. ",
+            "created": "Fri, 20 May 2022 13:32:02 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "An example, after shipping Drummer in October of last year, immediately a <a href=\"http://scripting.com/2021/10/24.html#a142126\">design flaw</a> in <a href=\"http://daytona.scripting.com/?q=old%20school&collection=scriptingnews\">Old School</a> popped up. It was written in 2017. The fix required raising the structure and building in another layer below a previously middle layer of the onion, <a href=\"http://daytona.scripting.com/?q=rule%201&collection=scriptingnews\">without breaking</a> anything. The job got done, but it was incredibly stressful. Required the moral support of a few users spread all over the world (that was the nature of the problem). ",
+            "created": "Sat, 21 May 2022 00:36:01 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/03/31/mcCartneyAbbeyRoad.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm seeing this principle today because I'm adapting an app I wrote in 2020 to a new environment. I'm getting to fix problems in this code that would have been very difficult to fix if I weren't doing a complete from-the-ground-up rebuild. And there are no users of this stuff, so no compatibility to preserve. It's one of the reasons that an app doesn't really get done right until you fully implement it for the third or fourth time. ",
+            "created": "Fri, 20 May 2022 13:37:25 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Is this why Musk got cold feet?",
+            "created": "Fri, 20 May 2022 18:49:38 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2022/05/20/muskWavingGoodbye.png",
+            "description": "Musk and his partners are squeezed in a hard-to-have-foreseen way. ",
+            "subs": [
+                {
+                    "text": "Why is Musk trying to pull out of the Twitter deal?",
+                    "created": "Fri, 20 May 2022 19:16:53 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I don't think it has much to do with how many bots are using Twitter, or whether Democrats are assholes, or even that Musk did or didn't show his dick to a stewardess. I think what really matters is what's happening to Tesla stock, and with it, Musk's wealth.",
+                    "created": "Fri, 20 May 2022 18:59:37 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here are some facts.",
+                    "created": "Fri, 20 May 2022 19:00:46 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Musk sent his acquisition offer to Twitter on <a href=\"https://qz.com/2167563/an-annotated-history-of-elon-musk-buying-twitter/\">April 13</a>. ",
+                            "created": "Fri, 20 May 2022 18:49:49 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "On that day <a href=\"https://www.google.com/search?q=%24tsla\">Tesla stock</a> was trading at $1022.37 per share.",
+                            "created": "Fri, 20 May 2022 18:50:39 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Today Tesla is selling for $645. That's about a 37% drop. ",
+                            "created": "Fri, 20 May 2022 18:51:30 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I don't know for sure, but I'd guess that Musk and his partners are all borrowing to buy Twitter. They certainly don't want to sell stock to raise the money to buy Twitter because that would be a taxable event. And if you take out a loan with your stock as collateral, you don't have to sell the stock, so -- no taxes. It's how rich people buy things. Even not-so-rich people do it. A moderately wealthy person who could afford to pay cash for a house, probably would just take out a loan, to avoid paying taxes. ",
+                    "created": "Fri, 20 May 2022 18:52:52 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But the huge drop in Tesla stock, and whatever stocks Larry Ellison is borrowing against to raise the money for his part of the deal, means that the bankers who are lending against that stock as collateral will want more stock. No problem you say, they all have lots of stock. But maybe he's already used that stock as collateral on other loans? Who knows how much of a stretch this is for Musk. He might not have enough stock to do the deal now. But he signed the deal, so.. ",
+                    "created": "Fri, 20 May 2022 19:04:43 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://www.google.com/search?q=%24tsla\">$TSLA</a> before and after April 13.",
+                    "created": "Fri, 20 May 2022 19:28:08 GMT",
+                    "inlineImage": "http://scripting.com/images/2022/05/20/tsla.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Musk and his partners are squeezed in a hard-to-have-foreseen way. The deal has become more expensive and harder to do. And maybe the market \"correction\" isn't done yet. Maybe Tesla will be worth half what it was, or less?",
+                    "created": "Fri, 20 May 2022 18:54:57 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "BTW, if you want to get an idea of what this is like, season one of <a href=\"https://en.wikipedia.org/wiki/Succession_(TV_series)#Season_1_(2018)\">Succession</a> has the young Kendall Roy in a similar bind. :smile:",
+                    "created": "Fri, 20 May 2022 19:07:34 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Unless the market and $TSLA recover quickly this downturn is hitting Musk a lot harder than it would have if he had not done the Twitter deal. But he did, so he's kind of fucked, or so it seems. ",
+                    "created": "Fri, 20 May 2022 18:56:53 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Listen to your enemies",
+            "created": "Fri, 20 May 2022 13:09:54 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I find sometimes my mind isn't open to learning, much to my detriment, I've learned. ",
+                    "created": "Fri, 20 May 2022 13:10:00 GMT",
+                    "image": "http://scripting.com/images/2022/05/20/theRules.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Suppose there was a public figure you loathed, say their name was X, and one day you see in a book entitled \"X's plan for world domination.\"",
+                    "created": "Fri, 20 May 2022 13:10:16 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I would buy the book right away, without a second thought, and read it cover to cover. I would want to know exactly what's on this person's mind. At least I hope I would!",
+                    "created": "Fri, 20 May 2022 13:10:42 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But I find that often I turn away from gifts like this.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This is a note to remind myself not to do that. ;-)",
+                    "created": "Fri, 20 May 2022 13:11:03 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'll give you an example. I was telling a friend about a girlfriend who I had just broken up with. They said it sounds like she's playing <a href=\"https://en.wikipedia.org/wiki/The_Rules\">The Rules</a>. He explained it was a book that was the rage, I had never heard of it. I got the book, it was a quick read, and I think my friend was right. In the future I knew what to watch out for.",
+                    "created": "Fri, 20 May 2022 13:11:04 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
