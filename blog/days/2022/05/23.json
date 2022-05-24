@@ -1,0 +1,56 @@
+{
+    "created": "2022-05-23T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "23",
+    "path": "2022/05/23",
+    "text": "May 23",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "We now have a list of <a href=\"http://opml.org/compatibleApps.opml\">OPML-compatible apps</a>. It's a beginning, there are a bunch of apps that are not on the list. It's not just for editors, you can use OPML to pass outlines to apps that render outlines, for example, as a blog (that's Old School). There will be more of those.  BTW, of course the <a href=\"http://opml.org/compatibleApps.opml\">list</a> is an outline, and the <a href=\"http://opml.org/compatibleApps.opml?format=opml\">OPML version</a> is public, so you should be able to open it in any of the apps on the list. ",
+            "created": "Mon, 23 May 2022 21:22:01 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/09/02/mrFrog.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Ending Roe v Wade will end the United States. The world is built around reproductive freedom, led by the United States. A country that repeals such a fundamental right no longer is, imho, the United States. Where we go from there I don't know. But if we're going to have a civil war, reproductive freedom would be a good cause.",
+            "created": "Mon, 23 May 2022 14:18:27 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "\"Web3\" is as if there was a new band called Beatles 3, and they didn't play music or write songs, they just held up instruments and said \"It would be great if we knew what these were.\"",
+            "created": "Mon, 23 May 2022 12:59:55 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Davos is happening now, the first one since Covid started. The message at this year's Davos seems to be \"You didn't understand the web and it made mega billions. So here's a new web, called \"Web3\" -- you don't understand it, of course (frankly neither do we) but this time you must invest so <i>you</i> make the billions!\" <a href=\"https://www.cnbc.com/2018/01/19/who-are-davos-man-and-davos-woman.html\">They</a> will love it. ",
+            "created": "Mon, 23 May 2022 13:17:49 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, if \"Web3\" turns out to live up to its name, I will take all this back. I've been wrong before. But so far I've not gotten an idea of how this thing is a new version of the web, and I believe I fully understand what the web is. I'd love to see a one-page description of how you develop apps for this supposed successor to the web. ",
+            "created": "Mon, 23 May 2022 13:16:39 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Georges Seurat",
+            "created": "Mon, 23 May 2022 21:32:51 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2022/05/23/horseAndCart.png",
+            "subs": [
+                {
+                    "text": "<a href=\"https://www.wikiart.org/en/georges-seurat/horse-cart-1884\">Horse and cart</a>, 1884.",
+                    "created": "Mon, 23 May 2022 21:33:24 GMT",
+                    "inlineImage": "http://scripting.com/images/2022/05/23/horseAndCart.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
