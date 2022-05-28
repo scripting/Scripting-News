@@ -1,0 +1,43 @@
+{
+    "text": "Outliners I have loved",
+    "created": "Fri, 27 May 2022 13:30:51 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Tfthacker started a <a href=\"https://twitter.com/TfTHacker/status/1529930101470773272\">thread</a> on Twitter where he lists all the outliners he's used starting with <a href=\"http://outliners.scripting.com/more11c.html\">MORE</a>. ",
+            "created": "Fri, 27 May 2022 13:27:50 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The first one was a program editor I did on Unix for C programmers in 1977. I started with the source for a Unix line-oriented editor called YALOE and added dive and surface commands (left and right square brackets) for navigating the hierarchy, and commands to restructure the outline. I'm not sure this app even had a name. It had a language parser built in, so it could take bits of code and turn it into an outline structure. ",
+            "created": "Fri, 27 May 2022 13:49:24 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "When I showed the app to some of my friends who were not programmers, one of them asked if they could use it, which set me off in a different direction, an outliner that had nothing to do with programming. The result was High Files, which also had a simple tabular database. Outlines could be cells in a database table, and tables could be contained within outlines. When I had that running, I moved from Madison to Mountain View, and did a deal with Personal Software for the outliner. It was hard to fit that app into 64K on an Apple II, but eventually we did, by then they had a big hit in VisiCalc, and they gave me back the product, and a settlement, and I spent the next few years doing online bulletin-board software. I was totally fascinated with using computer as networking tools. ",
+            "created": "Fri, 27 May 2022 13:31:54 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The rest of the story is pretty well told in my <a href=\"http://scripting.com/dwiner/outlinersProgramming.html\">Outliners & Programming</a> piece, up until I started work on \"Frontier\", which is a scripting environment build around an object database, and where everything is an outline. ",
+            "created": "Fri, 27 May 2022 13:34:39 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "For more info see <a href=\"http://outliners.com/\">outliners.com</a>, where I've archived these apps. Hopefully some of the code is still runnable. :smile:",
+            "created": "Fri, 27 May 2022 13:35:51 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "My latest outliner is \"Drummer\", which is the outliner I use today for writing my blog and docs. For writing code I use the \"OPML Editor\", which is a distribution of Frontier designed to boot up as an outliner. I can't recommend it unfortunately because it only runs on old versions of the Mac OS. It was also available on Windows, not sure if that version still works, probably like the Mac version, it does, only if you have an older version of Windows around.",
+            "created": "Fri, 27 May 2022 13:36:28 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I plan to bring the code-management features in the OPML Editor to Drummer, at which point I will be able to do everything on Linux, which I look forward to. ",
+            "created": "Fri, 27 May 2022 13:38:11 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
