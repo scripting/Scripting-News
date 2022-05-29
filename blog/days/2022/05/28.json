@@ -1,0 +1,109 @@
+{
+    "created": "2022-05-28T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "28",
+    "path": "2022/05/28",
+    "text": "May 28",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/espn/status/1298476250709635072\">Doc Rivers</a>: “We keep loving this country and this country doesn’t love us back.”",
+            "created": "Sat, 28 May 2022 15:21:16 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Today I learned that <a href=\"https://en.wikipedia.org/wiki/Todd_Rundgren\">Todd Rundgren</a> engineered <a href=\"https://en.wikipedia.org/wiki/Stage_Fright_(album)\">Stage Fright</a> by The Band. One of the best albums of all time imho. ",
+            "created": "Sun, 29 May 2022 03:37:33 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Drummer is here now",
+            "created": "Sat, 28 May 2022 17:01:22 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Sometimes people tell me they wish they could try <a href=\"http://outliners.scripting.com/more11c.html\">MORE</a> because they hear such nice things about it. ",
+                    "created": "Sat, 28 May 2022 17:01:28 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But MORE was made in the 1980s on machines that had limited memory, storage and networking. And it was a long long time ago and software has progressed a lot since then.",
+                    "created": "Sat, 28 May 2022 17:01:42 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But they can use the outliner I made in 2021. I know it doesn't have all the features MORE had, but it has a lot of stuff MORE didn't. It's like saying (with proper humility) that <a href=\"https://en.wikipedia.org/wiki/Abbey_Road\">Abbey Road</a> doesn't include <a href=\"https://www.youtube.com/watch?v=kfSQkZuIx84\">Drive My Car</a> or <a href=\"https://www.youtube.com/watch?v=uLRiGX3L-kw\">Lady Madonna</a>.",
+                    "created": "Sat, 28 May 2022 17:02:09 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "\"Drummer\" is here now. Why not give it a try? :smile:",
+                    "created": "Sat, 28 May 2022 17:02:30 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Cleaning up the feeds",
+            "created": "Sat, 28 May 2022 16:14:38 GMT",
+            "type": "outline",
+            "description": "In 2022 feeds still work, that's the good news. The bad news is that the feeds have same junk in them that web pages do.",
+            "subs": [
+                {
+                    "text": "It's not really a secret that I'm working on a new feed reader. ",
+                    "created": "Sat, 28 May 2022 16:10:00 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's part of a top-to-bottom review of the feed ecosystem, almost 20 years after <a href=\"https://cyber.harvard.edu/rss/rss.html\">RSS 2.0</a>. ",
+                    "created": "Sat, 28 May 2022 16:52:57 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So here's where we're at in 2022: ",
+                    "created": "Sat, 28 May 2022 16:29:58 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Feeds still work, that's the good news. ",
+                            "created": "Sat, 28 May 2022 16:40:57 GMT",
+                            "isComment": "false",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "The bad news is that feeds have same junk in them as web pages. Spyware. Advertising. Stuff that's meant to call your attention to their stuff, and take it away from the other stuff. The problem is this -- as a reader I want these things to calm down and just let me skim, to decide what I want to read. That's the design, that's how feeds were meant to work, imho. ",
+                            "created": "Sat, 28 May 2022 16:41:05 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So the question is what to do about the noise? Here's the plan. As with all my previous aggregators, I'm stripping the markup to provide a quiet reading environment. But I'm putting back the features I want, linking, bold and italic, by allowing the feed to provide the Markdown source of the post. If it's present, we'll use that to render the item in the reader, not the <i>description</i> element. ",
+                    "created": "Sat, 28 May 2022 16:30:57 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's an <a href=\"https://gist.github.com/scripting/85d4404b90b7bca59a24d77f0266acfe\">example</a> of a feed item that include the source of the post in Markdown.  ",
+                    "created": "Sun, 29 May 2022 03:10:51 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "That's it. I think an elegant solution. One of the nice things about Markdown is it lets through the stuff we want, and doesn't let through the stuff we don't. Right? :rocket:",
+                    "created": "Sat, 28 May 2022 16:37:15 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Basically the feeds can keep doing what they want, no problem -- but we'll just take the text. And if they want to add a link that we'll see, they can use Markdown. ",
+                    "created": "Sat, 28 May 2022 16:38:32 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
