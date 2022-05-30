@@ -1,0 +1,61 @@
+{
+    "text": "The source namespace",
+    "created": "Sun, 29 May 2022 15:22:37 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "It's been almost 20 years since \"RSS 2.0\" was done. ",
+            "created": "Sun, 29 May 2022 15:22:41 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "In the meantime, I kept using RSS in my software. And when I wanted to add something to the format, I did what the spec asked of us -- I used a namespace. I just used one and put everything I added into it. It's called the source namespace. ",
+            "created": "Sun, 29 May 2022 15:23:09 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Most of the items in the <a href=\"http://source.scripting.com/\">source namespace</a> can be grouped into three categories:",
+            "created": "Sun, 29 May 2022 15:25:40 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "Nice things to have, conveniences. Connect a feed to a social network, view the build date in the local time of the feed. Provide the full URL of an item if the &lt;link> value is a shortened URL.",
+                    "created": "Sun, 29 May 2022 15:26:43 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Experiments that didn't go anywhere (at least not yet). A way of linking an individual feed to its archive so you can create a history of your feeds. The idea of a <i>Likes</i> server. ",
+                    "created": "Sun, 29 May 2022 15:27:00 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Providing the source code for an item, acknowledging that people sometimes use tools to generate HTML code in the &lt;description> element of an item. ",
+                    "created": "Sun, 29 May 2022 15:27:37 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "The most important group is the last one, and it's what the namespace is named after. ",
+            "created": "Sun, 29 May 2022 15:34:33 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "For example, suppose you're editing a post in a \"Markdown\" editor. You'd include the encoded HTML in the &lt;description> element of the item, and the Markdown source that generated the item in the &lt;source:markdown> element. That way if the feed reader understood Markdown it could use that to generate the text it displays. ",
+            "created": "Sun, 29 May 2022 15:34:52 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "There is also a &lt;source:outline> element that does the same thing if you used an outliner to write the post. In that case the structure maps directly onto OPML. ",
+            "created": "Sun, 29 May 2022 15:36:43 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Caveat -- there may be other elements that I haven't documented. When discovered they will be documented. ",
+            "created": "Sun, 29 May 2022 15:32:48 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
