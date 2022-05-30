@@ -1,0 +1,35 @@
+{
+    "text": "An example",
+    "created": "Sun, 29 May 2022 17:02:31 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "A small outline within a blog post, represented as &lt;source:outline> element in the RSS feed to be used in some docs. ",
+            "created": "Sun, 29 May 2022 17:02:41 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Three colors",
+            "created": "Sun, 29 May 2022 17:03:09 GMT",
+            "subs": [
+                {
+                    "text": "Red",
+                    "created": "Sun, 29 May 2022 17:03:27 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Green",
+                    "created": "Sun, 29 May 2022 17:03:28 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Blue",
+                    "created": "Sun, 29 May 2022 17:03:30 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
