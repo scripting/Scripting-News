@@ -1,0 +1,130 @@
+{
+    "created": "2022-05-29T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "29",
+    "path": "2022/05/29",
+    "text": "May 29",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "It's going to be an epic NBA Finals with Golden State making a comeback to face the <a href=\"https://www.nytimes.com/2022/05/29/sports/boston-celtics-miami-heat-game-7-nba-finals.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuomT1JKd6J17Vw1cRCfTTMQmqxCdw_PIxftm3iWka3DIDmwTiP8NBJKc4ADHYrF_YN121DmfWN5KK_oqRfV3z6pfMkVxDgahp5bBx9EDKSxwp4O1V2ctmZLRWLRyuRnbUl6EEsYtjruuo0DBdzGqHfyOjCE8dwhno5Y0IlG1jHEOlLPCEuN-xtl_jq8-UpAtRzgFN3WNuqW5GAw-bIvdFmzU6AEwX-9ZXSiC3oLPruJdL3gBTA7OX3h94m0j6d9DOtpxPaz3LRIoesKWkqxGQyUzb9_vX8ttMtCSw7Z6srfNqgiOz962z5g0FqZVuLDFsgWqJRtxDhY941ICwrx8poiUKI8&smid=url-share\">new hot team</a> from the east the Boston Celtics.",
+            "created": "Mon, 30 May 2022 03:33:55 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Alec Baldwin's <a href=\"https://podcasts.apple.com/us/podcast/todd-rundgren-his-music-and-psychonautics/id472939437?i=1000563433071\">interview</a> with Todd Rundgren.  Lots of interesting stuff, wish it had been longer.",
+            "created": "Sun, 29 May 2022 22:30:40 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm so Alexa-addicted that I talk to her in places she isn't. Makes me wonder three things. 1. Why is there no Alexa with a built-in battery? (Yes I know others make them, I bought one, but it sucked and I returned it). 2. How long before there's an Alexa implant? 3. When will Alexa start teaching Peloton classes?",
+            "created": "Sun, 29 May 2022 22:25:13 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Why shouldn't we resume normal life while Covid is raging. It's the norm for our species. Ignore oncoming calamities. Fall back to religion. Put on blinders. In a way it makes sense. There's nothing any of us can do. Others seem to have made their choice. I'm just one person.",
+            "created": "Sun, 29 May 2022 15:54:38 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The source namespace",
+            "created": "Sun, 29 May 2022 15:22:37 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "It's been almost 20 years since \"RSS 2.0\" was done. ",
+                    "created": "Sun, 29 May 2022 15:22:41 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "In the meantime, I kept using RSS in my software. And when I wanted to add something to the format, I did what the spec asked of us -- I used a namespace. I just used one and put everything I added into it. It's called the source namespace. ",
+                    "created": "Sun, 29 May 2022 15:23:09 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Most of the items in the <a href=\"http://source.scripting.com/\">source namespace</a> can be grouped into three categories:",
+                    "created": "Sun, 29 May 2022 15:25:40 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Nice things to have, conveniences. Connect a feed to a social network, view the build date in the local time of the feed. Provide the full URL of an item if the &lt;link> value is a shortened URL.",
+                            "created": "Sun, 29 May 2022 15:26:43 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Experiments that didn't go anywhere (at least not yet). A way of linking an individual feed to its archive so you can create a history of your feeds. The idea of a <i>Likes</i> server. ",
+                            "created": "Sun, 29 May 2022 15:27:00 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Providing the source code for an item, acknowledging that people sometimes use tools to generate HTML code in the &lt;description> element of an item. ",
+                            "created": "Sun, 29 May 2022 15:27:37 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The most important group is the last one, and it's what the namespace is named after. ",
+                    "created": "Sun, 29 May 2022 15:34:33 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "For example, suppose you're editing a post in a \"Markdown\" editor. You'd include the encoded HTML in the &lt;description> element of the item, and the Markdown source that generated the item in the &lt;source:markdown> element. That way if the feed reader understood Markdown it could use that to generate the text it displays. ",
+                    "created": "Sun, 29 May 2022 15:34:52 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "There is also a &lt;source:outline> element that does the same thing if you used an outliner to write the post. In that case the structure maps directly onto OPML. ",
+                    "created": "Sun, 29 May 2022 15:36:43 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Caveat -- there may be other elements that I haven't documented. When discovered they will be documented. ",
+                    "created": "Sun, 29 May 2022 15:32:48 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "An example",
+            "created": "Sun, 29 May 2022 17:02:31 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "A small outline within a blog post, represented as &lt;source:outline> element in the RSS feed to be used in some docs. ",
+                    "created": "Sun, 29 May 2022 17:02:41 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Three colors",
+                    "created": "Sun, 29 May 2022 17:03:09 GMT",
+                    "subs": [
+                        {
+                            "text": "Red",
+                            "created": "Sun, 29 May 2022 17:03:27 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Green",
+                            "created": "Sun, 29 May 2022 17:03:28 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Blue",
+                            "created": "Sun, 29 May 2022 17:03:30 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
