@@ -1,0 +1,116 @@
+{
+    "created": "2022-05-31T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "31",
+    "path": "2022/05/31",
+    "text": "May 31",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Now that <a href=\"https://www.google.com/search?q=crypto+is+crashing\">crypto is crashing</a>, can we expect the over-invested icons of tech, after making all kinds of grandiose proclamations of world domination (did they believe their own hype) may now be using what's left of their credibility to try to undermine the life savings of people who didn't fall for the crypto <a href=\"https://en.wikipedia.org/wiki/Ponzi_scheme\">Ponzi scheme</a>. I always thought <a href=\"https://en.wikipedia.org/wiki/Jack_Dorsey\">Jack Dorsey</a> was a nice guy who got lucky, but maybe he's as bad as the worst of the <a href=\"https://finance.yahoo.com/news/dogecoin-co-creator-calls-elon-082330556.html\">grifters</a>, or maybe he's a little guy kissing up, hoping to be part of the big boys club? In any case, this is a <a href=\"https://twitter.com/jack/status/1531348351291113476\">real low point</a> for Dorsey. If he wants to hold onto his credibility, he'd explain <i>why</i> he thinks the dollar is no longer the <a href=\"https://en.wikipedia.org/wiki/Reserve_currency\">reserve currency</a>. Instead he says it in Trumpian or Muskie way. Ugh. ",
+            "created": "Tue, 31 May 2022 13:53:16 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2022/05/31/dogeCoin.png",
+            "imageLink": "https://finance.yahoo.com/news/dogecoin-co-creator-calls-elon-082330556.html",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1531652148840235009\">Thread</a>: Journalism has some explaining to do, for example, about the crisis caused by Cambridge Analytica.",
+            "created": "Tue, 31 May 2022 15:12:53 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "This morning it's already over 80F so I guess it's fair to say winter is finally over for real?",
+            "created": "Tue, 31 May 2022 13:42:03 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Twitter API could be better",
+            "created": "Tue, 31 May 2022 19:50:48 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "One of the things Facebook does better than Twitter is the way they write browser-based JS modules as their API instead of server-based APIs. ",
+                    "created": "Tue, 31 May 2022 19:50:59 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "That way:",
+                    "created": "Tue, 31 May 2022 19:51:17 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "The API is <i>much</i> simpler.",
+                            "created": "Tue, 31 May 2022 19:51:18 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I don't have to run a server as an intermediary.",
+                            "created": "Tue, 31 May 2022 19:51:31 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "The uptake of new APIs would be faster.",
+                            "created": "Tue, 31 May 2022 19:51:33 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "In April 2014, I spent a month developing glue that would connect my browser-based apps to Twitter. I figured it would take a month to do the same with Facebook, but it took a couple of days because they had done all the work I had to do myself for Twitter. The idea is to factor out the things every app has to do and distribute it as JS code they can call when their app boots up. You don't even have to load the code yourself, it takes care of that too. ",
+                    "created": "Tue, 31 May 2022 19:51:52 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Someone at FB was tasked with making it easier and they did a great job. Now I'd <i>love</i> to see Twitter do the same. Happy to help. ",
+                    "created": "Tue, 31 May 2022 19:54:08 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "We must understand their deaths",
+            "created": "Tue, 31 May 2022 17:54:07 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I read the Washington Post <a href=\"https://wapo.st/3M2gTVN\">account</a> (free link) of what happened while the cops refused to go into the building, little glimpses of the hell the kids went through before dying. They knew they were dying, and it just went on and on. ",
+                    "created": "Tue, 31 May 2022 17:56:02 GMT",
+                    "subs": [
+                        {
+                            "text": "<i>“Good night,” Ramos said, before shooting and killing a teacher.</i>",
+                            "created": "Tue, 31 May 2022 17:58:10 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "We should all know more about what went on in there, because it'll give us a better of sense of what the hell we're making kids go through, small people, who we supposedly love, who have their whole lives in front of them, have done absolutely nothing wrong, who were just being kids.",
+                    "created": "Tue, 31 May 2022 18:01:50 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And that they have to die alone, some having just watched their friends die, with their freshly killed, bloody and mutilated corpses in the room with them.",
+                    "created": "Tue, 31 May 2022 18:03:14 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The full extent of it should be understood by everyone who is alive. ",
+                    "created": "Tue, 31 May 2022 17:55:32 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "No one needs a gun that can kill 19 children and 2 teachers.",
+                    "created": "Tue, 31 May 2022 18:03:45 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
