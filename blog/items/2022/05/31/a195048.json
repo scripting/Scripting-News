@@ -1,0 +1,46 @@
+{
+    "text": "Twitter API could be better",
+    "created": "Tue, 31 May 2022 19:50:48 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "One of the things Facebook does better than Twitter is the way they write browser-based JS modules as their API instead of server-based APIs. ",
+            "created": "Tue, 31 May 2022 19:50:59 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "That way:",
+            "created": "Tue, 31 May 2022 19:51:17 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "The API is <i>much</i> simpler.",
+                    "created": "Tue, 31 May 2022 19:51:18 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I don't have to run a server as an intermediary.",
+                    "created": "Tue, 31 May 2022 19:51:31 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The uptake of new APIs would be faster.",
+                    "created": "Tue, 31 May 2022 19:51:33 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "In April 2014, I spent a month developing glue that would connect my browser-based apps to Twitter. I figured it would take a month to do the same with Facebook, but it took a couple of days because they had done all the work I had to do myself for Twitter. The idea is to factor out the things every app has to do and distribute it as JS code they can call when their app boots up. You don't even have to load the code yourself, it takes care of that too. ",
+            "created": "Tue, 31 May 2022 19:51:52 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Someone at FB was tasked with making it easier and they did a great job. Now I'd <i>love</i> to see Twitter do the same. Happy to help. ",
+            "created": "Tue, 31 May 2022 19:54:08 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
