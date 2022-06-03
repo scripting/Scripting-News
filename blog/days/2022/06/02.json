@@ -1,0 +1,57 @@
+{
+    "created": "2022-06-02T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "02",
+    "path": "2022/06/02",
+    "text": "June 02",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I connected with people on Twitter's developer relations team today. They had a conference call that I dialed into, and the conversation turned to my big wish for the Twitter API, that we organize the API so that from a browser-based app you can communicate directly with twitter.com, without having to run a server app as an intermediary. This has always been a big opportunity, but now there's communication. I've been developing apps using the Twitter API since 2006. There's lots of <a href=\"http://scripting.com/2014/07/07/comparingApis.html\">potential</a> here, and their back-end is an incredible network resource. Lots to do here. Here's my <a href=\"https://twitter.com/davewiner/status/1532382742851244034\">followup thread</a> posted earlier today. ",
+            "created": "Thu, 02 Jun 2022 22:35:23 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/06/14/strongman.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Today the NYT says I have <a href=\"http://scripting.com/images/2022/06/02/freeGifts.png\">4 gift articles</a> left this month. <a href=\"http://scripting.com/2022/06/01.html#a215313\">Yesterday</a> it was 3. I don't get how this is supposed to work. ",
+            "created": "Thu, 02 Jun 2022 18:47:39 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm trying to get a new Mac OS partition set up for VMWare and nothing is working as it should. Just installing Chrome on the new instance is fraught with problems. I've never seen anything like this. Click the mouse somewhere, the thing 19 pixels down from it gets selected. <a href=\"http://scripting.com/images/2022/06/02/crazyChromeOnVMWare.png\">Chrome's display</a> is all garbled and nothing I click on works. ",
+            "created": "Thu, 02 Jun 2022 16:06:20 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Open source thread.center?",
+            "created": "Thu, 02 Jun 2022 12:48:20 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I'm thinking about releasing \"thread.center\" as open source.",
+                    "created": "Thu, 02 Jun 2022 12:48:33 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It was the first browser-based Twitter app I wrote back in 2014 so it's really simple internally.",
+                    "created": "Thu, 02 Jun 2022 12:48:51 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It was called <a href=\"https://www.google.com/search?q=site%3Ascripting.com+%22little+pork+chop%22\">Little Pork Chop</a> back then. :smile:",
+                    "created": "Thu, 02 Jun 2022 12:50:26 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If you think it's a good idea <a href=\"https://twitter.com/davewiner/status/1532339713713000448\">let me know</a>. Esp if you're a developer or aspiring developer.",
+                    "created": "Thu, 02 Jun 2022 12:49:11 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
