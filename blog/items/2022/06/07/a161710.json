@@ -1,0 +1,46 @@
+{
+    "text": "A Twitter hello world app",
+    "created": "Tue, 07 Jun 2022 16:17:10 GMT",
+    "type": "outline",
+    "description": "How I envision Twitter's backend working for developers.",
+    "subs": [
+        {
+            "text": "I was <a href=\"http://scripting.com/2022/06/02.html#a223523\">thinking</a> for a while about what would be the best way to illustrate the opportunity in factoring the Twitter API, so that developers wouldn't have to run a server to create browser-based apps. ",
+            "created": "Tue, 07 Jun 2022 16:12:56 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/06/14/strongman.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I was thinking of maybe releasing the source for <a href=\"http://thread.center/\">thread.center</a> or <a href=\"http://happyfriends.camp/\">happy.friends</a>, or another of the many Twitter utilities I've written over the years. I still might do that, but I decided for now to go another way, by writing the simplest program possible, an app that just posts a tweet that says <a href=\"https://en.wikipedia.org/wiki/%22Hello,_World!%22_program\">Hello World</a>. ",
+            "created": "Tue, 07 Jun 2022 16:42:25 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "So here's the <a href=\"https://github.com/scripting/twitterHelloWorld\">source code</a> of the app. It's separated into two folders, <a href=\"https://github.com/scripting/twitterHelloWorld/tree/main/server\">server</a> and <a href=\"https://github.com/scripting/twitterHelloWorld/tree/main/client\">client</a>. ",
+            "created": "Tue, 07 Jun 2022 16:32:11 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "You can <a href=\"http://twitterhello.scripting.com/\">run it here</a>. I am running an instance of the server on one of my machines. ",
+            "created": "Tue, 07 Jun 2022 16:32:42 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "This is how I envision Twitter's backend working for developers. Just include the functionality in the <a href=\"https://github.com/scripting/twitterHelloWorld/tree/main/server\">Hello World server</a> in Twitter's server. Why should every developer have to write the same code, and run a server? All I want to do is write and run something quickly to try an idea out. And if it becomes popular, I won't have the skill or resources to scale my server, when Twitter is already scaling their server, and my server is doing nothing but communicating with Twitter's. A perfect opportunity for factoring. ",
+            "created": "Tue, 07 Jun 2022 16:32:55 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Obviously such a backend would have to do more than post a Hello World tweet. That's not hard to do -- I've <a href=\"https://www.npmjs.com/package/davetwitter\">done it</a> and am happy to share the code. I think that Twitter is an excellent platform for developers, and it would be much better if it got even simpler. ",
+            "created": "Tue, 07 Jun 2022 16:33:53 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you have any questions, I've started a <a href=\"https://github.com/scripting/twitterHelloWorld/issues/2\">thread here</a>. ",
+            "created": "Tue, 07 Jun 2022 16:40:05 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
