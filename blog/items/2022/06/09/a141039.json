@@ -1,0 +1,6 @@
+{
+    "text": "I've <a href=\"https://github.com/scripting/Scripting-News/issues/234\">asked</a> about getting something like the code-displayer on GitHub to use in a package. I think I found one today, <a href=\"https://highlightjs.org/static/demo/\">highlight.js</a>. It's not exactly the style of the display on GitHub (<a href=\"https://github.com/scripting/tweets.opml.org/blob/main/users/davewiner/2022/06.json\">example</a>), but it does provide syntax coloring which is one of the basic features. I want it for an app I'm doing to display the result of converting an RSS feed to JSON. I want it to look good, for devs to immediately understand what they're looking at. ",
+    "created": "Thu, 09 Jun 2022 14:10:39 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
