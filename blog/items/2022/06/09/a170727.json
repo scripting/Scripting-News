@@ -1,0 +1,7 @@
+{
+    "text": "I'm happy to report that finally there's a reasonable app running at <a href=\"http://xmlviewer.scripting.com/?url=http://scripting.com/rss.xml\">xmlviewer.scripting.com</a>. I used the <a href=\"https://ace.c9.io/\">Ace Editor</a> in read-only mode to view the contents of the XML file provided as the <i>url</i> parameter. If no URL is provided I show the <a href=\"http://scripting.com/rss.xml\">RSS feed</a> for Scripting News (my blog). There are still a couple of problems, at least, with the vertical and horizontal scrollbars. Ace has a great community and everything in the software is configurable, but I've had trouble at times putting it all together. I'll swing back to this at some point, but in the meantime what's <a href=\"http://scripting.com/images/2022/06/09/xmlViewerToday.png\">there now</a> is far more useful that what's been there <a href=\"http://scripting.com/stories/2011/02/25/viewingRssInABrowser.html\">since 2011</a>. ",
+    "created": "Thu, 09 Jun 2022 17:07:27 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2022/06/09/sanders.png",
+    "flInCalendar": true
+}
