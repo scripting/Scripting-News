@@ -1,0 +1,24 @@
+{
+    "created": "2022-06-10T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "10",
+    "path": "2022/06/10",
+    "text": "June 10",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Early podcasts on YouTube? <a href=\"https://www.youtube.com/watch?v=yZoUers8RwM\">This is an experiment</a>. I used an <a href=\"https://tovid.io/\">online tool</a> to convert the MP3 for a podcast interview Chris Lydon did in July 2003, with me -- to a video, I'm not sure if they added any advertising to it, so I'm posting it here for people to listen to and get feedback on, before proceeding with the rest.",
+            "created": "Fri, 10 Jun 2022 16:46:35 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=yZoUers8RwM",
+            "flInCalendar": true
+        },
+        {
+            "text": "Hey the January 6 committee is <a href=\"https://twitter.com/January6thCmte/status/1535082372030414861\">using Twitter</a> in a smart way.",
+            "created": "Fri, 10 Jun 2022 15:45:48 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/January6thCmte/status/1535082372030414861",
+            "flInCalendar": true
+        }
+    ]
+}
