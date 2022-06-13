@@ -1,0 +1,54 @@
+{
+    "created": "2022-06-12T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "12",
+    "path": "2022/06/12",
+    "text": "June 12",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "The twenty-year review of \"RSS 2.0\" is now officially underway, with the release of the \"reallysimple\" package. I know not many people are paying attention yet, but this is the beginning of a new stack of open source feed tools. By the time we get to Sept 18, a nice new <a href=\"https://en.wikipedia.org/wiki/Barn_raising\">barn</a> should be raised, and RSS can begin its second twenty years with some of the broken windows fixed and a fresh coat of paint.",
+            "created": "Mon, 13 Jun 2022 02:19:09 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/09/14/rssCoffeeCup.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I was talking with a friend from Brazil, he told me that <a href=\"https://en.wikipedia.org/wiki/Slavery_in_Brazil\">Brazil had slavery</a> too. I thought it was a uniquely American thing. ",
+            "created": "Sun, 12 Jun 2022 20:09:04 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/feeder\">Feeder</a> is a server app that connects to \"reallysimple\" via the web. ",
+            "created": "Sun, 12 Jun 2022 16:31:15 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://www.youtube.com/watch?v=j7L1bvP0dQc\">Video demo</a> of RSS feeds in Drummer.",
+            "created": "Sun, 12 Jun 2022 16:22:05 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=j7L1bvP0dQc",
+            "flInCalendar": true
+        },
+        {
+            "text": "Calling tech products <i>web3</i> or <i>web5</i> is a billionaire's way of pissing on everyone else in the usual territorial way. As if to say \"we can shit on the biggest open standard ever, and there's nothing you can do.\" Maybe so, but we don't have to buy what you're selling.",
+            "created": "Sun, 12 Jun 2022 15:30:52 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Why not come up with a Bitcoin where <a href=\"https://en.wikipedia.org/wiki/Proof_of_work\">proof-of-work</a> feeds starving people or at least only uses energy from renewable sources.",
+            "created": "Sun, 12 Jun 2022 15:20:45 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, this is what a <a href=\"http://feeder.scripting.com/returnjson?url=https://rss.nytimes.com/services/xml/rss/nyt/Theater.xml\">reallysimplified feed</a> looks like. :smile:",
+            "created": "Mon, 13 Jun 2022 02:49:39 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
