@@ -1,0 +1,42 @@
+{
+    "created": "2022-06-13T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "13",
+    "path": "2022/06/13",
+    "text": "June 13",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://www.youtube.com/watch?v=fCEvIiY0mR4\">Coinbase ad</a> says crypto is not actually dead.",
+            "created": "Tue, 14 Jun 2022 03:45:10 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=fCEvIiY0mR4",
+            "flInCalendar": true
+        },
+        {
+            "text": "Billy Joel wrote a <a href=\"https://www.youtube.com/watch?v=lmUrJ_el-SM&t=33s\">song</a> about Liz Cheney.",
+            "created": "Mon, 13 Jun 2022 16:58:48 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=lmUrJ_el-SM",
+            "flInCalendar": true
+        },
+        {
+            "text": "Ted Nelson is fine, I hear, via friends who have his number. :smile:",
+            "created": "Mon, 13 Jun 2022 15:47:02 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Ted Nelson was a mentor for all developers of my generation. We studied his book and were both thrilled to find other people thought the same way we were thinking, before we came along, and pissed (a little) that we weren't the great inventors we imagined ourselves to be. I wrote a <a href=\"http://scripting.com/davenet/1995/06/19/thehypertextman.html#1\">piece</a> about Nelson in 1995. \"He saw the complete picture when I was only getting a glimpse at the parts.\"",
+            "created": "Mon, 13 Jun 2022 13:20:01 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I <a href=\"https://web.archive.org/web/20210702051912/http://scripting.com/images/2017/12/16/ComputerLibDreamMachines1stEdition.pdf\">saved</a> a <a href=\"http://scripting.com/images/2017/12/16/ComputerLibDreamMachines1stEdition.pdf\">PDF</a> of Nelson's Computer Lib/Dream Machines. ",
+            "created": "Mon, 13 Jun 2022 14:15:24 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
