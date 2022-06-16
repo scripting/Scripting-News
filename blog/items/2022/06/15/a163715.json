@@ -1,0 +1,6 @@
+{
+    "text": "I added a new feature to the \"reallysimple\" package. Now it looks for an <a href=\"https://stackoverflow.com/questions/48138258/how-do-you-add-atomlink-with-rel-self-to-an-rss-document\">atom:link</a> head-level element with rel=\"self\" and if it's present, it then adds the <i>href</i> value to the feed object with the name <i>linkToSelf.</i> Here's an example of a feed, <a href=\"https://blog.docuverse.com/feed/\">Don Park's blog</a>, that has this element, and here's <a href=\"http://feeder.scripting.com/returnjson?url=https://blog.docuverse.com/feed/\">what reallysimple generates</a>. I felt it was good to include this because this use of atom:link is pretty common, and I wanted to make a gesture, that this isn't about supporting any single feed format, rather it's about supporting what's out there and useful. ",
+    "created": "Wed, 15 Jun 2022 16:37:15 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
