@@ -1,0 +1,6 @@
+{
+    "text": "I had broken the mailbox template for the feeder app. It's back. Here's a <a href=\"http://feeder.scripting.com/?template=mailbox&feedurl=https%3A%2F%2Fadamsinger.substack.com%2Ffeed\">demo</a>. I'm also making sure that we don't break urls as we go along and I change things. For example, this is a <a href=\"http://feeder.scripting.com/returnmailbox?url=http://scripting.com/rss.xml\">request</a> that changed in two ways. It should still work, getting us a mailbox view of the feed for this blog. I'm probably the only person who cares about this. :smile:",
+    "created": "Wed, 22 Jun 2022 13:47:01 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
