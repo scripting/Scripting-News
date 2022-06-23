@@ -1,0 +1,39 @@
+{
+    "text": "Mailbox-style readers",
+    "created": "Wed, 22 Jun 2022 15:46:07 GMT",
+    "type": "outline",
+    "description": "Some feeds look good in mailbox-style readers, but many don't.",
+    "subs": [
+        {
+            "text": "Have you noticed how some feeds look great in a mailbox-style reader while others don't. For example, <a href=\"http://feeder.scripting.com/?template=mailbox&feedurl=https%3A%2F%2Ffallows.substack.com%2Ffeed\">feeds from Substack</a> are <a href=\"http://feeder.scripting.com/?template=mailbox&feedurl=https%3A%2F%2Fadamsinger.substack.com%2Ffeed\">good</a> in mailbox readers because their items are full-text titled essays. But <a href=\"http://feeder.scripting.com/?template=mailbox&feedurl=http%3A%2F%2Fnytimes.com%2Ftimeswire%2Ffeeds%2F\">NYT feeds look terrible</a> in mailbox readers, as <a href=\"http://feeder.scripting.com/?template=mailbox&feedurl=http%3A%2F%2Fscripting.com%2Frss.xml\">does Scripting News</a>. ",
+            "created": "Wed, 22 Jun 2022 15:32:13 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The mailbox reader, which was popularized by <a href=\"http://scripting.com/2022/03/12/154157.html?title=googleReaderNineYearsLater\">Google Reader</a>, is designed for titled full-text feeds. The NYT has titles on its feed items, but not full text, just a synopsis. There's so much <a href=\"http://scripting.com/images/2022/06/22/wastedSpace.png\">wasted space</a> in the display. It feels unbalanced. I like whitespace, but that's not what this is. ",
+            "created": "Wed, 22 Jun 2022 15:47:25 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The incredibly useful <a href=\"http://feeder.scripting.com/?template=mailbox&feedurl=https://news.ycombinator.com/rss\">Hacker News feed</a> looks pretty weird in a mailbox-style reader. ",
+            "created": "Wed, 22 Jun 2022 16:03:53 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "In <a href=\"http://feeder.scripting.com/?template=mailbox&feedurl=http://scripting.com/rss.xml\">my feed</a>, and feeds of <a href=\"http://docserver.scripting.com/drummer/blogging.opml\">Drummer blogs</a>, some posts have titles, but most don't. A mailbox reader can't deal with untitled posts, I've given up on trying to make it work, it just doesn't.",
+            "created": "Wed, 22 Jun 2022 15:46:54 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The NYT and Scripting work much better in a river-style display, which is the pattern that Twitter and Facebook use, as examples. ",
+            "created": "Wed, 22 Jun 2022 15:47:51 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The bottom line: We have to move away from mailbox-only feed readers. Mailboxes are great when the items are like email messages. But that's far from all there is. We have to try out new ideas, lots of them. And to do that I'm making it easier to try new ideas out. :boom:",
+            "created": "Wed, 22 Jun 2022 15:57:56 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
