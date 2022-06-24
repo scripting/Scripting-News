@@ -1,0 +1,54 @@
+{
+    "created": "2022-06-23T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "23",
+    "path": "2022/06/23",
+    "text": "June 23",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://www.youtube.com/watch?v=SM_HNRp20cc\">Video demo</a> of writing a Twitter thread in the \"Drummer\" outliner. ",
+            "created": "Thu, 23 Jun 2022 16:33:14 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=SM_HNRp20cc",
+            "flInCalendar": true
+        },
+        {
+            "text": "If my mother, may she rest in peace, knew I was going to <a href=\"https://twitter.com/technology/status/1540059882342203392\">use her voice</a>, after death, to give orders to, I think she would've <a href=\"http://eve.scripting.com/\">kvetched</a> about how her life sucks, and will suck even worse after she's dead, oy. But she probably would have bought more Amazon stock. ",
+            "created": "Thu, 23 Jun 2022 22:27:15 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/feeder/blob/main/docs/templates.md#the-jsonify-feed-template\">A new feed template</a>. Here's the <a href=\"http://feeder.scripting.com/?template=jsonify&feedurl=http://scripting.com/rss.xml\">demo</a>. It displays the \"reallysimple\" version of the feed for my blog, in an outline browser. It's good for sniffing around and seeing what's what. ",
+            "created": "Thu, 23 Jun 2022 15:35:49 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The US should site license <a href=\"https://www.audible.com/pd/Allow-Me-to-Retort-Audiobook/B09TCG7PMK\">this book</a>. I learned so much from it. ",
+            "created": "Thu, 23 Jun 2022 17:02:24 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": " I'm going to try an experiment, following <a href=\"http://feeder.scripting.com/?template=mailbox&feedurl=https%3A%2F%2Fwww.scotusblog.com%2Ffeed%2F\">SCOTUSblog</a> today in my mailbox-style reader.",
+            "created": "Thu, 23 Jun 2022 13:53:53 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I wish sports teams cared more about the fans, and tried to understand what fans get from sports. The last couple of years have been good for the Knicks, not because they got anywhere near a championship, they didn't -- but they had a group of exciting players that we fell in love with. I don't want to follow Quickley or Toppin if they're playing for some other team. I want them in Knicks uniforms, for years to come. In 2012 I wanted to root for Jeremy Lin and his supporting cast for at least two or three years, but Knicks management broke up the team before the beginning of the next season. I guess that like all industries they mainly care what their peers think, and they have narrow and mostly wrong ideas about what the fans care about. ",
+            "created": "Thu, 23 Jun 2022 13:39:19 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2022/05/30/quickley.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://www.youtube.com/watch?v=vmoYpJIUWhY&t=45s\">Marge Gunderson</a>: \"There's more to live than a little money.\"",
+            "created": "Thu, 23 Jun 2022 22:41:04 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
