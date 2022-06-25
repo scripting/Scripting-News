@@ -1,0 +1,29 @@
+{
+    "text": "Everything else",
+    "created": "Fri, 24 Jun 2022 21:55:02 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Developers: Have you been following the work on the \"reallysimple\" package and feeder.scripting.com? I'm interested in developer-level feedback. I'm about to move on, and haven't heard much back. Eventually there will be a set of blocks that can be used to build all parts of a feed reading and writing system. What we're doing now is the lowest level of the stack. A good place to start is the <a href=\"https://github.com/scripting/feeder/blob/main/README.md\">readme</a> for the feeder app, which is the current top level of the reallysimple stack. Try giving it some feeds you know, maybe even your own, and see what it give you back. Also the docs for <a href=\"https://github.com/scripting/feeder/blob/main/docs/templates.md\">feeder templates</a>, another building block. If you have questions, I've started a <a href=\"https://github.com/scripting/reallysimple/issues/4\">thread here</a>.",
+            "created": "Fri, 24 Jun 2022 15:01:51 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/09/14/rssCoffeeCup.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1539923588941287424\">Poll</a>: Is the pandemic over? Mostly no.",
+            "created": "Fri, 24 Jun 2022 13:39:38 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1539923588941287424",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1540080598219472898\">Poll</a>: Beatles or Rolling Stones? Mostly Beatles.",
+            "created": "Fri, 24 Jun 2022 13:37:34 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1540080598219472898",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
