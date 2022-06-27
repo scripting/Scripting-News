@@ -1,0 +1,112 @@
+{
+    "created": "2022-06-26T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "26",
+    "path": "2022/06/26",
+    "text": "June 26",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "May I suggest listening to yesterday's <a href=\"http://scripting.com/2022/06/25/dontWasteAGoodCrisis.m4a\">podcast</a>. It's full of timely stories, and reason to hope that now we will do what we've been putting off since the end of the Civil War. In the podcast I reference Bruce Sterling's <a href=\"http://scripting.com/stories/2009/10/21/bruceSterlingAtReboot.html\">talk</a> in Copenhagen in 2009 and Elie Mystal's book about the Constitution which I strongly urge you to get and <a href=\"https://www.amazon.com/Allow-Me-Retort-Black-Constitution/dp/1620976811\">read</a> or (preferred) <a href=\"https://www.amazon.com/Allow-Me-Retort-Black-Constitution/dp/B09TCGZSDN/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=\">listen to</a>.",
+            "created": "Sun, 26 Jun 2022 14:52:09 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2022/06/25/dontWasteAGoodCrisis.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "12686181",
+            "image": "http://scripting.com/images/2019/06/14/bowling.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "An old fashioned general strike may be needed, so that the Supreme Court can feel the power of the country they are fucking with. Shut it down for a day or two.",
+            "created": "Sun, 26 Jun 2022 15:36:06 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A dollar spent today tagging every single Republican with the new abortion situation is worth $100 spent after November. They will find a way to wiggle out of this if they don't get tagged, hard, right now.",
+            "created": "Sun, 26 Jun 2022 16:18:13 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://www.youtube.com/watch?v=yuBe93FMiJc&t=32s\">1976</a>: \"You have meddled with the primal forces of nature <a href=\"https://en.wikipedia.org/wiki/Howard_Beale_(Network)\">Mr Beale</a> and I won't have it.\"",
+            "created": "Sun, 26 Jun 2022 16:28:11 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "As usual the journalism focus is on the horse race. The people insist that the focus be on them. ",
+            "created": "Sun, 26 Jun 2022 15:06:56 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "An analog for software",
+            "created": "Sun, 26 Jun 2022 20:49:20 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "This is a perfect analog for the software we develop. We strive to make it simple, but under the covers the simpler it is the harder it is to master. After a while you can't add more functionality without breaking it every time you make a change. So the challenge to make more powerful software is to invent ways to simplify what's going on behind the user interface.",
+                    "created": "Sun, 26 Jun 2022 20:51:11 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Simple user interface, complexity behind the scenes.",
+                    "created": "Sun, 26 Jun 2022 20:49:54 GMT",
+                    "inlineImage": "http://scripting.com/images/2022/06/26/analogForSoftware.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Note: This illustration came from a <a href=\"https://twitter.com/SharadBishnoi05/status/1540552557856161792\">tweet</a> by <a href=\"https://twitter.com/SharadBishnoi05\">Sharad Bishnoi</a>. ",
+                    "created": "Sun, 26 Jun 2022 20:52:09 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Draft for a petition",
+            "created": "Sun, 26 Jun 2022 18:03:06 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Whereas the Supreme Court of the United States is out of control and doing serious damage to the country...",
+                    "created": "Sun, 26 Jun 2022 18:03:15 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "We demand that President Biden and Congress pass legislation to increase the number of Supreme Court justices to 13, effective immediately.",
+                            "created": "Sun, 26 Jun 2022 18:03:20 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "We demand that President Biden must nominate, and the Senate must confirm the four justices immediately, in time to mitigate the damage to the country being caused by the current Republican majority on the court. ",
+                            "created": "Sun, 26 Jun 2022 18:03:21 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If the President won't make these changes we demand that he resign and let the current Vice-President take his place.",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "A favorite memeogram",
+            "created": "Sun, 26 Jun 2022 20:54:25 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "One of my favorite \"Little Card Editor\" memeograms. ",
+                    "created": "Sun, 26 Jun 2022 15:32:45 GMT",
+                    "inlineImage": "http://scripting.com/images/2022/06/26/helloWorld.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
