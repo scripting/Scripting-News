@@ -1,0 +1,28 @@
+{
+    "created": "2022-07-02T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "02",
+    "path": "2022/07/02",
+    "text": "July 02",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=drGx7JkFSp4\">Sisters are Doing it for Themselves</a>. ",
+            "created": "Sat, 02 Jul 2022 19:55:12 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The problem with the <a href=\"https://en.wikipedia.org/wiki/Dobbs_v._Jackson_Women%27s_Health_Organization\">Supreme Court decision</a> is that while the Constitution doesn’t specifically name abortion as a right, in order to implement a ban on abortion a state will have to violate all kinds of other rights that <i>are</i> specifically mentioned in the US Constitution and probably the state constitution as well.",
+            "created": "Sat, 02 Jul 2022 20:05:47 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "New <a href=\"https://github.com/scripting/reallysimple/blob/main/worknotes.md#7222-by-dw----v0412\">version</a> of the <a href=\"https://github.com/scripting/reallysimple\">reallySimple package</a> adds a <i>reader</i> section to the returned object. The <a href=\"http://feeder.scripting.com/returnjson?feedurl=https%3A%2F%2Frss.nytimes.com%2Fservices%2Fxml%2Frss%2Fnyt%2FTheater.xml\">feeder app</a> has been updated. ",
+            "created": "Sat, 02 Jul 2022 17:42:52 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
