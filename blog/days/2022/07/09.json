@@ -1,0 +1,54 @@
+{
+    "created": "2022-07-09T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "09",
+    "path": "2022/07/09",
+    "text": "July 09",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Paul McCartney <a href=\"https://twitter.com/BeatlesEarth/status/1545812243543113728\">covering</a> “That’s All Right” with Elvis’ original band.",
+            "created": "Sat, 09 Jul 2022 16:56:20 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/BeatlesEarth/status/1545812243543113728",
+            "flInCalendar": true
+        },
+        {
+            "text": "After too many years working in JavaScript, and being comfortable somewhat with the way it makes you write your algorithms as if you lived in a dimension with no concept of time, I see why I like to close the lid on major code modules and know that I can never look in there again unless I'm willing to figure out how the pieces fit together all over again. Programming in C was sooo much easier, and yet it has the rep of being more difficult. No matter, it is what it is. It's like playing baseball in a really weird park like Fenway. Or maybe it's like skiing on a mountain on a planet wtih no gravity?",
+            "created": "Sat, 09 Jul 2022 15:58:17 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/07/26/stayPuft.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "You don't have to carry a fetus if you don't want to.",
+            "created": "Sat, 09 Jul 2022 21:27:27 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Shea Stadium Rules",
+            "created": "Sat, 09 Jul 2022 21:18:00 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "My mother and I used to fight all the time. About the stupidest things. Then one day when we were going to a Mets game at Shea Stadium she's giving me shit about something. So I just stop and say hold on. Not here. Here we're on the same team. I made up a new slogan -- Shea Stadium Rules. No bullshit while we're focused on the one thing in the world we truly agree on. The New York Mets. She agreed. Because it was true. When it came to the Mets nothing was more important. ",
+                    "created": "Sat, 09 Jul 2022 21:18:08 GMT",
+                    "image": "http://scripting.com/images/2022/07/09/mrMet.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Occasionally I'd invoke Shea Stadium Rules in other places, esp since they tore down Shea Stadium, something I totally didn't approve of (does the Catholic Church tear down the Vatican to add a couple of skyboxes? Of course not).",
+                    "created": "Sat, 09 Jul 2022 21:19:23 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: This is not the first time I've written about <a href=\"http://scripting.com/stories/2009/11/27/sheaStadiumRules.html\">Shea Stadium Rules</a>.",
+                    "created": "Sat, 09 Jul 2022 21:23:27 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
