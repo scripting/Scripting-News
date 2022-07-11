@@ -1,0 +1,69 @@
+{
+    "created": "2022-07-10T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "10",
+    "path": "2022/07/10",
+    "text": "July 10",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=uvA1grwbdNg\">Can't Let Go</a>.",
+            "created": "Mon, 11 Jul 2022 01:37:11 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=uvA1grwbdNg",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm spending this year re-learning what I know about \"RSS\" and feed tech. The more I view the landscape the more I see a tragedy that no one listened to each other, no one worked together.",
+            "created": "Sun, 10 Jul 2022 15:54:38 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2022/07/10/sarahSquirm.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Open standards are precious when they come about and should be protected. We've been around this many times. Microsoft would have done better if they had let the web grow around them without trying to own it. The same  will be learned by Spotify re podcasting. ",
+            "created": "Sun, 10 Jul 2022 16:49:59 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I have one of these fancy <a href=\"https://www.amazon.com/Echo-Studio/dp/B07G9Y3ZMC\">Echo Studio</a> things and I swear it can <a href=\"https://en.wikipedia.org/wiki/Ventriloquism\">throw its voice</a> to appear to come from all different parts of the room. How the hell does it do that. ",
+            "created": "Mon, 11 Jul 2022 01:48:53 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Comet",
+            "created": "Sun, 10 Jul 2022 16:53:25 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Comet it makes your mouth turn green.",
+                    "created": "Sun, 10 Jul 2022 16:53:41 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Comet it tastes like gasoline.",
+                    "created": "Sun, 10 Jul 2022 16:53:46 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Comet will make you vomit.",
+                    "created": "Sun, 10 Jul 2022 16:53:48 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So buy some Comet and vomit today.",
+                    "created": "Sun, 10 Jul 2022 16:53:51 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: This is a <a href=\"https://en.wikipedia.org/wiki/Comet_(song)\">real song</a>, we used to sing it for some reason when we were kids.",
+                    "created": "Sun, 10 Jul 2022 16:57:57 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
