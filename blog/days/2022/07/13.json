@@ -1,0 +1,119 @@
+{
+    "created": "2022-07-13T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "13",
+    "path": "2022/07/13",
+    "text": "July 13",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "It just occurred to me that the way I collect domains is like an NFT, and wondered if the markets they use for NFTs would work better for buying and selling domains.",
+            "created": "Wed, 13 Jul 2022 21:58:36 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I noticed that <a href=\"https://twitter.com/TwitterDev/status/1546615344780914688\">Twitter promotes</a> a <a href=\"https://www.tweepy.org/\">Python toolkit</a> for API support. I have a <a href=\"https://www.npmjs.com/package/davetwitter\">package</a> for Node.js, and it does a lot of extra stuff, like merging Twitter threads into a single tweet. I also have <a href=\"https://github.com/scripting/docServer/blob/main/docs/pages/twitter.md#\">Twitter support</a> in the scripting language in <a href=\"http://docserver.scripting.com/drummer/scripting.opml\">Drummer</a> and that's even easier.",
+            "created": "Wed, 13 Jul 2022 16:04:46 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Medium in the rear-view",
+            "created": "Wed, 13 Jul 2022 13:47:29 GMT",
+            "type": "outline",
+            "description": "Medium is no longer the default place of for-the-record-writing on the net. ",
+            "metaImage": "http://scripting.com/images/2022/07/13/carselfie.png",
+            "subs": [
+                {
+                    "text": "People are writing their summaries of Medium's accomplishments today, because yesterday Evan Williams announced he was <a href=\"https://mediagazer.com/220712/p14#a220712p14\">stepping down</a> as CEO to start an R&D company. Here are the ones I've seen people mention. ",
+                    "created": "Wed, 13 Jul 2022 13:47:36 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Clean look.",
+                            "created": "Wed, 13 Jul 2022 13:48:05 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "You don't have to start a blog to write a post.",
+                            "created": "Wed, 13 Jul 2022 13:48:19 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Authors have a way to make money.",
+                            "created": "Wed, 13 Jul 2022 13:48:31 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "No argument with the first item. Design was always its big thing. It was designed by someone who understood writing and reading on the web. That's the thing that made it stand out in 2012 when it started, and now its ethos has been absorbed by designers everywhere and that was good positive contribution to web design. ",
+                    "created": "Wed, 13 Jul 2022 13:51:12 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Not having to start a blog is mainly a matter of how they present it. You don't have to give your space a name. Maybe that is an impediment for writers. As a designer myself, I'm taking note. ;-)",
+                    "created": "Wed, 13 Jul 2022 13:52:45 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "About making money, I think that was the fatal flaw of Medium. The thing that no one could relax about for a moment. It was always judged on those terms. I didn't think it was achievable ten years ago, and I don't think it's achievable today. Writing publicly on the net is about something other than being paid as a writer and funding a public writing space as Williams and Medium's outside investors did, shouldn't depend on whether Medium makes money. I just don't understand why someone who's worth as much money as Williams cares in the slightest whether his new (in 2012) blogging system made money. He didn't care if Blogger made money a few years earlier when he was broke! Now that he has an infinite amount of money all of a sudden he cares about making money? I don't know. Doesn't make any sense to me. It's okay to make software just because you love to make software, even if making money is not the motive.",
+                    "created": "Wed, 13 Jul 2022 13:53:51 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So now Substack has taken Medium's place as the default place of for-the-record-writing, and once again they've tied a business model to public writing, and that will make them do all kinds of contortions to restrict the movement of their writers and eventually readers, because at some point their investors will want to know how they're getting paid. And of course investors have every right to expect to make money, that's why they invested. ",
+                    "created": "Wed, 13 Jul 2022 13:58:45 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "One time around this loop. ",
+                    "created": "Wed, 13 Jul 2022 14:00:17 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "At some point, I hope the default place of for-the-record-writing is an easily cloneable system that supports <a href=\"http://scripting.com/2022/07/12/170955.html?title=twowayRss\">Two-way RSS</a> then we can all relax and wish them the best, and see it as a good thing for the flow of ideas on the net. But as long as these systems are tied to the expectations of VCs, we will never get there. ",
+                    "created": "Wed, 13 Jul 2022 14:25:28 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: Maybe one of the foundations would support an open, cloneable and free place of for-the-record-writing to once and for all remove the business model from this important societal function?",
+                    "created": "Wed, 13 Jul 2022 14:17:51 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<b>Medium as the place-of-record</b>",
+                    "created": "Wed, 13 Jul 2022 15:04:27 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I talk about default place-of-record writing in this piece, something that everyone knows about but I haven't seen people write about. ",
+                    "created": "Wed, 13 Jul 2022 15:05:07 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "When you want to get something on the record, people still use Medium, but it's not the only place. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I knew something was out of whack when the President of the United States, Barack Obama, <a href=\"https://medium.com/@ObamaWhiteHouse/president-obama-addresses-the-nation-on-keeping-the-american-people-safe-b4cfa8a0f143\">used</a> it for that purpose. The taxpayers gave him a great <a href=\"https://www.whitehouse.gov/\">site</a> for that. He should have used it. Archives is something the US government knows a lot about, and the United States itself is a lot more long-lived that a struggling Silicon Valley startup.",
+                    "created": "Wed, 13 Jul 2022 15:05:36 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I knew something weird was happening when <a href=\"https://en.wikipedia.org/wiki/Dean_Baquet\">Dean Baquet</a>, the Executive Editor of the New York Times, wrote a <a href=\"https://www.google.com/search?q=site%3Amedium.com+Dean+Bacquet%2C+the+Executive+Editor+of+the+New+York+Times%2C+wrote+a+Medium+post&rlz=1C5CHFA_enUS743US747&sxsrf=ALiCzsbJrF7zqIeZsYzxJM16xR5mMiIXrA%3A1657739233902&ei=4RfPYq3VNuaJptQP18mY8Ao&ved=0ahUKEwjtyarxx_b4AhXmhIkEHdckBq4Q4dUDCA4&uact=5&oq=site%3Amedium.com+Dean+Bacquet%2C+the+Executive+Editor+of+the+New+York+Times%2C+wrote+a+Medium+post&gs_lcp=Cgdnd3Mtd2l6EAM6BAgAEEc6BwgAEEcQsAM6CggAEEcQsAMQyQM6CggAEOQCELADGAFKBAhBGABKBAhGGAFQ_jtYkVxg9V1oAnACeACAAWuIAZ4JkgEEMTYuMZgBAKABAcgBDcABAdoBBggBEAEYCQ&sclient=gws-wiz\">Medium post</a> about some newsroom controversy. I guess the <a href=\"https://en.wikipedia.org/wiki/The_New_York_Times\">Grey Lady</a> wasn't a good enough <a href=\"https://en.wikipedia.org/wiki/Newspaper_of_record\">place-of-record</a>? ",
+                    "created": "Wed, 13 Jul 2022 15:06:23 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The default place-of-record on the web is valuable space, and it should be a level playing field, and have a commitment to maintain the record so we can refer to what a president said about something a hundred years from now. As far as I know Medium has never said anything about a commitment to maintaining the record, although being a for-profit business they wouldn't do anything to get people to stop thinking of it as the default place-of-record. We need and deserve better. It's time to stop thinking of technology as only a place to make money. It's clearly being used for other important things. ",
+                    "created": "Wed, 13 Jul 2022 15:06:58 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
