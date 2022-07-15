@@ -1,0 +1,7 @@
+{
+    "text": "<a href=\"https://github.com/scripting/reallysimple/blob/main/worknotes.md#71422-by-dw----v0416\">Important fix</a> for the <a href=\"https://github.com/scripting/reallysimple\">reallySimple</a> package. When reading a feed with items which have guids that are not permalinks, there was a serious bug where the guid that was there would be replaced with <a href=\"https://www.w3schools.com/jsref/jsref_undefined.asp\">undefined</a>. If the guid was a permalink that would mask the problem. I finally encountered a feed that had guids that were not permalinks. The fix is to add a new <i>permalink</i> sub-item. I know that not many people are following this, but I'm pretty sure you will, eventually. :boom:",
+    "created": "Thu, 14 Jul 2022 14:03:06 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2019/08/05/norm.png",
+    "flInCalendar": true
+}
