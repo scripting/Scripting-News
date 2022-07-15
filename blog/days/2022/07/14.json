@@ -1,0 +1,61 @@
+{
+    "created": "2022-07-14T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "14",
+    "path": "2022/07/14",
+    "text": "July 14",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "The blogosphere became Twitter, like <a href=\"https://www.scientificamerican.com/article/how-dinosaurs-shrank-and-became-birds/\">dinosaurs became birds</a>.",
+            "created": "Fri, 15 Jul 2022 01:50:47 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "One reason to not speak ill of the dead is that they might have not liked you. There may be other reasons. I think that also goes for damning with faint praise. If you had an issue with someone who died, you can afford to relax about it, after all you won. :smile:",
+            "created": "Thu, 14 Jul 2022 19:14:59 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/02/12/boldItalic.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Have you ever seen an \"RSS\" feed where the &lt;description> text was \"Markdown\"? Probably not, because few if any of the readers would understand it. We could start this as a bootstrap later this summer. ",
+            "created": "Thu, 14 Jul 2022 14:28:51 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW -- is it a coincidence that Evan Williams stepped aside at Medium as Twitter, which he co-founded, is without a leader? ",
+            "created": "Thu, 14 Jul 2022 14:32:57 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I think the person who runs Twitter should have a sense of humor and love good entertainment. There's so much potential in this medium, that's just been left there for everyone to figure out. Which is great, except there's been little or no coordination with the tech.",
+            "created": "Thu, 14 Jul 2022 21:57:20 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1547571342219698177\">Poll</a>: Should Twitter bring back the Fail Whale?",
+            "created": "Thu, 14 Jul 2022 13:19:36 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1547571342219698177",
+            "flInCalendar": true
+        },
+        {
+            "text": "Twitter appears to be down this morning. I have no idea what to do with myself. Clicking the Twitter icon in my browser's chrome is an unconscious thing. Only when Twitter is down do I really feel it. Amazing that Twitter can't find a way to monetize that. (At 9:20AM Eastern it's back up. Whew.)",
+            "created": "Thu, 14 Jul 2022 12:29:19 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/reallysimple/blob/main/worknotes.md#71422-by-dw----v0416\">Important fix</a> for the <a href=\"https://github.com/scripting/reallysimple\">reallySimple</a> package. When reading a feed with items which have guids that are not permalinks, there was a serious bug where the guid that was there would be replaced with <a href=\"https://www.w3schools.com/jsref/jsref_undefined.asp\">undefined</a>. If the guid was a permalink that would mask the problem. I finally encountered a feed that had guids that were not permalinks. The fix is to add a new <i>permalink</i> sub-item. I know that not many people are following this, but I'm pretty sure you will, eventually. :boom:",
+            "created": "Thu, 14 Jul 2022 14:03:06 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/08/05/norm.png",
+            "flInCalendar": true
+        }
+    ]
+}
