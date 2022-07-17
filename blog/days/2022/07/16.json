@@ -1,0 +1,48 @@
+{
+    "created": "2022-07-16T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "16",
+    "path": "2022/07/16",
+    "text": "July 16",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I can't believe all the crazy swirling around the <a href=\"https://www.google.com/search?q=knicks+donovan+mitchell&sxsrf=ALiCzsZbt7mWOoEht6ih3y5K6rBSY5phBw:1658025015556&source=lnms&tbm=nws&sa=X&ved=2ahUKEwigz9LA8P74AhV4kokEHWdeBE0Q_AUoAXoECAEQAw&biw=1307&bih=1123&dpr=2\">Knicks</a> right now. Here's the deal. We have a really interesting team, we're going to get really emotionally involved with them next season. We're going to <i>love</i> rooting for them, win or lose. So stop <a href=\"https://en.wikipedia.org/wiki/List_of_English_words_of_Yiddish_origin#Kvetch\">kvetching</a> and relax. :boom:",
+            "created": "Sat, 16 Jul 2022 22:45:57 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's fascinating to watch the <a href=\"https://news.ycombinator.com/item?id=32116877\">discussion</a> at Hacker News re \"XML-RPC\". They got some things right. The protocol was designed in a couple of weeks by four people, two at Microsoft and two of us not. The Microsoft people were from their networking group. They wanted a cross-platform protocol to do what <a href=\"https://en.wikipedia.org/wiki/Distributed_Component_Object_Model\">DCOM</a> does. It was and is a brilliant idea. I wanted it as a way of designing APIs for scriptable blogging systems. We were in the process of shipping a new Windows version of \"Frontier\", we already had a Mac version, and I wanted the two Frontiers to work beautifully together on LANs and on the net. I wrote a <a href=\"http://scripting.com/davenet/1998/02/27/rpcOverHttpViaXml.html\">blog post</a> about it, when I figured out that it would be done with XML and HTTP. I then got an email from Bob Atkinson at Microsoft asking if I wanted to work with them on this. I always admired Bob and people like him at Microsoft, they had an excellent engineering culture imho, so of course I said yes. What followed was one of the most productive collaborations of my career. And as a result not only did Frontier get great cross-platform compatibility, all the early blogging systems has compatible APIs. To the Hacker News folks, that's what matters in a protocol, what kind of <a href=\"http://scripting.com/2021/12/16/153331.html?title=myProductIsInterop\">interop</a> did it enable. See my <a href=\"http://this.how/standards/\">Rules for standards-makers</a> for more on this.",
+            "created": "Sat, 16 Jul 2022 17:29:34 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/03/30/grannySmithApple.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I want Biden to step back after the election and let the Democrats have a great primary campaign where we really discuss, as a country, what our options are going forward. Not limited to things considered too daring, like expanding the court. It's clear Biden will not do what we need. But that's okay, his greatest contribution would be to create a stage for the next generation of leaders to work things out, along with Bernie Sanders and others. ",
+            "created": "Sat, 16 Jul 2022 17:29:05 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Jobs and Gates",
+            "created": "Sat, 16 Jul 2022 22:39:06 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I was looking through some archives and came across this picture of Bill Gates and Steve Jobs probably taken in the 80s or early 90s. ",
+                    "created": "Sat, 16 Jul 2022 22:39:10 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A lot of time has passed.",
+                    "created": "Sat, 16 Jul 2022 22:39:48 GMT",
+                    "inlineImage": "http://scripting.com/images/2022/07/16/jobsGates.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
