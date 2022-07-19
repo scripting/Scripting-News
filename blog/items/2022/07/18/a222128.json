@@ -1,0 +1,14 @@
+{
+    "text": "Debuggers",
+    "created": "Mon, 18 Jul 2022 22:21:28 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I've heard of programmers who don't use a debugger. I couldn't work without one. After almost 10 years of working in JavaScript I've got the debugger working almost as well as the one in Frontier. I use the debugger to write code -- if I want to see the data my code has to work with, I don't have to figure it out, I can see it. A debugger isn't just for fixing mistakes, it's for exploring the inner workings of code you might not be familiar with. The first really great debugger I used was THINK C. It made it possible for me to do much more complex projects, for example \"Frontier\". ",
+            "created": "Mon, 18 Jul 2022 15:50:46 GMT",
+            "image": "http://scripting.com/images/2019/03/14/cowgirl.png",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
