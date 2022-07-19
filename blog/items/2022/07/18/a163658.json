@@ -1,0 +1,55 @@
+{
+    "text": "Twitter + RSS + Markdown",
+    "created": "Mon, 18 Jul 2022 16:36:58 GMT",
+    "type": "outline",
+    "description": "I've added Markdown to RSS, and hooked Twitter up to RSS. And of course because it's all open, any RSS reader can support this.",
+    "subs": [
+        {
+            "text": "Here's an <a href=\"http://xmlviewer.scripting.com/?url=http://feedland.org/twitterfeeds/cluelessnewbie/rss.xml\">RSS feed</a> for the tweets on my cluelessnewbie test account. This is new. Look at the items in that feed, you'll see each has a  <i>source:markdown</i> element. It's explained in the <a href=\"http://source.scripting.com/#1653758422000\">docs</a> for the Source namespace. ",
+            "created": "Mon, 18 Jul 2022 16:31:11 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I entered a <a href=\"https://twitter.com/cluelessnewbie/status/1549068783066791937\">thread</a> in Twitter, using Markdown to style lists, text, links and code. Also note that the first item in the Twitter thread begins with a single #, which my processor interprets as it being the title for the RSS item. Believe it or not that fixes a pretty big mismatch in the connection between Twitter and RSS, titles. If you remember reading Twitter feeds in Google Reader you'll know what I mean. :smile:",
+            "created": "Mon, 18 Jul 2022 16:47:44 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The text starts in Twitter, goes out through RSS, is processed by Markdown, and rendered predictably in my reader app. ",
+            "created": "Mon, 18 Jul 2022 16:40:44 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The Twitter <a href=\"https://twitter.com/cluelessnewbie/status/1549068783066791937\">thread</a>, <a href=\"http://scripting.com/images/2022/07/18/markdownInAFeedFromATweet.png\">as rendered</a> in my RSS reader.",
+            "created": "Mon, 18 Jul 2022 17:00:35 GMT",
+            "inlineImage": "http://scripting.com/images/2022/07/18/aBunchOfMarkdown.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Summary: We've added Markdown to RSS, and hooked Twitter up to RSS. And of course because it's all open, any RSS reader can support this.",
+            "created": "Mon, 18 Jul 2022 16:59:58 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "In the old days on \"Scripting News\" when something like this worked I'd end the post with..",
+            "created": "Mon, 18 Jul 2022 16:38:29 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<i>Bing!</i>",
+            "created": "Mon, 18 Jul 2022 16:38:36 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "PS: Support for this feature is already in the <a href=\"https://github.com/scripting/reallysimple/blob/main/worknotes.md\">reallySimple package</a>. ",
+            "created": "Mon, 18 Jul 2022 17:07:49 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "PPS: Here's a <a href=\"https://github.com/scripting/reallysimple/discussions/6\">place</a> to ask questions. ",
+            "created": "Mon, 18 Jul 2022 17:13:58 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
