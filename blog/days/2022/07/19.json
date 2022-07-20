@@ -1,0 +1,139 @@
+{
+    "created": "2022-07-19T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "19",
+    "path": "2022/07/19",
+    "text": "July 19",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=Uhpu2N4rQZM\">Would I Lie to You?</a>",
+            "created": "Tue, 19 Jul 2022 16:47:38 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=Uhpu2N4rQZM",
+            "flInCalendar": true
+        },
+        {
+            "text": "I missed the announcement of <a href=\"https://docs.rsshub.app/en/\">RSSHub</a>. What a fascinating project. ",
+            "created": "Tue, 19 Jul 2022 17:54:23 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"http://scripting.com/2022/07/18.html\">Yesterday</a> there was a veritable <i>riot</i> of innovation in <a href=\"http://rss.land/\">rss.land</a>, more than any day in the last 20 years. But this is just the beginning folks. There's a lot more we can and Murphy-willing will do. ",
+            "created": "Tue, 19 Jul 2022 17:54:57 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, here's the <a href=\"http://xmlviewer.scripting.com/?url=http://feedland.org/twitterfeeds/davewiner/rss.xml\">RSS feed</a> for my Twitter account. ",
+            "created": "Tue, 19 Jul 2022 12:31:12 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "And here's the <a href=\"http://feeder.scripting.com/?template=mailbox&feedurl=http://feedland.org/twitterfeeds/davewiner/rss.xml\">mailbox reader view</a> of the feed. I posted a couple of titled threads this morning so you could see how Twitter can be used as a blogging tool. ",
+            "created": "Tue, 19 Jul 2022 12:32:28 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Dev notes for Markdown in RSS",
+            "created": "Tue, 19 Jul 2022 15:22:35 GMT",
+            "type": "outline",
+            "description": "How developers can handle feeds with Markdown and generate them.  ",
+            "subs": [
+                {
+                    "text": "Yesterday I <a href=\"http://scripting.com/2022/07/18/163658.html?title=twitterRssMarkdown\">blasted</a> out a lot of information about RSS feeds from Twitter accounts that support Markdown. ",
+                    "created": "Tue, 19 Jul 2022 15:22:48 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This note explains how developers can generate feeds with Markdown and handle them.  ",
+                    "created": "Tue, 19 Jul 2022 15:23:56 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<b>Generating feeds with Markdown</b>",
+                    "created": "Tue, 19 Jul 2022 15:24:31 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Suppose you've written blogging software that allows users to enter Markdown text. ",
+                            "created": "Tue, 19 Jul 2022 15:24:49 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "When you render their posts to the web, you run the text through a Markdown processor which returns HTML which you then copy into the page. ",
+                            "created": "Tue, 19 Jul 2022 15:26:15 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "You also save the Markdown source text in case the user wants to edit it later. They don't want to edit the HTML you generated, they want to pick up with the Markdown version of the text. ",
+                            "created": "Tue, 19 Jul 2022 22:30:27 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "You do something similar in the RSS feed, probably, putting the rendered text in the description element of the item. ",
+                            "created": "Tue, 19 Jul 2022 15:26:39 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Now you can also include the Markdown text in a <a href=\"http://source.scripting.com/#1653758422000\">source:markdown</a> element. To get an idea how that works, have a look at the <a href=\"http://xmlviewer.scripting.com/?url=http://feedland.org/twitterfeeds/davewiner/rss.xml\">RSS feed</a> for my Twitter account. Here's a <a href=\"http://scripting.com/images/2022/07/19/swimmingScreenShot.png\">screen shot</a> of the RSS item for a <a href=\"https://twitter.com/cluelessnewbie/status/1549420878764691458\">recent post</a>. ",
+                            "created": "Tue, 19 Jul 2022 15:27:06 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "The existence of the source:markdown element tells the reader app that it can either use the text of the description as it normally would, or it can start with the Markdown text, render it and then display it. Or perhaps you're sending the text somewhere that understands Markdown -- then you'd just send the Markdown text without rendering. ",
+                            "created": "Tue, 19 Jul 2022 15:28:16 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<b>Reading feeds with Markdown</b>",
+                    "created": "Tue, 19 Jul 2022 15:30:48 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Suppose you have a feed reader and want to do something nice for feeds that have source:markdown elements. ",
+                            "created": "Tue, 19 Jul 2022 15:31:33 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "This is what you do: If you can handle Markdown rendering in your reader app and you spot a source:markdown element, use that in place of the description element.",
+                            "created": "Tue, 19 Jul 2022 15:39:33 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "If you're passing the text on to an app that can deal with Markdown, for example a database, save the Markdown text in addition to the rendered text.",
+                            "created": "Tue, 19 Jul 2022 15:40:42 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<b>Other notes</b>",
+                    "created": "Tue, 19 Jul 2022 15:44:22 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "I am developing both an editing tool that generates Markdown text and a feed reader that knows how to render Markdown text.",
+                            "created": "Tue, 19 Jul 2022 15:44:30 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If you have questions, post a comment <a href=\"https://github.com/scripting/reallysimple/discussions/6\">here</a>. ",
+                    "created": "Tue, 19 Jul 2022 15:42:15 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
