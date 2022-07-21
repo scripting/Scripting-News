@@ -1,0 +1,74 @@
+{
+    "text": "Which Markdown?",
+    "created": "Wed, 20 Jul 2022 13:52:14 GMT",
+    "type": "outline",
+    "description": "The approach we all take with Markdown text is to stay within a reasonable subset of the syntax, and hope for the best. 😀",
+    "subs": [
+        {
+            "text": "<a href=\"https://github.com/scripting/reallysimple/discussions/6#discussioncomment-3187614\">Joseph Zitt</a>: \"It's very cool that you're supporting Markdown -- but which Markdown are you using?\"",
+            "created": "Wed, 20 Jul 2022 13:52:19 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "This of course is a great question. I answered it, the way all Markdown questions are answered. ",
+            "created": "Wed, 20 Jul 2022 13:52:42 GMT",
+            "subs": [
+                {
+                    "text": "Of course as you know there is no One True Markdown.",
+                    "created": "Wed, 20 Jul 2022 13:53:09 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The approach we all take with Markdown text is to stay within a reasonable subset of the syntax, and hope for the best. ;-)",
+                    "created": "Wed, 20 Jul 2022 13:53:19 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I go by this <a href=\"https://www.markdownguide.org/cheat-sheet/\">cheat sheet</a>, which I keep in an icon in the chrome of my browser, easy to reach for. And it seems to work.",
+                    "created": "Wed, 20 Jul 2022 13:53:36 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Re the Markdown processors I use --",
+                    "created": "Wed, 20 Jul 2022 13:53:49 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "On the client side -- I use <a href=\"http://fargo.io/code/markdownConverter.js\">something</a> called MarkdownCoverter, which I downloaded many years ago. I seem to recall it's the one that StackExchange uses, so I figured it's got to be pretty good. In all the years I've been using it there haven't been any complaints as far as I know.",
+                            "created": "Wed, 20 Jul 2022 13:53:47 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "On the server side -- I use <a href=\"https://www.npmjs.com/package/marked\">markd</a>. I don't recall how I decided to use this one, but it has also served me well.",
+                            "created": "Wed, 20 Jul 2022 13:53:47 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "As I understand it Gruber likes the way it has evolved. ",
+                    "created": "Wed, 20 Jul 2022 13:53:16 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The shit does kind of hit the fan when it comes to using Markdown in something like RSS where interop is the primary thing. ",
+                    "created": "Wed, 20 Jul 2022 14:46:47 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But this was one of the first enhancements I wanted to get out there in 2022, the 20th year of RSS 2.0.",
+                    "created": "Wed, 20 Jul 2022 14:47:03 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "PS: See the previous <a href=\"http://scripting.com/2022/07/19/152235.html?title=devNotesForMarkdownInRss\">two</a> <a href=\"http://scripting.com/2022/07/18/163658.html?title=twitterRssMarkdown\">day's</a> posts about Markdown in RSS feeds.  ",
+            "created": "Wed, 20 Jul 2022 18:55:30 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
