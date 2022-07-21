@@ -1,0 +1,129 @@
+{
+    "created": "2022-07-20T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "20",
+    "path": "2022/07/20",
+    "text": "July 20",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"http://scripting.com/2022/07/20/rssIsFlowingAgain.m4a\">Short podcast</a>. Mostly about how exciting it is to work with people on RSS again, but at the end I talk about a misbelief that I advocate that people should run their own webservers. Even in my most positive days about making the web easy I didn't think that. But I do think we need alternatives to the VC-backed \"free\" web hosting companies like Medium and Substack. We keep learning this lesson, and at some point we should get it together to provide really free hosting for writing, <i>with no business model attached</i>, supported by foundations and contributions. It just doesn't cost that much to do the hosting of text files. A Twitter <a href=\"https://twitter.com/davewiner/status/1549825882763714572\">thread</a> expands on this idea. ",
+            "created": "Wed, 20 Jul 2022 16:39:11 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2022/07/20/rssIsFlowingAgain.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "2197216",
+            "image": "http://scripting.com/images/2020/01/13/jujyFruits.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "The <a href=\"https://www.theguardian.com/us-news/2022/jul/19/secret-service-one-text-message-january-6-committee\">Secret Service</a> must have known Trump was trying to overthrow the government. Assuming they swore an oath to defend the Constitution what’s their excuse for not stopping it?",
+            "created": "Wed, 20 Jul 2022 12:58:17 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Which Markdown?",
+            "created": "Wed, 20 Jul 2022 13:52:14 GMT",
+            "type": "outline",
+            "description": "The approach we all take with Markdown text is to stay within a reasonable subset of the syntax, and hope for the best. 😀",
+            "subs": [
+                {
+                    "text": "<a href=\"https://github.com/scripting/reallysimple/discussions/6#discussioncomment-3187614\">Joseph Zitt</a>: \"It's very cool that you're supporting Markdown -- but which Markdown are you using?\"",
+                    "created": "Wed, 20 Jul 2022 13:52:19 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This of course is a great question. I answered it, the way all Markdown questions are answered. ",
+                    "created": "Wed, 20 Jul 2022 13:52:42 GMT",
+                    "subs": [
+                        {
+                            "text": "Of course as you know there is no One True Markdown.",
+                            "created": "Wed, 20 Jul 2022 13:53:09 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "The approach we all take with Markdown text is to stay within a reasonable subset of the syntax, and hope for the best. ;-)",
+                            "created": "Wed, 20 Jul 2022 13:53:19 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I go by this <a href=\"https://www.markdownguide.org/cheat-sheet/\">cheat sheet</a>, which I keep in an icon in the chrome of my browser, easy to reach for. And it seems to work.",
+                            "created": "Wed, 20 Jul 2022 13:53:36 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Re the Markdown processors I use --",
+                            "created": "Wed, 20 Jul 2022 13:53:49 GMT",
+                            "flBulletedSubs": "true",
+                            "subs": [
+                                {
+                                    "text": "On the client side -- I use <a href=\"http://fargo.io/code/markdownConverter.js\">something</a> called MarkdownCoverter, which I downloaded many years ago. I seem to recall it's the one that StackExchange uses, so I figured it's got to be pretty good. In all the years I've been using it there haven't been any complaints as far as I know.",
+                                    "created": "Wed, 20 Jul 2022 13:53:47 GMT",
+                                    "flInCalendar": true
+                                },
+                                {
+                                    "text": "On the server side -- I use <a href=\"https://www.npmjs.com/package/marked\">markd</a>. I don't recall how I decided to use this one, but it has also served me well.",
+                                    "created": "Wed, 20 Jul 2022 13:53:47 GMT",
+                                    "flInCalendar": true
+                                }
+                            ],
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "As I understand it Gruber likes the way it has evolved. ",
+                            "created": "Wed, 20 Jul 2022 13:53:16 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "The shit does kind of hit the fan when it comes to using Markdown in something like RSS where interop is the primary thing. ",
+                            "created": "Wed, 20 Jul 2022 14:46:47 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "But this was one of the first enhancements I wanted to get out there in 2022, the 20th year of RSS 2.0.",
+                            "created": "Wed, 20 Jul 2022 14:47:03 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: See the previous <a href=\"http://scripting.com/2022/07/19/152235.html?title=devNotesForMarkdownInRss\">two</a> <a href=\"http://scripting.com/2022/07/18/163658.html?title=twitterRssMarkdown\">day's</a> posts about Markdown in RSS feeds.  ",
+                    "created": "Wed, 20 Jul 2022 18:55:30 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "We all know this feeling",
+            "created": "Wed, 20 Jul 2022 15:51:22 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "",
+                    "created": "Wed, 20 Jul 2022 15:51:31 GMT",
+                    "inlineImage": "http://scripting.com/images/2022/07/20/todaysTopStory.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Edward Hopper",
+            "created": "Wed, 20 Jul 2022 12:55:49 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2022/07/20/houseInItalianQuarter.png",
+            "subs": [
+                {
+                    "text": "<a href=\"https://americanart.si.edu/artwork/house-italian-quarter-73943\">House in Italian Quarter</a>, 1923.",
+                    "created": "Wed, 20 Jul 2022 12:55:53 GMT",
+                    "inlineImage": "http://scripting.com/images/2022/07/20/houseInItalianQuarter.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
