@@ -1,0 +1,29 @@
+{
+    "text": "Bug fix?",
+    "created": "Sun, 24 Jul 2022 02:43:25 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I fixed a bug in this blog's <a href=\"http://xmlviewer.scripting.com/?url=http://scripting.com/rss.xml\">RSS feed</a>. ",
+            "created": "Sun, 24 Jul 2022 02:42:23 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Previously if an item had an inline image, like the one below, it would not appear in the feed, if it appeared in a titled item. Now it should. ",
+            "created": "Sun, 24 Jul 2022 02:43:43 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "An example of an inline image. ",
+            "created": "Sun, 24 Jul 2022 02:45:11 GMT",
+            "inlineImage": "http://scripting.com/images/2022/07/23/sarahSherman.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "So if you're reading this through the feed, check it out. ",
+            "created": "Sun, 24 Jul 2022 02:44:45 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
