@@ -1,0 +1,104 @@
+{
+    "created": "2022-07-23T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "23",
+    "path": "2022/07/23",
+    "text": "July 23",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I was never that into Van Morrison, but his music fits perfectly with the <a href=\"https://www.amazon.com/Echo-Studio/dp/B07G9Y3ZMC/ref=asc_df_B07G9Y3ZMC/\">Echo Studio</a> speaker. I just say <i>Alexa play Van Morrison</i> and get to writing. ",
+            "created": "Sat, 23 Jul 2022 15:32:15 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's bad politics to alienate a whole gender",
+            "created": "Sat, 23 Jul 2022 15:13:21 GMT",
+            "type": "outline",
+            "description": "Josh Hawley and the Repubs are onto something. ",
+            "metaImage": "http://scripting.com/images/2022/07/23/hawleyRunning.png",
+            "subs": [
+                {
+                    "text": "I hate <a href=\"https://en.wikipedia.org/wiki/Josh_Hawley\">Hawley</a> but he's onto <a href=\"https://www.npr.org/2021/11/11/1054615028/is-masculinity-under-attack-sen-hawley-wants-to-defend-the-men-of-america\">something</a>.  ",
+                    "created": "Sat, 23 Jul 2022 15:13:24 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The Dems probably unintentionally do things to push male voters away. He, and the Repubs are milking that for all it's worth. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You can argue the righteousness of it, but it's bad politics to alienate a whole gender. Bad for winning elections, assuming that's what the Dems want to do. ",
+                    "created": "Sat, 23 Jul 2022 15:16:00 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Also by making him <a href=\"https://trends.google.com/trends/explore?q=hawley&geo=US\">famous</a> you're helping him, even if you say nasty shit about him. ",
+                    "created": "Sat, 23 Jul 2022 15:17:42 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Ask <a href=\"https://twitter.com/GeorgeLakoff\">George Lakoff</a>. People don't care whether you <a href=\"https://www.axios.com/2021/11/07/josh-hawley-masculinity-porn-video-games\">like him</a> or <a href=\"https://www.rollingstone.com/politics/politics-news/josh-hawley-masculinity-obsession-1254776/\">not</a>, but when you push him, you're creating a bigger space in their minds labeled X where X is the name of the asshole you're writing about. ",
+                    "created": "Sat, 23 Jul 2022 15:19:10 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'm doing it right now, I know it -- can't think of a way of avoiding it and still make the point.",
+                    "created": "Sat, 23 Jul 2022 15:19:47 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I bet the Dems could pick up 10% more male voters just by doing a little marketing saying the Dems care. ",
+                    "created": "Sat, 23 Jul 2022 15:19:55 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Bug fix?",
+            "created": "Sun, 24 Jul 2022 02:43:25 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I fixed a bug in this blog's <a href=\"http://xmlviewer.scripting.com/?url=http://scripting.com/rss.xml\">RSS feed</a>. ",
+                    "created": "Sun, 24 Jul 2022 02:42:23 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Previously if an item had an inline image, like the one below, it would not appear in the feed, if it appeared in a titled item. Now it should. ",
+                    "created": "Sun, 24 Jul 2022 02:43:43 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "An example of an inline image. ",
+                    "created": "Sun, 24 Jul 2022 02:45:11 GMT",
+                    "inlineImage": "http://scripting.com/images/2022/07/23/sarahSherman.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So if you're reading this through the feed, check it out. ",
+                    "created": "Sun, 24 Jul 2022 02:44:45 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Edward Hopper",
+            "created": "Sat, 23 Jul 2022 21:37:53 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2022/07/23/groundSwell.png",
+            "subs": [
+                {
+                    "text": "<a href=\"https://www.wikiart.org/en/edward-hopper/ground-swell\">Ground Swell</a>, 1939. ",
+                    "created": "Sat, 23 Jul 2022 21:37:59 GMT",
+                    "inlineImage": "http://scripting.com/images/2022/07/23/groundSwell.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
