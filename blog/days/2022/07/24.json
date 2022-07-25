@@ -1,0 +1,51 @@
+{
+    "created": "2022-07-24T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "24",
+    "path": "2022/07/24",
+    "text": "July 24",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1551282534587285506\">Poll</a>: Which borough has the best bagel?",
+            "created": "Sun, 24 Jul 2022 19:06:09 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1551282534587285506",
+            "flInCalendar": true
+        },
+        {
+            "text": "I updated the <a href=\"https://github.com/scripting/outlineBrowser2\">outlinerBrowser</a> code, which is used in various places. I've seen other devs using it, which is good. It now supports <i>image</i> and <i>inlineImage</i> attributes, as they are used in \"Old School\".  ",
+            "created": "Sun, 24 Jul 2022 15:15:50 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "An <a href=\"http://davewiner.com/\">example</a> of a site that uses the outlineBrowser code.",
+            "created": "Sun, 24 Jul 2022 20:33:24 GMT",
+            "type": "outline",
+            "isComment": "false",
+            "flInCalendar": true
+        },
+        {
+            "text": "Also backed up the <a href=\"https://github.com/scripting/davewiner.com\">source code</a> of the site on GitHub. ",
+            "created": "Sun, 24 Jul 2022 21:44:22 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Best selfie",
+            "created": "Sun, 24 Jul 2022 16:20:41 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2022/07/24/bestSelfie.png",
+            "subs": [
+                {
+                    "text": "Thanks to <a href=\"https://twitter.com/Sciencenature14/status/1550813096331075585\">this feed</a> on Twitter. ",
+                    "created": "Sun, 24 Jul 2022 16:20:46 GMT",
+                    "inlineImage": "http://scripting.com/images/2022/07/24/bestSelfie.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
