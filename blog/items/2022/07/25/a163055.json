@@ -1,0 +1,68 @@
+{
+    "text": "A screed of no importance",
+    "created": "Mon, 25 Jul 2022 16:30:55 GMT",
+    "type": "outline",
+    "metaImage": "http://scripting.com/images/2022/07/25/userlandFrontierDisks.png",
+    "subs": [
+        {
+            "text": "<a href=\"https://en.wikipedia.org/wiki/Scott_Knaster\">Scott Knaster</a> who was a doc writer at Apple in the heyday of the Mac, and who went to General Magic and then Google, has been going through his various closets and digging out things from the ancient software past. He dug up original <a href=\"http://scripting.com/images/2022/07/25/userlandFrontierDisks.png\">Frontier disks</a> from 1992 or so and posted a picture to Facebook. Here's what he wrote:",
+            "created": "Mon, 25 Jul 2022 16:31:25 GMT",
+            "subs": [
+                {
+                    "text": "Hey Dave, I was watching the Cooperstown inductions today including Gil Hodges, and I thought of you. I was a big fan of the 1969 Mets. Then later I was cleaning up old stuff and found these discs, thought of you again. I hope you’re doing well!",
+                    "created": "Mon, 25 Jul 2022 16:32:38 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "These disks brought up a story, which I shared <a href=\"https://www.facebook.com/dave.winer.12/posts/pfbid022PujwpmPkX8GVRYBFBbsbjsdtkJuFXuudew4G8TdR5pAAPzprJxxpgMfvts8vjV7l?comment_id=440585781308326\">there</a>, and now here. ",
+            "created": "Mon, 25 Jul 2022 16:35:01 GMT",
+            "subs": [
+                {
+                    "text": "Frontier on the Mac  was about 30 years ago believe it or not. People born in that year, cute little babies in cribs, are now 30 years old.",
+                    "created": "Mon, 25 Jul 2022 16:36:00 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "That experience completely wrung out my last hope for corporate platform vendors. Not only did I get a close-up look at Apple, but I also got to know the platform people at Microsoft and Aldus. Corporations have too many conflicts to pull it off. ",
+                    "created": "Mon, 25 Jul 2022 16:36:34 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A wise Apple would have let us run scripting on the Mac, and let us put it where ever we wanted. What they ended up with was a pure corporate creation, runs only on one OS, and has its utility crippled by an idea that top execs understood -- \"Programming in English.\"",
+                    "created": "Mon, 25 Jul 2022 16:56:29 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://en.wikipedia.org/wiki/Aldus_Corporation\">Aldus</a> had a deal with developers, they'd wait two releases before crushing them (ie pulling the features of their plugin into the main product). At least they were up front about it. ",
+                    "created": "Mon, 25 Jul 2022 16:38:08 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Microsoft people were mostly nerds and they gave their programmers a lot of freedom. I hooked up with one of the devs on Microsoft Word, <a href=\"https://wiki.c2.com/?DavidLuebbert\">Dave Luebbert</a>, and we had a scripting party, and Word was the most scriptable app out there, even though no one knew. ",
+                    "created": "Mon, 25 Jul 2022 16:38:33 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "After that experience, I left software. I realized there wasn't going to be anything left for me, because no matter what I did, i'd either have to work inside one of these beasts, and I didn't see that working out too well, or they'd just anihilate us if we achieved any success, even if we did it on their terms.",
+                    "created": "Mon, 25 Jul 2022 16:39:19 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A year later -- I got a demo of HTTP and I saw the answer. It's like being a devotee of the <a href=\"https://en.wikipedia.org/wiki/Themes_in_A_Song_of_Ice_and_Fire#R'hllor\">Lord of Light</a> in Game of Thrones. Oh there's the answer -- Unix! (I programmed in C on Unix before going to the Apple II.)",
+                    "created": "Mon, 25 Jul 2022 16:39:49 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'm doing one more push folks, no one has been doing anything with RSS for many years, even though it's very much still out there. I've had a productive year. Really good software almost ready. We'll see if there's any hope for independent developers in 2022.",
+                    "created": "Mon, 25 Jul 2022 16:40:36 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
