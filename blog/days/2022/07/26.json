@@ -1,0 +1,45 @@
+{
+    "created": "2022-07-26T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "26",
+    "path": "2022/07/26",
+    "text": "July 26",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Another song that sounds great on the <a href=\"https://www.amazon.com/dp/B07G9Y3ZMC/?tag=googhydr-20&hvadid=385409569895&hvpos=&hvnetw=g&hvrand=5142373541614250631&hvpone=&hvptwo=&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1023511&hvtargid=kwd-390036410126&ref=pd_sl_7dnh1vjty7_e\">Echo Studio</a> is <a href=\"https://www.youtube.com/watch?v=LTrk4X9ACtw\">Orinoco Flow</a> by Enya. Seriously it's giving me goosebumps. ",
+            "created": "Tue, 26 Jul 2022 21:40:56 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "News flows",
+            "created": "Tue, 26 Jul 2022 17:08:04 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "For the record we started testing the new product, with a small number of users. So far it's going well.",
+                    "created": "Tue, 26 Jul 2022 17:08:06 GMT",
+                    "image": "http://scripting.com/images/2022/07/26/motherOfDragons.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's an unusual project, a bit like traveling back to 2002, and then considering the \"RSS\" world as it exists now, and try to do something with the incredible amount of data flowing by, but with limited tools to actually see what's available. That, of course is exactly the challenge. To create tools that suit each type of data people push through feeds and make it visible and useful to people who want it. There's a wide variety from linkblogs like Hacker News, to description-only feeds from the NYT to full text from WordPress sites. And podcasts. And the totally possible Twitter feeds. And who know what else will be possible. We haven't been creative here for many, many, many years. ",
+                    "created": "Tue, 26 Jul 2022 17:09:04 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I remember a long time ago when I worked at a <a href=\"https://en.wikipedia.org/wiki/Time-sharing#Time-sharing\">timesharing</a> company. We had a big computer facility in New Jersey and I worked in Manhattan. We leased our customers teletypes where they would type queries and we're send back data. They could also program in BASIC. My job was to write tools for them so they would run them and use them for hours and of course very hour was money to my company, so I was incentivized to come up with things they'd use a lot.",
+                    "created": "Wed, 27 Jul 2022 02:20:08 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Anyway the most fun I had was writing a scroller of headlines from an AP wire we had hooked up to the system. You'd just leave the app running and it would show you the news as it happened. People got addicted to it. Really simple. No one says it has to be complex to work.",
+                    "created": "Tue, 26 Jul 2022 17:11:18 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
