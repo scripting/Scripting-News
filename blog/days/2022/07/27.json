@@ -1,0 +1,61 @@
+{
+    "created": "2022-07-27T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "27",
+    "path": "2022/07/27",
+    "text": "July 27",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Is there doubt that at least some of the insurrectionists would have killed congresspeople if they had the chance? Maybe it was all bluster, but imho probably not. And if it's true, then the <a href=\"https://twitter.com/January6thCmte/status/1552351804314324992\">police</a> at the Capitol, by holding back the mob, very much saved our country.",
+            "created": "Wed, 27 Jul 2022 20:29:01 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1552382122454917121\">Poll</a>: Which company will buy Netflix?",
+            "created": "Wed, 27 Jul 2022 20:08:06 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1552382122454917121",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/jeffjarvis/status/1552305474443386887\">Jeff Jarvis</a>: \"The hippies ended a presidency, ended a war, made really good music, held historic festivals, got high, and got laid.\"",
+            "created": "Wed, 27 Jul 2022 18:01:46 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/jeffjarvis/status/1552305474443386887",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"http://essaysfromexodus.scripting.com/backissues/2000/06/07/#rss\">2000</a>: \"After RSS 0.91, we breathed a sigh of relief that lasted almost a year. Glad that's over! In the meantime, repeated attempts to find anyone who cares about RSS at Netscape have turned up nothing. The people we worked with at Netscape left shortly after 0.91 was finalized.\" ",
+            "created": "Wed, 27 Jul 2022 15:17:16 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2022/07/18/20.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "This year's RSS project is much like the project I did writing <a href=\"http://backend.userland.com/rss091\">the 0.91 spec</a>, the one based on actual practice, not a spec-writer's idea of how the base of feeds should evolve. I'm a big believer in following the spec, but if the spec is wrong -- that seemed to be what the devs were saying you have to do some more thinking. \"See what's out there\" is my motto, before making any assumptions. One of the reasons the only method for reading feeds in my project is the <a href=\"http://feeder.scripting.com/?template=mailbox&feedurl=http://scripting.com/rss.xml\">mailbox-style reader</a>. I want to focus on what works and doesn't, before adding any alternative ways of viewing news. The mailbox style is what's out there in rss.land. That's where you start in 2022, because 2022 is not 2002. ",
+            "created": "Wed, 27 Jul 2022 14:41:28 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "An unsolved problem as far as I know -- how to tell that two different URLs are actually the same feed? I know the <a href=\"https://stackoverflow.com/questions/48138258/how-do-you-add-atomlink-with-rel-self-to-an-rss-document\">Atom rel=\"self\"</a> element is an attempt to solve that problem, and it is fairly widely supported because the <a href=\"http://feedvalidator.sourceforge.net/\">default feed validator</a>, written by one of the Atom guys kind of <a href=\"https://stackoverflow.com/questions/48138258/how-do-you-add-atomlink-with-rel-self-to-an-rss-document\">requires</a> it (if you look closely it doesn't, but people miss that). ",
+            "created": "Wed, 27 Jul 2022 14:43:44 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, the validator situation is pretty bad. Apparently the original feed validator isn't working, and the W3C put up a fork of it a while back, but it seems to be giving different advice now. I think perhaps one of our projects should be to write an apolitical feed validator. One written from the point of view of apps that have to understand feeds. Basically saying -- if you do it this way it'll work better for your users, and forget about the various different standards groups who wanted to replace it. RSS got badly spammed that way. ",
+            "created": "Wed, 27 Jul 2022 14:57:47 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Yesterday on my linkblog I included a link to the NYT obituary for <a href=\"https://en.wikipedia.org/wiki/Tony_Dow\">Tony Dow</a>, who played the older brother on <a href=\"https://en.wikipedia.org/wiki/Leave_It_to_Beaver\">Leave It To Beaver</a>, a <a href=\"https://www.youtube.com/watch?v=Jtm1XTVqPz0\">show</a> people of my generation grew up with. This morning I got an email from <a href=\"https://twitter.com/stevegarfield\">Steve Garfield</a>, a longtime reader of this blog with a note that the NY Times had <a href=\"http://scripting.com/images/2022/07/27/editorsNote.png\">retracted</a> the obit, because Mr Dow is still alive. I always try to check these things out but until now thought the NYT was authoritative. ",
+            "created": "Wed, 27 Jul 2022 14:04:12 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
