@@ -1,0 +1,6 @@
+{
+    "text": "BTW, the validator situation is pretty bad. Apparently the original feed validator isn't working, and the W3C put up a fork of it a while back, but it seems to be giving different advice now. I think perhaps one of our projects should be to write an apolitical feed validator. One written from the point of view of apps that have to understand feeds. Basically saying -- if you do it this way it'll work better for your users, and forget about the various different standards groups who wanted to replace it. RSS got badly spammed that way. ",
+    "created": "Wed, 27 Jul 2022 14:57:47 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
