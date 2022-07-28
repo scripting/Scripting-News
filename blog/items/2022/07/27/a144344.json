@@ -1,0 +1,6 @@
+{
+    "text": "An unsolved problem as far as I know -- how to tell that two different URLs are actually the same feed? I know the <a href=\"https://stackoverflow.com/questions/48138258/how-do-you-add-atomlink-with-rel-self-to-an-rss-document\">Atom rel=\"self\"</a> element is an attempt to solve that problem, and it is fairly widely supported because the <a href=\"http://feedvalidator.sourceforge.net/\">default feed validator</a>, written by one of the Atom guys kind of <a href=\"https://stackoverflow.com/questions/48138258/how-do-you-add-atomlink-with-rel-self-to-an-rss-document\">requires</a> it (if you look closely it doesn't, but people miss that). ",
+    "created": "Wed, 27 Jul 2022 14:43:44 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
