@@ -1,0 +1,6 @@
+{
+    "text": "This year's RSS project is much like the project I did writing <a href=\"http://backend.userland.com/rss091\">the 0.91 spec</a>, the one based on actual practice, not a spec-writer's idea of how the base of feeds should evolve. I'm a big believer in following the spec, but if the spec is wrong -- that seemed to be what the devs were saying you have to do some more thinking. \"See what's out there\" is my motto, before making any assumptions. One of the reasons the only method for reading feeds in my project is the <a href=\"http://feeder.scripting.com/?template=mailbox&feedurl=http://scripting.com/rss.xml\">mailbox-style reader</a>. I want to focus on what works and doesn't, before adding any alternative ways of viewing news. The mailbox style is what's out there in rss.land. That's where you start in 2022, because 2022 is not 2002. ",
+    "created": "Wed, 27 Jul 2022 14:41:28 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
