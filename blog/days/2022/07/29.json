@@ -1,0 +1,141 @@
+{
+    "created": "2022-07-29T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "29",
+    "path": "2022/07/29",
+    "text": "July 29",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1553179303831019522\">Poll</a>: Which do you watch most? Netflix, Amazon, HBO or Apple. ",
+            "created": "Sat, 30 Jul 2022 03:28:00 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1553179303831019522",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"http://scripting.com/2022/07/28.html#a195125\">Yesterday</a> I wrote about Peloton's classes that take you places and how they don't work because the perspective is always shifting. Much better to have a constant first-person view, allowing your mind to zone out while your body works. An improvement beyond that -- have the speed correlate with how fast you're pushing the bike. And give me a boost, so if I'm going 10 mph, make it feel like I'm going 30. As if a strong wind was at my back. Often when you have the first person point of view in these classes it feels as if you're walking not riding, there's no feeling of speed. And you pedal harder and there's no change. I know that this would be hard to do and expensive, but (ahem) the bike and the classes are pretty freaking expensive too. Or better yet, let Nintendo write the software. :smile: ",
+            "created": "Fri, 29 Jul 2022 12:14:21 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2022/07/29/luigiOnABike.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm not apologizing anymore because I don't develop as part of a big company or write for a famous pub. ",
+            "created": "Fri, 29 Jul 2022 15:12:58 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "\"America First\" means \"White Christian fascists are in charge.\"",
+            "created": "Fri, 29 Jul 2022 14:41:52 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "NYC trip",
+            "created": "Fri, 29 Jul 2022 22:40:03 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2022/07/29/citiField.png",
+            "subs": [
+                {
+                    "text": "Going to NYC next week, via Tesla, first trip since Covid. ",
+                    "created": "Fri, 29 Jul 2022 22:40:07 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "<a href=\"https://www.utopiabagelsny.com/\">Utopia Bagels</a> in Whitestone to stock up.",
+                            "created": "Fri, 29 Jul 2022 22:40:21 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Possible excursion to quasi-legal <a href=\"https://www.google.com/search?q=nyc+quasi-legal+cannabis+store\">cannabis</a> store.",
+                            "created": "Fri, 29 Jul 2022 22:40:27 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Hotel in <a href=\"https://en.wikipedia.org/wiki/Flushing,_Queens\">Flushing</a>, early dinner at local Chinese place. ",
+                            "created": "Fri, 29 Jul 2022 22:40:30 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Let's go <a href=\"https://en.wikipedia.org/wiki/Citi_Field\">Mets</a>!! ;-)",
+                            "created": "Fri, 29 Jul 2022 22:40:22 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "A perfect bug report",
+            "created": "Fri, 29 Jul 2022 18:46:26 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I'm always getting on about how to do a great bug report, I thought I should show you a perfect one.",
+                    "created": "Fri, 29 Jul 2022 18:46:33 GMT",
+                    "subs": [
+                        {
+                            "text": "<i>A small UI thing I noticed was I clicked the X in the News Box to dismiss the box and then opened the settings again and the \"Show news items in a small box at the top of the screen.\" was already checked when I expected it to be unchecked. Clicking the Ok button returned the News Box.</i>",
+                            "created": "Fri, 29 Jul 2022 18:46:51 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It has all the required elements.",
+                    "created": "Fri, 29 Jul 2022 18:47:06 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "What they did.",
+                            "created": "Fri, 29 Jul 2022 18:47:38 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "What they expected to happen.",
+                            "created": "Fri, 29 Jul 2022 18:47:44 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "What actually happened.",
+                            "created": "Fri, 29 Jul 2022 18:47:41 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It doesn't have to be a formal process, or particularly long. Just the facts, as <a href=\"https://www.cheatsheet.com/entertainment/dragnet-jack-webbs-joe-friday-never-actually-said-just-facts-maam-comedian.html/\">Jack Webb never said</a>. The facts the developer needs to find and fix the problem. ",
+                    "created": "Fri, 29 Jul 2022 18:47:14 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I also like the part up front where they say \"A small UI thing...\" ",
+                    "created": "Fri, 29 Jul 2022 22:35:39 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Edward Hopper",
+            "created": "Fri, 29 Jul 2022 12:01:07 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2022/07/29/gloucesterBeachHopper.png",
+            "subs": [
+                {
+                    "text": "<a href=\"https://www.facebook.com/photo/?fbid=5526316897412037&set=gm.2218324974989914\">Gloucester Beach, Bass Rocks</a>, 1924.",
+                    "created": "Fri, 29 Jul 2022 12:01:26 GMT",
+                    "inlineImage": "http://scripting.com/images/2022/07/29/gloucesterBeachHopper.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
