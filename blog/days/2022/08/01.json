@@ -1,0 +1,56 @@
+{
+    "created": "2022-08-01T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "01",
+    "path": "2022/08/01",
+    "text": "August 01",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "By far the best thing on Facebook are the \"On this day\" memories. I guess that means Facebook is winding down?",
+            "created": "Mon, 01 Aug 2022 13:30:12 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Trump is old news, really tired and troubled. The enthusiasm is gone, they would vote for him if he was nominated, but they'd rather have a fresh Trump -- Desantis. Not good news for Trump-the-person, but nothing's changed for MAGA.",
+            "created": "Mon, 01 Aug 2022 13:29:50 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The monthly ritual. Here are <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/opml/2022/07.opml\">July's posts</a> in OPML.",
+            "created": "Mon, 01 Aug 2022 13:28:56 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Software is like a building",
+            "created": "Mon, 01 Aug 2022 21:21:47 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I spent ten years living on the Upper West Side of Manhattan and in that time, five huge skyscrapers went up within a few blocks of where I lived. All of them residential, all of them of record-breaking height for residential buildings in North America. ",
+                    "created": "Mon, 01 Aug 2022 21:21:55 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "They started as huge holes in the ground, then pilings were driven deep into the earth, and concrete poured to form a foundation. Then the steel frame was attached to the pilings and it started to rise, and floor after floor of steel were built on top of the previous floors. As the building rose, crews came in to put up the inner walls of the building, water pipes, electric lines, sewer, the elevators, phone lines, internet, the inner walls, and then they put up an exterior, and glass in the windows, and while they were adding new steel beams on the (say) 50th floor, you could actually see people in the lobby of the building. It was a holy mess, with construction crews everywhere, just a complete mess, even so you could see clearly the outlines of something familiar coming together. ",
+                    "created": "Mon, 01 Aug 2022 21:22:35 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But they kept building until the building was topped off, and all the various crews kept doing their jobs. There were no elevators above the 10th floor, everything still had to get to the top with a huge crane that was itself an engineering marvel. While all this was going on there were some demo units on the 5th floor and a rental office, all furnished, and one working elevator that was beautifully clean and functional, giving the <i>impression</i> that the building was ready to be occupied, but the truth was that it was still a long way from being done. But it could be used, in a way, for its intended purpose, people could imagine using it to sleep, eat, work, play -- all the things an apartment building could be used for, but it's not yet an apartment building, it's a construction site. ",
+                    "created": "Mon, 01 Aug 2022 21:24:19 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Building a big piece of software is a lot like this, The construction company wants to know if you were killed by a random piece of metal being hauled up in a crane, but if you say that the buttons on one of the floors in the elevator actually closed the door when they were meant to open the door, they thank you for the report, but they weren't listening. They have a big job still ahead of them. ",
+                    "created": "Mon, 01 Aug 2022 21:23:42 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
