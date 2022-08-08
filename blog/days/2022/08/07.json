@@ -1,0 +1,84 @@
+{
+    "created": "2022-08-07T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "07",
+    "path": "2022/08/07",
+    "text": "August 07",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "It seems <a href=\"https://twitter.com/davewiner/status/1556311391472164868\">Marco Rubio is beatable</a>. Wouldn't it be something if the listenters to Keith Olbermann's fantastic podcast could make it happen? I think it's possible. ",
+            "created": "Sun, 07 Aug 2022 16:27:07 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "But what do I know. Heh. Every <a href=\"https://projects.fivethirtyeight.com/polls/senate/florida/\">poll</a> has Rubio far ahead of Demings. ",
+            "created": "Sun, 07 Aug 2022 16:56:52 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I usually exercise in the afternoon, but it's been so hot, so I did my Peloton ride first thing this morning. Then swimming, a nice breakfast with a tall glass of delicious ice coffee. The sense of well-being is overwhelming. I used to have this feeling all the time after working out when I was younger. Now it's harder to get there. It's nice to see if I do everything well, I can still do it.",
+            "created": "Sun, 07 Aug 2022 14:00:13 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "We should write a book",
+            "created": "Sun, 07 Aug 2022 14:54:45 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "We should write a book on bug reports. There's so much to say. A case study. ",
+                    "created": "Sun, 31 Jul 2022 14:35:37 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A user is testing a fresh new feature. Released seconds before. He tries it out on his iPad and gets a blank screen. Tries it on his desktop machine, it works. He concludes there's an incompatibility with iPads and reports it as such, in great detail with screen shots. He follows the <a href=\"http://scripting.com/2020/12/12/165429.html?title=howToAskForHelpWithSoftware\">1. 2. 3. format</a>. ",
+                    "created": "Sun, 31 Jul 2022 14:35:54 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But as the developer reads the report, right from the start, he's pretty sure that the user's theory is incorrect, that it has nothing to do with an incompatibility with iPads. He has strong reasons to believe this, because: ",
+                    "created": "Sun, 31 Jul 2022 14:37:11 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "The new feature reuses already tested display code, there was nothing new there in this release. Almost all browser incompatibilities are display problems. ",
+                            "created": "Sun, 31 Jul 2022 14:41:11 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "He had just seen the same behavior on his own machine, and the problem was that he hadn't done a hard reload, so some code files updated, others didn't. ",
+                            "created": "Sun, 31 Jul 2022 14:41:15 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The developer would like to know if there are any error messagess in the JavaScript console, being 99 percent sure there are. The user's report didn't include any info on this. They error messages are in the software for a reason, to help figure out what went wrong, to take the load off the user and the developer. To make these puzzles resolve faster.",
+                    "created": "Sun, 31 Jul 2022 14:41:23 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "They're not in  a good place, because the developer is going to have to first convince the user to look elsewhere first, and users like everyone else, don't like to be told they're wrong. That's why we have to slow down. Don't rush to write a bug report. At least try it again, to be sure it reproduces. Think about what else can go wrong.Like it or not, the user has to participate in the debugging process, if they want the problem resolved reasonably efficiently in time, for everyone.",
+                    "created": "Sun, 31 Jul 2022 14:36:40 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The best bug reports are short. A bug report and lab notes are different things. By digesting your report into simple statements of fact, you get to challenge your own assumptions and might cause you to change your thinking. ",
+                    "created": "Sun, 31 Jul 2022 14:37:25 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You have to think about it as likely your problem, not the software's because in my experience that's what's usually going on. In almost 50 years of being a programmer only once did I find a bug in a compiler, yet in my early years, I often stopped looking because I thought I had, only to find the bug later, in my own code. ",
+                    "created": "Sun, 31 Jul 2022 14:38:22 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
