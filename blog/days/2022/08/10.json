@@ -1,0 +1,47 @@
+{
+    "created": "2022-08-10T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "10",
+    "path": "2022/08/10",
+    "text": "August 10",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=2b6rm5yTx44\">Words of Love</a>.",
+            "created": "Wed, 10 Aug 2022 17:08:09 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The idea of putting \"RSS\" into the world of the browser was a mistake. The world of news is another world altogether. The web tried, in every way to turn RSS into the web. And it was very unsatisfying for a reason, the web was designed for documents. Things that have lasting value. The news is different. It's ephemeral. You want to keep a record of it for sure, but yesterday's news has no value as news, because it's not new. It's like the difference between music and podcasts. Music you may want to listen to many times, to cherish, to attach memories to, if it's good enough, over your whole life. A podcast is one and done. Pfffft. Off to the bit bucket. It's value is over as soon as the next episode is out. ",
+            "created": "Wed, 10 Aug 2022 21:25:08 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The oath of interop",
+            "created": "Wed, 10 Aug 2022 14:09:09 GMT",
+            "type": "outline",
+            "description": "First do no lock-in.",
+            "subs": [
+                {
+                    "text": "<a href=\"http://scripting.com/2021/12/16/153331.html?title=myProductIsInterop\">Interop</a> is the <a href=\"https://en.wikipedia.org/wiki/Hippocratic_Oath\">Hippocratic Oath</a> for developers. ",
+                    "created": "Wed, 10 Aug 2022 14:05:22 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Whenever possible <a href=\"http://this.how/standards/\">make</a> <a href=\"http://scripting.com/davenet/2000/11/30/bootstrapping.html\">your</a> product <a href=\"http://scripting.com/2014/03/21/theWebIsMadeOfInterop.html\">interop</a> with products that <a href=\"http://essaysfromexodus.scripting.com/priorArtDesignMethod\">came before</a>. ",
+                    "created": "Wed, 10 Aug 2022 14:09:21 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "First do no lock-in.",
+                    "created": "Wed, 10 Aug 2022 14:09:24 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
