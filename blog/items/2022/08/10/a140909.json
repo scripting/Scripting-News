@@ -1,0 +1,25 @@
+{
+    "text": "The oath of interop",
+    "created": "Wed, 10 Aug 2022 14:09:09 GMT",
+    "type": "outline",
+    "description": "First do no lock-in.",
+    "subs": [
+        {
+            "text": "<a href=\"http://scripting.com/2021/12/16/153331.html?title=myProductIsInterop\">Interop</a> is the <a href=\"https://en.wikipedia.org/wiki/Hippocratic_Oath\">Hippocratic Oath</a> for developers. ",
+            "created": "Wed, 10 Aug 2022 14:05:22 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Whenever possible <a href=\"http://this.how/standards/\">make</a> <a href=\"http://scripting.com/davenet/2000/11/30/bootstrapping.html\">your</a> product <a href=\"http://scripting.com/2014/03/21/theWebIsMadeOfInterop.html\">interop</a> with products that <a href=\"http://essaysfromexodus.scripting.com/priorArtDesignMethod\">came before</a>. ",
+            "created": "Wed, 10 Aug 2022 14:09:21 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "First do no lock-in.",
+            "created": "Wed, 10 Aug 2022 14:09:24 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
