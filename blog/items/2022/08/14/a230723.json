@@ -1,0 +1,7 @@
+{
+    "text": "In the next few days I'll open up a free, experimental service to find out if Twitter can peer with feed reader software like <a href=\"https://netnewswire.com/\">NetNewsWire</a> and <a href=\"https://feedly.com/\">Feedly</a>. After you log in, our server will periodically read your new tweets and update a public RSS feed, on our server, that mirrors your tweets, so you and others can follow them in any feed reader. One thing that's different from earlier approaches is that tweets can have titles, something that most feed readers like/insist on. And the feeds will be 2022-compliant, using modern techniques for the world we live in today, not the world of twenty years ago. People keep looking for software to replace Twitter. I don't like that approach because systems with tens of millions of happy users don't get replaced, but they can foster new developments built on their strength and ubiquity. I respect and love Twitter. My software does too.",
+    "created": "Sun, 14 Aug 2022 23:07:23 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2020/12/12/asGoodAsItGets.png",
+    "flInCalendar": true
+}
