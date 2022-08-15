@@ -1,0 +1,36 @@
+{
+    "created": "2022-08-14T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "14",
+    "path": "2022/08/14",
+    "text": "August 14",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=SJBkL9_Lfm4\">Far Away Eyes</a>. ",
+            "created": "Sun, 14 Aug 2022 23:21:12 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "In the next few days I'll open up a free, experimental service to find out if Twitter can peer with feed reader software like <a href=\"https://netnewswire.com/\">NetNewsWire</a> and <a href=\"https://feedly.com/\">Feedly</a>. After you log in, our server will periodically read your new tweets and update a public RSS feed, on our server, that mirrors your tweets, so you and others can follow them in any feed reader. One thing that's different from earlier approaches is that tweets can have titles, something that most feed readers like/insist on. And the feeds will be 2022-compliant, using modern techniques for the world we live in today, not the world of twenty years ago. People keep looking for software to replace Twitter. I don't like that approach because systems with tens of millions of happy users don't get replaced, but they can foster new developments built on their strength and ubiquity. I respect and love Twitter. My software does too.",
+            "created": "Sun, 14 Aug 2022 23:07:23 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/12/12/asGoodAsItGets.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Come to think of it, Twitter and RSS have a lot in common. Both are roughly contemporary pioneering efforts on which today's social media and news worlds are built. Both are a bit worse for wear and tear, to <a href=\"http://scripting.com/images/2022/08/14/wearAndTear.png\">quote</a> the <a href=\"https://www.youtube.com/watch?v=SJBkL9_Lfm4\">Rolling Stones</a>. But they're still here! We'll make love. Twitter and RSS all the way. ",
+            "created": "Sun, 14 Aug 2022 23:15:25 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1558858744494268421\">You decide</a>: Erectile dysfunction medicine should be illegal in states that ban abortion.",
+            "created": "Sun, 14 Aug 2022 16:51:14 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1558858744494268421",
+            "flInCalendar": true
+        }
+    ]
+}
