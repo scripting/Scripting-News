@@ -1,0 +1,91 @@
+{
+    "created": "2022-08-17T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "17",
+    "path": "2022/08/17",
+    "text": "August 17",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "RSS and Markdown were made for Twitter or is it the other way. ",
+            "created": "Wed, 17 Aug 2022 20:35:58 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "My philosophy is that everything people use to write is a writing tool, and can be made better by paying attention to how people use it and most important, how they want to use it. ",
+            "created": "Wed, 17 Aug 2022 16:30:10 GMT",
+            "type": "tweet",
+            "tweetId": "1559941058972336128",
+            "tweetUserName": "davewiner",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1559879683776331776\">Poll</a>: Do you use a feed reader like NetNewsWire or Feedly?",
+            "created": "Wed, 17 Aug 2022 14:21:13 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1559879683776331776",
+            "flInCalendar": true
+        },
+        {
+            "text": "The reason I <a href=\"https://twitter.com/davewiner/status/1559879683776331776\">ask</a> is that soon you will be able to publish to all RSS readers from Twitter. It really works, there's some serious innovation here, and fills in a missing piece that's been there since the mid-00s. This is RSS and Twitter waking up after a long sleep.",
+            "created": "Wed, 17 Aug 2022 14:28:52 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"http://scripting.com/images/2022/08/17/tweetInRss.png\">What</a> a titled, <a href=\"https://twitter.com/davewiner/status/1559715742253305858\">tweeted</a> markdown-enhanced RSS item <a href=\"http://scripting.com/images/2022/08/17/tweetInRss.png\">looks like</a> in 2022. And this is what that tweet looks like when it gets <a href=\"http://scripting.com/images/2022/08/17/feedlyVersion.png\">to Feedly</a>. ",
+            "created": "Wed, 17 Aug 2022 15:56:44 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Where's the feed?",
+            "created": "Wed, 17 Aug 2022 21:57:52 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "With all the talk today about feeds for Twitter with Markdown that work in any feed reader, it's time for me to show you something <a href=\"https://twitter.com/davewiner/status/1560023637205438466\">for real</a> that isn't hype. :smile:",
+                    "created": "Wed, 17 Aug 2022 21:58:11 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This is the feed of my tweets. ",
+                    "created": "Wed, 17 Aug 2022 21:58:33 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "<a href=\"http://xmlviewer.scripting.com/?url=http://tweetfeed.org/davewiner/rss.xml\">http://tweetfeed.org/davewiner/rss.xml</a>",
+                            "created": "Wed, 17 Aug 2022 21:58:34 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You can and should subscribe to it in any feed reader. ",
+                    "created": "Wed, 17 Aug 2022 21:57:59 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Let's find out how well this idea works in practice.  ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "As they say...",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<i>Still diggin!</i>",
+                    "created": "Wed, 17 Aug 2022 21:58:45 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: More stuff tomorrow.",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
