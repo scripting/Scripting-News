@@ -1,0 +1,23 @@
+{
+    "created": "2022-08-19T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "19",
+    "path": "2022/08/19",
+    "text": "August 19",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Okay Al Franken is an idiot. He posted a horribly <a href=\"http://scripting.com/images/2022/08/19/frankenJoke.png\">anti-Semitic quote</a> from Trump on Twitter. Now he <a href=\"https://twitter.com/alfranken/status/1560430185375305728\">says</a> it was a joke. I almost forwarded it as evidence of how depraved Trump is, but it really was proof of what an idiot Franken is. A self-destructive idiot, who was it seems on his way back, but he should just go away quietly and never be heard from again. A punchline to a joke -- remember what it was like to elect a \"comedian\" to Congress.",
+            "created": "Fri, 19 Aug 2022 12:32:37 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/09/03/mrToad.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I use <a href=\"http://xmlviewer.scripting.com/?url=http://scripting.com/rss.xml\">xmlviewer.scripting.com</a> to link to feeds because browsers make a mess of displaying feeds. Suggestion to browser devs: treat viewing a feed as lifting the hood on a car or viewing the source of an HTML page. When you do that, you don't see another car interior, or another rendering of the HTML. You see a lot of technical stuff. Trust people who don't want to know how the web works will quickly hit the Back button to get back to the comfort of the user interface. ",
+            "created": "Fri, 19 Aug 2022 12:48:24 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
