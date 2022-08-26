@@ -1,0 +1,77 @@
+{
+    "created": "2022-08-25T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "25",
+    "path": "2022/08/25",
+    "text": "August 25",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "A new Drummer verb, <a href=\"http://docserver.scripting.com/?verb=twitter.getRawTweet\">twitter.getRawTweet</a>, returns all the data Twitter provides about a given tweet. Not available yet in Electric Drummer, only in the web version of the app (for now). ",
+            "created": "Thu, 25 Aug 2022 18:25:54 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Sometimes in programming you have to set up a test that might take a minute or two to run. While I'm waiting today I ask my speaker to play <a href=\"https://www.youtube.com/watch?v=J7ATTjg7tpE\">Oye Cómo Va</a> by Santana as my waiting music. It gives me something lively to groove to while the gears in the cloud mesh and produce the test result. It's like the <a href=\"https://www.youtube.com/watch?v=B3lLYOGDsts\">song they play</a> while the contestants write down their Final Jeopardy questions.",
+            "created": "Thu, 25 Aug 2022 16:37:30 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The Mets weren't playing last night, and I'm kind of burning out on <a href=\"https://en.wikipedia.org/wiki/My_Brilliant_Friend_(TV_series)\">My Brilliant Friend</a> (I'll get back to it) so I sat down to watch Chris Hayes on MSNBC. I heard that the DoJ had <a href=\"https://www.cnn.com/2022/08/24/politics/barr-mueller-report/index.html\">released</a> the heavily redacted memo by former <a href=\"https://en.wikipedia.org/wiki/William_Barr\">Attorney General Barr</a>, the <a href=\"https://www.documentcloud.org/documents/22187584-barr-unredacted-memo\">one</a> that <a href=\"https://www.youtube.com/shorts/n5SRHdcPLAI\">basically said</a> that the Mueller Report (that we hadn't at the time seen) was a <a href=\"https://en.wiktionary.org/wiki/nothingburger\">Nothingburger</a>, <a href=\"https://www.cnn.com/2022/08/24/politics/barr-mueller-report/index.html\">without the redactions</a>. So I expected there would be something interesting on MSNBC. The show opens with an in-detail horse race story that said basically we fucked up and it wasn't a foregone conclusion that the Repubs would take Congress in the upcoming midterm election as we have been reporting since just after the 2020 election. Right. This is now horserace journalism of a higher order, the horserace we're judging is how well Hayes et al were doing at predicting the outcome of the election, which btw, is a theoretical thing because (pause here) THE FUCKING ELECTION STILL HASN'T HAPPENED. Sorry for screaming, but this is such a waste, and how could anyone possibly care about this. Every time they report <a href=\"https://en.wikipedia.org/wiki/Conventional_wisdom\">conventional wisdom</a>, they have driven far off course, they are no longer doing news, they are doing self-butthole examination. What a waste. And it's kind of obvious (imho) that Hayes has been going to the Tucker Carlson School School of Acting. He's trying to talk like him. It's really sad. Maybe MSNBC could just hire Carlson to work for them. After all if the Mets can buy players from <a href=\"https://en.wikipedia.org/wiki/Francisco_Lindor\">Cleveland</a> or the <a href=\"https://en.wikipedia.org/wiki/Max_Scherzer\">Dodgers</a>, why can't MNBC buy an actor from Fox News to play for them. The amount of actual news reporting on both networks is pitifully small. ",
+            "created": "Thu, 25 Aug 2022 13:47:55 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/11/29/racehorse.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Markdown is just enough HTML",
+            "created": "Thu, 25 Aug 2022 21:09:02 GMT",
+            "type": "outline",
+            "description": "We should be using markdown in feeds.",
+            "subs": [
+                {
+                    "text": "I've been writing feed readers for many years. And I have a confession to make. Going back to the beginning, I've been taking all the HTML markup out of the text because feed producers totally abuse the privilege, inserting all kinds of garbage into my reading space. So I just take it all out. ",
+                    "created": "Thu, 25 Aug 2022 21:09:11 GMT",
+                    "image": "http://scripting.com/images/2017/09/12/pitcher.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I wonder if other feed reader writers are as draconian as I. We should find out what they do. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But there is a <i>safe way</i> to put back just enough style -- Markdown. ",
+                    "created": "Thu, 25 Aug 2022 21:13:15 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "We finally have it working in the new feed reader I've been working on, and it's fantastic. Markdown is just enough HTML and not too much. Exactly the right amount for what we need in the world of feeds. ",
+                    "created": "Thu, 25 Aug 2022 21:09:14 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I use the <a href=\"http://source.scripting.com/#1653758422000\">&lt;source:markdown></a> element. If you use it as <a href=\"http://xmlviewer.scripting.com/?url=http://tweetfeed.org/davewiner/rss.xml\">we do</a> in the <a href=\"http://tweetfeed.org/\">tweetfeed</a> app, your feeds will work with my reader, and we'll be on our way to a bootstrap.",
+                    "created": "Thu, 25 Aug 2022 21:10:43 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Garry Winogrand",
+            "created": "Thu, 25 Aug 2022 14:56:47 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://artblart.com/tag/women-are-beautiful/\">Histrionics on a Bench, World’s Fair, New York</a>, 1964. ",
+                    "created": "Thu, 25 Aug 2022 14:56:51 GMT",
+                    "inlineImage": "http://scripting.com/images/2022/08/25/winogradWomenOnBenchWorldsFair1964.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
