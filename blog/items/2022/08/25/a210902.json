@@ -1,0 +1,34 @@
+{
+    "text": "Markdown is just enough HTML",
+    "created": "Thu, 25 Aug 2022 21:09:02 GMT",
+    "type": "outline",
+    "description": "We should be using markdown in feeds.",
+    "subs": [
+        {
+            "text": "I've been writing feed readers for many years. And I have a confession to make. Going back to the beginning, I've been taking all the HTML markup out of the text because feed producers totally abuse the privilege, inserting all kinds of garbage into my reading space. So I just take it all out. ",
+            "created": "Thu, 25 Aug 2022 21:09:11 GMT",
+            "image": "http://scripting.com/images/2017/09/12/pitcher.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I wonder if other feed reader writers are as draconian as I. We should find out what they do. ",
+            "flInCalendar": true
+        },
+        {
+            "text": "But there is a <i>safe way</i> to put back just enough style -- Markdown. ",
+            "created": "Thu, 25 Aug 2022 21:13:15 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "We finally have it working in the new feed reader I've been working on, and it's fantastic. Markdown is just enough HTML and not too much. Exactly the right amount for what we need in the world of feeds. ",
+            "created": "Thu, 25 Aug 2022 21:09:14 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I use the <a href=\"http://source.scripting.com/#1653758422000\">&lt;source:markdown></a> element. If you use it as <a href=\"http://xmlviewer.scripting.com/?url=http://tweetfeed.org/davewiner/rss.xml\">we do</a> in the <a href=\"http://tweetfeed.org/\">tweetfeed</a> app, your feeds will work with my reader, and we'll be on our way to a bootstrap.",
+            "created": "Thu, 25 Aug 2022 21:10:43 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
