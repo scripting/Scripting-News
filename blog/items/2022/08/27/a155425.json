@@ -1,0 +1,7 @@
+{
+    "text": "<a href=\"https://www.google.com/search?q=site%3Ascripting.com+heroku\">Heroku</a> and <a href=\"https://www.google.com/search?q=site%3Ascripting.com+slack\">Slack</a>, both owned by <a href=\"http://scripting.com/2015/04/02/itsThePowerlessnessDummy.html\">Salesforce</a>, both recently eliminated or cut back their free tier. My two cents. OK with me. But tune up your pricing so it lets your product grow like a weed. The tragedy of Heroku, which I was building my software base on, is that they made the product diseconomic for its natural niche -- quick scripts that need to run on the net 24-by-7 but are very low bandwidth. I run dozens of those. It makes no sense to pay $7 a month to run each of them when they can all run together on a $5 a month server at Digital Ocean. It took me years to reimplement Heroku but I did. The shame of it is that lots of other people did it too. One of the responsibilities of a company that makes a product as useful as Heroku is to not get too much in the way of its destiny. Salesforce really fucked that up.",
+    "created": "Sat, 27 Aug 2022 15:54:25 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2017/09/11/paulBunyon.png",
+    "flInCalendar": true
+}
