@@ -1,0 +1,49 @@
+{
+    "created": "2022-09-08T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "08",
+    "path": "2022/09/08",
+    "text": "September 08",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=Mh1hKt5kQ_4\">Her Majesty</a>.",
+            "created": "Thu, 08 Sep 2022 17:50:53 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=Mh1hKt5kQ_4",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"http://scripting.com/2022/09/18.html\">September 18</a>, ten days from now, is the 20th anniversary of \"RSS 2.0\". I haven't forgotten. I'm going to try to ship something appropriate on that day. ",
+            "created": "Thu, 08 Sep 2022 17:43:15 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you're a developer and interested in making a contribution, consider porting the <a href=\"https://github.com/scripting/reallysimple\">reallySimple package</a> to another platform. Right now it's only in Node. It makes reading feeds of all flavors easy to just drop into an application. It lives up to its name, it's a simplification of RSS (and Atom and RDF) behind a single JSON interface. So you can put feed reading support into anything without taking on a huge project. Tools are so important.",
+            "created": "Thu, 08 Sep 2022 17:46:30 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/08/05/loveRss.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I got a big new feature topped off today. Can't say what it is yet, but I think it'll be shipping within a few weeks, or so. Software comes when it's ready, like everything else. :smile:",
+            "created": "Thu, 08 Sep 2022 17:42:10 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1567766704385581057\">People aren’t wearing masks</a>, even at the pharmacy, the person who gave me my booster said she didn’t need one because she just got over her second bout with Covid. What? Unreal. Then it came to me, this is normal. It’s why even when the temperature in California is over 100 in lots  of  places,  we're  still pumping carbon into the atmosphere. Pakistan is drowning, and  <a href=\"https://en.wikipedia.org/wiki/Lake_Powell#21st_century_drought\">Lake Powell</a> is drying up. Business as  usual. What was abnormal was the brief period when many made sacrifices to fight Covid.  Now we just  shrug  it  off, I guess?",
+            "created": "Thu, 08 Sep 2022 21:26:45 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1567766704385581057",
+            "flInCalendar": true
+        },
+        {
+            "text": "YouTube TV <a href=\"http://scripting.com/images/2022/09/08/youtubetvad.png\">says</a> they want me back as a subscriber. Awww. I'd love to use it, its user interface is way better than Spectrum but -- the only way to get the Mets and Knicks games is from Spectrum. Let me know when I can watch my teams on YouTube TV and I'll be back right away.",
+            "created": "Thu, 08 Sep 2022 21:36:28 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
