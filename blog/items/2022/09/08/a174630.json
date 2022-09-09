@@ -1,0 +1,7 @@
+{
+    "text": "If you're a developer and interested in making a contribution, consider porting the <a href=\"https://github.com/scripting/reallysimple\">reallySimple package</a> to another platform. Right now it's only in Node. It makes reading feeds of all flavors easy to just drop into an application. It lives up to its name, it's a simplification of RSS (and Atom and RDF) behind a single JSON interface. So you can put feed reading support into anything without taking on a huge project. Tools are so important.",
+    "created": "Thu, 08 Sep 2022 17:46:30 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2017/08/05/loveRss.png",
+    "flInCalendar": true
+}
