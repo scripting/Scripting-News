@@ -1,0 +1,6 @@
+{
+    "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/215#issuecomment-1242749537\">Braintrust query</a>: I have a regex that strips all HTML elements from a string. Now I want one that does less, it strips all markup except &lt;p> and &lt;/p>. Then I want one that takes a list of elements it should leave in place. Any help most appreciated! :boom: ",
+    "created": "Sat, 10 Sep 2022 15:11:15 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
