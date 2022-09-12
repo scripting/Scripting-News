@@ -1,0 +1,26 @@
+{
+    "text": "A testbed for HTML in feeds",
+    "created": "Sun, 11 Sep 2022 15:35:21 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Here's a <a href=\"http://drummer.scripting.com/?url=http://scripting.com/publicfolder/misc/stripMarkupInFeedItems/source.opml\">link that opens in Drummer</a>. It contains the package.json, a template file and the JS code that reads an RSS feed and produces an HTML rendering of the items in the feed after running the description text through sanitize-html with the p's removed. Once written it made it easy for me to try out a lot of different combinations for the options, but I settled on the simplest.",
+            "created": "Sun, 11 Sep 2022 15:35:46 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "It uses the <a href=\"https://github.com/scripting/reallysimple\">reallySimple package</a> to read the feed, and is thus a good demonstration of how easy that is.",
+            "created": "Sun, 11 Sep 2022 15:37:14 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I usually would have done the work to put it into a GitHub repo, but this is a lot easier for me, because this is how I work on my code.",
+            "flInCalendar": true
+        },
+        {
+            "text": "If people can read the code in the outliner (you can!), that will make it possible for me to share a lot more code. :-)",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
