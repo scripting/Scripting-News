@@ -1,0 +1,27 @@
+{
+    "text": "A random request",
+    "created": "Wed, 14 Sep 2022 14:50:08 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "An request to whoever runs icons.duckduckgo.com.",
+            "created": "Wed, 14 Sep 2022 14:50:18 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Instead of returning 404 for a <a href=\"https://icons.duckduckgo.com/ip3/podcasts.files.bbci.co.uk.ico\">favicon</a> you don't have in your database, just redirect to a default icon. ",
+            "created": "Wed, 14 Sep 2022 14:50:28 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Having an error message show up in the JavaScript console in the browser doesn't serve any purpose.",
+            "created": "Wed, 14 Sep 2022 14:50:35 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "TIA.",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
