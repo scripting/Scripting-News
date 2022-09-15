@@ -1,0 +1,6 @@
+{
+    "text": "I'm debugging memory usage of a database app in Node. As I do this high wire act, because to do these tests I have to change code and every time I do that, I run the risk of introducing a serious low level bug, I realize I'm using experience I got taking chemistry in my freshman year of college, many years ago. I've done this kind of work before, obviously -- I built a full featured commercial product for the Apple II when it had 48K of application memory. I swapped code in from disk which made the app kind of modal, and wrote in a high level language that generated dense pseudo code, much more memory efficient than machine code. People think that if you make software that regular people can use that you don't have to have deep technical skills. The opposite is true. ",
+    "created": "Wed, 14 Sep 2022 14:00:47 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
