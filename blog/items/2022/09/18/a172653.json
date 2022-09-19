@@ -1,0 +1,42 @@
+{
+    "text": "Factoring",
+    "created": "Sun, 18 Sep 2022 17:26:53 GMT",
+    "type": "outline",
+    "description": "Making usable and efficient software is all about factoring. ",
+    "subs": [
+        {
+            "text": "Making usable and efficient software is all about <a href=\"http://daytona.scripting.com/?q=factoring&collection=scriptingnews\">factoring</a>. ",
+            "created": "Sun, 18 Sep 2022 17:26:59 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I was talking with <a href=\"http://oldschool.scripting.com/KenSmith/\">Ken Smith</a> this morning, an English professor, not a technologist. He wanted to know what's factoring all about. What makes Frontier better than other programming environments. It's factoring. Same thing was true of blogging. Factoring. You keep reducing, eliminating steps, until it becomes clear how to eliminate the thing you've been trying to simplify. You simplify it so much it goes away.",
+            "created": "Sun, 18 Sep 2022 17:27:15 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "A couple of case studies.",
+            "created": "Sun, 18 Sep 2022 17:28:27 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "Before blogging people used CMSes to manage web stuff. They were derived from print publishing software. You'd arrange something on the screen of a computer, until it was perfect, then hand it over to a printer who would put it on paper. That's how CMSes worked too. You'd edit in one place and deploy in another. The aha moment that made blogging real, the Holy Grail I was searching for was the realization that if there was just one place, you could dramatically simplify the editing process, so much that you wouldn't need a techie around to manage it.  It worked. The <i>aha</i> was recorded in a <a href=\"http://scripting.com/davenet/1999/05/24/editThisPage.html\">blog post</a>, of course. If you put an Edit button on the published page, you didn't need another place to do your editing. All that was hidden beind the user interface. ",
+                    "created": "Sun, 18 Sep 2022 17:28:32 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "In the same way, before \"Frontier\" (and after, unfortunately) if you needed to store data from a program, you'd write it to a file. When your software was restarted, it would read it from that file. The innovation of Frontier is that it managed all that for you, in the language runtime -- so you never need to write anything anywhere. As with the blogging example, instead of two addresses, a piece of data only had one. I often wonder why no one else has stumbled across this incredible time- and complexity-saver. Bake storage into the runtime. My thought/guess is that language designers don't build apps so they don't know that this would be desirable. If they did, it <i>would</i> be built into other languages.",
+                    "created": "Sun, 18 Sep 2022 17:31:08 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "I wonder, why I, as opposed to other developers am always striving to simplify, looking for a way to eliminate steps, and whole concepts. I think perhaps it's because I spent years in college studying mathematics, where that is the whole purpose. Looking for the unifying theory of everything. All science is like that, I wonder why this seems to have escaped software development. Every year we (as a profession) work to make things more complex. I think it's because most developers work for big companies who are rewarded by making things more complicated, not by pure programmers (like pure math) who focus on making software disappear. ",
+            "created": "Sun, 18 Sep 2022 17:33:48 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
