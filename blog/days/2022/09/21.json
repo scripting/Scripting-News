@@ -1,0 +1,29 @@
+{
+    "created": "2022-09-21T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "21",
+    "path": "2022/09/21",
+    "text": "September 21",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "New version of <a href=\"https://github.com/scripting/publicfolder\">publicFolder</a>, one of the best Node packages I've done. It does basically what Dropbox's publc folder used to do before they pulled it back. There was a <a href=\"https://github.com/scripting/publicfolder/blob/master/publicfolder.js#L453\">bug</a> that showed up when it uploaded large files to an S3 locations that's private. ",
+            "created": "Wed, 21 Sep 2022 22:18:17 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I don't often tell you that you must watch or read something, this is one of them -- the <a href=\"https://www.pbs.org/video/us-holocaust-episode-1-the-golden-door/\">first episode</a> of the Ken Burns special on the Holocaust and the US. You'll completely recognize what was going on then, because it's exactly what's going on now.  As you watch it, you'll be amazed that Americans didn't get what the Nazis were doing. Amazing story.",
+            "created": "Wed, 21 Sep 2022 15:22:55 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I went to sleep early last night, gave up on the Mets, they were down 4-0 and it felt like they were going to lose this game. I was kind of sad, because as usual Atlanta was winning. They are just one game behind the Mets in the <a href=\"https://www.google.com/search?q=nl+east+standings\">NL East</a>, and that would have put them in a tie for first place. I should've had more faith. The Mets won. First Pete Alonso, the slugger, hit a three-run home run and then Francisco Lindor hit a <a href=\"https://nypost.com/2022/09/20/francisco-lindors-grand-slam-propels-mets-to-comeback-win/\">grand slam</a>, and the Mets won! It's that kind of year.",
+            "created": "Wed, 21 Sep 2022 13:18:28 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2022/09/21/mets.png",
+            "flInCalendar": true
+        }
+    ]
+}
