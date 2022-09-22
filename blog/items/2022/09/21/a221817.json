@@ -1,0 +1,6 @@
+{
+    "text": "New version of <a href=\"https://github.com/scripting/publicfolder\">publicFolder</a>, one of the best Node packages I've done. It does basically what Dropbox's publc folder used to do before they pulled it back. There was a <a href=\"https://github.com/scripting/publicfolder/blob/master/publicfolder.js#L453\">bug</a> that showed up when it uploaded large files to an S3 locations that's private. ",
+    "created": "Wed, 21 Sep 2022 22:18:17 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
