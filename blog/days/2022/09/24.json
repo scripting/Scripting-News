@@ -1,0 +1,35 @@
+{
+    "created": "2022-09-24T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "24",
+    "path": "2022/09/24",
+    "text": "September 24",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I get an email from the NYT telling me what to watch on Netflix, Hulu, etc. Why don't the manage a watchlist for me. I click a box next to a movie indicating I want to watch it. then i go to mywatchlist.nytimes.com when I'm trying to remember what I wanted to watch.",
+            "created": "Sat, 24 Sep 2022 17:23:45 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Something weird happened in an app I'm working on. The testers reported that a button they use all the time all of a sudden doesn't work. Well, not exactly. If you position the mouse in just the right spot, it <i>does</i> work. So what was special about that spot? An object near the button had an opacity of 0.7, and part of its rectangle extended over the button. In fact it extended over the part of the button that didn't work (ie most of it). That was weird. I tried disabling the opacity just for the hell of it, and now the button works as it used to. Does opacity <a href=\"https://www.google.com/search?q=does+opacity+have+side+effects+css\">have</a> side-effects? I never would have imagined it would. But it appears to! I took out the opacity altogether and reported the problem fixed and the testers agree, but I have no idea what happened there. If you have an idea, please reply to <a href=\"https://twitter.com/davewiner/status/1573667541477691393\">this tweet</a>. ",
+            "created": "Sat, 24 Sep 2022 13:28:01 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2022/09/24/tara.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "The <a href=\"https://www.mlb.com/news/chris-bassitt-leads-mets-rout-in-return-to-oakland\">Mets won</a> and the <a href=\"https://www.batterypower.com/2022/9/23/23369507/braves-at-phillies-final-score-jake-odorizzi-aaron-nola\">Braves lost</a> last night. Both games were blowouts. The Mets are 2.5 games ahead of the Braves, in first place in the NL East, and this Mets fan is happy and thanks to the Phillies and As for their help! ",
+            "created": "Sat, 24 Sep 2022 13:20:34 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Shoutout to my good longtime friend <a href=\"https://www.google.com/search?q=site%3Ascripting.com+%22Rex+Hammock%22\">Rex Hammock</a>. :heart:",
+            "created": "Sat, 24 Sep 2022 19:48:46 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
