@@ -1,0 +1,7 @@
+{
+    "text": "Something weird happened in an app I'm working on. The testers reported that a button they use all the time all of a sudden doesn't work. Well, not exactly. If you position the mouse in just the right spot, it <i>does</i> work. So what was special about that spot? An object near the button had an opacity of 0.7, and part of its rectangle extended over the button. In fact it extended over the part of the button that didn't work (ie most of it). That was weird. I tried disabling the opacity just for the hell of it, and now the button works as it used to. Does opacity <a href=\"https://www.google.com/search?q=does+opacity+have+side+effects+css\">have</a> side-effects? I never would have imagined it would. But it appears to! I took out the opacity altogether and reported the problem fixed and the testers agree, but I have no idea what happened there. If you have an idea, please reply to <a href=\"https://twitter.com/davewiner/status/1573667541477691393\">this tweet</a>. ",
+    "created": "Sat, 24 Sep 2022 13:28:01 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2022/09/24/tara.png",
+    "flInCalendar": true
+}
