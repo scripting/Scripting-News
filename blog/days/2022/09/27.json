@@ -1,0 +1,63 @@
+{
+    "created": "2022-09-27T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "27",
+    "path": "2022/09/27",
+    "text": "September 27",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "We need better metadata on \"RSS\" feeds. Maybe something like <a href=\"https://en.wikipedia.org/wiki/The_Big_Lebowski\">Wikipedia</a> for feeds where we fill in missing data. Better descriptions of what's in the feed. Who writes, what they write about. Something like <a href=\"https://www.metacritic.com/movie/fargo\">Metacritic</a>.",
+            "created": "Wed, 28 Sep 2022 00:52:39 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/08/06/wonderWoman.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Twitter — ads that lead to the paywall of a publication are mean and stupid. They managed to convince us to buy their product, but they won't sell it to us. It's as if you go to the supermarket and want to buy some apples but they will only sell you a truckload of apples, not one or two.",
+            "created": "Tue, 27 Sep 2022 12:31:29 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I don't have enough <a href=\"https://twitter.com/davewiner/status/1574866540729606190\">blogs in my bloggers</a> tab.",
+            "created": "Tue, 27 Sep 2022 21:00:38 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://dev.to/twitterdev/getting-to-the-canonical-url-for-a-tweet-85e\">Twitter tip from Andy Piper</a>. If all you have is the ID of a tweet, how to get its url? If you look at a Twitter url, there's a screenname in there. So how do you find the name of the person who posted tweet whose id is 1574769537244958720. Turns out you don't have to. Make up a name like <i>mamamia, </i>and form the url like <a href=\"https://twitter.com/mamamia/status/1574769537244958720\">this</a>. It'll find the tweet for you and redirect to the actual users screen name. Nice little hack. ",
+            "created": "Tue, 27 Sep 2022 18:31:23 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "When a reporter starts thinking of themselves as a player that's time to resign and run for office or get hired onto the staff of one of the companies or people they report on. In other words, get in the game, honestly.",
+            "created": "Tue, 27 Sep 2022 17:08:31 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's great that <a href=\"https://on.substack.com/p/new-web-reader\">Substack</a> has a new simple <a href=\"https://substack.com/inbox\">browser-based reader</a>. Feedly might be too much for a new feed user. And Substack comes with a lot of news sources already programmed in. If I were in charge of Feedly, I'd do a \"lite\" product that's free, does everything Substack's reader does, includes all the Substack feeds. And of course the upgrade to the full Feedly would be easy. Substack is going down the same path we went down with Radio UserLand in <a href=\"http://scripting.com/2002/01/11.html\">2002</a>. It does both reading and writing. That's a big deal.",
+            "created": "Tue, 27 Sep 2022 12:31:44 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/08/05/loveRss.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Kavanaugh v The Women",
+            "created": "Tue, 27 Sep 2022 14:16:10 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2022/09/27/hellMan.png",
+            "subs": [
+                {
+                    "text": "One of the SC justices <a href=\"https://www.facebook.com/photo/?fbid=819256101615130&set=a.113966572144090\">who</a> voted to <a href=\"https://en.wikipedia.org/wiki/Dobbs_v._Jackson_Women%27s_Health_Organization\">overturn</a> Roe v Wade.",
+                    "created": "Tue, 27 Sep 2022 14:16:22 GMT",
+                    "inlineImage": "http://scripting.com/images/2022/09/27/kavanaughVTheWomen.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
