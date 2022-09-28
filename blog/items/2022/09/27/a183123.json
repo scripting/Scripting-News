@@ -1,0 +1,6 @@
+{
+    "text": "<a href=\"https://dev.to/twitterdev/getting-to-the-canonical-url-for-a-tweet-85e\">Twitter tip from Andy Piper</a>. If all you have is the ID of a tweet, how to get its url? If you look at a Twitter url, there's a screenname in there. So how do you find the name of the person who posted tweet whose id is 1574769537244958720. Turns out you don't have to. Make up a name like <i>mamamia, </i>and form the url like <a href=\"https://twitter.com/mamamia/status/1574769537244958720\">this</a>. It'll find the tweet for you and redirect to the actual users screen name. Nice little hack. ",
+    "created": "Tue, 27 Sep 2022 18:31:23 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
