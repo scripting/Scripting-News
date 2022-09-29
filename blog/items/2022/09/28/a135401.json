@@ -1,0 +1,6 @@
+{
+    "text": "Okay here's a problem. Axios has a feed. Here's the <a href=\"https://api.axios.com/feed/\">url</a>.  When I view it in the browser it shows up fine. Even <a href=\"view-source:https://api.axios.com/feed/\">view source</a>. If I bring it to the <a href=\"https://validator.w3.org/feed/check.cgi?url=https%3A%2F%2Fapi.axios.com%2Ffeed%2F\">W3C feed validator</a>, it can read it and says it's a valid RSS feed. But when I try to open it in my feed reader I get a 403 Forbidden. I assume they're only allowing some services to read their feed? I've never seen this behavior before. Anyone <a href=\"https://twitter.com/davewiner/status/1575124429490855941\">have an idea</a> what's going on? (Update: In this <a href=\"https://twitter.com/ScottHansonDE/status/1575156930779152385\">thread</a> Scott Hanson has the answer. They serve through CloudFlare, and they require a <a href=\"https://en.wikipedia.org/wiki/CAPTCHA\">CAPTCHA</a> for requests coming from Digital Ocean, and my servers are there. With that info we were able to add a route-around, so now we're receiving Axios news in our feed system.)",
+    "created": "Wed, 28 Sep 2022 13:54:01 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
