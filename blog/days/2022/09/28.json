@@ -1,0 +1,41 @@
+{
+    "created": "2022-09-28T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "28",
+    "path": "2022/09/28",
+    "text": "September 28",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Okay here's a problem. Axios has a feed. Here's the <a href=\"https://api.axios.com/feed/\">url</a>.  When I view it in the browser it shows up fine. Even <a href=\"view-source:https://api.axios.com/feed/\">view source</a>. If I bring it to the <a href=\"https://validator.w3.org/feed/check.cgi?url=https%3A%2F%2Fapi.axios.com%2Ffeed%2F\">W3C feed validator</a>, it can read it and says it's a valid RSS feed. But when I try to open it in my feed reader I get a 403 Forbidden. I assume they're only allowing some services to read their feed? I've never seen this behavior before. Anyone <a href=\"https://twitter.com/davewiner/status/1575124429490855941\">have an idea</a> what's going on? (Update: In this <a href=\"https://twitter.com/ScottHansonDE/status/1575156930779152385\">thread</a> Scott Hanson has the answer. They serve through CloudFlare, and they require a <a href=\"https://en.wikipedia.org/wiki/CAPTCHA\">CAPTCHA</a> for requests coming from Digital Ocean, and my servers are there. With that info we were able to add a route-around, so now we're receiving Axios news in our feed system.)",
+            "created": "Wed, 28 Sep 2022 13:54:01 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I hate it when people refer to me in the <a href=\"https://en.wikipedia.org/wiki/Past_tense\">past tense</a>. That's been going on for at least 40 years, and mostly by people who are trying to steal my ideas and claim them as their own. The world is filled with scummy people like that. ",
+            "created": "Wed, 28 Sep 2022 13:49:57 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Believe it or not <a href=\"https://twitter.com/jonathanweisman/status/1574561803295608832\">this</a> was written by a NYT reporter: \"Please Twitter, leave [<a href=\"https://www.google.com/search?q=maggie+haberman\">Maggie Haberman</a>] alone. Trump lost the election, for God's sake. If Maggie had told you a little bit more before the election (she told you <i>a lot,</i> btw), what, you think Trump would have lost ... twice?\" Where do they find these people. It's amazing to me that the NYT doesn't fire both of them. I took a <a href=\"http://scripting.com/images/2022/09/28/screenshot.png\">screen shot</a> in case he deletes the tweet. I wrote this <a href=\"http://scripting.com/2022/09/27.html#a170831\">post</a> yesterday about Haberman.",
+            "created": "Wed, 28 Sep 2022 13:45:25 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've tweeted on this subject many times and every time I do it gets Liked and RTd far more than most of my other tweets. Here's the <a href=\"https://twitter.com/davewiner/status/1575023277184937989\">idea</a>: \"Twitter should warn you that the link you’re about to click has a paywall and that all you’ll see is an offer to subscribe.\" Reminds me of a story I heard from a PR person I hired when I was miscast as the CEO of a software company in the 80s. I was paying them $5K per month, plus hourly fees and expenses. The $5K was due whether or not we used them that month. Since we were usually short on money, I was always thinking of cutting that expense, but I didn't because when we needed them they got us far more coverage than a little company like ours could command on our own. The CEO of the firm said to me once that I was not the customer, even though I was paying them so much money. The reporters were the customers. People like you come and go, she continued, but I have to keep the relationship with the reporters going no matter what. I think it's like that with Twitter and the people who click on links. Every time Twitter lets them use us this way, we hate Twitter a little more. We become more averse to clicking links. Just sayin, they don't have a business if they don't have our attention, and they're burning it, every time an advertiser wastes that attention, not to mention it's incredibly wasteful of the advertiser's money. This problem desperately needs a solution. The users want to pay money for news, but the offers the 8000 pubs that occasionaly have a must-read article are ridiculous.",
+            "created": "Wed, 28 Sep 2022 13:23:20 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/07/25/brienneOfTarthActionFigure.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "My blogging comes and goes. Some days I am hunkered down working on software so no blogging. Some days I'm running around buying and selling things. Again, no blogging. And some days I have a lot to say. So far today is one of those days. ",
+            "created": "Wed, 28 Sep 2022 13:52:28 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
