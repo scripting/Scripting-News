@@ -1,0 +1,6 @@
+{
+    "text": "Having listened to and loved the most recent episode of <a href=\"https://500songs.com/\">500 Songs</a> about <a href=\"https://en.wikipedia.org/wiki/The_Turtles\">the Turtles</a> <a href=\"https://www.youtube.com/watch?v=ZxQDsM3Wvh8\">and</a> <a href=\"https://www.youtube.com/watch?v=JeAtre3Bxg8\">their</a> <a href=\"https://www.youtube.com/watch?v=9ZEURntrQOg\">songs</a>, my friend said now you have to start with the first. I looked all over the web and I couldn't find a list. So I looked into their <a href=\"https://500songs.com/feed/podcast/\">RSS feed</a>. It's huge but they're all there, all the episdes. How am I going to parse this? Then I remembered I have it in my database. So I wrote a little <a href=\"http://scripting.com/images/2022/10/02/query.png\">query</a> to get me the <i>enclosureUrl</i> of all items from that feed, and <a href=\"http://scripting.com/publicfolder/misc/500SongsEnclosureUrls.html\">it worked</a>. I love it when this happens. ",
+    "created": "Sun, 02 Oct 2022 17:04:57 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
