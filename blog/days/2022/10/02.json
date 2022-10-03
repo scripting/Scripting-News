@@ -1,0 +1,95 @@
+{
+    "created": "2022-10-02T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "02",
+    "path": "2022/10/02",
+    "text": "October 02",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "The <a href=\"https://www.amazinavenue.com/2022/10/2/23384020/mlb-scores-braves-5-mets-3-bassitt-morton-darnaud\">Mets were beat</a> in Atlanta. Fact. We lost.",
+            "created": "Mon, 03 Oct 2022 03:19:44 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I think of <a href=\"https://en.wikipedia.org/wiki/Colin_Kaepernick\">Colin Kaepernick</a> when I hear anything about the NFL. I don’t understand how anyone who believes in free speech will have anything to do with that league.",
+            "created": "Mon, 03 Oct 2022 02:50:04 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/09/11/kaepernick.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Having listened to and loved the most recent episode of <a href=\"https://500songs.com/\">500 Songs</a> about <a href=\"https://en.wikipedia.org/wiki/The_Turtles\">the Turtles</a> <a href=\"https://www.youtube.com/watch?v=ZxQDsM3Wvh8\">and</a> <a href=\"https://www.youtube.com/watch?v=JeAtre3Bxg8\">their</a> <a href=\"https://www.youtube.com/watch?v=9ZEURntrQOg\">songs</a>, my friend said now you have to start with the first. I looked all over the web and I couldn't find a list. So I looked into their <a href=\"https://500songs.com/feed/podcast/\">RSS feed</a>. It's huge but they're all there, all the episdes. How am I going to parse this? Then I remembered I have it in my database. So I wrote a little <a href=\"http://scripting.com/images/2022/10/02/query.png\">query</a> to get me the <i>enclosureUrl</i> of all items from that feed, and <a href=\"http://scripting.com/publicfolder/misc/500SongsEnclosureUrls.html\">it worked</a>. I love it when this happens. ",
+            "created": "Sun, 02 Oct 2022 17:04:57 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "New glue for GitHub",
+            "created": "Sun, 02 Oct 2022 15:55:28 GMT",
+            "type": "outline",
+            "description": "Making it easy to archive stuff for users from Node apps, on GitHub. ",
+            "subs": [
+                {
+                    "text": "I've been writing <a href=\"https://en.wikipedia.org/wiki/Glue_code\">glue code</a> for ages. Basically, someone provides an API for a service. Could be the IBM PC with calls to the <a href=\"https://www.pcjs.org/software/pcx86/dev/rom/ibm/5150/\">ROM BIOS</a> to read files, or the Apple II hardware screen <a href=\"http://www.applelogic.org/files/AIIETECHREF2.pdf\">memory</a> (invented by the clever genius Steve Wozniak), or the <a href=\"https://en.wikipedia.org/wiki/Apple_event\">Apple Events</a> supported by various Mac apps in the 90s, or the <a href=\"http://xmlrpc.com/\">XML-RPC</a> interfaces for web apps, or the <a href=\"https://www.google.com/search?q=REST+interfaces+of+GitHub+and+Slack\">REST interfaces</a> of GitHub and Slack or thousands of other services. They give you an API, and then after you see what it can do, and if you want to use it in your app, you write some glue, so all your calls flow through code you control, so if you learn something about their API, you only have to support it in one place. It's especially important for the few services that reserve the right to break their developers. Apple used to do this all the time, I haven't programmed to an Apple API in a very long time. Maybe they stopped? It's a way of forcing your developers to redeclare <a href=\"https://www.youtube.com/watch?v=aJbsXeRc_Fw\">fealty</a> to the Great Platform every so often. I like the web where no one has the power to break me (although <a href=\"http://this.how/googleAndHttp/\">Google</a> might argue with that). ",
+                    "created": "Sun, 02 Oct 2022 15:59:32 GMT",
+                    "image": "http://scripting.com/images/2019/12/24/santa.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Anyway -- today I have a new release of my <a href=\"https://github.com/scripting/github\">glue code for GitHub</a>, the code I use to read and write files from and to GitHub. I use this to keep archives of stuff, because I think GitHub has a good chance of sticking around for a few decades, longer than the S3 storage I use for everything. That'll disappear the day someone stops paying the bills. But the GitHub stuff should stay, no bills to pay (though I do pay for a developer account, only seems fair because I use it a lot). ",
+                    "created": "Sun, 02 Oct 2022 15:59:37 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I use GitHub for <a href=\"https://github.com/scripting/Scripting-News\">archiving my blog</a>. Starting on <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog/items/2017/05/16\">May 16, 2017</a>. And since then every post, every day and every month has been stored there in JSON and OPML. I've also managed to find and store OPML files for most of the <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog/opmlOtherSources\">stuff on my blog</a> going back to <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog/opmlOtherSources/DaveNet\">1994</a>. ",
+                    "created": "Sun, 02 Oct 2022 16:01:05 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's not much of a secret that I'm working on a product that reads feeds in RSS, Atom and RDF formats. It contains a feed reader, but it is more of a development tool for <i>news products.</i> It stores info about feeds, items, subscriptions, users and likes and other stuff. I want that stuff to flow to GitHub right from the start. It'll be a slice of what we're doing online in 2022 and beyond. Maybe that'll be useful to some researcher in the future? ",
+                    "created": "Sun, 02 Oct 2022 16:04:21 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The new thing in my GitHub glue is that it <a href=\"https://github.com/scripting/github/blob/master/davegithub.js\">manages</a> a queue of writes, so you can just tell it to write something and then go on to the next thing. GitHub has a rule that you can only have one call extant at a time. This is a terrible for for an environment like JavaScript that doesn't let you do that easily. I got tired of managing that stuff in my application code so I added the queue to <a href=\"https://github.com/scripting/github\">davegithub</a> and that simplifies all future applications that have to write to GitHub. Absolutely nothing revolutionary in that -- it's just nice to be able to forget about that particular feature of GitHub, let the software manage it for me. And it's MIT licensed stuff so you can use it too. ",
+                    "created": "Sun, 02 Oct 2022 16:07:14 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I also released an <a href=\"https://github.com/scripting/uploadFolderToGitHub/blob/main/uploadfolder.js\">example app</a> that uploads a folder full of JSON files to a location on GitHub. ",
+                    "created": "Sun, 02 Oct 2022 16:10:31 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So If you are a programmer and want to use GitHub to archive your stuff, or to create a connection to GitHub for other apps, I've made it simple for you. Enjoy! :smile:",
+                    "created": "Sun, 02 Oct 2022 16:17:40 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: I think <a href=\"https://en.wikipedia.org/wiki/Stewart_Brand\">Stewart Brand</a> would find this interesting, btw. ",
+                    "created": "Sun, 02 Oct 2022 16:18:11 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Politician's evil hands",
+            "created": "Sun, 02 Oct 2022 17:10:23 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://twitter.com/BBCPolitics/status/1576479806975254528\">Look at how</a> she uses her hand. Why does that work so well. It shouldn’t. It’s a nasty move. Trump does it too.",
+                    "created": "Sun, 02 Oct 2022 16:31:56 GMT",
+                    "type": "outline",
+                    "urltweet": "https://twitter.com/BBCPolitics/status/1576479806975254528",
+                    "inlineImage": "http://scripting.com/images/2022/10/02/hand.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
