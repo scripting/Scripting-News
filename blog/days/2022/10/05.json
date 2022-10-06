@@ -1,0 +1,54 @@
+{
+    "created": "2022-10-05T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "05",
+    "path": "2022/10/05",
+    "text": "October 05",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I added a new feature to \"FeedLand\" today. There's now a white-on-orange XML icon in the upper right corner of each news product. <a href=\"https://user-images.githubusercontent.com/1686843/194099839-d458927b-8b0b-46d8-af83-f27c00f81764.png\">Screen shot</a> and <a href=\"http://nbariver.com/\">example</a>. The icon links to the OPML subscription list for the feeds on the page. This came from a <a href=\"https://github.com/scripting/Scripting-News/issues/239#issuecomment-1268027417\">question</a> on the thread, basically asking \"Where are the feeds.\" I love those kinds of questions, they help direct the development of a product. My perspective is so muddled, I've been living with this product for nine months already. I can't see what it looks like to someone seeing it for the first time. ",
+            "created": "Wed, 05 Oct 2022 22:36:06 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "This is the <a href=\"http://feedland.org/opml?screenname=davewiner&catname=nba\">OPML subscription list</a> for the <a href=\"http://nbariver.com/\">nbariver</a> site. We could use feeds for a few more good NBA blogs (understatement).",
+            "created": "Wed, 05 Oct 2022 22:42:37 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Last night on MSNBC, <a href=\"https://en.wikipedia.org/wiki/Maggie_Haberman\">Maggie Haberman</a> explained why she sat on some of her biggest Trump scoops. She says sources gave her the info on the condition that it can only appear in the <a href=\"https://www.amazon.com/Confidence-Man-Making-Breaking-America/dp/0593297342\">book</a>, not in news. The reason -- they wanted to postpone Trump's reaction to the leak to the future, knowing that the lead time on books is much longer than news articles. This is impossible to confirm, and it <a href=\"https://www.google.com/search?q=maggie+haberman+leaves+out+scoops+from+reporting+for+book\">casts doubt</a> on her <a href=\"http://scripting.com/davenet/2001/01/08/whatIsIntegrity.html\">integrity</a>. The safest thing for her to have done is to leave the non-reportable leaks out of the book, to avoid the appearance that she's withholding news so she can make more money with the book. ",
+            "created": "Wed, 05 Oct 2022 12:45:32 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2022/10/05/confidenceMan.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Someone in a J-school should study paywalls. A PhD thesis? Quantify what's going on and how effective (or not) each approach is.",
+            "created": "Wed, 05 Oct 2022 13:43:22 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/jeremiahmoore/status/1577571740481253376\">Jeremiah Moore</a>: \"In the past you could buy a day-pass for all news released by a given newspaper on a given day. Called 'buying the paper' it had a reasonable fixed cost.\"",
+            "created": "Wed, 05 Oct 2022 13:03:31 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Substack has a sadistic kind of paywall. You start reading a piece, get into it, enough to wonder where it‘s going and boom, it’s time to subscribe or get out of here. Leaves a humiliation that’s hard to describe. This is the <a href=\"https://cutlefish.substack.com/p/tbm-4151-why-goal-cascades-are-harmful\">page</a> that triggered the paywall, it's not doing it now -- I have no idea why. This is the second time I've seen this paywall. Anyway, I clicked on the link because I thought I might learn something, instead I have a pain in the gut. Trains you to never read anything on Substack again, and, like all other paywalls, it does not make me want to subscribe. If you have a comment, here's the <a href=\"https://twitter.com/davewiner/status/1577618434220777473\">original tweet</a>. ",
+            "created": "Wed, 05 Oct 2022 12:40:39 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I thought the <a href=\"https://en.wikipedia.org/wiki/Elenore\">Turtles</a> were silly when I was a kid, but now I'm listening to <a href=\"https://www.youtube.com/watch?v=JeAtre3Bxg8\">Elenore</a>, and man it's really good. (And also silly.)",
+            "created": "Wed, 05 Oct 2022 13:48:07 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=JeAtre3Bxg8",
+            "flInCalendar": true
+        }
+    ]
+}
