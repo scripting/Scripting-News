@@ -1,0 +1,97 @@
+{
+    "created": "2022-10-07T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "07",
+    "path": "2022/10/07",
+    "text": "October 07",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://youtu.be/j8YTXQgYaX8?t=538\">Judy</a>: \"He's like you, but with a human head.\"",
+            "created": "Fri, 07 Oct 2022 20:04:42 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=j8YTXQgYaX8&t=538s",
+            "flInCalendar": true
+        },
+        {
+            "text": "I love seeing the Democrats <a href=\"https://twitter.com/ericswalwell/status/1577066779351949328\">take the gloves off</a>.",
+            "created": "Fri, 07 Oct 2022 19:21:00 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/ericswalwell/status/1577066779351949328",
+            "flInCalendar": true
+        },
+        {
+            "text": "The NYT has a new technology podcast, but <a href=\"http://scripting.com/images/2022/10/07/wheresTheFeed.png\">no indication</a> on the site what the \"RSS\" feed is. I know how to find it, but what's the problem in supporting the open standard that made podcasting uncontrollable by the tech industry, something they seem to think is a good idea?",
+            "created": "Fri, 07 Oct 2022 12:23:33 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Comparing FeedLand to River5",
+            "created": "Fri, 07 Oct 2022 16:11:37 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "A good <a href=\"https://github.com/scripting/Scripting-News/issues/239#issuecomment-1271711025\">question</a> on the FeedLand thread. ",
+                    "created": "Fri, 07 Oct 2022 16:11:52 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "<i>What is the difference between FeedLand and \"River5\"?</i>",
+                            "created": "Fri, 07 Oct 2022 16:13:24 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Thanks for asking. This is a good question, I should know how to answer it. So let's give it a try.",
+                    "created": "Fri, 07 Oct 2022 16:13:51 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "It's much more than River5.",
+                            "created": "Fri, 07 Oct 2022 16:14:21 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "It's a browser-based UI for managing and sharing subscriptions. So the users are kind of members of a club. We can all see each others' subscription lists. We know what are the most popular feeds. When someone subscribes to a feed it appears in the subscription log, which is visible to everyone. There is no private information in FeedLand. ",
+                            "created": "Fri, 07 Oct 2022 16:14:34 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "It's <i>very</i> easy to subscribe to a feed that's already in the database. Radically easy. Hard to imagine how it could be easier. That's very important.",
+                            "created": "Fri, 07 Oct 2022 16:15:08 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I can create a \"news product\" entirely in the web browser, no need to use an external tool to manage your feeds and categories. Again, as easy as it can be. I iterated over the design of this stuff obsessively.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "It stores all the data in a relational database.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "So far none of this stuff is in River5. Underneath all this, FeedLand does almost all of what River5 does.",
+                            "created": "Fri, 07 Oct 2022 16:17:38 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "One thing River5 has over FeedLand is that it's shipping, you can use it now. FeedLand is still in development. :smile:",
+                            "created": "Fri, 07 Oct 2022 16:17:39 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Basically where River5 is a simple feed reading system, this is groupware, collaborative, like Slack it's meant for workgroups. The end result is not entirely dissimilar to River5, but the chance to work with other people is new.",
+                    "created": "Fri, 07 Oct 2022 16:15:46 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
