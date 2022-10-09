@@ -1,0 +1,35 @@
+{
+    "created": "2022-10-08T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "08",
+    "path": "2022/10/08",
+    "text": "October 08",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I've been reading chapters of <a href=\"https://book.micro.blog/\">Manton Reece's book</a>. It's a really sad story, but I don't think it has to be. There was a lot of collegiality in the early blogging community, and we shared our work. He mentions <a href=\"https://www.google.com/search?q=site%3Ascripting.com+manila\">Manila</a> in passing, but it solved a big part of the puzzle that eventually became WordPress, Facebook and Twitter, and btw <a href=\"http://micro.blog\">micro.blog</a>. All the source information is in the archive of Scripting News, this blog. Manila was the <a href=\"http://scripting.com/davenet/1999/05/24/editThisPage.html\">culmination</a> of a couple of years of open experimentation I did into how you could simplify content management so ordinary people could do it. First we had to understand what the problem was (two models for the content, one the editing view and the other the published view, there needed to be one model), why content management was too complicated for writers, and then how to make it usable. And then there was a lot of code to write, UI to design and endless iteration. And it had an API. That was a big deal. It's probably why Twitter and WordPress have APIs, btw. All that (unless I missed something) is left out of Manton's story. I was hoping for the actual story about how this worked to be chronicled in his book. Not only because I want to be in the story myself, but also so that today's developers know how these kinds of things come to be. Most of the stories tell the wrong freaking story. :boom:",
+            "created": "Sat, 08 Oct 2022 15:53:42 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/12/12/zen.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I have a great <a href=\"http://bloggers.scripting.com/\">news product</a> for bloggers. I hope to get more readworthy bloggers on that site. It's kind of sparse! Still diggin.",
+            "created": "Sat, 08 Oct 2022 15:29:22 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The Mets suck. As a lifelong Mets fan I know this. I love the Mets. It’s a family thing. Parents and grandparents loved the Brooklyn Dodgers so I love the Mets. But what bullshit that supposed Mets fans booed our starter as he left the field last night, and many left before the game was  over.  As usual  some <s>fucking</s> Yankees fans got Mets hats and are pretending to be Mets  fans. ",
+            "created": "Sat, 08 Oct 2022 15:05:03 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "What Facebook is doing with the <a href=\"https://about.meta.com/metaverse/impact/\">Metaverse</a> is doomed to fail. When has a big established tech giant invented the next layer of the virtuality? If there’s any validity to Zuck's vision, the reality will be achieved by a startup, competing with other startups. Facebook which now foolishly  calls  itself  Meta!  (might  as  well  change  their  name  to  Bullshit!)  will,  if  they’re  lucky  get  to  buy  one  of  the  leading  startups,  will  eventually get  a  new  CEO who  will  write  off  the Meta!  foolishness,  and  Meta!  will  go  the  way  of  Topview,  Copland,  OpenDoc,  OS/2,  and  all  the  bullshit  Bill Gates  threw  at  the  open  web.",
+            "created": "Sat, 08 Oct 2022 15:06:53 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
