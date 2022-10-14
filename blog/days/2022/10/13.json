@@ -1,0 +1,93 @@
+{
+    "created": "2022-10-13T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "13",
+    "path": "2022/10/13",
+    "text": "October 13",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I'm <a href=\"https://twitter.com/davewiner/status/1580634676284182528\">looking</a> for \"RSS\" feeds of great art museums.",
+            "created": "Thu, 13 Oct 2022 22:03:17 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Watching the video from Jan 6. No one has so far commended Congress for keeping their cool while their lives were totally in danger. I remember while the insurrection was going on, wondering if right then our government was being executed.",
+            "created": "Thu, 13 Oct 2022 19:16:25 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1580635796427935744",
+            "flInCalendar": true
+        },
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=PvTczyHxNHc\">Sunny Afternoon</a>.",
+            "created": "Thu, 13 Oct 2022 14:04:35 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "We limit each other by the boxes we put each other in. And it's not just you that's boxed in, everyone is. But you probably only see the ways you are. It's happening everywhere to everyone. You're doing it too.",
+            "created": "Thu, 13 Oct 2022 16:02:07 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1580547823460024321\">Suppose</a> you became a billionaire, assume through hard work, ingenuity, risk, sacrifice, all of it. You earned the money. How would you expect your life to change? Would you expect to have more power? Would you have the same friends you have now?",
+            "created": "Thu, 13 Oct 2022 13:19:02 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1580547823460024321",
+            "flInCalendar": true
+        },
+        {
+            "text": "Being poor guarantees that your friends love you for who you are.",
+            "created": "Thu, 13 Oct 2022 19:05:50 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Substack vs Micro.blog",
+            "created": "Thu, 13 Oct 2022 13:35:36 GMT",
+            "type": "outline",
+            "description": "Micro.blog has the one feature that would put Substack over the top.",
+            "subs": [
+                {
+                    "text": "I once asked a journalist who uses <a href=\"http://substack.com\">Substack</a> how he felt about their editor. His response surprised me. He said he loved Substack and basically wouldn't say anything critical about it. I said I was asking as a software developer. I was wondering if there was any reason to try to put together a nice editor for Substack users, I wasn't asking a \"gotcha\" question the way a journalist might. I had no intention of quoting the person. My writing isn't like that. I don't quote people very often, and usually if I do, it's without saying who they are, as in this bit. ",
+                    "created": "Thu, 13 Oct 2022 13:31:30 GMT",
+                    "image": "http://scripting.com/images/2022/10/13/tinaTurnerBarbie.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It was kind of a hypothetical question anyway, because I <i>can't</i> write an editor for Substack users, they don't permit it. Writers have to use their editor. It's the only reason I don't use Substack myself. I have my own editor that suits my writing style, and don't plan on switching, ever. And I recognize that it's also a lock-in tactic. They make it hard to publish through Substack something you published elsewhere. ",
+                    "created": "Thu, 13 Oct 2022 13:43:07 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"http://micro.blog\">micro.blog</a>, written by Manton Reece, who I've written about here <a href=\"http://scripting.com/2022/10/08.html#a155342\">recently</a> makes it incredibly easy to publish stuff published elsewhere as part of your blog. I recently decided to learn how it works, again, after playing with it a bit when it first came out. It's an interesting product that I sense started out very simple, but over time got so many features that now it's hard to approach as a newbie. But after a number of sessions being somewhat confused, I think I now understand what the product is at its core. ",
+                    "created": "Thu, 13 Oct 2022 13:35:33 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "First it's a simple blogging tool. Posts can have titles. You edit in a plain text editor. The system supports Markdown styling and links. It supports outbound \"RSS\", and where it gets interesting is that it supports <i>inbound</i> RSS too. So I can give it the URL of my <a href=\"http://xmlviewer.scripting.com/?url=http%3A%2F%2Fradio3.io%2Fusers%2Fdavewiner%2Frss.xml\">linkblog feed</a> and everything I post there appears as if I wrote it on micro.blog. In fact I did that a long time ago the first time I tried it out, and it must appear to some people as if I've been a regular user all along. People reply to my linkblog posts. I feel bad about that. It seems selfish of me to do that, to push ideas into a system, but to not be there to respond on behalf of those ideas. But I haven't taken the link out, at least not yet. :-)",
+                    "created": "Thu, 13 Oct 2022 13:45:19 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The interesting thing about it, and the reason I put the two products together in one piece is that micro.blog has the one feature that imho would put Substack over the top, and give it a shot at world domination. On the other hand, wouldn't it be nice if micro.blog added a newsletter feature to put a little pressure on Substack to open themselves up a bit more? :boom:",
+                    "created": "Thu, 13 Oct 2022 13:41:17 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: I haven't described all the features of micro.blog. For example, in addition to each user having a blog, each user also has a timeline, like Twitter. You subscribe to other users. Not sure if you can subscribe to external RSS feeds (which would make it a feed reader too). Where the boundaries are is where the confusion is, at least for me. ",
+                    "created": "Thu, 13 Oct 2022 13:56:28 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PPS: I think my presence there makes people uncomfortable, perhaps. While the product is a paragon of openness, the community seems kind of closed, basically part of what I think of as <a href=\"https://www.hover.com/domains/results?utf8=%E2%9C%93&q=gruberville\">GruberVille</a>. All things that emanate from <a href=\"https://daringfireball.net/\">John Gruber's blog</a>. I am not part of that world, but I have an account. I am harmless, I have no desire to interfere with micro.blog -- I think it's wonderful that someone is doing what Manton is doing. As I've tried to say a number of times, <a href=\"http://scripting.com/2021/12/16/153331.html?title=myProductIsInterop\">my product is interop</a>. I am 67 years old and am aware that every time I start a new product it could be my last. I am not trying to conquer anything, however I am trying to shake at least one part of the web out of the deep sleep it has been in ever since Google Reader took over and then was axed. ",
+                    "created": "Thu, 13 Oct 2022 13:57:56 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
