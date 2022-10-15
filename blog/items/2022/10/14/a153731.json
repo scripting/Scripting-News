@@ -1,0 +1,44 @@
+{
+    "text": "Let's try something different",
+    "created": "Fri, 14 Oct 2022 15:37:31 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I generally  don't write about features in a product that's still in testing, I wait until it's \"done\" whatever that means. But I've found that has less than optimal results. I ship everything at once, and then hope people see the good stuff before they move on. There's no time to focus attention on the individual pieces, and that's where the real work is in making software nice to use. ",
+            "created": "Fri, 14 Oct 2022 15:37:37 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "There's so many new ideas in \"Drummer\" for example that almost no one knows about. It's one of my biggest regrets about how software development works. When I read about musicians in the 60s and how they all knew each other and went to each others' shows. I wish some of the people I respect were up to date on my stuff, and it were easy for me to stay up on their stuff. ",
+            "created": "Fri, 14 Oct 2022 15:49:39 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "So let's give it a try. This is a report on a new feature that I added to \"FeedLand\" today. It's still in development.",
+            "created": "Fri, 14 Oct 2022 15:39:35 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I saw a user request, they wanted a way to tell the system to check a feed for updates without having to copy the URL of the feed to the clipboard and enter it into a dialog. We already had a command that works that way, but why make them work so hard? Indeed. ",
+            "created": "Fri, 14 Oct 2022 15:39:41 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "So I added a button to the <i>Feed Info</i> page, next to the place where it says how many items we've found in the feed and how many times it has been checked. The button says (Check now). Click the button, and when it's done it refreshes the page according to the result of the check. ",
+            "created": "Fri, 14 Oct 2022 15:50:35 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Screen shot of new (Check now) button on Feed Info page in FeedLand.",
+            "created": "Fri, 14 Oct 2022 15:41:50 GMT",
+            "inlineImage": "http://scripting.com/images/2022/10/14/feedInfoPageScreen.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "The astute observer will note that this page works much like the main viewing page in \"BingeWorthy\". No accident there. :smile:",
+            "created": "Fri, 14 Oct 2022 15:51:26 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
