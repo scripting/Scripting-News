@@ -1,0 +1,43 @@
+{
+    "text": "Something kind of sad",
+    "created": "Sat, 15 Oct 2022 15:34:51 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Let me say up front -- not everything is roses folks. If I were always going to pretend everything were great, what would be the point of writing, it would all be lies. Anyway.. As I close in on the public release of FeedLand..",
+            "created": "Sat, 15 Oct 2022 22:35:48 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I just realized something pretty sad. People have raised huge amounts of money to redo the development projects I already did, hired all kinds of product managers, marketing people, and most of them failed, I think because none of them understood what they were working on, or didn't have the skills necessary to move forward, so they just re-did stuff in a different way. If I called something \"item\" they called it \"object\" -- each of the elements got new names but did the same things. None of the investment went into  actual new development, moving forward. ",
+            "created": "Sat, 15 Oct 2022 15:34:57 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I like to develop, and I have limited patience for the other stuff. So when I finish one project I move on to the next one. So I did a great product last year, spent the whole year doing it, but it's just sitting there, because I've spent the next whole year working on the next one. The two products need each other, they hook into each other. It'll be fantastic. But too few people will use it, if the past is a predictor. To the extent other people use it, I won't hear about it, so none of their experience is filtered back into the product. ",
+            "created": "Sat, 15 Oct 2022 22:29:16 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I have to say that this way of doing development, as much as it fits me, has mostly been wasted. This could still be made to work, but people would have to want to help instead of replace. After people got the idea you can get rich doing internet projects, the spirit of volunteerism has faded. Because the reality is you <i>can't</i> make a fortune here, it's a one in a million shot, but everyone is still trying. Meanwhile everything goes to shit, everywhere you look!",
+            "created": "Sat, 15 Oct 2022 22:30:27 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "All I've wanted for the last 30 years or so is to lead a team. I know how to do that, having been the CEO of a tech company before. Only I wouldn't cast myself in that role, because when I wake up in the morning I want to keep pushing forward on my development projects. I thought when the VCs were interested in RSS we were talking about me doing the development. Nope, they hired their own programmers, thinking that what I was doing was menial, fungible, or was finished somehow or their guys would know what to do next. My friend Adam Curry started a company, raised huge money, and like the others, thought that he could save some money by replacing me with other programmers. I'm sure the programmers told them they could do it. Something must not have worked. (Sorry that was sarcasm.)",
+            "created": "Sat, 15 Oct 2022 16:33:43 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Don't cry for me. I haven't given up yet. But one should also accept reality. Even people I thought of as friends wanted to do my work without me. I want to slap them, don't you know anything about software? Fucking idiots. I could tell you some amazing stories about foolishness and greed. ",
+            "created": "Sat, 15 Oct 2022 16:36:34 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "After I finish FeedLand the next thing I want to do is straighten out JavaScript. It's ridiculous how much extra work they make you do because they couldn't manage synchronization in the kernel. We have a good start on that in Drummer, I want to finish the job. I want to stop having to stand on my head to get code to synch up. My pseudo code should be my regular code, if you know what I mean. ",
+            "created": "Sat, 15 Oct 2022 16:38:00 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
