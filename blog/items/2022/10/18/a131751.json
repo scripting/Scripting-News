@@ -1,0 +1,67 @@
+{
+    "text": "Where's the feed?",
+    "created": "Tue, 18 Oct 2022 13:17:51 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Good morning!",
+            "created": "Tue, 18 Oct 2022 13:17:55 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "There's a new news org on the web today, <a href=\"http://semafor.com\">semafor.com</a>. It looks iteresting, but I can't find the feed? ",
+            "created": "Tue, 18 Oct 2022 13:17:59 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "There's no meta information in the <a href=\"view-source:https://www.semafor.com/\">source</a> for the home page. ",
+                    "created": "Tue, 18 Oct 2022 13:24:32 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "There doesn't seem to be a page saying how to find the feeds.",
+                    "created": "Tue, 18 Oct 2022 13:24:37 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'm beginning to believe there might not be any. Shudder. ",
+                    "created": "Tue, 18 Oct 2022 13:31:31 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm enlisting help from people who believe in the open web, to help find and curate links to feeds on interesting sites, old and new. ",
+            "created": "Tue, 18 Oct 2022 13:23:25 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "So I put this out there, here, on my <a href=\"http://scripting.com/2022/10/18/131751.html?title=wheresTheFeed\">blog</a>, in <a href=\"https://twitter.com/davewiner/status/1582362674104455170\">Twitter</a>, on <a href=\"https://dave.micro.blog/2022/10/18/seamfors-feed.html\">micro.blog</a>, where ever -- ",
+            "created": "Tue, 18 Oct 2022 13:19:06 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "Where the *&@!# are semafor's feeds?",
+                    "created": "Tue, 18 Oct 2022 13:19:04 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm often the only person asking for this. I think it'll work better if more people help push. ",
+            "created": "Tue, 18 Oct 2022 13:19:24 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Thanks! 😀",
+            "flInCalendar": true
+        },
+        {
+            "text": "Dave",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
