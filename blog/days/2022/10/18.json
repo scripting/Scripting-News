@@ -1,0 +1,122 @@
+{
+    "created": "2022-10-18T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "18",
+    "path": "2022/10/18",
+    "text": "October 18",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1582473028684111873\">People</a> who link to stuff use feeds. ",
+            "created": "Tue, 18 Oct 2022 20:44:25 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "People seem to like <a href=\"http://news.scripting.com\">news.scripting.com</a> -- that's so cool. So I installed it as the <a href=\"http://scripting.com/images/2022/10/18/newsTab.png\">third tab</a> on the <a href=\"http://scripting.com/?x=0\">home page</a>. Just click the <i>News</i> tab to be instantly transported to the <a href=\"http://scripting.com/images/2022/10/18/newsScreen.png\">news</a> from the feeds I collect. ",
+            "created": "Tue, 18 Oct 2022 20:14:48 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "If I were dictator of MSNBC, here's what I would do. Give Keith Olbermann the 9PM hour. Keep the following: Lawrence, Joy Reid, Alex Wagner and Stephanie Ruhle. All the rest goodbye, including Morning Joe, Ari Melber, Chris Hayes, the Republican who's on before Melber, the <a href=\"https://www.democraticunderground.com/12512333229\">idiot</a> who punted on this <a href=\"https://twitter.com/atrupar/status/1582406586126827521\">interview</a> with Speaker Pelosi, and if Chuck Todd is still involved, please put him out to pasture. I'd also give an hour to <a href=\"https://en.wikipedia.org/wiki/Elie_Mystal\">Elie Mystal</a>, it'd be fun to see who he chooses as guests. And completely get rid of the standard guests. They are so freaking tired. They need a rest. And with Olbermann on top again, well at least it would be interesting bullshit, not the normal self-important leftover bullshitty bullshit.  ",
+            "created": "Tue, 18 Oct 2022 18:40:04 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2022/10/18/mystal.png",
+            "imageLink": "https://en.wikipedia.org/wiki/Elie_Mystal",
+            "flInCalendar": true
+        },
+        {
+            "text": "As a son of Holocaust survivors <a href=\"http://scripting.com/images/2022/10/18/trumpsupporters.png\">this</a> is <i>exactly</i> how I feel about people who plan to vote Republican in this election, and journalists who pretend that there still is a Republican Party.",
+            "created": "Tue, 18 Oct 2022 18:28:37 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The [[tag]] server I <a href=\"http://scripting.com/2021/07/22/135636.html?title=taggingInScriptingNews\">implemented</a> last year has been offline for a few weeks. Just fixed the problem. Let's see if it works again. ",
+            "created": "Tue, 18 Oct 2022 14:56:53 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Where's the feed?",
+            "created": "Tue, 18 Oct 2022 13:17:51 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Good morning!",
+                    "created": "Tue, 18 Oct 2022 13:17:55 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "There's a new news org on the web today, <a href=\"http://semafor.com\">semafor.com</a>. It looks iteresting, but I can't find the feed? ",
+                    "created": "Tue, 18 Oct 2022 13:17:59 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "There's no meta information in the <a href=\"view-source:https://www.semafor.com/\">source</a> for the home page. ",
+                            "created": "Tue, 18 Oct 2022 13:24:32 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "There doesn't seem to be a page saying how to find the feeds.",
+                            "created": "Tue, 18 Oct 2022 13:24:37 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I'm beginning to believe there might not be any. Shudder. ",
+                            "created": "Tue, 18 Oct 2022 13:31:31 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'm enlisting help from people who believe in the open web, to help find and curate links to feeds on interesting sites, old and new. ",
+                    "created": "Tue, 18 Oct 2022 13:23:25 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So I put this out there, here, on my <a href=\"http://scripting.com/2022/10/18/131751.html?title=wheresTheFeed\">blog</a>, in <a href=\"https://twitter.com/davewiner/status/1582362674104455170\">Twitter</a>, on <a href=\"https://dave.micro.blog/2022/10/18/seamfors-feed.html\">micro.blog</a>, where ever -- ",
+                    "created": "Tue, 18 Oct 2022 13:19:06 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Where the *&@!# are semafor's feeds?",
+                            "created": "Tue, 18 Oct 2022 13:19:04 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'm often the only person asking for this. I think it'll work better if more people help push. ",
+                    "created": "Tue, 18 Oct 2022 13:19:24 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Thanks! 😀",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Dave",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Semafor's outline format",
+            "created": "Tue, 18 Oct 2022 13:35:57 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Anyway, it's interesting that [[Semafor]] is using an outline format much as Axios is. I love the economy of the form, and the promise it makes to a reader. It forces the publication to include all the info a reader might reasonably expect from a story. So often you read a story and you think you're going to find out (for example) what station the show is on, or where the concert is, but they leave out the one crucial bit of info. Often it's probably not deliberate, they just don't think in terms of an actual human being reading -- actually wanting to <i>use</i> the information you expect to be in their article. By having a rigid checklist of things every story must cover, they are making a promise to a reader, that Semafor won't omit crucial information, that they are thinking of the reader. ",
+                    "created": "Tue, 18 Oct 2022 13:36:01 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
