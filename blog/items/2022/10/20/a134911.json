@@ -1,0 +1,73 @@
+{
+    "text": "Someone else's feed list",
+    "created": "Thu, 20 Oct 2022 13:49:11 GMT",
+    "type": "outline",
+    "description": "A screen shot of my feed list as viewed by someone else.",
+    "metaImagex": "http://scripting.com/images/2022/10/20/someoneElsesFeedList.png",
+    "subs": [
+        {
+            "text": "Here's a <a href=\"http://scripting.com/publicfolder/feedland/screenshots/someoneElsesFeedList.png?x=1\">screen shot</a> of my feed list as viewed by another user. ",
+            "created": "Thu, 20 Oct 2022 13:49:16 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "My feedlist as viewed by another user.",
+            "created": "Thu, 20 Oct 2022 13:58:34 GMT",
+            "inlineImage": "http://scripting.com/images/2022/10/20/someoneElsesFeedList.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "These are the feeds I'm subscribed to. When I look at the list, all the feeds are checked, but when another user looks at the same list, only the ones they're subscribed to are checked. ",
+            "created": "Thu, 20 Oct 2022 14:06:55 GMT",
+            "collapse": "true",
+            "subs": [
+                {
+                    "text": "This is a core feature of the product. It's how we share new feeds to follow, both inside and outside of FeedLand. ",
+                    "created": "Thu, 20 Oct 2022 14:27:14 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's a very porous product, since it's about feeds, it's all about moving ideas all over the place. ",
+                    "created": "Thu, 20 Oct 2022 14:26:17 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "To subscribe to a feed, just click the checkbox. It's automatically added to your list and its stories will show up when you read the news.",
+            "created": "Thu, 20 Oct 2022 14:01:11 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Notes...",
+            "created": "Thu, 20 Oct 2022 14:10:12 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "The most basic rule of FeedLand is that everything is visible to everyone. Except for your login info, there's absolutely no privacy in FeedLand, which keeps things really simple. ",
+                    "created": "Thu, 20 Oct 2022 13:59:43 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I wrote up a <a href=\"http://scripting.com/futureNews.html\">design</a> for this in 2007, calling it <a href=\"http://scripting.com/stories/2007/04/24/checkboxNews.html\">Checkbox News</a>, hoping someone else would do it. No one did, so as often happens, I did it myself. :smile:",
+                    "created": "Thu, 20 Oct 2022 13:45:58 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "FeedLand is not yet released. It is currently being used by about twenty people, since early August. I don't want to add more yet, because this product is about community. We're not ready yet for a lot of new people. We're going slow and deliberately. I remember from past experience how community cultures develop. I want to get this right.",
+                    "created": "Thu, 20 Oct 2022 14:18:56 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "To people who make (and use) feed readers, the lists people create in FeedLand can easily be shared with feed readers that support OPML import. Here's <a href=\"http://feedland.org/opml?screenname=davewiner\">my feed list</a> in OPML. It changes as I add and remove feeds from the list via the checkboxes. ",
+                    "created": "Thu, 20 Oct 2022 14:35:07 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
