@@ -1,0 +1,29 @@
+{
+    "created": "2022-10-22T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "22",
+    "path": "2022/10/22",
+    "text": "October 22",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I'm 83% decided that on Monday we'll open \"FeedLand\" to anyone who wants to use it. We've got a lot more work to do, so we might as well get started with that. ",
+            "created": "Sat, 22 Oct 2022 17:35:17 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/03/19/beet.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "A nice <a href=\"https://twitter.com/photomatt/status/1583546691549921280\">testimonial</a> from Matt Mullenweg, about my role in getting podcasting started. Matt has made his own huge contribution to the open web with his WordPress content management system, and many other projects. I think \"FeedLand\" will fit in well with their new open source podcast client. Scroll to the end of the <a href=\"https://ma.tt/2022/10/open-source-podcasting-client/\">announcement</a> to <a href=\"http://scripting.com/images/2022/10/22/pocketAnnounceClip.png\">see</a> how enthusiastic they are about sharing subscription lists. They don't know it yet, but they're going to get some incredible support from FeedLand. It's designed to plug into that interface. I <a href=\"https://twitter.com/davewiner/status/1583551708621217792\">suggested</a> to Matt that they go the next step and let the user enter the URL of an OPML list, and read it periodically so they can manage their subscriptions elsewhere. I like it because it'll mean all my favorite podcasts will be available there and on my <a href=\"http://dave.podcatch.com/\">web podcast site</a>. ",
+            "created": "Sat, 22 Oct 2022 17:29:18 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "We the people ought to make this election a blowout of turnout. Fill the streets with voters. A real show of power. Fuck the politicians. The Dems seem pretty complicit if you ask me. Scare the daylights out of all of them.",
+            "created": "Sat, 22 Oct 2022 18:16:21 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
