@@ -1,0 +1,63 @@
+{
+    "text": "Rivers and mailboxes in FeedLand",
+    "created": "Thu, 27 Oct 2022 13:08:07 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "In \"FeedLand\" there are three ways to view a feed and a menu to switch between them. To try this out, go to your Feed List (choose <i>My feed list</i> in the first menu) and click on the title of one of the feeds. This takes you to its <i>Feed Info</i> page, one of the three views. ",
+            "created": "Thu, 27 Oct 2022 13:08:16 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<b>Feed Info page</b>",
+            "created": "Thu, 27 Oct 2022 14:48:23 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "1. Here's a link to the <a href=\"http://feedland.org/?feedurl=https%3A%2F%2Ffeeds.arstechnica.com%2Farstechnica%2Findex\">Feed Info page</a> for Ars Technica. This page has basic info about the feed, when it was added and who added it. It says when it was last checked, last updated (a new item appeared in the feed), how many items we've retrieved from the feed, how long it took to read the feed (an indication of how healthy its server is) and most important, who is subscribed to the feed.  When you click on a user's name, you're taken to their feed list (<a href=\"http://feedland.org/?username=gwthompson\">example</a>), where you may find other feeds to subscribe to. This is what we mean about FeedLand being made of people (and feeds and news too, of course). ",
+            "created": "Thu, 27 Oct 2022 13:17:03 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you look in the menu bar, you'll <a href=\"http://scripting.com/images/2022/10/27/viewMenuScreen.png\">see</a> there's a <i>View</i> menu. It gives you a way to switch between the three views. For the next step choose <i>View as mailbox.</i> ",
+            "created": "Thu, 27 Oct 2022 13:18:49 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<b>Mailbox view</b>",
+            "created": "Thu, 27 Oct 2022 14:48:12 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "2. The <a href=\"http://feedland.org/?mailbox=https%3A%2F%2Ffeeds.arstechnica.com%2Farstechnica%2Findex\">Mailbox view</a> presents a feed as if it were a collection of email, with the titles and descriptions in the left column and the full text of each item in the right column. You'll find this familiar if you use most other feed readers, it's the most common way of presenting feed content. I <a href=\"http://essaysfromexodus.scripting.com/priorArtDesignMethod\">patterned</a> my mailbox reader after the one in <a href=\"https://netnewswire.com/\">NetNewsWire</a>, designed by a former colleague, <a href=\"https://www.google.com/search?q=site%3Ascripting.com+Brent+Simmons\">Brent Simmons</a>. ",
+            "created": "Thu, 27 Oct 2022 13:23:52 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<b>River view</b>",
+            "created": "Thu, 27 Oct 2022 14:48:00 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "3. To see the <a href=\"http://feedland.org/?river=https%3A%2F%2Ffeeds.arstechnica.com%2Farstechnica%2Findex\">River view</a>, choose <i>View as river</i> from the View menu. In this view you see the feed contents presented as a <a href=\"http://scripting.com/2014/06/02/whatIsARiverOfNewsAggregator.html\">river of news</a> -- a format I've used in all my feed products going back to <a href=\"http://my.userland.com/\">My.UserLand</a> in 1999. The River view is different because it presents just the items from one feed, not a set of feeds. The full text of the item is not displayed by default, but you can see it by clicking on the down arrow in the lower right corner of each item, if it has text that is hidden. <a href=\"http://scripting.com/images/2022/10/27/arrowscreen.png\">Screen shot</a>.",
+            "created": "Thu, 27 Oct 2022 13:26:33 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Screen shots: <a href=\"http://scripting.com/images/2022/10/27/riverviewscreen.png\">River view</a>, <a href=\"http://scripting.com/images/2022/10/27/mailboxviewscreen.png\">Mailbox view</a>, <a href=\"http://scripting.com/images/2022/10/27/feedinfoviewscreen.png\">Feed Info page</a>.",
+            "created": "Thu, 27 Oct 2022 13:49:50 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "For more info, see the <a href=\"http://docs.feedland.org/about.opml\">Deeper docs page</a>.",
+            "created": "Thu, 27 Oct 2022 13:54:27 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "And a <a href=\"https://github.com/scripting/feedlandSupport/issues/110\">place</a> to ask questions. ",
+            "created": "Thu, 27 Oct 2022 14:25:16 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
