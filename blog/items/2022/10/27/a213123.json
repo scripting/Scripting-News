@@ -1,0 +1,6 @@
+{
+    "text": "FeedLand can also generate feeds, not just read them. For example, when I <i>like</i> an item in a feed I'm reading in FeedLand, it's automatically added to a <a href=\"http://xmlviewer.scripting.com/?url=http://data.feedland.org/likes/davewiner.xml\">public feed</a> of the items I've liked. Every user gets one of these feeds. I've subscribed to the feed in <a href=\"http://feedly.com\">Feedly</a>, since it's RSS, it <a href=\"http://scripting.com/images/2022/10/27/feedlyScreen.png\">works</a>. Of course you can also subscribe to it <a href=\"http://feedland.org/?feedurl=http%3A%2F%2Fdata.feedland.org%2Flikes%2Fdavewiner.xml\">in FeedLand</a>. ",
+    "created": "Thu, 27 Oct 2022 21:31:23 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
