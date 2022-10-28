@@ -1,0 +1,38 @@
+{
+    "text": "FeedLand's feed-reading tech",
+    "created": "Thu, 27 Oct 2022 16:29:27 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "A general note about feed technology. The reason FeedLand is syntax-agnostic is because of an open source package for Node.js called <a href=\"https://github.com/danmactough/node-feedparser\">feedparser</a> that I built on. It understands and flattens out the names in RSS, Atom and RDF feeds. I am thankful for not having to deal with feeds at that level.",
+            "created": "Thu, 27 Oct 2022 16:24:24 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The first <a href=\"https://github.com/scripting/feedRead\">layer</a> I built on top of the package hid some complexity in its API that imho is only necessary if you're like Google with an array of 100K systems reading a million feeds every minute. ",
+            "created": "Thu, 27 Oct 2022 16:31:10 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Five years later, as part of the FeedLand project, I added another layer, because I don't want a stream of items with data about the feed packed into each item, I want to read the feed and get a JavaScript object with everything neatly organized, with all the info from the feed in the object. As simple as possible. Factored and factored again. ",
+            "created": "Thu, 27 Oct 2022 16:53:40 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's all in a package called <a href=\"https://github.com/scripting/reallysimple\">reallySimple</a>. It's the code that FeedLand uses to read feeds, and it works pretty flawlessly as far as I can tell, and it's hell on wheels performance-wise.",
+            "created": "Thu, 27 Oct 2022 16:54:13 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "This is what the JavaScript object <a href=\"http://feeder.scripting.com/returnjson?feedurl=https%3A%2F%2Frss.nytimes.com%2Fservices%2Fxml%2Frss%2Fnyt%2FTheater.xml\">looks like</a>, for the NYT's theater feed. Tell me if you think it's fast. I certainly do.  ",
+            "created": "Thu, 27 Oct 2022 16:46:09 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Anyway -- I hope people use <a href=\"https://github.com/scripting/reallysimple\">reallySimple</a>. It really does make feed reading in Node as easy as reading a JSON file.  ",
+            "created": "Thu, 27 Oct 2022 16:36:19 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
