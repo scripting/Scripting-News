@@ -1,0 +1,7 @@
+{
+    "text": "All the feed reading in FeedLand happens in the open source <a href=\"https://github.com/scripting/reallysimple\">reallySimple package</a>. If one wanted to extend it to support another format, one could do that. I am open to incorporating those changes in FeedLand. And of course the same code could be used anywhere in any project because reallySimple is open source. Why wait for Blue Sky. This approach is simple, and ready to go, today. Build a platform one brick at a time not in a big explosion of specs, imho. ",
+    "created": "Mon, 31 Oct 2022 14:02:52 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2022/10/31/camel.png",
+    "flInCalendar": true
+}
