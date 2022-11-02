@@ -1,0 +1,48 @@
+{
+    "created": "2022-11-01T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "01",
+    "path": "2022/11/01",
+    "text": "November 01",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "\"FeedLand\" has been great for me because I don't have to beg Google Reader (or its successors) to support a feature in RSS I want to try out. I just do it. And I can support it in my blog or any of my content-generating tools. This is how you bootstrap new standards.  ",
+            "created": "Tue, 01 Nov 2022 19:58:31 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Now that you can use FeedLand <a href=\"http://scripting.com/2022/10/29.html#a210624\">without logging in</a>, I'm going to start pointing to feeds using the <a href=\"http://feedland.org/?feedurl=http://scripting.com/rss.xml\">FeedLand page</a> for the feed. Previously I used the <a href=\"http://xmlviewer.scripting.com/?url=http://scripting.com/rss.xml\">xmlviewer</a> app. Mostly because browsers mangle XML text. For some reason they don't mind displaying <a href=\"http://scripting.com/rss.json\">JSON</a> literally. (This may account for why some developers don't like XML.  Anyway, there's a lot more information about the feed on the FeedLand page, and it's also set up so that if you are logged in, you can subscribe with one click. And of course I don't mind if you do. :smile:",
+            "created": "Tue, 01 Nov 2022 15:15:45 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2022/11/01/staceyAbrams.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, this is a <a href=\"http://scripting.com/images/2022/11/01/feedScreenShot.png\">screen shot</a> of what Chrome showz when I try to view my own RSS feed.",
+            "created": "Tue, 01 Nov 2022 20:22:01 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Our new home should be built on RSS. We know how it works. We have the ability to produce billions of feeds at scale, and there is lots of software that interops Basically DNS, RSS and email.",
+            "created": "Tue, 01 Nov 2022 15:14:56 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "This <a href=\"https://twitter.com/QJames/status/1586833202764812292\">speech</a> says it all. ",
+            "created": "Tue, 01 Nov 2022 15:48:16 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/QJames/status/1586833202764812292",
+            "flInCalendar": true
+        },
+        {
+            "text": "Welcome to November.  Did the monthly ritual. Last month's OPML is <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/opml/2022/10.opml\">archived</a> and added to the search engine. ",
+            "created": "Tue, 01 Nov 2022 14:30:38 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
