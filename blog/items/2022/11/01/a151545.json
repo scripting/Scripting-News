@@ -1,0 +1,7 @@
+{
+    "text": "Now that you can use FeedLand <a href=\"http://scripting.com/2022/10/29.html#a210624\">without logging in</a>, I'm going to start pointing to feeds using the <a href=\"http://feedland.org/?feedurl=http://scripting.com/rss.xml\">FeedLand page</a> for the feed. Previously I used the <a href=\"http://xmlviewer.scripting.com/?url=http://scripting.com/rss.xml\">xmlviewer</a> app. Mostly because browsers mangle XML text. For some reason they don't mind displaying <a href=\"http://scripting.com/rss.json\">JSON</a> literally. (This may account for why some developers don't like XML.  Anyway, there's a lot more information about the feed on the FeedLand page, and it's also set up so that if you are logged in, you can subscribe with one click. And of course I don't mind if you do. :smile:",
+    "created": "Tue, 01 Nov 2022 15:15:45 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2022/11/01/staceyAbrams.png",
+    "flInCalendar": true
+}
