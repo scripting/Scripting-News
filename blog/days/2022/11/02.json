@@ -1,0 +1,62 @@
+{
+    "created": "2022-11-02T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "02",
+    "path": "2022/11/02",
+    "text": "November 02",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I posted a <a href=\"https://twitter.com/davewiner/status/1587794609828159488\">thread</a> on Twitter today documenting how Chrome was <a href=\"http://scripting.com/images/2022/11/02/mangledrssscreen.jpeg?nodialog\">mangling</a> RSS feeds, had been for many years. I didn't know this was Google's plug-in. As far as I knew this was the way Chrome shipped. It's possible I installed it myself, it would have had to be a long time ago. But I just right-clicked on the XML icon in the browser's chrome and chose to uninstall it, and I viewed an RSS feed and it came out \"literal\" -- here's a <a href=\"http://scripting.com/images/2022/11/02/rssInChrome.png\">screen shot</a>. All that wasted time. I didn't need to write the xmlviewer app. Oy. I wonder what else I am missing. ",
+            "created": "Wed, 02 Nov 2022 13:58:14 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Reading an RSS file should be as easy as it is to read a JSON file.",
+            "created": "Wed, 02 Nov 2022 13:10:20 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Twitter Web Services",
+            "created": "Wed, 02 Nov 2022 14:47:16 GMT",
+            "type": "outline",
+            "description": "The technology under the Twitter UI may be worth more than the user-facing product.",
+            "metaImage": "http://scripting.com/images/2022/11/02/datacenter.png",
+            "subs": [
+                {
+                    "text": "Twitter as a development platform is an incredible product, worth imho more than the user-facing platform. ",
+                    "created": "Wed, 02 Nov 2022 14:47:31 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "No competition among cloud vendors (AWS, Google, MS, DO), strong well-burned-in API and the huge potential of a world-scale notification network that also has a great simple UI. ",
+                    "created": "Wed, 02 Nov 2022 14:47:47 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Add some services onto that like storage, and you really have something amazing. Huge potential.",
+                    "created": "Wed, 02 Nov 2022 14:48:04 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Frida Kahlo",
+            "created": "Wed, 02 Nov 2022 19:06:43 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2022/11/02/theBusKahlo.png",
+            "subs": [
+                {
+                    "text": "<a href=\"https://www.fridakahlo.org/the-bus.jsp\">The Bus</a>, 1929.",
+                    "created": "Wed, 02 Nov 2022 19:06:51 GMT",
+                    "inlineImage": "http://scripting.com/images/2022/11/02/theBusKahlo.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
