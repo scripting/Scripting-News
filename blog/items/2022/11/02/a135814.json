@@ -1,0 +1,6 @@
+{
+    "text": "I posted a <a href=\"https://twitter.com/davewiner/status/1587794609828159488\">thread</a> on Twitter today documenting how Chrome was <a href=\"http://scripting.com/images/2022/11/02/mangledrssscreen.jpeg?nodialog\">mangling</a> RSS feeds, had been for many years. I didn't know this was Google's plug-in. As far as I knew this was the way Chrome shipped. It's possible I installed it myself, it would have had to be a long time ago. But I just right-clicked on the XML icon in the browser's chrome and chose to uninstall it, and I viewed an RSS feed and it came out \"literal\" -- here's a <a href=\"http://scripting.com/images/2022/11/02/rssInChrome.png\">screen shot</a>. All that wasted time. I didn't need to write the xmlviewer app. Oy. I wonder what else I am missing. ",
+    "created": "Wed, 02 Nov 2022 13:58:14 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
