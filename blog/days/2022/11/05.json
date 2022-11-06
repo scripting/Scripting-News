@@ -1,0 +1,104 @@
+{
+    "created": "2022-11-05T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "05",
+    "path": "2022/11/05",
+    "text": "November 05",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Twitter, if it works, will be a <a href=\"http://scripting.com/stories/2007/04/28/twitterAsCoralReef.html\">coral reef</a>. ",
+            "created": "Sat, 05 Nov 2022 17:37:51 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "By putting an $8 price on Twitter, they create an opportunity for other for-pay services like Twitter. That could be a big deal. Here's the <a href=\"https://www.digitalocean.com/pricing/droplets#basic-droplets\">price sheet</a> for virtual machines at Digital Ocean. Never mind what all the numbers mean, look in the far right column and see how much one machine costs. $4 a month for the cheapest. It's pretty capable. You could host a service for a hundred people on one of those.",
+            "created": "Sat, 05 Nov 2022 17:36:44 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/12/12/mastodon.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "This is <a href=\"http://scripting.com/2022/04/30/150026.html?title=fractionalHorsepowerTwtr\">what</a> you want. It'll take years to get there. That's okay that's just the way it works. And believe it or not we get through through twitter, not by replacing it.",
+            "created": "Sat, 05 Nov 2022 17:57:17 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"http://scripting.com/2019/12/12/163611.html\">2019</a>: \"If I have to go to NYC I take the George Washington Bridge or the Holland or Lincoln Tunnels. I'd much rather take the Golden Gate Bridge, it's so much nicer, but it doesn't go where I want to go!\"",
+            "created": "Sat, 05 Nov 2022 17:38:33 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "All <a href=\"https://twitter.com/mcten/status/1588779178635460608?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1588779178635460608%7Ctwgr%5E534440f8145a0eafdae8691955af0474926223d4%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.silverscreenandroll.com%2F2022%2F11%2F5%2F23442023%2Flebron-james-kyrie-irving-antisemitism-documentary-lakers-nets\">Lebron says</a> is he doesn’t condone antisemitism. That’s pretty weak. Was condoning it an option? I think they’re having a hard time in the nba seeing that Jews are real people. I’d like to hear something like that from an nba star.",
+            "created": "Sat, 05 Nov 2022 19:32:18 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm reading that Repubs are using terms like <i>blowout</i> and <i>bloodbath</i> to describe this election. Do they really think this or are they preparing for riots when the elections don't turn out that way?",
+            "created": "Sat, 05 Nov 2022 17:56:16 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Fireworks makes more sense this time of year when darkness is in great supply.",
+            "created": "Sat, 05 Nov 2022 17:35:21 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "If Twitter is imploding...?",
+            "created": "Sat, 05 Nov 2022 17:29:00 GMT",
+            "type": "outline",
+            "description": "I’ve been asked by a number of people what to do, based on the assumption Twitter is imploding.",
+            "subs": [
+                {
+                    "text": "I’ve been asked by a number of people what to do, based on the assumption Twitter is imploding.",
+                    "created": "Sat, 05 Nov 2022 17:29:06 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "It’s not yet imploding. Everything seems to work, as before. ",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I’d back up the list of people you follow, and people who follow you. How to do this? Someone should figure it out and write a simple howto.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I wouldn’t expect mastodon to be able to handle anything remotely like the load Twitter is handling for years. In the meantime, someone should write a Busy Developers Guide to peering with Mastodon, so we can get started on making the vision really work at scale.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "If we wanted a smooth transition we should have planned for a great diaspora. Years ago. But nothing like that happened.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I wouldn’t hold my breath waiting for Blue Sky.",
+                            "created": "Sat, 05 Nov 2022 17:29:09 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "What is possible, in a few months, if we start working on it now, are mini-twitters, like lifeboats, where a small circle of friends gets together to share stuff within the group. But this won’t be free. But it won’t be that expensive either. Far less than say $8 per month. ",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Another thing that’s possible is using RSS and writing blogs. A “back to the land” movement, perhaps. It’s much less expensive resource-wise, and really works. Lots of pre-existing options.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Realistically those are the choices, imho — with the caveat that I’ve been wrong before and all other disclaimers. ",
+                            "created": "Sat, 05 Nov 2022 17:29:13 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
