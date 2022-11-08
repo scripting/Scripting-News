@@ -1,0 +1,132 @@
+{
+    "created": "2022-11-07T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "07",
+    "path": "2022/11/07",
+    "text": "November 07",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "They should make it easier for average users to buy ads on Twitter. Probably huge amounts of money locked up there.",
+            "created": "Tue, 08 Nov 2022 02:53:08 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I am <a href=\"https://mastodon.social/@davew\">davew@mastodon.social</a>. Just followed some people and posted some notes. It's a lot faster today than it was the other day. I guess I have to figure out their API so I can post my linkblog items there. Or maybe someone else can help with that? Mastodon should support inbound RSS. Then we could just use RSS to hook the two worlds up. Bridges are very good things. ",
+            "created": "Mon, 07 Nov 2022 23:38:39 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/12/12/mastodon.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Just went through the prefs system <a href=\"https://mastodon.social/@davew/109305331340609145\">on Mastodon</a>. Very professionally done, as good as anything anywhere. This doesn't feel like open source software, or put another way, it's nice to see open source software with commercial-level user interface.",
+            "created": "Tue, 08 Nov 2022 00:24:07 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Developers, if you're ever wondering how \"FeedLand\" is handling a certain feed, you can <a href=\"http://feeder.scripting.com/returnjson?feedurl=https://rss.nytimes.com/services/xml/rss/nyt/US.xml\">give it to this app</a>, and it'll show you, in JSON. ",
+            "created": "Mon, 07 Nov 2022 15:50:56 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The big value of Twitter is the social graph, and that's what will keep you coming back. Same thing with FB. I never built a graph on LinkedIn or Instagram, so I don't give a shit, personally, about those networks. Of course many others do. ",
+            "created": "Mon, 07 Nov 2022 15:33:48 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Neil deGrasse Tyson <a href=\"https://twitter.com/neiltyson/status/1589284952671105024\">asks</a> \"If women ran the country, and they passed laws affecting men’s reproductive organs, I wonder what the men would do?\" I <a href=\"https://twitter.com/davewiner/status/1589628912723951618\">replied</a>:  We would sue them. Americans are individuals. If that means anything, I must be the ruler of myself. There is a border, beyond which no one goes w/o my permission, including the government. That border is my body. Even a Republican should understand that. ",
+            "created": "Mon, 07 Nov 2022 15:29:41 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I heard on the news last night that if Repubs win Secretary of State in Michigan, Arizona, Pennsylvania and Wisconsin, it won't be the voters who choose the next president, these officials would. But that's more or less what <a href=\"https://en.wikipedia.org/wiki/Bush_v._Gore\">happened</a> in 2000.",
+            "created": "Mon, 07 Nov 2022 14:21:14 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's the social graph dummy",
+            "created": "Mon, 07 Nov 2022 15:39:27 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "The big value of Twitter is the social graph, and that's what will keep you coming back.",
+                    "created": "Mon, 07 Nov 2022 15:39:43 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Same thing with FB.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I never built a graph on LinkedIn or Instagram, so I don't give a shit, personally, about those networks. Of course many others do.",
+                    "created": "Mon, 07 Nov 2022 15:39:56 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's like the <a href=\"https://www.tesla.com/findus?v=2&bounds=54.251081629311635%2C-66.15380978125%2C22.042838623432843%2C-132.37939571875&zoom=5&filters=store%2Cservice%2Csupercharger%2Cdestination%20charger%2Cbodyshop%2Cparty\">network</a> of <a href=\"https://www.tesla.com/findus?v=2&bounds=50.299224752263044%2C-72.844353615625%2C34.8805999926164%2C-105.957146584375&zoom=6&filters=store%2Cdestination%20charger%2Cbodyshop%2Cparty&search=Madison%2C%20WI%2C%20USA\">charging stations</a> Tesla has, only more so, because we the users created them, with some help from twitter (suggested follows, e.g.)",
+                    "created": "Mon, 07 Nov 2022 15:39:57 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Before anyone leaves Twitter we must be sure we can take our place in the graph with us.",
+                    "created": "Mon, 07 Nov 2022 15:40:30 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And basically that graph should not be owned by a company. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The graph is almost like the US Postal Service before the web came along.",
+                    "created": "Mon, 07 Nov 2022 15:40:38 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Long ago when the journos were debating how to break up FB, at the time I was saying that FB should be split into two entities, the social graph and everything else. ",
+                    "created": "Mon, 07 Nov 2022 15:40:38 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Every other developer would be able to use the graph on the same terms as FB part 2.",
+                    "created": "Mon, 07 Nov 2022 15:40:47 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "We're there again, I don't expect the journos to listen to me now any more than they did then.",
+                    "created": "Mon, 07 Nov 2022 15:40:48 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's the punchline. I'm going to put it in uppercase so you can see it.",
+                    "created": "Mon, 07 Nov 2022 23:09:00 GMT",
+                    "collapse": "false",
+                    "subs": [
+                        {
+                            "text": "IF THE SOCIAL GRAPH WERE A PUBLIC RESOURCE, RIGHT NOW SWITCHING OFF TWITTER WOULD BE A TOTAL NON-EVENT. ",
+                            "created": "Mon, 07 Nov 2022 23:09:28 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "LIKE CHANGING YOUR ADDRESS WITH THE POST OFFICE TO HAVE YOUR MAIL FOWARDED. ",
+                            "created": "Mon, 07 Nov 2022 23:09:41 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Thanks for listening.",
+                    "created": "Mon, 07 Nov 2022 23:09:41 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
