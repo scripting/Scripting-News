@@ -1,0 +1,6 @@
+{
+    "text": "I found a bug in the <a href=\"https://github.com/scripting/oldSchoolBlog/blob/master/README.md\">CMS</a> I use to build Scripting News. When I change the title of a story the guid in the RSS feed for the site changes, so if you're reading me in a feed reader, you'll see the story again with its new title. I have a <a href=\"https://github.com/scripting/oldSchoolBlog#v0723----11722-by-dw\">fix</a> for the bug, just haven't deployed it here yet. And my apologies. This bug has been there for a long time. I'm only seeing it now because I'm debugging a feed reader myself. ",
+    "created": "Wed, 09 Nov 2022 02:13:37 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
