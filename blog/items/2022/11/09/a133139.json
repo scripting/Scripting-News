@@ -1,0 +1,66 @@
+{
+    "text": "Feed writing in FeedLand",
+    "created": "Wed, 09 Nov 2022 13:31:39 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "A big new \"FeedLand\" feature today -- it's now two-way. It's not only useful for feed reading but now it supports feed writing as well. ",
+            "created": "Wed, 09 Nov 2022 13:34:24 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "There's a new command in the <a href=\"http://scripting.com/images/2022/11/09/editMyFeedCommandScreen.png\">first menu</a>, <i>Edit my feed. </i>",
+            "created": "Wed, 09 Nov 2022 13:34:50 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "When you choose the command, an <a href=\"http://scripting.com/images/2022/11/08/editboxscreen2.png\">edit box</a> appears where you can enter a title-less item that goes into your feed when you click the Post button.",
+            "created": "Wed, 09 Nov 2022 13:36:39 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here are the <a href=\"http://docs.feedland.org/yourFeed.opml\">docs</a> for the new feature. Any FeedLand user can have a feed. You of course must be logged-in to use it. ",
+            "created": "Wed, 09 Nov 2022 13:57:46 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "This is <a href=\"http://xmlviewer.scripting.com/?url=http%3A%2F%2Fdata.feedland.org%2Ffeeds%2Fdavewiner.xml\">where my feed is</a>. ",
+            "created": "Wed, 09 Nov 2022 14:07:24 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "That's very simply an RSS 2.0 feed, public -- which you or anyone else can subscribe to in any app that can read an RSS feed. That includes feed readers like Feedly and NetNewsWire, but it also, innovatively, can included in <a href=\"https://micro.blog/\">micro.blog</a>, a system created by <a href=\"https://www.manton.org/\">Manton Reece</a>, in place of a blog I write there. To someone reading my feed on micro.blog, because I have included my FeedLand feed, it appears as if I wrote the post there, not over here. And why shouldn't it work that way. This is an example of what I call <i>Two-way RSS.</i> It's common for blogging systems to support outbound RSS, where what I post there is available outside the blogging system, but it's mind-blowingly powerful if it goes the other way. Very few non-feed reader reading systems support inbound RSS, but imho if they would, web writing would be revolutionized. All kinds of ad hoc connections would be possible. ",
+            "created": "Wed, 09 Nov 2022 13:37:28 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Two systems I'd like to support this idea are:",
+            "created": "Wed, 09 Nov 2022 13:40:17 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "Substack -- then I could use any writing tool that produces RSS as output to write essays that then could be received via email. CLearly they already have the technology to do this because they have a feed reader that can subscribe to sources outside of Substack. It's one simple step (imho) to let authors write using their own favorite tools rather than Substack's writing tool, which is nice, but I like the writing environment I already have, as do many other writers. ",
+                    "created": "Wed, 09 Nov 2022 13:40:28 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Mastodon -- if they did, any app that produced an RSS feed could peer. The Fediverse would then extend futher than it can with ActivityPub because RSS is so widely supported, and easy to implement. ",
+                    "created": "Wed, 09 Nov 2022 13:40:34 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "I will of course have more to say about this new direction for feeds on the web including a chance to reboot with a safer way to write HTML alsk known as Markdown, another drum I've been beating fairly regularly, lately. :smile:",
+            "created": "Wed, 09 Nov 2022 14:11:14 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "PS: Here's the <a href=\"https://github.com/scripting/feedlandSupport/issues/125\">thread</a> where, a couple of days ago, I introduced this feature to the inner circle of FeedLand users. ",
+            "created": "Wed, 09 Nov 2022 13:37:53 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
