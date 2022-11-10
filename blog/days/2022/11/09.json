@@ -1,0 +1,163 @@
+{
+    "created": "2022-11-09T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "09",
+    "path": "2022/11/09",
+    "text": "November 09",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"http://scripting.com/2022/11/09/letsDoInboundRss.m4a\">Podcast</a> about how Twitter is blowing up and the opportunities to put things back together better as we move on. You can hear how tired I am. Having shipped FeedLand, I'm kind of spent, but there's more to do. I'm grateful for that. Let's make the most of it. The podcast is about using FeedLand to write, not just read. About the connection to micro.blog and hopes for connection to Mastodon. And leveraging Markdown in your feeds, how to do it with no breakage. My FeedLand feed is <a href=\"http://xmlviewer.scripting.com/?url=http%3A%2F%2Fdata.feedland.org%2Ffeeds%2Fdavewiner.xml\">here</a>. ",
+            "created": "Wed, 09 Nov 2022 15:37:27 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2022/11/09/letsDoInboundRss.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "10891467",
+            "image": "http://scripting.com/images/2020/03/19/beet.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Any product with a timeline should support inbound RSS. Let my feed be a proxy for me. Don't force me to use your writing tools to be in your network. Let me write where I like to write. Then what happens is we get differentiated writing tools.",
+            "created": "Wed, 09 Nov 2022 16:02:35 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I <a href=\"https://twitter.com/davewiner/status/1590440518252912642\">asked</a> Elon Musk about <a href=\"https://twitter.com/davewiner/status/1590440519884476417\">developers</a> and Twitter today.",
+            "created": "Thu, 10 Nov 2022 01:18:11 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Feed writing in FeedLand",
+            "created": "Wed, 09 Nov 2022 13:31:39 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "A big new \"FeedLand\" feature today -- it's now two-way. It's not only useful for feed reading but now it supports feed writing as well. ",
+                    "created": "Wed, 09 Nov 2022 13:34:24 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "There's a new command in the <a href=\"http://scripting.com/images/2022/11/09/editMyFeedCommandScreen.png\">first menu</a>, <i>Edit my feed. </i>",
+                    "created": "Wed, 09 Nov 2022 13:34:50 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "When you choose the command, an <a href=\"http://scripting.com/images/2022/11/08/editboxscreen2.png\">edit box</a> appears where you can enter a title-less item that goes into your feed when you click the Post button.",
+                    "created": "Wed, 09 Nov 2022 13:36:39 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here are the <a href=\"http://docs.feedland.org/yourFeed.opml\">docs</a> for the new feature. Any FeedLand user can have a feed. You of course must be logged-in to use it. ",
+                    "created": "Wed, 09 Nov 2022 13:57:46 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This is <a href=\"http://xmlviewer.scripting.com/?url=http%3A%2F%2Fdata.feedland.org%2Ffeeds%2Fdavewiner.xml\">where my feed is</a>. ",
+                    "created": "Wed, 09 Nov 2022 14:07:24 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "That's very simply an RSS 2.0 feed, public -- which you or anyone else can subscribe to in any app that can read an RSS feed. That includes feed readers like Feedly and NetNewsWire, but it also, innovatively, can included in <a href=\"https://micro.blog/\">micro.blog</a>, a system created by <a href=\"https://www.manton.org/\">Manton Reece</a>, in place of a blog I write there. To someone reading my feed on micro.blog, because I have included my FeedLand feed, it appears as if I wrote the post there, not over here. And why shouldn't it work that way. This is an example of what I call <i>Two-way RSS.</i> It's common for blogging systems to support outbound RSS, where what I post there is available outside the blogging system, but it's mind-blowingly powerful if it goes the other way. Very few non-feed reader reading systems support inbound RSS, but imho if they would, web writing would be revolutionized. All kinds of ad hoc connections would be possible. ",
+                    "created": "Wed, 09 Nov 2022 13:37:28 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Two systems I'd like to support this idea are:",
+                    "created": "Wed, 09 Nov 2022 13:40:17 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Substack -- then I could use any writing tool that produces RSS as output to write essays that then could be received via email. CLearly they already have the technology to do this because they have a feed reader that can subscribe to sources outside of Substack. It's one simple step (imho) to let authors write using their own favorite tools rather than Substack's writing tool, which is nice, but I like the writing environment I already have, as do many other writers. ",
+                            "created": "Wed, 09 Nov 2022 13:40:28 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Mastodon -- if they did, any app that produced an RSS feed could peer. The Fediverse would then extend futher than it can with ActivityPub because RSS is so widely supported, and easy to implement. ",
+                            "created": "Wed, 09 Nov 2022 13:40:34 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I will of course have more to say about this new direction for feeds on the web including a chance to reboot with a safer way to write HTML alsk known as Markdown, another drum I've been beating fairly regularly, lately. :smile:",
+                    "created": "Wed, 09 Nov 2022 14:11:14 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: Here's the <a href=\"https://github.com/scripting/feedlandSupport/issues/125\">thread</a> where, a couple of days ago, I introduced this feature to the inner circle of FeedLand users. ",
+                    "created": "Wed, 09 Nov 2022 13:37:53 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Ideas for Twitter",
+            "created": "Wed, 09 Nov 2022 20:45:40 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I started thinking and the ideas kept pouring out. Here goes.",
+                    "created": "Wed, 09 Nov 2022 20:45:50 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Re the blue checkmarks, leave them alone. Make a very clear statement and stick to it. Blue checkmarks are Twitter Classic.",
+                            "created": "Wed, 09 Nov 2022 20:46:01 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Let's come up with some more colors -- silver, gold and black (to correspond to different levels of credit cards perhaps).",
+                            "created": "Wed, 09 Nov 2022 20:46:38 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Anyone can buy a silver checkmark. It means that other people, with a single click, or by hovering over their tag, can find out their real name and whatever other verifiable info the user wants to share publicly. The info comes from the credit card company.",
+                            "created": "Wed, 09 Nov 2022 20:46:43 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "With gold, you get more services and they cost more. Twitter will make introductions to other members who might share interests with you. With this Twitter could get into the businesses of match.com or linkedin.",
+                            "created": "Wed, 09 Nov 2022 20:46:44 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Black is reserved for Friends Of Elon, whatever that means. People who hang out and smoke weed or travel on Twitter Tours. The kind of perks credit card companies offer. Hey you could even partner with Amex or whatever. Good deals on a Model Y or Starlink. ",
+                            "created": "Wed, 09 Nov 2022 20:46:46 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Hey here's another idea. There must be a pool of good names that have been abandoned years ago. Those might be worth money. I'd like to buy a few if they're for sale. Or buy a TLD, maybe .twtr and allow their twitter names to be portable in some sense as afforded by DNS's flexibility. Thinking out loud here.  ",
+                            "created": "Wed, 09 Nov 2022 20:46:58 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "BTW, while I have your attention I used to have <a href=\"https://twitter.com/nyt\">NYT</a>, and the NYT didn't mind. It goes back to the beginning of Twitter and NYT support for RSS. I'd pump links to NYT articles through this Twitter account. Never got an explanation why it was suspended. If you like the ideas can you ask them to let me use that account again? It was fun. Free advertising for the paper of record. ",
+                            "created": "Wed, 09 Nov 2022 20:51:03 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Ignore polls",
+            "created": "Thu, 10 Nov 2022 01:09:31 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Freedom was on the ballot.",
+                    "created": "Thu, 10 Nov 2022 01:09:37 GMT",
+                    "inlineImage": "http://scripting.com/images/2022/11/09/ignorePolls.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
