@@ -1,0 +1,7 @@
+{
+    "text": "In getting \"FeedLand\" completely dialed-in, I'm finding out about all the weird stuff developers of RSS packages have done in the name of making life \"easier\" for developers. Today I couldn't figure out why all of a sudden items in a new kind of feed were getting link elements when there were no item-level link elements in the feeds. Okay so I think <a href=\"https://pythonhosted.org/feedparser/reference-entry-link.html\">this</a> is what I'm dealing with. My workaround which is ugly, is to consider the link element on an item to be a ghost (ie ignore it) if it has the same value as the guid element. It's bullshit. Nothing in the design of RSS allows me to infer this. But that's what happens with egregious hacks. To live with them you have to do more egregious hacks. And that's why, my friends, code never is done. I <a href=\"https://github.com/scripting/reallysimple/blob/main/worknotes.md#111122-by-dw\">documented</a> the problem. ",
+    "created": "Fri, 11 Nov 2022 14:15:19 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2011/07/11/loveRss.gif",
+    "flInCalendar": true
+}
