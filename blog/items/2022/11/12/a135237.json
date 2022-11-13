@@ -1,0 +1,6 @@
+{
+    "text": "ActivityPub and RSS have to come together. It should be possible for a site that produces RSS feeds for each user to peer with a site that uses ActivityPub in the same way. They should have started with RSS, imho, and added whatever they needed via a namespace. I said this in a <a href=\"https://mastodon.social/@davew/109329535083378801\">message</a> earlier today, and was pleasantly suprised by the collegial response. So hopefully you all understand that when I'm saying things like \"I need to get my linkblogging tool hooked up to Mastodon,\" I've taken part of the problem and put it in simple terms. The goal in coming up with open formats and protocols is to maximize interop. Now we have to go back, and if possible, build a bridge between RSS and ActivityPub.",
+    "created": "Sat, 12 Nov 2022 13:52:37 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
