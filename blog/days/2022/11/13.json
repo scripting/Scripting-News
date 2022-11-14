@@ -1,0 +1,96 @@
+{
+    "created": "2022-11-13T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "13",
+    "path": "2022/11/13",
+    "text": "November 13",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Eric Kidd did a <a href=\"https://github.com/scripting/reallySimpleActivityPub/issues/1#issuecomment-1312804613\">fantastic review</a> of the tech of Mastodon. Now the work can get started in earnest! ",
+            "created": "Sun, 13 Nov 2022 21:25:08 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The most kickass Democratic ticket for 2024 is <a href=\"https://en.wikipedia.org/wiki/Gavin_Newsom\">Newsom</a> and <a href=\"https://en.wikipedia.org/wiki/Gretchen_Whitmer\">Whitmer</a> or vice versa. On the campaign trail only young brilliant Democrats including <a href=\"https://en.wikipedia.org/wiki/Val_Demings\">Demings</a>, <a href=\"https://en.wikipedia.org/wiki/Stacey_Abrams\">Abrams</a>, <a href=\"https://en.wikipedia.org/wiki/Raphael_Warnock\">Warnock</a>, <a href=\"https://en.wikipedia.org/wiki/Pete_Buttigieg\">Buttigieg</a>. The older Dems wait to campaign till the end. Win everything. Have the power to <i>really</i> fix stuff. ",
+            "created": "Sun, 13 Nov 2022 21:30:13 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A feed reading breakthrough",
+            "created": "Sun, 13 Nov 2022 15:47:46 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "The feed list page in FeedLand is also a feed reader.  A new kind. All the feeds you're subscribed to are listed in reverse chronologic order. Click the wedge next to any feed to see the five most recent items in the feed. Each time you expand an item it gets the latest stuff. I never anticipated people using this as their only interface to FeedLand, but it works. So I'm thinking about ways to improve it. That's why it's good to have users. You never know what kinds of patterns will develop. ",
+                    "created": "Sun, 13 Nov 2022 15:48:16 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"http://scripting.com/images/2022/11/13/feedlistExpanded.png\">Screen shot</a> of my feed list showing the stories from the BBC expanded. ",
+                    "created": "Sun, 13 Nov 2022 15:48:31 GMT",
+                    "inlineImage": "http://scripting.com/images/2022/11/13/feedlistExpanded.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "See also: <a href=\"https://www.youtube.com/watch?v=qU9yE_axytQ\"> a video demo</a>: ",
+                    "created": "Sun, 13 Nov 2022 15:05:32 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Our feed peering service",
+            "created": "Sun, 13 Nov 2022 15:20:10 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Built into \"FeedLand\" is a way to move updates to feeds efficiently and quickly. We use the protocol that's built into RSS 2.0 called <a href=\"http://home.rsscloud.co/\">rssCloud</a>. I'm finding out that more people are supporting the protocol than I thought. Last time I checked all WordPress sites support it for example. micro.blog supports it. Since I'm spending more time there these days that was a nice surprise. ",
+                    "created": "Sun, 13 Nov 2022 15:20:23 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "What I'm describing here are the feeds that users write in FeedLand, not the ones that FeedLand gets from reading feeds. This is a very new feature, here's a <a href=\"http://scripting.com/images/2022/11/13/yourFeed.png\">screen shot</a>, and the <a href=\"http://docs.feedland.org/yourFeed.opml\">docs</a>. ",
+                    "created": "Sun, 13 Nov 2022 15:21:52 GMT",
+                    "collapse": "true",
+                    "subs": [
+                        {
+                            "text": "These are feeds that emanate <i>out</i> of FeedLand. When I write about <a href=\"http://scripting.com/2022/07/12/170955.html?title=twowayRss\">Two-way RSS</a> -- I'm talking about FeedLand and hopefully many other writing products. I'm trying to show people how to do this, and why you would want to. If you make a feed reader you might want to include a simple feed writer.",
+                            "created": "Sun, 13 Nov 2022 15:38:25 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's the <a href=\"http://xmlviewer.scripting.com/?url=http%3A%2F%2Fdata.feedland.org%2Ffeeds%2Fdavewiner.xml\">RSS feed</a> that's in the screen shot, above. You literally are editing a feed. Any feed reader can subscribe to it. ",
+                    "created": "Sun, 13 Nov 2022 15:27:36 GMT",
+                    "collapse": "true",
+                    "subs": [
+                        {
+                            "text": "And it has some extra features that you can use, notably -- the text is provided both as HTML in the description element, and in Markdown in the source:markdown element. The intention here is to seed the use of markdown in feeds, something I was writing about in the summer, when I was developing this feed editor. ",
+                            "created": "Sun, 13 Nov 2022 15:41:20 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I think I'm going to provide a websocket-based service for apps to hook into, to not only get new items in this format, but also updated items. I think since we're starting fresh on federation let's have realtime updating built in from the start. And Markdown support. All the while producing an RSS feed that all feed-reading software understands. No breakage. But a way to move forward. Back when RSS 2.0 was first specified in 2002, there was no Markdown. If there had been we would have built on it as we did with MP3 for podcasting. And while we're at it -- there's OPML in there so tools for thought integrate beautifully with RSS. (I haven't forgotten about OPML.)",
+                    "created": "Sun, 13 Nov 2022 15:30:46 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So this is a heads-up. Not sure exactly what form this service will be in. But it will really be simple, that's for sure. :boom:",
+                    "created": "Sun, 13 Nov 2022 15:33:03 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
