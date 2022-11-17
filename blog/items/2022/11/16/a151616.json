@@ -1,0 +1,7 @@
+{
+    "text": "BTW, since RSS is rebounding (yay!) -- I have a <a href=\"https://github.com/scripting/reallysimple\">Node.js package</a> that makes reading an RSS feed a one line call. It factors out all the variability, and returns a consistent JavaScript object. Reading an RSS feed is as easy as reading a JSON file. I promise. No bullshit. And btw, it also reads Atom and RDF through the same interface. You don't even have to know what format the file is, all that is taken care of. The point is, reading an RSS file was too hard. So I spent the time to make it simple and easy. ",
+    "created": "Wed, 16 Nov 2022 15:16:16 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2019/09/14/rssCoffeeCup.png",
+    "flInCalendar": true
+}
