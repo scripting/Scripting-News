@@ -1,0 +1,52 @@
+{
+    "text": "FeedLand w/o Twitter",
+    "created": "Thu, 17 Nov 2022 12:23:01 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Some people have said they don't want to use FeedLand because it uses Twitter for identity. ",
+            "created": "Thu, 17 Nov 2022 12:23:15 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I always forget to mention that you can access most of what's in FeedLand without logging in. ",
+            "flInCalendar": true
+        },
+        {
+            "text": "For example, here's my feed list. ",
+            "subs": [
+                {
+                    "text": "<a href=\"http://feedland.org/?username=davewiner\">http://feedland.org/?username=davewiner</a>",
+                    "created": "Thu, 17 Nov 2022 12:23:22 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "You can go almost anywhere. You won't see the features that make it easy to subscribe to a feed, or add to your own personal feed, maybe one or two other things. ",
+            "flInCalendar": true
+        },
+        {
+            "text": "But most of the product does not require login.",
+            "created": "Thu, 17 Nov 2022 12:23:45 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I plan to marry FeedLand to Mastodon via RSS and maybe later ActivityPub. In case you can't tell I love Mastodon. Everything about it so far. Maybe I wish ActivityPub were based on RSS, but I got over that when I saw how nice the software is. That's what really matters, that and interop and not locking users and developers in. ",
+            "created": "Thu, 17 Nov 2022 12:23:59 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "FeedLand pushes RSS into lots of new places. RSS has been kind of stagnant for a long time. I decide to do something about that at the end of last year. The result is FeedLand.",
+            "created": "Thu, 17 Nov 2022 12:29:10 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "PS: Marrying Mastodon does not mean divorcing Twitter. I love Twitter too. People should stop being so chauvinistic about software. Mastodon will never be Twitter and vice versa. Each are their own thing. What matters is the people. ",
+            "created": "Thu, 17 Nov 2022 12:29:11 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
