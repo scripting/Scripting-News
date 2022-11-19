@@ -1,0 +1,66 @@
+{
+    "created": "2022-11-18T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "18",
+    "path": "2022/11/18",
+    "text": "November 18",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Help needed with <a href=\"https://github.com/scripting/reallySimpleActivityPub/issues/4\">Mastodon OAuth</a> code. <i>Got it!</i>",
+            "created": "Fri, 18 Nov 2022 15:07:39 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I spent this whole week building a connection to Mastodon. We will have \"FeedLand\" and \"Drummer\" running in the Mastodon ecosystem before too long, Murphy-willing. ",
+            "created": "Sat, 19 Nov 2022 02:03:13 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "When Twitter is gone where will you go when a big story breaks?",
+            "created": "Sat, 19 Nov 2022 02:02:47 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "One thing I won’t miss should Twitter go, is all the phonies with supposedly millions of followers thanks to the <a href=\"https://www.google.com/search?q=site%3Ascripting.com+%22suggested+users+list%22\">Suggested Users List</a> debacle.",
+            "created": "Fri, 18 Nov 2022 15:04:26 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I imagine running Tesla and Spacex are trouble, but Twitter is a very strange beast because every user has a Twitter account (obviously) and they're all connected to each other (again obviously) and no such link exists between Tesla and Spacex users. Further Tesla users spend tens of thousands of dollars to become users, and Tesla could brick their cars any time they want, and we're not connected to each other. Same with SpaceX of course. And even worse than that, most of Twitter's users are either journalists, bloggers, or podcasters. So there's that too. And every one of them is sure Elon Musk is fucking it up. All of this foerseeable, btw. ",
+            "created": "Fri, 18 Nov 2022 13:39:43 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/12/06/dorothy.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "To all the old school bloggers, remember how you all used to hate me? This is how it works. It's very rare that in an online space people love the top person, if they are accessible. If they're aloof, hard to find, or speak in haiku, you love them. But if you can talk to them and they might respond, most of what you're going to say to and about them will be negative. I know -- I lived on the other side of that for a number of years. It was fucked up. Absolutely nothing I said would be interpreted as if it were said like a human, like themselves. ",
+            "created": "Fri, 18 Nov 2022 13:55:50 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm trying to think but nothing happens",
+            "created": "Fri, 18 Nov 2022 20:58:11 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I spent the whole week working on the Mastodon OAuth interface. This shit is always a slog. And the docs always suck. But once it's done, it's done. ",
+                    "created": "Fri, 18 Nov 2022 20:58:21 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Tomorrow's another day. ",
+                    "created": "Fri, 18 Nov 2022 20:59:06 GMT",
+                    "inlineImage": "http://scripting.com/images/2022/11/18/curly.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
