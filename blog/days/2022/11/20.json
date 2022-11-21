@@ -1,0 +1,97 @@
+{
+    "created": "2022-11-20T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "20",
+    "path": "2022/11/20",
+    "text": "November 20",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "In the age of Mastodon, we're going to rely more on our blogs because we will be able to.",
+            "created": "Sun, 20 Nov 2022 17:08:01 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2022/11/20/woman.png",
+            "imageLink": "https://mastodon.social/@jensclaessens@mastodon.art/109347164917815977",
+            "flInCalendar": true
+        },
+        {
+            "text": "i have a <a href=\"https://www.google.com/search?q=site%3Ascripting.com+tesla\">Tesla</a>. Lovely car. After a year, I still love driving it. but it's funny -- no Nazis or smelly wanna be dictators show up in the passenger seat when I'm driving . I think Elon should get Twitter to run like a Tesla and in the meantime just stfu. I hope he knows what stfu means. ",
+            "created": "Mon, 21 Nov 2022 01:31:46 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://www.youtube.com/watch?v=b5HV0-sFbvw\">Video demo</a>: I didn't want long posts to dominate the feed, so I came up with this approach, a down-arrow that reveals the full content, in place, without having to go anywhere else. It's this approach that would make it possible to have indefinite length posts in Masto or Twitter or whatever, without dominating the feed.",
+            "created": "Sun, 20 Nov 2022 14:26:27 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=b5HV0-sFbvw",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm close to having my <a href=\"https://github.com/scripting/reallySimpleActivityPub/issues/4#issuecomment-1321139345\">Hello World for Mastodon</a> in JavaScript app working, but could use help from people who have been down this road.",
+            "created": "Sun, 20 Nov 2022 14:01:08 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Trump is all wrung out",
+            "created": "Sun, 20 Nov 2022 16:50:13 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I had to say this <a href=\"https://twitter.com/davewiner/status/1594372293723045888\">on Twitter</a> first.",
+                    "created": "Sun, 20 Nov 2022 16:50:21 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Elon Musk is making the same mistake that Kevin Durant did when he signed with the Nets.",
+                    "created": "Sun, 20 Nov 2022 16:50:48 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "First thing he did after signing, he had a press conference where he dis'd the Knicks. I guess he was thinking there was some kind of rivalry. There wasn't. No one had any feelings at all for the Nets. A complete zero among NY basketball fans. And the Knicks, well we have a lot of heart there and for the most part it's an ache. The last thing we have any energy for is an idiot who has no idea of the place he's entered, and where we're at, basketball-wise.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And Musk has no idea where Twitter users are re Trump. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I don't know what led him to believe anyone had any more juice for Trump. Even the people who liked him are tired. He had a good run, as far as <a href=\"http://this.how/trolls/\">trolls</a> go, but we're just tired. Not even remotely excited. ",
+                    "created": "Sun, 20 Nov 2022 17:01:24 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Trump is all wrung out. Even he knows it. But somehow that fact escaped Musk.",
+                    "created": "Sun, 20 Nov 2022 17:11:59 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "They want all the cookies",
+            "created": "Sun, 20 Nov 2022 14:15:09 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "The rich folk are coming for your Social Security. You know -- the money that was taken from your paycheck so you wouldn't be poor when you got old. ",
+                    "created": "Sun, 20 Nov 2022 14:15:23 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "They got all the cookies, but they want yours too. ",
+                    "created": "Sun, 20 Nov 2022 14:16:54 GMT",
+                    "inlineImage": "http://scripting.com/images/2022/11/20/cookies.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And they use some of their money to buy ads for Republican politicos to convince you to vote for this gift. This picture perfectly illustrates how they do it. ",
+                    "created": "Sun, 20 Nov 2022 14:19:39 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
