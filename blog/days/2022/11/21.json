@@ -1,0 +1,61 @@
+{
+    "created": "2022-11-21T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "21",
+    "path": "2022/11/21",
+    "text": "November 21",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Update on our Mastodon work. It's working. :smile:",
+            "created": "Mon, 21 Nov 2022 22:13:55 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "There's something really interesting about <a href=\"https://mastodon.social/@davew.rss\">this feed</a> from Mastodon. I look at it and I see that even though I've never met them, somehow their feed ended up looking a lot like the feeds I make now, <i>20 years later.</i> It's like there was this <a href=\"https://en.wikipedia.org/wiki/Chinese_whispers\">game of Telephone</a>, and you'd expect by now, after passing through so many hands, esp people who were <i>trying</i> to break the chain, what came out the other end is correct. Thanks due in part to <a href=\"https://www.manton.org/\">Manton Reece</a> who persuaded the Masto folk that feed items are not required to have titles. Finally we have a massive maker of feeds who I hope will force all feed readers to support this feature that has been <a href=\"https://cyber.harvard.edu/rss/rss.html#hrelementsOfLtitemgt\">in RSS</a> since v0.91. Item titles are optional. <a href=\"http://scripting.com/images/2022/11/21/specshot.png?nodialog\">It's in the spec</a>. In fact it's so important that I said it twice in two different ways in case anyone was confused. I think this is just a matter of programmers looking for an easy way out and most of them not being writers. :boom:",
+            "created": "Mon, 21 Nov 2022 14:50:01 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/11/14/weTryHarder.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "In late 2021, I wrote <a href=\"http://scripting.com/2021/12/16/153331.html?title=myProductIsInterop\">this piece</a> which has turned into a manifesto in my mind. \"Drummer is more than a piece of software -- it's an interop bomb.\" The same is true of FeedLand. ",
+            "created": "Mon, 21 Nov 2022 13:30:40 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Users + developers",
+            "created": "Mon, 21 Nov 2022 19:38:31 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2022/11/21/senegalFans.png",
+            "description": "Users and developers party together.",
+            "subs": [
+                {
+                    "text": "In the early days of podcasting our motto was",
+                    "created": "Mon, 21 Nov 2022 19:38:39 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "\"Users and developers party together.\"",
+                            "created": "Mon, 21 Nov 2022 19:40:43 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's a very powerful combination. Can't be beat.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's <a href=\"https://www.google.com/search?q=site%3Ascripting.com+%22Users+and+developers+party+together%22\">time</a> to do that again. :rocket:",
+                    "created": "Mon, 21 Nov 2022 19:38:47 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
