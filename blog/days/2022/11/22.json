@@ -1,0 +1,42 @@
+{
+    "created": "2022-11-22T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "22",
+    "path": "2022/11/22",
+    "text": "November 22",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "FeedLand has a really simple websockets interface that connects the browser-based client with the server. The same interface can be used in server apps, or other clients. Here's a <a href=\"https://github.com/scripting/feedlandSocket\">simple demo app</a> in Node.js that shows how it works. Please be kind to our server. This is keeping with the spirit of FeedLand, we want news to flow where ever it makes sense for it to flow. I'm using this to hook up FeedLand to Mastodon, more on that sooon. :boom:",
+            "created": "Tue, 22 Nov 2022 22:39:34 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/09/11/tide.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I have very vague but strong memories of the JFK assassination. I was 8, in second grade, my teacher, Miss Ruffino, rushed out of the classroom in tears, no idea why. My mom picked me up to walk me home, we lived a couple of blocks from the school, <a href=\"https://www.google.com/maps/@40.7548979,-73.8742838,3a,75y,1.49h,103.17t/data=!3m7!1e1!3m5!1stH-FAYMIFIYDPVFnFvREhg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DtH-FAYMIFIYDPVFnFvREhg%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D46.733856%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192\">PS 149 Queens</a>. I understood Kennedy was President, but he was the only president I had known. The idea of someone other than Kennedy being president didn’t make any sense. I asked my mom, what now. Someone named Johnson would be president. It didn’t make any sense to me. Kennedy was president.",
+            "created": "Tue, 22 Nov 2022 21:36:07 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://www.youtube.com/watch?v=vmoYpJIUWhY\">Marge Gunderson</a>: \"And it's a beautiful day.\"",
+            "created": "Tue, 22 Nov 2022 17:22:53 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "To \"FeedLand\" users. If Twitter turned us off for some reason you’d still be able to <a href=\"http://scripting.com/2022/11/17/122301.html\">read your news</a> while we worked around the outage. But so far there have been no problems that I’m aware of, and rushing to change tested software is a sure way to break things. That said we're making good progress on hooking up to Mastodon. Planning to show off a new way to do news products with FeedLand, and I want to write Mastodon threads in \"Drummer\". Those will be the first steps. ☘️",
+            "created": "Tue, 22 Nov 2022 12:10:31 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Don’t underestimate the importance of Mastodon. It’s like the internet itself, or AWS making it easy to create your own version of Linux, or PCs letting you have your own computer. I experienced all these liberations. Some thought these unthinkable, and controlled silos do serve a purpose as training wheels. But after some time you grow up and it’s time to leave home and create your own world. I believe we are now experiencing such a moment. We don’t need Twitter to provide us a safe space. Life itself isn’t safe. Fear is frozen fun! Only steal from the best. And as they say -- <i>Still diggin!</i>",
+            "created": "Tue, 22 Nov 2022 12:58:53 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/12/06/dorothy.png",
+            "flInCalendar": true
+        }
+    ]
+}
