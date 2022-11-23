@@ -1,0 +1,7 @@
+{
+    "text": "FeedLand has a really simple websockets interface that connects the browser-based client with the server. The same interface can be used in server apps, or other clients. Here's a <a href=\"https://github.com/scripting/feedlandSocket\">simple demo app</a> in Node.js that shows how it works. Please be kind to our server. This is keeping with the spirit of FeedLand, we want news to flow where ever it makes sense for it to flow. I'm using this to hook up FeedLand to Mastodon, more on that sooon. :boom:",
+    "created": "Tue, 22 Nov 2022 22:39:34 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2019/09/11/tide.png",
+    "flInCalendar": true
+}
