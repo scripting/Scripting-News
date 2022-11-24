@@ -1,0 +1,77 @@
+{
+    "text": "Mastodon nomenclature?",
+    "created": "Wed, 23 Nov 2022 14:17:02 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "<a href=\"http://bullmancuso.com/\">bullmancuso.com</a> is an imaginary friend with a personal home page. This is a well understood concept. It could be a blog, or an about page, a resume. A web page that is associated with a person.",
+            "created": "Wed, 23 Nov 2022 14:19:02 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "There could be subdomains like:",
+            "created": "Wed, 23 Nov 2022 14:17:53 GMT",
+            "subs": [
+                {
+                    "text": "ftp.bullmancuso.com",
+                    "created": "Wed, 23 Nov 2022 14:18:00 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "smtp.bullmancuso.com",
+                    "created": "Wed, 23 Nov 2022 14:18:06 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "news.bullmancuso.com",
+                    "created": "Wed, 23 Nov 2022 14:18:11 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "If he set up a Mastodon server, what should it be called?",
+            "created": "Wed, 23 Nov 2022 14:18:37 GMT",
+            "subs": [
+                {
+                    "text": "social.bullmancuso.com",
+                    "created": "Wed, 23 Nov 2022 14:18:54 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "masto.bullmancuso.com",
+                    "created": "Wed, 23 Nov 2022 14:26:57 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "microblogs.bullmancuso.com",
+                    "created": "Wed, 23 Nov 2022 14:27:03 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "friends.bullmancuso.com",
+                    "created": "Wed, 23 Nov 2022 14:27:20 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Or is the Mastodon server so important that it should take the top spot, with just the naked domain. ",
+            "created": "Wed, 23 Nov 2022 14:30:33 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "We're also going to need domains that serve as API glue, just like we have for Twitter. What should those be called? That's a less important question because the only places such a domain would appear is in an app that interfaces with Mastodon servers.",
+            "created": "Wed, 23 Nov 2022 14:27:49 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Comments <a href=\"https://github.com/scripting/Scripting-News/issues/241\">here</a>.",
+            "created": "Wed, 23 Nov 2022 14:31:19 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
