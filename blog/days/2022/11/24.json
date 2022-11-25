@@ -1,0 +1,54 @@
+{
+    "created": "2022-11-24T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "24",
+    "path": "2022/11/24",
+    "text": "November 24",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Happy Thanksgiving my friends. ☘️",
+            "created": "Thu, 24 Nov 2022 13:57:43 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2011/11/24/turkey.gif",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/reallysimple/issues/11\">rssCloud bootcamp thread</a>.  If you're thinking about adding rssCloud to your blogging software. ",
+            "created": "Fri, 25 Nov 2022 02:00:10 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"http://scripting.com/davenet/2001/02/19/internet30.html\">February 2001</a>: \"Internet 3.0 will realize the groupware vision of the late 80s which was really Doug Engelbart's vision of the 60s and 70s. Shared writing spaces with good boundaries. Structures that link to each other but are capable of managing greater complexity than the page-oriented metaphor of the Web.\" I still want to do this.",
+            "created": "Thu, 24 Nov 2022 13:59:10 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1595976134562172928\">Poll</a>: Should Elon Musk be banned from Twitter?",
+            "created": "Fri, 25 Nov 2022 03:02:38 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1595976134562172928",
+            "flInCalendar": true
+        },
+        {
+            "text": "I have my linkblogging tool working <a href=\"https://mastodon.social/@davew/109399967927896574\">with Mastodon</a>. <i>Bing!</i>",
+            "created": "Thu, 24 Nov 2022 17:32:05 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"http://this.how/whatIsADocument/\">What is a document?</a> A plea for interop at the document level. ",
+            "created": "Thu, 24 Nov 2022 17:33:41 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "An idea for a New Year's resolution. At least once a day agree with someone. Not silently. Say \"I agree with you.\" No qualification, not \"I agree with you, but..\" It's jarring at first, then liberating. And the responses will surprise you.",
+            "created": "Fri, 25 Nov 2022 03:08:33 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
