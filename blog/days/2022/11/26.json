@@ -1,0 +1,37 @@
+{
+    "created": "2022-11-26T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "26",
+    "path": "2022/11/26",
+    "text": "November 26",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "A frequently asked <a href=\"https://github.com/scripting/feedlandSupport/issues/137#issue-1465134055\">FeedLand question</a> re the order of timelines. ",
+            "created": "Sat, 26 Nov 2022 13:51:38 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "If I were a person with a uterus I’d be furious about the Dobbs decision and I’d be equally outraged that life goes on as usual knowing that other people with uteri were being enslaved by their state governments as a result.",
+            "created": "Sat, 26 Nov 2022 13:44:50 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Rene Magritte",
+            "created": "Sat, 26 Nov 2022 15:18:06 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2022/11/26/representation.png",
+            "subs": [
+                {
+                    "text": "<a href=\"https://www.rene-magritte.com/representation/\">Representation</a>, 1962.",
+                    "created": "Sat, 26 Nov 2022 15:18:13 GMT",
+                    "inlineImage": "http://scripting.com/images/2022/11/26/representation.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
