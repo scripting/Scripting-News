@@ -1,0 +1,47 @@
+{
+    "text": "To MastoDevs re RSS + Markdown",
+    "created": "Sun, 27 Nov 2022 20:36:45 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "<i>I posted this on one of the discussion boards for Mastodon devs, but it may not have been the right place. So I'll try here. </i>",
+            "created": "Sun, 27 Nov 2022 20:36:52 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm the author of the RSS 2.0 spec, and actively working on \"FeedLand\" and hooking it up to Mastodon. Very excited about what we're building and how well it works with MD.",
+            "created": "Sun, 27 Nov 2022 20:37:40 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Mastodon's RSS feed is also great. Items that don't have titles don't have titles in the feed. Stick to your guns on that, we have to get the feed readers to stop calling title-less items errors. They are totally valid RSS.",
+            "created": "Sun, 27 Nov 2022 20:40:07 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Love the Markdown support, I've been advocating for it. And it's fully supported in both directions in FeedLand. We do it the same way you do. Render the Markdown in the description element and in the HTML rendering.",
+            "flInCalendar": true
+        },
+        {
+            "text": "One more thing I'd like to see you do here -- include the Markdown source in the item using the <a href=\"http://source.scripting.com/#1653758422000\"><source:markdown></a> element. That's how we do it and others are as well. As far as I know we're the only ones doing this, so it's possible at this point to get everyone swinging the same way, for interop.",
+            "created": "Sun, 27 Nov 2022 20:41:03 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "For a model see how I do it in my <a href=\"http://data.feedland.org/feeds/davewiner.xml\">FeedLand feed</a>.",
+            "created": "Sun, 27 Nov 2022 20:42:00 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"http://scripting.com/images/2022/11/27/screenRssFeedMarkdown.png\">Screen shot</a> of a demo item with styled text, a link and a list. ",
+            "created": "Sun, 27 Nov 2022 20:38:26 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Please let me know if there are any questions and congrats on a phenomenal product.",
+            "created": "Sun, 27 Nov 2022 20:39:41 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
