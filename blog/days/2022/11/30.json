@@ -1,0 +1,131 @@
+{
+    "created": "2022-11-30T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "30",
+    "path": "2022/11/30",
+    "text": "November 30",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "A friend is someone who laughs at your jokes. 😜",
+            "created": "Thu, 01 Dec 2022 01:25:56 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Today I'm testing a new Node.js app that watches a set of feeds (RSS, Atom, RDF) and posts new items to a Mastodon account. This one works with any Mastodon server. Requires some technical competence, but not much. The idea is to get the example code out there, for reading feeds easily and posting to Mastodon, again easily. I want feeds to melt into the fediverse, forming sort of a feediverse, which is maybe just a little bit bigger. I am so on board with decentralizing everything we do. My pitch for user-run servers goes back to the beginning of the web. Now having knocked down one of the biggest silos, all of a sudden lots of blue sky! Let's not give up our freedom this time. Anyway watch for a release later today or tomorrow. ",
+            "created": "Wed, 30 Nov 2022 16:14:22 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/09/14/rssCoffeeCup.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "As you may recall, I had the lens in my right eye replaced on <a href=\"http://scripting.com/2022/11/28.html\">Monday</a>. Simple outpatient deal. The result is amazing. Everything is so sharp and clear, colors so vivid. I had been living in a visually foggy and blasé world, now it’s the other extreme, a total acid trip.",
+            "created": "Wed, 30 Nov 2022 14:10:20 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Over the years I've bought some great screens. An OLED screen in the living room. A retina screen on my desktop Mac. Until today I'd never been able to see enough detail to appreciate how nice they are. ",
+            "created": "Thu, 01 Dec 2022 01:33:22 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "You know how they used to <a href=\"https://www.google.com/search?q=if+you%27re+not+the+customer%2C+you%27re+the+product.\">say</a> if you're not the customer, you're the product. Well today it's if you're not the Nazi you're the <a href=\"https://en.wikipedia.org/wiki/Good_German\">Good German</a> or <a href=\"https://en.wikipedia.org/wiki/Holocaust_victims\">worse</a>. ",
+            "created": "Wed, 30 Nov 2022 16:50:25 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Using Twitter for identity",
+            "created": "Wed, 30 Nov 2022 14:30:27 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I hear every day that people don't like that \"FeedLand\" uses Twitter for identity. Some comments.",
+                    "created": "Wed, 30 Nov 2022 14:30:35 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Using Twitter for identity, at this time, gives Twitter nothing other than the fact that you logged into my app, data which is already publicly <a href=\"http://docs.feedland.org/firstThings.opml#1663337058000\">accessible</a>. In return they give me a unique name for you, so your data on my server doesn't overwrite someone else's data. ",
+                            "created": "Wed, 30 Nov 2022 14:38:18 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Changing the identity system would take a lot of time, time that isn't going into adding features, interop and fixing bugs. ",
+                            "created": "Wed, 30 Nov 2022 14:30:42 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I've had lots of experience being misdirected by the wants of non-users. If only I'd do this then I'd reap the benefit of their usage. But usually that doesn't materialize. Making new features for people who love my product, and leading other developers, is a much better use of my time. ",
+                            "created": "Wed, 30 Nov 2022 14:30:43 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "At some point I hope to offer choice, for reasons that clearly help the product. ",
+                            "created": "Wed, 30 Nov 2022 14:32:52 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Fixed a <i>huge</i> FeedLand bug",
+            "created": "Wed, 30 Nov 2022 13:38:10 GMT",
+            "type": "outline",
+            "description": "The problem was found only after hundreds of first-time users saw the app completely fail. ",
+            "subs": [
+                {
+                    "text": "It happened for newly logged-in users at startup, as FeedLand loads for the first time.",
+                    "created": "Wed, 30 Nov 2022 13:38:18 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The first thing the app does is load the user's <i>appPrefs.json</i> file -- it fails, of course -- it hasn't been created yet. It's not an error, although in the JavaScript console it looks like one. ",
+                    "created": "Wed, 30 Nov 2022 13:38:38 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The code as originally written allows for this, but I added something on Nov 8, as part of the <i>Your Feed</i> feature, code that copies something from the place that doesn't exist yet to a place that does, without checking. Boom. ",
+                    "created": "Wed, 30 Nov 2022 13:38:55 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This meant that <i>the rest of the startup code didn't run.</i> The app is sitting there waiting for the first-time user to do something. Everything is blank, none of the commands work, and yet two of them persevered, <i>and</i> reported the problem. That in itself is kind of a miracle. ",
+                    "created": "Wed, 30 Nov 2022 13:40:08 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The second <a href=\"https://github.com/scripting/feedlandSupport/issues/132#issuecomment-1331894225\">report</a> provided a <a href=\"http://scripting.com/images/2022/11/30/jsConsoleScreenShot.png?nodialog\">screen shot</a> of the JavaScript console, which pointed me to the problem, almost by accident -- he didn't realize that was the problem, because there were two errors reported before it (as noted above those aren't real errors). If the screen shot had been slightly shorter, I would've been pulling my hair out looking for a needle in the haystack. Instead it pointed exactly to the problem, the code had a comment providing the date it was introduced (Nov 8), and sure enough the first report came after that change. We had tested this functionality at least a dozen times before Nov 8 without problems, so the first time I wrote it off as cosmic rays. Not a good call Dave, in retrospect. A very bad call actually.",
+                    "created": "Wed, 30 Nov 2022 14:03:35 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Anyway, since the problem cures itself as soon as they get a good logon, it simply wasn't repeatable. But this time, having a theory about where the error was, and I had a virgin Twitter <a href=\"https://twitter.com/friendsofdave\">account</a> ready for the test, one that had never been used with FeedLand -- I logged in and it was fixed, which I could see as I stepped through the code in the debugger. ",
+                    "created": "Wed, 30 Nov 2022 13:43:11 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But -- I should have tried to repeat it after the first report. But I guess I didn't want to believe the problem was as bad as it was, and I didn't feel like searching for the needle. However if I had done it, presumably I would have looked in the JavaScript console and seen what the problem was and a few hundred more people would have had a good initial experience with FeedLand, instead of the really awful one they actually had. ",
+                    "created": "Wed, 30 Nov 2022 13:44:11 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Many apologies to the people who endured this, it is so freaking embarrassing. I am sorry this happened. ",
+                    "created": "Wed, 30 Nov 2022 13:50:33 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Oy. I have to do better. ",
+                    "created": "Wed, 30 Nov 2022 13:45:22 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
