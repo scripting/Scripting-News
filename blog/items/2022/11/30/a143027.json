@@ -1,0 +1,36 @@
+{
+    "text": "Using Twitter for identity",
+    "created": "Wed, 30 Nov 2022 14:30:27 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I hear every day that people don't like that \"FeedLand\" uses Twitter for identity. Some comments.",
+            "created": "Wed, 30 Nov 2022 14:30:35 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "Using Twitter for identity, at this time, gives Twitter nothing other than the fact that you logged into my app, data which is already publicly <a href=\"http://docs.feedland.org/firstThings.opml#1663337058000\">accessible</a>. In return they give me a unique name for you, so your data on my server doesn't overwrite someone else's data. ",
+                    "created": "Wed, 30 Nov 2022 14:38:18 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Changing the identity system would take a lot of time, time that isn't going into adding features, interop and fixing bugs. ",
+                    "created": "Wed, 30 Nov 2022 14:30:42 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I've had lots of experience being misdirected by the wants of non-users. If only I'd do this then I'd reap the benefit of their usage. But usually that doesn't materialize. Making new features for people who love my product, and leading other developers, is a much better use of my time. ",
+                    "created": "Wed, 30 Nov 2022 14:30:43 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "At some point I hope to offer choice, for reasons that clearly help the product. ",
+                    "created": "Wed, 30 Nov 2022 14:32:52 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
