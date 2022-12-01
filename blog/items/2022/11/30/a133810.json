@@ -1,0 +1,54 @@
+{
+    "text": "Fixed a <i>huge</i> FeedLand bug",
+    "created": "Wed, 30 Nov 2022 13:38:10 GMT",
+    "type": "outline",
+    "description": "The problem was found only after hundreds of first-time users saw the app completely fail. ",
+    "subs": [
+        {
+            "text": "It happened for newly logged-in users at startup, as FeedLand loads for the first time.",
+            "created": "Wed, 30 Nov 2022 13:38:18 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The first thing the app does is load the user's <i>appPrefs.json</i> file -- it fails, of course -- it hasn't been created yet. It's not an error, although in the JavaScript console it looks like one. ",
+            "created": "Wed, 30 Nov 2022 13:38:38 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The code as originally written allows for this, but I added something on Nov 8, as part of the <i>Your Feed</i> feature, code that copies something from the place that doesn't exist yet to a place that does, without checking. Boom. ",
+            "created": "Wed, 30 Nov 2022 13:38:55 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "This meant that <i>the rest of the startup code didn't run.</i> The app is sitting there waiting for the first-time user to do something. Everything is blank, none of the commands work, and yet two of them persevered, <i>and</i> reported the problem. That in itself is kind of a miracle. ",
+            "created": "Wed, 30 Nov 2022 13:40:08 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The second <a href=\"https://github.com/scripting/feedlandSupport/issues/132#issuecomment-1331894225\">report</a> provided a <a href=\"http://scripting.com/images/2022/11/30/jsConsoleScreenShot.png?nodialog\">screen shot</a> of the JavaScript console, which pointed me to the problem, almost by accident -- he didn't realize that was the problem, because there were two errors reported before it (as noted above those aren't real errors). If the screen shot had been slightly shorter, I would've been pulling my hair out looking for a needle in the haystack. Instead it pointed exactly to the problem, the code had a comment providing the date it was introduced (Nov 8), and sure enough the first report came after that change. We had tested this functionality at least a dozen times before Nov 8 without problems, so the first time I wrote it off as cosmic rays. Not a good call Dave, in retrospect. A very bad call actually.",
+            "created": "Wed, 30 Nov 2022 14:03:35 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Anyway, since the problem cures itself as soon as they get a good logon, it simply wasn't repeatable. But this time, having a theory about where the error was, and I had a virgin Twitter <a href=\"https://twitter.com/friendsofdave\">account</a> ready for the test, one that had never been used with FeedLand -- I logged in and it was fixed, which I could see as I stepped through the code in the debugger. ",
+            "created": "Wed, 30 Nov 2022 13:43:11 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "But -- I should have tried to repeat it after the first report. But I guess I didn't want to believe the problem was as bad as it was, and I didn't feel like searching for the needle. However if I had done it, presumably I would have looked in the JavaScript console and seen what the problem was and a few hundred more people would have had a good initial experience with FeedLand, instead of the really awful one they actually had. ",
+            "created": "Wed, 30 Nov 2022 13:44:11 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Many apologies to the people who endured this, it is so freaking embarrassing. I am sorry this happened. ",
+            "created": "Wed, 30 Nov 2022 13:50:33 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Oy. I have to do better. ",
+            "created": "Wed, 30 Nov 2022 13:45:22 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
