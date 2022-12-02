@@ -1,0 +1,36 @@
+{
+    "text": "Feeds in the Fediverse",
+    "created": "Thu, 01 Dec 2022 17:21:03 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "These are the goals for the software I am about to release.",
+            "created": "Thu, 01 Dec 2022 17:21:12 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "The network of RSS publishers and readers should be part of the Fediverse. This software enables the flow of RSS content into the Fediverse.",
+                    "created": "Thu, 01 Dec 2022 17:21:27 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "To provide good simple working code for the Mastodon API. I had to do too much work to figure out how to get what amounts to a <i>Hello World</i> script up and running. Now you don't have to do all that work.",
+                    "created": "Thu, 01 Dec 2022 17:22:12 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You should be able to build feed-based utilities without giving any thought to reading feeds. Reading a feed should be as easy as reading a JSON file. This app illustrates how that works, using the <a href=\"https://github.com/scripting/reallysimple\">reallySimple</a> package.",
+                    "created": "Thu, 01 Dec 2022 17:22:26 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I want to get some code out there into the Mastoverse, to start building a rep in the community.",
+                    "created": "Thu, 01 Dec 2022 17:22:57 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
