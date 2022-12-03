@@ -1,0 +1,7 @@
+{
+    "text": "I need help testing a <a href=\"https://github.com/scripting/feedToMasto\">new important app</a> -- it's the first one that hooks RSS directly up to Mastodon via the <a href=\"https://docs.joinmastodon.org/api/oauth-scopes/\">Mastodon API</a>. I am reluctant to promote it until it's had been validated. So if you know how to run a Node app, and have a few minutes to help out, please give it a try, and let me know, <a href=\"https://github.com/scripting/feedToMasto/issues/1\">in this thread</a>, whether it worked. A link to one of the Mastodon messages it created would be helpful too. <i>Thanks!</i> ",
+    "created": "Fri, 02 Dec 2022 15:44:17 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2022/12/02/littleFeat.png",
+    "flInCalendar": true
+}
