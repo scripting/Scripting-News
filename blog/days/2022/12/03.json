@@ -1,0 +1,35 @@
+{
+    "created": "2022-12-03T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "03",
+    "path": "2022/12/03",
+    "text": "December 03",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Mastodon is like email and twitter got married and had a baby.",
+            "created": "Sat, 03 Dec 2022 21:45:33 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Last night I posted a message to both <a href=\"https://mastodon.social/@davew/109446965346440971\">Mastodon</a> and <a href=\"https://twitter.com/davewiner/status/1598839749740855296\">Twitter</a> saying how great M's support for RSS is. Apparently a lot of people on Masto didn't know about it and the response has been resounding. And the numbers are very lopsided. The piece has been \"boosted\" (the Masto equiv of RT) 1.1K times, yet I only have 3.7K followers there. Meanwhile on Twitter, where I have 69K followers, it has been RTd just 17 times. My feeling was previously that Mastodon was more alive, it's good to have a number to put behind that. ",
+            "created": "Sat, 03 Dec 2022 15:25:58 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/06/24/rssTShirt.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "For my friends Geraldine and Peter, this is a <a href=\"https://chat.openai.com/chat\">chat system</a> where you ask an AI that really is amazing to write stories for you, or answer questions, or even <a href=\"http://scripting.com/images/2022/12/03/sqlcode.png?nodialog\">develop software</a>. Everyone, including me, is smitten by this invention. I asked it to <a href=\"http://scripting.com/images/2022/12/03/trumpstory.png?nodialog\">write a story</a> about Donald Trump admitting he is a troll and tells everyone to just ignore him, and it'll be good for everyone including him. ",
+            "created": "Sun, 04 Dec 2022 04:11:23 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "It would be smart if there were a lefty Elon type to invest a billion or two in a big hub in the <a href=\"https://en.wikipedia.org/wiki/Fediverse\">fediverse</a> so we can't get \"concentrated\" on Twitter into an online \"camp.\"",
+            "created": "Sat, 03 Dec 2022 21:14:21 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
