@@ -1,0 +1,67 @@
+{
+    "created": "2022-12-04T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "04",
+    "path": "2022/12/04",
+    "text": "December 04",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Checking in with FeedLand users, is there interest in: <a href=\"https://github.com/scripting/feedlandSupport/issues/145\">Mapping a FeedLand category to a Mastodon account</a>. ",
+            "created": "Sun, 04 Dec 2022 19:35:39 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Not loving \"FeedLand\" because it uses <a href=\"http://scripting.com/2022/11/30/143027.html\">Twitter for identity</a> is like not loving a friend because they had a baby with someone you don't like. Or not loving <a href=\"https://netnewswire.com/\">NetNewsWire</a>, for example, because it runs on Macs and iOS and Apple does crazy shit that fucks everything up. (I use Macs, lots of them, despite what I think of Apple. I also own a bunch of Apple stock yet I am aware of how Apple is not a force for good.) Or you find out some app is running in Google's cloud and Google is destroying the web. I have another one. I use Digital Ocean for hosting and S3 for storage. You might want to check out who owns those services and decide if you still like me. (I use DO because they have great docs and good prices. I use S3 because it was a breakthrough product when it came out and I totally needed what they offered and I loved what they were doing, and now I'm pretty well locked-in.) And I chose Twitter for identity in 2014 because identity is a human-intensive bitch and they were offering to let me use theirs for $0. I solved the problem long ago and baked it into my system. I could bake something else in, and I would, quickly if they broke us. But so far I've been able to spend my time on more productive and fun development work. Maybe I'm giving something up. Yeah, there are a lot of choices in life. You never know what was down the road you didn't take. ",
+            "created": "Sun, 04 Dec 2022 13:02:44 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/06/26/quimby.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "We all have to hold our noses. Users too. To think you haven't been doing that and aren't still, is a delusion.",
+            "created": "Sun, 04 Dec 2022 17:25:45 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Everyone who uses a silo (e.g. Substack) should ask their owners what assurance they can give they won't sell out to Musk or someone like him. Journalists and financial analysts should include in their valuation of tech companies, their political value, translated to dollars.",
+            "created": "Sun, 04 Dec 2022 12:57:22 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/adamstein/status/1599075891057143816\">This is a brilliant point</a>. Kanye has twice as many followers as there are Jews in the whole freaking world.",
+            "created": "Sun, 04 Dec 2022 15:25:23 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Falling in love",
+            "created": "Sun, 04 Dec 2022 16:31:00 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I allow myself to fall in love with other developers' products. ",
+                    "created": "Sun, 04 Dec 2022 16:31:01 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I've been reading a lot about the history of rock and roll in the last couple of years. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "That's the thing music does that we don't do in tech. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "They listen to each other and love what they do.",
+                    "created": "Sun, 04 Dec 2022 16:31:11 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
