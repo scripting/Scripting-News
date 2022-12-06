@@ -1,0 +1,17 @@
+{
+    "created": "2022-12-05T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "05",
+    "path": "2022/12/05",
+    "text": "December 05",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://github.com/scripting/feedToMasto\">feedToMasto</a> is a Node app that periodically checks a list of feeds, posting new items to Mastodon. Good example code to get started with the Mastodon API. Also illustrates how easy feeds (RSS, Atom, RDF) can be incorporated into any Node app with the reallySimple package. Finally, I hope to start building a rep in the Mastodon development community with this package. I hope to make quite a few contributions in the future. If you have questions here's a good <a href=\"https://github.com/scripting/feedToMasto/issues/1\">place</a> to start. ",
+            "created": "Mon, 05 Dec 2022 13:22:35 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2022/12/05/boxOfTomatos.png",
+            "flInCalendar": true
+        }
+    ]
+}
