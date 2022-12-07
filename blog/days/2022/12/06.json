@@ -1,0 +1,49 @@
+{
+    "created": "2022-12-06T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "06",
+    "path": "2022/12/06",
+    "text": "December 06",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I asked OpenAI why <a href=\"http://scripting.com/images/2022/12/06/whyPodcastingIsOpen.png\">podcasting isn't owned</a> by a single tech company and it got the right answer.",
+            "created": "Tue, 06 Dec 2022 23:11:09 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's probably very good for the world that <a href=\"https://en.wikipedia.org/wiki/Stewart_Butterfield\">Stewart Butterfield</a> is leaving Salesforce. After he gets time to rest and recharge, something brilliant and open is probably going to come from his mind. A very capable and creative person, Slack is an amazing product and he evolved it well.",
+            "created": "Tue, 06 Dec 2022 18:35:25 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The most interesting episode so far in the <a href=\"https://500songs.com/\">500 songs</a> series is the one about <a href=\"https://500songs.com/podcast/episode-147-hey-joe-by-the-jimi-hendrix-experience/\">Hey Joe</a> as performed by <a href=\"https://en.wikipedia.org/wiki/Jimi_Hendrix\">Jimi Hendrix</a>. I'm not listening to them in any particular order. I felt kind of bad about it, but I got over it. One idea he talks about was there was an idea of white drugs and black drugs. I can vouch for that. I was blown away a few years ago to find out <i>everyone</i> smokes weed. I thought it was just a white boomer thing. Everyone does it. The sound of eyes opening. I asked Alexa to play me some Hendrix music. First she played Hey Joe which I'd been bingeing on. Then came his <a href=\"https://www.youtube.com/watch?v=4TgbWOy6Buk\">opening</a> at Woodstock. And then <a href=\"https://www.youtube.com/watch?v=TLV4_xaYynY\">All Along the Watchtower</a>. It was really emotional for me. It's already been a heavy duty emotional day. Let's go deeper! After that he asks <a href=\"https://www.youtube.com/watch?v=HfZHGJxv3qQ\">Are You Experienced?</a> Hey for such a young man, he <a href=\"https://en.wikipedia.org/wiki/Jimi_Hendrix#Death,_post-mortem,_and_burial\">died</a> at 27, he was very self-aware and surroundings-aware. ",
+            "created": "Tue, 06 Dec 2022 17:24:24 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2022/12/06/jimiHendrix.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I asked <a href=\"https://chat.openai.com/chat\">Openai</a> to \"invent a fictitious twitter timeline with tweets only from cool people who are not in any way famous?\" Believe it or not <a href=\"http://scripting.com/images/2022/12/06/happyBoringtwitter.png\">what it came up with</a> was pretty relaxing! ",
+            "created": "Tue, 06 Dec 2022 17:33:01 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A simple \"hello world\" <a href=\"https://twitter.com/davewiner/status/1600121388714450944\">app</a> for ActivityPub in JavaScript. ",
+            "created": "Tue, 06 Dec 2022 13:37:19 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1600121388714450944",
+            "flInCalendar": true
+        },
+        {
+            "text": "I went into a supermarket for the first time since getting my eyes fixed a week ago. All of a sudden I can read everything. No more mysteries or relying on memory. Another interesting weirdness, as I've been working on software this week I can now see that I have been mis-spelling the names of things all over the place. I have a practice of copying and pasting names when I want to refer to a value or call a function, so as the mis-spellings propagate, my code still runs without errors. I really have been transformed into an able-eyed person in just one little operation. My dreams, also amazingly, have become more vivid and memorable and also gratifying (no more information forthcoming in re this). I think perhaps when one's vision improves it improves in many dimensions. Did I mention that the screens in my life reveal details heretofore unappreciated! The retina display I'm typing this into has many subtleties. Amazing. ",
+            "created": "Tue, 06 Dec 2022 17:14:45 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/08/16/littleHouse.png",
+            "flInCalendar": true
+        }
+    ]
+}
