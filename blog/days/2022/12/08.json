@@ -1,0 +1,98 @@
+{
+    "created": "2022-12-08T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "08",
+    "path": "2022/12/08",
+    "text": "December 08",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "My eyes keep getting better. I have 20-20 vision for the first time in my life. Seeing so much more in a lot of ways. I told a friend today it's like I have Tesla eyes. I know people don't like Tesla these days, but I still feel like it's a privilege to drive my Model Y every time, even though I've been driving it for over a year now. It's a feeling of able-ness no car has ever given me. And that's the feeling my new eyes give me. I've been dis-abled seriously for years now. And my vision never really worked, even when I was a kid. I remember getting glasses for teh first time in second or third grade. I never knew there was so much writing in the world, everywhere. It's like that except at an age where such discoveries are pretty rare. I think this experience will fade away as my new eyesight becomes the norm, but for now, it's given me a new youth-like experience, pretty cool.",
+            "created": "Thu, 08 Dec 2022 23:04:00 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/04/09/santaCoke.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "What I want as an <a href=\"https://twitter.com/davewiner/status/1600919500974497792\">API for ActivityPub</a> is the same kind of API we came up <a href=\"https://github.com/scripting/docServer/blob/main/docs/pages/twitter.md#\">for Twitter</a> in Drummer's scripting language. ",
+            "created": "Thu, 08 Dec 2022 18:30:52 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "WordPress has a feed reader built-in and a plugin that displays feed items in the right margin of a blog's home page. It uses the [No Title] approach. Please if it doesn't have a title, just leave it blank. Here's a <a href=\"https://odd.blog/2022/11/06/how-to-add-your-blog-to-mastodon/\">website</a> that illustrates, and a <a href=\"http://scripting.com/images/2022/12/08/wordpressnotitle.png\">screen shot</a>. ",
+            "created": "Thu, 08 Dec 2022 15:28:40 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A fact I've observed. Most programmers who work on web content systems not only aren't writers, they don't make an effort to know or understand writers. The really good products, the ones writers like to use are not surprisingly written and designed by programmers who are also writers. But -- listening to writers is something programmers <i>can</i> learn how to do. ",
+            "created": "Thu, 08 Dec 2022 15:12:10 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Feed items without titles",
+            "created": "Thu, 08 Dec 2022 14:16:10 GMT",
+            "type": "outline",
+            "description": "In the real world some feed items have titles and some don't. Feed readers should work well with both. ",
+            "metaImagex": "http://scripting.com/images/2022/12/08/itemsWithoutTitles.png",
+            "subs": [
+                {
+                    "text": "It's not hard to be true to the intent of the author of a feed, and create a good experience for the reader. ",
+                    "created": "Thu, 08 Dec 2022 15:06:56 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "In the real world some feed items have titles and some don't. Here's a <a href=\"http://scripting.com/images/2022/12/08/itemsWithoutTitles.png\">screen shot</a> of my blog. I've put red arrows pointing to the items that don't have titles. You could argue I suppose that they should have titles. That I should take a 9-word item and give it a two-word title. But I don't do that. And it shows up in my feed without a title, because the item does not have a title. And that's not up to anyone but me, the author of the feed. ",
+                    "created": "Thu, 08 Dec 2022 14:16:29 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's a <a href=\"http://scripting.com/images/2022/12/08/readerviewitemswithouttitles.png\">screen shot</a> of how a popular feed reader displays those items. It isn't terrible, but it's imho wrong. The first item has a [no title] message where a title would go. Why? Look at it from the human reader point of view. What information does that convey, above what the writer was saying, in bigger type and in bold. <b>NO TITLE</b>. I don't know about you but to me that looks like criticism, an error message, from the software to the person who wrote the post. Sometimes all the posts show up with that message. This time only one did. And for the others, they repeat the first bits of the post. Again, why? The human read them once, why put the same words they just read on the screen again? That seems quite wrong to me. ",
+                    "created": "Thu, 08 Dec 2022 14:21:03 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Now I don't know why they designed their software this way, but I can guess -- when they started they designed it assuming all posts had titles, and it took a while before they discovered that some items don't. So they shoehorned those into the app without disrupting the design of the product. But this has been going on for a very long time, many years, basically since Google Reader decided, incorrectly, that all feed items must have titles. ",
+                    "created": "Thu, 08 Dec 2022 14:28:14 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "With Mastodon supporting RSS, and Mastodon booming in popularity, feed readers should expect to see a lot more feeds with items without titles, unless for some reason Mastodon does what Twitter did many years ago, under pressure from Google Reader to add titles to items, and just withdraws the feeds. All because they couldn't adjust to a reality they hadn't planned for. ",
+                    "created": "Thu, 08 Dec 2022 14:37:43 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Okay so what's the answer?",
+                    "created": "Thu, 08 Dec 2022 14:30:32 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Never display NO TITLE. It's not a good use of your space, the reader's time and it's wrong. The author didn't use those words. They're your words. You don't have a right to put your words in space reserved for the words from feeds. ",
+                            "created": "Thu, 08 Dec 2022 14:30:51 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Instead display the first words from the description element of the item where you would put the title. If there are too many words, flow them into the space you've allocated for the description, but <i>do not repeat words</i> from the description. Again, you'd displaying something that isn't in the feed. The author did not repeat the words, so you can't do that. ",
+                            "created": "Thu, 08 Dec 2022 14:31:48 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "That's it, unless I'm missing something, and if I am, tell me. You can send me email, dave@scripting.com, and if you don't want me to publish it, say so and I won't. I don't want to embarrass anyone, I just want to solve this problem and move on to a feed world where feeds with items without titles are handled well by the reader software. ",
+                    "created": "Thu, 08 Dec 2022 14:33:01 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "BTW, one more thing, some feeds will have both kinds of posts, items with titles and items without. My <a href=\"http://scripting.com/rss.xml\">feed</a> is like that. The item for this post will have a title because the post has a title. ",
+                    "created": "Thu, 08 Dec 2022 14:34:11 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
