@@ -1,0 +1,87 @@
+{
+    "created": "2022-12-09T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "09",
+    "path": "2022/12/09",
+    "text": "December 09",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"http://scripting.com/2022/12/09/toBradDeLongReWtfHappened.m4a\">Podcast</a>: I was cc'd on a Masto <a href=\"https://mastodon.social/@mjgardner@mastodon.sdf.org/109484684585038468\">thread</a> re wtf happened to the blogosphere. I started writing, and couldn't keep up with my mind, so I opened up my iPhone and started talking about what happened and what we should and shouldn't do if we want to rebuild the war-torn landscape of blogging and feeds, that still exists. I addressed this to <a href=\"https://braddelong.substack.com/p/old-style-blogging-should-be-new\">Brad DeLong</a> one of the earliest bloggers, and a user, not a developer, as in \"users and developers party together.\" We can still have it all, imho -- but we need users to work with the developers. It's 15 minutes. ",
+            "created": "Fri, 09 Dec 2022 17:10:08 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2022/12/09/toBradDeLongReWtfHappened.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "7878230",
+            "image": "http://scripting.com/images/2020/03/19/beet.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Ken Smith says the above podcast is not a rant. :smile:",
+            "created": "Fri, 09 Dec 2022 20:36:36 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I block people who paste screen shots of Trump tweets into my timeline.",
+            "created": "Fri, 09 Dec 2022 20:35:55 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Alexa do you really have to say good evening or good morning before answering every freaking request. Thank you.",
+            "created": "Fri, 09 Dec 2022 21:43:59 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "My go-to song these days is <a href=\"https://www.youtube.com/watch?v=rXwMrBb2x1Q\">Hey Joe</a> by Jimi Hendrix. Totally awful lyrics. But oh is so fine otherwise. ",
+            "created": "Fri, 09 Dec 2022 17:50:53 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=rXwMrBb2x1Q",
+            "flInCalendar": true
+        },
+        {
+            "text": "A prototype for a feed reader",
+            "created": "Fri, 09 Dec 2022 21:15:53 GMT",
+            "type": "outline",
+            "description": "Demoing how a traditional feed reader can work with both titled and title-less feed items.",
+            "subs": [
+                {
+                    "text": "Rather than just preaching how feed readers could easily accommodate both titled and title-less items, as I have been, I put up a prototype that illustrates, with real data. It's not a lot of work, I developed this from scratch in one full programming day. Still have a little work tomorrow. ",
+                    "created": "Sat, 10 Dec 2022 01:29:28 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's how it deals with three test feeds. ",
+                    "created": "Fri, 09 Dec 2022 21:16:06 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "<a href=\"http://scripting.com/code/testing/itemviewer/?url=https%3A%2F%2Frss.nytimes.com%2Fservices%2Fxml%2Frss%2Fnyt%2FWorld.xml#\">NYT feed</a>. It's an easy case because the NYT feeds are uniform. ",
+                            "created": "Sat, 10 Dec 2022 01:22:04 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "<a href=\"http://scripting.com/code/testing/itemviewer/?url=http%3A%2F%2Fscripting.com%2Frss.xml\">Scripting News feed</a> contains both titled and title-less posts.",
+                            "created": "Sat, 10 Dec 2022 01:22:45 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "<a href=\"http://scripting.com/code/testing/itemviewer/?url=https%3A%2F%2Fmastodon.social%2F%40davew.rss\">My Mastodon feed</a>, where all items are title-less. ",
+                            "created": "Sat, 10 Dec 2022 01:23:52 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I will publish the source tomorrow, and hopefully skilled UI designers will have a look and then maybe we can approach the developers at each of the feed reader developers, and get past this. ",
+                    "created": "Fri, 09 Dec 2022 21:17:57 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
