@@ -1,0 +1,42 @@
+{
+    "text": "A prototype for a feed reader",
+    "created": "Fri, 09 Dec 2022 21:15:53 GMT",
+    "type": "outline",
+    "description": "Demoing how a traditional feed reader can work with both titled and title-less feed items.",
+    "subs": [
+        {
+            "text": "Rather than just preaching how feed readers could easily accommodate both titled and title-less items, as I have been, I put up a prototype that illustrates, with real data. It's not a lot of work, I developed this from scratch in one full programming day. Still have a little work tomorrow. ",
+            "created": "Sat, 10 Dec 2022 01:29:28 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's how it deals with three test feeds. ",
+            "created": "Fri, 09 Dec 2022 21:16:06 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "<a href=\"http://scripting.com/code/testing/itemviewer/?url=https%3A%2F%2Frss.nytimes.com%2Fservices%2Fxml%2Frss%2Fnyt%2FWorld.xml#\">NYT feed</a>. It's an easy case because the NYT feeds are uniform. ",
+                    "created": "Sat, 10 Dec 2022 01:22:04 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"http://scripting.com/code/testing/itemviewer/?url=http%3A%2F%2Fscripting.com%2Frss.xml\">Scripting News feed</a> contains both titled and title-less posts.",
+                    "created": "Sat, 10 Dec 2022 01:22:45 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"http://scripting.com/code/testing/itemviewer/?url=https%3A%2F%2Fmastodon.social%2F%40davew.rss\">My Mastodon feed</a>, where all items are title-less. ",
+                    "created": "Sat, 10 Dec 2022 01:23:52 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "I will publish the source tomorrow, and hopefully skilled UI designers will have a look and then maybe we can approach the developers at each of the feed reader developers, and get past this. ",
+            "created": "Fri, 09 Dec 2022 21:17:57 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
