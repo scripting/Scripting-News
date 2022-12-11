@@ -1,0 +1,29 @@
+{
+    "text": "My manifesto for feed reader developers",
+    "created": "Sat, 10 Dec 2022 17:58:37 GMT",
+    "type": "outline",
+    "description": "Writing on the web has been broken since 2007. We're ready to take the first step in unbreaking it.",
+    "subs": [
+        {
+            "text": "First, credit and respect to <a href=\"https://www.manton.org/\">Manton Reece</a> for helping steer Mastodon to titleless feeds. That's a mega-contribution to moving toward turning the web into a functional writing environment instead of the utterly broken mess stemming from when Twitter and Google Reader couldn't come together on micro-blogging and feeds. Imagine if they had worked it out. We'd be so much further ahead. That was in 2007. Writing on the web has been broken since then. ",
+            "created": "Sat, 10 Dec 2022 17:58:56 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Anyway, now most feed readers imho are broken, even the beloved products we depend on every day. We can love them even though they're wrong. I can't be mushy about this. Wrong is wrong. But we can fix it.",
+            "created": "Sat, 10 Dec 2022 18:00:06 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "In this <a href=\"https://github.com/scripting/titlelessFeedsHowto\">document</a> that is both code and prose, I say what I think the purpose of feeds are, to serve writers and readers, and there is no room for the wants of programmers, esp when it's so easy to do what the writers want us to do.",
+            "created": "Sat, 10 Dec 2022 18:00:23 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've been nice about this for a long time. We need to get together, users and developers and get this fixed so we can start adding more features to the <a href=\"http://this.how/whatIsADocument/\">common feature set</a> of writing environments for the web. We can easily get unstuck if we decide to get unstuck.",
+            "created": "Sat, 10 Dec 2022 18:00:55 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
