@@ -1,0 +1,98 @@
+{
+    "created": "2022-12-11T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "11",
+    "path": "2022/12/11",
+    "text": "December 11",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "The web has not gotten nearly the respect it deserves as a writing environment. It's been crippled by neglect, greed, complacency and cynicism. And jealousy -- professional writers are contemptuous of the idea of amateurs writing brilliantly. But it's not too late.",
+            "created": "Mon, 12 Dec 2022 02:34:37 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A couple of minor but nice <a href=\"https://github.com/scripting/titlelessFeedsHowto/blob/main/worknotes.md#121122-by-dw----v041\">tweaks</a> to yesterday's <a href=\"https://github.com/scripting/titlelessFeedsHowto/blob/main/README.md\">HowTo</a> thanks to a <a href=\"https://github.com/scripting/titlelessFeedsHowto/issues/1#issue-1488841784\">suggestion</a> from Joseph Zitt. ",
+            "created": "Sun, 11 Dec 2022 13:55:39 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A <a href=\"http://scripting.com/images/2022/12/11/scriptingScreenShot.png\">screen shot</a> of how the <a href=\"http://scripting.com/code/titleless/?url=http%3A%2F%2Fscripting.com%2Frss.xml\">reader looks</a> for this morning's blog. ",
+            "created": "Sun, 11 Dec 2022 14:13:53 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, this was the first time I wrote one of these HowTos that is part prose and part code. I love the way it turned out. I didn't plan on talking to feed reader devs on behalf of writers, but I think we all need to focus on who we're doing all this for, and it's primarily writers imho and then readers, and to the extent that programmers matter, it's just teeeny little bit. If this were a restaurant, we've designed things solely from the point of view of waiters, ignoring chefs and diners. That's how far off course we've gotten. We value tech too much esp when tech has done such a bad job as we have in feed reading user experience. ",
+            "created": "Sun, 11 Dec 2022 14:10:26 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "No wonder the writing and reading environment of the web in 2022 is so awful. We ignore the writers and the readers. Every time one of us speaks up, we get a chorus of agreement from other writers and readers, and then totally ignored by the developers. One example I'm constantly reminded of, because I often read the NYT on my iPad, it <i>always</i> interrupts my reading to put up a dialog asking if I want to read the article in their app. Even worse, they wait long enough so that I have already started reading the article. It's as if they <i>want</i> me to hate them. They say the app is much better. Well, I don't want to do that, for good reason, and it's none of their freaking business but there's no way to turn this dialog off. I pay them a lot of money to read their articles. And every time I open one of their stories on my iPad I'm reminded how much they hate me, and vice versa. ",
+            "created": "Sun, 11 Dec 2022 14:06:23 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "How to find new feeds in FeedLand",
+            "created": "Sun, 11 Dec 2022 23:41:53 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Talking with a friend who uses \"FeedLand\" today, the question came up as to how you find new feeds that might be interesting. So here are a few ways.",
+                    "created": "Sun, 11 Dec 2022 23:42:03 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "If you don't want to do a lot of work, start with <a href=\"http://feedland.org/?username=davewiner\">my feed list</a>. I subscribe to a lot of feeds, more than anyone else. Now here's the cool part. If you see a checkbox that isn't checked that means you aren't subscribed to it. Just click on the checkbox to subscribe. ",
+                            "created": "Sun, 11 Dec 2022 23:48:25 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Start with a feed you like, on your <i>Feed List</i> page. <a href=\"http://scripting.com/images/2022/12/11/feedlistScreen.png\">Screen shot</a>. Click on the title of the feed, which takes you to the <i>Feed Info</i> page. At the end of the page is a list of other people who subscribe to that feed. Click on a name to see their Feed List page. ",
+                            "created": "Sun, 11 Dec 2022 23:42:32 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Choose <i>Recent users</i> from the first menu. It takes you to a <a href=\"http://feedland.org/?userslist\">list of users</a> who have recently used FeedLand. <a href=\"http://scripting.com/images/2022/12/11/recentUsersScreen.png\">Screen shot</a>. Click on any name to go to their feed list. There are the checkboxes again. You can play with the sort order on the Recent Users page, you can see the people who have used FeedLand the most (that's the <i>Hits</i> colum) or are subscribed to the most feeds (the <i>Ct</i> column) or have been using it the longest (click twice on the <i>Started</i> column). ",
+                            "created": "Sun, 11 Dec 2022 23:44:02 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "King Elon",
+            "created": "Mon, 12 Dec 2022 00:00:23 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Watching Musk torment Fauci is a warning to all of us. Never mind why he's doing it, it doesn't matter. What matters is he's doing it. ",
+                    "created": "Mon, 12 Dec 2022 00:00:31 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Organizing insurrection aimed at random individuals and their families. When it's your turn, there's nowhere to run.",
+                    "created": "Mon, 12 Dec 2022 00:00:51 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Keep your head down little citizen. It doesn't matter if you're Speaker Pelosi or a highly respected medical man.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "He's the man with all the power, you could be next.",
+                    "created": "Mon, 12 Dec 2022 00:01:05 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
