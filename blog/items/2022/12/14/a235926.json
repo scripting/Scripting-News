@@ -1,0 +1,6 @@
+{
+    "text": "I've done some more thinking about \"textcasting\". It's basically a file format that defines a document. When you want to post a document to an online service, you'll give them the address of a textcast file, a URL. What's in a textcast document? That will be specified. A general description is in this howto. It will be very simple, an optional title, body that can have links, simple styling, unlimited length, a link to a podcast file. Conforms to the values in an RSS item, no need to reinvent names. One way of thinking is that it's an RSS 2.0 item, but not in a collection, just standing on its own. I'm going to start a GitHub repo for working on this. I don't think it'll take very long to put together. More to come. ",
+    "created": "Wed, 14 Dec 2022 23:59:26 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
