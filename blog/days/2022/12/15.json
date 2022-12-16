@@ -1,0 +1,48 @@
+{
+    "created": "2022-12-15T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "15",
+    "path": "2022/12/15",
+    "text": "December 15",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "A note to \"FeedLand\" users. There's a new feature where you can associate an email address with your account. Choose <i>Connect with email</i> in the <a href=\"http://scripting.com/images/2022/12/15/toolsMenu.png\">Tools menu</a>. This could serve as a backup in an emergency if Twitter goes down. It's important to create that connection as soon as possible, <i>before</i> an outage.",
+            "created": "Fri, 16 Dec 2022 02:31:49 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/09/07/mrMeeseeks.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Something that was forgotten from the old days of blogging. We don't blog to make money, rather we blog as part of what we do to make money. Important difference. Since I switched back to full blogging in 2017 and not writing for social media, after some time building tools, and re-learning how to ship stuff from my blog, I used it to launch FeedLand earlier this year, and the results have been outstanding. People are using it. That was the goal. Blogging makes bigger things possible. It's how I organize my work and work with the people who use the product of my work. We observed this in 2004 and beyond as we launched podcasting. It happened a lot faster than with blogging, because we had blogs to promote podcasting. This stuff builds. When we get interop the power tends to expand as a multiple, not linearly. ",
+            "created": "Thu, 15 Dec 2022 20:15:52 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "People who think I'm rude never say why. I'm left guessing. Something like this. You act like your opinion matters. How rude.",
+            "created": "Thu, 15 Dec 2022 20:12:32 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Waiting until people think your opinion matters is pointless. It never happens. So you just keep going as if they did. And sometimes just by chance they seem to.",
+            "created": "Thu, 15 Dec 2022 20:13:57 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "On Twitter: You and I will forget this tweet in ten minutes, but I still use blog posts I wrote years and decades ago. You want to create value in your writing? Twitter probably isn't the place to do that.",
+            "created": "Thu, 15 Dec 2022 20:14:42 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I have \"Drummer\" and Mastodon hooked up. You can create a thread in the outline structure in Drummer and then click an icon in the left margin to shoot it over to Mastodon. Here's an example of such a thread, in <a href=\"https://social.masto.land/@dave/109518506487530508\">Mastodon</a> and a <a href=\"http://scripting.com/images/2022/12/15/outlineStructureForMastoThreadScreen.png\">screen shot</a> of the outline that came from in Drummer. It's been a while since I added a feature to Drummer, and it seemed the new Mastodon capability in my toolbox seemed like a good opportunity to do that. I'll write up a howto for this shortly.",
+            "created": "Thu, 15 Dec 2022 15:57:40 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2022/12/15/drummer.png",
+            "flInCalendar": true
+        }
+    ]
+}
