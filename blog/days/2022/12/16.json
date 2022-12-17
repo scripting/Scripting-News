@@ -1,0 +1,60 @@
+{
+    "created": "2022-12-16T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "16",
+    "path": "2022/12/16",
+    "text": "December 16",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Just got a note from Matt Mullenweg <a href=\"https://twitter.com/davewiner/status/1603767093739941889\">saying</a> they're going to support <a href=\"https://github.com/scripting/titlelessFeedsHowto#titlelessfeedshowto\">titleless feeds</a> in WordPress. Couldn't be happier.  ",
+            "created": "Fri, 16 Dec 2022 15:05:37 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's worth mentioning that <a href=\"https://netnewswire.com/\">NetNewsWire</a> already does a good job of items with or without titles. Here are screen shots of NNW displaying a <a href=\"http://scripting.com/images/2022/12/16/titledPostScreenShot.png\">titled post</a>, and an <a href=\"http://scripting.com/images/2022/12/16/titlelessItemScreen.png\">titleless post</a> from Scripting News.",
+            "created": "Fri, 16 Dec 2022 15:10:16 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/09/09/jessica.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Also on their <a href=\"https://netnewswire.com/\">site</a> they say \"it's like podcasts -- but for reading.\" That's brilliant. Probably leaves a bunch of people scratching their heads. But this is where we're going. Making the world of text work as smoothly as the world of audio. Next step is to work on interop. So I can copy a full-featured <a href=\"http://textcasting.org/\">textcast</a> item from an app that doesn't support all the features (like Twitter or Mastodon) and paste it into one that does (like NetNewsWire or FeedLand), and voila -- everything is there. It's a simple change that would make it impossible for any participant in the network to lock you in. Your ideas would be free to move instead of being locked up. Feeds get us most of the way there, but there's a little more to do. ",
+            "created": "Fri, 16 Dec 2022 15:45:01 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Twitter would do better with competition than without. ",
+            "created": "Fri, 16 Dec 2022 15:18:16 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/lonseidman/status/1603770626275266561\">Lon Seidman</a>: \"Funny how my RSS reader keeps working perfectly fine well over a decade after I set it up. No bans, no algorithms, just dutifully spits out what I'm following each time I Iog in.\" That's because if someone tried to lock you in you'd just switch. Having something like \"RSS\" under an industry keeps it honest and respectful of users.",
+            "created": "Fri, 16 Dec 2022 15:36:53 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A weird thought. Musk gets upset and calls a timeout. Twitter goes off the air for 24 hours. As Judy Tenuta <a href=\"https://www.youtube.com/watch?v=eXygknVeLGE\">says</a> -- It could happen. ;-)",
+            "created": "Fri, 16 Dec 2022 16:13:58 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=eXygknVeLGE",
+            "flInCalendar": true
+        },
+        {
+            "text": "Last night I posted a <a href=\"http://scripting.com/2022/12/15.html#a023149\">note</a> here announcing a new feature in \"FeedLand\" that lets you connect an email address to your account. I just wrote a <a href=\"https://github.com/scripting/feedlandSupport/issues/151\">more detailed explanation</a> of what's going on with a place to ask questions if you're having trouble. This is important, it's a backup against a problem with Twitter. Better safe than sorry! :boom:",
+            "created": "Fri, 16 Dec 2022 13:58:35 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, it's worth noting that your subscriptions are public info, so even if for some reason you couldn't log onto your account you could still access your subscriptions, because anyone can. For example, <a href=\"http://feedland.org/opml?screenname=davewiner\">my subscriptions</a> are here. You can even get them <a href=\"http://feedland.org/opml?screenname=davewiner&catname=podcasts\">by category</a>.",
+            "created": "Fri, 16 Dec 2022 15:53:42 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
