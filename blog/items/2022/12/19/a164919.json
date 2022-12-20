@@ -1,0 +1,6 @@
+{
+    "text": "The second thing I realized is that if I were teaching a second semester Comp Sci class I would first have the students write the app side of <a href=\"https://en.wikipedia.org/wiki/OAuth\">OAuth</a>, and struggle with all the weird concepts and awful docs that usually accompany OAuth installations, and then as a follow-up project, I'd have them write the other side of OAuth, the one that makes all the weird rules and has shitty docs. I'm doing that now for the first time, and wish I had done it a long time ago. I think it's actually easier to write your own OAuth server than it is to use someone else's. I'm making sure btw that the example code is pristine absolutely obvious, and you should be able to just plop the code down in your app without any fuss or muss. At least those are my goals. We'll see how it turns out. ;-) ",
+    "created": "Mon, 19 Dec 2022 16:49:19 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
