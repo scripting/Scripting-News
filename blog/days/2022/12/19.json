@@ -1,0 +1,92 @@
+{
+    "created": "2022-12-19T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "19",
+    "path": "2022/12/19",
+    "text": "December 19",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I'm <a rel=\"me\" href=\"https://mastodon.social/@davew\">davew</a> on mastodon.social. :rocket:",
+            "created": "Tue, 20 Dec 2022 02:57:46 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you're shocked by how Musk processes stuff, carve out a little time over the holidays and watch the HBO series <a href=\"https://en.wikipedia.org/wiki/Silicon_Valley_(season_1)\">Silicon Valley</a>. I lived in there from 1979 to 2008, and I was surprised at how real the show was even though it's a comedy. ",
+            "created": "Mon, 19 Dec 2022 22:51:22 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Another good thing to stream is <a href=\"https://en.wikipedia.org/wiki/Moneyball_(film)\">Moneyball</a>, which is on Netflix through the end of the month. I love sports movies, and this is a first class baseball story, but it's also about math, and courage, and it's one of Brad Pitt's best <a href=\"https://en.wikipedia.org/wiki/Brad_Pitt_filmography\">movies</a>. I must've seen it five times before watching it the other day. The <a href=\"https://en.wikipedia.org/wiki/Moneyball\">book</a> is good too. ",
+            "created": "Tue, 20 Dec 2022 02:09:05 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Two recent programming gestalts. I first learned how to modularize big projects with <a href=\"https://en.wikibooks.org/wiki/Pascal_Programming/Units\">UCSD Pascal units</a>. The Apple II version of <a href=\"http://scripting.com/2014/02/18/erikSandbergdiments1983ThinktankReview.html\">ThinkTank</a> was constructed out of units. But it wasn't until today that I realized there is an equivalent to that in JavaScript. Not sure they even have a name, but if you create a function that's designed to be called via with the <i>new</i> verb in a certain way, it behaves just like a unit, if you know that. I wish someone had pointed that out to me earlier, but I doubt there are very many serious UCSD Pascal devs using JavaScript in the same way. On the server of course we have packages which totally are units, that was clear from the start.  ",
+            "created": "Mon, 19 Dec 2022 16:46:45 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2022/12/19/ucsdPascalManual.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "The second thing I realized is that if I were teaching a second semester Comp Sci class I would first have the students write the app side of <a href=\"https://en.wikipedia.org/wiki/OAuth\">OAuth</a>, and struggle with all the weird concepts and awful docs that usually accompany OAuth installations, and then as a follow-up project, I'd have them write the other side of OAuth, the one that makes all the weird rules and has shitty docs. I'm doing that now for the first time, and wish I had done it a long time ago. I think it's actually easier to write your own OAuth server than it is to use someone else's. I'm making sure btw that the example code is pristine absolutely obvious, and you should be able to just plop the code down in your app without any fuss or muss. At least those are my goals. We'll see how it turns out. ;-) ",
+            "created": "Mon, 19 Dec 2022 16:49:19 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "On <a href=\"http://scripting.com/2022/12/16.html#a150537\">WordPress supporting</a> title-less feed items: I'm really happy to see them do this. We're in a moment where we might be able to straighten out this huge problem with the web, that limits how we can integrate systems that support short and long posts. We've been divided since Twitter gave up on their RSS feeds, a long time ago. Mastodon required some convincing to stick to no titles in their feeds, rather than give in. And WordPress stepping up to make this transition means we have more reasons for other feed displayers to do so. So this is totally a win for RSS, and I see that as a win for me because <a href=\"http://scripting.com/2021/12/16/153331.html?title=myProductIsInterop\">my product is interop</a>. I made that switch a long time ago. I make products too but interop comes first. ",
+            "created": "Mon, 19 Dec 2022 15:47:03 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've been seeing <a href=\"https://twitter.com/ChristopherA/status/1604983112609325056\">posts</a> saying that the W3C is spinning out of MIT and it's not going well. Not sure how much we depend on the W3C. They appear to be controlled by the big companies, and they've rarely been interested in building on my work, instead reinventing it. So if the W3C goes away, well I don't know if I'll miss it. ",
+            "created": "Tue, 20 Dec 2022 03:12:36 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I love my Tesla",
+            "created": "Mon, 19 Dec 2022 15:26:12 GMT",
+            "type": "outline",
+            "description": "I feel like its a privilege to drive my Model Y every time I get in the car.",
+            "metaImage": "http://scripting.com/images/2022/12/19/teslaModelY.png",
+            "subs": [
+                {
+                    "text": "<a href=\"https://www.google.com/search?q=site%3Ascripting.com+tesla\">As a Tesla owner</a> I find all the press about people dumping their Teslas because Musk is a brat pretty fucked up. Like going to a diner in Ohio to find out what Trumpsters are up to as if that were measuring anything credible.",
+                    "created": "Mon, 19 Dec 2022 15:26:15 GMT",
+                    "image": "http://scripting.com/images/2020/11/29/happyHolidays.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I am an extreme liberal, esp when it comes to the web. My creds are excellent. And I love my Model Y. I feel like its a privilege to drive it every time I get in the car. And I've owned some terrific cars in my life. There are some cars that are just great to drive. So great that their flaws are not relevant. That Elon Musk is tied to the product is unfortunate. But until I drive a car that's equal to the car I have, I'm not going to bend to the bullshit the press is putting out there. ",
+                    "created": "Mon, 19 Dec 2022 15:26:41 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I also still use Twitter. I'm not going to let Musk chase me off. He'll have to suspend me if he wants me off. I would regret that. I've been on Twitter since 2006. Musk can do whatever he wants, Twitter is big enough for both of us.",
+                    "created": "Mon, 19 Dec 2022 15:30:06 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I voted for Obama twice, Hillary and Biden. So fuck you if you think driving a Tesla is like being a MAGA.",
+                    "created": "Mon, 19 Dec 2022 15:28:07 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The two things are completely disconnected, and the press is working overtime to try to connect them.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I see what you're doing and this is why I hate journalism. Kick back and stop inventing the news. Report it. ",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
