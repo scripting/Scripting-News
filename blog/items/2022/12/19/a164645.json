@@ -1,0 +1,7 @@
+{
+    "text": "Two recent programming gestalts. I first learned how to modularize big projects with <a href=\"https://en.wikibooks.org/wiki/Pascal_Programming/Units\">UCSD Pascal units</a>. The Apple II version of <a href=\"http://scripting.com/2014/02/18/erikSandbergdiments1983ThinktankReview.html\">ThinkTank</a> was constructed out of units. But it wasn't until today that I realized there is an equivalent to that in JavaScript. Not sure they even have a name, but if you create a function that's designed to be called via with the <i>new</i> verb in a certain way, it behaves just like a unit, if you know that. I wish someone had pointed that out to me earlier, but I doubt there are very many serious UCSD Pascal devs using JavaScript in the same way. On the server of course we have packages which totally are units, that was clear from the start.  ",
+    "created": "Mon, 19 Dec 2022 16:46:45 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2022/12/19/ucsdPascalManual.png",
+    "flInCalendar": true
+}
