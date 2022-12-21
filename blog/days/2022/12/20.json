@@ -1,0 +1,75 @@
+{
+    "created": "2022-12-20T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "20",
+    "path": "2022/12/20",
+    "text": "December 20",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"http://scripting.com/2022/12/20/voicemailToGuyKawasaki.m4a\">Podcast</a>: An open voicemail to my longtime friend Guy Kawasaki, who wants to meet up with people on LinkedIn. I say come play with us on Mastodon. The difference is I can make software for you that plugs in beautifully on Mastodon, without limits, it's a \"platform with no platform vendor.\" I will never be able to make software for you that works in LinkedIn. Lots of analogies. And I am as usual far too long-winded. ",
+            "created": "Tue, 20 Dec 2022 17:06:35 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2022/12/20/voicemailToGuyKawasaki.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "6759439",
+            "flInCalendar": true
+        },
+        {
+            "text": "We've learned that you can't compete with Twitter on Twitter. I wonder how broad that is and where the lines are, if there are any. I also seems inevitable that Musk/Twitter will sue users, not just suspend them. ",
+            "created": "Tue, 20 Dec 2022 19:24:50 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A fetching SNL sketch",
+            "created": "Tue, 20 Dec 2022 18:01:32 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Do you recognize this SNL sketch? I just saw an excerpt from it and I want to see the rest. What do I search for. I find it fascinating. ",
+                    "created": "Tue, 20 Dec 2022 18:02:22 GMT",
+                    "inlineImage": "http://scripting.com/images/2022/12/20/snlScreenShot.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Update: Thanks to Stephen Tallent on <a href=\"https://twitter.com/stallent/status/1605264175437062147\">Twitter</a>. :smile:",
+                    "created": "Tue, 20 Dec 2022 18:16:23 GMT",
+                    "urlvideo": "https://www.youtube.com/watch?v=iSBpvh4y_lU",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "FeedLand and rssCloud",
+            "created": "Tue, 20 Dec 2022 16:45:40 GMT",
+            "type": "outline",
+            "description": "It just got a lot easier to add rssCloud support to a feed reader app.",
+            "subs": [
+                {
+                    "text": "Once I got \"FeedLand\"'s implementation of <a href=\"http://this.how/rssCloud/\">rssCloud</a> working with WordPress and <a href=\"https://github.com/rsscloud/rsscloud-server\">Andrew Shell's server</a>, I created a very <a href=\"https://github.com/scripting/reallysimple/tree/main/demos/clouddemo\">simple demo app</a> in Node that just does the rssCloud functionality, so anyone can test with our implementation, and see exactly what's going on.",
+                    "created": "Tue, 20 Dec 2022 16:45:44 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It also provides a reference <a href=\"https://github.com/scripting/reallysimple/blob/main/demos/clouddemo/clouddemo.js\">implementation</a> for people just getting started with rssCloud.",
+                    "created": "Tue, 20 Dec 2022 16:46:37 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "At some point I need to rewrite the <a href=\"http://walkthrough.rsscloud.co/\">walkthrough</a>. It's not very well done imho (I am the author).",
+                    "created": "Tue, 20 Dec 2022 16:47:26 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "",
+            "created": "Tue, 20 Dec 2022 18:07:03 GMT",
+            "inlineImage": "http://scripting.com/images/2022/12/20/areyoutheone.png",
+            "flInCalendar": true
+        }
+    ]
+}
