@@ -1,0 +1,24 @@
+{
+    "text": "FeedLand and rssCloud",
+    "created": "Tue, 20 Dec 2022 16:45:40 GMT",
+    "type": "outline",
+    "description": "It just got a lot easier to add rssCloud support to a feed reader app.",
+    "subs": [
+        {
+            "text": "Once I got \"FeedLand\"'s implementation of <a href=\"http://this.how/rssCloud/\">rssCloud</a> working with WordPress and <a href=\"https://github.com/rsscloud/rsscloud-server\">Andrew Shell's server</a>, I created a very <a href=\"https://github.com/scripting/reallysimple/tree/main/demos/clouddemo\">simple demo app</a> in Node that just does the rssCloud functionality, so anyone can test with our implementation, and see exactly what's going on.",
+            "created": "Tue, 20 Dec 2022 16:45:44 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "It also provides a reference <a href=\"https://github.com/scripting/reallysimple/blob/main/demos/clouddemo/clouddemo.js\">implementation</a> for people just getting started with rssCloud.",
+            "created": "Tue, 20 Dec 2022 16:46:37 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "At some point I need to rewrite the <a href=\"http://walkthrough.rsscloud.co/\">walkthrough</a>. It's not very well done imho (I am the author).",
+            "created": "Tue, 20 Dec 2022 16:47:26 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
