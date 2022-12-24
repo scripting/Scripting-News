@@ -1,0 +1,37 @@
+{
+    "created": "2022-12-23T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "23",
+    "path": "2022/12/23",
+    "text": "December 23",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=w9qsDgA1q8Y\">Different Drum</a>.",
+            "created": "Sat, 24 Dec 2022 03:13:44 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=w9qsDgA1q8Y",
+            "flInCalendar": true
+        },
+        {
+            "text": "A <a href=\"https://twitter.com/davewiner/status/1606480321603670017\">question</a> for free speech theorists.",
+            "created": "Sat, 24 Dec 2022 03:15:36 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1606480321603670017",
+            "flInCalendar": true
+        },
+        {
+            "text": "Looking for a holiday binge? Here are <a href=\"http://my.bingeworthy.io/davewiner/\">some shows</a> I have loved. ",
+            "created": "Fri, 23 Dec 2022 16:45:10 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "One of the nicest things about \"FeedLand\" is you can explore other people's feed lists, and see the world through their eyes, and how they are innovating with the product in ways you hadn't foreseen. For example, when we released FeedLand in <a href=\"http://scripting.com/2022/10/\">October</a>, Mastodon wasn't a big deal yet, and we didn't even know about their excellent RSS support. Now, a couple of months later, of course FeedLand works with Masto, no mods necessary because \"RSS\" is a strong standard, and <a href=\"http://feedland.org/?username=moosebegab\">users are innovating</a>, again -- outside the boundaries of either product, using features in one to connect to features in the other. This is where <a href=\"http://scripting.com/2021/12/16/153331.html?title=myProductIsInterop\">interop</a> becomes art!  When users do things with your product that make you say wow that could have been a whole product on its own. ",
+            "created": "Fri, 23 Dec 2022 16:09:53 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2022/12/23/masto.png",
+            "flInCalendar": true
+        }
+    ]
+}
