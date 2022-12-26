@@ -1,0 +1,17 @@
+{
+    "created": "2022-12-25T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "25",
+    "path": "2022/12/25",
+    "text": "December 25",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Happy Christmas everybody!",
+            "created": "Sun, 25 Dec 2022 16:18:30 GMT",
+            "type": "outline",
+            "inlineImage": "http://scripting.com/images/2022/12/25/santa.png",
+            "flInCalendar": true
+        }
+    ]
+}
