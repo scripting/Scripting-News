@@ -1,0 +1,181 @@
+{
+    "created": "2022-12-27T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "27",
+    "path": "2022/12/27",
+    "text": "December 27",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "A free idea for my friend Matt Mullenweg -- lots of skins for WordPress. There's no reason you should need to write a new back end just for a new user experience. The two should be decoupled, with great opportunities for developers and designers working together.",
+            "created": "Tue, 27 Dec 2022 15:02:06 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Product idea",
+            "created": "Tue, 27 Dec 2022 15:05:37 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "A product idea for a new AI bot.",
+                    "created": "Tue, 27 Dec 2022 15:05:41 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A confessional.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You tell it what pisses you off and it tells you what you can do to work around the problem instead of being stopped by it. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "For extra $ it will connect you with people with a similar grievance who want to <a href=\"http://scripting.com/2016/05/04/1237.html\">get it done</a>.",
+                    "created": "Tue, 27 Dec 2022 15:06:25 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Grievances",
+            "created": "Tue, 27 Dec 2022 14:58:44 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Take responsibility for your grievances.",
+                    "created": "Tue, 27 Dec 2022 15:03:32 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Think hard about what you can do to alleviate them, rather than making pointless demands of people who don't care what you think and aren't listening.",
+                    "created": "Tue, 27 Dec 2022 15:02:51 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Ask what you really want. Do you want the problem solved, or do you want to be heard?",
+                    "created": "Tue, 27 Dec 2022 15:02:52 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "FeedLand update",
+            "created": "Tue, 27 Dec 2022 14:29:21 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "A new FeedLand feature -- you can now search titles of feeds. ",
+                    "created": "Tue, 27 Dec 2022 14:29:24 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "To start a search, choose <i>Search feeds</i> from the first menu. ",
+                    "created": "Tue, 27 Dec 2022 14:31:53 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A dialog appears asking what you want to search for. Enter a string, and you're taken to a page with the search results. ",
+                    "created": "Tue, 27 Dec 2022 14:33:10 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here are a few example searches you can try.",
+                    "created": "Tue, 27 Dec 2022 14:33:30 GMT",
+                    "subs": [
+                        {
+                            "text": "<a href=\"http://feedland.org/?search=new%20york\">http://feedland.org/?search=new%20york</a>",
+                            "created": "Tue, 27 Dec 2022 17:28:49 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "<a href=\"http://feedland.org/?search=blog\">http://feedland.org/?search=blog</a>",
+                            "created": "Tue, 27 Dec 2022 14:48:31 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "<a href=\"http://feedland.org/?search=nyt\">http://feedland.org/?search=nyt</a>",
+                            "created": "Tue, 27 Dec 2022 14:41:48 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "<a href=\"http://feedland.org/?search=bbc\">http://feedland.org/?search=bbc</a>",
+                            "created": "Tue, 27 Dec 2022 14:42:12 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "<a href=\"http://feedland.org/?search=feedland\">http://feedland.org/?search=feedland</a>",
+                            "created": "Tue, 27 Dec 2022 03:11:42 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "<a href=\"http://feedland.org/?search=scott\">http://feedland.org/?search=scott</a>",
+                            "created": "Tue, 27 Dec 2022 03:11:26 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "<a href=\"http://feedland.org/?search=ken\">http://feedland.org/?search=ken</a>",
+                            "created": "Tue, 27 Dec 2022 03:11:32 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "<a href=\"http://feedland.org/?search=feed\">http://feedland.org/?search=feed</a>",
+                            "created": "Tue, 27 Dec 2022 03:11:55 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "<a href=\"http://feedland.org/?search=dave\">http://feedland.org/?search=dave</a>",
+                            "created": "Tue, 27 Dec 2022 03:11:37 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "<a href=\"http://feedland.org/?search=john\">http://feedland.org/?search=john</a>",
+                            "created": "Tue, 27 Dec 2022 03:11:48 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "<a href=\"http://feedland.org/?search=rss\">http://feedland.org/?search=rss</a>",
+                            "created": "Tue, 27 Dec 2022 03:11:17 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You don't need to be signed on to use the command, however, if you're signed on, there are checkboxes so you can see which feeds you're subscribed to and you can see the categories you've assigned them to. ",
+                    "created": "Tue, 27 Dec 2022 14:33:52 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "There's an entry box at the top of the search page that allows you to search for more terms. ",
+                    "created": "Tue, 27 Dec 2022 14:34:02 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The results can be sorted by title, how recently they've updated, and the number of people subscribing to the feed. ",
+                    "created": "Tue, 27 Dec 2022 14:40:16 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You can get more details about the feed by clicking on its title, and view the five most recent items by clicking on the grey wedge to the left of the title. ",
+                    "created": "Tue, 27 Dec 2022 14:40:42 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's a <a href=\"https://github.com/scripting/feedlandSupport/issues/153\">place</a> for comments and questions. ",
+                    "created": "Tue, 27 Dec 2022 14:54:36 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Screen shot.",
+                    "created": "Tue, 27 Dec 2022 14:49:14 GMT",
+                    "inlineImage": "http://scripting.com/images/2022/12/27/searchScreenShot.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
