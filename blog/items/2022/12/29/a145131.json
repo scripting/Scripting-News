@@ -1,0 +1,39 @@
+{
+    "text": "Update on identity in FeedLand",
+    "created": "Thu, 29 Dec 2022 14:51:31 GMT",
+    "type": "outline",
+    "description": "Registering an email address protects you from Twitter disappearing.",
+    "subs": [
+        {
+            "text": "TL;DR: If you use FeedLand you should <a href=\"https://github.com/scripting/feedlandSupport/issues/151\">register an email address</a>, if you have not already done so. ",
+            "created": "Thu, 29 Dec 2022 14:56:57 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Over the last month I made it so you can log onto \"FeedLand\" with email in addition to Twitter. You still have to have a Twitter account to sign up, but if Twitter were to go down or disappear, if you had registered an email address with FeedLand you would still be able to log in. ",
+            "created": "Thu, 29 Dec 2022 14:46:45 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "And note that since new membership is closed, everyone who uses FeedLand already has registered with a Twitter account, so there are no problems. ",
+            "created": "Thu, 29 Dec 2022 14:54:38 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Perhaps at some point I will produce a version of FeedLand that only uses email for identity. I would do that now if I had 35 programmers working on this stuff, but it's just me, and I have to get back to what I'm good at -- making features users want, and inventing new shit no one else thought of. ",
+            "created": "Thu, 29 Dec 2022 14:52:14 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "People seem to assume I'm like a VC-backed company and I want the most users I possibly can get. This is very far from the truth. I want <i>enough</i> users, and no more. I need support from users, to make sure my new features work, and to make feature requests that make the product better. ",
+            "created": "Thu, 29 Dec 2022 14:52:45 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "At some point perhaps I'll work with a company to make it a huge thing like Mastodon or WordPress, commercial to use, open source if you want to deploy your own. But it's not something I can do as a person. ",
+            "created": "Thu, 29 Dec 2022 14:53:07 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
