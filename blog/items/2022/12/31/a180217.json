@@ -1,0 +1,22 @@
+{
+    "text": "ActivityPub and Me",
+    "created": "Sat, 31 Dec 2022 18:02:17 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I have a strong feeling that <a href=\"https://www.w3.org/TR/activitypub/\">ActivityPub</a> can be factored to a relatively simple programming interface with a few basic operations. Probably something equivalent to the <a href=\"http://xmlrpc.com/storyreader/story2198.md\">MetaWeblog API</a> we had back in We Blogging Days of Yore. ",
+            "created": "Sat, 31 Dec 2022 18:02:23 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "To find out if the intuition is correct, I'd have to do it, and it looks like a snake pit to me, and I expect I'd get lost in there for months, trying to find the right strings to pull to get interop with other apps that use ActivityPub.",
+            "created": "Sat, 31 Dec 2022 18:04:15 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I would love to use such a package. I work in Node.js. I like clean and simple APIs with good example code.",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
