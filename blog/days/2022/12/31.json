@@ -1,0 +1,85 @@
+{
+    "created": "2022-12-31T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "31",
+    "path": "2022/12/31",
+    "text": "December 31",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "New feature: <a href=\"https://github.com/scripting/feedlandSupport/issues/158\">Bookmarks in FeedLand</a>. :boom: ",
+            "created": "Sat, 31 Dec 2022 18:27:58 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Every app should have a Bookmarks menu, for organizing all your work, esp writing and esp if you're writing publicly on the web and the documents are automatically accessible on the web. If you spot a mistake you want to make it as easy and quick as possible to fix the error. ",
+            "created": "Sat, 31 Dec 2022 15:55:36 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's amazing that the Macintosh desktop doesn't have a Bookmarks menu. It was first released in January 1984, almost 39 years ago. Look at all the other crap they've added to the Finder, and the single most useful feature possible is missing. ",
+            "created": "Sat, 31 Dec 2022 17:00:06 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "This is what <a href=\"http://scripting.com/images/2022/12/31/myFeedlandBookmarks.png\">my bookmarks menu</a> in \"Drummer\" looks like after a year's use. That's just one section expanded. And it's just one app. ;-)",
+            "created": "Sat, 31 Dec 2022 17:27:02 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "ActivityPub and Me",
+            "created": "Sat, 31 Dec 2022 18:02:17 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I have a strong feeling that <a href=\"https://www.w3.org/TR/activitypub/\">ActivityPub</a> can be factored to a relatively simple programming interface with a few basic operations. Probably something equivalent to the <a href=\"http://xmlrpc.com/storyreader/story2198.md\">MetaWeblog API</a> we had back in We Blogging Days of Yore. ",
+                    "created": "Sat, 31 Dec 2022 18:02:23 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "To find out if the intuition is correct, I'd have to do it, and it looks like a snake pit to me, and I expect I'd get lost in there for months, trying to find the right strings to pull to get interop with other apps that use ActivityPub.",
+                    "created": "Sat, 31 Dec 2022 18:04:15 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I would love to use such a package. I work in Node.js. I like clean and simple APIs with good example code.",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "A feed management system",
+            "created": "Sat, 31 Dec 2022 17:25:03 GMT",
+            "type": "outline",
+            "description": "Thanks to users who helped me develop FeedLand in 2022.",
+            "metaImage": "http://scripting.com/images/2022/12/31/williamsburgBridgeInFog.png",
+            "subs": [
+                {
+                    "text": "<i>Thanks</i> to users who helped me develop \"FeedLand\" in 2022. ",
+                    "created": "Sat, 31 Dec 2022 17:25:15 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "At the beginning of the year it was just an idea that something new could be done for feeds. There were a couple of projects half-developed, one called FeedBase and an SQL version of my River series.",
+                    "created": "Sat, 31 Dec 2022 17:36:38 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It all came together nicely as a social environment, something I think of now as a Feed Management System, as different from a feed reader. I want to do more with feeds than read them.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Anyway if you're using FeedLand, your participation has helped make FeedLand a success. Thank you.",
+                    "created": "Sat, 31 Dec 2022 17:25:42 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
