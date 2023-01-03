@@ -1,0 +1,7 @@
+{
+    "text": "If you want to watch me update my blog outline you can do it <a href=\"http://scripting.com/code/testing/concordreader/?url=http://drummer.scripting.com/davewiner/blog.opml\">here</a>.  It seems to update in real time. I must have written this thing, but I don't remember doing so. Looking at the JavaScript console, it's quite sexy, hooked into the websocket protocol supported by \"Drummer\", which is of course where I am editing this mofo. When I let up on the keyboard for a second or two it sends an update. It's not updating on every keystroke; that would be wasteful. It's fun to watch while I type in one window and watch the update in the other one.",
+    "created": "Mon, 02 Jan 2023 19:18:57 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2021/12/24/dontLookUp.png",
+    "flInCalendar": true
+}
