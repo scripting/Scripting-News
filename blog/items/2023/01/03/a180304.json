@@ -1,0 +1,6 @@
+{
+    "text": "I introduced a problem in \"FeedLand\" when <a href=\"http://data.feedland.org/changenotes/2022/12/28/162013.html\">keyboard navigation</a> in the Feed List feature was added. Basically, if you had a <a href=\"http://feedland.org/?username=davewiner\">Feed List</a> displayed, an \"ask dialog\" wouldn't receive your keystrokes, or it would appear to freeze. This dialog appears whenever FL asks for a string, for example to enter a string to search for, or to enter the URL of a feed to subscribe to. I believe I found the problem and fixed it. It's <a href=\"https://github.com/scripting/feedlandSupport/issues/163\">explained here</a>. ",
+    "created": "Tue, 03 Jan 2023 18:03:04 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
