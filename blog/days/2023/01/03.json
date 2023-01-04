@@ -1,0 +1,43 @@
+{
+    "created": "2023-01-03T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "03",
+    "path": "2023/01/03",
+    "text": "January 03",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Quick <a href=\"http://scripting.com/2023/01/03/questionAboutHttps.m4a\">audio question</a> about https.",
+            "created": "Tue, 03 Jan 2023 19:22:21 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2023/01/03/questionAboutHttps.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "1012925",
+            "flInCalendar": true
+        },
+        {
+            "text": "All of a sudden Twitter has wildly <a href=\"https://www.youtube.com/shorts/1nAk6W5cMbU\">animated ads</a>.",
+            "created": "Tue, 03 Jan 2023 18:26:35 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "It might be time for a new political party to form in the House. I'm pretty sure a majority of voters love watching the Repubs fight this way. I sure do. It's an actual bonafide horse race. They should keep doing this until the Republican Party explodes. ",
+            "created": "Tue, 03 Jan 2023 18:24:38 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I introduced a problem in \"FeedLand\" when <a href=\"http://data.feedland.org/changenotes/2022/12/28/162013.html\">keyboard navigation</a> in the Feed List feature was added. Basically, if you had a <a href=\"http://feedland.org/?username=davewiner\">Feed List</a> displayed, an \"ask dialog\" wouldn't receive your keystrokes, or it would appear to freeze. This dialog appears whenever FL asks for a string, for example to enter a string to search for, or to enter the URL of a feed to subscribe to. I believe I found the problem and fixed it. It's <a href=\"https://github.com/scripting/feedlandSupport/issues/163\">explained here</a>. ",
+            "created": "Tue, 03 Jan 2023 18:03:04 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm interested in <a href=\"https://medium.com/@nkaurelien/how-to-create-a-read-only-mysql-user-226e8e49a855\">read-only interfaces</a> to MySQL. ",
+            "created": "Tue, 03 Jan 2023 18:53:03 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
