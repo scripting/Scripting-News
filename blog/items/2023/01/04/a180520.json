@@ -1,0 +1,44 @@
+{
+    "text": "I am in interop mode",
+    "created": "Wed, 04 Jan 2023 18:05:20 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Looking for products that can interop on the basis of RSS or OPML primarily. That's what I've invested in most heavily. ",
+            "created": "Wed, 04 Jan 2023 18:05:43 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "FeedLand for RSS.",
+                    "created": "Wed, 04 Jan 2023 18:05:37 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Drummer for OPML.",
+                    "created": "Wed, 04 Jan 2023 18:05:39 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Though there is crossover. ",
+            "created": "Wed, 04 Jan 2023 18:06:44 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "Drummer can read an RSS feed.",
+                    "created": "Wed, 04 Jan 2023 18:06:42 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "FeedLand products OPML feed lists.",
+                    "created": "Wed, 04 Jan 2023 18:06:42 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
