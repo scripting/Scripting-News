@@ -1,0 +1,52 @@
+{
+    "created": "2023-01-05T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "05",
+    "path": "2023/01/05",
+    "text": "January 05",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://mastodon.social/@hrheingold/109639552892763915\">Howard Rheingold</a>: \"I'm appreciating FeedLand -- I decided to follow everyone who follows me [on Mastodon]. I can add the feeds of a few dozen people I want to pay closer attention to under my Mastodon or News categories. Mastodon for the raw feed, Feedland for the curated feed. Once I went through it, the process was clean, straightforward, quick.\"",
+            "created": "Fri, 06 Jan 2023 02:05:09 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's HR's <a href=\"http://feedland.org/?river=true&screenname=hrheingold&catname=mastodon\">news page</a>. ",
+            "created": "Fri, 06 Jan 2023 02:08:51 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/245\">Braintrust query</a>: I'm thinking about getting a refurbished Mac laptop. I seem to remember there was a point at which Mac laptops started sucking. Is it safe to buy a <a href=\"https://www.amazon.com/Apple-Macbook-MJLQ2LL-15-inch-Processor/dp/B07ZFZ33SK/ref=sr_1_3?crid=Z9YH82KC98CP&keywords=mac%2Blaptop%2B2015&qid=1672943328&sprefix=mac%2Blaptop%2B2015%2Caps%2C87&sr=8-3&th=1\">2015 Powerbook</a>? I need to be able to run \"Frontier\" on it, that's why I can't buy a new one. ",
+            "created": "Thu, 05 Jan 2023 18:29:04 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "My <a href=\"http://feedland.org/opml?screenname=davewiner\">OPML subscription list</a> via FeedLand. ",
+            "created": "Thu, 05 Jan 2023 16:26:16 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm now setting up a second FeedLand instance, this one for me personally. Learning what it takes to set one up and smoothing things out. Taking lots of notes. Found a few bugs, but not many. Surprising how little breakage there has been between Instance0 and Instance1. ",
+            "created": "Thu, 05 Jan 2023 16:26:35 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you've been reading this blog since the beginning you know about <a href=\"https://www.google.com/search?q=site%3Ascripting.com+%22fractional+horsepower%22\">Fractional Horsepower</a> servers. It's an important idea. That software you think of as running on huge servers in the cloud also can be deployed on much smaller systems, including behind a firewall on a personal computer. <a href=\"http://scripting.com/images/2021/08/15/radioUserLandScreenShot.png\">Radio UserLand</a> was a server that ran on the desktop, yet very few users knew that. It just ran in the browser, there was a little cloud component to act as a proxy, to do the kinds of things you can't do from a desktop. ",
+            "created": "Thu, 05 Jan 2023 16:28:34 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I wasn't very entertained with <a href=\"https://www.metacritic.com/movie/the-menu\">The Menu</a> on HBO but now I find myself thinking about <a href=\"https://en.wikipedia.org/wiki/The_Menu_(2022_film)\">it</a> a lot, not deliberately. Weird. So I watched it again, and on the second viewing it came together. I've had a similar experience with <a href=\"https://en.wikipedia.org/wiki/There_Will_Be_Blood\">There Will Be Blood</a>. I didn't like it on the first viewing, but watched it again, and it became one of my favorite movies. ",
+            "created": "Thu, 05 Jan 2023 17:58:50 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
