@@ -1,0 +1,55 @@
+{
+    "created": "2023-01-08T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "08",
+    "path": "2023/01/08",
+    "text": "January 08",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I bought a <a href=\"https://www.amazon.com/gp/product/B082XG7VBP/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&th=1\">2015 Mac laptop</a>, used, for $600 via Amazon. I need it because I use \"Frontier\" as an integral part of my development process, all my build scripts run in Frontier, and while they could be converted to JavaScript, they'd be more complicated and it's a lot of work, and it's worth spending $600 to save all that work. Someday I want to do it because I'd like to use Drummer and its built-in scripting language for the same purpose. I learned a lot about why people choose older Macs. It reminds me of <a href=\"https://en.wikipedia.org/wiki/Fender_(company)#Sale_to_CBS\">pre-CBS</a> Fender guitars, which still sell at a <a href=\"https://www.ebay.com/sch/i.html?_nkw=Pre-cbs%20Fender%20Guitars&norover=1&mkevt=1&mkrid=711-153677-346401-4&mkcid=2&mkscid=102&keyword=&crlp=632052376936_&MT_ID=&geo_id=&rlsatarget=dsa-1456167871416&adpos=&device=c&mktype=&loc=1023511&poi=&abcId=&cmpgn=18786426719&sitelnk=&adgroupid=144636292002&network=g&matchtype=&gclid=CjwKCAiA8OmdBhAgEiwAShr403s3aqhTbcuAgTH_yfHqEEFmps2tzdZFrHidJRllPpY8VuLIH0mcYRoCf2IQAvD_BwE\">premium</a>, even though Fender sold to CBS in 1965. Maybe Macs peaked? Anyway -- I should get the \"new\" computer next week, and I'll let you know how it goes. BTW, my main desktop, the one I'm writing this post on, is a <a href=\"http://scripting.com/images/2023/01/08/macAboutScreen.png\">2017 iMac Pro</a>. I love the machine. I hope it works forever.",
+            "created": "Sun, 08 Jan 2023 15:08:07 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2023/01/08/fender.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/246\">Braintrust query</a>: I've got a problem with an app that uses the MySql package in Node running on a Mac. I'm getting a <span style=\"font-size: 17px\">ER_CON_COUNT_ERROR</span> pretty close to startup. I'm taking the message at face value but it's hard for me to believe it's true that my app is making too many connections because I just doubled the max connections from 100 to 200 and still got the error on the very first query it tried to make. The problem goes away when I reboot the machine, but only for a little while, eventually it starts doing this again. This is in an app that has been running without these kinds of errors for months. I haven't tried running the app yet on another machine, but I'm beginning to think this is a not-resolvable issue. I thought I'd pass it by the SQL gurus that read this blog on how to debug this.",
+            "created": "Sun, 08 Jan 2023 18:42:55 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Ads on Twitter",
+            "created": "Sun, 08 Jan 2023 17:12:21 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "The ads on Twitter are better.",
+                    "created": "Sun, 08 Jan 2023 17:12:27 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Already today I've considered buying something an ad was selling.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I saw an HBO ad for a <a href=\"http://scripting.com/2023/01/05.html#a175850\">movie</a> I just watched and loved, it reminded me that I loved it. Excellent brand advertising.",
+                    "created": "Sun, 08 Jan 2023 17:12:40 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And one taught me something I won't forget.",
+                    "created": "Sun, 08 Jan 2023 17:14:03 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"http://scripting.com/stories/2008/11/13/onlineAdvertisingIsNowDead.html\">2008</a>: Perfectly targeted advertising is just information.",
+                    "created": "Sun, 08 Jan 2023 17:17:01 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
