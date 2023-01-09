@@ -1,0 +1,6 @@
+{
+    "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/246\">Braintrust query</a>: I've got a problem with an app that uses the MySql package in Node running on a Mac. I'm getting a <span style=\"font-size: 17px\">ER_CON_COUNT_ERROR</span> pretty close to startup. I'm taking the message at face value but it's hard for me to believe it's true that my app is making too many connections because I just doubled the max connections from 100 to 200 and still got the error on the very first query it tried to make. The problem goes away when I reboot the machine, but only for a little while, eventually it starts doing this again. This is in an app that has been running without these kinds of errors for months. I haven't tried running the app yet on another machine, but I'm beginning to think this is a not-resolvable issue. I thought I'd pass it by the SQL gurus that read this blog on how to debug this.",
+    "created": "Sun, 08 Jan 2023 18:42:55 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
