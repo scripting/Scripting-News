@@ -1,0 +1,36 @@
+{
+    "text": "We have Likes in FeedLand.",
+    "created": "Mon, 09 Jan 2023 19:37:36 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "When you Like something in FeedLand it is added to two feeds:",
+            "created": "Mon, 09 Jan 2023 19:38:20 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "A Like feed for all FeedLand users.",
+                    "created": "Mon, 09 Jan 2023 19:38:35 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A Like feed for the person who did the Like.",
+                    "created": "Mon, 09 Jan 2023 19:38:44 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "This is <a href=\"http://data.feedland.org/likes/davewiner.xml\">where</a> my personal Likes feed is. ",
+            "created": "Mon, 09 Jan 2023 19:39:11 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "And the feed for all <a href=\"http://data.feedland.org/likes/all.xml\">users of my FeedLand</a>. ",
+            "created": "Mon, 09 Jan 2023 19:39:33 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
