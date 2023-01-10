@@ -1,0 +1,139 @@
+{
+    "created": "2023-01-09T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "09",
+    "path": "2023/01/09",
+    "text": "January 09",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "FeedLand: <a href=\"https://github.com/scripting/feedlandSupport/issues/164\">Change in how \"Add a few feeds\" works</a>. ",
+            "created": "Mon, 09 Jan 2023 17:48:06 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Same way I want news to be unbundled, I dont care which service a show or series is on. I pay a lot for the services I subscribe to, but there are still shows I want to see that I can’t and some services I pay for that I almost never watch shows on.",
+            "created": "Tue, 10 Jan 2023 04:25:00 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Programming is rough when you were prepared to work on hooking up the sound system in the penthouse on the 173rd floor, and instead you have to work in the basement where the boiler is spewing all kinds of crap, but you're not clear if it was always doing this and you're just seeing it now because now you're listening. ",
+            "created": "Mon, 09 Jan 2023 17:24:03 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "In my first job out of college I was in a similar situation and I thought to myself they shouldn't put programmers in offices on the 39th floor of the <a href=\"https://en.wikipedia.org/wiki/Empire_State_Building\">Empire State Building</a> with <a href=\"https://bigapplewindowcleaning.com/this-is-how-the-empire-state-buildings-windows-were-once-cleaned/\">windows</a> that open. I found that thought both disturbing and comforting. I guess I figured out the problem, because I'm still here 47 years later. :boom: ",
+            "created": "Mon, 09 Jan 2023 17:37:21 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Developers: If you ever want to know how \"FeedLand\" parses a feed, you can do it with the <a href=\"https://github.com/scripting/reallysimple/tree/main/demos/feeder\">Feeder app</a>. Here's a <a href=\"http://feeder.scripting.com/returnjson?feedurl=http://laughingsquid.com/feed/\">link</a> that shows you what FeedLand gets when it reads the Laughing Squid feed.  ",
+            "created": "Mon, 09 Jan 2023 17:09:15 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Re yesterday's <a href=\"https://github.com/scripting/Scripting-News/issues/246\">braintrust query</a>, I may be getting closer to understanding where the <span style=\"font-size: 17px\">ER_CON_COUNT_ERROR</span> errors are coming from. ",
+            "created": "Mon, 09 Jan 2023 20:20:37 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Likes considered harmful?",
+            "created": "Mon, 09 Jan 2023 16:30:16 GMT",
+            "type": "outline",
+            "description": "On Micro.blog there's a debate about whether Likes are harmful. ",
+            "subs": [
+                {
+                    "text": "On <a href=\"https://micro.blog/\">Micro.blog</a> there's a <a href=\"https://retrodivergent.com/2023/01/07/the-problem-with.html\">debate</a> about whether Likes are harmful. ",
+                    "created": "Mon, 09 Jan 2023 16:31:35 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Some of my observations from the thread, all in favor of Likes. ",
+                    "created": "Mon, 09 Jan 2023 16:31:55 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "The Like button on various systems is a way of acknowledging that you saw something and thought it was noteworthy. Since micro.blog doesn't have a Like button, what's the proper way of saying that? ",
+                            "created": "Mon, 09 Jan 2023 16:34:45 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "As a person who writes posts that get zero response here (and not on other systems) I wish people had a less-committed way of saying they saw something I wrote. That would be a little bit of feedback where currently I get none.",
+                            "created": "Mon, 09 Jan 2023 16:42:26 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "If I see something on Micro.blog that I would Like on another system, I don't comment, I just do nothing, not because I'm bashful or overly quiet, rather because this is a language, and a comment has different meaning from a Like. ",
+                            "created": "Mon, 09 Jan 2023 16:32:11 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "In real life there's all kinds of non-verbal communication. you can nod your head, smile. We've come up with a similar language online, I don't think there's any more meaning in this. We're being human. Not a huge surprise.",
+                            "created": "Mon, 09 Jan 2023 16:33:14 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Here's a parallel. My TV doesn't have a brightness control. It's an expensive screen, and I imagine that the designers of the system figured \"we have a computer in this that knows how to automatically adjust brightness based on room light.\" But it doesn't work properly, I don't know what the problem is, but there are times the TV is useless because you just can't see what's on the screen, because the lack of a brightness control. Maybe if TVs never had brightness controls I wouldn't miss it, but they do in my mind, require one. Same thing here. <i>Like</i> is something that's part of the language of social media. To try to deny that at this stage is kind of pointless imho.",
+                            "created": "Mon, 09 Jan 2023 16:33:49 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I've been in this position myself in the past, trying to buck a larger trend, and the pressure really does get you to support the common way, the sooner you do it, the sooner the pain goes away. ",
+                            "created": "Mon, 09 Jan 2023 16:38:42 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "BTW, \"considered harmful\" is borrowed from a famous <a href=\"https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf\">letter</a> by <a href=\"https://en.wikipedia.org/wiki/Edsger_W._Dijkstra\">Edsger Dijkstra</a> entitled \"goto statement considered harmful.\"",
+                    "created": "Mon, 09 Jan 2023 17:13:12 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "We have Likes in FeedLand.",
+            "created": "Mon, 09 Jan 2023 19:37:36 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "When you Like something in FeedLand it is added to two feeds:",
+                    "created": "Mon, 09 Jan 2023 19:38:20 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "A Like feed for all FeedLand users.",
+                            "created": "Mon, 09 Jan 2023 19:38:35 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "A Like feed for the person who did the Like.",
+                            "created": "Mon, 09 Jan 2023 19:38:44 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This is <a href=\"http://data.feedland.org/likes/davewiner.xml\">where</a> my personal Likes feed is. ",
+                    "created": "Mon, 09 Jan 2023 19:39:11 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And the feed for all <a href=\"http://data.feedland.org/likes/all.xml\">users of my FeedLand</a>. ",
+                    "created": "Mon, 09 Jan 2023 19:39:33 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
