@@ -1,0 +1,112 @@
+{
+    "text": "Let RSS be RSS",
+    "created": "Thu, 12 Jan 2023 15:28:10 GMT",
+    "type": "outline",
+    "description": "RSS is what we use to move documents around the web. That we haven't cared for it is why the current system is so fucked. ",
+    "subs": [
+        {
+            "text": "TL;DR: RSS is how we move documents around the web. That it works so poorly is because the big social media companies want it that way. We need products and services with big installed bases to serve as <a href=\"https://en.wikipedia.org/wiki/Counterweight\">counterweights</a> and help pull RSS out of corp-tech control.",
+            "created": "Thu, 12 Jan 2023 15:53:12 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "How I got there...",
+            "created": "Thu, 12 Jan 2023 15:56:07 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Yesterday I <a href=\"http://scripting.com/2023/01/11.html#a175023\">wrote</a> something provocative about <a href=\"https://en.wikipedia.org/wiki/WordPress\">WordPress</a>. ",
+            "created": "Thu, 12 Jan 2023 15:28:15 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "HiMY SYeD read it, and <a href=\"https://mastodon.social/@HiMYSYeD@mstdn.ca/109662819679711900\">commented</a>, on Mastodon: ",
+            "created": "Thu, 12 Jan 2023 15:28:25 GMT",
+            "subs": [
+                {
+                    "text": "What Mastodon is to ActivityPub...",
+                    "created": "Thu, 12 Jan 2023 15:28:56 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "WordPress is to RSS.",
+                    "created": "Thu, 12 Jan 2023 15:29:10 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "My first response was:",
+            "created": "Thu, 12 Jan 2023 15:29:14 GMT",
+            "subs": [
+                {
+                    "text": "Interesting analogy.",
+                    "created": "Thu, 12 Jan 2023 15:29:22 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Something to think about.",
+                    "created": "Thu, 12 Jan 2023 15:29:27 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "After pondering a bit...",
+            "created": "Thu, 12 Jan 2023 15:29:30 GMT",
+            "subs": [
+                {
+                    "text": "There are other products that could claim ownership of RSS -- like <a href=\"https://www.google.com/search?q=site%3Ascripting.com+%22Google+Reader%22\">Google Reader</a>, which still controls the market almost 10 years after its demise.",
+                    "created": "Thu, 12 Jan 2023 15:29:54 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And Twitter, by <i>not</i> supporting RSS is also a big definer of RSS, in a negative way.",
+                    "created": "Thu, 12 Jan 2023 15:30:02 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I think we'll be on solid ground once RSS defines itself and the products get out of the way.",
+                    "created": "Thu, 12 Jan 2023 15:30:12 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "And I think that's the key point",
+            "created": "Thu, 12 Jan 2023 15:30:50 GMT",
+            "subs": [
+                {
+                    "text": "RSS has never had a chance to be itself. ",
+                    "created": "Thu, 12 Jan 2023 15:30:55 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Right from the start, all kinds of people and companies sought to own it. No one succeeded at that, but each of them diluted it, added confusion, took some of its power away and gave back nothing in return. Very typical approach of tech to open tech they didn't create. ",
+                    "created": "Thu, 12 Jan 2023 15:31:03 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Until we can get RSS leading, as itself, and not being carved up and controlled, we won't really have a good way of moving documents around the web, which is what RSS is for, btw, imho. ",
+                    "created": "Thu, 12 Jan 2023 15:31:13 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "All the usual disclaimers apply.",
+                    "created": "Thu, 12 Jan 2023 15:31:56 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "PS: I hope people at WordPress read this. Right now they're in the best position to help RSS if they're inclined to do so. There aren't many companies I would credit with possibly wanting to do that. Slack was one, and Automattic is another. I still have to write the howto doc for what it would take for that to happen, subject to discussion of course. ",
+            "created": "Thu, 12 Jan 2023 15:44:38 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
