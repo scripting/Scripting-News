@@ -1,0 +1,53 @@
+{
+    "text": "My new old Mac laptop",
+    "created": "Thu, 12 Jan 2023 14:49:08 GMT",
+    "type": "outline",
+    "description": "Don't believe that Macs 'just work'. 😀",
+    "subs": [
+        {
+            "text": "I got my 2015 MacBook Pro. Two problems to start.",
+            "created": "Thu, 12 Jan 2023 14:49:15 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "It came with Mojave installed. I got this machine because the software I want to use specifically does not run on Mojave. I didn't realize this until after I had copied a huge number of files to the machine via Time Machine backup. I will have to do this again.",
+                    "created": "Thu, 12 Jan 2023 14:49:36 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Today they're selling the same $600 machine <a href=\"http://scripting.com/images/2023/01/12/pricechange.png\">on Amazon for $389</a>. I wish I had an idea what the price range was. I could have waited a few days. I thought $600 was a good deal, but it's a ripoff.",
+                    "created": "Thu, 12 Jan 2023 14:50:44 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Anyway, so I thought this morning I'll just copy a High Sierra installer to the hard drive and run it, but Mojave won't run it. The app is there, but it's grayed out. Who knows why. Presumably it won't run on this machine. ",
+            "created": "Thu, 12 Jan 2023 14:51:38 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Next up I went into Recovery mode to install the OS that's in ROM, it was El Capitan. As the machine is rebooting after install it freezes with a totally cryptic error message. Here's a photo.  ",
+            "created": "Thu, 12 Jan 2023 14:52:22 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "A not very encouraging error message from my new MacBook.",
+            "created": "Thu, 12 Jan 2023 15:18:47 GMT",
+            "inlineImage": "http://scripting.com/images/2023/01/12/appleErrorMessage.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "After restarting, the message is gone. I found I couldn't restore from a Time Machine backup because it comes from a machine more advanced than El Capitan. So I then did the minimum to get the machine to boot up, went into the System Preferences app, turned on file sharing and copied an install app for High Sierra. It's running it now. ",
+            "created": "Thu, 12 Jan 2023 15:16:38 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Update: After a lot more bullshit work, I think I'm pretty close to having the laptop working the way I need it to. If so, I will be able to travel and still keep up with my development projects. ",
+            "created": "Fri, 13 Jan 2023 04:26:01 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
