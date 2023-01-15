@@ -1,0 +1,106 @@
+{
+    "created": "2023-01-14T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "14",
+    "path": "2023/01/14",
+    "text": "January 14",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=JgPr-sd7eKg\">Something So Right</a>. ",
+            "created": "Sat, 14 Jan 2023 14:14:47 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=JgPr-sd7eKg",
+            "flInCalendar": true
+        },
+        {
+            "text": "I don't use WordPress very much, but recently I had a chance to try out the <a href=\"https://wordpress.org/support/article/wordpress-editor/\">block editor</a> and my reaction was that I can't imagine writing this way. If you're a writer who uses WordPress, do you use the block editor, if so <a href=\"https://twitter.com/davewiner/status/1614261301466865664\">what do you think</a> of it?",
+            "created": "Sat, 14 Jan 2023 14:07:51 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I have the 2015 MacBook Pro running now. It took a lot of iterating to get the right version of the OS running on the machine and to then restore a Time Machine backup on the machine without having one or more extra accounts on the machine. One thing I will never understand is why Macs are so slow at transferring stuff over a local wifi network. All the advice on the net says you need to use faster wifi, but my wifi is very fast. Here are <a href=\"http://scripting.com/images/2023/01/14/speedtestresults.png\">speed test results</a> communicating with a server in NYC, about 100 miles away. Why is it so much faster to communicate with that server than it is to communicate with a laptop that's in the same building? ",
+            "created": "Sat, 14 Jan 2023 14:08:21 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2023/01/14/annieLenox.png",
+            "imageLink": "https://www.youtube.com/watch?v=r-FxRuMVO-Y",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've started listening to <a href=\"http://feedland.org/?feedurl=https%3A%2F%2Fwww.omnycontent.com%2Fd%2Fplaylist%2Fe73c998e-6e60-432f-8610-ae210140c5b1%2F4cab918b-b4e7-4a21-8300-aec3011bf3f1%2Fe7682aaf-443f-41d8-945f-aec3011c5127%2Fpodcast.rss\">Keith Olbermann's podcast</a> again. It's worth another listen because he's explaining why news is like it is, from the point of view of someone who was an insider for years. ",
+            "created": "Sat, 14 Jan 2023 14:16:55 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "When I first started using Mastodon <a href=\"http://scripting.com/2022/11/07.html#a233839\">late last year</a>, like so many others I had questions about what it is, how it works, what is ActivityPub, does it have an API, where is this going, will the BigCo's try to take it over, stuff like that. In the past when new markets appeared, like the personal computer, desktop publishing, the web -- there were always publications that grew up along with the platform, because there's such demand to know about the latest developments. I contacted my friend <a href=\"https://mastodon.social/@jeffjarvis/109682144184951137\">Jeff Jarvis</a>, who teaches journalism at CUNY to ask if there was interest in one of their students forming a news site to gather news of the Mastodon world. He liked the idea and now they've taken the next step. They're offering a full scholarship to their \"100-day, online certificate program that helps creators establish their own enterprises to serve specific communities/markets.\" Apply by Feb 3 <a href=\"https://www.journalism.cuny.edu/j-plus/entrepreneurial-journalism-creators-program/\">here</a>. ",
+            "created": "Sat, 14 Jan 2023 14:31:24 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/12/12/mastodon.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Defaulting, explained simply",
+            "created": "Sat, 14 Jan 2023 14:49:59 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Anyone who can understand the rules of baseball or football, who can play poker or Monopoly, can understand the rules of defaulting.",
+                    "created": "Sat, 14 Jan 2023 15:01:27 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If the US were to default the same thing would happen to the US that happens to a person if they fail to make a payment on a loan. ",
+                    "created": "Sat, 14 Jan 2023 14:56:27 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Foreclosure, the lender seizes assets to cover the default.  ",
+                            "created": "Sat, 14 Jan 2023 14:58:39 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Your credit rating goes down and cost of borrowing goes up. ",
+                            "created": "Sat, 14 Jan 2023 14:58:57 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Today, before default, the US defines what money is. If we create a dollar that's worth a dollar. No other country has this power.",
+                    "created": "Sat, 14 Jan 2023 14:51:54 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The world lets us do this for them because a dollar is considered the safest way to store value. That's why the US dollar is the world's dominant <a href=\"https://en.wikipedia.org/wiki/Reserve_currency#United_States_dollar\">reserve currency. </a>",
+                    "created": "Sat, 14 Jan 2023 14:51:53 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "However if we default, there goes the safety. It's gone, and that kind of trust, built over <a href=\"https://www.smithsonianmag.com/sponsored/alexander-hamilton-debt-national-bank-two-parties-1789-american-history-great-courses-plus-180962954/\">hundreds of years</a>, once lost will never come back.",
+                    "created": "Sat, 14 Jan 2023 14:51:57 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Then we really will be as poor as the oligarchs want us to think we are.",
+                    "created": "Sat, 14 Jan 2023 14:52:32 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So, why are the oligarchs who own all our sources of news, willing to let a default actually happen? I think it's a good chance it's due to inbreeding, narcissism, stupidity, selfishness and resentment. They don't believe they will suffer personally if the US turns into an economic basket case. Maybe they won't. For sure, that's <i>all</i> they care about. ",
+                    "created": "Sat, 14 Jan 2023 14:52:45 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I keep waiting for a news article that doesn’t gloss over the real impact of defaulting. If news were run like journalism this would be the horserace of the millenium. A story with a billion angles. We'd all tune in every night to hear how bad it'll be. But they clearly aren't interested in that. They're interested in keeping their jobs. That probably also explains why we're not responding to the climate crisis or the pandemic. ",
+                    "created": "Sat, 14 Jan 2023 14:07:35 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
