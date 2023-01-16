@@ -1,0 +1,125 @@
+{
+    "created": "2023-01-15T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "15",
+    "path": "2023/01/15",
+    "text": "January 15",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "A new <i>this.how</i> doc: <a href=\"http://this.how/nobreakage/?permalink=20230015164932\">Rule 1 means no breakage</a>.",
+            "created": "Sun, 15 Jan 2023 17:08:03 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "My local network is <a href=\"https://www.youtube.com/watch?v=7KCaXLn14kw\">incredibly slow</a> at Mac-to-Mac file transfers. ",
+            "created": "Sun, 15 Jan 2023 18:02:51 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=7KCaXLn14kw",
+            "flInCalendar": true
+        },
+        {
+            "text": "This <a href=\"https://thehill.com/homenews/sunday-talk-shows/3814002-gop-rep-us-defaulting-on-national-debt-a-real-threat/\">debt limit bullshit</a> happens only when a Democrat is president.",
+            "created": "Sun, 15 Jan 2023 18:08:56 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "One of the pioneers of an <a href=\"https://en.wikipedia.org/wiki/Zettelkasten\">idea</a> called <a href=\"https://www.google.com/search?q=zettelkasten+arno+schmidt\">zettelkasten</a> was <a href=\"https://en.wikipedia.org/wiki/Arno_Schmidt\">Arno Schmidt</a>, who also happens to be <a href=\"https://www.google.com/search?q=site%3Ascripting.com+%22arno+schmidt%22\">my great uncle</a>. Quite independently, just before he died, I started working on <a href=\"http://scripting.com/dwiner/outlinersProgramming.html\">software</a> that makes it work without the index cards, on a personal computer.",
+            "created": "Sun, 15 Jan 2023 16:26:44 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I want an AI to read my web archive and create an auto-zettle for me. It seems Google should already have this. I bet they do. ",
+            "created": "Sun, 15 Jan 2023 17:49:45 GMT",
+            "type": "tweet",
+            "tweetId": "1614681412849762311",
+            "tweetUserName": "davewiner",
+            "flInCalendar": true
+        },
+        {
+            "text": "Bingeing report. I watched <a href=\"https://www.metacritic.com/tv/band-of-brothers\">Band of Brothers</a> all the way through. It's good, but I had forgotten how bloody it is. Since I was in that mode, I watched <a href=\"https://www.metacritic.com/movie/all-quiet-on-the-western-front-2022\">All Quiet on the Western Front</a> on Netflix. Same idea, with 2020's production, a different war, and from the other side. I think the next thing will be <a href=\"https://www.metacritic.com/movie/they-shall-not-grow-old\">They Shall Not Grow Old</a> on HBO. I think an AI could have plotted this path for me. ",
+            "created": "Sun, 15 Jan 2023 17:46:23 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "FeedLand roadmap",
+            "created": "Sun, 15 Jan 2023 16:09:57 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "There's a lot of new stuff here and I don't go into great detail. There is a link to a place to comment or ask questions at the <a href=\"#a161849\">end</a>.",
+                    "created": "Sun, 15 Jan 2023 16:11:03 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "FeedLand is a feed management system for individuals and groups. So far it's only been offered as a free service on the web. This roadmap explains how that will change.",
+                            "created": "Sun, 15 Jan 2023 17:28:18 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "The next version will by default <i>not</i> use Twitter for identity. When you sign up you'll specify both a name and an email address. Both must be unique. An email confirms. Click the link and you're sent back with the credentials your browser needs to access your account. The usual dance. ",
+                            "created": "Sun, 15 Jan 2023 16:11:06 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I do not plan to transition <a href=\"http://feedland.org/\">feedland.org</a> to work this way. Recall that we haven't been accepting new members since December 12. Everyone who uses it has a Twitter identity and it's working, and I don't want to screw with that. As long as Twitter is willing to let us use their identity service, we'll keep using it on this server. ",
+                            "created": "Sun, 15 Jan 2023 16:11:12 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Here's the big news: The new FeedLand server software will be available as open source, so anyone will be able to run a FeedLand instance. It's a Node.js application. Uses <a href=\"https://en.wikipedia.org/wiki/MySQL\">MySQL</a>. You may want to hook up an <a href=\"https://aws.amazon.com/pm/serv-s3/\">S3</a> bucket for special features like RSS feeds for Likes. At first email sending will be via <a href=\"https://aws.amazon.com/ses/\">Amazon SES</a>, the method I currently use. It will be possible to plug in new drivers to use other email services. ",
+                            "created": "Sun, 15 Jan 2023 16:11:15 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "The open source model is <a href=\"https://wordpress.org/about/license/\">WordPress</a> which uses GPLv2. I want to make it as easy to set up a FeedLand instance as it is to start a new WordPress server. ",
+                            "created": "Sun, 15 Jan 2023 16:11:17 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "People can set up commercial services to host FeedLand for individuals and groups. Every instance is set up to do that. ",
+                            "created": "Sun, 15 Jan 2023 16:11:19 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "It's efficient software. I'm spending about $25 a month to host feedland.org for almost 1000 users. ",
+                            "created": "Mon, 16 Jan 2023 04:08:37 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "The client, which runs in the browser, will <i>not</i> be open source. I don't want to spawn a bunch of incompatible forks. I want FeedLand and its API to be solid. By maintaining control of the client, which btw need not be the only client, I can help be sure that we're starting a developer community with some basic rules about interop. If you want to run FeedLand it has to behave like FeedLand. I've been down this road and watched others go down this road. I think this is the right way to start. ",
+                            "created": "Sun, 15 Jan 2023 16:11:22 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Typical use-cases: A university department maintaining a FeedLand server to gather new writing from other departments at other universities on topics of interest.  Workgroups at companies. It would make a lot of sense for a news org to offer a FeedLand service to readers and their internal news writing staff. ",
+                            "created": "Sun, 15 Jan 2023 17:31:00 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I don't have dates for any of this. But at this point the path is pretty certain, so I felt it was time to say where FeedLand is going. ",
+                            "created": "Sun, 15 Jan 2023 16:11:07 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "On Friday I posted an earlier version of this roadmap on the <a href=\"https://github.com/scripting/feedlandSupport/issues/166\">FeedLand support</a> repo. I'm sure there will be other changes to this document as we go forward. ",
+                    "created": "Sun, 15 Jan 2023 16:15:26 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If you have comments or suggestions, you can post them as <a href=\"https://github.com/scripting/feedlandSupport/issues/166\">comments to Friday's post</a>. Comments must conform to our <a href=\"http://guidelines.scripting.com/\">guidelines</a>. ",
+                    "created": "Sun, 15 Jan 2023 16:18:49 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
