@@ -1,0 +1,21 @@
+{
+    "text": "Debuggers and internal docs",
+    "created": "Mon, 16 Jan 2023 18:13:22 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Developers who don't use debuggers limit the complexity of code they can create.",
+            "created": "Mon, 16 Jan 2023 18:13:29 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you don't document the inner working of your software you will break things unnecessarily, if you're the one who's working on it.",
+            "flInCalendar": true
+        },
+        {
+            "text": "If someone else is working on it, they'll beg to be allowed to rewrite your code so they can understand what's going on.",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
