@@ -1,0 +1,39 @@
+{
+    "text": "Gmail shut me down",
+    "created": "Mon, 16 Jan 2023 14:37:31 GMT",
+    "type": "outline",
+    "metaImage": "http://scripting.com/images/2023/01/16/wagonTrain.png",
+    "subs": [
+        {
+            "text": "Last night while I writing some stuff Gmail said it detected that my computer was sending some kinds of unspecified messages, and they were concerned about it, so they logged me off. I could still check my email on my other systems. I tried to go through the \"prove this is you\" process, but when it said it had sent a message to my phone, no message arrived. When I got to that place on other systems, the message did arrive on my phone. ",
+            "created": "Mon, 16 Jan 2023 14:37:38 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I reviewed my account on Google, everything looks fine. The phone I have hooked it up to is an Android. I have a backup email address connected to my account. ",
+            "created": "Mon, 16 Jan 2023 14:43:22 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I changed my password, and re-logged-in on my various other systems, everything worked, but not on my desktop. The problem is -- no confirming message ever appears on my phone, or anywhere else I can read my Google chat messages. ",
+            "created": "Mon, 16 Jan 2023 14:43:34 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Their help system is unhelpful, they keep telling me things I already know and have tried. I can live without accessing Gmail from my desktop because oddly while Gmail won't work with Chrome, it works fine with Safari. But there are often links in my emails and when I click on them the pages open in Safari. So this is very disruptive to my workflow. I'd rather still use Chrome on my desktop because everything is set up to work there. ",
+            "created": "Mon, 16 Jan 2023 14:43:53 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you have any ideas please <a href=\"https://github.com/scripting/Scripting-News/issues/248\">post a note here</a>. <i>Thanks!</i>",
+            "created": "Mon, 16 Jan 2023 14:44:16 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Near the end of the day, still can't get GMail to open on my desktop. I've had it try to send me a security message to my Android phone, without luck. I've quit ever app, removed every extension to Chrome, still no luck. ",
+            "created": "Mon, 16 Jan 2023 23:12:04 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
