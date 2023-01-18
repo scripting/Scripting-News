@@ -1,0 +1,88 @@
+{
+    "created": "2023-01-17T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "17",
+    "path": "2023/01/17",
+    "text": "January 17",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I am pleased to report that  <a href=\"http://news.scripting.com/\">news.scripting.com</a> works again.",
+            "created": "Tue, 17 Jan 2023 16:54:13 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I work for the betterment of the network we all share. I'm not trying to get rich or famous, just fix the stuff that's broken. I hope you are doing that too. Keep on truckin.",
+            "created": "Tue, 17 Jan 2023 22:45:56 GMT",
+            "type": "tweet",
+            "tweetId": "1615480624701231105",
+            "tweetUserName": "davewiner",
+            "flInCalendar": true
+        },
+        {
+            "text": "When Twitter shuts down client apps everyone says Twitter is bad. But Google deliberately <a href=\"http://this.how/googleAndHttp/\">breaks their browser</a> and blames my blog, people don't seem to care, probably because it sounds like Google is being benevolent when they're actually engaging in a huge act of piracy. ",
+            "created": "Wed, 18 Jan 2023 02:35:16 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1615487888258486273\">Twitter is getting better</a> folks. You may not like \"hard core\" but we used to call that \"management by shipping\" at Living Videotext (my first company). What mattered was delivering features to users. Everything else, bullshit.",
+            "created": "Tue, 17 Jan 2023 23:18:54 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1615487888258486273",
+            "flInCalendar": true
+        },
+        {
+            "text": "Following up on my <a href=\"http://scripting.com/2023/01/16/143731.html\">GMail problem</a>, a <a href=\"https://github.com/scripting/Scripting-News/issues/248#issuecomment-1386247668\">suggestion</a> that I delete all Google-related cookies turned out to be the cure. I once again have access to GMail from my main desktop computer. ",
+            "created": "Wed, 18 Jan 2023 02:31:39 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "On owning a Tesla",
+            "created": "Tue, 17 Jan 2023 17:11:46 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I have a Tesla Model Y.",
+                    "created": "Tue, 17 Jan 2023 17:11:51 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I will no doubt get a new EV in the next couple of years.",
+                    "created": "Tue, 17 Jan 2023 17:11:57 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "As I bought a new PC every year or so when they were new. ",
+                    "created": "Tue, 17 Jan 2023 17:12:10 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But I wouldn't miss driving a Tesla now. ",
+                    "created": "Tue, 17 Jan 2023 17:12:27 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's like what <a href=\"https://www.youtube.com/watch?v=zMo36SfyQhw\">Harry said to Sally</a> -- ",
+                    "created": "Tue, 17 Jan 2023 17:12:38 GMT",
+                    "subs": [
+                        {
+                            "text": "\"When you realize you want to spend the rest of your life with somebody, you want the rest of your life to start as soon as possible.\"",
+                            "created": "Tue, 17 Jan 2023 17:12:48 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "That's how I feel about EVs. It's like driving an amusement park ride every time I go out. I deserve this.",
+                    "created": "Tue, 17 Jan 2023 17:12:57 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
