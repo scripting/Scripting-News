@@ -1,0 +1,33 @@
+{
+    "text": "RSS-spect",
+    "created": "Sat, 21 Jan 2023 20:27:21 GMT",
+    "type": "outline",
+    "description": "People have the wrong idea about RSS.",
+    "metaImage": "http://scripting.com/images/2023/01/21/moeLarryCurly.png",
+    "subs": [
+        {
+            "text": "I was hoping that people would see <a href=\"http://reallysimple.org/\">RSS</a> as a key to decentralization, but it's hard to draw the picture because people have the wrong idea about RSS.",
+            "created": "Sat, 21 Jan 2023 20:27:28 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I had a similar problem explaining why a Pub-sub company should support RSS without thinking of it as a \"third party opportunity.\"",
+            "created": "Sat, 21 Jan 2023 20:27:28 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Pub-sub could use a \"really simple\" interface. You could send any kind of message with RSS, and the knowledge of how to find the new stuff in a feed is totally established in developer-land.",
+            "flInCalendar": true
+        },
+        {
+            "text": "And that's what the Pub-sub people wanted. Ideas for new simple APIs. They look down on RSS as beneath them. I've seen \"serious\" devs do that over and over and it's a mistake. Simple is better, not trivial. Microsoft, for example, had something \"much better\" than RSS coming in the late 90s. Eventually they did get on board with RSS, to their credit.",
+            "created": "Sat, 21 Jan 2023 20:28:27 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Sometimes the answer is so obvious you can't even see it. ",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
