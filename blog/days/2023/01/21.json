@@ -1,0 +1,87 @@
+{
+    "created": "2023-01-21T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "21",
+    "path": "2023/01/21",
+    "text": "January 21",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I moved the <a href=\"http://roadmap.feedland.org/\">FeedLand roadmap</a> to its own place. ",
+            "created": "Sat, 21 Jan 2023 18:56:15 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Arguing with people is usually not productive and it wears you out.",
+            "created": "Sat, 21 Jan 2023 20:05:53 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davidfrum/status/1616892096434012160\">David Frum</a>: \"I'm doing an experiment. On my computer, I am checking the latest tweets by people I follow. On my phone, I'm checking whether their most recent tweets are showing up in the 'Following' column. I'm just getting started, but even in the first dozen cases, Twitter failed.\"",
+            "created": "Sat, 21 Jan 2023 22:26:09 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Twitter should have been an operating system. ",
+            "created": "Sat, 21 Jan 2023 16:45:32 GMT",
+            "type": "tweet",
+            "tweetId": "1616858273491066883",
+            "tweetUserName": "davewiner",
+            "flInCalendar": true
+        },
+        {
+            "text": "I just had ChatGPT write some docs for me -- how to set up Node.js and Amazon SES.",
+            "created": "Sat, 21 Jan 2023 20:21:50 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The best feature of Mastodon is that you can edit your posts.",
+            "created": "Sat, 21 Jan 2023 18:01:59 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Another problem with people getting upset when something they depend on on the internet goes away, for whatever reason, is that it's <i>all</i> going to go away, probably sooner than you expect. If you want things to be long-lived, then we need to make some major changes. And no one, absolutely no one, is working on making a long-lived net. ",
+            "created": "Sat, 21 Jan 2023 15:56:31 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "RSS-spect",
+            "created": "Sat, 21 Jan 2023 20:27:21 GMT",
+            "type": "outline",
+            "description": "People have the wrong idea about RSS.",
+            "metaImage": "http://scripting.com/images/2023/01/21/moeLarryCurly.png",
+            "subs": [
+                {
+                    "text": "I was hoping that people would see <a href=\"http://reallysimple.org/\">RSS</a> as a key to decentralization, but it's hard to draw the picture because people have the wrong idea about RSS.",
+                    "created": "Sat, 21 Jan 2023 20:27:28 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I had a similar problem explaining why a Pub-sub company should support RSS without thinking of it as a \"third party opportunity.\"",
+                    "created": "Sat, 21 Jan 2023 20:27:28 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Pub-sub could use a \"really simple\" interface. You could send any kind of message with RSS, and the knowledge of how to find the new stuff in a feed is totally established in developer-land.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And that's what the Pub-sub people wanted. Ideas for new simple APIs. They look down on RSS as beneath them. I've seen \"serious\" devs do that over and over and it's a mistake. Simple is better, not trivial. Microsoft, for example, had something \"much better\" than RSS coming in the late 90s. Eventually they did get on board with RSS, to their credit.",
+                    "created": "Sat, 21 Jan 2023 20:28:27 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Sometimes the answer is so obvious you can't even see it. ",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
