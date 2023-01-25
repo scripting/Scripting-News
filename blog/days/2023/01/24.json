@@ -1,0 +1,121 @@
+{
+    "created": "2023-01-24T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "24",
+    "path": "2023/01/24",
+    "text": "January 24",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Clearly what will drive the microblogging market outside Twitter is Mastodon not ActivityPub. Here's a <a href=\"https://mastodon.social/@davew/109747780315482164\">short thread</a> that explains.  ",
+            "created": "Wed, 25 Jan 2023 03:45:21 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you think losing the Twitter clients was a big deal, wait until they start screwing with the archive. ",
+            "created": "Tue, 24 Jan 2023 21:11:22 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "New version of <a href=\"https://github.com/scripting/mail\">davemail</a> package. Since this is part of \"FeedLand\" it means that we can send confirmation emails via SMTP, not just SES.",
+            "created": "Tue, 24 Jan 2023 16:37:48 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/250\">Braintrust query</a>: Something weird is going on with NPM and how package.json files work. Suppose I have a package called package1 which is required by a package called package2, which in turn is required by package3 which is required by an app called helloworld, which only requires package3. I know that's complicated to say but it's really simple. Okay, so I make a change to package1, and go to the directory that contains helloworld and <i>npm update</i> it. You'd think that we'd get the new version of package1 but we don't. The only way to get it to update that I've discovered is to make a change to package3, publish it, and then npm update. But nothing changed in package3, why should I have to rebuild it just to get the change reflected in the app. I have a feeling that this is because NPM modifies the package.json that NPM passes up the chain of require's? I swear this used to work, and what a pain in the ass if this is the only way to get changes deep in the stack reflected at the top. A place to <a href=\"https://github.com/scripting/Scripting-News/issues/250\">comment</a>.",
+            "created": "Tue, 24 Jan 2023 15:22:57 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/02/19/blueJello.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Why ChatGPT is a good thing",
+            "created": "Tue, 24 Jan 2023 17:53:49 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "We should be pleased that CNET is <a href=\"https://futurism.com/the-byte/cnet-publishing-articles-by-ai\">putting themselves out of business</a> of being an authority on commodity info. That business isn't viable today much as being a travel agent isn't. ",
+                    "created": "Tue, 24 Jan 2023 17:54:33 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Lots of what doctors do will be automated by ChatGPT too, and that's a good thing! They can give us more personal care. Their recommendations are also commodity, and rightly so. And I'm absolutely sure that the new way will save lives and make human bodies work better and live longer. ",
+                    "created": "Tue, 24 Jan 2023 18:01:22 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The fuckups of medicine pile up. By the time you're my age it's happened so many times it's a wonder I'm still alive. (That said medicine saved my life twice, so there's that too.)",
+                    "created": "Tue, 24 Jan 2023 18:02:45 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Worrying about side-effects like CNETs demo, is like people worrying about typesetters losing their jobs when desktop publishing came around. This is evolution and imho it's a good thing. ",
+                    "created": "Tue, 24 Jan 2023 17:53:59 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Uncle Arno's zettelkasten",
+            "created": "Tue, 24 Jan 2023 15:01:22 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2023/01/24/arnoZettel.png",
+            "description": "One of the early pioneers of zettelkasten was my ancestor, Arno Schmidt.",
+            "subs": [
+                {
+                    "text": "There's this idea called <a href=\"https://en.wikipedia.org/wiki/Zettelkasten\">zettelkasten</a> that's been going around in the outlining world. It's like a \"second brain\" another term they use. ",
+                    "created": "Tue, 24 Jan 2023 15:01:35 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The thought is that if you get all the info and ideas out of your brain and onto a computer something magical will happen, you will attain a sort of super-humanity. ",
+                    "created": "Tue, 24 Jan 2023 15:17:17 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'm not sure why but I hate the term zettelkasten, but I love to say it. It sounds like something goofy and idiotic at the same time. It's not an English word. I do not like it. ",
+                    "created": "Tue, 24 Jan 2023 15:02:05 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But then I decided to <a href=\"https://www.google.com/search?q=arno+schmidt+zettelkasten\">look it up</a>. I found that one of the <a href=\"https://notes.andymatuschak.org/Zettelkasten\">early pioneers</a> of zettelkasten was my ancestor, <a href=\"https://en.wikipedia.org/wiki/Arno_Schmidt\">Arno Schmidt</a>, a fantastic but fringe German writer of the mid-20th century. He was my maternal grandmother's brother, my great-uncle. ",
+                    "created": "Tue, 24 Jan 2023 15:19:03 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "In his case zettelkasten made sense because:",
+                    "created": "Tue, 24 Jan 2023 15:02:44 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "He was German and zettelkasten is a German word so it isn't icky or pretentious.",
+                            "created": "Tue, 24 Jan 2023 15:02:34 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "He had a legitimate use for one, he was writing a complex novel with lots of characters and plots. And this was before personal computers, in the 1940s and 1950s, so he did it with index cards. ",
+                            "created": "Tue, 24 Jan 2023 15:02:35 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Around the time Uncle Arno died in 1979, I started working on my first outliner, which is the ideal tool for creating and managing a zettelkasten on a personal computer. ",
+                    "created": "Tue, 24 Jan 2023 15:05:26 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I've attached a <a href=\"http://scripting.com/images/2023/01/24/arnoSchmidtWithZettlekasten.png\">picture</a> of Arno with his zettelkasten.",
+                    "created": "Tue, 24 Jan 2023 15:03:59 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
