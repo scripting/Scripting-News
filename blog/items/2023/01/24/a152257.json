@@ -1,0 +1,7 @@
+{
+    "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/250\">Braintrust query</a>: Something weird is going on with NPM and how package.json files work. Suppose I have a package called package1 which is required by a package called package2, which in turn is required by package3 which is required by an app called helloworld, which only requires package3. I know that's complicated to say but it's really simple. Okay, so I make a change to package1, and go to the directory that contains helloworld and <i>npm update</i> it. You'd think that we'd get the new version of package1 but we don't. The only way to get it to update that I've discovered is to make a change to package3, publish it, and then npm update. But nothing changed in package3, why should I have to rebuild it just to get the change reflected in the app. I have a feeling that this is because NPM modifies the package.json that NPM passes up the chain of require's? I swear this used to work, and what a pain in the ass if this is the only way to get changes deep in the stack reflected at the top. A place to <a href=\"https://github.com/scripting/Scripting-News/issues/250\">comment</a>.",
+    "created": "Tue, 24 Jan 2023 15:22:57 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2021/02/19/blueJello.png",
+    "flInCalendar": true
+}
