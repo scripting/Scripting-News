@@ -1,0 +1,52 @@
+{
+    "created": "2023-01-25T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "25",
+    "path": "2023/01/25",
+    "text": "January 25",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I realized today in a <a href=\"https://mastodon.social/@davew/109751165568341278\">Mastodon thread</a> that my source code is my zettelkasten. I take copious notes in my outliner, but I don't worry about gardening them, it's the code I focus on. And because I write code in an outliner, I can create notes that are tucked away at the top of each function, for some long-lived functions, the notes at the top are basically a blog. Yet it in no way interferes with the readability of the code. I've been doing it this way for 20+ years, so it's a pretty smooth process. And I'm sharing all this publicly, in my GitHub repos, most of which have a source.opml file that contains the outline with the source code for the whole project. Here's an <a href=\"https://github.com/scripting/reallysimple/blob/main/source.opml\">example</a>. Read the comment at the top of the OPML file. ",
+            "created": "Wed, 25 Jan 2023 22:51:52 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/12/15/myOrangeJelloBox.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I finished bingeing <a href=\"https://www.metacritic.com/tv/his-dark-materials\">His Dark Materials</a>. Utterly tedious. 99 percent speeches by people saying nothing and the music rising and sounding ominious as if something very profound was happening. The last episode was good for about 15 minutes then it got tedious too. Somehow I was snookered into watching one of those superhero shows that are so popular now. It's all special effects. I'm sure they're impressive, and they made a big deal about how important stories are, too bad the show didn't have much of a frecking story. I give it a <a href=\"http://bingeworthy.io/tv/?id=https%3A%2F%2Fwww.metacritic.com%2Ftv%2Fhis-dark-materials\">rating</a> of 💩&nbsp;and I'm rating myself a fool for sitting through it all the way to the end. Oy boy what a mess.",
+            "created": "Wed, 25 Jan 2023 21:50:55 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "We've started testing the <a href=\"http://roadmap.feedland.org/\">open source release</a> of the FeedLand server. Looking for people with experience running a WordPress server, or equivalent. It should be that level of complexity. I want to smooth out the experience, before releasing it publicly. If you're interested, please send me an email. Include your GitHub username.",
+            "created": "Wed, 25 Jan 2023 14:15:32 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's not about HTTPS",
+            "created": "Wed, 25 Jan 2023 16:38:29 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I posted a link to a <a href=\"http://archive.thedali.org/mwebcgi/mweb.exe?request=record;id=1780;type=101\">Salvador Dali work of art</a> that Twitter thought might be bad so they blocked it. ",
+                    "created": "Wed, 25 Jan 2023 16:38:36 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Someday Google will do the same for a blog post like that because they own the web the same way Twitter owns tweets.",
+                    "created": "Wed, 25 Jan 2023 16:38:54 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Then we will see that the question in 2023 wasn't whether HTTPS is good or not, rather it's whether it's good if Google owns the web. ",
+                    "created": "Wed, 25 Jan 2023 16:39:03 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
