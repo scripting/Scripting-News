@@ -1,0 +1,7 @@
+{
+    "text": "I realized today in a <a href=\"https://mastodon.social/@davew/109751165568341278\">Mastodon thread</a> that my source code is my zettelkasten. I take copious notes in my outliner, but I don't worry about gardening them, it's the code I focus on. And because I write code in an outliner, I can create notes that are tucked away at the top of each function, for some long-lived functions, the notes at the top are basically a blog. Yet it in no way interferes with the readability of the code. I've been doing it this way for 20+ years, so it's a pretty smooth process. And I'm sharing all this publicly, in my GitHub repos, most of which have a source.opml file that contains the outline with the source code for the whole project. Here's an <a href=\"https://github.com/scripting/reallysimple/blob/main/source.opml\">example</a>. Read the comment at the top of the OPML file. ",
+    "created": "Wed, 25 Jan 2023 22:51:52 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2020/12/15/myOrangeJelloBox.png",
+    "flInCalendar": true
+}
