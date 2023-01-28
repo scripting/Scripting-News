@@ -1,0 +1,77 @@
+{
+    "created": "2023-01-27T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "27",
+    "path": "2023/01/27",
+    "text": "January 27",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "The open source release of FeedLand is <a href=\"http://roadmap.feedland.org/\">on the way</a>. :rocket:",
+            "created": "Sat, 28 Jan 2023 02:16:16 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://www.youtube.com/watch?v=0TYq9RjdYYU\">Today's song</a>: \"Did you know we're riding on the Marrakesh Express? Did you know we're riding on the Marrakesh Express? They're taking me to Marrakesh.\" ",
+            "created": "Sat, 28 Jan 2023 02:04:53 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/POTUS/status/1619032684378095619\">Democrats are campaigning</a> as part of governing! This <a href=\"http://scripting.com/2016/05/04/1237.html\">works</a>.",
+            "created": "Fri, 27 Jan 2023 18:54:22 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I did a top level demo of FeedLand for a friend all in <a href=\"https://mastodon.social/@davew/109762807709805907\">one Mastodon post</a>. Having 500 chars to work with makes a big difference.  ",
+            "created": "Fri, 27 Jan 2023 19:27:31 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "On 4/13/2005 I did a <a href=\"http://mp3.morningcoffeenotes.com/cnApr13.mp3\">singing podcast</a>. The music was on an educational site for kids. Why should they have all the fun.",
+            "created": "Fri, 27 Jan 2023 20:07:44 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Just when I thought I'd seen all the good bingeable shows, I started watching <a href=\"https://www.metacritic.com/tv/feel-good-2020\">Feel Good</a> on Netflix, and wow, it's such a great story, so emotionally involving. Not going to spoil anything, but if you need a good love story, this is it. Gave it the highest rating on <a href=\"http://bingeworthy.io/tv/?id=https%3A%2F%2Fwww.metacritic.com%2Ftv%2Ffeel-good-2020\">Bingeworthy</a>. ",
+            "created": "Fri, 27 Jan 2023 13:06:45 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Last night's <a href=\"https://www.postingandtoasting.com/2023/1/27/23573957/rj-barrett-after-edging-celtics-in-ot-we-played-together-we-played-hard-we-held-our-own\">Knicks game</a> was a real milestone. At the end with the Knicks defending, they stopped the best team in the NBA, without Mitchell Robinson. In previous seasons the Knicks would always lose these games. At the end we'd say well it was a good effort, knowing that's bullshit, it's pathetic. To win one of those games, with such competence, for the second time in two games, both times against the best in the league, wow. Maybe it's time to change how I think about this team. I'll let you know. :basketball:",
+            "created": "Fri, 27 Jan 2023 19:07:06 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Just heard an excellent <a href=\"https://mastodon.social/@ortgard/109760375504217740\">analogy</a>. Defaulting on the debt would be as destructive to the US as Brexit was to the UK. Only I think it would be a lot clearer to the world how we've lost our minds, and also the US is bigger than the UK, economically, so we have further to fall. ",
+            "created": "Fri, 27 Jan 2023 13:17:31 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Embedding Mastodon?",
+            "created": "Fri, 27 Jan 2023 13:20:47 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I was wondering if it's possible to embed a Mastodon post in a web page. Turns out that it is. <a href=\"http://scripting.com/images/2023/01/27/embedMastoScreenShot.png\">Screen shot</a>. ",
+                    "created": "Fri, 27 Jan 2023 13:20:23 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<iframe src=\"https://mastodon.social/@davew/109758004055360356/embed\" class=\"mastodon-embed\" style=\"max-width: 100%; border: 0\" width=\"400\" allowfullscreen=\"allowfullscreen\"></iframe><script src=\"https://static-cdn.mastodon.social/embed.js\" async=\"async\"></script>",
+                    "created": "Fri, 27 Jan 2023 13:20:54 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
