@@ -1,0 +1,19 @@
+{
+    "text": "Embedding Mastodon?",
+    "created": "Fri, 27 Jan 2023 13:20:47 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I was wondering if it's possible to embed a Mastodon post in a web page. Turns out that it is. <a href=\"http://scripting.com/images/2023/01/27/embedMastoScreenShot.png\">Screen shot</a>. ",
+            "created": "Fri, 27 Jan 2023 13:20:23 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<iframe src=\"https://mastodon.social/@davew/109758004055360356/embed\" class=\"mastodon-embed\" style=\"max-width: 100%; border: 0\" width=\"400\" allowfullscreen=\"allowfullscreen\"></iframe><script src=\"https://static-cdn.mastodon.social/embed.js\" async=\"async\"></script>",
+            "created": "Fri, 27 Jan 2023 13:20:54 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
