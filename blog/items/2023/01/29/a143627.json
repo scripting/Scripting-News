@@ -1,0 +1,57 @@
+{
+    "text": "I like Masto, but...",
+    "created": "Sun, 29 Jan 2023 14:36:27 GMT",
+    "type": "outline",
+    "description": "We're still waiting to be set free from the limits imposed by Twitter 17 years ago.",
+    "subs": [
+        {
+            "text": "I like Mastodon, and like Twitter. I've been on Twitter since 2006, and on Masto since 2017, but didn't start using it until late last year. I think Masto is an improvement over Twitter, but the limits I list below matter more than all the improvements.",
+            "created": "Sun, 29 Jan 2023 14:36:54 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "No titles (they must be optional).",
+                    "created": "Sun, 29 Jan 2023 15:34:14 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "No linking.",
+                    "created": "Sun, 29 Jan 2023 14:37:21 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "No styles.",
+                    "created": "Sun, 29 Jan 2023 14:37:23 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Posts are limited to 500 chars.",
+                    "created": "Sun, 29 Jan 2023 14:37:26 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "No enclosures.",
+                    "created": "Sun, 29 Jan 2023 14:37:30 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Yes I know some instances don't have these limits, but what matters is the <a href=\"https://en.wikipedia.org/wiki/Lowest_common_denominator\">LCD</a>. What can be exchanged with all Masto systems, and the list above applies to the vast majority of instances. ",
+            "created": "Sun, 29 Jan 2023 14:37:33 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Think about it this way. This is a simple post, expressing a simple idea. Yet neither Mastodon or Twitter can transmit this message. When we really get out of this bottleneck we'll be able to send messages like this one, and we'll wonder why we put up these limits for so long. ",
+            "created": "Sun, 29 Jan 2023 14:41:45 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Also, I've heard all the arguments. At one point 140 chars was the limit that mattered, if we went over that then it wouldn't be any good. Then we went over it, and communication got better. I don't want to argue about this. Just want to point out that we're still waiting to be set free from the limits imposed by Twitter 17 years ago.  ",
+            "created": "Sun, 29 Jan 2023 14:38:21 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
