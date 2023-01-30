@@ -1,0 +1,135 @@
+{
+    "created": "2023-01-29T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "29",
+    "path": "2023/01/29",
+    "text": "January 29",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1619718976199876608\">Poll</a>: Would you get rid of Google or the web?",
+            "created": "Sun, 29 Jan 2023 15:29:24 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, all who think Musk/Twitter is the big problem, you're falling for a smokescreen. A much bigger problem is the brain of Google. It's the nightmare of science fiction. We have no clue what it wants. It has unfathomably immense and unchallenged power. ",
+            "created": "Sun, 29 Jan 2023 15:32:17 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=PmduVX7_-kE\">You don't have to cry</a>. I can't tell you how much I love this song. And it turns out this was the first CSN song. It was first sung in Joni Mitchell's <a href=\"https://en.wikipedia.org/wiki/Laurel_Canyon,_Los_Angeles\">Laurel Canyon</a> living room, or Cass Elliot's kitchen, or John Sebastian's house. Crosby and Stills were tripping out on their harmonies. Cass brought Graham Nash with her to meet them. After hearing the song twice, he joined the harmony. Imagine the <a href=\"https://www.songfacts.com/facts/crosby-stills-nash/you-dont-have-to-cry\">discovery</a> that this kind of music was possible, and that it was coming from you! BTW, the song was written by Stills about <a href=\"https://en.wikipedia.org/wiki/Judy_Collins\">Judy Collins</a>. ",
+            "created": "Sun, 29 Jan 2023 15:09:11 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2023/01/29/csn.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://chat.openai.com/chat\">ChatGPT</a> is a godsend to people with aging minds who sometimes can't find the right word. It's in there, in my brain, but I can't quite get at it. It's amazing how it <a href=\"http://scripting.com/images/2023/01/29/chatscreen.png\">nailed this question</a>. Bravo! ",
+            "created": "Sun, 29 Jan 2023 14:47:22 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I like HTTPS, but...",
+            "created": "Sun, 29 Jan 2023 14:42:48 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I won't be forced to use it, I won't give in to <a href=\"http://this.how/googleAndHttp/\">blackmail</a>.",
+                    "created": "Sun, 29 Jan 2023 14:42:54 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "However, \"FeedLand\" <i>will</i> support HTTPS. I am working on that now.",
+                    "created": "Sun, 29 Jan 2023 14:43:06 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "That's why I'm in such a foul mood. I feel completely manipulated by a big company I despise.",
+                    "created": "Sun, 29 Jan 2023 14:43:19 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's as if the biggest music label also owned all the players and refused access to music written by individuals and independent publishers with some made-up bullshit about \"security.\" You have to pay them their tribute or be shut out. I choose being shut out. ",
+                    "created": "Sun, 29 Jan 2023 14:44:25 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If your browser requires HTTPS, you won't be able to read my blog. ",
+                    "created": "Sun, 29 Jan 2023 14:43:35 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Also, to lawyers -- if this isn't antitrust, I don't know what is. ",
+                    "created": "Sun, 29 Jan 2023 14:50:11 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The day is coming. Get ready for it. I am ready. I am doing nothing. :smile:",
+                    "created": "Sun, 29 Jan 2023 14:43:49 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "I like Masto, but...",
+            "created": "Sun, 29 Jan 2023 14:36:27 GMT",
+            "type": "outline",
+            "description": "We're still waiting to be set free from the limits imposed by Twitter 17 years ago.",
+            "subs": [
+                {
+                    "text": "I like Mastodon, and like Twitter. I've been on Twitter since 2006, and on Masto since 2017, but didn't start using it until late last year. I think Masto is an improvement over Twitter, but the limits I list below matter more than all the improvements.",
+                    "created": "Sun, 29 Jan 2023 14:36:54 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "No titles (they must be optional).",
+                            "created": "Sun, 29 Jan 2023 15:34:14 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "No linking.",
+                            "created": "Sun, 29 Jan 2023 14:37:21 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "No styles.",
+                            "created": "Sun, 29 Jan 2023 14:37:23 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Posts are limited to 500 chars.",
+                            "created": "Sun, 29 Jan 2023 14:37:26 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "No enclosures.",
+                            "created": "Sun, 29 Jan 2023 14:37:30 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Yes I know some instances don't have these limits, but what matters is the <a href=\"https://en.wikipedia.org/wiki/Lowest_common_denominator\">LCD</a>. What can be exchanged with all Masto systems, and the list above applies to the vast majority of instances. ",
+                    "created": "Sun, 29 Jan 2023 14:37:33 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Think about it this way. This is a simple post, expressing a simple idea. Yet neither Mastodon or Twitter can transmit this message. When we really get out of this bottleneck we'll be able to send messages like this one, and we'll wonder why we put up these limits for so long. ",
+                    "created": "Sun, 29 Jan 2023 14:41:45 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Also, I've heard all the arguments. At one point 140 chars was the limit that mattered, if we went over that then it wouldn't be any good. Then we went over it, and communication got better. I don't want to argue about this. Just want to point out that we're still waiting to be set free from the limits imposed by Twitter 17 years ago.  ",
+                    "created": "Sun, 29 Jan 2023 14:38:21 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
