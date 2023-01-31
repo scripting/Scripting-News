@@ -1,0 +1,40 @@
+{
+    "text": "A stunning realization",
+    "created": "Mon, 30 Jan 2023 15:20:59 GMT",
+    "type": "outline",
+    "description": "FeedLand and Drummer might be able to share a server.",
+    "subs": [
+        {
+            "text": "Having done it with \"FeedLand\", I was starting to think about how to wean \"Drummer\" off Twitter identity, and had a stunning realization -- it may not be necessary, since (I believe, haven't tested yet) it might be possible to host Drummer from a FeedLand instance. ",
+            "created": "Mon, 30 Jan 2023 15:01:11 GMT",
+            "image": "http://scripting.com/images/2017/11/15/kristaps.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I would actually have to do it to be sure there aren't any roadblocks I haven't foreseen. But they're both running the same server software, <a href=\"https://www.npmjs.com/package/daveappserver\">daveappserver</a>, and once you've established an identity in FeedLand I don't see why it can't be used with Drummer. ",
+            "created": "Mon, 30 Jan 2023 15:22:05 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Ken Smith was tripping out on the synergies between Drummer and FeedLand. This, if it works, would blow the doors off that. They would be storing their data in the same place. You would be able to open your FeedLand bookmarks menu in Drummer, to start. ",
+            "created": "Mon, 30 Jan 2023 15:21:46 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I figured something else out. I was wondering what would happen if Twitter broke their identity with developers like me as they did with the clients, how would we transition Drummer then? I don't want people to have to start over. I could ask them to do what I asked FeedLand users to do, is make a connection between their Twitter identity and an email address, as a backup. But this would have to be done before any outage. Something most people probably wouldn't do. ",
+            "created": "Mon, 30 Jan 2023 15:23:02 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Then I realized we would be able to do what we do now when we want to associate an email address with a domain, ask the user to post something to their Twitter account, some magic string. When we see it in their timeline, voila, we know they are who they say they are and we can move the files to the new server. So we can relax. Users shouldn't have to lose data if Twitter pulls the plug.",
+            "created": "Mon, 30 Jan 2023 15:29:14 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "One more thing, when Twitter was blowing up, I was getting harassed by idiots (no other word for it sorry) who didn't understand that you can't unwind a connection just by snapping your fingers. Identity is baked into an app at a deep level. And, when it already has users, and has gone through a ship cycle, you can't just flip a switch or everything you worked so hard for would just fall apart. It would be like, for example, making the NYC subway system run on a different track gauge. Sure you could do it, but it might take a few weeks. :smile:",
+            "created": "Mon, 30 Jan 2023 15:29:57 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
