@@ -1,0 +1,83 @@
+{
+    "created": "2023-01-30T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "30",
+    "path": "2023/01/30",
+    "text": "January 30",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Still listening to <a href=\"http://scripting.com/2023/01/29.html#a150911\">You Don't Have To Cry</a>. Maybe the best song ever.",
+            "created": "Tue, 31 Jan 2023 03:59:38 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "To anyone who cares about ActivityPub, Peter Zingg provides a <a href=\"https://mastodon.cloud/@pzingg/109780947294643685\">great roadmap</a> for what's needed to get serious adoption.",
+            "created": "Tue, 31 Jan 2023 03:50:56 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "My work address once was <a href=\"https://www.google.com/maps/@37.3930045,-122.0677959,3a,75y,335.28h,78.5t/data=!3m7!1e1!3m5!1s94Em7fQKlL0uM2ERaQ6WJw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D94Em7fQKlL0uM2ERaQ6WJw%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D101.703125%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656\">117 Easy Street</a>, not in Anytown, USA.",
+            "created": "Tue, 31 Jan 2023 03:47:04 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A stunning realization",
+            "created": "Mon, 30 Jan 2023 15:20:59 GMT",
+            "type": "outline",
+            "description": "FeedLand and Drummer might be able to share a server.",
+            "subs": [
+                {
+                    "text": "Having done it with \"FeedLand\", I was starting to think about how to wean \"Drummer\" off Twitter identity, and had a stunning realization -- it may not be necessary, since (I believe, haven't tested yet) it might be possible to host Drummer from a FeedLand instance. ",
+                    "created": "Mon, 30 Jan 2023 15:01:11 GMT",
+                    "image": "http://scripting.com/images/2017/11/15/kristaps.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I would actually have to do it to be sure there aren't any roadblocks I haven't foreseen. But they're both running the same server software, <a href=\"https://www.npmjs.com/package/daveappserver\">daveappserver</a>, and once you've established an identity in FeedLand I don't see why it can't be used with Drummer. ",
+                    "created": "Mon, 30 Jan 2023 15:22:05 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Ken Smith was tripping out on the synergies between Drummer and FeedLand. This, if it works, would blow the doors off that. They would be storing their data in the same place. You would be able to open your FeedLand bookmarks menu in Drummer, to start. ",
+                    "created": "Mon, 30 Jan 2023 15:21:46 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I figured something else out. I was wondering what would happen if Twitter broke their identity with developers like me as they did with the clients, how would we transition Drummer then? I don't want people to have to start over. I could ask them to do what I asked FeedLand users to do, is make a connection between their Twitter identity and an email address, as a backup. But this would have to be done before any outage. Something most people probably wouldn't do. ",
+                    "created": "Mon, 30 Jan 2023 15:23:02 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Then I realized we would be able to do what we do now when we want to associate an email address with a domain, ask the user to post something to their Twitter account, some magic string. When we see it in their timeline, voila, we know they are who they say they are and we can move the files to the new server. So we can relax. Users shouldn't have to lose data if Twitter pulls the plug.",
+                    "created": "Mon, 30 Jan 2023 15:29:14 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "One more thing, when Twitter was blowing up, I was getting harassed by idiots (no other word for it sorry) who didn't understand that you can't unwind a connection just by snapping your fingers. Identity is baked into an app at a deep level. And, when it already has users, and has gone through a ship cycle, you can't just flip a switch or everything you worked so hard for would just fall apart. It would be like, for example, making the NYC subway system run on a different track gauge. Sure you could do it, but it might take a few weeks. :smile:",
+                    "created": "Mon, 30 Jan 2023 15:29:57 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Only on Twitter",
+            "created": "Tue, 31 Jan 2023 03:44:28 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2023/01/30/tuckerOnTwitter.png",
+            "subs": [
+                {
+                    "text": "There are still some things you can only learn <a href=\"https://twitter.com/markos/status/1620266385594277888\">on Twitter</a>.",
+                    "created": "Tue, 31 Jan 2023 03:44:49 GMT",
+                    "inlineImage": "http://scripting.com/images/2023/01/30/tuckerOnTwitter.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
