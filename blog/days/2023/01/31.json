@@ -1,0 +1,77 @@
+{
+    "created": "2023-01-31T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "31",
+    "path": "2023/01/31",
+    "text": "January 31",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "To journalists (and others) who are trying to figure out how podcasting was born, I suggest listening to the podcasts in <a href=\"http://morningcoffeenotes.com/\">Morning Coffee Notes</a> starting at 6/11/2004. Work your way up the list. Those were amazing days, lots of firsts and imho lots of fun. I kept the archive because I hoped at some point someone would want to know how it happened. Maybe grad students will do a thesis on this stuff? This is a new medium being born. I tried to keep good records. Also recommend looking at Scripting News archives for 2004 as well. ",
+            "created": "Tue, 31 Jan 2023 13:11:56 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/09/12/pitcher.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "2001 was also a big year in podcasting. The first program to <a href=\"http://scripting.com/2021/01/21/141332.html?title=twentyYearsAgoInPodcasting#a154217\">download podcasts</a> was <a href=\"https://duckduckgo.com/?q=site%3Ascripting.com+%22MUOTD%22&t=h_&ia=web\">MUOTD</a>, in January 2001, in conjunction with the <a href=\"https://podnews.net/article/first-podcast-feed-history\">Grateful Dead experiment</a>.",
+            "created": "Tue, 31 Jan 2023 17:46:54 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's HTTPS week for FeedLand",
+            "created": "Tue, 31 Jan 2023 16:23:11 GMT",
+            "type": "outline",
+            "description": "Supporting HTTPS in FeedLand was the plan all along. ",
+            "metaImage": "http://scripting.com/images/2023/01/31/riveraPortrait.png",
+            "subs": [
+                {
+                    "text": "I have a group of testers working with me on getting the <a href=\"http://roadmap.feedland.org/\">open source release</a> of FeedLand ready to go. And this is the week we're working on HTTPS support. One of my friends thanked me for doing this work, and I thought my response deserved to be public, so here it is.",
+                    "created": "Tue, 31 Jan 2023 16:23:19 GMT",
+                    "subs": [
+                        {
+                            "text": "Supporting HTTPS in FeedLand was the plan all along. The rule is if you're giving your identity to a service, you gotta have HTTPS. My commitment is to the web. I think HTTPS is shitty technology, I'm sure Google if they tried harder, or asked me, could have come up with more of a win-win. But it is what it is. They're a shit company, but HTTPS is not Google. I know that. Some people can't seem to get that I get that. Not everything is a political cause. I think they're accustomed to Republican politics where they'll burn the world down to assert their will. I'm genuinely in this for the good of everyone, not just me. And -- I don't blame HTTPS for Google. ",
+                            "created": "Tue, 31 Jan 2023 16:24:09 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "My <a href=\"https://twitter.com/davewiner\">profile</a> on Twitter is something I think every technologist should agree with, like the doctors take.",
+                    "created": "Tue, 31 Jan 2023 16:28:02 GMT",
+                    "subs": [
+                        {
+                            "text": "I work for the betterment of the network we all share. I'm not trying to get rich or famous, just fix the stuff that's broken. I hope you are doing that too.",
+                            "created": "Tue, 31 Jan 2023 16:28:24 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's okay to want to be rich or famous, btw -- I like having money, and if you succeed at being famous I want to warn you there's a downside to it, but more power to you. ",
+                    "created": "Tue, 31 Jan 2023 16:28:35 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Diego Rivera",
+            "created": "Tue, 31 Jan 2023 21:30:24 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2023/01/31/riveraPortrait.png",
+            "subs": [
+                {
+                    "text": "<a href=\"https://collections.artsmia.org/art/3147/portrait-of-the-knight-family-diego-rivera\">Portrait of the Knight Family</a>, 1946.",
+                    "created": "Tue, 31 Jan 2023 21:30:44 GMT",
+                    "inlineImage": "http://scripting.com/images/2023/01/31/riveraPortrait.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
