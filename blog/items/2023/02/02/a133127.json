@@ -1,0 +1,62 @@
+{
+    "text": "Twitter pulling the plug",
+    "created": "Thu, 02 Feb 2023 13:31:27 GMT",
+    "type": "outline",
+    "description": "All of what I write here today is seat-of-pants. I don't know how this is going to turn out.",
+    "metaImage": "http://scripting.com/images/2023/02/02/dresdenAfterFire.png",
+    "subs": [
+        {
+            "text": "Over night Twitter <a href=\"https://twitter.com/TwitterDev/status/1621026986784337922\">announced</a> that they're <a href=\"https://www.techmeme.com/230202/p4#a230202p4\">cutting off free access</a> to their API, which we depend on in all my products. They made the announcement in a vague way and with just seven days notice. I think there's a good chance they'll realize that this is a shitty way to do it, and will take it back, on one hand, but on the other hand, let's get out of here now. This is not a good place to develop products. I hoped they would leave this part of their API alone, and I expected more notice, but it didn't turn out that way. It is what it is. ",
+            "created": "Thu, 02 Feb 2023 13:24:36 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/06/26/quimby.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "A disclaimer, all of what I write here today is seat-of-pants. I don't know how this is going to turn out, but right now I want you, if you use my products, to prepare for a complete shutdown, just in case. ",
+            "created": "Thu, 02 Feb 2023 13:30:31 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "In some cases, esp for products that were designed only to enhance Twitter, they will not come back. For example, <a href=\"http://thread.center/\">thread.center</a>. It only works with Twitter, so when the API is gone, I will just shut it down.",
+            "created": "Thu, 02 Feb 2023 13:32:35 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The two products I care about most are \"Drummer\" and \"FeedLand\". I will do everything I can to transition them.",
+            "created": "Thu, 02 Feb 2023 13:33:20 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "\"Little Outliner\" which I have left running even though Drummer is a better version of the same product, will not transition. ",
+            "created": "Thu, 02 Feb 2023 13:33:43 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Both Drummer and Little Outliner have commands to download all your outlines. You should do that <i>now. </i>There's no excuse for you losing any data, and I will not help get your data after Twitter shuts off the API. Take care of yourself. Download your stuff. Now.",
+            "created": "Thu, 02 Feb 2023 13:34:11 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "For FeedLand there's nothing to worry about. All your data is public, so even if for some reason you cannot log onto FeedLand, you will still be able to get your data because you don't need to log in to get it. ",
+            "created": "Thu, 02 Feb 2023 13:35:27 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Follow \"Scripting News\" for more notes about the transition. ",
+            "created": "Thu, 02 Feb 2023 13:36:30 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Finally, I am just one person. I won't stand for people treating me like a corporation with a staff of people working on this. I am not more powerful than you are, so remember that when you ask for help. There will no tolerance of abuse. ",
+            "created": "Thu, 02 Feb 2023 13:45:26 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "And if you have questions, <a href=\"https://github.com/scripting/Scripting-News/issues/251\">here's a place</a> to ask. ",
+            "created": "Thu, 02 Feb 2023 13:39:17 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
