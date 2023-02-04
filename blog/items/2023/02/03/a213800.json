@@ -1,0 +1,7 @@
+{
+    "text": "The first big project I'm undertaking in the transition away from Twitter is \"Drummer\". In the new world, Drummer will manage identity for itself using email addresses, and thus it will use HTTPS. So the first step in the conversion is getting rid of all the hard-coded http URLs in the app. I'm sure they're not all gone yet, but the app does boot up without errors now both on a test server (which uses HTTPS), and the same code runs on the current Drummer site (which uses HTTP). You can help test it out by using Drummer with the JavaScript console open, and note any errors that have to do with HTTP and HTTPS and <a href=\"https://github.com/scripting/drummerSupport/issues/173\">report them here</a>. ",
+    "created": "Fri, 03 Feb 2023 21:38:00 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2019/12/24/drummer.png",
+    "flInCalendar": true
+}
