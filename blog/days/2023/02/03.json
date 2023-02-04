@@ -1,0 +1,47 @@
+{
+    "created": "2023-02-03T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "03",
+    "path": "2023/02/03",
+    "text": "February 03",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "The first big project I'm undertaking in the transition away from Twitter is \"Drummer\". In the new world, Drummer will manage identity for itself using email addresses, and thus it will use HTTPS. So the first step in the conversion is getting rid of all the hard-coded http URLs in the app. I'm sure they're not all gone yet, but the app does boot up without errors now both on a test server (which uses HTTPS), and the same code runs on the current Drummer site (which uses HTTP). You can help test it out by using Drummer with the JavaScript console open, and note any errors that have to do with HTTP and HTTPS and <a href=\"https://github.com/scripting/drummerSupport/issues/173\">report them here</a>. ",
+            "created": "Fri, 03 Feb 2023 21:38:00 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/12/24/drummer.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "This is a <a href=\"http://scripting.com/images/2023/02/03/androidscreen.png\">screen shot</a> of the Sounds panel of my Android phone. Note that the Media slider is disabled. This means that while the speakers work, I can't listen to any podcasts, audiobooks or music. How do I get the slider to be re-enabled? I've already tried restarting the phone a few times. ",
+            "created": "Sat, 04 Feb 2023 02:06:01 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Starting to do small things for the corner-turn away from Twitter. We no longer have RT icons on items on the Scripting News website. And there no longer is a button in the upper left corner that lets you log on and off of Twitter. Watch this space for more updates, and I'm also adding notes to the <a href=\"https://github.com/scripting/Scripting-News/issues/252\">thread</a> about changes people are making. ",
+            "created": "Fri, 03 Feb 2023 15:00:39 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "When you build on corporate APIs you have to know there's a fair chance the owner will pull the rug out on you, as twitter is doing now. The only APIs you can trust are open APIs that aren’t owned by anyone -- like the web -- http, html, rss. You have to watch out because the bigco’s will try to own those too. Journos are oblivious. Can’t get their attention. To a large extent Google <i><a href=\"http://this.how/googleAndHttp/\">already</a></i> owns the web. And they are throwing their weight around in much more consequential ways than twitter. But Google is invisble to the press. That will end some day.",
+            "created": "Fri, 03 Feb 2023 14:36:00 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "So journalists, there’s nothing surprising about twitter screwing with their api. But we should be nailing Google for trying to steal the open web.",
+            "created": "Fri, 03 Feb 2023 15:29:53 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Do you have an app that runs on the twitter api? What is your plan for next week? I started a <a href=\"https://github.com/scripting/Scripting-News/issues/252\">thread</a> on the Scripting repo to gather comments. Let's not use Twitter for this one. 😀",
+            "created": "Fri, 03 Feb 2023 14:03:46 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
