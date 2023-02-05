@@ -1,0 +1,83 @@
+{
+    "created": "2023-02-04T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "04",
+    "path": "2023/02/04",
+    "text": "February 04",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I had to turn off <a href=\"http://drummer.scripting.com/\">drummer.scripting.com</a> while I work on the new version that uses email for identity and is accessed through HTTPS. It would take too much time to try to keep both versions running at the same time. So I have redirected it to a <a href=\"http://drummer.lucky.wtf/\">temporary placeholder site</a>, and when the new site is ready, it will redirect to that site. We will then have to figure out how to have your data meet you on the other side. So this will happen in several steps, of which this is the first. And in doing this I will learn how to do it for other sites such as Radio3, BingeWorthy, etc. If you have questions, <a href=\"https://github.com/scripting/drummerSupport/issues/174\">see this thread</a>. Please don't ask when will it be ready. This is still seat-of-the-pants unfortunately due to the randomness of the changes at Twitter. Also, your data is safe.",
+            "created": "Sat, 04 Feb 2023 16:26:58 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2022/12/01/beetlejuice.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I was getting \"invalid token\" errors from \"Radio3\", from Twitter. I tried logging off and logging back on and am not being allowed to. I see in the log that other users are getting that error as well. It could be Twitter's system has failed, or they turned us off.",
+            "created": "Sat, 04 Feb 2023 15:54:35 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/252#issuecomment-1416776869\">Thread</a>: Twitter was sitting on an AWS-size opportunity. I tried to clue Jack into this, but he was always dreaming of really cool shit, and all we want is a simple package of services that work and have no patience for science experiments. Identity and storage that the user pays for and grants access to our apps. We'll do the creative stuff. Storage and identity has to be boring and reliable, and not subject to having the rug pulled out from us. It's something we need to build on, at the very lowest level of the stack.",
+            "created": "Sat, 04 Feb 2023 15:18:18 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, yesterday's <a href=\"http://scripting.com/2023/02/03.html#a020601\">problem</a> with my Android phone was solved quickly by a number of readers. Thank you all very much. It was right there in the <a href=\"http://scripting.com/images/2023/02/03/androidscreen.png?nodialog\">screen shot</a>. Somehow <i>Do Not Disturb</i> mode got turned on. I never would have done that on purpose. This is a phone I use mainly for listening to podcasts and audiobooks and for 2-factor identity. Why does it turn off media? What kind of sense does that make. And from a UI standpoint, there should be some clue somewhere near the slider as to why that it's disabled. I tried to find the answer on Google and ChatGPT before broadcasting the question. Neither had any good advice about this. ",
+            "created": "Sat, 04 Feb 2023 15:19:54 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Speaking of audiobooks, Amazon's service, <a href=\"https://www.google.com/search?q=site%3Ascripting.com+audible.com\">audible.com</a>, which I used to subscribe to, is a huge ripoff. You have to be an active member to listen to the books you bought. So you can't, if you have too many unread books, suspend the service so you can start to catch up. For the most part Amazon is pretty good at not keeping money it isn't entitled to. If something goes wrong and you jump through all the hoops, they give you your money back. They want a long-term relationship, it seems. But this policy of Audible's seems to be the exception. As if they don't give a shit what you think of them. How very un-Amazon. ",
+            "created": "Sat, 04 Feb 2023 15:26:09 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm not a \"coder\"",
+            "created": "Sat, 04 Feb 2023 18:16:24 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "this started out as a mastodon post in this <a href=\"https://mastodon.social/@billseipel@fosstodon.org/109807807318592852\">thread</a> but i went way over the 500 char limit, so I just posted it here instead.",
+                    "created": "Sat, 04 Feb 2023 18:16:29 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "i develop whole products as does marco.",
+                    "created": "Sat, 04 Feb 2023 18:16:46 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "a funny thing happens when people think you do much less than what you actually do, they hire people to replace you.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "that's what happened with adam curry and myself back in 2005. he had no idea what i do, he and his partner ron bloom thought they could save some stock and they thought i was being \"difficult\" (I guess) by not taking orders from bloom, so they hired a couple of programmers to replace me, and guess what happened. nothing. they wasted $100 million in vc money, and barked up the wrong tree. if they had worked with me they wouldn't have done that, but they would have had to listen to a mere coder. ",
+                    "created": "Sat, 04 Feb 2023 18:17:34 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "same thing happened when RSS became a VC thing, none of them wanted to work with me, so they hired \"software engineers\" and they created products that somehow weren't up to the opportunity. all the companies failed. none of the VCs had the vision or just common sense to bet on the only developer who had proven he knew what was actually going on. ",
+                    "created": "Sat, 04 Feb 2023 18:18:34 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "all my career people have been minimizing what we do with disastrous results. go back to my first silicon valley gig, with personal software in 1980. the ceo of the company told me to my face he could do a better job writing the software i was doing, but was too busy to do it. he was full of shit. you had to be really motivated in ways few \"coders\" are to get a 256K program to run in 48K. (which is what the app turned into when we ported it from the apple ii to the ibm pc) Not to mention invent a new freaking category of software. (To his credit the CEO did think of doing outliners before he met me, though his idea of an outliner didn't amount to much more than a start down the path.)",
+                    "created": "Sat, 04 Feb 2023 18:19:28 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "you can't make things better by giving into the bullshit money people and marketing people and people who took a few college classes in comp sci impose on our craft. ",
+                    "created": "Sat, 04 Feb 2023 18:25:06 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
