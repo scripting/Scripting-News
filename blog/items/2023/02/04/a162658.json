@@ -1,0 +1,7 @@
+{
+    "text": "I had to turn off <a href=\"http://drummer.scripting.com/\">drummer.scripting.com</a> while I work on the new version that uses email for identity and is accessed through HTTPS. It would take too much time to try to keep both versions running at the same time. So I have redirected it to a <a href=\"http://drummer.lucky.wtf/\">temporary placeholder site</a>, and when the new site is ready, it will redirect to that site. We will then have to figure out how to have your data meet you on the other side. So this will happen in several steps, of which this is the first. And in doing this I will learn how to do it for other sites such as Radio3, BingeWorthy, etc. If you have questions, <a href=\"https://github.com/scripting/drummerSupport/issues/174\">see this thread</a>. Please don't ask when will it be ready. This is still seat-of-the-pants unfortunately due to the randomness of the changes at Twitter. Also, your data is safe.",
+    "created": "Sat, 04 Feb 2023 16:26:58 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2022/12/01/beetlejuice.png",
+    "flInCalendar": true
+}
