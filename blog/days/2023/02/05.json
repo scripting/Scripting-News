@@ -1,0 +1,42 @@
+{
+    "created": "2023-02-05T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "05",
+    "path": "2023/02/05",
+    "text": "February 05",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=6W5pq4bIzIw\">Boombastic</a>. ",
+            "created": "Sun, 05 Feb 2023 15:43:36 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://www.youtube.com/watch?v=Cf2Gec_2fMY\">Juno's dad</a> on the kind of person who's worth sticking with. ",
+            "created": "Sun, 05 Feb 2023 22:22:22 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=Cf2Gec_2fMY",
+            "flInCalendar": true
+        },
+        {
+            "text": "Making good progress converting \"Drummer\" to email-based identity. I had all the pieces written, but I wasn't sure at first how they fit together. This morning I started down a path and everything clicked into place. Like a ski boot into a binding. When the pieces fit together like this I call it \"clean living\" -- we didn't cut any corners when doing this for FeedLand, and the two products share a <a href=\"https://www.npmjs.com/package/daveappserver\">foundation</a>, the bits were already there for Drummer. I hadn't worked on Drummer in almost a year. It took a while for the cobwebs to shake off. Nice to see you my old friend, who I've been using all this time. Anyway, I think we'll have a test version of this ready in a day or two. To deploy shortly after, with fingers crossed, praise <a href=\"https://en.wikipedia.org/wiki/Murphy%27s_law\">Murphy</a>.  ",
+            "created": "Sun, 05 Feb 2023 18:26:56 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/12/12/zen.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Update: I have been able to log on to \"Radio3\", so I crossed out the first part of the next post. ",
+            "created": "Mon, 06 Feb 2023 01:50:15 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<s style=\"opacity: 0.9\">Note to people who read the <a href=\"http://scripting.com/?tab=links\">linkblog tab</a> on Scripting News and in the nightly email. \"Radio3\", the tool I use for linkblogging, relies on Twitter identity. Twitter is not allowing me to log in. I see that's happening for other users too, but I've also heard of users who are able to log on to Radio3 via Twitter. Obviously I'm going to have to fix that app too. Until that happens, the linkblog will not be updating. Can't be helped.</s> I'm not against Twitter btw, I see it as something that stretches back in time, and likely has some kind of future. It's struggling now, that's for sure. Maybe it'll come back together. I am most definitely <i>not</i> rooting against it, and it bothers me to see other people doing it. This isn't a sport, it's a world-level communication system that we use. While Mastodon has taken the Twitter idea for its own, it is not in any way a replacement for Twitter. In the past few days it's become painfully obvious how much we depend on it, and how it's negatively impacting my work when it's in trouble. I don't see any victory really for anyone in this other than people who get a charge from of other people's misery.",
+            "created": "Sun, 05 Feb 2023 18:36:18 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
