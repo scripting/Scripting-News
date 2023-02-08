@@ -1,0 +1,78 @@
+{
+    "created": "2023-02-07T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "07",
+    "path": "2023/02/07",
+    "text": "February 07",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "This <a href=\"https://mastodon.social/@davew/109801318368928754\">Mastodon post</a> is getting a lot of looks. ",
+            "created": "Tue, 07 Feb 2023 23:13:16 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm rewatching the HBO series <a href=\"https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)\">Silicon Valley</a> and <a href=\"http://bingeworthy.io/tv/?id=https%3A%2F%2Fwww.metacritic.com%2Ftv%2Fsilicon-valley\">loving</a> it as <a href=\"https://www.metacritic.com/tv/silicon-valley\">much</a> the second time as I did the first. They really do capture the insanity of the place. I swear I'm in a bunch of the episodes, or it feels that way.",
+            "created": "Tue, 07 Feb 2023 22:38:06 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The new version of Drummer will be ready for testing soon, maybe even later today. If you want to help, please sign up by <a href=\"https://github.com/scripting/drummerSupport/issues/175\">replying to this item</a>, or watch <a href=\"http://scripting.com/\">my blog</a>. As they say -- <i>still diggin!</i>",
+            "created": "Tue, 07 Feb 2023 18:26:30 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Mr Michegas is outlining",
+            "created": "Tue, 07 Feb 2023 17:17:41 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Mr Michegas is the name of my test server. ",
+                    "created": "Tue, 07 Feb 2023 17:20:02 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This outline is running in the new version of Drummer that:. ",
+                    "created": "Tue, 07 Feb 2023 17:18:29 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Does identity with an email address.",
+                            "created": "Tue, 07 Feb 2023 17:18:41 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Runs under the warm secure Google-blessed blanket of HTTPS, thanks to <a href=\"https://caddyserver.com/\">Caddy</a>. (Very <a href=\"https://github.com/scotthansonde/DrummerNotes/blob/main/caddy.md\">easy way</a> to do HTTPS esp if you use \"PagePark\".)",
+                            "created": "Tue, 07 Feb 2023 17:18:51 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Finally I can use it to write an outline.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This is an ugly job. The very top level of every app is the dirtiest part.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But I have something working, and that's something to celebrate.",
+                    "created": "Tue, 07 Feb 2023 17:18:31 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Something is working.",
+                    "created": "Tue, 07 Feb 2023 17:17:43 GMT",
+                    "inlineImage": "http://scripting.com/images/2023/02/07/somethingIsWorking.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
