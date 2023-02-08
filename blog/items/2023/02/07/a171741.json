@@ -1,0 +1,50 @@
+{
+    "text": "Mr Michegas is outlining",
+    "created": "Tue, 07 Feb 2023 17:17:41 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Mr Michegas is the name of my test server. ",
+            "created": "Tue, 07 Feb 2023 17:20:02 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "This outline is running in the new version of Drummer that:. ",
+            "created": "Tue, 07 Feb 2023 17:18:29 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "Does identity with an email address.",
+                    "created": "Tue, 07 Feb 2023 17:18:41 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Runs under the warm secure Google-blessed blanket of HTTPS, thanks to <a href=\"https://caddyserver.com/\">Caddy</a>. (Very <a href=\"https://github.com/scotthansonde/DrummerNotes/blob/main/caddy.md\">easy way</a> to do HTTPS esp if you use \"PagePark\".)",
+                    "created": "Tue, 07 Feb 2023 17:18:51 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Finally I can use it to write an outline.",
+            "flInCalendar": true
+        },
+        {
+            "text": "This is an ugly job. The very top level of every app is the dirtiest part.",
+            "flInCalendar": true
+        },
+        {
+            "text": "But I have something working, and that's something to celebrate.",
+            "created": "Tue, 07 Feb 2023 17:18:31 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Something is working.",
+            "created": "Tue, 07 Feb 2023 17:17:43 GMT",
+            "inlineImage": "http://scripting.com/images/2023/02/07/somethingIsWorking.png",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
