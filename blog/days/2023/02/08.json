@@ -1,0 +1,43 @@
+{
+    "created": "2023-02-08T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "08",
+    "path": "2023/02/08",
+    "text": "February 08",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=pWMyLDia6R0\">Country Girl</a>.",
+            "created": "Wed, 08 Feb 2023 17:44:54 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "We started testing the <a href=\"https://github.com/scripting/drummerSupport/issues/175\">new release</a> of Drummer earlier today. There are features that used to work in Drummer that won't work in the new version. I am shipping the first open source version of FeedLand at the same time, working on both -- and this is really precarious work. Drummer will work as an outliner. The scripting features will mostly work, the Twitter verbs obviously will <i>not</i> work. Your public files will be at different addresses. As I've said before I'm one person, doing the best I can. I expect people to be appreciative and supportive, friendly. Thanks in advance. :smile:",
+            "created": "Wed, 08 Feb 2023 16:55:10 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/09/10/drummer.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "One of my favorite things on Twitter are the <a href=\"https://twitter.com/i/lists/1389951899424677888\">art channels</a>. The curators post reproductions of famous works of art. And occasionally RT another art channel they feel is related to their artist, that their viewers would enjoy. It's a way to broaden the art you get to see. When they talk about how horrible Twitter is they leave out stuff like this. However, without use of the API these channels can't exist, and since each is a labor of love, it's unreasonable to expect them to pay for it. ",
+            "created": "Wed, 08 Feb 2023 21:50:18 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "René Magritte",
+            "created": "Thu, 09 Feb 2023 02:27:22 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://www.wikiart.org/en/rene-magritte/the-lovers-1928\">The Lovers</a>, 1928.",
+                    "created": "Thu, 09 Feb 2023 02:27:28 GMT",
+                    "inlineImage": "http://scripting.com/images/2023/02/08/theLovers.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
