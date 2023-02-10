@@ -1,0 +1,7 @@
+{
+    "text": "Coming back from deep in the innards of FeedLand and Drummer, where both are learning HTTPS. Under development, not yet ready for users. But here's something cute. If FeedLand supports HTTPS in all its functionality, it will end up demanding that people with feeds support HTTPS too, and will fail for those who don't. If we continue down this path, I will be doing Google's work, helping them take ownership of the web. Here's the deal. Suppose you're displaying an item from a feed that includes an image. Suppose that image is served from an HTTP website, but your reader is running HTTPS. You won't see the image. The browser will refuse to load it. This came up when Scott Hanson tried to look at an <a href=\"http://scripting.com/2023/02/08/022722.html\">item</a> from Scripting News that contained a painting from René Magritte. Here's a <a href=\"http://scripting.com/images/2023/02/09/magritteInFeedLand.png\">screen shot</a>. I'm trying to think of a way I could <i>not</i> give aid and comfort to the enemy. There might be a way. I don't want to betray the open web. I might be willing to do a lot of work so I don't force the owner of that site to support HTTPS (which I know he won't do because he is me). The old moral of the story -- give an inch, they'll take a mile.",
+    "created": "Thu, 09 Feb 2023 16:55:37 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2023/02/09/magritteForMargin.png",
+    "flInCalendar": true
+}
