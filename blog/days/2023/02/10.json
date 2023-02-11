@@ -1,0 +1,56 @@
+{
+    "created": "2023-02-10T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "10",
+    "path": "2023/02/10",
+    "text": "February 10",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://james.cridland.net/\">James Cridland</a> of <a href=\"https://podnews.net/\">Podnews</a> created a <a href=\"https://tradesecrets.archive.podnews.net/index.xml\">modern feed</a> with the podcasts from Trade Secrets, the show <a href=\"https://www.google.com/search?q=site%3Ascripting.com+%22adam+curry%22\">Adam Curry</a> and I did in 2004-2005 during in the first wave of podcasting. I've loaded it <a href=\"http://feedland.org/?river=https%3A%2F%2Ftradesecrets.archive.podnews.net%2Findex.xml\">into FeedLand</a>. And James loaded it into <a href=\"https://web.podfriend.com/podcast/trade-secrets4\">Podfriend</a>. It's great to have this stuff resurrected in a form that people interested in the formation of podcasting, journalists and historians we hope, can learn from. Thanks James! I hope he does the same with my <a href=\"http://morningcoffeenotes.com/\">Morning Coffee Notes</a> podcast, which precedes Trade Secrets, and documents developments in the summer of 2004. ",
+            "created": "Fri, 10 Feb 2023 14:07:22 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/12/12/cowboy.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "\"RSS 2.0\" which was <a href=\"http://reallysimple.org/twentyYearsAgo.opml\">20 years old</a> last year salutes its parent, <a href=\"https://en.wikipedia.org/wiki/XML\">XML</a>, <a href=\"https://mastodon.social/@timbray@hachyderm.io/109841605319160447\">25 years old</a> today. A powerful family of open technologies for <a href=\"http://scripting.com/2021/12/16/153331.html?title=myProductIsInterop\">interop</a>.",
+            "created": "Sat, 11 Feb 2023 02:05:06 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Miguel's <a href=\"http://scripting.com/images/2023/02/10/elonEpitaph.png\">epitaph</a> for Elon Musk <a href=\"https://twitter.com/migueldeicaza/status/1624230575274962946\">fits</a> in 280 characters. Good work. ",
+            "created": "Sat, 11 Feb 2023 02:18:18 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/migueldeicaza/status/1624230575274962946",
+            "flInCalendar": true
+        },
+        {
+            "text": "A stressful week",
+            "created": "Sat, 11 Feb 2023 02:39:00 GMT",
+            "type": "outline",
+            "description": "I knew there could be a day when we had to quickly get out of TwitterVille. 😀",
+            "metaImage": "http://scripting.com/images/2023/02/10/titanic.png",
+            "subs": [
+                {
+                    "text": "This has been an incredibly stressful week for me. It was supposed to be the week we launched testing of feedlandInstall, enough of a stretch on its own, but it also simultaneously became the week that Drummer had to be converted to a new identity system and HTTPS, all happening at the same time, thanks to the implosion of the API at Twitter. It's okay, it is what it is. I went into it with my eyes open, I knew there could be a day when we had to quickly get out of TwitterVille. :smile:",
+                    "created": "Sat, 11 Feb 2023 02:39:06 GMT",
+                    "image": "http://scripting.com/images/2020/03/22/accordionPlayer.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This added some extra chaos to the feedlandInstall process because the products share a package called <a href=\"https://www.npmjs.com/package/daveappserver\">daveappserver</a>, and I had to make changes to how it works to get Drummer working, and there was a risk of FeedLand breakage as a result, and some breakage has occurred.",
+                    "created": "Sat, 11 Feb 2023 02:39:37 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "We will get there. A new Drummer without Twitter for identity and a new open source release of FeedLand's server so a thousand instances can bloom. Everyone will want to be part of a FeedLand workgroup the same way they are joining Mastodon instances. Communities of feed readers serving larger communities of news users. ",
+                    "created": "Sat, 11 Feb 2023 02:40:07 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
