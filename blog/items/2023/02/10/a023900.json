@@ -1,0 +1,26 @@
+{
+    "text": "A stressful week",
+    "created": "Sat, 11 Feb 2023 02:39:00 GMT",
+    "type": "outline",
+    "description": "I knew there could be a day when we had to quickly get out of TwitterVille. 😀",
+    "metaImage": "http://scripting.com/images/2023/02/10/titanic.png",
+    "subs": [
+        {
+            "text": "This has been an incredibly stressful week for me. It was supposed to be the week we launched testing of feedlandInstall, enough of a stretch on its own, but it also simultaneously became the week that Drummer had to be converted to a new identity system and HTTPS, all happening at the same time, thanks to the implosion of the API at Twitter. It's okay, it is what it is. I went into it with my eyes open, I knew there could be a day when we had to quickly get out of TwitterVille. :smile:",
+            "created": "Sat, 11 Feb 2023 02:39:06 GMT",
+            "image": "http://scripting.com/images/2020/03/22/accordionPlayer.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "This added some extra chaos to the feedlandInstall process because the products share a package called <a href=\"https://www.npmjs.com/package/daveappserver\">daveappserver</a>, and I had to make changes to how it works to get Drummer working, and there was a risk of FeedLand breakage as a result, and some breakage has occurred.",
+            "created": "Sat, 11 Feb 2023 02:39:37 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "We will get there. A new Drummer without Twitter for identity and a new open source release of FeedLand's server so a thousand instances can bloom. Everyone will want to be part of a FeedLand workgroup the same way they are joining Mastodon instances. Communities of feed readers serving larger communities of news users. ",
+            "created": "Sat, 11 Feb 2023 02:40:07 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
