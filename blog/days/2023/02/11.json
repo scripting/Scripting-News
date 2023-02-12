@@ -1,0 +1,29 @@
+{
+    "created": "2023-02-11T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "11",
+    "path": "2023/02/11",
+    "text": "February 11",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Sounds like <a href=\"http://scripting.com/images/2023/02/11/beatlesWasteOfTime.png\">what</a> pundits say about <a href=\"https://chat.openai.com/chat\">Chatgpt</a> in 2023.",
+            "created": "Sat, 11 Feb 2023 18:44:48 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I was pulling my hair out trying to figure out why <a href=\"https://caddyserver.com/\">Caddy</a> wasn't working with Drummer's <a href=\"http://docserver.scripting.com/drummer/instantOutlines.opml\">websocket</a> code. I was writing a post for the Caddy repo, asking for help, when I noticed it was working. I changed absolutely nothing. Didn't reboot anything, or change any configuration settings. So now we're much closer to being able to redirect to the new site and let the users start checking it out for real. ",
+            "created": "Sat, 11 Feb 2023 18:50:51 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2023/02/11/pullingHair.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "One of the funny things about <a href=\"http://scripting.com/2023/02/10.html#a020506\">XML</a> is that they pitched developers saying \"Now you can create your own formats!\" I'm sure they meant it, but once \"RSS\" was established, they tried to replace it with an incompatible format. Luckily, the <a href=\"https://www.w3.org/\">W3C</a> wasn't as powerful as Apple or Google, and their format didn't replace \"RSS\". But, imho, when you push an open tech and someone takes you up on it, you should help, not fight them, ie if you really meant it.",
+            "created": "Sat, 11 Feb 2023 13:55:01 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
