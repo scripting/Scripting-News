@@ -1,0 +1,68 @@
+{
+    "created": "2023-02-13T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "13",
+    "path": "2023/02/13",
+    "text": "February 13",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "It's kind of screwed up when fellow independent developers who have little or no investment in Twitter as a platform gloat over its apparent collapse. Imagine if you had built on Apple and they were screwing around with their developer platform and in the process making their developers spin their wheels, or maybe go out of business. I've been in that place, with Apple, a number of times. It would be really poor form for a Windows developer to gloat. I hope friends who have invested in other platforms remember the Golden Rule. Today we're moving as fast as we can and burning out, to get out of the way of Twitter's careening dumpster fire. Next year it could be your turn. :boom:",
+            "created": "Mon, 13 Feb 2023 23:17:04 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2023/02/13/bozoApproved.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "ChatGPT clearly has a place",
+            "created": "Mon, 13 Feb 2023 14:41:05 GMT",
+            "type": "outline",
+            "description": "ChatGPT is a revolutionary tool. Kind of like Alta Vista was when the web first came out. ",
+            "subs": [
+                {
+                    "text": "This <a href=\"https://twitter.com/svpino/status/1624392828154712064\">thread</a> is worth money. I've given <a href=\"https://www.google.com/search?q=site%3Ascripting.com+chatgpt\">ChatGPT</a> programming jobs like the ones the author descibes, and it's saved me huge amounts of time. Last one was asking how to do something with the Twitter API. I could have spent fifteen minutes trying to find it in the docs, or on Stack Exchange, but I got the answer instead in a few seconds, and there was no bullshit, no preambles, just the answer to the question I asked. ",
+                    "created": "Mon, 13 Feb 2023 14:32:54 GMT",
+                    "type": "outline",
+                    "image": "http://scripting.com/images/2020/03/16/simcity.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Another example. Last summer I had a medical problem, and the local clinic that I go to is having problems keeping people on staff. My normal primary care physician, who I loved, had just retired (in her 40s) so I had to see three different doctors, and they all guessed wrong about what was afflicting me. Finally I got a new doctor and after two visits and one visit to a specialist, we had it nailed down, I got treatment and it's getting better. That's a full year of dealing with a problem because no one doctor could focus on the problem long enough to see what the problem was. As an experiment I tried entering the symptoms  to  ChatGPT and it warned me I should see a doctor, but then proceeded to get the diagnosis correct. This is the kind of thing that will save lives, improve overall health, and help our awful health system in the US cope with the fact that doctors are retiring because they have burnout jobs. It might even help the doctors cope with that reality and maybe not burn out in the first place. ",
+                    "created": "Mon, 13 Feb 2023 14:34:11 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The fact is that most of medicine is doing what ChatGPT does so well. Getting some data and then applying best practices. We all get the same treatment for the ailments we have and most of them are ordinary, <a href=\"https://en.wikipedia.org/wiki/Occam%27s_razor\">Occam's Razor</a> maladies (ie it usually is what it looks like it is and it usually is what everyone else has). ",
+                    "created": "Mon, 13 Feb 2023 14:43:35 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Journalists, who do most of the writing about news, immediately focus on how it might affect their careers, and imho educators zoom past the purpose of education, to create more better-educated people. As a kid, I had a party the day my parents bought us an encyclopedia. That meant we could settle arguments by getting facts. We could've gotten them before but that would've meant a trip to the library. Better tools make for better information. ChatGPT is a revolutionary tool. Kind of like <a href=\"https://en.wikipedia.org/wiki/AltaVista\">Alta Vista</a> was when the web first came out. I'm sure people screamed that it would screw up something. People always say that about change, esp people who are invested in the way things are. ",
+                    "created": "Mon, 13 Feb 2023 14:44:08 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Maybe there will be negative consequences of ChatGPT, but I'm sure we're not in a position to see what they are now, based on experience with similar changes. And maybe we'll look back on this moment twenty years from now, and not be able to imagine what life was like before we had this fantastic tool. ",
+                    "created": "Mon, 13 Feb 2023 14:55:49 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Pablo Picasso",
+            "created": "Mon, 13 Feb 2023 22:45:55 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://en.wikipedia.org/wiki/Science_and_Charity\">Science and Charity</a>, 1897.",
+                    "created": "Mon, 13 Feb 2023 22:46:00 GMT",
+                    "inlineImage": "http://scripting.com/images/2023/02/13/scienceAndCharity.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
