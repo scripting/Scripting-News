@@ -1,0 +1,7 @@
+{
+    "text": "I just redirected from <a href=\"http://drummer.scripting.com/\">drummer.scripting.com</a> to <a href=\"https://drummer.land/\">drummer.land</a>. So you can use Drummer once again. It's been down <a href=\"http://scripting.com/2023/02/04.html#a162658\">since Feb 4</a>, while it was retooled for email-based identity and HTTPS. It all appears to work as well as it did when we previously did identity with Twitter. It has been a really <a href=\"http://scripting.com/2023/02/10/023900.html\">stressful</a> couple of weeks, while working with developers on getting FeedLand open source release out, I had to also rip up Drummer and put in a new identity system. All the code was written but it still was an ugly transition, one you hope to never have to do. <a href=\"https://github.com/scripting/drummerSupport/issues/178\">Report problems here</a>. Remember to give us steps to reproduce. If we don't understand what the problem it'll be hard to fix it.",
+    "created": "Wed, 15 Feb 2023 15:58:06 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2019/09/10/drummer.png",
+    "flInCalendar": true
+}
