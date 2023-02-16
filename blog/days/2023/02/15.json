@@ -1,0 +1,36 @@
+{
+    "created": "2023-02-15T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "15",
+    "path": "2023/02/15",
+    "text": "February 15",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I just redirected from <a href=\"http://drummer.scripting.com/\">drummer.scripting.com</a> to <a href=\"https://drummer.land/\">drummer.land</a>. So you can use Drummer once again. It's been down <a href=\"http://scripting.com/2023/02/04.html#a162658\">since Feb 4</a>, while it was retooled for email-based identity and HTTPS. It all appears to work as well as it did when we previously did identity with Twitter. It has been a really <a href=\"http://scripting.com/2023/02/10/023900.html\">stressful</a> couple of weeks, while working with developers on getting FeedLand open source release out, I had to also rip up Drummer and put in a new identity system. All the code was written but it still was an ugly transition, one you hope to never have to do. <a href=\"https://github.com/scripting/drummerSupport/issues/178\">Report problems here</a>. Remember to give us steps to reproduce. If we don't understand what the problem it'll be hard to fix it.",
+            "created": "Wed, 15 Feb 2023 15:58:06 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/09/10/drummer.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1625954031800619027\">Thread</a>: I want a personal size lightly-federated chat system  for me and say 50 of my friends. Kind of like a Facebook group but not on Facebook obviously. ",
+            "created": "Wed, 15 Feb 2023 20:41:36 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "When I was in college we had an honor system. They didn't watch us that carefully because we swore we wouldn't cheat. I took that pledge seriously. ",
+            "created": "Wed, 15 Feb 2023 22:38:49 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "What I’d like to say to <a href=\"https://www.google.com/search?q=site%3Ascripting.com+kyrie+irving\">Kyrie Irving</a>. I know you don’t come from the US so you might not know that here Blacks and Jews are equal, in theory. We’re all fighting for that to be recognized. Legally we have the same rights and deserve the same respect. That’s why your behavior was both bewildering and unacceptable, and why you feel you were chased out of NYC, which is an especially tolerant part of he US because it is a cultural melting pot. We all have to get along, and accept and even celebrate our differences. Your view of the world just doesn’t fit in here. Maybe they’ll like you better in Dallas, but I’d be surprised if they do.  ",
+            "created": "Wed, 15 Feb 2023 14:29:33 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2023/02/15/jackieRobinson.png",
+            "flInCalendar": true
+        }
+    ]
+}
