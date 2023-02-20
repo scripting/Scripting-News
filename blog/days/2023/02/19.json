@@ -1,0 +1,30 @@
+{
+    "created": "2023-02-19T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "19",
+    "path": "2023/02/19",
+    "text": "February 19",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "If you're interested how the music of my generation (born 1955, Boomer) came about, I can't more highly recommend the two-part documentary <a href=\"https://www.metacritic.com/tv/laurel-canyon/season-1\">Laurel Canyon</a>, currently streaming on <a href=\"https://www.amazon.com/Laurel-Canyon-Season-1/dp/B0882JGTTV\">Amazon Prime</a>. I got real interested in the music of <a href=\"https://www.google.com/maps/place/Laurel+Canyon,+Los+Angeles,+CA+90046/@34.1173412,-118.3928177,14z/\">Laurel Canyon</a> when I was exploring the story of CSNY and all the members individually after David Crosby died. I wish I had been part of a creative community like that. That was what I was dreaming of for my life back then, and it was right there and until now I didn't know it existed. Learning a lot about my own life these days, by studying what was going on around it. I don't think any of this could have happened without Wikipedia, YouTube and podcasting. It's amazing how well our media cover history now. This could be the golden age of history. Weird idea, I know. ",
+            "created": "Sun, 19 Feb 2023 16:06:14 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2023/02/19/joniMitchellLadiesOfTheCanyon.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, I've now been through switching two HTTP apps to HTTPS, and what they say about it being easy to retrofit is just marketing, ie nah, it no more true than Node is single-threaded. In some cases, for a simple static website, it can be totally automatic. Check out <a href=\"https://caddyserver.com/docs/\">Caddy</a>. It's a miracle, if you think HTTPS is a requirement. But if you're talking about an app like \"Drummer\" or \"FeedLand\", it's a pretty large undertaking, with cascading problems, and fraught with opportunities for breakage that could be hard to find (I'll let you know in a year or two, knock wood). Using HTTPS means you have to use it in everything the app comes in contact with. Google and EFF as bright as they are haven't anticipated every way of building software on the net. This was a lesson I had learned before. We thought converting <a href=\"https://www.nytimes.com/1983/05/17/science/personal-computers-software-first-idea-processor.html\">ThinkTank</a> from the IBM PC and Apple II to the Mac would be easy. Ultimately we had to write a new product from scratch. The assumptions were different. But in that case <i>I</i> made the choice, not Google and the EFF. ",
+            "created": "Sun, 19 Feb 2023 15:44:08 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I need an outliner to manage my email drafts. In a perfect world I'd be able to plug one in. But we are very far from that. We were closer in the late 80s and early 90s. That was my goal then, to turn the apps of a GUI into toolkits for people who wrote scripts to connect them to create their own applications. Why should I have to write a whole word processor to have a new feature that no one else knows they need. If I could hook my emailer up to my outliner, I would get better use of the drafts I wrote. The ultimate goal is to do all my writing in my favorite writing app, and send <i>pointers</i> to the writing to the other apps, emailers, chat apps, CMSes, there would be only one original, and if I made a change to the original the updates would flow to all the places I sent pointers. Again we were much closer to this 30 years ago than we are now. But I think we have a chance to start fresh now with these goals. That's when you want to do this kind of integration for interop, at the beginning, before there are any apps. It's very hard to retrofit later, I can't say I've ever seen it work.  ",
+            "created": "Sun, 19 Feb 2023 15:37:27 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/08/15/chihuahua.png",
+            "flInCalendar": true
+        }
+    ]
+}
