@@ -1,0 +1,6 @@
+{
+    "text": "BTW, I've now been through switching two HTTP apps to HTTPS, and what they say about it being easy to retrofit is just marketing, ie nah, it no more true than Node is single-threaded. In some cases, for a simple static website, it can be totally automatic. Check out <a href=\"https://caddyserver.com/docs/\">Caddy</a>. It's a miracle, if you think HTTPS is a requirement. But if you're talking about an app like \"Drummer\" or \"FeedLand\", it's a pretty large undertaking, with cascading problems, and fraught with opportunities for breakage that could be hard to find (I'll let you know in a year or two, knock wood). Using HTTPS means you have to use it in everything the app comes in contact with. Google and EFF as bright as they are haven't anticipated every way of building software on the net. This was a lesson I had learned before. We thought converting <a href=\"https://www.nytimes.com/1983/05/17/science/personal-computers-software-first-idea-processor.html\">ThinkTank</a> from the IBM PC and Apple II to the Mac would be easy. Ultimately we had to write a new product from scratch. The assumptions were different. But in that case <i>I</i> made the choice, not Google and the EFF. ",
+    "created": "Sun, 19 Feb 2023 15:44:08 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
