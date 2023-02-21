@@ -1,0 +1,88 @@
+{
+    "created": "2023-02-20T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "20",
+    "path": "2023/02/20",
+    "text": "February 20",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I want to be AI'd",
+            "created": "Mon, 20 Feb 2023 19:07:59 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<b>The archive</b>",
+                    "created": "Mon, 20 Feb 2023 21:33:10 GMT",
+                    "subs": [
+                        {
+                            "text": "I’ve been writing on web 28+ years and all of it is archived in machine-readable form, no scraping needed.",
+                            "created": "Mon, 20 Feb 2023 19:08:07 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I’m fascinated by the idea of a ChatGPT type app digesting all my writing so I can ask \"myself\" various questions.",
+                            "created": "Mon, 20 Feb 2023 19:09:21 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Some writers are scared of having their archive turned into the learning material for an AI chatter, but not me. ",
+                            "created": "Mon, 20 Feb 2023 19:08:16 GMT",
+                            "isComment": "false",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I'd love to be a guinea pig.  ",
+                            "created": "Mon, 20 Feb 2023 19:11:17 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "If you need a license I will provide.",
+                            "created": "Mon, 20 Feb 2023 19:09:41 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Let me know. ",
+                            "created": "Mon, 20 Feb 2023 19:09:43 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<b>The idea</b>",
+                    "created": "Mon, 20 Feb 2023 21:32:20 GMT",
+                    "subs": [
+                        {
+                            "text": "The bot would appear to be me. ",
+                            "created": "Mon, 20 Feb 2023 21:32:32 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "So you'd say -- how old are you?",
+                            "created": "Mon, 20 Feb 2023 21:32:40 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "And it would answer -- 67.",
+                            "created": "Mon, 20 Feb 2023 21:32:42 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "What do you think of microsoft?",
+                            "created": "Mon, 20 Feb 2023 21:32:49 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "And then it would come up with the answer i would come up with.",
+                            "created": "Mon, 20 Feb 2023 21:32:55 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
