@@ -1,0 +1,7 @@
+{
+    "text": "The other day I <a href=\"http://scripting.com/2023/02/19.html#a154408\">wrote</a> about the problems that will appear unexpectedly because of the new rules imposed by HTTPS now that Drummer is running as an HTTPS app. One of the problems -- it totally broke <a href=\"http://docserver.scripting.com/drummer/instantOutlines.opml\">Instant Outlines</a>. If the user subscribes to an outline that's served under HTTP, the browser won't let us read it, because (I guess) they think we're loading code or private data. Neither is true. By definition the outline is public. There will be a workaround, we can call a server to read the file. I could be spending the time inventing new stuff, instead I'm mopping up after the EFF and Google. ",
+    "created": "Wed, 22 Feb 2023 02:19:24 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2019/10/03/queen.png",
+    "flInCalendar": true
+}
