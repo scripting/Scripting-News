@@ -1,0 +1,49 @@
+{
+    "created": "2023-02-22T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "22",
+    "path": "2023/02/22",
+    "text": "February 22",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://github.com/scripting/drummerSupport/issues/179\">Drummer blogging is now restored</a> on the new system. Things had to move around, of course, because of HTTPS. And the addresses of the blogs have changed too. Sorry, but we did a big migration there, you can see the role identity plays in online work. We were depending on a private company that became <a href=\"https://www.google.com/search?q=elon+musk+on+the+twitter+api\">wobbly</a>, so that's what caused the breakage. The foundations we build on on the 2023 web basically suck. Sorry I wish it weren't so.",
+            "created": "Wed, 22 Feb 2023 15:35:06 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/09/27/todd.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Even if a <a href=\"https://www.yahoo.com/now/mtg-tells-sean-hannity-divorce-060637697.html\">national divorce</a> were possible constitutionally, it would leave minorities in the new <a href=\"https://en.wikipedia.org/wiki/Confederate_States_of_America\">Confederacy</a> subject to all the abuses of fascist dictatorships like slavery and genocide. The United States guarantees rights to all, not just white Christians.",
+            "created": "Wed, 22 Feb 2023 15:27:50 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I never ask personal friends to subscribe to my <a href=\"http://scripting.com/email/\">nightly email</a>. I also never look to see who's subscribed. Not a guarantee I never will, but in practice, I don't want to know who's tuned in and who isn't. I don't ask personal friends to subscribe because they might choose not to, and that's not something I want to try to parse. Everyone's free to do as they want, and to not know what the choice was, unless the other party wants to make it known. Complicated? Yes, and still evolving. ",
+            "created": "Wed, 22 Feb 2023 13:56:49 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, I've been meaning to ask if there's anyone from <a href=\"https://en.wikipedia.org/wiki/Automattic\">Automattic</a> who is a regular reader? There's an interesting project being contemplated, and if you're in this loop you might be able to help. Contact me via email (on the <a href=\"http://scripting.com/?tab=about\">About page</a>). ",
+            "created": "Wed, 22 Feb 2023 14:00:30 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Jean Metzinger",
+            "created": "Thu, 23 Feb 2023 01:24:50 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://www.wikiart.org/en/jean-metzinger/les-baigneuses-1913\">Les Baigneuses</a>, 1913.",
+                    "created": "Thu, 23 Feb 2023 01:24:52 GMT",
+                    "inlineImage": "http://scripting.com/images/2023/02/22/baigneuses.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
