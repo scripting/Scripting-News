@@ -1,0 +1,6 @@
+{
+    "text": "I'm still trying to figure out how to retrofit Instant Outlining in <a href=\"http://docserver.scripting.com/drummer/electricDrummer.opml\">Electric Drummer</a> without having to implement support for the new email-based identity system. It's especially hard to do that for an Electron app, it took a huge effort to get Twitter identity in there. E/D stores files locally, and combined with <a href=\"https://github.com/scripting/publicfolder\">Public Folder</a>, means it doesn't need any help storing stuff where it's public accessible. The hard part, I'm finding, is to figure out where I need to stop it from overwriting one of the head-level attributes. I wrote all this code, but it's so freaking complicated. Having cleared that up, I'm now ready to take another approach. I'll let you know how it goes. ",
+    "created": "Thu, 23 Feb 2023 16:36:21 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
