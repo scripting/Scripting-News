@@ -1,0 +1,7 @@
+{
+    "text": "The vexing problem I explained <a href=\"http://scripting.com/2023/02/23.html#a163621\">yesterday</a> is solved. But not the way I expected it to go. I kept banging my head on the Electric Drummer codebase, and I couldn't get it to build. Of course I have a process for that, but it had been months since I did one, and somewhere in there something stopped working, silently. I gave up in frustration after a few hours of slogging, getting nowhere, and on my way out, cleaning up after my failed adventure, I realized I could do it without changing E/D at all. It's a long story, no space for it here -- but I wanted to close the loop. I am now able to edit my <a onclick=\"alert ('Instant Outline')\">I/O</a> in <a onclick=\"alert ('Electric Drummer')\">E/D</a> and I'm a <a onclick=\"alert ('Happy Camper')\">H/C</a>.",
+    "created": "Fri, 24 Feb 2023 15:03:33 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2017/12/26/bojack.png",
+    "flInCalendar": true
+}
