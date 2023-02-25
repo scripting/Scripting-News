@@ -1,0 +1,29 @@
+{
+    "created": "2023-02-24T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "24",
+    "path": "2023/02/24",
+    "text": "February 24",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "The vexing problem I explained <a href=\"http://scripting.com/2023/02/23.html#a163621\">yesterday</a> is solved. But not the way I expected it to go. I kept banging my head on the Electric Drummer codebase, and I couldn't get it to build. Of course I have a process for that, but it had been months since I did one, and somewhere in there something stopped working, silently. I gave up in frustration after a few hours of slogging, getting nowhere, and on my way out, cleaning up after my failed adventure, I realized I could do it without changing E/D at all. It's a long story, no space for it here -- but I wanted to close the loop. I am now able to edit my <a onclick=\"alert ('Instant Outline')\">I/O</a> in <a onclick=\"alert ('Electric Drummer')\">E/D</a> and I'm a <a onclick=\"alert ('Happy Camper')\">H/C</a>.",
+            "created": "Fri, 24 Feb 2023 15:03:33 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/12/26/bojack.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've been thinking about how memos work in highly structured organizations. When you're cc'd on a memo as CEO you like to see up front if there are no action items for you below, that this is just an FYI thing. When I was a CEO, a long time ago, I never had the time to read every sentence in every memo I was cc'd on, nor would it be appropriate. Everyone had to learn to be clear about the presence of action items before starting their narrative. Just putting an FYI at the top with a short list of people who have to act. Most memos, I found were totally informational, ie contained no action items for anyone. ",
+            "created": "Fri, 24 Feb 2023 15:30:56 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I used to live in <a href=\"https://en.wikipedia.org/wiki/Woodside,_California\">Woodside CA</a>, where snow on the ground was unheard of. <a href=\"https://www.reddit.com/r/bayarea/comments/11a3c2p/snow_in_woodside/\">Until today</a>. Wow. And now I live in Wood<i>stock</i> NY where snow this time of year is the norm, yet this year there has been almost none. ",
+            "created": "Fri, 24 Feb 2023 13:02:17 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
