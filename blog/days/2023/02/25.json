@@ -1,0 +1,42 @@
+{
+    "created": "2023-02-25T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "25",
+    "path": "2023/02/25",
+    "text": "February 25",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/azeem/status/1629404877536239617\">Azeem Azhar</a>: \"ChatGPT has organised much of the world’s information and made it easily accessible.\"",
+            "created": "Sat, 25 Feb 2023 21:14:09 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://chat.openai.com/chat\">ChatGPT</a> is basically a user interface for search, and it's a breakthrough. We can't and shouldn't go back. It's too good not to use.",
+            "created": "Sun, 26 Feb 2023 02:10:56 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Fixed a <a href=\"https://github.com/scripting/drummerSupport/issues/179#issuecomment-1445203627\">problem</a> in \"Drummer\". The <i>About</i> tab was missing in user blogs. A bit of breakage in the transition to the new identity system, fixed. ",
+            "created": "Sat, 25 Feb 2023 21:03:33 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The devolution of the web",
+            "created": "Sat, 25 Feb 2023 21:06:17 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "God bless our silos and screenshots of text, the only way our online systems can peer with each other.",
+                    "created": "Sat, 25 Feb 2023 21:07:54 GMT",
+                    "inlineImage": "http://scripting.com/images/2023/02/25/screenshotOfTexxt.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
