@@ -1,0 +1,42 @@
+{
+    "created": "2023-02-26T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "26",
+    "path": "2023/02/26",
+    "text": "February 26",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I mentioned <a href=\"http://scripting.com/2023/02/24.html#a150333\">the other day</a> that I was having trouble building \"Electric Drummer\" after many months of being focused on FeedLand. It appeared as if I wasn't able to get it to build. Problem solved. My written build instructions were missing a step. I couldn't move on until I solved this problem. Electric Drummer is essential software to my daily work. I do all my for-work writing here. That's a very basic thing, and something I might take on, starting from scratch with an online world that assumes the writers are <i>always</i> able to write in their favorite apps. If an online system can't accomodate this, we don't write for them. ",
+            "created": "Sun, 26 Feb 2023 16:26:52 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2023/02/26/hollyhock.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Anyway -- now that Electric Drummer is building, there are lots of things to fix now that the lower-level code that it uses has been fixed to accomodate HTTPS. When they say supporting HTTPS is a breeze, only if you don't already have a codebase. Those GoogleHoles are <i>sooo</i> sneaky. Just like Russian propagandists. It's okay this is the relatively easy stuff. Of course fixing these problems will break other things. Sigh.",
+            "created": "Sun, 26 Feb 2023 22:57:06 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Spoiler: Heaven Can Wait",
+            "created": "Sun, 26 Feb 2023 23:08:52 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Another favorite movie, <a href=\"https://www.metacritic.com/movie/heaven-can-wait\">Heaven Can Wait</a>, starring Warren Beatty and Julie Christie. He plays a football star named Joe Pendleton who is accidentally killed but when he gets to heaven they realize the error and send him back to earth in the body of Leo Farnsworth, a rich capitalist who is among other things is screwing a town where Julie Christie's family lives and she has come to protest. But Joe is a sweetheart hippie type, and a really a nice guy but he's in the body of an asshole. They fall in love anyway, but then the angel (played by James Mason) says Joe has to give up the body of the asshole, it's his turn to die for real, but he can have the body of another football player, so he tells Julie to watch out for a stranger who has a twinkle in his eye, and she has no idea wtf he's talking about. But then Farnsworth dies, and she's somehow at the big football game and meets the quarterback (who is really Joe but doesn't realize it) and they go off for coffee and you can tell they're going to fall in love and all is good. ",
+                    "created": "Sun, 26 Feb 2023 23:12:29 GMT",
+                    "image": "http://static.scripting.com/larryKing/images/2013/03/09/hcw.gif",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The point of course is you fall in love with the soul of a person, not their outward appearance.",
+                    "created": "Sun, 26 Feb 2023 23:15:39 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
