@@ -1,0 +1,6 @@
+{
+    "text": "I keep finding legit tasks for \"ChatGPT\". For example, I have a new <a href=\"https://github.com/scripting/opmlCloud/blob/main/desktop/iobridge.js\">utility</a> that hooks <a href=\"https://github.com/paulmillr/chokidar\">Chokidar</a> up to websockets. If a file is modified, a message goes to a <a href=\"https://github.com/scripting/opmlCloud/tree/main/server\">server</a>, which in turn forwards the message to N listeners. Chokidar is a very nice utility with lots of configuration options, but sparse docs. I wanted to know if there was anything I could do to improve latency, ie the time it takes for a change to a file to be noticed and acted on. The docs provide some vague clues, but when I asked ChatGPT if I could adjust the latency, it gave me a <a href=\"http://scripting.com/images/2023/02/27/reducelatencychokidar.png\">clear yes</a>, and showed me how to do it. Also suggested there might be lesser-known toolkits that would be better for this kind of application. ",
+    "created": "Mon, 27 Feb 2023 19:37:07 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
