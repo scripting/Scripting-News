@@ -1,0 +1,83 @@
+{
+    "created": "2023-03-02T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "02",
+    "path": "2023/03/02",
+    "text": "March 02",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=5TKIqU1AfNk\">Legalize It</a>.",
+            "created": "Thu, 02 Mar 2023 23:08:18 GMT",
+            "urlvideo": "https://www.youtube.com/watch?v=5TKIqU1AfNk",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The other day I was <a href=\"http://scripting.com/images/2023/03/02/kvelling.png\">kvelling</a> about <a href=\"https://twitter.com/davewiner/status/1630759941433589761\">how great ChatGPT was</a> at finding <a href=\"http://scripting.com/images/2023/03/02/paywalllessfeeds.png\">feeds for news sites</a> that didn't have paywalls. Until I noticed that some of the sites <a href=\"http://scripting.com/images/2023/03/02/oops1.png\">most definitely</a> did <a href=\"http://scripting.com/images/2023/03/02/oops2.png\">have paywalls</a>. So it's not perfect. It's a totally 1.0 kind of thing. If you don't know what that means, it might be a good time to re-read <a href=\"https://en.wikipedia.org/wiki/Microserfs\">Microserfs</a>. ",
+            "created": "Thu, 02 Mar 2023 20:31:58 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/10/04/goldenGirl.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, I wish ChatGPT would statically render their results pages, so I don't have to do screen shots just to quote them. Make it easier for us to promote our discoveries. It's so ridiculous that in 2023 we're still using screen shots as the way to hook networks together. ",
+            "created": "Thu, 02 Mar 2023 20:50:14 GMT",
+            "type": "tweet",
+            "tweetId": "1631396848119291906",
+            "tweetUserName": "davewiner",
+            "flInCalendar": true
+        },
+        {
+            "text": "Update: This project has the <a href=\"https://github.com/jcubic/chat-gpt/blob/master/bookmark.js\">source</a> to a bookmarklet that I used to create <a href=\"http://scripting.com/publicfolder/chatgpt/news-orgs-no-paywalls.html\">this static HTML version</a> of a conversation on ChatGPT. Problem solved. It could be packaged so it's more easily used by a non-technical user. But it's very nice to have as-is. <i>Thanks!</i>",
+            "created": "Thu, 02 Mar 2023 23:29:18 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Dirty Shirt",
+            "created": "Thu, 02 Mar 2023 21:20:00 GMT",
+            "type": "outline",
+            "description": "When my cousin sell me bad ganja he dirty shirted me man.",
+            "metaImage": "http://scripting.com/images/2023/03/02/rastaman.png",
+            "subs": [
+                {
+                    "text": "I've been to Jamaica a couple of times and I swear I've heard people use the term \"dirty shirt\" as a verb. My uncle Ken who lived in Negril for years, used the term too. ",
+                    "created": "Thu, 02 Mar 2023 21:22:34 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "What it means. When someone <i>dirty shirts</i> you, it's as if they did something that left a stain on your shirt, something obvious and not nice that everyone can see.",
+                    "created": "Thu, 02 Mar 2023 21:22:52 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Example: When my cousin sell me bad ganja he <i>dirty shirt</i> me man.",
+                    "created": "Thu, 02 Mar 2023 21:26:25 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But when I searched for the term <a href=\"https://www.google.com/search?rlz=1C5CHFA_enUS743US747&sxsrf=AJOqlzWNBsqdLDa4woVMkIinhiwcSHSpNg:1677792242754&q=%22dirty+shirt%22+%22jamaican%22+slang&sa=X&ved=2ahUKEwiegYuVl779AhVhMVkFHcFaDOoQ5t4CegQIMxAB&biw=1551&bih=1097&dpr=2\">on Google</a>, or <a href=\"http://scripting.com/images/2023/03/02/rastafariah.png\">asked ChatGPT</a>, they offered weird and wrong ideas for what the term means. ",
+                    "created": "Thu, 02 Mar 2023 21:23:16 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I checked in with my friend <a href=\"https://www.google.com/search?q=site%3Ascripting.com+Dave+Jacobs\">Dave Jacobs</a> about this, he has the same understanding of what the term means, but he couldn't find our definition anywhere on the web either. ",
+                    "created": "Thu, 02 Mar 2023 21:24:55 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "At least now the <a href=\"http://scripting.com/images/2023/03/02/googleScreen.png\">correct</a> definition will <a href=\"https://www.google.com/search?q=%22dirty+shirt%22+jamaican+slang\">show</a> up <a href=\"https://scripting.com/2023/03/02/211954.html?title=dirtyShirt\">here on my blog</a>.  ",
+                    "created": "Thu, 02 Mar 2023 21:29:52 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I find I'm starting to write like ChatGPT. Go figure. :smile:",
+                    "created": "Thu, 02 Mar 2023 21:29:55 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
