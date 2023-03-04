@@ -1,0 +1,23 @@
+{
+    "created": "2023-03-03T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "03",
+    "path": "2023/03/03",
+    "text": "March 03",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1631782848775462912\">Poll</a>: What's the difference between a Nazi and a neo-Nazi?",
+            "created": "Fri, 03 Mar 2023 22:25:46 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1631782848775462912",
+            "flInCalendar": true
+        },
+        {
+            "text": "A <a href=\"https://github.com/scripting/rssSpec\">GitHub repo</a> with the contents of the <a href=\"https://cyber.harvard.edu/rss/rss.html\">RSS 2.0 spec at Harvard</a>. No changes are contemplated, the spec has been frozen for 20+ years, but it's nice to have an off-site record.  ",
+            "created": "Fri, 03 Mar 2023 14:18:29 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
