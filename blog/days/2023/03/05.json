@@ -1,0 +1,48 @@
+{
+    "created": "2023-03-05T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "05",
+    "path": "2023/03/05",
+    "text": "March 05",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://github.com/Ranchero-Software/NetNewsWire/issues/3896\">NetNewsWire</a> will support <a href=\"http://scripting.com/2022/07/19/152235.html?title=devNotesForMarkdownInFeeds\">Markdown</a> in the 6.2 release. :boom:",
+            "created": "Sun, 05 Mar 2023 15:01:44 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's time to see what <a href=\"https://en.wikipedia.org/wiki/Tumblr\">Tumblr</a> is up to these days. I've had a <a href=\"https://scripting.tumblr.com/\">site</a> there for many years. Of course it has an <a href=\"https://scripting.tumblr.com/rss\">RSS feed</a>. Previous posts are in March 2014 and then May 2011. The feed looks pretty straightforward. Looks like every post must have a title? I don't remember it being so noisy?",
+            "created": "Sun, 05 Mar 2023 18:03:46 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "\"FeedLand\" already supports Markdown in <a href=\"http://docs.feedland.org/yourFeed.opml\">both</a> directions, with the <a href=\"http://source.scripting.com/#1653758422000\">source:markdown</a> element, of course. <a href=\"http://scripting.com/2021/12/16/153331.html?title=myProductIsInterop\">Interop</a>. ",
+            "created": "Sun, 05 Mar 2023 15:12:19 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "New rule: Idiots get muted. Assholes are blocked. ",
+            "created": "Sun, 05 Mar 2023 15:37:18 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Joan Crawford",
+            "created": "Sun, 05 Mar 2023 21:38:49 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"http://www.etiquetteer.com/columns/2018/11/27/joan-crawford-on-entertaining-vol-17-issue-60\">Joan Crawford on entertaining at home</a>. ",
+                    "created": "Sun, 05 Mar 2023 21:38:55 GMT",
+                    "inlineImage": "http://scripting.com/images/2023/03/05/crawford.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
