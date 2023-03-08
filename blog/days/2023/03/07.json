@@ -1,0 +1,34 @@
+{
+    "created": "2023-03-07T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "07",
+    "path": "2023/03/07",
+    "text": "March 07",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Please don't come out with something called Podcasting 2.0 or The Podcasting Authority or Podcasting As Designed By God. Come up with a <a href=\"http://scripting.com/publicfolder/chatgpt/2023/03/07/tech-codenames-in-past.html\">neutral code name</a>, and explain why what you're doing will benefit podcasting. And then sit down. :rocket:",
+            "created": "Tue, 07 Mar 2023 18:20:22 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"http://scripting.com/publicfolder/chatgpt/2023/03/07/first-blog-links-net.html\">I asked ChatGPT</a> what was the first weblog. And note, the response is archived on my own site, statically rendered, in HTML. Makes it easier to share results, and for those results to get into search engines. Screen shots are bullshit.  ",
+            "created": "Tue, 07 Mar 2023 18:16:21 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's source code for the <a href=\"https://gist.github.com/scripting/36bec44af6892abb870c5fa798bf7431\">Frontier script</a> that copies the chat-gpt files from the Downloads folder to a calendar-structured sub-folder of my publicfolder on scripting.com.",
+            "created": "Tue, 07 Mar 2023 22:06:35 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Manton Reece is our eyes and ears <a href=\"https://mastodon.social/@manton@manton.org/109982640710150526\">from BlueSkyLand</a>. I applied for a beta, but wasn't given one. Just as well, I'm loaded up to my ears with other stuff.",
+            "created": "Tue, 07 Mar 2023 16:22:49 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
