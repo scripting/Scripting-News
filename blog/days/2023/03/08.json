@@ -1,0 +1,127 @@
+{
+    "created": "2023-03-08T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "08",
+    "path": "2023/03/08",
+    "text": "March 08",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=uZj032MNIx4\">You Can't Hurry Love</a>. ",
+            "created": "Thu, 09 Mar 2023 03:58:14 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I asked ChatGPT for <a href=\"http://scripting.com/publicfolder/chatgpt/2023/03/08/supremes-top-10-songs.html\">ten popular songs</a> by The Supremes. ",
+            "created": "Thu, 09 Mar 2023 03:57:28 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "And a list of popular songs <a href=\"http://scripting.com/publicfolder/chatgpt/2023/03/08/cher-s-popular-songs.html\">by Cher</a>? Now all we need is an interface to Amazon Music so I can play the songs. Maybe some <a href=\"https://www.google.com/search?q=site%3Ascripting.com+%22checkbox+news%22\">checkboxes</a> next to list items. ",
+            "created": "Thu, 09 Mar 2023 04:51:56 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "While my posts on Mastodon tend to be better-distributed than my Twitter posts, the \"discussion\" there is every bit as insipid and pointless as it ever was on Twitter. People don't read the posts, don't click on the links, ask impossible-to-parse questions, I have no idea why they bother. I want small-scale friend-nets, that aren't connected to anything else. Just my best buds. I don't give a shit if anyone else reads it, or doesn't. I want quality. Sick and tired of all the mindless bullshit. ",
+            "created": "Thu, 09 Mar 2023 04:18:27 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/09/01/pumpItUp.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "ChatGPT breakthrough",
+            "created": "Wed, 08 Mar 2023 15:39:09 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I achieved something of a breakthrough with ChatGPT yesterday. I can now do the following: ",
+                    "created": "Wed, 08 Mar 2023 15:40:01 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Search for something in ChatGPT.",
+                            "created": "Wed, 08 Mar 2023 15:40:09 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Click on a bookmarklet.",
+                            "created": "Wed, 08 Mar 2023 15:40:18 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "A static HTML page opens, ready to be linked to from a blog post.",
+                            "created": "Wed, 08 Mar 2023 15:40:32 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's a <a href=\"https://www.youtube.com/watch?v=pB2RVlhm5SM\">video demo</a> that shows how it works.",
+                    "created": "Wed, 08 Mar 2023 15:41:04 GMT",
+                    "urlvideo": "https://www.youtube.com/watch?v=pB2RVlhm5SM",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's the <a href=\"http://scripting.com/publicfolder/chatgpt/2023/03/08/march-8-birthdays.html\">web page</a> generated in the demo.",
+                    "created": "Wed, 08 Mar 2023 15:59:26 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's the <a href=\"https://github.com/jcubic/chat-gpt\">bookmarklet</a> I am using, written by <a href=\"https://github.com/jcubic\">jcubic</a>. <i>Thanks!</i>",
+                    "created": "Wed, 08 Mar 2023 16:01:12 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's the <a href=\"https://gist.github.com/scripting/36bec44af6892abb870c5fa798bf7431\">Frontier script</a> that runs on my desktop, every second.",
+                    "created": "Wed, 08 Mar 2023 16:00:56 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's <a href=\"http://this.how/publicFolder/\">the app</a> that syncs a folder with a location on Amazon S3.",
+                    "created": "Wed, 08 Mar 2023 16:02:47 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "The Podcast Wars",
+            "created": "Wed, 08 Mar 2023 15:25:13 GMT",
+            "type": "outline",
+            "description": "In the end, podcasting will stay what it is. It always has. ",
+            "metaImage": "http://scripting.com/images/2022/07/01/pearlHarbor.png",
+            "subs": [
+                {
+                    "text": "Re the supposed re-invention of podcasting, coming to a tech tabloid soon... ",
+                    "created": "Wed, 08 Mar 2023 15:03:35 GMT",
+                    "image": "http://scripting.com/images/2019/08/15/chihuahua.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I probably should have explained <a href=\"http://scripting.com/2023/03/07.html#a182022\">yesterday</a> why having two or more groups claiming to be the future of something that currently no one is fighting over might damage the thing they say they’re trying to help (assuming they are saying that). We've been to this place before. How long before the press starts calling it The Podcast Wars. Some of us will try to douse the flames, to no avail. ",
+                    "created": "Wed, 08 Mar 2023 15:25:27 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "People choose <a href=\"http://scripting.com/publicfolder/chatgpt/2023/03/08/bombastic-meaning-4-words.html\">bombastic</a> names because they want more for themselves than they want for podcasting. I have a lot of experience with this. People are always looking for a way to make a billion dollars. It never occurs to them that if it all has to be for them, there will be nothing. Now a whole new generation has to learn that again, and as usual the thing that pays for it is podcasting. ",
+                    "created": "Wed, 08 Mar 2023 15:25:39 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I don't know all the people, or what they're planning to do, but the names they chose for their efforts tells me they don't want work with anyone, they may say they do, but they've reserved for themselves the authority over -- \"podcasting,\" if you can believe that bullshit. They're all little people trying to sound like big people. If you want to do some good for podcasting, throw your ideas out there in the middle, and fight for <a href=\"https://www.google.com/search?q=site%3Ascripting.com+interop\">interop</a>. When the other guy does something that you do, do it their way. That's how you build.",
+                    "created": "Wed, 08 Mar 2023 15:26:08 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "My sense is it's too late to fuck over podcasting, that it's mostly for the people involved that I ask them to lower expectations, and don't try to make this a business model. But if they want to do it, they'll do it and the press will have a <a href=\"https://www.google.com/search?q=%22podcast+wars%22\">new war</a> to write about, and in the end <a href=\"http://scripting.com/publicfolder/chatgpt/2023/03/08/podcasting-definition.html\">podcasting</a> will stay what it is. ",
+                    "created": "Wed, 08 Mar 2023 15:26:29 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
