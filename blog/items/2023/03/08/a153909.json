@@ -1,0 +1,57 @@
+{
+    "text": "ChatGPT breakthrough",
+    "created": "Wed, 08 Mar 2023 15:39:09 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I achieved something of a breakthrough with ChatGPT yesterday. I can now do the following: ",
+            "created": "Wed, 08 Mar 2023 15:40:01 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "Search for something in ChatGPT.",
+                    "created": "Wed, 08 Mar 2023 15:40:09 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Click on a bookmarklet.",
+                    "created": "Wed, 08 Mar 2023 15:40:18 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A static HTML page opens, ready to be linked to from a blog post.",
+                    "created": "Wed, 08 Mar 2023 15:40:32 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's a <a href=\"https://www.youtube.com/watch?v=pB2RVlhm5SM\">video demo</a> that shows how it works.",
+            "created": "Wed, 08 Mar 2023 15:41:04 GMT",
+            "urlvideo": "https://www.youtube.com/watch?v=pB2RVlhm5SM",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's the <a href=\"http://scripting.com/publicfolder/chatgpt/2023/03/08/march-8-birthdays.html\">web page</a> generated in the demo.",
+            "created": "Wed, 08 Mar 2023 15:59:26 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's the <a href=\"https://github.com/jcubic/chat-gpt\">bookmarklet</a> I am using, written by <a href=\"https://github.com/jcubic\">jcubic</a>. <i>Thanks!</i>",
+            "created": "Wed, 08 Mar 2023 16:01:12 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's the <a href=\"https://gist.github.com/scripting/36bec44af6892abb870c5fa798bf7431\">Frontier script</a> that runs on my desktop, every second.",
+            "created": "Wed, 08 Mar 2023 16:00:56 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's <a href=\"http://this.how/publicFolder/\">the app</a> that syncs a folder with a location on Amazon S3.",
+            "created": "Wed, 08 Mar 2023 16:02:47 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
