@@ -1,0 +1,47 @@
+{
+    "created": "2023-03-09T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "09",
+    "path": "2023/03/09",
+    "text": "March 09",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "There's a new test version of <a href=\"https://github.com/scripting/drummerSupport/issues/184\">Electric Drummer</a> for the Mac. ",
+            "created": "Thu, 09 Mar 2023 18:36:35 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Earlier today I used Google to try to find a <a href=\"http://this.how/standards/\">doc</a> I wrote a few years ago. I am the author. I have the <a href=\"http://this.how/standards/\">original</a>. Well a bunch of people copied my file and posted it on their sites, with their template and their ads (I don't have ads), and for whatever reason Google ranks their docs higher. Mine isn't even on the first page. So tell me, how is that Google isn't implementing a \"man in the middle\" attack? Why aren't they taking the heat for delivering incorrect results?",
+            "created": "Thu, 09 Mar 2023 21:58:14 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Same thing happened with the <a href=\"https://cyber.harvard.edu/rss/rss.html\">RSS 2.0 spec</a>. There is only one original. Try to <a href=\"https://www.google.com/search?q=rss+2.0&rlz=1C5CHFA_enUS743US747&oq=rss+2.0\">find it in Google</a>. Lotsa luck. There's so much bullshit on the search results page. It's amazing we're trained not to see the lies that Google passes off as facts, but somehow we're supposed to hold the startup accountable instead.",
+            "created": "Thu, 09 Mar 2023 22:03:29 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Then I asked ChatGPT where the RSS 2.0 spec is. <a href=\"http://scripting.com/publicfolder/chatgpt/2023/03/09/rss-2-0-specification.html\">They got it right</a>.  ❤️",
+            "created": "Thu, 09 Mar 2023 22:12:36 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm definitely going to see <a href=\"https://twitter.com/NoHardFeelings/status/1633845113096134661\">this Jennifer Lawrence movie</a>. ",
+            "created": "Thu, 09 Mar 2023 19:30:08 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/NoHardFeelings/status/1633845113096134661",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://www.azquotes.com/quote/634728\">Keith Richards</a>: \"To me, the main thing about living on this planet is to know who the hell you are and be real about it.\"",
+            "created": "Thu, 09 Mar 2023 18:36:14 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
