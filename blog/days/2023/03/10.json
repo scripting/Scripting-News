@@ -1,0 +1,74 @@
+{
+    "created": "2023-03-10T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "10",
+    "path": "2023/03/10",
+    "text": "March 10",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I asked ChatGPT to <a href=\"http://scripting.com/publicfolder/chatgpt/2023/03/10/house-listing-renovated-ranch.html\">write a Zillow-style ad</a> for a house in Hurley, NY. ",
+            "created": "Fri, 10 Mar 2023 20:51:53 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1634301797710852098\">Poll</a>: How broken is Twitter?",
+            "created": "Fri, 10 Mar 2023 21:15:01 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1634301797710852098",
+            "flInCalendar": true
+        },
+        {
+            "text": "A hundred years ago I asked a Microsoft exec when they’d ship open source and was told it’ll never happen, not in their DNA. <a href=\"http://scripting.com/publicfolder/chatgpt/2023/03/10/microsoft-open-source-software.html\">It happened</a>. When will Twitter peer with Masto?<a href=\"https://www.youtube.com/watch?v=eXygknVeLGE\">It could happen</a>. ",
+            "created": "Fri, 10 Mar 2023 23:30:46 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "What ChatGPT could become",
+            "created": "Fri, 10 Mar 2023 23:39:28 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "The thing I look for in \"ChatGPT\" style products are new interesting information sets. ",
+                    "created": "Fri, 10 Mar 2023 23:39:44 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'd love to work out some JSON-based formats for flowing writing through the engine.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'd like to know the cost. And how much human work is involved.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Is this written up anywhere?",
+                    "created": "Fri, 10 Mar 2023 23:39:54 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Ultimately -- we'll use ChatGPT style apps in place of Wikipedia and Google. ",
+                    "created": "Fri, 10 Mar 2023 23:40:03 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This is like GUIs to character based.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Or the open internet to proprietary LANs.",
+                    "created": "Fri, 10 Mar 2023 23:40:19 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Another generation of every information app on the net, and that's more or less the whole net. A top-to-bottom rewrite. ",
+                    "created": "Fri, 10 Mar 2023 23:40:21 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
