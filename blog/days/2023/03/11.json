@@ -1,0 +1,29 @@
+{
+    "created": "2023-03-11T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "11",
+    "path": "2023/03/11",
+    "text": "March 11",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "In five years most of us won't be using Google-like search engines. ",
+            "created": "Sat, 11 Mar 2023 20:50:02 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "For some people using Mastodon is a political cause like being a Republican. I try to avoid the <a href=\"http://scripting.com/publicfolder/chatgpt/2023/03/11/demagoguery-appeal-to-emotions.html\">demagoguery</a> by unfollowing, even blocking people, but it must be growing, because increasingly it can't be avoided and more and more of the messages are touting events that I know are pretty freaking insignificant. As an implementer, you have to watch out if you support features that are only in Mastodon and not based on ActivityPub. Which suggests that as the bigco's start implementing AP support, they're all going to face a conundrum. If we want users to think what we're doing is anything more than symbolic, we're going to have to use the Mastodon API and not ActivityPub, because no one else is doing it in AP, therefore there's nothing to interop with or test against. It's hard to promote a feature when you've never been able to test it. The whole thing is pretty shaky. And most people aren't aware of the subtleties. Time to get out a bucket of popcorn and stay on the sidelines until some of this becomes real. ",
+            "created": "Sat, 11 Mar 2023 15:21:41 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/05/27/popcorn.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you're a current FeedLand user and you haven't yet <a href=\"https://github.com/scripting/feedlandSupport/issues/151\">registered an email address</a> with your Twitter-based account, now is the time to do so. We're going to be switching the whole system over to email-based accounts soon, and it'll be more difficult to transition your account if you haven't taken this step. :boom:",
+            "created": "Sat, 11 Mar 2023 15:04:13 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
