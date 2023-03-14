@@ -1,0 +1,7 @@
+{
+    "text": "To <a href=\"http://scripting.com/email/\">email subscribers</a>, sorry for the glitch last night. Probably due to the switch to Daylight Savings Time, the wrong version of Scripting News went out at midnight. This feels familiar, but there's nothing in my notes about how to work around this. I will have a look at the code during the day today and see if I can figure out what went wrong. I was able to get the correct email to go out at 6AM EDT today by editing the stats.json file for the app to indicate that the email for the day hadn't yet gone out, and it immediately started sending out the correct email. ",
+    "created": "Mon, 13 Mar 2023 13:28:13 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2019/05/16/weTryHarder.png",
+    "flInCalendar": true
+}
