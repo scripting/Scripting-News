@@ -1,0 +1,84 @@
+{
+    "created": "2023-03-15T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "15",
+    "path": "2023/03/15",
+    "text": "March 15",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "My blog is being taken over by ChatGPT. It sometimes can replace four apps I used previously: Google, GitHub, Twitter, Wikipedia.",
+            "created": "Wed, 15 Mar 2023 16:20:57 GMT",
+            "type": "tweet",
+            "tweetId": "1636040072238710784",
+            "tweetUserName": "davewiner",
+            "flInCalendar": true
+        },
+        {
+            "text": "I was wondering how I could create something that behaved like an app on the Mac desktop from a page in Chrome. I want to use web Drummer to write docs about something I'm working on in Electric Drummer. It helps to have each in its own window for something like that, rather than switching back and forth between tabs. I was going to post a braintrust query but realized I could <a href=\"http://scripting.com/publicfolder/chatgpt/2023/03/15/chrome-page-to-app.html\">use ChatGPT</a> and get the answer right away. It seems to have worked. ",
+            "created": "Wed, 15 Mar 2023 16:16:12 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I kind of like the idea of letting the <a href=\"http://scripting.com/publicfolder/chatgpt/2023/03/15/google-reader-shutdown.html\">ChatGPT version of history</a> be the authoritative one. In the record of my own life, it's more accurate than Wikipedia, which has been hacked mercilessly since inception by opportunistic credit-takers",
+            "created": "Wed, 15 Mar 2023 16:04:57 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I am surprised when things that depend on Twitter still work.",
+            "created": "Wed, 15 Mar 2023 16:22:29 GMT",
+            "type": "tweet",
+            "tweetId": "1636040240124112896",
+            "tweetUserName": "davewiner",
+            "flInCalendar": true
+        },
+        {
+            "text": "Register RSS piece",
+            "created": "Wed, 15 Mar 2023 15:40:44 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "It was the tenth anniversary of Google shutting down their <a href=\"http://scripting.com/publicfolder/chatgpt/2023/03/15/google-reader-shutdown.html\">Reader</a> product. ",
+                    "created": "Wed, 15 Mar 2023 15:40:50 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The Register had some questions, which I answered via a voicemail, <a href=\"http://scripting.com/2023/03/15/interviewAnswersForRegister.m4a\">included here</a>. ",
+                    "created": "Wed, 15 Mar 2023 15:41:03 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It turned into an <a href=\"https://www.theregister.com/2023/03/14/requiem_for_google_reader/\">article</a>, which I offered some corrections:",
+                    "created": "Wed, 15 Mar 2023 15:41:25 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "<a href=\"https://en.wikipedia.org/wiki/UserLand_Software\">UserLand Software</a> no longer exists, I left in 2002, and we shut it down a few years later. I'm just a person now, not part of any company.",
+                            "created": "Wed, 15 Mar 2023 15:41:40 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "RSS 1.0 was not a fork, not sure how you'd characterize it, but it was definitely not a fork. It was a whole new syntax, had no compatibility with RSS 0.91.",
+                            "created": "Wed, 15 Mar 2023 15:41:50 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "RSS 2.0, which appears to have been left out, was finished in September 2002, and was supported by the New York Times, and thus was supported by the whole news industry and became the standard. Though some disagree, it was backward-compatible with RSS 0.91 and 0.92.",
+                            "created": "Wed, 15 Mar 2023 15:41:52 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Atom was a new format, again -- not a fork. It gained some popularity and is still in use.",
+                            "created": "Wed, 15 Mar 2023 15:41:56 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
