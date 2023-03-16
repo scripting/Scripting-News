@@ -1,0 +1,46 @@
+{
+    "text": "Register RSS piece",
+    "created": "Wed, 15 Mar 2023 15:40:44 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "It was the tenth anniversary of Google shutting down their <a href=\"http://scripting.com/publicfolder/chatgpt/2023/03/15/google-reader-shutdown.html\">Reader</a> product. ",
+            "created": "Wed, 15 Mar 2023 15:40:50 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The Register had some questions, which I answered via a voicemail, <a href=\"http://scripting.com/2023/03/15/interviewAnswersForRegister.m4a\">included here</a>. ",
+            "created": "Wed, 15 Mar 2023 15:41:03 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "It turned into an <a href=\"https://www.theregister.com/2023/03/14/requiem_for_google_reader/\">article</a>, which I offered some corrections:",
+            "created": "Wed, 15 Mar 2023 15:41:25 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "<a href=\"https://en.wikipedia.org/wiki/UserLand_Software\">UserLand Software</a> no longer exists, I left in 2002, and we shut it down a few years later. I'm just a person now, not part of any company.",
+                    "created": "Wed, 15 Mar 2023 15:41:40 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "RSS 1.0 was not a fork, not sure how you'd characterize it, but it was definitely not a fork. It was a whole new syntax, had no compatibility with RSS 0.91.",
+                    "created": "Wed, 15 Mar 2023 15:41:50 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "RSS 2.0, which appears to have been left out, was finished in September 2002, and was supported by the New York Times, and thus was supported by the whole news industry and became the standard. Though some disagree, it was backward-compatible with RSS 0.91 and 0.92.",
+                    "created": "Wed, 15 Mar 2023 15:41:52 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Atom was a new format, again -- not a fork. It gained some popularity and is still in use.",
+                    "created": "Wed, 15 Mar 2023 15:41:56 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
