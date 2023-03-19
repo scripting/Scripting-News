@@ -1,0 +1,47 @@
+{
+    "created": "2023-03-18T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "18",
+    "path": "2023/03/18",
+    "text": "March 18",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "A steady flow of new signups on the <a href=\"https://feedland.org/\">first FeedLand server</a>. ",
+            "created": "Sat, 18 Mar 2023 15:42:39 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Docs: <a href=\"http://docs.feedland.org/firstThings.opml\">Starting up in FeedLand</a>.",
+            "created": "Sat, 18 Mar 2023 20:07:08 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Almost everything you do on FeedLand is public. You can read anyone else's feed list. Example, <a href=\"https://feedland.org/?username=KenSmith\">Ken Smith's list</a>. If you're signed in, to subscribe to a feed just click the feed's checkbox. You can also see <a href=\"https://feedland.org/?userslist\">who's been on</a> recently, when they signed up, how many feeds they subscribe to, and how many pages they've viewed. You can also see the feeds that have recently been <a href=\"https://feedland.org/?log\">subscribed to</a>. The idea is to make feed discovery as easy as it possibly can be. We steal (and improve on) ideas from social media apps that didn't exist last time I took a fresh look at feed systems. I don't think of FeedLand as a feed reader -- it's more of a feed management system, imho.",
+            "created": "Sat, 18 Mar 2023 15:43:42 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2023/03/18/accordionGuy.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I first wrote about the use of checkboxes in this way (see above) in 2007. I called it <a href=\"http://scripting.com/stories/2007/04/24/checkboxNews.html\">Checkbox News</a>.",
+            "created": "Sat, 18 Mar 2023 16:04:35 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Another important feature, <a href=\"https://feedland.org/?userfeedsnews=true\">every user has their own feed</a>, which you can edit in FeedLand, of course. To write a post, click in the edit box at the top of the page, type some text, click the Post button. It should show up in the list of user-feed posts, below. If you want to edit one of your posts, click on the text, make <a href=\"http://scripting.com/images/2023/03/18/editingAPost.png\">the changes</a>, click the Update button. Of course there's an <a href=\"https://feedland.org/?feedurl=http%3A%2F%2Fscripting.com%2Ffeedland%2Fuserfeeds%2Fdavewiner.xml\">RSS feed</a> for each user, which you can subscribe to in FeedLand or any other RSS-compatible application (there are many, as I'm sure you know). ",
+            "created": "Sat, 18 Mar 2023 15:51:58 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's important for users to have their own feed in the same way it was good to be able to develop software for the Mac on a Mac. Most users will never make a software product, and maybe most FeedLand users won't write publicly, but you want to make it was easy as possible for people to contribute to the ecosystem they use. It's a philosophy of the active not-just-eyeballs users. It's a basic democratic idea. ",
+            "created": "Sat, 18 Mar 2023 19:50:15 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
