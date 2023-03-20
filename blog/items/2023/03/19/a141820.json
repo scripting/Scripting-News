@@ -1,0 +1,6 @@
+{
+    "text": "In \"FeedLand\", if you're being asked to log in every time you go to the site, you're probably opening it via a bookmark that goes to the old URL. The easiest fix is to edit bookmark so it goes to <a href=\"https://feedland.org/\">https://feedland.org/</a> -- note the <i>https.</i> Another fix is to do a <a href=\"http://scripting.com/publicfolder/chatgpt/2023/03/19/new-chat.html\">hard-reload</a> of the page. This will force a new version to reload. It redirects if it gets a non https request. ",
+    "created": "Sun, 19 Mar 2023 14:18:20 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
