@@ -1,0 +1,23 @@
+{
+    "created": "2023-03-19T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "19",
+    "path": "2023/03/19",
+    "text": "March 19",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "In \"FeedLand\", if you're being asked to log in every time you go to the site, you're probably opening it via a bookmark that goes to the old URL. The easiest fix is to edit bookmark so it goes to <a href=\"https://feedland.org/\">https://feedland.org/</a> -- note the <i>https.</i> Another fix is to do a <a href=\"http://scripting.com/publicfolder/chatgpt/2023/03/19/new-chat.html\">hard-reload</a> of the page. This will force a new version to reload. It redirects if it gets a non https request. ",
+            "created": "Sun, 19 Mar 2023 14:18:20 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I get that people don't like that ChatGPT will return incorrect results. But as a software developer, I can experiment with the product with that caveat, and imagine its uses once the quality of the results are better, however they achieve that. I don't have to wait to think, in other words. With that disclaimer, I searched for docs about how to do a hard-reload in popular browsers. Those docs are hard to find, and when you find one it's heavily monetized. So instead, I asked ChatGPT to write a <a href=\"http://scripting.com/publicfolder/chatgpt/2023/03/19/new-chat.html\">docs page</a> to answer this question. Looks pretty good to me! No bullshit in the page either. ",
+            "created": "Sun, 19 Mar 2023 14:29:52 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/06/14/strongman.png",
+            "flInCalendar": true
+        }
+    ]
+}
