@@ -1,0 +1,28 @@
+{
+    "text": "Don't conflate",
+    "created": "Mon, 20 Mar 2023 15:24:33 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "One thing you should never do in reporting a bug is conflate two events that might not have anything to do with each other. ",
+            "created": "Mon, 20 Mar 2023 15:24:39 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I have to work to figure out that you're doing this. Esp when a lot of unnecessary info is mixed in. ",
+            "created": "Mon, 20 Mar 2023 15:24:52 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Because theories like this from people who aren't familiar with how the code works behind the scenes (no reason you should be) almost never get this right.",
+            "created": "Mon, 20 Mar 2023 15:25:06 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "You have to boil it down to the minimal number of steps-to-reproduce. Those are facts that are incontrovertible. That one problem caused another? Probably not. In general. ",
+            "created": "Mon, 20 Mar 2023 15:25:13 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
