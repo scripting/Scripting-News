@@ -1,0 +1,89 @@
+{
+    "created": "2023-03-20T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "20",
+    "path": "2023/03/20",
+    "text": "March 20",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "A cool feature for FeedLand users. When you <i>Like</i> an item, it's automatically added to two RSS feeds -- one for <a href=\"http://data.feedland.org/likes/davewiner.xml\">your likes</a>, and one for the <a href=\"http://data.feedland.org/likes/all.xml\">likes of all users</a> on your FeedLand.It's basically a single-gesture linkblog. There's a lot of that in FeedLand, where things have been factored to a point where they couldn't possibly be simpler. Of course since they're standard \"RSS\" feeds, you could follow them from any feed reader. ",
+            "created": "Mon, 20 Mar 2023 15:51:49 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Archive of my blog from <a href=\"http://scripting.com/2003/03.html\">March 2003</a>, marking the start of the war in Iraq, and my arriving in Cambridge to begin my fellowship at <a href=\"https://cyber.harvard.edu/\">Berkman</a>.",
+            "created": "Mon, 20 Mar 2023 13:44:26 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Reading my notes on being at Harvard, it sounds like <a href=\"https://en.wikipedia.org/wiki/Mr._Smith_Goes_to_Washington\">Mr Smith Goes to Washington</a>. I was very excited, and it shows. In hindsight, I was about to have some great adventures. One of the best experiences of my life. Now twenty years later, I'm still very grateful for having had the opportunity to work with the people I met at Harvard, and the power afforded to me with the H-bomb business card. The friends I made there still benefit me to this day, and the things we accomplished really did make a difference. ",
+            "created": "Mon, 20 Mar 2023 13:45:28 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2023/03/20/mrSmith.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "So it's been twenty years since I started at Berkman. Thanks to <a href=\"https://en.wikipedia.org/wiki/Charles_Nesson\">Charlie Nesson</a>, <a href=\"https://en.wikipedia.org/wiki/Jonathan_Zittrain\">Jon Zittrain</a> and <a href=\"https://en.wikipedia.org/wiki/John_Palfrey\">John Palfrey</a> for giving me the chance. Met so many who became lifelong friends, and the things we accomplished really did make a difference. ",
+            "created": "Mon, 20 Mar 2023 16:07:35 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I remember when I got a key to the building. I didn't ask for it, and I certainly didn't expect it.  My first thought was hmmm i wonder what i can do with <i>this?</i>  That's where the regular Thursday evening meetup came from.",
+            "created": "Mon, 20 Mar 2023 16:08:26 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The first thing I did when I started at Berkman, twenty years ago, was to get a blogging server up and running. It was 2003, so I used \"Manila\", a product we made at UserLand. It was the first weblog server at any university, in the world. Early days. A few years after I left they converted to WordPress. A solid move both times because by then UserLand had shut down and the default blogging server was the software made by my friend Matt. ",
+            "created": "Mon, 20 Mar 2023 16:09:41 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I took this picture",
+            "created": "Tue, 21 Mar 2023 02:30:25 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Central Park, March 20, 2016.",
+                    "created": "Tue, 21 Mar 2023 02:30:35 GMT",
+                    "inlineImage": "http://scripting.com/images/2023/03/20/centralPark.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Don't conflate",
+            "created": "Mon, 20 Mar 2023 15:24:33 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "One thing you should never do in reporting a bug is conflate two events that might not have anything to do with each other. ",
+                    "created": "Mon, 20 Mar 2023 15:24:39 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I have to work to figure out that you're doing this. Esp when a lot of unnecessary info is mixed in. ",
+                    "created": "Mon, 20 Mar 2023 15:24:52 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Because theories like this from people who aren't familiar with how the code works behind the scenes (no reason you should be) almost never get this right.",
+                    "created": "Mon, 20 Mar 2023 15:25:06 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You have to boil it down to the minimal number of steps-to-reproduce. Those are facts that are incontrovertible. That one problem caused another? Probably not. In general. ",
+                    "created": "Mon, 20 Mar 2023 15:25:13 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
