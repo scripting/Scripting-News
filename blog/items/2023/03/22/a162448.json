@@ -1,0 +1,6 @@
+{
+    "text": "I'm working on a command-line tool that connects to S3 among other things. But there's a problem. When the app opens, ie every time you issue a command, we get a multi-line message from the AWS package saying it's time to convert to the new version of their API. Okay great. I guess now I finally have to do it. So I go to their website and like all Amazon docs, it never gets to the fucking point. I have all my S3 code in one package, so it should be easy for me to transition. And why can't they make their API as simple as mine. They just burn your time this way. Really fucked up. Anyway, please if you have any ideas, I have just this code to convert. ",
+    "created": "Wed, 22 Mar 2023 16:24:48 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
