@@ -1,0 +1,61 @@
+{
+    "created": "2023-03-23T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "23",
+    "path": "2023/03/23",
+    "text": "March 23",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Looking for Chat/AI expertise",
+            "created": "Thu, 23 Mar 2023 18:25:17 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "As you know if you read this blog, I've been intrigued and enthusiastic <a href=\"https://www.google.com/search?q=site%3Ascripting.com+chatgpt\">about ChatGPT</a> as many people have, and specifically am anxious to load up one of these with the content of my blog so I can see what can be learned from the aggregation of what I've written. ",
+                    "created": "Thu, 23 Mar 2023 18:25:38 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "I have over 25 years of archive, all in \"OPML\", a flavor of XML. ",
+                            "created": "Thu, 23 Mar 2023 18:26:56 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Of course OPML can be converted into any other reasonable XML or JSON-based format. ",
+                            "created": "Thu, 23 Mar 2023 18:27:26 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "It's all by one author, <a href=\"http://davewiner.com/\">me</a>, covering roughly the same topics for all those years, including pointers to source sites.",
+                            "created": "Thu, 23 Mar 2023 18:27:40 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "For reference, here are <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog/opml\">two</a> GitHub <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog/opmlOtherSources\">locations</a> where my archive is stored. You're welcome to experiment with it. ",
+                            "created": "Thu, 23 Mar 2023 18:29:55 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "As I've been writing about this, another blogger, <a href=\"https://seths.blog/\">Seth Godin</a>, has the same thought about his \"corpus.\"",
+                    "created": "Thu, 23 Mar 2023 18:28:34 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "We'd like to work with a developer or group of developers who have mastered the technology behind ChatGPT and other similar systems. We don't want to become experts in this technology. But we are willing to do the work to get our data in a compatible format.  ",
+                    "created": "Thu, 23 Mar 2023 18:28:57 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If you want to discuss, I've started a <a href=\"https://github.com/scripting/Scripting-News/issues/254\">thread here</a>. ",
+                    "created": "Thu, 23 Mar 2023 18:30:15 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
