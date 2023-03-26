@@ -1,0 +1,41 @@
+{
+    "text": "my.feedland.org",
+    "created": "Sat, 25 Mar 2023 18:18:48 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "A small change --",
+            "created": "Sat, 25 Mar 2023 18:19:07 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "Before the recent transition, when you chose <i>My News Product</i> from the menu, it would open your news product on my.feedland.org.",
+                    "created": "Sat, 25 Mar 2023 18:19:10 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "After the transition, it opens the same page on newsproduct.scripting.com. This was an oversight, and imho incorrect.",
+                    "created": "Sat, 25 Mar 2023 18:19:41 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Now it reverts back to my.feedland.org, which is imho a much more appropriate name.",
+                    "created": "Sat, 25 Mar 2023 18:19:11 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "My new product is at: <a href=\"http://my.feedland.org/davewiner\">my.feedland.org/davewiner</a>.",
+            "created": "Sat, 25 Mar 2023 18:20:08 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "PS: Here are the <a href=\"http://docs.feedland.org/newsProducts.opml\">docs</a> for news products. ",
+            "created": "Sun, 26 Mar 2023 00:52:41 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
