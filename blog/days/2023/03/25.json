@@ -1,0 +1,101 @@
+{
+    "created": "2023-03-25T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "25",
+    "path": "2023/03/25",
+    "text": "March 25",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=15YgdrhrCM8\">We'll Meet Again</a>.  ",
+            "created": "Sun, 26 Mar 2023 01:01:51 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Knowing yourself is like a <a href=\"https://en.wikipedia.org/wiki/Twelve-step_program\">12-step program</a>. Sometimes you drop down a few levels into the trance, and you need a \"sponsor\" to help you pull yourself out of it. Obviously no one else can pull you out, you have to do it. A friend can help. ",
+            "created": "Sat, 25 Mar 2023 19:50:34 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/11/20/offWithTheirHeads.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's the thing about Twitter. Since they started showing the number of impressions on every tweet, you can see how meaningless the number of followers is. You could have 66.7K followers, but <a href=\"https://twitter.com/davewiner/status/1639404110725402626\">your tweet</a> might still only get <a href=\"http://scripting.com/images/2023/03/25/tweetscreen.png?nodialog\">764 views</a>. Once, a long time ago, Twitter was a flow machine. Now it's like a <a href=\"https://www.kpbs.org/news/local/2022/11/29/drying-california-lake-to-get-250m-in-us-drought-funding\">dry lakebed</a>. A void. It looks like Twitter used to look, but looks aren't everything. ",
+            "created": "Sat, 25 Mar 2023 18:02:12 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "If there were no \"organic\" blue checkmarks on Twitter would you <a href=\"https://www.cnn.com/2023/03/24/tech/twitter-verified-checkmarks/index.html\">pay $84 a year</a> for a blue checkmark, given that everyone who saw it would know that all it means is that you paid Twitter $84 a year?",
+            "created": "Sat, 25 Mar 2023 14:01:07 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "On the dark side, AI is going to be a great tool for 1984-type governments, because with a single script you could rewrite history everywhere. Write people out, and other people in. Kind of like Wikipedia of course, nothing new actually. :rocket:",
+            "created": "Sun, 26 Mar 2023 00:56:09 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW,  please -- someone should offer a package that can load a series of RSS feeds into ChatGPT. Here's a <a href=\"https://github.com/scripting/reallysimple\">Node package</a> I wrote that makes reading a feed as simple as it can possibly be. ",
+            "created": "Sat, 25 Mar 2023 17:55:47 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"http://scripting.com/publicfolder/chatgpt/2023/03/25/load-blog-to-chatgpt.html\">I asked a question of ChatGPT</a>:  \"I have a blog with archives going back to 1994. I'd like to have that content loaded into ChatGPT so it can be part of the knowledge base. I am a JavaScript programmer. What's the easiest way to get a quick result?\" I understand the code, I think -- but I'm no closer to understanding what to do. How do I come up with the prompts? What if I have no prompts, what's the result? They say be careful of the cost, what is the cost based on. I feel lost like I did when I first saw what the web could do, I wanted to know -- how do I set up a node on the next. The answers I got from those in the know made no sense to me, until they did. Here's a <a href=\"https://github.com/scripting/Scripting-News/issues/254#issuecomment-1483882581\">place</a> to comment. ",
+            "created": "Sat, 25 Mar 2023 17:50:04 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/01/13/davesCoffee.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I wish journalists would pay more attention to issues a bit further away than their own navels.",
+            "created": "Sat, 25 Mar 2023 14:02:13 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "my.feedland.org",
+            "created": "Sat, 25 Mar 2023 18:18:48 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "A small change --",
+                    "created": "Sat, 25 Mar 2023 18:19:07 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Before the recent transition, when you chose <i>My News Product</i> from the menu, it would open your news product on my.feedland.org.",
+                            "created": "Sat, 25 Mar 2023 18:19:10 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "After the transition, it opens the same page on newsproduct.scripting.com. This was an oversight, and imho incorrect.",
+                            "created": "Sat, 25 Mar 2023 18:19:41 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Now it reverts back to my.feedland.org, which is imho a much more appropriate name.",
+                            "created": "Sat, 25 Mar 2023 18:19:11 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "My new product is at: <a href=\"http://my.feedland.org/davewiner\">my.feedland.org/davewiner</a>.",
+                    "created": "Sat, 25 Mar 2023 18:20:08 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: Here are the <a href=\"http://docs.feedland.org/newsProducts.opml\">docs</a> for news products. ",
+                    "created": "Sun, 26 Mar 2023 00:52:41 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
