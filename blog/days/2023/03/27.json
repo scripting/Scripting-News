@@ -1,0 +1,37 @@
+{
+    "created": "2023-03-27T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "27",
+    "path": "2023/03/27",
+    "text": "March 27",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I watch <a href=\"https://en.wikipedia.org/wiki/Succession_(TV_series)\">Succession</a>, the HBO drama. Spoilers follow. Last night was the first episode of the last season. At the end, two characters who are married came to the conclusion they'll divorce. A sad moment, beautifully acted. The scene ends with them lying on a bed together, clothed, far apart, but holding hands. I thought, if you're going to do it, this is the way. Let there be at least a little love in the last moment. ",
+            "created": "Mon, 27 Mar 2023 20:49:04 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2023/03/27/successionPoster.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "It would be nice if someone developed a Mastodon gateway for apps. A system that played the role that twitter.com played for the Twitter API (only it would be really easy to be better, btw). Otherwise does every developer really have to do one of their own? That's gotta be factorable. Just because Twitter is languishing, it doesn't mean that a new system that does what Twitter did, without any of the Muskness or history, couldn't come in and fill the space occupied by Twitter. Don't assume people don't want. I bet a lot do. Learned this from our experience with RSS. You have to accept facts, not be wishful about these things. Be prepared. ",
+            "created": "Mon, 27 Mar 2023 14:35:11 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Watching the demonstrations in Israel, I wonder why this hasn't happened yet in the United States after the Dobbs decision. What will it take to get our people to feel the threat to the country? ",
+            "created": "Mon, 27 Mar 2023 14:06:42 GMT",
+            "type": "tweet",
+            "tweetId": "1640355218582806530",
+            "tweetUserName": "davewiner",
+            "flInCalendar": true
+        },
+        {
+            "text": "Ken Smith tried an experiment. He asked ChatGPT to give him a few interesting stories on Scripting News. <a href=\"http://scripting.com/publicfolder/chatgpt/2023/03/27/blog-scripting-com-interesting-posts.html\">So I tried it too</a>. I'm pretty sure none of the recommended stories exist.",
+            "created": "Mon, 27 Mar 2023 21:50:05 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
