@@ -1,0 +1,89 @@
+{
+    "created": "2023-03-28T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "28",
+    "path": "2023/03/28",
+    "text": "March 28",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=QM2IrTbWJxY\">Christopher Lydon</a>. <i>Hi Chris!</i> ",
+            "created": "Tue, 28 Mar 2023 17:30:47 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=QM2IrTbWJxY",
+            "flInCalendar": true
+        },
+        {
+            "text": "My new (today!) chatbot, programmed with the <a href=\"http://scripting.com/publicfolder/chatgpt/scriptingNewsSource/scriptingInMarkdown.zip\">archive</a> of my blog, going back 28+ years, is up and I've been playing with it, and am as impressed as I hoped I would. An <a href=\"http://scripting.com/images/2023/03/28/whoInventedRss.png?nodialog\">example</a>, I asked who invented RSS? Can you imagine how much I’ve written about RSS in 20+ years? The first part is boilerplate, could have come from any site, but the second part was a very concise, thorough and interesting synopsis of years of <i>my writing</i> about feeds. The chatbot did very good work. ",
+            "created": "Tue, 28 Mar 2023 20:52:57 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "One great thing about the new chatbot for my blog is that it gives me a greater incentive to post here, vs social media. Of course we must be just days away from a Mastodon instance that you pay to join that adds every tweet to its dataset. A place of record. Maybe they should even charge per tweet. ",
+            "created": "Tue, 28 Mar 2023 17:33:42 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "In the next election the Dems must make the Repubs defend the idea of school kids being murdered without any help from the government. If they can't manage that, we need to find new political leaders. And when the Repubs bullshit, the Dems have to say they're bullshitting. ",
+            "created": "Tue, 28 Mar 2023 15:55:31 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Silicon Valley is full of sore winners (and losers). Not a whole lot of grace there, imho. But, tucked away in the corners, far from public view, there are still a few people there who get off on making great products and actually do.",
+            "created": "Tue, 28 Mar 2023 12:45:51 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I got <a href=\"http://scripting.com/2022/12/19/152612.html\">my Tesla</a> over a year ago and it still feels like a privilege to drive it. Like I won the lottery. I feel like a teen with his first car when I drive it. It's so smooth and powerful, grabs the curves on mountain roads so effortlessly. Elon Musk -- feh. What a schmuck. But they obviously have some wonderful engineers inside Tesla who dreamed of making the best car ever, and somehow they <i>did</i> it.  ",
+            "created": "Tue, 28 Mar 2023 12:43:52 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Started on Scripting chatbot",
+            "created": "Tue, 28 Mar 2023 16:12:14 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Working with <a href=\"https://www.pixelhop.io/\">pixelhop</a>, in the UK on this. Started a <a href=\"https://github.com/scripting/Scripting-News/issues/255\">GitHub thread</a>. ",
+                    "created": "Tue, 28 Mar 2023 16:15:07 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "For this project, I have <a href=\"http://scripting.com/publicfolder/chatgpt/scriptingNewsSource/scriptingInMarkdown.zip\">one big archive</a> with all the stuff I have from 1994 to 2023. All converted to Markdown, organized by year, with a separate folder for \"DaveNet\", which is how it all started in 1994. We should just import all of it. And that will be the product.",
+                    "created": "Tue, 28 Mar 2023 16:53:21 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "As we make progress I'll report it <a href=\"https://github.com/scripting/Scripting-News/issues/255\">here</a>. ",
+                    "created": "Tue, 28 Mar 2023 16:14:20 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "BTW -- I was sure Scripting News would make a good test case for this stuff, because the archive goes back so far and includes lots of stuff from other blogs, esp at the beginning. It was the hub for the early blogosphere. I think researchers in general will find it's a strong use-case if not reference source. I was very conscious of this as the years went by, and tried to make it an archive not just for my work but for what was going on around it too.",
+                    "created": "Tue, 28 Mar 2023 16:42:56 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Rene Magritte",
+            "created": "Tue, 28 Mar 2023 12:35:34 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://www.amazon.com/Paintings-Magritte%E3%80%8A-giantess%E3%80%8BWall-Surrealism-Decor%EF%BC%8850x65cm%EF%BC%8920x26inch/dp/B09XWM8VK3\">The Giantess</a>, 1929.",
+                    "created": "Tue, 28 Mar 2023 12:35:40 GMT",
+                    "inlineImage": "http://scripting.com/images/2023/03/28/giantess.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
