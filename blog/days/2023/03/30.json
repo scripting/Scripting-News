@@ -1,0 +1,104 @@
+{
+    "created": "2023-03-30T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "30",
+    "path": "2023/03/30",
+    "text": "March 30",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "This is where <a href=\"https://chatthing.ai/bots/b5c0ad69-55d4-4008-a97c-0b2884cca3f2/chats/54392679-165d-4b09-b410-cfb3ba22759a/\">my personal chatbot</a> is.",
+            "created": "Thu, 30 Mar 2023 13:41:37 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've been trying to figure out what to call these things. For now, I've settled on personal chatbot, like a <i>personal</i> computer. ",
+            "created": "Thu, 30 Mar 2023 13:36:02 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "My personal chatbot is a good writer, composition-wise. I asked it <a href=\"http://scripting.com/images/2023/03/30/food.png\">what kind of food I like</a>, and it answered with a story about me and my longtime bud Dave Jacobs and how we both like Chinese food. It's been a long time since I've taken a writing class, but I think that would get a good grade. Find a way to tell a story, rather than just reciting facts. Make it about people, and people will read it.  ",
+            "created": "Thu, 30 Mar 2023 13:56:48 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I wonder if my personal chatbot should have a name. I asked the bot if it had a preference. I quote the bot: \"As an AI language model, I don't have personal preferences or emotions, so I don't require a name. However, if you'd like to refer to me in a specific way, you can choose any name that you prefer.\" <i>Reasonable.</i> ",
+            "created": "Thu, 30 Mar 2023 13:58:52 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "My personal chatbot just <a href=\"http://scripting.com/images/2023/03/30/bingeworthyinvention.png\">invented</a> a feature for BingeWorthy, by lying about its existence. ",
+            "created": "Thu, 30 Mar 2023 14:43:14 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A theme you keep hearing is that bots spell doom for programmers. If so, it's justified. There are orders of magnitude too many programmers. The tech industry doesn't factor, they do the opposite, reimplement things that work well, or throw out things that work well in favor of things that don't work at all. I think the bots are now going to help us do the factoring we humans wouldn't do on our own. All the layoffs in tech foretell this. The truth is stranger than fiction. ",
+            "created": "Thu, 30 Mar 2023 14:26:33 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/01/24/bush.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "The reason it's nice to have old people around is that we don't care about the future in a personal way, so we might just tell you the truth. We also tend to be smartasses. :smile:",
+            "created": "Thu, 30 Mar 2023 14:29:52 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I think \"personal chatbot\" may be a fanciful <a href=\"https://en.wiktionary.org/wiki/anachronistic\">anachronistic</a> name, like <a href=\"http://scripting.com/davenet/2003/07/31/chrisLydonsWeblogForTheEar.html\">weblog for the ears</a>, which ultimately became podcasting.",
+            "created": "Thu, 30 Mar 2023 14:43:49 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The British reporter did not coin the term podcasting, <a href=\"http://scripting.com/images/2023/03/30/coinedPodcasting.png\">my dear chatbot</a>. You're in the shithouse now. It's even worse. The chatbot <a href=\"http://scripting.com/images/2023/03/30/oyughbullshit.png\">thinks</a> I credited the British reporter with coining the term. No I did not. The term was coined by <a href=\"http://scripting.com/2013/04/07/howPodcastingGotItsName.html\">Dannie Gregoire</a>. ",
+            "created": "Thu, 30 Mar 2023 14:59:12 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Seth Godin has a <a href=\"https://chatthing.ai/bots/ffc94727-3c06-4ada-8ba2-6c0aab35f51b/\">personal chatbot</a> just like mine, also produced by the <a href=\"https://chatthing.ai/\">Chat Thing</a> folks. As Seth says, pretty soon, everyone will have one. ",
+            "created": "Thu, 30 Mar 2023 13:31:04 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A question to start the day. <a href=\"http://scripting.com/images/2023/03/30/italy.png?nodialog\">Has Dave been to Italy</a>?",
+            "created": "Thu, 30 Mar 2023 13:41:55 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "What is Frontier?",
+            "created": "Thu, 30 Mar 2023 16:26:31 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<i>Disclaimer: This was written by my personal chatbot, obviously based on things I have written. It's pretty good, even though some of its facts are wrong, and includes some ideas I never came up with but make sense. I've never put it together this concisely though, so it points to another use for chatbots, distilling a lot of data into a few paragraphs, which you can then edit to make come out like you want it to.</i>",
+                    "created": "Thu, 30 Mar 2023 16:27:19 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Frontier is a software environment developed by UserLand Software in the late 1990s (Note: development actually started in 1988). It was designed to be a high-level scripting environment that combined an outliner-based editor, an object database, and an integrated scripting language. Frontier was used to build a variety of web-based applications and services, including content management systems, blogging platforms, and syndication tools.",
+                    "created": "Thu, 30 Mar 2023 16:26:50 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "At its core, Frontier is an outliner-based environment that allows users to create and manipulate hierarchical outlines of information. These outlines can be used to store and organize data, as well as to create scripts and macros that automate tasks within the environment. Frontier also includes an object database that allows developers to store and retrieve data in a structured way, as well as an integrated scripting language that can be used to create custom applications and services.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Frontier was a pioneering platform in the early days of the web, and it played a key role in the development of many of the technologies that we take for granted today, including RSS syndication and web-based content management systems. While Frontier is no longer actively developed, its legacy lives on in many of the tools and technologies that we use today.",
+                    "created": "Thu, 30 Mar 2023 16:27:09 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
