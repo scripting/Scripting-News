@@ -1,0 +1,80 @@
+{
+    "created": "2023-03-31T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "31",
+    "path": "2023/03/31",
+    "text": "March 31",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1641998688934416384\">Poll</a>: This may be the last poll I run on Twitter.",
+            "created": "Sat, 01 Apr 2023 03:22:41 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1641998688934416384",
+            "flInCalendar": true
+        },
+        {
+            "text": "Tomorrow is, of course, April 1 -- the day when people on the net lie about the people they hate and call it humor. ",
+            "created": "Sat, 01 Apr 2023 02:38:37 GMT",
+            "type": "tweet",
+            "tweetId": "1641993590250393600",
+            "tweetUserName": "davewiner",
+            "flInCalendar": true
+        },
+        {
+            "text": "The <a href=\"https://www.theverge.com/2023/3/24/23655092/twitter-blue-verified-checkmark-hide-research\">Twitter Blue</a> thing would’ve worked better if they added new features instead of taking out existing features.",
+            "created": "Sat, 01 Apr 2023 02:35:59 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "For AI to become a medium for the people like blogging or podcasting the cost will have to come down.",
+            "created": "Sat, 01 Apr 2023 02:35:04 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The first <a href=\"http://scripting.com/images/2023/03/31/twitterAPI2007.png\">mention</a> of the Twitter API on this blog appears to be: <a href=\"http://scripting.com/2007/02/20.html\">Feb 20, 2007</a>, with discoveries scattered <a href=\"http://scripting.com/2007/02.html\">through the month</a>. ",
+            "created": "Fri, 31 Mar 2023 19:31:43 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I keep watching the <a href=\"https://www.youtube.com/watch?v=lRaFwlQWKRc\">last scene</a> of this week's Succession. ",
+            "created": "Fri, 31 Mar 2023 19:16:27 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Can you imagine growing up, going to school, knowing that the adults couldn’t or wouldn’t protect you from terrorists who are slaughtering kids just like you, or maybe actually you.",
+            "created": "Sat, 01 Apr 2023 02:43:16 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I think I figured out how to get \"Radio3\" <a href=\"http://scripting.com/?tab=links\">functionality</a> into \"FeedLand\".  ",
+            "created": "Fri, 31 Mar 2023 18:16:48 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Ken Smith <a href=\"https://github.com/scripting/drummerSupport/issues/178#issuecomment-1491929441\">reports breakage</a> in the connection between Drummer and Twitter. Yup. There's going to be a lot of that, could happen tomorrow, or really any time. I'm not going to try to go with Twitter on this trip. \"Drummer\" and \"FeedLand\" have been converted to email-based identity, all the rest, including features on Scripting News, could break. That's how the web works. We know when we build on corporate APIs at some point they will stop working. Twitter has had a good run. I started <a href=\"http://daytona.scripting.com/?q=twitter%20api&collection=scriptingnews\">writing to their API</a> in 2006. I was hoping for great innovation and huge growth, but it didn't happen for devs, for whatever reason. Je ne sais quoi. C'est la vie. Que sera sera.  ",
+            "created": "Fri, 31 Mar 2023 13:40:30 GMT",
+            "type": "outline",
+            "image": "http://images.scripting.com/archiveScriptingCom/2007/03/24/bird.jpg",
+            "flInCalendar": true
+        },
+        {
+            "text": "Good morning. Still excited about the <a href=\"https://chatthing.ai/bots/b5c0ad69-55d4-4008-a97c-0b2884cca3f2/chats/54392679-165d-4b09-b410-cfb3ba22759a/\">personal chatbot</a> I've been writing about all week. But -- now that more people are running queries, I see how \"inventive\" it can be. Someone asked what <a href=\"http://scripting.com/images/2023/03/31/awards.png?nodialog\">awards and honors</a> I've received. It provided a list, but as far as I can tell they're all bogus, awards that may exist, that I did not receive. I've had a nice career, but only <a href=\"http://scripting.com/davenet/2001/10/18/wiredsTechRenegadeFor2001.html\">one award</a>, if my memory serves me. Oddly that award was not included in the chatbot's list. ",
+            "created": "Fri, 31 Mar 2023 13:00:45 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Not song of the day: <a href=\"https://www.youtube.com/watch?v=CJUoQMNbA0g&t=34s\">The Disgusting Brothers</a>. :boom:",
+            "created": "Fri, 31 Mar 2023 19:10:59 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
