@@ -1,0 +1,61 @@
+{
+    "created": "2023-04-01T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "01",
+    "path": "2023/04/01",
+    "text": "April 01",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "You suck, I'm <a href=\"https://twitter.com/Simpsons_tweets/status/1642183318627033088\">great</a>! <i>April fool.</i>",
+            "created": "Sat, 01 Apr 2023 19:47:54 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/Simpsons_tweets/status/1642183318627033088",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://en.wikipedia.org/wiki/Silicon_Valley\">Silicon Valley</a>, when I first got there in 1979 was the place where big change was coming fast. There's always been confusion about the power of individuals, even the richest ones -- imho they don't have the power to change the world, even though they're in the middle of the big change. If they weren't there someone else would be. The changes happening now can only happen because the systems they depend on are already in place. As individuals we get to make art from the change, give it style, a message, make it usable (or not), make it come into existence a bit faster perhaps. But the change itself is coming from evolution, not from individual people. ",
+            "created": "Sat, 01 Apr 2023 17:05:18 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2023/04/01/siliconValley.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "In a voicemail to <a href=\"https://en.wikipedia.org/wiki/Om_Malik\">Om Malik</a> yesterday I observed that these things are not chatbots. I don't like the word chat. They have a chat-derived UI, true, but I find I go there when I have a question, much like I go to a search engine. It's a way to search a database that's also capable of writing. I'm looking for docs that might not exist, if so the software will try to create it for us. Much more useful than Google. As much of an advance over Google as Google was over Yahoo's directory.  ",
+            "created": "Sat, 01 Apr 2023 15:50:15 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Jake Savin, longtime friend and ex-UserLander, has been playing with my \"personal chatbot\". He <a href=\"https://chatthing.ai/bots/b5c0ad69-55d4-4008-a97c-0b2884cca3f2/chats/2d3f263f-f7b4-40d2-9f12-e5c6271da811\">discovered</a> that he could teach it how to program in UserTalk, the scripting language of Frontier. It also appears he was able to correct mistakes? I wonder how that works. But it's no longer purely my chatbot, now it's Jakes too? Hmm. (I trust Jake, that's not a problem. But I might not trust other people who explore my pod.) ",
+            "created": "Sat, 01 Apr 2023 15:42:43 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2022/10/31/camel.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Also the \"Chat Thing\" people have made it possible to share sessions without screen shots. That will make a big difference.  ",
+            "created": "Sat, 01 Apr 2023 15:45:19 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Learned yesterday that Twitter is turning off version 1 of their API. So even if I wanted to pay, I'd have to do a bunch of dev work to stay on their system. Makes the decision to walk away that much easier. No way I would choose to spend my very limited time on such make-work.",
+            "created": "Sat, 01 Apr 2023 15:42:36 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I updated the <a href=\"http://scripting.com/publicfolder/chatgpt/scriptingNewsSource/scriptingInMarkdown.zip\">Markdown archive</a> of Scripting News going back to 1994 to include March, which just concluded. ",
+            "created": "Sat, 01 Apr 2023 16:11:41 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Welcome to April 2023. The <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/opml/2023/03.opml\">outline for March</a> has been archived. ",
+            "created": "Sat, 01 Apr 2023 14:55:50 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
