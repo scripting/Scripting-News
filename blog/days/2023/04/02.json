@@ -1,0 +1,47 @@
+{
+    "created": "2023-04-02T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "02",
+    "path": "2023/04/02",
+    "text": "April 02",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I'm starting to think about the finale of Succession. I listed to the Succession <a href=\"https://feedland.org/?river=https%3A%2F%2Fwww.omnycontent.com%2Fd%2Fplaylist%2Fd83f52e4-2455-47f4-982e-ab790120b954%2Fd24f5c7c-6413-4cd5-b874-abf101388631%2F4d22931d-dfa6-4665-93e9-abf10138f0ef%2Fpodcast.rss\">podcast</a> and heard the showrunner say he really liked the finale of Six Feet Under, which is one of the best. I asked ChatGPT to <a href=\"http://scripting.com/publicfolder/chatgpt/2023/04/02/dave-winer-s-background.html\">summarize</a> the finale of Six Feet Under, Mad Men and The Sopranos. ",
+            "created": "Sun, 02 Apr 2023 21:15:09 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I would like to use a <a href=\"https://mastodon.social/@davew/110130029832643476\">wonderful gateway</a> from RSS to Mastodon.",
+            "created": "Sun, 02 Apr 2023 15:55:04 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Update: It appears <a href=\"https://mastofeed.org/\">MastoFeed</a> is the one I should try. ",
+            "created": "Sun, 02 Apr 2023 17:12:47 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "This didn't age well",
+            "created": "Sun, 02 Apr 2023 14:19:26 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Seen at the checkout at <a href=\"https://www.wholefoodsmarket.com/stores/columbuscircle\">Whole Foods</a> in NYC on this day in 2016.",
+                    "created": "Sun, 02 Apr 2023 14:19:29 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The Founding Fathers of Silicon Valley.",
+                    "created": "Sun, 02 Apr 2023 14:20:10 GMT",
+                    "inlineImage": "http://scripting.com/images/2023/04/02/foundingFathersSiliconValley.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
