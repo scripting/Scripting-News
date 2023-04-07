@@ -1,0 +1,51 @@
+{
+    "text": "About Radio3",
+    "created": "Thu, 06 Apr 2023 15:30:44 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Yesterday I <a href=\"http://scripting.com/2023/04/05.html#a164206\">posted</a> about the new <a href=\"http://docs.feedland.org/yourFeed.opml#1680702347000\">linkblogging</a> capability in FeedLand. ",
+            "created": "Thu, 06 Apr 2023 15:30:46 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "It was always the plan to add this to FeedLand, but I moved it up because someday soon I expect \"Radio3\" to stop working because it depends on the Twitter API for identity, and they seem to be breaking devs all the time these days, but so far not Radio3. ",
+            "created": "Thu, 06 Apr 2023 15:31:00 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Rather than converting Radio3 to email identity, I decided to move its core features into FeedLand which already has email identity. It took a few days, and they were mostly enjoyable, because I do dialog stuff much better today than I did when I wrote Radio3, which was a <a href=\"http://scripting.com/2014/08/29/#a1409347551\">long time ago</a>! It totally needed a rewrite. ",
+            "created": "Thu, 06 Apr 2023 15:36:51 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "But -- for now I'm continuing to use Radio3, because it can post to Twitter and Mastodon, and anyone who's subscribed to that feed should keep subscribing. I never like to rock the boat, too many other things worth doing, and maybe Twitter will never break Radio3. <a href=\"https://www.youtube.com/watch?v=eXygknVeLGE\">It could happen</a>. ",
+            "created": "Thu, 06 Apr 2023 15:32:31 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "In the meantime as far as I can tell \"Radio3\" still works.",
+            "created": "Thu, 06 Apr 2023 15:35:00 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Now the day that Radio3 stops working, at least this is some work I won't have to do. I will have a linkblogging tool ready to go.",
+            "flInCalendar": true
+        },
+        {
+            "text": "And no one will be bothered by my Radio3 feed going quiet because nothing was going out that way anyway.",
+            "created": "Thu, 06 Apr 2023 15:35:12 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "And FeedLand's linkblogger will be infinitely better than Radio3 because it works. ;-)",
+            "flInCalendar": true
+        },
+        {
+            "text": "So my advice is, don't depend on FeedLand for linkblogging if you already have your Radio3 act together.",
+            "created": "Thu, 06 Apr 2023 15:35:34 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
