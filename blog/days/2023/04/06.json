@@ -1,0 +1,104 @@
+{
+    "created": "2023-04-06T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "06",
+    "path": "2023/04/06",
+    "text": "April 06",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I spoke with the <a href=\"https://chatthing.ai/\">chatthing.ai</a> people on Tuesday. Really smart, and fun -- and it turns out there's a lot more that can be done with the ChatGPT api. I asked how much they were spending to keep <a href=\"https://chatthing.ai/bots/b5c0ad69-55d4-4008-a97c-0b2884cca3f2/\">my personal chatbot</a> up, and they said it would fit in their $99 a month plan. Not wanting to depend on their generosity in this way, they're young and just starting up, I signed up. I think it's worth that much to have a personal playground and have them do the hosting and also collaborate on new features. I'm going to help them recruit really special people to use their service, because that's where I think the juice is right now. People who already have interesting content flows (ie blogs) that could be pushed through this new kind of software machine. At the same time I've been trying to encourage my friends at Automattic to get involved in helping people with ideas flow them into chatbots via their chatblogs. :boom:",
+            "created": "Thu, 06 Apr 2023 15:41:06 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/09/09/jessica.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I had a <a href=\"http://scripting.com/publicfolder/chatgpt/2023/04/06/company-behind-mastodon.html\">conversation with ChatGPT</a> that should shed some light on the theory behind the poll question. ",
+            "created": "Thu, 06 Apr 2023 19:39:00 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I <a href=\"http://scripting.com/publicfolder/chatgpt/2023/04/06/rolling-stones-top-10.html\">asked ChatGPT</a> for ten songs that would be good to exercise to.",
+            "created": "Thu, 06 Apr 2023 19:31:05 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I <a href=\"http://scripting.com/publicfolder/chatgpt/2023/04/06/mastodon-embedding-api.html\">asked ChatGPT</a> if Mastodon has an embedding API. Apparently they do, but it's not like Twitter's embedding API. If you want it to look like a toot you have to dress it up yourself. ",
+            "created": "Thu, 06 Apr 2023 19:06:49 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Suppose Trump wins re-election in 2024, can anyone say we weren't warned that he would break the law in certain ways? How can we say those laws matter if he's able to take office? ",
+            "created": "Thu, 06 Apr 2023 16:19:38 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1644053208027783171\">Poll</a>: Will Mastodon be acquired? If so, by... ",
+            "created": "Thu, 06 Apr 2023 19:03:37 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've become a <a href=\"https://feedland.org/?feedurl=https%3A%2F%2Fa.wholelottanothing.org%2Ffeed%2F\">regular reader</a> of <a href=\"https://a.wholelottanothing.org/\">Matt Haughey's blog</a>. ",
+            "created": "Thu, 06 Apr 2023 16:11:43 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "About Radio3",
+            "created": "Thu, 06 Apr 2023 15:30:44 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Yesterday I <a href=\"http://scripting.com/2023/04/05.html#a164206\">posted</a> about the new <a href=\"http://docs.feedland.org/yourFeed.opml#1680702347000\">linkblogging</a> capability in FeedLand. ",
+                    "created": "Thu, 06 Apr 2023 15:30:46 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It was always the plan to add this to FeedLand, but I moved it up because someday soon I expect \"Radio3\" to stop working because it depends on the Twitter API for identity, and they seem to be breaking devs all the time these days, but so far not Radio3. ",
+                    "created": "Thu, 06 Apr 2023 15:31:00 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Rather than converting Radio3 to email identity, I decided to move its core features into FeedLand which already has email identity. It took a few days, and they were mostly enjoyable, because I do dialog stuff much better today than I did when I wrote Radio3, which was a <a href=\"http://scripting.com/2014/08/29/#a1409347551\">long time ago</a>! It totally needed a rewrite. ",
+                    "created": "Thu, 06 Apr 2023 15:36:51 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But -- for now I'm continuing to use Radio3, because it can post to Twitter and Mastodon, and anyone who's subscribed to that feed should keep subscribing. I never like to rock the boat, too many other things worth doing, and maybe Twitter will never break Radio3. <a href=\"https://www.youtube.com/watch?v=eXygknVeLGE\">It could happen</a>. ",
+                    "created": "Thu, 06 Apr 2023 15:32:31 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "In the meantime as far as I can tell \"Radio3\" still works.",
+                    "created": "Thu, 06 Apr 2023 15:35:00 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Now the day that Radio3 stops working, at least this is some work I won't have to do. I will have a linkblogging tool ready to go.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And no one will be bothered by my Radio3 feed going quiet because nothing was going out that way anyway.",
+                    "created": "Thu, 06 Apr 2023 15:35:12 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And FeedLand's linkblogger will be infinitely better than Radio3 because it works. ;-)",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So my advice is, don't depend on FeedLand for linkblogging if you already have your Radio3 act together.",
+                    "created": "Thu, 06 Apr 2023 15:35:34 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
