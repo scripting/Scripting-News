@@ -1,0 +1,18 @@
+{
+    "text": "NYT Newsbot, embedded",
+    "created": "Fri, 07 Apr 2023 20:53:25 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "There are three feeds in this bot's database -- NYT Recent Headlines, Personal Technology and NBA. I'll be adding more. But for right now you can ask questions about recent events in those areas. ",
+            "created": "Fri, 07 Apr 2023 20:54:31 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<iframe src=\"https://chatthing.ai/bots/8150dc18-2086-428d-81a1-946248c381a8/embed\" width=\"100%\" height=\"600\" frameborder=\"0\"></iframe>",
+            "created": "Fri, 07 Apr 2023 20:53:36 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
