@@ -1,0 +1,7 @@
+{
+    "text": "It seems the most interesting so-far unexplored territory in chatbots is news. A place you can go to find out what happened recently and get reports in plain language that you can understand. Without any of the usual filler copy or adware. And if they leave out the bit of info that everyone reading it would want (why do news orgs always do that) you can ask a follow-up question. So I started by converting the NYT Most Recent Headlines <a href=\"http://nytimes.com/timeswire/feeds/\">feed</a> to <a href=\"http://feeder.scripting.com/returnmarkdown?feedurl=http://nytimes.com/timeswire/feeds/\">Markdown</a>, created a new bot on chatthing.ai, and fed it a copy of the feed. I <a href=\"https://chatthing.ai/bots/8150dc18-2086-428d-81a1-946248c381a8/chats/cb757963-6a89-4034-9410-ac488b8f21ea\">asked</a> what's new, and while the reply was not formatted very nicely -- it answered the freaking question. <i>A new kind of feed reader.</i> It'll be interesting to see <a href=\"https://github.com/scripting/Scripting-News/issues/256\">where this goes</a>. ",
+    "created": "Fri, 07 Apr 2023 14:42:24 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2022/09/28/rss.png",
+    "flInCalendar": true
+}
