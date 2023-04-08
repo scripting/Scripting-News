@@ -1,0 +1,56 @@
+{
+    "created": "2023-04-07T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "07",
+    "path": "2023/04/07",
+    "text": "April 07",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Podcast: <a href=\"http://scripting.com/2023/04/07/howRssHappenedFromMyPov.m4a\">How RSS 2.0 happened from my POV</a>. <i>15 minutes.</i>",
+            "created": "Fri, 07 Apr 2023 16:54:06 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2023/04/07/howRssHappenedFromMyPov.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "7989644",
+            "flInCalendar": true
+        },
+        {
+            "text": "It seems the most interesting so-far unexplored territory in chatbots is news. A place you can go to find out what happened recently and get reports in plain language that you can understand. Without any of the usual filler copy or adware. And if they leave out the bit of info that everyone reading it would want (why do news orgs always do that) you can ask a follow-up question. So I started by converting the NYT Most Recent Headlines <a href=\"http://nytimes.com/timeswire/feeds/\">feed</a> to <a href=\"http://feeder.scripting.com/returnmarkdown?feedurl=http://nytimes.com/timeswire/feeds/\">Markdown</a>, created a new bot on chatthing.ai, and fed it a copy of the feed. I <a href=\"https://chatthing.ai/bots/8150dc18-2086-428d-81a1-946248c381a8/chats/cb757963-6a89-4034-9410-ac488b8f21ea\">asked</a> what's new, and while the reply was not formatted very nicely -- it answered the freaking question. <i>A new kind of feed reader.</i> It'll be interesting to see <a href=\"https://github.com/scripting/Scripting-News/issues/256\">where this goes</a>. ",
+            "created": "Fri, 07 Apr 2023 14:42:24 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2022/09/28/rss.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "My <a href=\"https://chatthing.ai/bots/8150dc18-2086-428d-81a1-946248c381a8\">NYT newsbot</a> <a href=\"https://chatthing.ai/bots/8150dc18-2086-428d-81a1-946248c381a8/chats/9f84accf-8728-4b5c-b9c7-53887bcc4010\">now has NBA news</a>. I still have to update it manually, I'm sure it'll be automated soon enough. :smile:",
+            "created": "Fri, 07 Apr 2023 16:27:03 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "How typical of Google. They could easily have implemented podcasting as the open format it is, but no one is forcing them to, so Google chooses to lock us all in, a company that would not exist if not for the open web.",
+            "created": "Fri, 07 Apr 2023 12:41:40 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "NYT Newsbot, embedded",
+            "created": "Fri, 07 Apr 2023 20:53:25 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "There are three feeds in this bot's database -- NYT Recent Headlines, Personal Technology and NBA. I'll be adding more. But for right now you can ask questions about recent events in those areas. ",
+                    "created": "Fri, 07 Apr 2023 20:54:31 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<iframe src=\"https://chatthing.ai/bots/8150dc18-2086-428d-81a1-946248c381a8/embed\" width=\"100%\" height=\"600\" frameborder=\"0\"></iframe>",
+                    "created": "Fri, 07 Apr 2023 20:53:36 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
