@@ -1,0 +1,23 @@
+{
+    "created": "2023-04-09T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "09",
+    "path": "2023/04/09",
+    "text": "April 09",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "This is a test of <a href=\"https://mastodon.social/@davew/110169682268298227\">embedding Mastodon toots</a> in my blog. If you click the wedge, you should see the test toot below. :smile:",
+            "created": "Sun, 09 Apr 2023 15:57:00 GMT",
+            "type": "outline",
+            "urltoot": "https://mastodon.social/@davew/110169682268298227",
+            "flInCalendar": true
+        },
+        {
+            "text": "New feature: <a href=\"https://github.com/scripting/drummerSupport/issues/186\">Embedding Mastodon toots in Drummer blogs</a>. ",
+            "created": "Sun, 09 Apr 2023 17:03:43 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
