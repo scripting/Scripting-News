@@ -1,0 +1,46 @@
+{
+    "created": "2023-04-10T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "10",
+    "path": "2023/04/10",
+    "text": "April 10",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Sure sign winter is over. <a href=\"http://scripting.com/2023/04/10/Frogs.m4a\">Frogs</a>!",
+            "created": "Tue, 11 Apr 2023 01:17:27 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2023/04/10/Frogs.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "131940",
+            "flInCalendar": true
+        },
+        {
+            "text": "Spoiler alert. This item is about last night's episode of <a href=\"https://en.wikipedia.org/wiki/Succession_(TV_series)\">Succession</a>. I'm aware that one of the reasons I like to binge-watch TV series is the simulated community of it. Social contact is a basic human need. But our society has moved online, and then there's Covid, and that's why simulated communities that satisfy our requirement for social contact are so popular and valuable. It's relaxing to check in with a group of fictional people every so often, to see them behaving with ordinary human dysfunction, so our subconscious can project itself into their drama. The death of the central figure in a simulated community is why I feel so unsettled today, I think. At first I couldn't place it. What happened? I have a fairly ordinary week planned. Spring is arriving in the mountains. Then I remembered <a href=\"https://www.vox.com/tv/23674287/succession-season-4-episode3-logan-dead-conners-wedding\">what happened</a> last night. I suspect a few million others are feeling it too.   ",
+            "created": "Mon, 10 Apr 2023 16:09:05 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2023/04/10/trumpBeingCarriedAway.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Embedding Mastodon posts in Drummer blogs is now <a href=\"http://docserver.scripting.com/drummer/blogging.opml#1628781021000\">documented</a>. It was a very easy feature to implement, they did a nice job in MastoLand.",
+            "created": "Mon, 10 Apr 2023 15:15:27 GMT",
+            "type": "outline",
+            "urltoot": "https://mastodon.social/@davew/110175180300526153",
+            "flInCalendar": true
+        },
+        {
+            "text": "I got all the info I needed about Mastodon embedding from <a href=\"https://dev.to/andypiper/a-opportunity-for-developers-1ee4\">Andy Piper's piece</a> about it. ",
+            "created": "Mon, 10 Apr 2023 15:23:27 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've picked up a project I had put down about a year ago, to do a command-line language based on JavaScript, with the only change being that functions don't return until they complete. After programming in JavaScript for almost a decade, I still don't accept the basic design choice they made to require that whether or not a function does I/O is visible in the syntax of the program. It's exactly the kind of thing that should be sucked down into the interpreter. It makes the code 10 times more expensive and fragile. And achieves absolutely no efficiency. Zero benefit. I don't know why other people don't see this, but I'm going to keep going until others join up and help. It's the same approach as we used in the <a href=\"http://docserver.scripting.com/drummer/scripting.opml\">scripting in Drummer</a>, only in this case the scripts run at the command line, like bash scripts. And they run as Node.js apps, so they have access to all the packages Node apps have. I'm just starting to use it myself, just for little utility things. It works great. ",
+            "created": "Mon, 10 Apr 2023 15:57:32 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2022/11/28/ifyoudontlikethenews.png",
+            "flInCalendar": true
+        }
+    ]
+}
