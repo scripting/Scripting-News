@@ -1,0 +1,7 @@
+{
+    "text": "I've picked up a project I had put down about a year ago, to do a command-line language based on JavaScript, with the only change being that functions don't return until they complete. After programming in JavaScript for almost a decade, I still don't accept the basic design choice they made to require that whether or not a function does I/O is visible in the syntax of the program. It's exactly the kind of thing that should be sucked down into the interpreter. It makes the code 10 times more expensive and fragile. And achieves absolutely no efficiency. Zero benefit. I don't know why other people don't see this, but I'm going to keep going until others join up and help. It's the same approach as we used in the <a href=\"http://docserver.scripting.com/drummer/scripting.opml\">scripting in Drummer</a>, only in this case the scripts run at the command line, like bash scripts. And they run as Node.js apps, so they have access to all the packages Node apps have. I'm just starting to use it myself, just for little utility things. It works great. ",
+    "created": "Mon, 10 Apr 2023 15:57:32 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2022/11/28/ifyoudontlikethenews.png",
+    "flInCalendar": true
+}
