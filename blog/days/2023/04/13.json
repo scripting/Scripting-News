@@ -1,0 +1,49 @@
+{
+    "created": "2023-04-13T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "13",
+    "path": "2023/04/13",
+    "text": "April 13",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=SPyBGQtpTCo\">Amie</a>.",
+            "created": "Thu, 13 Apr 2023 14:47:01 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=SPyBGQtpTCo",
+            "flInCalendar": true
+        },
+        {
+            "text": "For the first time I'm thinking I should quit Twitter over their labeling of <a href=\"https://www.npr.org/2023/04/05/1168158549/twitter-npr-state-affiliated-media\">NPR</a> as state-owned media. It seems to me staying on Twitter implies that I support what they did, and I do not. I could just as easily see them putting <a href=\"https://en.wikipedia.org/wiki/Yellow_badge\">yellow badges</a> on Jewish people's accounts. ",
+            "created": "Thu, 13 Apr 2023 21:43:46 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2023/04/13/yellowStarOfDavid.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1646637626907131904\">Poll</a>: If Twitter labeled Jewish people's accounts would you quit?",
+            "created": "Thu, 13 Apr 2023 22:13:09 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1646637626907131904",
+            "flInCalendar": true
+        },
+        {
+            "text": "I just got notice that Twitter was turning off the identity service for <a href=\"https://www.google.com/search?q=site%3Ascripting.com+1999.io\">my.1999.io</a>. This is the first one that I care about. Gets me thinking about how I might resurrect this app. I wrote it shortly after I became a fan of Facebook. I wanted to create a blogging system around their UI breakthoughs, and to improve on them. ",
+            "created": "Thu, 13 Apr 2023 21:16:36 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I had ChatGPT write some SQL code for me. I probably could have figured it out in a couple of hours, but instead it took me five minutes to specify the problem, and it took ChatGPT another five minutes to code it up and explain it to me. I wanted to see how many feeds each FeedLand user is the \"first subscriber\" of. Here's an <a href=\"http://scripting.com/publicfolder/chatgpt/2023/04/13/mysql-database-design-users-feeds.html\">archive</a> of the conversation. ",
+            "created": "Thu, 13 Apr 2023 15:10:51 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm not getting very much work done these days. Still more work to do on \"FeedLand\". And after that I'm thinking the next project might be a Linux port for Frontier. I really want to leave a functioning \"Frontier\" behind as part of my body of work. And the Mac isn't a very reliable platform going forward. It's so funny -- the best product I ever did, really -- and it got all mired in the jealousy of Apple employees. Thinking about it. ",
+            "created": "Thu, 13 Apr 2023 13:08:49 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
