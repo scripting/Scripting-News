@@ -1,0 +1,53 @@
+{
+    "created": "2023-04-15T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "15",
+    "path": "2023/04/15",
+    "text": "April 15",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Last night I got a slew of emails from Twitter saying that many if not all of my apps that build on the Twitter API have been switched off. ",
+            "created": "Sat, 15 Apr 2023 13:20:31 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "With today's news \"Radio3\" actually still works, assuming the server doesn't reboot, and you don't sign off and try to sign in again, because we cache the authorization keys in memory on the server. So I'm going to keep using it, but expect at some point I'm going to have to switch over to the linkblogging feature I added recently to \"feedland\". ",
+            "created": "Sat, 15 Apr 2023 14:41:50 GMT",
+            "type": "outline",
+            "image": "http://images.scripting.com/archiveScriptingCom/2007/03/24/bird.jpg",
+            "flInCalendar": true
+        },
+        {
+            "text": "There will be features in some products that will no longer work, ones that depend on a connection to Twitter, like tweeting a post in Drummer by clicking on an icon. Some whole products, like thread.center won't work at all. ",
+            "created": "Sat, 15 Apr 2023 14:45:34 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "At this point, I don't plan to convert any of the software to their new API, or to pay for the connection to Twitter. So the features that are broken likely will stay that way.",
+            "created": "Sat, 15 Apr 2023 14:42:30 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "To be clear: I haven't decided to cut the connection from Twitter to my products -- Twitter did that. I haven't broken one thing in any of them related to Twitter support. The only changes I made were to make Drummer and FeedLand work if Twitter ever cut them off, which has now happened.  ",
+            "created": "Sat, 15 Apr 2023 14:14:35 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I posted a perspective on this to <a href=\"https://dave.micro.blog/2023/04/15/developer-response-to.html\">my micro.blog site</a>. ",
+            "created": "Sat, 15 Apr 2023 15:24:38 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A continuing <a href=\"https://github.com/scripting/Scripting-News/issues/252#issuecomment-1509871443\">thread</a> on this topic, started on Feb 3.",
+            "created": "Sat, 15 Apr 2023 15:26:45 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
