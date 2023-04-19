@@ -1,0 +1,160 @@
+{
+    "created": "2023-04-18T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "18",
+    "path": "2023/04/18",
+    "text": "April 18",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=YrKAe4d46mk\">Where do the children play?</a>",
+            "created": "Tue, 18 Apr 2023 16:03:23 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=YrKAe4d46mk",
+            "flInCalendar": true
+        },
+        {
+            "text": "Another <a href=\"http://scripting.com/publicfolder/chatgpt/2023/04/18/leopold-ii-s-cruel-exploits.html\">use-case</a> for ChatGPT. Fact-checking my writing. I was writing something I haven't published yet, and used it to look for examples and better understand the people I was writing about. ",
+            "created": "Tue, 18 Apr 2023 14:39:44 GMT",
+            "type": "tweet",
+            "tweetId": "1648336338964422656",
+            "tweetUserName": "davewiner",
+            "flInCalendar": true
+        },
+        {
+            "text": "ChatGPT desperately needs customization. I'd like to get my Amazon Music history connected to it, so I can ask it to create a workout playlist for me. I can describe what kind of music works for me, a strong fast beat, big bass drum and guitar. Something I can sing along to is good. And I like a certain set of bands from the 70s and 80s, so we might as well start with that. Now I'm going for a 40-minute walk. Program the music please and put it on my phone and off I go. ",
+            "created": "Tue, 18 Apr 2023 15:53:21 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Updated the <a href=\"https://github.com/scripting/feedlandSocket\">feedlandSocket demo app</a> to use the new <a href=\"https://portswigger.net/web-security/websockets/what-are-websockets#:~:text=The%20wss%20protocol%20establishes%20a,protocol%20uses%20an%20unencrypted%20connection.&text=At%20this%20point%2C%20the%20network,WebSocket%20messages%20in%20either%20direction.\">WSS</a> interface. ",
+            "created": "Tue, 18 Apr 2023 13:33:09 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "On Facebook, yesterday I asked which Succession character you most <a href=\"https://www.facebook.com/dave.winer.12/posts/pfbid0cRAFi5Lhy1NJqXonbV3Tms2Lm7dLSPAQubBJtUEe3nymTs5gPUzxHe8WNrxjeHtzl\">identify with</a>, with some hilarious results. And today I ask a different question, which Succession character do you <a href=\"https://www.facebook.com/dave.winer.12/posts/pfbid0fWUxqcyYWbE9XByTQwV5nV7Y6bGD4SQHU7uxJ7JG6hHNGnJmMD2MCJgqyGUnf2wUl\">like the best</a>?",
+            "created": "Tue, 18 Apr 2023 14:05:46 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I suppose everyone has a different experience for every social network. I have a lot of old dear friends on Facebook who I'd never see online or in real life -- and this is such a huge blessing, given that I live in the remote Catskills, where some very nice <i>different</i> people live, and many of them are friends on Facebook too. There is no such thing as a purely good social network, whether it's owned by the mega silicon valley tech cartel, or if it's a distributed fediverse -- the networks for most people are defined by the users, not who provides the system. Yeah in a way that's naive and in another way it's humble and practical. We all are only going to be around for a few more years. Enjoying the people you like and love, imho, is a big part of what makes being alive worth it. So if it's a small sin to help Facebook dominate in a very very very small way, well sometimes I don't recycle either. And no one knows the big picture, so I'm going to go ahead and keep using Facebook, because I find love there, and that's a big deal. ",
+            "created": "Tue, 18 Apr 2023 14:11:01 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2023/04/03/cupid.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Little Feat and Irma Thomas",
+            "created": "Wed, 19 Apr 2023 03:27:08 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I asked Amazon Music to play some songs for me. ",
+                    "created": "Wed, 19 Apr 2023 03:27:16 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The first they chose was <a href=\"https://www.youtube.com/watch?v=UaQ3VGeQ8Uw\">Long Distance Love</a> by Little Feat. ",
+                    "created": "Wed, 19 Apr 2023 03:28:01 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "What a perfect song. Driving beat. Lowell George poetry. ",
+                    "created": "Wed, 19 Apr 2023 03:27:27 GMT",
+                    "subs": [
+                        {
+                            "text": "<i>No matter what I do.</i>",
+                            "created": "Wed, 19 Apr 2023 03:27:36 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "<i>Even pray to heaven above.</i>",
+                            "created": "Wed, 19 Apr 2023 03:27:40 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "<i>All I ever get from her is Long Distance Love. </i>",
+                            "created": "Wed, 19 Apr 2023 03:27:43 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Next <a href=\"https://en.wikipedia.org/wiki/It%27s_Raining_(Irma_Thomas_song)\">song</a> was a <a href=\"https://www.youtube.com/watch?v=WJjDmpyWfBs\">hit</a> by <a href=\"https://en.wikipedia.org/wiki/Irma_Thomas\">Irma Thomas</a> who we used to see at the <a href=\"https://www.google.com/maps/place/Maple+Leaf+Bar/@29.9542913,-90.1416967,15z/data=!4m6!3m5!1s0x8620a53fb836c8ed:0x1982e3718f7b6dcd!8m2!3d29.9489368!4d-90.1320837!16zL20vMDlsaDN0\">Maple Leaf</a> in New Orleans when I was a student there.",
+                    "created": "Wed, 19 Apr 2023 03:28:11 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Have you ever heard her? The clearest voice. ",
+                    "created": "Wed, 19 Apr 2023 03:28:35 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Production note ",
+            "created": "Wed, 19 Apr 2023 03:05:19 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "To people who get the nightly email: ",
+                    "created": "Wed, 19 Apr 2023 03:09:52 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<i>The Linkblog Items For The Day</i> section should look pretty much as it looked yesterday, even though I've switched to new software for editing the linkblog. ",
+                    "created": "Wed, 19 Apr 2023 03:22:29 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The URL of the linkblog feed has changed as well, so if you subscribe to it in a feed reader, you might want to switch the URL of the feed to:",
+                    "created": "Wed, 19 Apr 2023 03:10:14 GMT",
+                    "subs": [
+                        {
+                            "text": "<a href=\"http://data.feedland.org/feeds/davewiner.xml\">http://data.feedland.org/feeds/davewiner.xml</a>",
+                            "created": "Wed, 19 Apr 2023 03:10:56 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "As soon as the change is complete, I'll redirect from the <a href=\"http://radio3.io/users/davewiner/rss.xml\">old feed</a> to the new. ",
+                    "created": "Wed, 19 Apr 2023 03:10:46 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "All this is possible because we've built on good open standards. ",
+                    "created": "Wed, 19 Apr 2023 03:11:31 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The work is necessary because of changes at Twitter. ",
+                    "created": "Wed, 19 Apr 2023 03:11:55 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "In any case you will likely see some glitches. ",
+                    "created": "Wed, 19 Apr 2023 03:12:01 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "We'll try to get them out asap. ",
+                    "created": "Wed, 19 Apr 2023 03:24:06 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<i>Still diggin</i> as they say. :smile:",
+                    "created": "Wed, 19 Apr 2023 03:12:06 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
