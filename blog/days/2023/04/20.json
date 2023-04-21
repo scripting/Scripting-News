@@ -1,0 +1,70 @@
+{
+    "created": "2023-04-20T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "20",
+    "path": "2023/04/20",
+    "text": "April 20",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=vUsv4Lb7EQs\">Smoke Two Joints</a>. <i>Happy 4/20!</i>",
+            "created": "Thu, 20 Apr 2023 13:01:24 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=vUsv4Lb7EQs",
+            "flInCalendar": true
+        },
+        {
+            "text": "To my friends who use \"Drummer\" to blog, and have a <a href=\"http://docserver.scripting.com/drummer/blogging.opml#1633177803000\">Radio3 linkblog</a>, we now have a way for you to <a href=\"https://github.com/scripting/feedlandSupport/issues/191\">use FeedLand</a> as a linkblogging tool. ",
+            "created": "Thu, 20 Apr 2023 13:13:04 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I often forget to be blown away by <a href=\"https://www.zillow.com/homes/for_sale/70914849_zpid/\">how much house</a> you can get for how little in the Hudson Valley. I like this <a href=\"https://www.google.com/maps/place/16+Carol+Anns+Way,+Saugerties,+NY+12477/@42.0487971,-73.9631682,14z/data=!4m6!3m5!1s0x89dda74fd5e05e57:0xbb95c4cbecd5e8b1!8m2!3d42.0487971!4d-73.9451438!16s%2Fg%2F11c4t4b963\">location</a>, real close to the <a href=\"https://en.wikipedia.org/wiki/Hudson_River\">river</a>, and <a href=\"https://en.wikipedia.org/wiki/Saugerties,_New_York\">Saugerties</a> is a great town, small, quiet, but has everything you need right there. And not as sprawling as <a href=\"https://en.wikipedia.org/wiki/Kingston,_New_York\">Kingston</a>. Still old, and charming. ",
+            "created": "Thu, 20 Apr 2023 18:15:47 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I remember when I was a Comp Sci student at <a href=\"https://www.cs.wisc.edu/\">UW</a> taking the Compiler Design class, <a href=\"https://pages.cs.wisc.edu/~fischer/cs701.f05/lectures/Lecture01.pdf\">CS701</a>. It was the class that weeded out those who would get graduate degrees from those who would not. The class project was to write a compiler for an <a href=\"https://web.archive.org/web/20111114122103/http://www.eecs.qmul.ac.uk/~ohearn/Algol/intro.html\">Algol-like language</a> that the professor desgined. He gave us a set of test apps that we had to compile and run correctly. I didn't get it. I thought code generation was like a magic box. Somehow the machine had a copy of every program you could write, and when it saw you were asking for that one, it would just spit out the code. Knowing what I know now, this was a ludicrous idea, but it's the best your mind can do when you just don't get it. Then there was the moment when I did get it. I started writing a code generator for a <a href=\"https://en.wikipedia.org/wiki/While_loop\">while loop</a>, and plugged it into the <a href=\"https://en.wikipedia.org/wiki/Compiler-compiler\">compiler-compiler</a>, and saw what it generated worked. From that point on, it was just writing code. Same thing with the web. I thought of big data centers, until I visited one of the most popular sites on the web, <a href=\"https://en.wikipedia.org/wiki/Internet_Underground_Music_Archive\">IUMA</a>, and found it was just an old Sun terminal and a <a href=\"https://en.wikipedia.org/wiki/Pizza_box_form_factor\">pizza box computer</a>, sitting on the floor in a random dusty one-room office in <a href=\"https://www.google.com/maps/place/Santa+Cruz,+CA/@36.9758914,-122.04748,13z/data=!3m1!4b1!4m6!3m5!1s0x808e441b7c36d549:0x52ca104b2ad7f985!8m2!3d36.9741171!4d-122.0307963!16zL20vMGwwbWs\">Santa Cruz</a>. That's it? I couldn't believe it. So I'm sure there's a <a href=\"https://www.thefreedictionary.com/gestalt\">gestalt</a> like that for \"ChatGPT\". Behind the magic is a bit of software, as magical (or not) as my compiler, or the pathetic Santa Cruz machine with the huge net presence. I'm sure there's something very mundane behind the <a href=\"https://www.youtube.com/watch?v=NZR64EF3OpA\">curtain</a>, but for now I love the magic of it and I don't believe the explanations that say it's stupid. It feels really smart to me. ",
+            "created": "Thu, 20 Apr 2023 17:45:24 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2022/07/26/motherOfDragons.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Another ChatGPT use-case. There's an open source package called <a href=\"https://github.com/yabwe/medium-editor\">medium-editor</a> that I use to edit text in most of my products. I believe it's popular, but because of its name, it can be hard to use a search engine to find technical information about it. I wanted to make an instance of the editor the focus by default when its created. I asked <a href=\"http://scripting.com/publicfolder/chatgpt/2023/04/20/medium-editor-package-familiar.html\">ChatGPT how to</a> do it, and it gave me fantastic docs, because it could sort out what Google simply can't. Incredibly useful. It will, if it works, result in a product that \"feels good\" -- people probably won't even notice that it did anything unusual. This is what make software excellent. (Update: Still scratching my head over this.)",
+            "created": "Thu, 20 Apr 2023 16:46:10 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "This might be my favorite <a href=\"https://www.youtube.com/watch?v=VSyNUAzPofI\">Stones song</a> because the lead singer is Keith Richards, but he gets a bunch of help from Mick Jagger. It's like magic. Perfect music for 4/20. Always took candy from strangers. Don't want to end up like papa working for the boss every night and day. I need love to keep me happy.",
+            "created": "Thu, 20 Apr 2023 13:05:35 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=VSyNUAzPofI",
+            "flInCalendar": true
+        },
+        {
+            "text": "But then there's <a href=\"https://www.youtube.com/watch?v=eauZzwt8Ci8\">Psycho Killer</a>, with its relentless beat. You're talking a lot, but you're not saying anything.",
+            "created": "Thu, 20 Apr 2023 13:09:12 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=eauZzwt8Ci8",
+            "flInCalendar": true
+        },
+        {
+            "text": "And there's the band <a href=\"https://www.youtube.com/watch?v=dkA542jrTeo\">Love</a> that was <a href=\"https://www.loudersound.com/features/love-california-dreaming\">destined</a> to be what the Doors became. It's quite a story. ",
+            "created": "Thu, 20 Apr 2023 13:13:42 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=dkA542jrTeo",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://www.youtube.com/watch?v=yVK3tTBJze4\">One more</a>. \"Still crazy after all these years.\" My new anthem. Goes with <a href=\"https://www.google.com/search?q=site%3Ascripting.com+%22even+worse+than+it+appears%22\">even worse</a> than it appears.",
+            "created": "Thu, 20 Apr 2023 13:17:26 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=yVK3tTBJze4",
+            "flInCalendar": true
+        }
+    ]
+}
