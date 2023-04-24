@@ -1,0 +1,42 @@
+{
+    "created": "2023-04-23T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "23",
+    "path": "2023/04/23",
+    "text": "April 23",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "It wasn't that long ago <a href=\"https://theknickswall.com/knicks-grind-out-big-win-lead-cavs-3-1/\">Knicks</a> fans wore <a href=\"http://scripting.com/images/2023/04/23/knicksPaperBags.png\">paper bags</a> over our heads. ",
+            "created": "Sun, 23 Apr 2023 19:41:43 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Now that Twitter is less of a community site for me, whatever that means, and Mastodon has gotten really quiet lately (again, for me), I've turned to Facebook. Maybe in the next round we'll be able to create something that isn't owned by the tech cartel, (neither Twitter or Facebook is owned by anyone who appears to give a damn about it), that has the same kind of vibrancy that Twitter once had. Sure it could've been better, I wish Jack and Ev had been more supportive of developers, but I definitely miss what it used to be, flawed as it was.I'm really tired of all the bad-mouthing of Twitter on Mastodon. You all are missing something important, Twitter wasn't  just about who owns it, they're really not that important, it's about the people who use it. <i>It's always been that way. </i>",
+            "created": "Sun, 23 Apr 2023 16:35:23 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/01/16/rodneyDangerfield.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's your simple <a href=\"https://github.com/scripting/wordpressHelloWorld/blob/main/wordpresshelloworld.js\">Hello World for WordPress</a> in Node.js. <i>Finally!</i>",
+            "created": "Sun, 23 Apr 2023 16:22:15 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Three years ago I was looking for a <a href=\"https://github.com/scripting/Scripting-News/issues/179\">simple Hello World for WordPress</a> from a Node.js app. We didn't get there. I still need the code. So I tried asking ChatGPT for help here, and it had a number of suggestions. I implemented the one they suggested that didn't require using a package other than HTTP. I adapted it but am getting a <i>400 Bad Request</i> response from WordPress. I'm going to keep trying to massage the code. I feel like I'm really close. (I got my <a href=\"https://concordtest.wordpress.com/2023/04/23/this-is-a-test-5/\">hello world</a> <a href=\"https://github.com/scripting/wordpressHelloWorld/blob/main/wordpresshelloworld.js\">code</a> to work. This is a big deal. I didn't end up using the ChatGPT code, instead I used an NPM package that was suggested three years ago, and for whatever reason I didn't get it done then. It was the first response in the thread.)",
+            "created": "Sun, 23 Apr 2023 14:46:09 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/01/13/jujyFruits.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "The Washington Post did some kind of <a href=\"https://wapo.st/3AsTRnv\">study</a> (free link, no paywall) to discover the sources behind \"AI like ChatGPT\" -- and they have a dialog you can use to find out how often certain sites are used in <a href=\"https://www.semanticscholar.org/paper/Documenting-the-English-Colossal-Clean-Crawled-Dodge-Sap/40c3327a6ddb0603b6892344509c7f428ab43d81?itid=lk_inline_enhanced-template\">Google's C4 dataset</a> (whatever that is). So of course I checked to see how much data from <a href=\"http://scripting.com/\">scripting.com</a> is included. The answer: 710K tokens, which is 0.0005% of all tokens. <a href=\"http://scripting.com/images/2023/04/23/scriptingquotes.png\">Screen shot</a>. Some comps: <a href=\"http://daringfireball.com/\">daringfireball.com</a> had 610K, <a href=\"http://seths.blog/\">seths.blog</a> had 750K and <a href=\"http://kottke.org/\">kottke.org</a> had 590K.",
+            "created": "Sun, 23 Apr 2023 13:19:00 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
