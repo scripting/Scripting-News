@@ -1,0 +1,7 @@
+{
+    "text": "Three years ago I was looking for a <a href=\"https://github.com/scripting/Scripting-News/issues/179\">simple Hello World for WordPress</a> from a Node.js app. We didn't get there. I still need the code. So I tried asking ChatGPT for help here, and it had a number of suggestions. I implemented the one they suggested that didn't require using a package other than HTTP. I adapted it but am getting a <i>400 Bad Request</i> response from WordPress. I'm going to keep trying to massage the code. I feel like I'm really close. (I got my <a href=\"https://concordtest.wordpress.com/2023/04/23/this-is-a-test-5/\">hello world</a> <a href=\"https://github.com/scripting/wordpressHelloWorld/blob/main/wordpresshelloworld.js\">code</a> to work. This is a big deal. I didn't end up using the ChatGPT code, instead I used an NPM package that was suggested three years ago, and for whatever reason I didn't get it done then. It was the first response in the thread.)",
+    "created": "Sun, 23 Apr 2023 14:46:09 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2020/01/13/jujyFruits.png",
+    "flInCalendar": true
+}
