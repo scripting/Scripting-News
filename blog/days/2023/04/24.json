@@ -1,0 +1,85 @@
+{
+    "created": "2023-04-24T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "24",
+    "path": "2023/04/24",
+    "text": "April 24",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "This why Twitter is still strong. I expected to find the announcement of Tucker Carlson leaving Fox on Twitter, and <a href=\"https://twitter.com/CNN/status/1650527435182546944\">there it was</a>. Once there's a default way to do something that's deeply ingrained, it doesn't get displaced quickly or easily. That's not taking anything away from Masto which is an amazing accomplishment. Both systems exist and will evolve to have different uses.",
+            "created": "Mon, 24 Apr 2023 15:50:55 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2023/04/24/tucker.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "The FeedLand platform",
+            "created": "Mon, 24 Apr 2023 15:11:14 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Truth be told, the FeedLand platform has been ready to be released as open source for some time. ",
+                    "created": "Mon, 24 Apr 2023 15:13:48 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://github.com/scripting/feedland\">https://github.com/scripting/feedland</a>",
+                    "created": "Mon, 24 Apr 2023 15:47:04 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But I haven't been focused on that kind of stuff, so I didn't want to create an expectation that there would be a lot of support. That's still true, but the product deserves to be out there, so very quietly last week I made the feedland repo public. ",
+                    "created": "Mon, 24 Apr 2023 15:58:25 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The <a href=\"https://github.com/scripting/feedland/blob/main/database/database.md\">SQL commands</a> that create the FeedLand database. ",
+                    "created": "Tue, 25 Apr 2023 02:51:42 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I decided today was the day to <a href=\"http://scripting.com/2023/04/24/151114.html\">post</a> about it, because I have an <a href=\"https://github.com/scripting/feedlandInstall/issues/31\">issue</a> with the database that I want to ask questions about from people with expertise in MySQL, and can't do that publicly without referring to bits that are in that repo. ",
+                    "created": "Mon, 24 Apr 2023 15:17:28 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Don't read -- spoilers! ",
+            "created": "Mon, 24 Apr 2023 16:14:26 GMT",
+            "type": "outline",
+            "description": "Shiv is her father's daughter and the son he never had. ",
+            "subs": [
+                {
+                    "text": "Last night's <a href=\"https://en.wikipedia.org/wiki/Succession_(TV_series)\">Succession</a> was both impossible to watch at times, and in some ways the best most revealing most fun episode ever. ",
+                    "created": "Mon, 24 Apr 2023 16:21:22 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The two sons are complete fucking idiots. And Shiv is her father's daughter and the son he never had. ",
+                    "created": "Mon, 24 Apr 2023 16:21:54 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The moral of this story is the feminist complaint, she was obviously pushed aside because of her vagina, in favor of the idiot penises. ",
+                    "created": "Mon, 24 Apr 2023 16:22:59 GMT",
+                    "image": "http://scripting.com/images/2023/04/24/cheshireCat.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And like the previous episode which ended with Kendall smiling (over something stupid), this one ends with <a href=\"http://scripting.com/images/2023/04/24/shivSmile.png\">Shiv smiling</a> (over something clever and kind of evil). So I guess in the next one it's Roman, right? Five episodes to go. Two more siblings, plus Tom and Greg. ",
+                    "created": "Mon, 24 Apr 2023 16:22:05 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Who's smiling at the end of the last episode? :smile:",
+                    "created": "Tue, 25 Apr 2023 01:45:32 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
