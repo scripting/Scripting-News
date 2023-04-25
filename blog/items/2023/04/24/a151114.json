@@ -1,0 +1,33 @@
+{
+    "text": "The FeedLand platform",
+    "created": "Mon, 24 Apr 2023 15:11:14 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Truth be told, the FeedLand platform has been ready to be released as open source for some time. ",
+            "created": "Mon, 24 Apr 2023 15:13:48 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/feedland\">https://github.com/scripting/feedland</a>",
+            "created": "Mon, 24 Apr 2023 15:47:04 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "But I haven't been focused on that kind of stuff, so I didn't want to create an expectation that there would be a lot of support. That's still true, but the product deserves to be out there, so very quietly last week I made the feedland repo public. ",
+            "created": "Mon, 24 Apr 2023 15:58:25 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The <a href=\"https://github.com/scripting/feedland/blob/main/database/database.md\">SQL commands</a> that create the FeedLand database. ",
+            "created": "Tue, 25 Apr 2023 02:51:42 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I decided today was the day to <a href=\"http://scripting.com/2023/04/24/151114.html\">post</a> about it, because I have an <a href=\"https://github.com/scripting/feedlandInstall/issues/31\">issue</a> with the database that I want to ask questions about from people with expertise in MySQL, and can't do that publicly without referring to bits that are in that repo. ",
+            "created": "Mon, 24 Apr 2023 15:17:28 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
