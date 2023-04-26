@@ -1,0 +1,127 @@
+{
+    "created": "2023-04-25T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "25",
+    "path": "2023/04/25",
+    "text": "April 25",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I must've written about how the second mover sets the standard, but Google can't find it. So I <a href=\"https://chatthing.ai/bots/b5c0ad69-55d4-4008-a97c-0b2884cca3f2/chats/6db8f7eb-d871-4c9f-83d6-1bc9a6e1c658\">asked the chatbot</a> we set up, and <i>it worked.</i> It found two great quotes from Hugh MacLeod and Phil Jones, and a reference to the interview I did with Robert X. Cringely. Fantastic. This is the future of writing.  ",
+            "created": "Tue, 25 Apr 2023 21:08:57 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2022/04/30/charlotte.png",
+            "imageLink": "https://www.onepeloton.com/instructors/bike/pelo_cw",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's the <a href=\"http://scripting.com/2006/03/19.html#whoIsPhilJones\">citation</a> the bot found. ",
+            "created": "Tue, 25 Apr 2023 21:46:35 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you're a developer who wants to <a href=\"http://this.how/standards/\">create standards</a>, you might check in with other people who have worked in the area, describe the problem, ask if they have ideas. I try to do that. Unfortunately the people mostly don't respond, but sometimes they do. It's how we avoid having two or more ways of doing exactly the same thing. And the second person is the one who has the power to set a standard, not the first. So it's the power move if your goal is really to try to set a standard. ",
+            "created": "Tue, 25 Apr 2023 21:04:42 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Have you ever noticed -- if you ask a programmer to do something and their first reaction is a vehement <i>no way are we doing that</i> then they come back a week later and they've implemented it. I learned never to take a hard no as a for-real no. Good developers keep coming back to the idea if it's interesting enough. Sometimes it ends up as disastrous as the programmer initially thought. I could tell you stories. But also sometimes it's how killer features get into products at the last minute. ",
+            "created": "Tue, 25 Apr 2023 21:02:03 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "FeedLand tweak. Now when displaying a linkblog item, instead of (link) we say what domain the link goes to. That's how we do it in \"Radio3\", and it seems that \"FeedLand\" could benefit from that approach. Here's a <a href=\"http://scripting.com/images/2023/04/25/domainForLink.png\">screen shot</a>. ",
+            "created": "Tue, 25 Apr 2023 18:46:47 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, I used the term <a href=\"https://www.google.com/search?q=site%3Ascripting.com+%22blue+sky%22\">Blue Sky</a> starting <a href=\"http://scripting.com/davenet/1995/01/13/ahugechunkofbluesky.html\">in 1995</a> to describe huge chunks of open space full of potential for innovation.  ",
+            "created": "Tue, 25 Apr 2023 15:27:53 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm having random problems accessing <a href=\"http://scripting.com/\">scripting.com</a> today in Chrome on a Mac. It's just an S3 bucket, chosen so there would never be any difficulty getting through. I wonder if you all are experiencing this? The browser just sits there, wheel spinning. Eventually it sorts itself out, it seems. You can <a href=\"https://github.com/scripting/Scripting-News/issues/258\">respond here</a>. (Obviously if you see that, you're probably not having problems getting through, but maybe you did earlier.)",
+            "created": "Tue, 25 Apr 2023 15:45:00 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Funny story. When I ask Alexa to play <a href=\"https://www.youtube.com/watch?v=ZFz3vdyirR4\">Here Come Those Tears Again</a> by Jackson Brown, it plays the song, then plays it again, and again and so on. I guess it gets tripped up on the last <a href=\"https://www.google.com/search?q=define+again\">word</a> in the song name? The <a href=\"https://en.wikipedia.org/wiki/Here_Come_Those_Tears_Again\">story</a> of the song is quite moving. Background vocals by <a href=\"https://en.wikipedia.org/wiki/Bonnie_Raitt\">Bonnie Raitt</a>. ",
+            "created": "Tue, 25 Apr 2023 12:22:10 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Blue Sky questions",
+            "created": "Tue, 25 Apr 2023 15:17:31 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Basic questions to ask of any would-be successor to Twitter.",
+                    "created": "Tue, 25 Apr 2023 15:17:43 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Is there a character limit in Blue Sky?",
+                            "created": "Tue, 25 Apr 2023 15:17:38 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Does it support simple styling: bold and italic.",
+                            "created": "Tue, 25 Apr 2023 15:21:36 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "<a href=\"https://en.wikipedia.org/wiki/Hyperlink#How_hyperlinks_work_in_HTML\">Links</a>?",
+                            "created": "Tue, 25 Apr 2023 15:21:39 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Titles?",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Can you edit posts?",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Does it support enclosures, for podcasting?",
+                            "created": "Tue, 25 Apr 2023 15:17:53 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "How about two-way RSS, nice to have. Hook up to simple networks.",
+                            "created": "Tue, 25 Apr 2023 15:21:53 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "My criticisms of Blue Sky, having never tried it.",
+                    "created": "Tue, 25 Apr 2023 15:18:07 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "It's invite-only. Really? On an open protocol? ",
+                            "created": "Tue, 25 Apr 2023 15:18:19 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "It's founded by Jack Dorsey, a nice enough fellow, who should sit down after the huge mess he left us with Twitter.",
+                            "created": "Tue, 25 Apr 2023 15:18:40 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
