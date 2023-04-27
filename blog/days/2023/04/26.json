@@ -1,0 +1,85 @@
+{
+    "created": "2023-04-26T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "26",
+    "path": "2023/04/26",
+    "text": "April 26",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "BTW, this is the <a href=\"http://data.feedland.org/feeds/davewiner.xml\">new URL</a> for my linkblog feed.",
+            "created": "Wed, 26 Apr 2023 20:29:07 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I want to buy a <a href=\"https://twitter.com/davewiner/status/1651282600235761672\">cheap pickup truck</a>, two seater, to go to the garden supply store, stuff like that. All they sell are monsters.",
+            "created": "Wed, 26 Apr 2023 20:28:01 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1651282600235761672",
+            "flInCalendar": true
+        },
+        {
+            "text": "A rambling 12-minute <a href=\"http://scripting.com/2023/04/26/theBigDavesBasketballPodcast.m4a\">podcast</a> about the NBA and how it compares to tech. I'm speaking to my bud, Dave Jacobs, we've been chatting during the playoffs this year. His team as you will soon learn are the Golden State Warriors, who I don't particularly like (as you will also be able to tell). It's just what's on my mind in terms of basketball, which is basically a metaphor for everything. ",
+            "created": "Wed, 26 Apr 2023 14:23:01 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2023/04/26/theBigDavesBasketballPodcast.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "6379349",
+            "flInCalendar": true
+        },
+        {
+            "text": "Change is coming. Google was replaced here <a href=\"http://scripting.com/2023/04/25.html#a210857\">yesterday</a> by my personal chatbot. We need RSS support on the other end so it can always be up to date with the content on the site, but otherwise wow -- a dream realized. Still so much to learn. So Google is on the way out, and Twitter while it's here to stay, not as the town square, rather as the global and public news wire service, Mastodon is becoming more of the place where intelligent people discuss their doings. I'll try to link to Mastodon posts over tweets in the future. ",
+            "created": "Wed, 26 Apr 2023 14:10:04 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/09/17/simpsonsBeeGuy.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've been linkblogging exclusively to <a href=\"https://mastodon.social/@davew\">Mastodon</a> for the last week or so. No more posting links to Twitter. Just Masto (and <a href=\"http://radio3.io/users/davewiner/rss.xml\">my RSS feed</a>, and the <a href=\"http://scripting.com/?tab=links\">Links page</a> on my blog.) I like it. It's changed the way I see the two networks. Not sure people on Mastodon understand it's my linkblog, I think we still have some more work to do there. ",
+            "created": "Wed, 26 Apr 2023 13:56:42 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I don't usually watch MSNBC these days, esp not at 9PM at the beginning of the NBA playoffs, but for some reason I was watching Maddow on Monday and after her long monolog, which was obviously headed to gloating over Tucker Carlson's firing at Fox, her first guest is <i><a href=\"https://www.google.com/search?q=site%3Ascripting.com+%22jay+rosen%22\">JAY ROSEN</a></i> who we know. So weird to see <a href=\"https://mastodon.social/@jayrosen_nyu/110259979835565712\">him</a> in my Catskills living room like that out of the blue. I think TV should be more like that, customized so Maddow mostly interviews (or appears to interview) people they know I know. This is the ultimate in news. And if I don't like Maddow, I can swap her persona for someone I like better. Not sure who that would be now, I find them all pretty <a href=\"https://www.google.com/search?q=obsequious\">obsequious</a>. ",
+            "created": "Wed, 26 Apr 2023 13:53:39 GMT",
+            "type": "outline",
+            "urltoot": "https://mastodon.social/@jayrosen_nyu/110259979835565712",
+            "flInCalendar": true
+        },
+        {
+            "text": "According to Google I have <a href=\"http://scripting.com/images/2023/04/26/linksToJayRosen.png\">1110 links</a> to Jay Rosen on my blog. Wow.",
+            "created": "Wed, 26 Apr 2023 14:05:23 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "While we're at it why don't we have an open api-able dictionary for the English language. Google doesn't really have one, and I don't like pointing to them anyway. When I use an unusual word, I want to link to its definition. (Yes I know about Wordnik. I even wrote a <a href=\"http://thesaurus.land/\">product</a> to work with it, but they shut us out of the API for some reason. I was hoping they'd adopt the product, even market it. I can't imagine it cost that much to let people use it.)",
+            "created": "Wed, 26 Apr 2023 14:02:39 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've gotten a couple of responses from people who say they don't get what <a href=\"https://www.google.com/search?q=%22two-way+RSS%22+site%3Ascripting.com\">Two-Way-RSS</a> is. Click the link to see all the times I've used the term on the blog. Maybe that'll help. In case you still don't get it, it's a writing system that not only publishes RSS, but accepts it as input. So I can write using my own editing tools, and publish through yours. I want to publish anywhere people want to read my stuff, and I refuse to copy/paste my writing into edit boxes. The first system I really wanted this for was Substack, although I would have liked Facebook or Medium to have it a long time ago. Yes I know there are ways to pipe RSS into systems, I've written plenty of them. But there's no substitute for a content system supporting it as a feature. ",
+            "created": "Wed, 26 Apr 2023 16:59:38 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2022/03/21/beetle.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Impossible UI",
+            "created": "Thu, 27 Apr 2023 03:06:52 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I’ve never been able to get this kind of timer to work.",
+                    "created": "Thu, 27 Apr 2023 03:06:59 GMT",
+                    "inlineImage": "http://scripting.com/images/2023/04/26/timerWithImpossibleUI.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
