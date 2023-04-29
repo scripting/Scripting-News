@@ -1,0 +1,88 @@
+{
+    "created": "2023-04-28T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "28",
+    "path": "2023/04/28",
+    "text": "April 28",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I make better <a href=\"http://scripting.com/publicfolder/chatgpt/2023/04/28/delete-row-with-jquery.html\">use of jQuery</a> because I have ChatGPT. ",
+            "created": "Fri, 28 Apr 2023 14:43:17 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I always wondered what's the <a href=\"http://scripting.com/publicfolder/chatgpt/2023/04/28/goosebumps-an-evolutionary-response.html\">deal with goosebumps</a>. What purpose do they serve? Is it evolutionary, because we used to have feathers?",
+            "created": "Fri, 28 Apr 2023 20:00:28 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "And what do goosebumps have to do <a href=\"http://scripting.com/publicfolder/chatgpt/2023/04/28/goosebumps-vs-geese.html\">with geese</a>?",
+            "created": "Sat, 29 Apr 2023 03:19:30 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Apparently Twitter wants the <a href=\"https://twitter.com/MTA\">MTA</a> to pay <a href=\"https://www.amny.com/transit/mta-service-alerts-briefly-go-dark-after-elon-musk-restricts-access-to-twitter-api/\">$42K per month</a> to use their API, instead of typing the messages by hand? ",
+            "created": "Fri, 28 Apr 2023 16:32:40 GMT",
+            "type": "outline",
+            "urltoot": "https://mastodon.social/@davew/110277415105030648",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://mastodon.social/@dries@indieweb.social/110274986030835922\">Dries Buytaert</a> really likes <a href=\"https://github.com/vishalxl/nostr_console/discussions/31\">Nostr</a>. \"Its simplicity reminds me of RSS.\" That's high praise and a really strong <a href=\"https://dri.es/nostr-love-at-first-sight\">endorsement</a>. Dries is <a href=\"https://en.wikipedia.org/wiki/Dries_Buytaert\">influential</a>. My <a href=\"https://mastodon.social/@davew/110276522655464812\">response</a>. I've started reading their <a href=\"https://gist.github.com/r3nor/93cfbfe76c983a701321d3e30c990174\">spec</a> a few times, got lost at the beginning and never got un-lost. Something else is needed here. To start, a <i>hello world</i> server app in Node.js that I can type something into and watch what it does in the debugger. There shouldn't be so much guessing. Ideally, supporting a protocol should mostly be reverse-engineering code that works. Ultimately I'd like to see as many ideas directly stolen from \"RSS\" in <i>one</i> of these protocols. Why not tap into the huge base of developers who know how to work with RSS. Where I come from that's how you build something new, by using as much of the past as possible to make it really easy for developers (who are people, btw) to adopt it.  ",
+            "created": "Fri, 28 Apr 2023 13:16:43 GMT",
+            "type": "outline",
+            "urltoot": "https://indieweb.social/@dries/110274986005524480",
+            "image": "http://scripting.com/images/2023/04/28/marjorieTrailerParkGreen.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://www.metacritic.com/tv/top-boy\">Top Boy</a> looks like something I should watch.",
+            "created": "Fri, 28 Apr 2023 14:07:37 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "This is a pretty good <a href=\"https://twitter.com/TheFigen_/status/1651637496076279815\">trick</a>. :boom:",
+            "created": "Sat, 29 Apr 2023 03:10:11 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/TheFigen_/status/1651637496076279815",
+            "flInCalendar": true
+        },
+        {
+            "text": "You make it",
+            "created": "Fri, 28 Apr 2023 19:40:13 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2023/04/28/goodhumor.png",
+            "subs": [
+                {
+                    "text": "Facebook is what you make it.",
+                    "created": "Fri, 28 Apr 2023 19:40:17 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Mastodon is what you make it. ",
+                    "created": "Fri, 28 Apr 2023 19:41:04 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "RSS is what you make it.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Twitter is what you make it.",
+                    "created": "Fri, 28 Apr 2023 19:40:57 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "WordPress is what you make it.",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
