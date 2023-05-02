@@ -1,0 +1,123 @@
+{
+    "created": "2023-05-01T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "01",
+    "path": "2023/05/01",
+    "text": "May 01",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=v5tr_L31StI\">If You Could Read My Mind</a>. ",
+            "created": "Tue, 02 May 2023 03:32:50 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=v5tr_L31StI",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's time to completely reconsitute the Supreme Court.",
+            "created": "Mon, 01 May 2023 15:21:56 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Good morning and welcome to the month of May 2023. The year, as usual, is flying by. I have performed the usual monthly ritual. Here's the <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/opml/2023/04.opml\">OPML archive</a> for April. ",
+            "created": "Mon, 01 May 2023 12:02:45 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The AI bots are already smarter",
+            "created": "Mon, 01 May 2023 12:05:18 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I read a <a href=\"https://www.nytimes.com/2023/05/01/technology/ai-google-chatbot-engineer-quits-hinton.html\">story</a> in the NYT where the so-called godfather of AI is concerned that AI might get out of control. His two major concerns, as outlined in the article are that people might lose jobs, and not just menial jobs, and we might have a hard time finding out the truth. Another concern is that the bots will be fighting wars on our behalf, as we have seen in many science fiction stories over the generations. ",
+                    "created": "Mon, 01 May 2023 12:05:25 GMT",
+                    "image": "http://scripting.com/images/2021/06/29/monaLisa.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Anyway..",
+                    "created": "Mon, 01 May 2023 12:07:40 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "ChatGPT is already smarter than humans because it has a non-zero attention span, and isn't trying to promote its own career and has no conflicts of interest. ",
+                    "created": "Mon, 01 May 2023 12:07:42 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "On the other hand, if you ask a human a question, the answer will probably just be a canned <a href=\"http://scripting.com/publicfolder/chatgpt/2023/05/01/schpiel-definition.html\">schpiel</a> they have memorized based on hearing a keyword in what you said. ",
+                    "created": "Mon, 01 May 2023 12:08:30 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So it isn't much of a leap to say someday the bots may be smarter than humans. ",
+                    "created": "Mon, 01 May 2023 12:09:06 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The better conclusion is that humans better get our shit together start using our intelligence because the competition is here and it's already better than we are. ",
+                    "created": "Mon, 01 May 2023 12:09:20 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "BTW, for years I've been trying to find an explanation of the difference between rain and showers in weather forecasts. I asked ChatGPT and it patiently <a href=\"http://scripting.com/publicfolder/chatgpt/2023/05/01/rain-vs-showers.html\">explained</a>. I asked thousands of humans and the answers I got were either vague or wrong. ",
+                    "created": "Mon, 01 May 2023 12:11:18 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "No feed? Not a podcast",
+            "created": "Mon, 01 May 2023 12:17:36 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Adam Curry <a href=\"https://mastodon.social/@adam@podcastindex.social/110292733835808925\">says</a> if it doesn't have a feed it ain't a podcast. Obviously I agree, because it's the truth, and this is how I responded..",
+                    "created": "Mon, 01 May 2023 12:17:46 GMT",
+                    "subs": [
+                        {
+                            "text": "Adam -- as you know we've been having this discussion for years. ",
+                            "created": "Mon, 01 May 2023 12:17:46 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Companies like Google, Amazon, Spotify etc don't care, they'll  call a cheese sandwich a podcast if they want to. ",
+                            "created": "Mon, 01 May 2023 12:18:39 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "In the end, the word may come to mean nothing. ",
+                            "created": "Mon, 01 May 2023 12:18:55 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Same thing happened with <a href=\"http://bloggercon.scripting.com/iv/format.html\">unconference</a>.",
+                            "created": "Mon, 01 May 2023 12:18:58 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "On the other hand -- a lot of people believe they have choice in what client software they use to listen to podcasts, and that will do more to enforce the standard than either you or I.",
+                            "created": "Mon, 01 May 2023 12:19:01 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: I asked ChatGPT and <a href=\"http://scripting.com/publicfolder/chatgpt/2023/05/01/rss-2-0-required-for-podcast.html\">it agrees</a>, no feed, not a podcast. ",
+                    "created": "Mon, 01 May 2023 12:21:03 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PPS: I don't know why <a href=\"https://www.google.com/search?rlz=1C5CHFA_enUS743US747&sxsrf=APwXEdcOwGFDjBPP42XyUZlduM0RyUQPmA:1682943817050&q=cheese+sandwich&tbm=isch&sa=X&ved=2ahUKEwigopGjjtT-AhWkhIkEHa48A9UQ0pQJegQIDBAB&biw=1443&bih=1058&dpr=2\">cheese sandwiches</a> are so funny, but they are. ",
+                    "created": "Mon, 01 May 2023 12:23:46 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
