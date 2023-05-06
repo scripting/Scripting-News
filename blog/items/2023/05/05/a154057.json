@@ -1,0 +1,7 @@
+{
+    "text": "Programmers often write code as if vertical space were a dear resource. It isn't, it's basically free, or as close to free as you can get. I like to spread my code out vertically, using intermediate value-holders with meaningful names. Designed to be stepped through in a debugger. This is how my mind works. I also was a machine language programmer at one time, where you had no choice, this was the way you wrote code. Intermediate values went in registers, R0-R7. One of them was the stack pointer, and one held the program counter, so you couldn't use those. I learned machine language on the <a href=\"https://programmer209.wordpress.com/2011/08/03/the-pdp-11-assembly-language/\">PDP-11</a>, a wonderful machine whose design probably had great influence on C and Unix. Then on the <a href=\"https://en.wikipedia.org/wiki/MOS_Technology_6502\">6502</a> which was designed to control dishwashers and toothbrushes but somehow ended up in the <a href=\"http://www.easy68k.com/paulrsm/6502/HYDE6502.TXT\">most popular PC</a> of its day. Never mind, machine language was a wonderland of power. You owned the whole thing. There was no supervision. You ruled the fucking world. You were god. I wonder if Elon or Jack have ever programmed at the machine level. ",
+    "created": "Fri, 05 May 2023 15:40:57 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2023/05/05/pdp11handbook.png",
+    "flInCalendar": true
+}
