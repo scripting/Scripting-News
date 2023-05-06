@@ -1,0 +1,61 @@
+{
+    "created": "2023-05-05T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "05",
+    "path": "2023/05/05",
+    "text": "May 05",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Elon Musk and Jack Dorsey are perfect illustrations why there's no point in accumulating vast wealth. There's absolutely nothing a person can do with the money. But it <i>is</i> fun to destroy things, in games like <a href=\"http://scripting.com/stories/2010/06/18/whyAngryBirdsIsSoMuchFun.html\">Angry Birds</a>. In the real world, actual people get hurt. No matter how heartless you pretend to be, all that pain accumulates, you end up feeling it. Maybe that'll be the moral of <a href=\"http://scripting.com/2018/08/06/124120.html\">Succession</a>. The plot becomes something like <a href=\"http://scripting.com/2023/02/26/230852.html\">Heaven Can Wait</a>, where they take Tom's challenge of giving up or setting aside their vast wealth, for love. ",
+            "created": "Fri, 05 May 2023 14:17:54 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2023/05/05/heavenCanWaitSmall.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "What we need is not one twitter to replace the old twitter but a whole armada of twitters. Like the podcastosphere with <a href=\"https://www.pcmag.com/picks/the-best-podcast-player-apps\">all the different players</a>. Look at how much better that's working. No Musk or Jack. Think about it.",
+            "created": "Fri, 05 May 2023 15:18:16 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "So sick of the bullshit the supposed visionaries inflict on us. Jack and Elon should buy yachts or something and crash them into each other for fun, star in their own reality show, and let the world get on without them.",
+            "created": "Fri, 05 May 2023 14:16:44 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Maybe I should change the name of <a href=\"http://scripting.com/\">my blog</a> to <a href=\"https://www.hover.com/domains/results?utf8=%E2%9C%93&q=spoilernews\">Spoiler News</a>. The tagline would be \"Everything here is a spoiler so don't read.\" Bet that'd really pull em in. :boom:",
+            "created": "Fri, 05 May 2023 14:24:53 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "One of my favorite terms from basketball is <a href=\"http://scripting.com/publicfolder/chatgpt/2023/05/05/garbage-time-in-sports.html\">Garbage Time</a>. It <i>totally</i> should be the name of a TV show. But there already are quite a few <a href=\"https://www.google.com/search?q=podcast+called+Garbage+Time\">podcasts</a> called Garbage Time, of course. ",
+            "created": "Fri, 05 May 2023 14:13:16 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's good for me to explain myself to someone who is listening!",
+            "created": "Fri, 05 May 2023 14:53:48 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Programmers often write code as if vertical space were a dear resource. It isn't, it's basically free, or as close to free as you can get. I like to spread my code out vertically, using intermediate value-holders with meaningful names. Designed to be stepped through in a debugger. This is how my mind works. I also was a machine language programmer at one time, where you had no choice, this was the way you wrote code. Intermediate values went in registers, R0-R7. One of them was the stack pointer, and one held the program counter, so you couldn't use those. I learned machine language on the <a href=\"https://programmer209.wordpress.com/2011/08/03/the-pdp-11-assembly-language/\">PDP-11</a>, a wonderful machine whose design probably had great influence on C and Unix. Then on the <a href=\"https://en.wikipedia.org/wiki/MOS_Technology_6502\">6502</a> which was designed to control dishwashers and toothbrushes but somehow ended up in the <a href=\"http://www.easy68k.com/paulrsm/6502/HYDE6502.TXT\">most popular PC</a> of its day. Never mind, machine language was a wonderland of power. You owned the whole thing. There was no supervision. You ruled the fucking world. You were god. I wonder if Elon or Jack have ever programmed at the machine level. ",
+            "created": "Fri, 05 May 2023 15:40:57 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2023/05/05/pdp11handbook.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=HFS2oz-i3Ik\">Slippery People</a>. ",
+            "created": "Fri, 05 May 2023 14:51:47 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=HFS2oz-i3Ik",
+            "flInCalendar": true
+        }
+    ]
+}
