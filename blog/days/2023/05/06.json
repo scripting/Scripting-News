@@ -1,0 +1,147 @@
+{
+    "created": "2023-05-06T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "06",
+    "path": "2023/05/06",
+    "text": "May 06",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=Kz9o3tf9lmk\">Was a Sunny Day</a>.",
+            "created": "Sat, 06 May 2023 17:53:02 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=Kz9o3tf9lmk",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm sorry but your opinion doesn't matter very much, if at all. Nor does mine. Here's why I think that. Most of my relatives had strong opinions and stated them often and did not welcome dissent. My father and mother. Both grandfathers. My maternal grandmother. Uncle Ken. They all had opinions about everything. Sometimes they even changed their minds, to their credit. And one hid something about himself that I learned later from Wikipedia (amazingly my maternal grandfather was a communist, still not sure I believe it, Wikipedia is often full of misinfo). Anyway the point is that all the people I listed are now dead. If anyone cared about their opinions when they were alive (I don't think anyone did) they certainly don't care about them now. Soon enough you and I will be dead. So go ahead and have the opinions if it makes you happy. But if it makes you miserable, as it often did for my relatives, consider not bothering because simply does not matter. And the stupid thing is we've built our networks around the idea that opinions matter. Think of all the wasted bandwidth and server space. Maybe it'd be better if the AI bots win. At least they don't repeat themselves all the time with complaints about <a href=\"https://en.wikipedia.org/wiki/Graffiti\">graffiti</a> and whatnot. BTW I loved all the people I listed above even if I didn't enjoy their opinions very much. ",
+            "created": "Sat, 06 May 2023 12:40:58 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/2016/10/26/pantsuits.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "If someone sends me an invite to Bluesky I will join. I have asked for an invite, but so far haven't gotten one. ",
+            "created": "Sat, 06 May 2023 12:35:05 GMT",
+            "type": "tweet",
+            "tweetId": "1654827309642264578",
+            "tweetUserName": "davewiner",
+            "flInCalendar": true
+        },
+        {
+            "text": "It <a href=\"http://static.userland.com/userLandDiscussArchive/msg012215.html\">happened</a> <a href=\"http://scripting.com/2016/10/26/whyImVotingForHillaryClinton.html\">again</a>. On the radio, someone talking about Facebook and making a lot of sense. Usually on NPR they talk bullshit about Facebook. It was Cory Doctorow, who in my experience is an extreme &lt;bleep>. Turns out he was covering up that he has a good mind. Nice to know.",
+            "created": "Sat, 06 May 2023 12:36:51 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Ideas for Twitter",
+            "created": "Sat, 06 May 2023 14:11:35 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "If I were in trying-to-work-with-Twitter mode, I would suggest...",
+                    "created": "Sat, 06 May 2023 14:11:40 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Along with the monthly fee, add a certain number of API calls to every user who pays. Then devs could make products for them, without having to pay Twitter. Make the thing self-funding so individuals could play not just corporations. Twitter is more of an end-user thing than a corporate thing.",
+                            "created": "Sat, 06 May 2023 14:11:54 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "For  $1 more per month, include some JSON storage for the user, accessible to the apps they grant access to, thus moving into an area AWS should be in but refuses to go. Storage that goes with identity for people not just techies. A retail-ized version of Amazon S3. It will be an <i>enormous</i> business. ",
+                            "created": "Sat, 06 May 2023 14:12:05 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I'd comp devs who make software, and give them a special icon so people know to ask them for features. Incentives. Think like a businessperson not a school marm. ",
+                            "created": "Sat, 06 May 2023 14:11:55 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "You want to really clean up?  Co-promote the developer products and share revenue. It doesn't cost much to buy developer love.  ",
+                            "created": "Sat, 06 May 2023 14:12:17 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "PS: As a free addon for users, give each paying user an RSS feed, a good one. I will help you do this really well, no charge.",
+                            "created": "Sat, 06 May 2023 14:44:28 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "The mother of all bank runs",
+            "created": "Sat, 06 May 2023 12:59:30 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2023/05/06/bankrun.png",
+            "description": "The US is a huge bank. Crashing the bank will start the mother of all bank runs.",
+            "subs": [
+                {
+                    "text": "Defaulting on the national debt will be like the crash of Lehman Brothers in 2008, only a lot worse, because we were able to use the <a href=\"http://scripting.com/publicfolder/chatgpt/2023/05/06/prowess-definition.html\">prowess</a> of the US dollar to prop up the banking system when Lehman fell. There's nothing that can prop up the dollar that way.",
+                    "created": "Sat, 06 May 2023 12:59:45 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This is not about the economy being strong or weak. It's about whether we have an economy at all. Not just the US but the whole world.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Emphatically: There is no economy without the dollar playing that role. it's not a matter of weak or strong, it's about the <i>existence</i> of an economy. ",
+                    "created": "Sat, 06 May 2023 13:00:24 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This is the kind of economics that's more like physics.",
+                    "created": "Sat, 06 May 2023 14:37:49 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Let me put a different way. If it weren't for the US government bailout that barely worked little old Lehman Brothers would have crashed us into a new global dark ages. That's what they meant by \"too big to fail.\"",
+                    "created": "Sat, 06 May 2023 14:37:49 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The US is a big fucking bank. If it crashes there's no one to bail it out. Welcome to your future, no health care, transport, food, electricity, no TV or internet. Everyone for themself. Not a recession. A collapse. ",
+                    "created": "Sat, 06 May 2023 14:38:10 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The problem isn't <i>really</i> that the Repubs are hellbent to crash us into a new dark age, it's that the people are so uneducated, and that includes journalists, that they don't get that this is what's at stake or they don't want to say it. ",
+                    "created": "Sat, 06 May 2023 14:40:27 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It would be the mother of all bank runs.",
+                    "created": "Sat, 06 May 2023 14:40:51 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: I asked ChatGPT to <a href=\"http://scripting.com/publicfolder/chatgpt/2023/05/06/us-gov-default-impact.html\">write about this</a>. I agree with what it said. \"It is estimated that about two-thirds of the US national debt is held by US citizens and institutions.\" So if we default, I guess, that's who we're ripping off, though the Repubs never talk about that.  ",
+                    "created": "Sun, 07 May 2023 03:26:28 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "King Charles III",
+            "created": "Sat, 06 May 2023 14:28:46 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://en.wikipedia.org/wiki/Charles_III\">I don't think it could be much fun to be him.</a>",
+                    "created": "Sat, 06 May 2023 14:28:49 GMT",
+                    "inlineImage": "http://scripting.com/images/2023/05/06/kingCharles.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
