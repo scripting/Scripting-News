@@ -1,0 +1,6 @@
+{
+    "text": "<a href=\"https://www.youtube.com/watch?v=IURpPKUbZ_Y\">Demo of Firesky</a>, a <a href=\"http://scripting.com/publicfolder/chatgpt/2023/05/15/social-media-firehose-access.html\">firehose</a> for Bluesky. It quickly scrolls all posts on Bluesky through a vertical window. New messages appear at the bottom and scroll off the top. From there, the author, John Spurlock has added, with my help, RSS feeds from the same stream of posts. So you can <a href=\"https://rss.firesky.tv/?filter=%40davew\">follow me</a> in your feed reader. This is important for two reasons: 1. At this time Bluesky is still private, so if I give you a pointer to something I wrote there, you won't be able to see it. The feed gets around that restriction. 2. Because Mastodon also has RSS feeds, I can read both social nets with the same API. It gives us a common language, and is the next step in bootstrapping RSS support in all social media apps. Once that happens, we, writers and readers, will be able to use our own writing tools, and give readers choice of where to read. This is the key feature in \"textcasting\", ie applying the philosophy of podcasting to text. It <i>is</i> possible, it requires users to want it, insist on it. We're getting a bit closer to that today. ",
+    "created": "Mon, 15 May 2023 13:20:38 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
