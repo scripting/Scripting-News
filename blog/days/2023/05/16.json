@@ -1,0 +1,29 @@
+{
+    "created": "2023-05-16T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "16",
+    "path": "2023/05/16",
+    "text": "May 16",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Added a <a href=\"http://textcasting.org/#1684245011000\">note</a> to textcasting. \"Let's call the things we write and publish on social networks <i>posts. </i>That term has the longest history, it's simple, one syllable, and isn't tied to a particular system. To give them different names on each system -- tweet, toot, skeet -- as if our writing could only be read in one context, isn't imho what writers want. I don't feel that way about my own writing.\"",
+            "created": "Tue, 16 May 2023 13:55:31 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/07/27/weHaveMetTheEnemy.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "A new <a href=\"https://github.com/scripting/reallysimple/blob/main/worknotes.md#51623-by-dw----v0424\">version</a> of the <a href=\"https://github.com/scripting/reallysimple\">reallysimple package</a> works around a <a href=\"https://github.com/omnidan/node-emoji#20-release-rocket\">breaking change</a> in the <a href=\"https://github.com/omnidan/node-emoji/releases/tag/v2.0.2\">node-emoji</a> package. ",
+            "created": "Tue, 16 May 2023 20:06:41 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "How to <a href=\"http://ai.scripting.com/2023/05/16/create-droplet-image.html\">create an image of a droplet</a> on Digital Ocean.",
+            "created": "Tue, 16 May 2023 15:51:47 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
