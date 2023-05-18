@@ -1,0 +1,49 @@
+{
+    "created": "2023-05-17T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "17",
+    "path": "2023/05/17",
+    "text": "May 17",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=KxRRAaTadTQ&t=10s\">Pinky and the Brain</a>.",
+            "created": "Wed, 17 May 2023 22:14:42 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=KxRRAaTadTQ",
+            "flInCalendar": true
+        },
+        {
+            "text": "We need a new <a href=\"http://xmlrpc.com/storyreader/story2198.md\">MetaWeblog API</a> to cover all social networks APIs.  ",
+            "created": "Wed, 17 May 2023 21:21:27 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I think that net-net Bluesky is a good thing, because it guarantees we'll have at least two incompatible social internets. Had they supported ActivityPub that would probably have slowed everything down to the pace of something like Ecmascript. All kinds of bizarre unnecessary adventures and lots of breakage. I'd rather deal with the same problem the designers of the internet solved with TCP/IP. Interestingly, we have been at this almost-exact place before in the early 00s, when the two \"biggest\" vendors, in some sense (neither were very big) were Blogger and UserLand. We had a big sprawling API for our Manila system. And then Blogger came out with a much smaller API for theirs. I wanted to just move over to their API so we could be compatible, but we needed more features because our product did more. But we only added what was absolutely necessary to keep it small. So first we supported the Blogger API. I think that surprised them. Pretty sure it did. Then we <a href=\"http://scripting.com/2002/03/14.html\">came out with</a> a slightly bigger API called the <a href=\"http://xmlrpc.com/storyreader/story2198.md\">MetaWeblog API</a>. They both became instant standards. To this day WordPress supports MetaWeblog. And here we are again. We need what the MetaWeblog API did, and it should cover: 1. Mastodon. 2. Bluesky. 3. Twitter (it's still got the biggest installed base, even if the CEO is dangerous). 4. WordPress (of course, it already does). I'm also going to put out a reference implementation that supports all the features of the \"textcasting\" plan. And hope we get a great new layer to build on and no single company gets to push us into a corner and lock the door. Make text like podcasting. That's the idea. ",
+            "created": "Wed, 17 May 2023 16:19:17 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2023/05/17/pinky.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "One of the most frustrating things about developers who get in charge of standards, is when there's already a consenus among developers to do something the same way, they'll come out with something that does the same thing, but works completely differently. By the time this happens, most of the devs of the original apps are gone, and the owners of the app either hire someone who doesn't know what they're doing and they release buggy and incomplete support for the new way, or they decide to just to turn it off, and hope no one notices. Something happened like this yesterday, when I was setting up a new instance of some well-vetted <i>recent</i> software, and found that it didn't build with the current Node version. So I set up a new server, took an hour or so, and got the latest version of everything running, figuring that the app would now run. It did not. So I had to dig more. Eventually after taking a nap to clear my head, I came back and found the problem. The developers of a very very very small bit of code had decided to break every app that used it. And it was <a href=\"https://github.com/omnidan/node-emoji/releases/tag/v2.0.2\">recent enough</a> that I couldn't find a trail that explained the workaround. Eventually I figured how to work around it, burned the better part of a day, just because someone was feeling powerful or angry, unloved or I don't know what. ",
+            "created": "Wed, 17 May 2023 13:56:18 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2023/05/17/theBrain.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Writing queries for ChatGPT is like programming. Why I like it? :smile:",
+            "created": "Wed, 17 May 2023 22:10:33 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "We're in that part of the year where first the marketers torture me with the reminder that my mother is dead, and then when that wasn't enough do the same with poor father. I hope my parents would laugh at this. I think they would. 😀",
+            "created": "Wed, 17 May 2023 16:17:10 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
