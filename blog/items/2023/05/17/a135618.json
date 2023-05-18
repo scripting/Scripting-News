@@ -1,0 +1,7 @@
+{
+    "text": "One of the most frustrating things about developers who get in charge of standards, is when there's already a consenus among developers to do something the same way, they'll come out with something that does the same thing, but works completely differently. By the time this happens, most of the devs of the original apps are gone, and the owners of the app either hire someone who doesn't know what they're doing and they release buggy and incomplete support for the new way, or they decide to just to turn it off, and hope no one notices. Something happened like this yesterday, when I was setting up a new instance of some well-vetted <i>recent</i> software, and found that it didn't build with the current Node version. So I set up a new server, took an hour or so, and got the latest version of everything running, figuring that the app would now run. It did not. So I had to dig more. Eventually after taking a nap to clear my head, I came back and found the problem. The developers of a very very very small bit of code had decided to break every app that used it. And it was <a href=\"https://github.com/omnidan/node-emoji/releases/tag/v2.0.2\">recent enough</a> that I couldn't find a trail that explained the workaround. Eventually I figured how to work around it, burned the better part of a day, just because someone was feeling powerful or angry, unloved or I don't know what. ",
+    "created": "Wed, 17 May 2023 13:56:18 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2023/05/17/theBrain.png",
+    "flInCalendar": true
+}
