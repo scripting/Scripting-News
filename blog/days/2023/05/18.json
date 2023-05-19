@@ -1,0 +1,23 @@
+{
+    "created": "2023-05-18T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "18",
+    "path": "2023/05/18",
+    "text": "May 18",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "We expect freedom of choice on both ends with podcasting, now I want to see that same <a href=\"http://textcasting.org/\">freedom with text</a>. That means you can write using any editor, and people can read wherever they like to read.",
+            "created": "Thu, 18 May 2023 21:48:32 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Now that we have RSS feeds for Bluesky, people who don't have accounts can see what's going on, without resorting to screen shots. For example, one of my favorite feeds is the NYT feed, where they post results of various AI experiments. Lately, they've been feeding the titles of stories into a tool that generates artistic renderings, with phenomenal results. Now I can show you <a href=\"http://scripting.com/code/testing/blueskyreader/\">what it looks like</a>. That's just a little thing I threw together quickly. More coming soon. :smile:",
+            "created": "Thu, 18 May 2023 17:16:49 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2023/05/18/aiArt.png",
+            "flInCalendar": true
+        }
+    ]
+}
