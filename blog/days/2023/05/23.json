@@ -1,0 +1,80 @@
+{
+    "created": "2023-05-23T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "23",
+    "path": "2023/05/23",
+    "text": "May 23",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=PAhOJ1dLviQ\">Television Man</a>.",
+            "created": "Tue, 23 May 2023 12:33:53 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=PAhOJ1dLviQ",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"http://scripting.com/2022/07/12/170955.html?title=twoWayRss\">Two-way RSS</a> is a big idea that's got to happen if we want a silo-free web. Imagine a newsletter publishing app that let you feed stories to it from your favorite editor via RSS for publication to a list of subscribers. I'm thinking of a future Substack competitor that doesn't force writers to use their editor. It simply provides a service to any writer who uses an editor that can produce an RSS feed as output. Another example, if Mastodon handled inbound feeds, you'd be able to follow someone on Bluesky from within Mastodon. I would love to see this connection made asap. ",
+            "created": "Wed, 24 May 2023 02:03:29 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/08/29/hope.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I am working with <a href=\"https://johnspurlock.com/\">John Spurlock</a> on RSS 2.0 feeds for Bluesky. Here's <a href=\"https://rss.firesky.tv/?filter=from%3Ascripting.com\">the feed</a> of my Bluesky posts. You should be able to subscribe to it in any feed reader that understands RSS, even if you don't have a Bluesky account. ",
+            "created": "Tue, 23 May 2023 11:57:34 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's an <a href=\"https://firesky.tv/lists/scripting.com/follows.opml\">OPML subscription list</a> of the feeds of the people I follow on Bluesky. You should be able to import this into any feed reader.",
+            "created": "Tue, 23 May 2023 22:25:53 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Also if you have a Bluesky account you also have an RSS feed. For example here's the <a href=\"https://rss.firesky.tv/?filter=from%3Anyt.bsky.social\">feed</a> for the NYT. ",
+            "created": "Tue, 23 May 2023 15:59:23 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you have any questions about the RSS format we're using for Bluesky, I opened a <a href=\"https://github.com/scripting/blue.feedland/issues/10\">thread</a> on the repo we set up for this work. ",
+            "created": "Tue, 23 May 2023 21:47:32 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The newest <a href=\"https://500songs.com/podcast/episode-165-dark-star-by-the-grateful-dead/\">500 Songs podcast</a> is Dark Star by the Grateful Dead. ",
+            "created": "Tue, 23 May 2023 15:56:09 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "LeBron James says he <a href=\"https://bleacherreport.com/articles/10076982-sources-lebron-james-considering-retirement-after-wcf-exit-20-nba-seasons\">might retire</a>. Good move. He also says he isn't into basketball if he isn't in the race for a championship. See there's the problem, right there. There are 30 teams in the NBA. In any given year 29 of them will not win the championship. 28 of them won't even make the Finals. Yet their fans felt their seasons were worthwhile if they played the game with heart, if there's hope for next season. This is why I am not a Yankees fan or a LeBron James fan. I <a href=\"http://scripting.com/davenet/1999/10/20/winningIsntEverything.html\">love my team</a> even when they lose, <i>especially</i> when they lose. ",
+            "created": "Tue, 23 May 2023 12:21:46 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, I understand where LeBron is coming from. When I started a software company in the early 80s, the business was tough and we almost went under quite a few times. But I couldn't lose. I couldn't face myself if it didn't work. So I <i>made</i> it work. But, after winning once, I relaxed and focused on the art of it. I've already won, now why did I get into this in the first place? I had something to say, which was more than about how I can win. I can also make beauty and break through and do new things with the medium I chose. ",
+            "created": "Tue, 23 May 2023 12:36:18 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Me, as a kid",
+            "created": "Tue, 23 May 2023 12:10:27 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I was actually pretty cute when I wanted to be. :smile: ",
+                    "created": "Tue, 23 May 2023 12:10:37 GMT",
+                    "inlineImage": "http://scripting.com/images/2023/05/23/daveAsAKid.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
