@@ -1,0 +1,69 @@
+{
+    "created": "2023-05-24T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "24",
+    "path": "2023/05/24",
+    "text": "May 24",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=oGpFcHTxjZs\">What's Love Got To Do With It?</a>",
+            "created": "Wed, 24 May 2023 23:35:28 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=oGpFcHTxjZs",
+            "flInCalendar": true
+        },
+        {
+            "text": "I am done letting journalists decide what technology is useful.",
+            "created": "Wed, 24 May 2023 15:53:21 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I like the <a href=\"https://podcasts.apple.com/us/podcast/hbos-succession-podcast/id1522790936\">Succession podcast</a>, hosted by <a href=\"https://en.wikipedia.org/wiki/Kara_Swisher\">Kara Swisher</a>, whose reason for doing this podcast, I imagine, is that she's on a first-name basis with all the richest people in tech and media. Like <a href=\"https://en.wikipedia.org/wiki/Barbara_Walters\">Barbara Walters</a>, I guess. The top of the journalism food chain, where they all want to be. In the last episode she talked about how many times she had talked with Rupert Murdoch, who the patriarch of Succession is patterned after. That was a strange idea for me. Not only have I never spoken with him, if I were to meet him, I probably wouldn't find anything he said interesting. I went to a lot of conferences in the 80s with people like him. I hated it. Yet my vision of tech has been implemented, in the interim. She and I live in dramatically versions of tech. We don't even remotely speak the same language. Yet she is considered an authority on what tech has value and doesn't. That was the big epiphany for me, the moment I realized we are completely living in different worlds. She created this Facebook, Twitter, Spotify world as much as Zuckerberg, Musk or Ek. So if you don't like the way it turned out, you shouldn't look in that direction for leadership. That said she does good interviews, I will miss the podcast after next week, although I gotta say they could probably keep doing it for <i>years</i> and still be interesting. Succession is great TV, terrible reality. :boom:",
+            "created": "Wed, 24 May 2023 16:05:18 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/09/01/mrFrog.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Now that we have <a href=\"http://scripting.com/2023/05/23.html#a115734\">RSS feeds and OPML subscription lists</a> for Bluesky, I can start developing apps that use that data. It's the first social network to have this feature. Of course it already works with \"FeedLand\". If you want to subscribe to my Bluesky list, <a href=\"http://scripting.com/images/2023/05/24/howToImportSubscriptionListScreen.png\">here's the command</a>, and this is the <a href=\"https://firesky.tv/lists/scripting.com/follows.opml\">URL of the list</a>. You're now following everyone I follow on Bluesky, in FeedLand. The future works! :smile:",
+            "created": "Wed, 24 May 2023 13:50:24 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/01/16/rodneyDangerfield.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, I know that a lot of people can't get on Bluesky. But if you know me, I'm not just doing this for one social net. The point is that once we have something wonderful running on one, we have something to show to people on others. And I'm on Mastodon and Twitter still (see <a href=\"http://scripting.com/2023/05/24.html#a133305\">below</a>). Both have APIs and could conceivably get the same features we've added to Bluesky. That's what \"textcasting\" is all about, it flattens out the differences between the networks at a higher level than tweets. Optional titles, styling, links, enclosures, editable, no length limits. ",
+            "created": "Wed, 24 May 2023 14:03:56 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I decided to pay Twitter a year in advance for the blue checkmark and whatever other privileges come with it. It's not that much money. I pay more to Hulu or Apple TV. Is it worth it? I can afford to find out. (I've gotten a bit of pushback. There are users on Twitter, and I make software for people who use systems like Twitter, so it's like owning a Windows machine if you make software that runs on Windows.) ",
+            "created": "Wed, 24 May 2023 13:33:05 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"http://scripting.com/2022/05/23.html#a125955\">Last year on this day</a>: \"Web3 is as if there was a new band called Beatles 3, and they didn't play music or write songs, they just held up instruments and said 'It would be great if we knew what these were.'\" ",
+            "created": "Wed, 24 May 2023 15:55:20 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Storm over Central Park",
+            "created": "Wed, 24 May 2023 15:22:30 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I took this <a href=\"https://www.facebook.com/photo/?fbid=239590992914980&set=a.114620888745325\">picture</a> from my NYC apartment on 5/23/2014.",
+                    "created": "Wed, 24 May 2023 15:22:38 GMT",
+                    "inlineImage": "http://scripting.com/images/2023/05/24/centralParkStorm.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
