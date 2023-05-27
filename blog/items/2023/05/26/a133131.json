@@ -1,0 +1,6 @@
+{
+    "text": "The trick to making a system easy to work on when one part is on a server and the other part runs on the user's machine, is to make the machine the same in both locations, so code that runs in one place \"just works\" in the other. The further the two are from each other, the more difficult it is to work on. Ideally you should stay in your <a href=\"https://en.wikipedia.org/wiki/High-level_programming_language\">HLL</a> even in your <a href=\"http://scripting.com/98/04/stories/simpleCrossNetworkScript.html\">remote procedure calls</a>. ",
+    "created": "Fri, 26 May 2023 13:31:31 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
