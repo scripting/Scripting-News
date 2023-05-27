@@ -1,0 +1,102 @@
+{
+    "created": "2023-05-26T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "26",
+    "path": "2023/05/26",
+    "text": "May 26",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "\"ChatGPT\" has an important new feature, now you can <a href=\"https://chat.openai.com/share/ab54d41b-904c-4b8d-8d8e-d074e8c2b104\">share links</a> to conversations you had with the bot. I've had that <a href=\"http://ai.scripting.com/2023/05/26/cleveland-indians-baseball-team.html\">ability myself</a>, hacked together with a bookmarklet. I know how important it is to be able to share this stuff easily. Now everyone will get to do this so we can learn more easily from each other, and more easily share what I think is a new form of literature, collaborations between humans and AI bots.",
+            "created": "Fri, 26 May 2023 22:26:17 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2022/06/28/wimpy.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "My linkblog <a href=\"https://concordtest.wordpress.com/2023/05/\">flows through WordPress</a>. It's a social networking app too. Also flows through Mastodon and Bluesky. :smile:",
+            "created": "Fri, 26 May 2023 14:13:27 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "When I was in my late teens going to school in New Orleans, there were still a lot of childhood foods I didn't like -- asparagus, fish, cheese -- but I decided to be brave and try each of them, and I found that I now liked most. This was important because there's a wide variety of great affordable food in New Orleans, it would have been a shame to miss out on it. ",
+            "created": "Fri, 26 May 2023 13:56:47 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I lived <a href=\"https://www.google.com/maps/@29.9264173,-90.1156932,3a,75y,95.09h,88.18t/data=!3m7!1e1!3m5!1s0tYhJCXCVkPl9QX0cAQ4Jg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D0tYhJCXCVkPl9QX0cAQ4Jg%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D83.47504%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu\">one block away</a> from the greatest <a href=\"https://www.google.com/maps/@29.9266569,-90.116564,3a,75y,255h,78.5t/data=!3m7!1e1!3m5!1sXIph6fLEIuJxfnEnvC8QDw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DXIph6fLEIuJxfnEnvC8QDw%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D179.58286%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu\">supermarket</a> in the city, <a href=\"https://www.langensteins.com/\">Langensteins</a>. They had all kinds of New Orleans specialties. We have one great supermarket like that here in the Catskills, <a href=\"https://adamsfarms.com/adams-kingston-store/\">Adams</a>. ",
+            "created": "Fri, 26 May 2023 14:00:48 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "When you think you've installed the new version of some software, but inexplicably it's behaving exactly like the previous version, make sure you've actually done the update. You can save a bunch of time that way.",
+            "created": "Fri, 26 May 2023 13:55:27 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The constant message I get from tech people is -- \"I don't have to listen to you.\" True! You don't. It has been proven. But would it hurt you to listen. Maybe there's some big secret you're not clued in on because you're picky about who you listen to. Just sayin.  ",
+            "created": "Fri, 26 May 2023 13:39:23 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The trick to making a system easy to work on when one part is on a server and the other part runs on the user's machine, is to make the machine the same in both locations, so code that runs in one place \"just works\" in the other. The further the two are from each other, the more difficult it is to work on. Ideally you should stay in your <a href=\"https://en.wikipedia.org/wiki/High-level_programming_language\">HLL</a> even in your <a href=\"http://scripting.com/98/04/stories/simpleCrossNetworkScript.html\">remote procedure calls</a>. ",
+            "created": "Fri, 26 May 2023 13:31:31 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "YouTube and inbound RSS",
+            "created": "Fri, 26 May 2023 13:39:48 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "YouTube is <a href=\"https://podnews.net/update/youtube-rss-plans\">planning</a> to support inbound RSS for podcasts.",
+                    "created": "Fri, 26 May 2023 13:39:54 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "My take on this -- this doesn't seem controversial.",
+                    "created": "Fri, 26 May 2023 13:40:20 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "YouTube is a podcast client. No problem with that. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And -- they're doing inbound RSS, just like I want Mastodon and Bluesky to do! ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "YouTube could be perfect if they also offered outbound RSS.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"http://scripting.com/2022/07/12/170955.html?title=twowayRss\">Two-way RSS</a>. Say it again! ;-)",
+                    "created": "Fri, 26 May 2023 13:40:29 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Charlie Hustle",
+            "created": "Fri, 26 May 2023 18:15:10 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://en.wikipedia.org/wiki/Pete_Rose\">Pete Rose</a> sliding into home plate. ",
+                    "created": "Fri, 26 May 2023 18:15:17 GMT",
+                    "inlineImage": "http://scripting.com/images/2023/05/26/charlieHustle.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
