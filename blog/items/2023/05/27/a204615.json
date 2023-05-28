@@ -1,0 +1,34 @@
+{
+    "text": "Bluesky questions",
+    "created": "Sat, 27 May 2023 20:46:15 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Two questions:",
+            "created": "Sat, 27 May 2023 20:46:21 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "Is it possible to run another instance of Bluesky?",
+                    "created": "Sat, 27 May 2023 20:46:24 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If so, is anyone running one?",
+                    "created": "Sat, 27 May 2023 20:46:25 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "I expect the answer to 1 is \"yes\" if you write your own code, but the official Bluesky server source has not been released yet.",
+            "flInCalendar": true
+        },
+        {
+            "text": "But I honestly don't know the answers to either question.",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
