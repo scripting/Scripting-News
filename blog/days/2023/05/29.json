@@ -1,0 +1,162 @@
+{
+    "created": "2023-05-29T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "29",
+    "path": "2023/05/29",
+    "text": "May 29",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I'm all-in on \"textcasting\". ",
+            "created": "Mon, 29 May 2023 20:03:33 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2023/05/29/goya.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Something interesting to ponder. When we have \"textcasting\"-compatible social media networks, there will be no more wall between blogging and tweeting or tooting. And then we will be able to choose our writing tools and they could be blogging tools as easily as they are the tiny little writing boxes Twitter et al give us. Blogging tools are equipped to deal with titles, styles, links, enclosures, no length limit, editing. These might seem like luxuries now, but once we have them, we'll be amazed that we put up without them for so long when they were very very very very easy to implement. ",
+            "created": "Mon, 29 May 2023 19:56:48 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"http://scripting.com/code/blueskyoutliner/\">Bluesky People Browser</a>: I'm playing with ideas of how to browse around a network of followers on a social media platform. Bluesky is the first that I've had an OPML interface to work with. So I created an outliner for walking the structure of people and who they follow on Bluesky. ",
+            "created": "Mon, 29 May 2023 15:45:24 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"http://scripting.com/images/2023/05/29/blueskyPeopleBrowser.png?nodialog=true\">Screen shot</a> of BSPB.",
+            "created": "Mon, 29 May 2023 16:03:43 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The nice thing about sports, it's the last place you can have an opinion without everyone losing their shit.",
+            "created": "Mon, 29 May 2023 15:30:35 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "ChatGPT is great, reason #897",
+            "created": "Mon, 29 May 2023 19:39:42 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I am an infrequent SQL query writer. My knowledge of the language is pretty limited, but I'm pretty good at understanding the kinds of things it can do, and since I am an experienced programmer, I can specify my needs in fairly accurate technical terms, they just don't happen to be in the SQL programming language. That's where ChatGPT is very useful! ",
+                    "created": "Mon, 29 May 2023 19:39:59 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I wrote out my query in pseudocode, ie English --",
+                    "created": "Mon, 29 May 2023 19:41:30 GMT",
+                    "subs": [
+                        {
+                            "text": "I have a database with three tables, feeds and subscriptions and users. If a user subscribes to a feed there is a record in the subscriptions table connecting the two. I want a query that tells me which feeds have 0 subscribers.",
+                            "created": "Mon, 29 May 2023 19:41:50 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "In the old days before ChatGPT I'd write a <a href=\"https://www.google.com/search?q=site%3Ascripting.com+%22braintrust+query%22\">braintrust query</a>, put it on my blog and the odds were pretty good that in 24 hours I'd have the answer, and would feel grateful and proud. That of course would be after putting in a few minutes trying to find the answer using Google and StackExchange. ",
+                    "created": "Mon, 29 May 2023 19:42:22 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Now I just <a href=\"https://chat.openai.com/share/aad60d06-4d3f-4279-ae6f-dd0296426f3e\">feed it to ChatGPT</a> and it translates it for me, to good SQL code, and in ten minutes I have the query and the answer:",
+                    "created": "Mon, 29 May 2023 19:43:37 GMT",
+                    "flCodeSubs": "true",
+                    "subs": [
+                        {
+                            "text": "SELECT feeds.feedurl, feeds.title FROM feeds LEFT JOIN subscriptions ON feeds.feedurl = subscriptions.feedurl GROUP BY feeds.feedurl, feeds.title HAVING COUNT(subscriptions.feedurl) = 0;",
+                            "created": "Mon, 29 May 2023 19:51:52 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I edited it a bit because it assumed field names where I used slightly different names. And I never said that fields had URLs that identify them, and we must use that, not the unique integer ID that each row also has. ",
+                    "created": "Mon, 29 May 2023 19:44:31 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It worked. Turns out there are 872 feeds in <a href=\"https://feedland.org/\">feedland.org</a>'s database that have no subscribers. I'm looking for ways to make the feed reading part of FeedLand perform better, and time spent reading feeds no one is watching could be a place for savings. ",
+                    "created": "Mon, 29 May 2023 19:45:36 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "ChatGPT, you have made me a more confident and creative programmer. ",
+                    "created": "Mon, 29 May 2023 19:46:33 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Huzzah!",
+                    "created": "Mon, 29 May 2023 19:53:45 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Succession notes",
+            "created": "Mon, 29 May 2023 13:45:19 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Spoilers! Spoilers!",
+                    "created": "Mon, 29 May 2023 22:26:58 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I imagine during the day I'm going to think of a few random things about Succession. Be sure this is 100% top to bottom spoiler. ",
+                    "created": "Mon, 29 May 2023 13:45:24 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A nice thing about Succession: The Roy kids could fuck each other up and all the while they're still a family. They spent a lot of time on that in the last episode. Trying to give us a glimpse of the future for them. Now the ways the hurt each other will be more mundane, more like a normal 0.0001 percenter. ",
+                    "created": "Mon, 29 May 2023 13:43:12 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Succession is a parody, that's what makes it so entertaining. And they play games with us, distract us into overlooking what was obvious -- what eluded all three of the kids, even though the adults were constantly reminding them that they didn't compete at the level they thought they did. ",
+                    "created": "Mon, 29 May 2023 13:49:22 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I just got some quiet time to think about the story of Succession, and the whole show was constructed brilliantly to leave you with the feeling that how could we not all have seen this coming, it was just math. Once the ",
+                    "created": "Mon, 29 May 2023 21:55:58 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The ending of Succession was like a magic trick, revealed. The answer was right before us. Impossible to miss. Yet..",
+                    "created": "Mon, 29 May 2023 22:20:58 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I can't speak for anyone else, but I was led astray by this speech from Karl, about Tom: “You’re a clumsy interloper and no one trusts you. The only guy pulling for you is dead. And now, you’re just married to the ex-boss’ daughter, and she doesn’t even like you. And you are fair and squarely fucked.”",
+                    "created": "Mon, 29 May 2023 22:21:06 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Pretty close to the beginning Marcia said: \"He made you a playground and you think it's the world.\"",
+                    "created": "Mon, 29 May 2023 22:21:17 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Logan said, recently: \"You are not serious people.\"",
+                    "created": "Mon, 29 May 2023 22:21:20 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Logan was a monster. The Swede is a monster. The kids are journalists, pundits. A tribute band if that. They think there are plays. As if they were performing for spin. But the Swede lies and steals and cheats. He was the guy who was Logan's successor, if you think it was Tom, sorry Tom is the next Gerri.",
+                    "created": "Mon, 29 May 2023 22:21:28 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
