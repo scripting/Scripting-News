@@ -1,0 +1,53 @@
+{
+    "created": "2023-06-01T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "01",
+    "path": "2023/06/01",
+    "text": "June 01",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I did my <a href=\"https://twitter.com/davewiner/status/1664240539200258050\">first fat tweet</a>, yet another post <a href=\"https://www.google.com/search?q=site%3Ascripting.com+succession\">about</a> Succession. I'm watching the last episode every night. Still finding new things to admire. Here's a <a href=\"http://scripting.com/images/2023/06/01/fattweet.png\">screen shot</a> of the tweet in all its <a href=\"https://www.wordnik.com/words/corpulence\">corpulence</a>. It's way easier to read than a headline and a link to a blog post. They should work on the formatting a bit. The text is too large and there isn't enough spacing between lines. But it works, and is a welcome addition. There's still <a href=\"http://textcasting.org/\">more to do</a> -- let's have optional titles, links, styling, editing and enclosures. ",
+            "created": "Thu, 01 Jun 2023 12:30:51 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2019/10/09/succession.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Mastodon, Bluesky and Twitter should not be silos relative to each other. I'm starting to post links to Masto on Twitter, and links to Twitter on Bluesky. All combos. I realized I was, in my mind, assuming these <i>were</i> silos. I think other people do too. That's not a good limit to impose, doesn't work in our interests, as users and developers. ",
+            "created": "Thu, 01 Jun 2023 13:44:45 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The 1619 Project had a <a href=\"19-project-hulu-originals-docuseries-on-abc-and-all-episodes-on-hulu\">primetime special</a> on ABC last night. Great perspective-changing stuff. I think a lot more people watch ABC than watch Fox. ",
+            "created": "Thu, 01 Jun 2023 13:10:06 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I wonder if any librarians have written about ChatGPT. I bet they <i>aren't</i> worried about losing their jobs. That's the thing. When Napster was booting up, most of us were thrilled with the ability to finally program our own music. Now we take it for granted. Google was, it turns out, just a glimpse into the future. What we really wanted was a virtual librarian who had access to all the information available to our civilization. Now we're getting there. When I was growing up, the librarians, who became my friends, only had access to a very small fraction of what was known. Basically the books that can fit into a modest-size <a href=\"https://www.queenslibrary.org/about-us/locations/auburndale\">storefront</a> in <a href=\"https://www.google.com/maps/@40.7735726,-73.796516,3a,75y,39.57h,88.29t/data=!3m7!1e1!3m5!1sfiPCQ2wAdxLKEBfrKPHoiQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DfiPCQ2wAdxLKEBfrKPHoiQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D39.14713%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu\">Flushing</a>. Now when you ask for help, they'll have access to everything. ",
+            "created": "Thu, 01 Jun 2023 13:11:42 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The more I use ChatGPT the more I wish it had existed when I was a student. I would have learned so much more. It also would have filled in the blanks for impenetrable teachers and textbooks.",
+            "created": "Thu, 01 Jun 2023 18:40:30 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, we also have a limited ability to edit a tweet. <a href=\"http://scripting.com/images/2023/06/01/edittweetscreen.png\">Screen shot</a>.",
+            "created": "Thu, 01 Jun 2023 13:02:59 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The usual monthly ritual. Here's the <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/opml/2023/05.opml\">May archive</a> in OPML.",
+            "created": "Thu, 01 Jun 2023 12:23:40 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
