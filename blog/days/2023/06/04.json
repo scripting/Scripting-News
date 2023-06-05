@@ -1,0 +1,72 @@
+{
+    "created": "2023-06-04T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "04",
+    "path": "2023/06/04",
+    "text": "June 04",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://www.goodreads.com/quotes/1272183-capitalism-is-the-extraordinary-belief-that-the-nastiest-of-men\">John Maynard Keynes</a>: \"Capitalism is the extraordinary belief that the nastiest of men, for the nastiest of motives, will somehow work together for the benefit of all.\"",
+            "created": "Sun, 04 Jun 2023 13:34:27 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Writing into AI chatbots?",
+            "created": "Sun, 04 Jun 2023 18:26:35 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "It's been a while since I asked about writing into AI chatbots -- ie writing something designed to be queried via something like \"ChatGPT\", or ideally, ChatGPT itself. A few bullet points follow.",
+                    "created": "Sun, 04 Jun 2023 18:27:44 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "I already have a writing tool that I use for everything. ",
+                            "created": "Sun, 04 Jun 2023 18:27:27 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I figure by now a service probably exists that can ingest \"RSS\" or (ideally) \"OPML\" -- and have it be processed and kept updated as things change. ",
+                            "created": "Sun, 04 Jun 2023 18:27:30 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I have a sizable documentation project coming up, and I'd like to, if possible, start off with the new medium. I think we can make docs that work much better. ",
+                            "created": "Sun, 04 Jun 2023 18:27:35 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Of course I asked ChatGPT itself but it was <a href=\"https://chat.openai.com/share/ed72c797-3aa8-44da-bacb-bcee5fd9902c\">no help</a>. They said to use their API. I want to use something that uses their API. I can't spare the time to become a developer at this time.",
+                            "created": "Sun, 04 Jun 2023 15:24:45 GMT",
+                            "type": "outline",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "If you know of such a service, or would like to make one -- send me an email or (better) post a <a href=\"https://github.com/scripting/Scripting-News/issues/262\">comment here</a>. ",
+                            "created": "Sun, 04 Jun 2023 18:26:49 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Shea Stadium",
+            "created": "Sun, 04 Jun 2023 19:01:43 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I grew up in walking distance. Went to lots of Mets games as a kid.",
+                    "created": "Sun, 04 Jun 2023 19:01:49 GMT",
+                    "inlineImage": "http://scripting.com/images/2023/06/04/shea.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
