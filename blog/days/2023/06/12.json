@@ -1,0 +1,37 @@
+{
+    "created": "2023-06-12T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "12",
+    "path": "2023/06/12",
+    "text": "June 12",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Quick podcast: <a href=\"http://scripting.com/2023/06/12/whatAreSocialNetworksUsedFor.m4a\">What are social networks used for?</a>",
+            "created": "Mon, 12 Jun 2023 13:10:58 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2023/06/12/whatAreSocialNetworksUsedFor.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "2280141",
+            "flInCalendar": true
+        },
+        {
+            "text": "I posted a link to the podcast on <a href=\"https://staging.bsky.app/profile/scripting.com/post/3jxy2v2jsnb2e\">Bluesky</a>.",
+            "created": "Mon, 12 Jun 2023 15:17:16 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://flickr.com/photos/docsearls/8393637872/in/album-72157632554627896/\">Doc's</a> <a href=\"https://flickr.com/photos/docsearls/albums/72157632554627896\">album</a> of Aaron Swartz photos. The <a href=\"https://flickr.com/photos/docsearls/224795349/in/album-72157632554627896/\">first</a> is of Aaron and me.  ",
+            "created": "Mon, 12 Jun 2023 23:42:48 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm doing a Bluesky thread writer and publisher. Here's an example of a <a href=\"https://staging.bsky.app/profile/bingeworthy.bsky.social/post/3jxy72dbzxy2r\">thread</a> it published just now. I had ChatGPT write a story about the many kinds of bread in the world and pushed that out as a thread of nine. <a href=\"http://scripting.com/images/2023/06/12/threadCenterScreen.png\">Screen shot</a> at the end of business today. This was the first Node.js app I wrote for Twitter back in 2014, it was called <a href=\"http://scripting.com/2014/11/06/twitterLovesLittlePorkChop.html\">Little Pork Chop</a>. Maybe you remember. Now it's the first app I wrote for Bluesky. Should have it usable in a day or two, knock wood. :smile:",
+            "created": "Mon, 12 Jun 2023 16:33:56 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
