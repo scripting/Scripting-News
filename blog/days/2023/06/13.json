@@ -1,0 +1,130 @@
+{
+    "created": "2023-06-13T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "13",
+    "path": "2023/06/13",
+    "text": "June 13",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/cjzero/status/1668454565073616896\">Nikola Jokic</a>: \"The job is done, we can go home now.\"",
+            "created": "Tue, 13 Jun 2023 04:13:21 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/cjzero/status/1668454565073616896",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've been writing about Bluesky lately, and will be doing more in the coming days and weeks. I've been getting requests from friends to get them invites, but this isn't my platform. I'm just a developer. And it's just one platform. And I'm just one person.",
+            "created": "Tue, 13 Jun 2023 14:45:40 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've got a list of outstanding <a href=\"https://github.com/scripting/blue.feedland/issues/15\">questions about Bluesky</a> from a developer perspective. Any help much appreciated. I have a feeling when this is done we may have a <a href=\"http://scripting.com/davenet/2001/04/04/aBusyDevelopersGuideToSoap.html\">Busy Developer's Guide</a> to the basics of Bluesky programming. ",
+            "created": "Tue, 13 Jun 2023 17:23:15 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "For now, small is beautiful",
+            "created": "Tue, 13 Jun 2023 04:17:50 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "People are concerned that Bluesky is so small. I'm not, I like that it's small, and I also like that there are no peers yet. ",
+                    "created": "Tue, 13 Jun 2023 04:18:00 GMT",
+                    "image": "http://scripting.com/images/2017/05/15/accordionGuy.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Some part of me thinks the future of social networks is small, that we've seen how unwieldy they can be when they grow too huge. ",
+                    "created": "Tue, 13 Jun 2023 04:30:36 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I also think we have to work on a <a href=\"http://xmlrpc.com/storyreader/story2198.md\">cross-platform API</a> like the one we had with blogging. It didn't take long to create, and it was supported everywhere. WordPress still supports the API. ",
+                    "created": "Tue, 13 Jun 2023 04:20:11 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The idea of every social network having their own API is workable if and only if we can put a layer on top of them that makes it possible to communicate with all. It'd be analogous to <a href=\"https://en.wikipedia.org/wiki/Internet_protocol_suite\">TCP/IP</a> and the start of the internet. Peering is everything and then data formats. We have good <a href=\"https://cyber.harvard.edu/rss/rss.html\">prior art</a> for that too.  ",
+                    "created": "Tue, 13 Jun 2023 04:20:36 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "All we're waiting for is people to work together. It doesn't have to be everyone, just people who want to build something bigger than one particular brand of social network.",
+                    "created": "Tue, 13 Jun 2023 04:21:33 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Uncle Sam doesn't ask",
+            "created": "Tue, 13 Jun 2023 14:10:16 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://twitter.com/AccountableGOP/status/1668620490901164034\">Romney</a>: \"Trump didn't turn over documents when <b>asked</b> to.\"",
+                    "created": "Tue, 13 Jun 2023 14:10:35 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "We're too deferential to Trump, it's in the language.",
+                    "created": "Tue, 13 Jun 2023 14:10:50 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The government doesn't <b>ask</b> for its secret documents to be returned.",
+                    "created": "Tue, 13 Jun 2023 14:10:57 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If it were you or I, we'd be <b>ordered</b> to return them, <b>arrested</b> until they were returned, <b>convicted</b> and then <b>incarcerated</b>. ",
+                    "created": "Tue, 13 Jun 2023 14:11:06 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "\"Ask?\" <i>Uncle Sam doesn't ask.</i>",
+                    "created": "Tue, 13 Jun 2023 14:11:45 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<b>This isn't Macy's</b>",
+                    "created": "Tue, 13 Jun 2023 14:12:05 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Many years ago I got a call from the IRS saying I owed them money. I was told the amount.",
+                    "created": "Tue, 13 Jun 2023 14:12:13 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The agent asked when I'd be sending the money.",
+                    "created": "Tue, 13 Jun 2023 14:12:28 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I asked them to send me a detailed bill.",
+                    "created": "Tue, 13 Jun 2023 14:12:40 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The agent said no.",
+                    "created": "Tue, 13 Jun 2023 14:12:43 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "\"This isn't Macy's, Mr Winer\" he said.",
+                    "created": "Tue, 13 Jun 2023 14:12:46 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I sent the money.",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
