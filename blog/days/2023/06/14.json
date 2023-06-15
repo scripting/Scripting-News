@@ -1,0 +1,53 @@
+{
+    "created": "2023-06-14T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "14",
+    "path": "2023/06/14",
+    "text": "June 14",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"http://scripting.com/2002/06/14.html\">21-years ago today</a> I had my last cigarette.<i>Still diggin!</i> ",
+            "created": "Wed, 14 Jun 2023 18:10:07 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "My advice on quitting smoking -- get someone to lock you in a room where you can't get a cigarette for a solid week. That's the hardest part of quitting, getting over the physical addiction.",
+            "created": "Wed, 14 Jun 2023 18:35:58 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "My Bluesky thread-writing tool is getting pretty close to something I'd let other people use, as you can see from <a href=\"http://scripting.com/images/2023/06/14/threadscreen.png?nodialog\">this thread</a>.",
+            "created": "Wed, 14 Jun 2023 16:39:10 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Another example of an engineering use of ChatGPT. I was stuck trying to figure out how to encode some text in a sticky corner. I had tried the first two methods I usually use, and neither worked. I was about to give up and back out of the feature when I thought to explain the problem to ChatGPT and ask for a suggestion, and it included pragmatic issues like it really mattered to me that I not have to bring another toolkit into the mix. It suggested something I hadn't considered, a third way, and it worked, and I can move on. How do you put a value on that kind of contribution? It's like a programming partner that knows everything basically and is always there to help out and doesn't charge for their time. Pretty amazing.",
+            "created": "Wed, 14 Jun 2023 16:34:48 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2023/04/10/trumpBeingCarriedAway.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, the editing of the post above was <a href=\"https://chat.openai.com/share/edf2e7d7-753c-4708-b5cd-1f1848cc0570\">yet another use</a> of ChatGPT.",
+            "created": "Wed, 14 Jun 2023 16:47:56 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "If I would describe a human co-worker as \"intelligent\" then I would use the same word to describe ChatGPT if it does the same work. ",
+            "created": "Wed, 14 Jun 2023 17:07:27 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://youtu.be/CmHZelbC034?t=76\">The Counselor</a>: \"They don't believe in coincidences. They've heard of them. They've just never seen one.\"",
+            "created": "Wed, 14 Jun 2023 22:04:16 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
