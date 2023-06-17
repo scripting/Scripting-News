@@ -1,0 +1,35 @@
+{
+    "created": "2023-06-16T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "16",
+    "path": "2023/06/16",
+    "text": "June 16",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Developers even the best ones are terrible at compromise, that's why it's so hard to federate in a <a href=\"http://ai.scripting.com/2023/06/16/cowpaths.html\">pave-the-cowpaths</a> way and big companies run by venture capitalists and Elon Musk always kick our butts and we end up wasting 17 years losing all the good stuff we had before, with no simple path forward. If you want to know why we feel stuck, next time you decide not to be compatible with someone else, that's why, right there. It just takes two to set a standard. I speak from experience. My partner with RSS 2.0 was the NYT. With XML-RPC it was Microsoft. With rssCloud it was Automattic. See how that works. Companies that decide to partner with truly independent developers can have the agility they don't usually get with their internal processes. It's how simple stuff actually makes it into the market. Again I speak from experience. Us little guys can work together too, but I guess they don't see they could be part of getting a consensus going. <i>But they can.</i>",
+            "created": "Fri, 16 Jun 2023 14:35:19 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2021/06/27/mayochup.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "One of the things I did this morning was carefully read the <a href=\"http://xmlrpc.com/storyreader/story2198.md\">Metaweblog API docs</a> I wrote in 2002. This became a widely supported standard almost instantly on publication. There was a demand for it. At that time, being compatible at an API level was a competitive issue for blogging software. A must-have feature.",
+            "created": "Fri, 16 Jun 2023 14:46:03 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's what Evan Williams at Blogger <a href=\"https://web.archive.org/web/20031203041041/https://evhead.com/archives/2003_05_10_archive_default.asp\">wrote</a> about it in May 2003. He carefully documents an important disagreement we had at the time. Lots to think about. ",
+            "created": "Fri, 16 Jun 2023 14:56:56 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, <a href=\"https://blog.bloonface.com/2023/06/12/why-did-the-twittermigration-fail/\">this</a> is a must-read for anyone following new development, in 2023, in social media. ",
+            "created": "Fri, 16 Jun 2023 15:37:49 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
