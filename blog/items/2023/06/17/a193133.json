@@ -1,0 +1,51 @@
+{
+    "text": "W3C and my RSS spec",
+    "created": "Sat, 17 Jun 2023 19:31:33 GMT",
+    "type": "outline",
+    "description": "The W3C removed my name from a CC-BY licensed document I wrote. ",
+    "subs": [
+        {
+            "text": "The W3C has a <a href=\"https://validator.w3.org/feed/docs/rss2.html\">copy</a> of <a href=\"https://cyber.harvard.edu/rss/rss.html\">my RSS 2.0 spec</a> on their website. ",
+            "created": "Sat, 17 Jun 2023 19:35:35 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "At the bottom of the <a href=\"http://scripting.com/images/2023/06/17/bottomharvarddoc.png?nodialog\">original document</a> it says: \"The author of this document is Dave Winer, founder of UserLand software, and fellow at Berkman Center.\" Below that is a Creative Commons license which says: \"The content found on this site is made available under the terms of an Attribution/Share Alike Creative Commons <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">license</a>.\"",
+            "created": "Sat, 17 Jun 2023 19:40:28 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "All of that is missing from the <a href=\"http://scripting.com/images/2023/06/17/screenshotw3cdoc.png?nodialog\">W3C's copy</a> of my spec. ",
+            "created": "Sun, 18 Jun 2023 00:21:48 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's a <a href=\"http://scripting.com/images/2023/06/17/bottomharvarddoc.png?nodialog\">screen shot</a> of the bottom of my spec. ",
+            "created": "Sat, 17 Jun 2023 19:45:05 GMT",
+            "isComment": "true",
+            "flInCalendar": true
+        },
+        {
+            "text": "And a <a href=\"http://scripting.com/images/2023/06/17/screenshotw3cdoc.png?nodialog\">screen shot</a> of the bottom of their copy. ",
+            "created": "Sat, 17 Jun 2023 19:47:33 GMT",
+            "isComment": "true",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's pretty obvious that it's my writing. ",
+            "created": "Sat, 17 Jun 2023 19:47:40 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "My name has been removed, as has the original license. ",
+            "created": "Sat, 17 Jun 2023 19:54:45 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "That's wrong. They <i>must</i> fix that. My recommendation, just point the <a href=\"https://cyber.harvard.edu/rss/rss.html\">original document</a> and forget about hosting a copy. The <a href=\"https://cyber.harvard.edu/rss/rss.html\">Harvard website</a> is not going anywhere. ",
+            "created": "Sun, 18 Jun 2023 00:24:07 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
