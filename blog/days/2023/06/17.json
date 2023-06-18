@@ -1,0 +1,116 @@
+{
+    "created": "2023-06-17T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "17",
+    "path": "2023/06/17",
+    "text": "June 17",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I'm doing more <a href=\"https://en.wikipedia.org/wiki/Caving#:~:text=This%20group%20referred%20to%20themselves,exploring%20caves%20in%20US%20English.\">spelunking</a> around <a href=\"http://xmlrpc.com/storyreader/story2198.md\">Metaweblog API</a>-land. Found a goldmine of past history in a site that I had decommissioned for some reason, <a href=\"http://listings.opml.org/\">listings.opml.org</a>. So now it's back on the web and hopefully Google et al will index it soon. It'd be great to get this kind of stuff into an AI database. I hope products are coming soon to help us do this. :smile:",
+            "created": "Sat, 17 Jun 2023 18:02:05 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "W3C and my RSS spec",
+            "created": "Sat, 17 Jun 2023 19:31:33 GMT",
+            "type": "outline",
+            "description": "The W3C removed my name from a CC-BY licensed document I wrote. ",
+            "subs": [
+                {
+                    "text": "The W3C has a <a href=\"https://validator.w3.org/feed/docs/rss2.html\">copy</a> of <a href=\"https://cyber.harvard.edu/rss/rss.html\">my RSS 2.0 spec</a> on their website. ",
+                    "created": "Sat, 17 Jun 2023 19:35:35 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "At the bottom of the <a href=\"http://scripting.com/images/2023/06/17/bottomharvarddoc.png?nodialog\">original document</a> it says: \"The author of this document is Dave Winer, founder of UserLand software, and fellow at Berkman Center.\" Below that is a Creative Commons license which says: \"The content found on this site is made available under the terms of an Attribution/Share Alike Creative Commons <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">license</a>.\"",
+                    "created": "Sat, 17 Jun 2023 19:40:28 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "All of that is missing from the <a href=\"http://scripting.com/images/2023/06/17/screenshotw3cdoc.png?nodialog\">W3C's copy</a> of my spec. ",
+                    "created": "Sun, 18 Jun 2023 00:21:48 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's a <a href=\"http://scripting.com/images/2023/06/17/bottomharvarddoc.png?nodialog\">screen shot</a> of the bottom of my spec. ",
+                    "created": "Sat, 17 Jun 2023 19:45:05 GMT",
+                    "isComment": "true",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And a <a href=\"http://scripting.com/images/2023/06/17/screenshotw3cdoc.png?nodialog\">screen shot</a> of the bottom of their copy. ",
+                    "created": "Sat, 17 Jun 2023 19:47:33 GMT",
+                    "isComment": "true",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's pretty obvious that it's my writing. ",
+                    "created": "Sat, 17 Jun 2023 19:47:40 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "My name has been removed, as has the original license. ",
+                    "created": "Sat, 17 Jun 2023 19:54:45 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "That's wrong. They <i>must</i> fix that. My recommendation, just point the <a href=\"https://cyber.harvard.edu/rss/rss.html\">original document</a> and forget about hosting a copy. The <a href=\"https://cyber.harvard.edu/rss/rss.html\">Harvard website</a> is not going anywhere. ",
+                    "created": "Sun, 18 Jun 2023 00:24:07 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Sell Reddit to its users?",
+            "created": "Sat, 17 Jun 2023 18:01:46 GMT",
+            "type": "outline",
+            "description": "If ever there was a site that the users should own it's Reddit.",
+            "metaImage": "http://scripting.com/images/2023/06/15/blueSky.png",
+            "subs": [
+                {
+                    "text": "Reddit as a business is going down a user-hostile path. ",
+                    "created": "Sat, 17 Jun 2023 17:59:22 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So I had this idea, I wonder if a compromise is possible.",
+                    "created": "Sat, 17 Jun 2023 17:59:23 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "They want to do an IPO. Why not sell it to the users. ",
+                    "created": "Sat, 17 Jun 2023 17:59:32 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A tech company run for the benefit of its users. What an idea! ",
+                    "created": "Sat, 17 Jun 2023 17:59:44 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If ever there was a site that the users should own it's Reddit.",
+                    "created": "Sat, 17 Jun 2023 15:02:24 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Reddit could reboot as a non-profit or public benefit corp. ",
+                    "created": "Sat, 17 Jun 2023 15:02:29 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Run intelligently to keep costs to a minimum.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Get help from a foundation perhaps.",
+                    "created": "Sat, 17 Jun 2023 18:01:18 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
