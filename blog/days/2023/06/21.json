@@ -1,0 +1,29 @@
+{
+    "created": "2023-06-21T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "21",
+    "path": "2023/06/21",
+    "text": "June 21",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "This is the <a href=\"https://cyber.harvard.edu/rss/rss.html#roadmap\">roadmap</a> from the RSS 2.0 spec written in 2002. \"RSS is by no means a perfect format, but it is very popular and widely supported. Having a settled spec is something RSS has needed for a long time. The purpose of this work is to help it become a unchanging thing, to foster growth in the market that is developing around it, and to clear the path for innovation in new syndication formats. Therefore, the RSS spec is, for all practical purposes, frozen at version 2.0.1. We anticipate possible 2.0.2 or 2.0.3 versions, etc. only for the purpose of clarifying the specification, not for adding new features to the format. Subsequent work should happen in modules, using namespaces, and in completely new syndication formats, with new names.\"",
+            "created": "Thu, 22 Jun 2023 01:27:54 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2022/10/24/rssCoffeeMug.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "<i>It worked.</i> RSS 2.0 has stood the test of time. Lots of innovation has taken place in the namespaces, and the core has stayed intact. There were a lot of people who wanted to control and own RSS when I wrote that. If it hadn't been frozen they'd still be fighting over the basics. We've made a lot with RSS and we're going to make a lot more. It'll be important in the evolution of social media, podcasting, blogging and more. This is what the roadmap says. It worked and continues to work. ",
+            "created": "Thu, 22 Jun 2023 01:30:52 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "To this day there are people who want to own \"RSS\". That must never be allowed to happen. ",
+            "created": "Thu, 22 Jun 2023 01:33:29 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
