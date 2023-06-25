@@ -1,0 +1,100 @@
+{
+    "created": "2023-06-24T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "24",
+    "path": "2023/06/24",
+    "text": "June 24",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I wish help systems for online services could answer questions about my account, not give me instructions on how to find the answers. Why can't they do it for me? I've been spoiled by ChatGPT which actually parses the words I type, and gives me the answers I asked for. For example, I have a Google Workspace account, set up by someone else. I want to add new email addresses to my account. I can't find out how much I'm already paying for the email addresses that are already allocated. I do know the total amount, $26/month. It's way too much money for what it's doing, btw. Basically I'd like to give it instructions in my language. \"I'm thinking of adding five new email addresses, how much will that add to my monthly bill?\" Then if I decide to go ahead, I could just tell it, in my own language -- \"add them please.\" Pretty simple, right? It's what I would say to a human being, and the human would get it. And so would ChatGPT. Why can't Google Workspace? See how much software now has to be redesigned to meet the expectations of people who expect the ease of use of ChatGPT? ",
+            "created": "Sat, 24 Jun 2023 12:58:20 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2023/04/24/cheshireCat.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I wondered why <a href=\"http://ai.scripting.com/2023/06/24/chatgpt-s-name-explanation.html\">ChatGPT wasn't given a name</a> like Alexa or Siri. ",
+            "created": "Sat, 24 Jun 2023 13:02:36 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's possible that Elon Musk is happy with his purchase of Twitter even if the market cap is down by a lot by some measures. It's still the place of record on the net. Nothing else comes close.",
+            "created": "Sun, 25 Jun 2023 00:15:25 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Pretty sure there's no truth to any of the <a href=\"https://www.memeorandum.com/230624/p36#a230624p36\">news about Russia</a> this weekend. It's a stage play probably orchestrated by Putin himself, or two or more stage plays written by some oligarchs, Putin and whoever.",
+            "created": "Sun, 25 Jun 2023 03:51:01 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm seeing <a href=\"https://twitter.com/JamesFallows/status/1672648307808632832\">this meme</a> all over the place today. The fighting in Russia is thought to be the first big news event in the time of Twitter that Twitter (collectively) did not deliver the story. No one knows if it's a combination of bad algorithm or lack of participation by news sources.",
+            "created": "Sat, 24 Jun 2023 18:17:11 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Question the W3C's advice re RSS",
+            "created": "Sat, 24 Jun 2023 13:47:22 GMT",
+            "type": "outline",
+            "description": "We respect the W3C and it matters that they respect RSS, the roadmap first and foremost. ",
+            "subs": [
+                {
+                    "text": "The net-net of the <a href=\"https://github.com/w3c/feedvalidator/issues/106\">discussion</a> this week with the <a href=\"https://en.wikipedia.org/wiki/World_Wide_Web_Consortium\">W3C</a> and their hosting or pointing to a modified \"RSS 2.0\" spec is that at this time, before trusting any advice it gives based on RSS, you must be sure that it's covered by the <a href=\"https://cyber.harvard.edu/rss/rss.html\">original spec</a>. ",
+                    "created": "Sat, 24 Jun 2023 13:25:59 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "In the discussion we had with the W3C, the sysop of their website <a href=\"https://github.com/w3c/feedvalidator/issues/106#issuecomment-1600956714\">said clearly</a> and I believe innocently that the modified \"version\" of the spec is what they're using to guide the validator.",
+                    "created": "Sat, 24 Jun 2023 13:47:47 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<i>But there are no versions of RSS 2.0. </i>",
+                    "created": "Sat, 24 Jun 2023 13:47:59 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's frozen. It says it clearly in the <a href=\"https://cyber.harvard.edu/rss/rss.html#roadmap\">roadmap</a>, which explains <a href=\"http://scripting.com/images/2023/06/24/roadmap.png?nodialog\">why it's frozen</a>, developers need stability. ",
+                    "created": "Sun, 25 Jun 2023 03:46:42 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "All that happened over twenty years ago. And it worked. RSS is one of the most broadly supported formats on the web. It's the basis for podcasting. It's widely supported by news orgs and blogging software. All kinds of systems have been built around RSS. Twenty years of development.",
+                    "created": "Sat, 24 Jun 2023 13:48:27 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "In the W3C's defense, I gather they inherited the validator, and the people who wrote it originally were trying to steer people away from RSS to another format. They wanted their ideas in all our feeds, and used the validator to get their way. In the end their steering people to the other format didn't do any real damage that I could see, just added unnecessary confusion. ",
+                    "created": "Sat, 24 Jun 2023 13:48:38 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But I have to draw the line at the W3C. We respect them and <i>it</i> <i>matters</i> that they respect RSS, the roadmap first and foremost. I'm not trying to get them to fix the validator, just know that the spec they're citing is not playing by the rules. We need the W3C to support RSS, not undermine it. ",
+                    "created": "Sat, 24 Jun 2023 13:49:20 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "To be clear, it's perfectly OK for any validator to offer advice based on an extension in the form of a namespace, or a profile, or based on a format not named 'RSS' (which can of course be anything you want) but you can't claim to be validating against RSS if you're citing a modified version of the spec. There are no modifications allowed, that's part of the spec. It's a rule, and a validator that breaks that rule is not validating RSS. ",
+                    "created": "Sat, 24 Jun 2023 13:51:07 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I believe I've explained this from every possible angle. :smile:",
+                    "created": "Sat, 24 Jun 2023 13:51:33 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Net-net, until it's fixed -- be careful with the W3C's advice re RSS. ",
+                    "created": "Sat, 24 Jun 2023 13:51:48 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
