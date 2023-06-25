@@ -1,0 +1,59 @@
+{
+    "text": "Question the W3C's advice re RSS",
+    "created": "Sat, 24 Jun 2023 13:47:22 GMT",
+    "type": "outline",
+    "description": "We respect the W3C and it matters that they respect RSS, the roadmap first and foremost. ",
+    "subs": [
+        {
+            "text": "The net-net of the <a href=\"https://github.com/w3c/feedvalidator/issues/106\">discussion</a> this week with the <a href=\"https://en.wikipedia.org/wiki/World_Wide_Web_Consortium\">W3C</a> and their hosting or pointing to a modified \"RSS 2.0\" spec is that at this time, before trusting any advice it gives based on RSS, you must be sure that it's covered by the <a href=\"https://cyber.harvard.edu/rss/rss.html\">original spec</a>. ",
+            "created": "Sat, 24 Jun 2023 13:25:59 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "In the discussion we had with the W3C, the sysop of their website <a href=\"https://github.com/w3c/feedvalidator/issues/106#issuecomment-1600956714\">said clearly</a> and I believe innocently that the modified \"version\" of the spec is what they're using to guide the validator.",
+            "created": "Sat, 24 Jun 2023 13:47:47 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<i>But there are no versions of RSS 2.0. </i>",
+            "created": "Sat, 24 Jun 2023 13:47:59 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's frozen. It says it clearly in the <a href=\"https://cyber.harvard.edu/rss/rss.html#roadmap\">roadmap</a>, which explains <a href=\"http://scripting.com/images/2023/06/24/roadmap.png?nodialog\">why it's frozen</a>, developers need stability. ",
+            "created": "Sun, 25 Jun 2023 03:46:42 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "All that happened over twenty years ago. And it worked. RSS is one of the most broadly supported formats on the web. It's the basis for podcasting. It's widely supported by news orgs and blogging software. All kinds of systems have been built around RSS. Twenty years of development.",
+            "created": "Sat, 24 Jun 2023 13:48:27 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "In the W3C's defense, I gather they inherited the validator, and the people who wrote it originally were trying to steer people away from RSS to another format. They wanted their ideas in all our feeds, and used the validator to get their way. In the end their steering people to the other format didn't do any real damage that I could see, just added unnecessary confusion. ",
+            "created": "Sat, 24 Jun 2023 13:48:38 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "But I have to draw the line at the W3C. We respect them and <i>it</i> <i>matters</i> that they respect RSS, the roadmap first and foremost. I'm not trying to get them to fix the validator, just know that the spec they're citing is not playing by the rules. We need the W3C to support RSS, not undermine it. ",
+            "created": "Sat, 24 Jun 2023 13:49:20 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "To be clear, it's perfectly OK for any validator to offer advice based on an extension in the form of a namespace, or a profile, or based on a format not named 'RSS' (which can of course be anything you want) but you can't claim to be validating against RSS if you're citing a modified version of the spec. There are no modifications allowed, that's part of the spec. It's a rule, and a validator that breaks that rule is not validating RSS. ",
+            "created": "Sat, 24 Jun 2023 13:51:07 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I believe I've explained this from every possible angle. :smile:",
+            "created": "Sat, 24 Jun 2023 13:51:33 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Net-net, until it's fixed -- be careful with the W3C's advice re RSS. ",
+            "created": "Sat, 24 Jun 2023 13:51:48 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
