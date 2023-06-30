@@ -1,0 +1,112 @@
+{
+    "created": "2023-06-29T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "29",
+    "path": "2023/06/29",
+    "text": "June 29",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today I get to work on eye candy, a little app that sends a beautiful work of art to Bluesky every so often, taken from the thousands of art images that used to be posted regularly on Twitter as an act of love by a group of volunteers. Apparently Musk's Twitter shut them down, what a stupid thing to do. Musk should be focusing on streams of content that have value in and of themselves. Art is like that. It's like putting curtains on your windows. Strictly speaking you don't need them. But they make the place look better. I think Bluesky is the place for that right now. Update: <a href=\"https://staging.bsky.app/profile/bingeworthy.bsky.social/post/3jzd2w6ddzc2c\">First post</a> with an <a href=\"http://scripting.com/images/2023/06/29/bluescreenshot.png?nodialog\">image</a>. Now comes the fun stuff, spiffing up the format and getting it uploading random pics on a schedule. Then I move it to a server and just enjoy the art as it floats by. ",
+            "created": "Thu, 29 Jun 2023 14:13:03 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/01/13/jujyFruits.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Another great ChatGPT use. I have a mental block with <a href=\"https://en.wikipedia.org/wiki/Regular_expression\">regular expressions</a>. I know when to use them, but I just can't construct them. I used to be able to do it, a long time ago. Anyway, now I describe the problem to ChatGPT and it <a href=\"https://chat.openai.com/share/57928125-b33a-4961-b860-482d35459fe7\">gives me back</a> the expression. I don't even have to formulate the question very carefully, it figures it out. Now I can relax about it. ",
+            "created": "Thu, 29 Jun 2023 18:00:35 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's very hard for me to type <i>blob,</i> I keep typing <i>blog. </i>",
+            "created": "Thu, 29 Jun 2023 17:34:53 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "An outliner is a combination of a text editor and draw program. You have gestures to move objects that's similar to what you can do with objects in a draw program, but you also have the use of the keyboard to write and edit text. I just realized that as I was editing a complicated JSON structure, thinking the design of this is overblow, but I'm glad I am using an outliner to manipulate it, I'd be going crazy selecting stuff, cutting and pasting. All that is at a lower level, factored out of the user experience of the outliner. ",
+            "created": "Thu, 29 Jun 2023 17:29:49 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Note to self: Add <i>persistence</i> to \"textcasting\" definition. ",
+            "created": "Thu, 29 Jun 2023 15:55:29 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "My first podcast was on <a href=\"http://scripting.com/2004/06/11.html#When:9:13:45AM\">June 11, 2004</a>. About the bright future of podcasting. ",
+            "created": "Thu, 29 Jun 2023 14:41:22 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm working my way through past seasons of <a href=\"https://www.google.com/search?q=site%3Ascripting.com+succession\">Succession</a>. I'm in the middle of the last episode of Season 1. I know what's coming, of course, so I can just revel in the outstanding writing, acting, photography, scenery, the raw wonderful subtle emotions of the characters. ",
+            "created": "Thu, 29 Jun 2023 14:33:03 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A piece I wrote <a href=\"http://scripting.com/stories/2008/07/07/howToThinkAboutIdentica.html\">about identi.ca</a>, the precursor to ActivityPub, in 2008. I found it interesting to read with foresight what is coming true today, 15 years later. It's a myth that everything happens fast in tech. We waste so much time reinventing and breaking stuff, it's amazing anything ever gets done here. :boom: ",
+            "created": "Thu, 29 Jun 2023 14:12:05 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I was working on some stuff in <a href=\"https://github.com/scripting/oldSchoolBlog\">Old School</a>, the static site generator I use to build \"Scripting News\", and in the process broke the <a href=\"http://scripting.com/rss.xml\">RSS feed</a>. Thanks to Richard Eriksson for the <a href=\"https://twitter.com/sillygwailo/status/1674394186710241281\">report</a>. It should be fixed now. <i>Still diggin!</i> ",
+            "created": "Thu, 29 Jun 2023 13:35:35 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Hello from the future",
+            "created": "Thu, 29 Jun 2023 22:39:30 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "This post will appear on scripting.wordpress.com, a site I started a long time ago as an \"annex\" to my blog, providing support for trackback and comments. In August 2008, I stopped posting there, explained in <a href=\"http://scripting.com/stories/2008/08/09/disconnectingTheAnnex.html\">this post</a>, which also appeared on <a href=\"https://scripting.wordpress.com/2008/08/09/scripting-news-for-892008/\">the annex</a>.",
+                    "created": "Thu, 29 Jun 2023 22:40:53 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Now in 2023, I'm going to start cross-posting again, for different reasons. I want to show people how you can write for a powerful blogging platform like WordPress from an outliner running on the desktop. And for some writers this is going to be ideal, and for others maybe other approaches will be useful. The important point is that people should be able to decouple writing from hosting. The way the world works now it's like having to use a different word processor just because you bought a new printer! That would be terrible, but that's the world we've created on the web. I want to start creating more choices, by going first. ",
+                    "created": "Thu, 29 Jun 2023 22:42:57 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The great thing about Automattic is that they believe in user choice and open formats and protocols, it's in their DNA, and they've done an amazing job of keeping the APIs running all this time! I'm using the same API today that we used in 2000 to connect <a href=\"http://pikebeta.userland.com/whatIsThis\">Pike</a> to <a href=\"http://manila.userland.com/\">Manila</a>! Now that is some kind of interop. Whoa. Above and beyond.",
+                    "created": "Thu, 29 Jun 2023 22:44:56 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So over on the <a href=\"https://scripting.wordpress.com/2023/06/29/1475/\">WordPress site</a> it will feel like the microphone just came on again. Someone is speaking. That would be me. :smile:",
+                    "created": "Thu, 29 Jun 2023 22:46:06 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "\"curly\"",
+                    "created": "Thu, 29 Jun 2023 22:46:35 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Rene Magritte",
+            "created": "Thu, 29 Jun 2023 22:25:31 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://en.wikipedia.org/wiki/Time_Transfixed\">Time transfixed</a>, 1938.",
+                    "created": "Thu, 29 Jun 2023 22:25:42 GMT",
+                    "inlineImage": "http://scripting.com/images/2023/06/29/timeTransfixed.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
