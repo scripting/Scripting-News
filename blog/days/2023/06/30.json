@@ -1,0 +1,48 @@
+{
+    "created": "2023-06-30T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "30",
+    "path": "2023/06/30",
+    "text": "June 30",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Here's a <a href=\"https://bsky.app/profile/artshow.bsky.social\">new feed for Bluesky</a> I put together in a couple of days. It's based on feeds on Twitter that were shut down in the great twitter app blackout that periodically spooled great art in the middle of all the hubub and todo of Twitter. I loved it. And missed it. So I brought it back. :boom:",
+            "created": "Fri, 30 Jun 2023 16:06:08 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Re the <a href=\"http://scripting.com/2023/06/28.html#a045138\">Harvard blogs</a>, I contacted the Harvard people and the Automattic people are in the loop and they're going to work together to get the old Harvard blogs hosted on Automattic servers. I feel pretty good about how this is going. :smile:",
+            "created": "Fri, 30 Jun 2023 16:23:16 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "As a software developer and marketer, I really don't care what goes over the wire, as long as I know what to do and it doesn't break. The main arguments in RSS-land were whether or not to rip up the pavement and start over. I'm pretty much always against that. :-)",
+            "created": "Fri, 30 Jun 2023 16:10:26 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Sometimes people throw bombs because they like to blow things up, not because things need to be blown up.",
+            "created": "Fri, 30 Jun 2023 16:14:54 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Edgar Degas",
+            "created": "Fri, 30 Jun 2023 18:33:16 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"http://art-degas.com/degas_1870_66.html\">Ballet Rehearsal</a>, 1875.",
+                    "created": "Fri, 30 Jun 2023 18:33:21 GMT",
+                    "inlineImage": "http://scripting.com/images/2023/06/30/balletRehearsal.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
