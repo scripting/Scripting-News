@@ -1,0 +1,35 @@
+{
+    "text": "A missing web standard",
+    "created": "Sat, 01 Jul 2023 14:48:31 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "How the web should work:",
+            "created": "Sat, 01 Jul 2023 14:49:14 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "To ChatGPT -- list ten great <a href=\"http://ai.scripting.com/2023/07/01/whosongs.html\">songs</a> by The Who.",
+                    "created": "Sat, 01 Jul 2023 14:48:54 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "To ChatGPT -- send that list to Amazon Music.",
+                    "created": "Sat, 01 Jul 2023 14:48:58 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "To Amazon Music -- play the songs ChatGPT sent.",
+                    "created": "Sat, 01 Jul 2023 14:49:02 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Not a technological problem, it's a standards problem. Easily solved by the elusive \"working together.\"",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
