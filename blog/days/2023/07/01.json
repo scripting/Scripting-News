@@ -1,0 +1,104 @@
+{
+    "created": "2023-07-01T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "01",
+    "path": "2023/07/01",
+    "text": "July 01",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Our challenge is to make sure the really interesting stuff happens on the open web, outside the silos. If that happens we can go on. Otherwise we go right back to where we were when Twitter and Facebook dominated. Not a good place. 17 years of stagnation. ",
+            "created": "Sat, 01 Jul 2023 23:44:04 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "As with most online services, there's a virtually impenetrable wall between users and the people who run Bluesky. Has to be that way. There are hundreds of thousands of us, maybe tens of them. They're having trouble keeping the system running. As I dig in more on Bluesky, not because I'm getting married to the platform, btw -- more friends reach out and ask for help getting an invite code. It isn't about Bluesky though, it's just that we got <a href=\"http://scripting.com/2023/06/03/233657.html\">the feeds up</a> there first, so there's a way I can build. Ultimately my goal is to build a layer on top of all the social nets I can, so it doesn't matter which service you use, the stuff I create can make it to you and will. I used to write about \"when a big tree falls it creates room for new growth.\" I wrote that about Jerry Garcia. And it's equally true about Twitter. As they vacate, and get smaller and more focused, I believe understandably, the places they vacate once again become interesting places to develop. I can't miss an opportunities like these. ",
+            "created": "Sat, 01 Jul 2023 23:06:58 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2022/12/01/santa.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"http://scripting.com/davenet/1995/08/14/eatdrinkandbejerry.html#2\">1995</a>: \"Like the big tree that fell last March, the death of a huge human being like Jerry Garcia frees up a huge amount of space. Once there was a tree, now there are seedlings. After the sadness, there will be huge creativity.\"",
+            "created": "Sat, 01 Jul 2023 23:11:00 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "There is an <a href=\"https://rss.firesky.tv/?filter=from%3Aartshow.bsky.social\">RSS feed</a> for the <a href=\"https://bsky.app/profile/artshow.bsky.social\">Bluesky art channel</a>. I'm seeing if I can put together a nice way to view the art w/o being a Bluesky member. ",
+            "created": "Sat, 01 Jul 2023 22:16:38 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I found and <a href=\"https://github.com/scripting/feedlandSupport/issues/207\">documented</a> a problem with inline images from \"Drummer\" as displayed in \"FeedLand\". I believe the problem has been there since we switched to email-based identity a few months back. As a result today's <a href=\"http://scripting.com/2023/07/01/221953.html\">post</a> with an inline image works. ",
+            "created": "Sat, 01 Jul 2023 23:01:56 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "If a bear tweets in the woods can anyone hear it?",
+            "created": "Sat, 01 Jul 2023 05:19:47 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Welcome to July. Here's the <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/opml/2023/06.opml\">June OPML archive</a>. ",
+            "created": "Sat, 01 Jul 2023 05:25:40 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A missing web standard",
+            "created": "Sat, 01 Jul 2023 14:48:31 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "How the web should work:",
+                    "created": "Sat, 01 Jul 2023 14:49:14 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "To ChatGPT -- list ten great <a href=\"http://ai.scripting.com/2023/07/01/whosongs.html\">songs</a> by The Who.",
+                            "created": "Sat, 01 Jul 2023 14:48:54 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "To ChatGPT -- send that list to Amazon Music.",
+                            "created": "Sat, 01 Jul 2023 14:48:58 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "To Amazon Music -- play the songs ChatGPT sent.",
+                            "created": "Sat, 01 Jul 2023 14:49:02 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Not a technological problem, it's a standards problem. Easily solved by the elusive \"working together.\"",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Smoky mountain",
+            "created": "Sat, 01 Jul 2023 22:19:53 GMT",
+            "type": "outline",
+            "description": "Smoke from Canadian fires is back. Not as bad as last month.",
+            "metaImage": "http://scripting.com/images/2023/07/01/fullsizeSmokyMountain.png",
+            "subs": [
+                {
+                    "text": "Smoke from Canadian fires is back. Not as bad as last month. ",
+                    "created": "Sat, 01 Jul 2023 22:19:59 GMT",
+                    "inlineImage": "https://s3.amazonaws.com/scripting.com/images/2023/07/01/fullsizeSmokyMountain.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
