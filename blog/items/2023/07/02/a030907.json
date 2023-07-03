@@ -1,0 +1,7 @@
+{
+    "text": "This is a test. I realized something, ever since \"FeedLand\" moved to email identity and therefore had to use HTTPS to protect the passwords, any time I include an image in the right margin of a blog post, it has to also be served by HTTPS or else the browser will refuse to load it when the item is viewed in FeedLand. It has probably also meant that the right-margin images weren't showing up in other RSS systems for much longer. So anyway, if you see the delicious <a href=\"https://imgs.scripting.com/2010/11/12/loveRss.gif\">Love RSS icon</a> in the right margin of this post in FeedLand that means I've found a workaround that <a href=\"http://scripting.com/images/2023/07/02/itWorked.png\">works</a>. My writing life gets more complicated. I guess it's worth it?",
+    "created": "Mon, 03 Jul 2023 03:09:07 GMT",
+    "type": "outline",
+    "image": "https://imgs.scripting.com/2010/11/12/loveRss.gif",
+    "flInCalendar": true
+}
