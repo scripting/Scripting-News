@@ -1,0 +1,90 @@
+{
+    "created": "2023-07-03T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "03",
+    "path": "2023/07/03",
+    "text": "July 03",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "FeedLand: <a href=\"https://github.com/scripting/feedlandSupport/issues/209\">Making titleless items a bit more readable in rivers</a>. ",
+            "created": "Mon, 03 Jul 2023 17:31:13 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://www.youtube.com/watch?v=LgckX3coRl8\">A video tour</a> of the <a href=\"https://bsky.app/profile/artshow.bsky.social\">Art Show feed</a> on Bluesky. And the story of how and why it was created. ",
+            "created": "Mon, 03 Jul 2023 19:36:29 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=LgckX3coRl8",
+            "flInCalendar": true
+        },
+        {
+            "text": "I wonder if now what I've been trying to do with RSS, blogging and podcasting, get underneath the bigco's and live on a plane that doesn't require any one of them, makes a bit more sense now. I'm at least a generation older than most of the other techies who cohabit this space. What you're seeing now for the second or third time, I've seen five or six times. The more times you see it the more predictable it gets, and the more confidence you have in your understanding. That's why, when <a href=\"http://this.how/googleAndHttp/\">Google</a> tries to take control of the web I won't do it. All my freedom as a developer comes from the integrity of the web. Once it's gone you can't get it back. I feel the pull. I could convert completely to HTTPS, it would make my life a bit easier to do so. But I won't as long as Google is the one forcing it. If they back off and commit to not blocking the non-HTTPS web, then maybe I have more flexibility. ",
+            "created": "Mon, 03 Jul 2023 14:36:45 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2022/02/16/gaslight.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I like Bluesky/Masto because -- they promise independence from bigco silos run by megalomaniac billionaires hell-bent on conquering everything. I just want to play with my friends. I'm into working together not world domination. Been there, done that, found it boring and lonely. ",
+            "created": "Mon, 03 Jul 2023 09:59:57 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2022/03/14/goodbyeBlueMonday.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you're a \"Little Outliner\" user, and you can still access your files, you should download them asap. Use the <a href=\"http://scripting.com/images/2023/07/03/downloadFilesCommand.png\">command</a> in the Tools menu. Then you should switch to \"Drummer\". It's a significantly better version of LO2 and <i>does not depend on Twitter</i> for identity. I think the reason it still works for some people is that we cache the login information on the server, and as long as the server doesn't restart, you can continue to use it. But the server will eventually restart, and that'll be the end of LO2. It's had a good run and Drummer has been out there for a couple of years now. ",
+            "created": "Mon, 03 Jul 2023 13:48:32 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Of course Harvard is using ChatGPT in their comp sci classes. I can't believe how snotty <a href=\"https://www.zdnet.com/article/harvard-is-using-chatgpt-to-teach-computer-science/\">journalists</a> can be. If you were a doctor and a new treatment for cancer appeared, no matter how flawed, you'd want your students to be up on it. Maybe they'll figure out how to fix the flaws. Journalists act as if they're the only ones who know the outcome and everyone else is either corrupt or stupid. That's who covers news for us.",
+            "created": "Mon, 03 Jul 2023 17:41:49 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Still diggin!",
+            "created": "Mon, 03 Jul 2023 15:00:22 GMT",
+            "type": "outline",
+            "description": "Where did Still diggin! come from? ",
+            "subs": [
+                {
+                    "text": "Where did <i><a href=\"https://www.google.com/search?q=site%3Ascripting.com+%22still+diggin%22\">Still diggin!</a> </i>come from? ",
+                    "created": "Mon, 03 Jul 2023 14:48:47 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I use this phrase to end posts about stuff I'm working on that's now ready to use. A new feature, fix or workaround. ",
+                    "created": "Mon, 03 Jul 2023 15:01:05 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's the idea. As a developer, I started off a long time ago by digging a hole. Then I dug another, filling the first hole with the dirt from the second. Then a third and fourth and so on. The holes get a little better over time, deeper, new features, etc. But they're still holes. ",
+                    "created": "Mon, 03 Jul 2023 15:01:11 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "At the end, when I've dug my last hole, what will be left is a hole and a bunch of piles of dirt. Over time, the piles erode and maybe someone else fills in the last hole and another group of humans do it all again. ",
+                    "created": "Mon, 03 Jul 2023 15:01:32 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So when I say I'm <i>still diggin</i> that means I'm still alive, digging holes and filling them in. :smile:",
+                    "created": "Mon, 03 Jul 2023 15:02:00 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "BTW, there's another theory about where Still Diggin! came from. Back in my youth, when the NYC power utility <a href=\"https://en.wikipedia.org/wiki/Consolidated_Edison\">Con Ed</a> dug up a <a href=\"https://www.dpreview.com/forums/post/62710514\">street</a> <a href=\"https://twitter.com/JulianneBond/status/585938323799171072\">they</a> posted a sign <a href=\"https://www.nytimes.com/1984/05/27/weekinreview/once-again-for-con-ed-it-s-dig-we-must.html\">saying</a> \"Dig we must for a greater New York!\" That stuck with me. And if you think about it, it's just another instance of the use in the first explanation. ",
+                    "created": "Mon, 03 Jul 2023 14:53:18 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
