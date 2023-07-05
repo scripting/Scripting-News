@@ -1,0 +1,117 @@
+{
+    "created": "2023-07-04T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "04",
+    "path": "2023/07/04",
+    "text": "July 04",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Every Fourth of July the song of the day is the <a href=\"https://www.youtube.com/watch?v=rdPOAhBp2Ag\">US Blues</a>, the hippie anthem of love for the USA. Wave that flag, wave it high and wide! ",
+            "created": "Tue, 04 Jul 2023 12:51:21 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=rdPOAhBp2Ag",
+            "image": "https://imgs.scripting.com/2020/11/27/duck.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Journalism should care about Google breaking the open web as much as they care about Musk breaking Twitter because, in capitalism, Musk has the right to break Twitter, he owns it, but <a href=\"http://this.how/googleAndHttp/\">Google doesn’t own the web</a>. I think the reason journalism will report on Musk breaking Twitter and not Google breaking the web is that they need a person to report on, and Google has never really had a personality. The two founders are quiet, and I don't think I've ever heard the current CEO speak a word. So they're unreportable?",
+            "created": "Tue, 04 Jul 2023 18:13:42 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I was <a href=\"https://github.com/w3c/feedvalidator/issues/110\">wondering</a> if <a href=\"http://scripting.com/images/2023/07/04/validatorAPIQuestion.png\">the</a> W3C feed validator has an API. I'd like to submit my feed to it periodically to keep track of changes.",
+            "created": "Tue, 04 Jul 2023 13:21:24 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Frum's <a href=\"https://twitter.com/davidfrum/status/1676204269043695618\">take</a> on Twitter sounds right. \"Twitter itself may eke out a ghostly existence for a long time, like the thing that calls itself 'Newsweek.'\"",
+            "created": "Tue, 04 Jul 2023 17:56:42 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davidfrum/status/1676204269043695618",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1676355899529609218\">Poll</a>: Will you create an account on Facebook's new Twitter clone?",
+            "created": "Tue, 04 Jul 2023 22:22:55 GMT",
+            "type": "outline",
+            "urltweet": "https://twitter.com/davewiner/status/1676355899529609218",
+            "flInCalendar": true
+        },
+        {
+            "text": "This <a href=\"https://imgs.scripting.com/2023/07/04/graphFeedLandServer.png?nodialog\">graph</a> illustrates perfectly why it was time to upgrade the server FeedLand and Drummer run on.",
+            "created": "Tue, 04 Jul 2023 14:35:23 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Facebook's new social net",
+            "created": "Tue, 04 Jul 2023 12:22:17 GMT",
+            "type": "outline",
+            "description": "Remember, Bigco's launch with big thunder but the products often flop. Don't get sucked into the hype.",
+            "subs": [
+                {
+                    "text": "We now <a href=\"https://techcrunch.com/2023/07/03/threads-instagrams-twitter-competitor-is-expected-july-6/\">know</a> that Facebook's new social network, Threads, <a href=\"https://www.techmeme.com/230703/p25#a230703p25\">will be available</a> to the public on Thursday. The day after tomorrow. ",
+                    "created": "Tue, 04 Jul 2023 12:22:30 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "There's lots of discourse on the net about <i>What's To Be Done</i> about this big event. Based on decades of experience with such launches, here's what I say.",
+                    "created": "Tue, 04 Jul 2023 12:23:11 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "No matter what we do right now it'll probably have no effect on the Facebook rollout. ",
+                            "created": "Tue, 04 Jul 2023 12:24:17 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "It's better to listen, study and learn, size up the product. We don't know what it is. Wait till we find out.  ",
+                            "created": "Tue, 04 Jul 2023 12:30:03 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Call them Facebook, not Meta. They're trying to run away from their legacy, but it's very relevant. People should know it's coming from Facebook not \"Meta.\" When I see Meta my mind reads \"Mets.\"",
+                            "created": "Tue, 04 Jul 2023 12:24:25 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "After the dust has settled, what if anything should be done may be more apparent.",
+                            "created": "Tue, 04 Jul 2023 12:25:07 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Remember, Bigco's launch with big thunder but the products often flop. Don't get sucked into the hype. ",
+                            "created": "Tue, 04 Jul 2023 12:25:20 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Whatever you say or do now, viewed from a few weeks from now, will seem silly and over-reactive. Keep on truckin. ",
+                            "created": "Tue, 04 Jul 2023 12:26:03 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Let's study the product, discover what can be done with its APIs (assuming it has some) and keep an open mind. It's possible that some good can come from this. ",
+                            "created": "Tue, 04 Jul 2023 12:27:52 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Don't depend on journalists to study it. They tend to report on the press releases, and amp up the fear. ",
+                            "created": "Tue, 04 Jul 2023 12:27:58 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "First and foremost -- don't panic. :smile:",
+                            "created": "Tue, 04 Jul 2023 12:28:19 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
