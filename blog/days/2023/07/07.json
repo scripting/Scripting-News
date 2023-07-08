@@ -1,0 +1,31 @@
+{
+    "created": "2023-07-07T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "07",
+    "path": "2023/07/07",
+    "text": "July 07",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "There’s hope for a <a href=\"http://scripting.com/stories/2010/08/10/howToBootstrapFederated140.html\">bootstrap</a> pairing of the open web and social nets to create a pretty good writing platform that doesn’t lock users into one platform or another.",
+            "created": "Fri, 07 Jul 2023 18:57:04 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Vasily Kandinsky",
+            "created": "Fri, 07 Jul 2023 21:39:59 GMT",
+            "type": "outline",
+            "metaImage": "https://imgs.scripting.com/2023/07/07/kandinskyBluepng.png",
+            "subs": [
+                {
+                    "text": "<a href=\"https://www.wikiart.org/en/wassily-kandinsky/in-blue-1925\">Blue</a>, 1925.",
+                    "created": "Fri, 07 Jul 2023 21:40:07 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/07/07/kandinskyBluepng.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
