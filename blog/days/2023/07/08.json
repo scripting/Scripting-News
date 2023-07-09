@@ -1,0 +1,56 @@
+{
+    "created": "2023-07-08T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "08",
+    "path": "2023/07/08",
+    "text": "July 08",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "You're welcome to try <a href=\"http://this.how/threadWriterForBluesky/\">Thread Writer for Bluesky</a>.  :boom:",
+            "created": "Sat, 08 Jul 2023 13:56:57 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2022/12/23/masto.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'll believe that Facebook's new social network is growing when I get the feeling \"it's happening over there.\" So far that hasn't happened once. To think that's it's somehow dominant is ludicrous. As a developer, I want a platform that has curious creative people ready to try out new ideas. That's a niche Twitter has now given up, probably forever, and I doubt if Facebook wants developers for Threads. ",
+            "created": "Sat, 08 Jul 2023 12:03:34 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's all about app ecosystems",
+            "created": "Sat, 08 Jul 2023 12:28:52 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://avc.com/2023/07/threads/\">Fred Wilson is excited</a> about Threads, for the right reason, but I don't think it's going to play out the way he thinks. I replied <a href=\"https://www.threads.net/t/Cub6HNMu66A/?igshid=NTc4MTIwNjQ2YQ%3D%3D\">on Threads</a>, hunting and pecking on my tiny iPhone keyboard (I have huge hands btw). I'll expand on it here... ",
+                    "created": "Sat, 08 Jul 2023 12:29:02 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "He repeats the folklore that Twitter \"killed off\" its app ecosystem in 2010. Certainly not at a technical level, the problem with Twitter's developer situation was that they didn't do anything to help products get the attention of users, esp important when we were filling gaps in the user experience that users desperately wanted filled. If a corporate platform wants developers they have to do this. ",
+                    "created": "Sat, 08 Jul 2023 12:30:22 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Even open source platforms need <i>someone</i> to spread the news of reliable and useful additions to the platform. ",
+                    "created": "Sun, 09 Jul 2023 02:04:58 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Users aren't on their own that adventurous. They like to use what everyone else is using, which makes the bootstrap hard. But the platform vendor can provide the magic that gets it going. ",
+                    "created": "Sun, 09 Jul 2023 02:04:54 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "However, like Fred, I am excited. Because somewhere in this chaos (a good thing) there is at least the possibility of a developer ecosystem. That hasn't been true for a long time. I don't think that will happen in ActivityPub, for technical reasons. It needs a small amount of centralization to make the hurdle for developers surmountable.",
+                    "created": "Sat, 08 Jul 2023 12:30:30 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
