@@ -1,0 +1,42 @@
+{
+    "created": "2023-07-10T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "10",
+    "path": "2023/07/10",
+    "text": "July 10",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I added a <a href=\"http://this.how/threadWriterForBluesky/\">What is This?</a> section to the Thread Writer docs page. ",
+            "created": "Mon, 10 Jul 2023 15:17:00 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "They say this is an <a href=\"https://www.youtube.com/watch?v=0A2-Af5JEWU\">AI-generated trailer</a> for Heidi. If true, wow. I suspect a human did this. And if so, wow. It's just freaking great.",
+            "created": "Mon, 10 Jul 2023 18:29:11 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=0A2-Af5JEWU",
+            "flInCalendar": true
+        },
+        {
+            "text": "I remember seeing the <a href=\"https://www.youtube.com/watch?v=FI0T0Oj7WFE\">early Pixar demos</a>, you could see they had a new idea. A few years later, <a href=\"https://www.youtube.com/watch?v=CxwTLktovTU\">Toy Story</a>. That's how I judge \"ChatGPT\" et al. ",
+            "created": "Mon, 10 Jul 2023 20:53:56 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The server running Drummer and FeedLand wasn't doing well, so I decided to double the memory, and add a second CPU, basically doubling the monthly cost, which still is so low it amazes me. Anyway, it's remarkable how much better the server is doing, so I did the same for the server running my newest apps, with the same result. I now monitor the CPU and disk usage graphs for both servers, and figured out that the servers were running out of memory and thrashing by swapping stuff to and from disk. You can <a href=\"http://scripting.com/images/2023/07/10/performanceGraphs.png?nodialog\">see it</a> in the 14-day graphs. The things that look like spikes are actually minutes worth of flatlining where basically nothing is coming in or out until the situation resolves. Now apparently that never comes close to happening. ",
+            "created": "Mon, 10 Jul 2023 12:45:40 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2019/12/12/cowboy.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I live in the mountains west of the Hudson River, where we're getting hammered with rain this summer. We needed it, we were in a drought. I have a feeling that's over now. This last storm seems have been the tipping point for the ability of the mountains to absorb the water, now there's huge runoff, the creeks are full, there are roads that will wash out if there's much more rain. It's very easy to get depressed in this weather, but writing about it helps.",
+            "created": "Mon, 10 Jul 2023 12:43:39 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
