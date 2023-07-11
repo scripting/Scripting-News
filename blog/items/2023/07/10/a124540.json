@@ -1,0 +1,7 @@
+{
+    "text": "The server running Drummer and FeedLand wasn't doing well, so I decided to double the memory, and add a second CPU, basically doubling the monthly cost, which still is so low it amazes me. Anyway, it's remarkable how much better the server is doing, so I did the same for the server running my newest apps, with the same result. I now monitor the CPU and disk usage graphs for both servers, and figured out that the servers were running out of memory and thrashing by swapping stuff to and from disk. You can <a href=\"http://scripting.com/images/2023/07/10/performanceGraphs.png?nodialog\">see it</a> in the 14-day graphs. The things that look like spikes are actually minutes worth of flatlining where basically nothing is coming in or out until the situation resolves. Now apparently that never comes close to happening. ",
+    "created": "Mon, 10 Jul 2023 12:45:40 GMT",
+    "type": "outline",
+    "image": "https://imgs.scripting.com/2019/12/12/cowboy.png",
+    "flInCalendar": true
+}
