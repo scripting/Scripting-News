@@ -1,0 +1,46 @@
+{
+    "text": "Posts without titles in FeedLand",
+    "created": "Tue, 11 Jul 2023 13:13:02 GMT",
+    "type": "outline",
+    "description": "FeedLand now does a better job with posts without titles.",
+    "subs": [
+        {
+            "text": "\"FeedLand\" now does a better job with posts without titles.",
+            "created": "Tue, 11 Jul 2023 13:17:22 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's a screen shot of two posts in a timeline, neither of which have titles, followed by one that does have a title, so you can see the difference. ",
+            "created": "Tue, 11 Jul 2023 13:17:39 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Two posts without titles. ",
+            "created": "Tue, 11 Jul 2023 13:21:28 GMT",
+            "inlineImage": "https://imgs.scripting.com/2023/07/11/postsWithoutTItlesCollapsed.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "The new thing is the bold text at the beginning of each untitled post, so you can more easily see the structure as you scroll through it. ",
+            "created": "Tue, 11 Jul 2023 13:19:21 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<b>Another new feature</b>",
+            "created": "Tue, 11 Jul 2023 13:20:36 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "There's also a max height to a post but if you click on the body it expands to reveal the full text. Click again and it goes back to compact size. It took a bunch of iteration to get to this, it's better than what Facebook and Twitter do, where you have to carefully position the mouse to see the rest, and after expanding, the place where you have to clock to collapse it moves. In this scheme, stay right where you are and click again to collapse. ",
+            "created": "Tue, 11 Jul 2023 13:24:19 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "First post has been expanded, second not.",
+            "created": "Tue, 11 Jul 2023 13:15:40 GMT",
+            "inlineImage": "https://imgs.scripting.com/2023/07/11/twoPostsWithoutTitles.png",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
