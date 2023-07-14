@@ -1,0 +1,127 @@
+{
+    "created": "2023-07-13T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "13",
+    "path": "2023/07/13",
+    "text": "July 13",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "A simple <a href=\"https://github.com/scripting/checkValidator/blob/main/checkvalidator.js\">Node app</a> periodically checks if a feed still validates with the W3C service. You can modify it to check feeds you care about. ",
+            "created": "Thu, 13 Jul 2023 15:12:54 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "New FeedLand feature",
+            "created": "Thu, 13 Jul 2023 13:56:41 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "When you're viewing a feed list, like <a href=\"https://feedland.org/?username=davewiner\">this</a>, when a feed updates, instead of inserting it at the top and forcing everything down, it displays a button. Click the button to see the new stuff. ",
+                    "created": "Thu, 13 Jul 2023 14:01:41 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "View updated feeds button.",
+                    "created": "Thu, 13 Jul 2023 14:03:47 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/07/13/viewUpdatedFeedsButtonScreen.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "We already had a similar feature on timeline pages.",
+                    "created": "Thu, 13 Jul 2023 14:02:55 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Hearts of stone",
+            "created": "Thu, 13 Jul 2023 11:50:50 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "When big tech companies say they love open formats and protocols, that means they're launching something new and they're just saying that so you relax about their intentions, which haven't actually changed at all.",
+                    "created": "Thu, 13 Jul 2023 11:51:03 GMT",
+                    "image": "https://imgs.scripting.com/2023/07/13/mrBurnsSimpsons.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "That's why I say if they really want to prove their love for the open web, if they aren't just trying to lull us to sleep while they steal yet another market from the open web, they should do something that <a href=\"https://twitter.com/davewiner/status/1679125194764431360\">helps the web</a> more than it helps them. ",
+                    "created": "Thu, 13 Jul 2023 11:51:10 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I know how The Mind of Facebook works. There are people at the company who believe in the open web (or at least there were at one time) and some of them have the ability to launch projects to be part of the open web, but by the time the project has to get approval from one of the top execs, it dies -- because Zuck et al have hearts of stone, and think they can have anything that isn't nailed down, and think anyone who believes in being fair to users and competitors is a chump -- a Mother Teresa type, someone to laugh at not work with.",
+                    "created": "Thu, 13 Jul 2023 11:51:14 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "There are very few people in the world as greedy and mean as Zuckerberg. Never underestimate how cold his heart is. And never believe he will do anything that benefits anyone but him.",
+                    "created": "Thu, 13 Jul 2023 11:51:18 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "To the founders of the open web",
+            "created": "Thu, 13 Jul 2023 13:10:33 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I wish we had a group of tech industry veterans who could explain how to interpret moves like the ones the company that used to be known as Facebook is making wrt <a href=\"https://en.wikipedia.org/wiki/ActivityPub\">ActivityPub</a>.",
+                    "created": "Thu, 13 Jul 2023 13:11:19 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "They're running a standard <a href=\"https://wiki.c2.com/?EmbraceAndExtend\">Embrace and Extend</a> strategy of a giant company entering a market that's \"dominated\" by a small competitor that's hoping for the best. I put <i>dominated</i> in quotes because it's obvious that the market defined by the startup is going to be huge. But it's better if the new area is dominated by a mega corp, that is for the established billionaires. For the rest of us, it sucks. ",
+                    "created": "Thu, 13 Jul 2023 13:12:01 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It all depends on what users do. ",
+                    "created": "Thu, 13 Jul 2023 13:18:43 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Amazingly with podcasting, we were able to confuse the bigco's enough for long enough that the users learned they were entitled to choice and they suspected any effort to lock them in. That, and some grace from Steve Jobs to not try to dominate podcasting when Apple had the chance to.",
+                    "created": "Thu, 13 Jul 2023 13:12:41 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'm not able this time to get the message out. I'm here, I am typing into <a href=\"http://scripting.com/\">my blog</a>, but not enough people are hearing it. Don't believe Facebook has good intentions. If they did, they would hook the main Facebook product up to the open web, not the new one.  ",
+                    "created": "Thu, 13 Jul 2023 13:12:49 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Maybe it's time from some other names of the open web generation to step up and help. Facebook is going to run over the nascent federated social web the same way <a href=\"http://scripting.com/2019/12/21/170042.html\">Google</a> ran over \"RSS\". That cost us a decade or more of open growth. ",
+                    "created": "Thu, 13 Jul 2023 13:13:16 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But we can put a roadblock in Facebook's way. ",
+                    "created": "Thu, 13 Jul 2023 13:19:17 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Remember how the <a href=\"https://aaai.org/working-together-on-our-future-with-ai/\">founders of AI</a> spoke up. ",
+                    "created": "Thu, 13 Jul 2023 13:19:21 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Well the founders of the open web could have a word too. If you're so inclined, now is the time.",
+                    "created": "Thu, 13 Jul 2023 13:13:44 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: If you know a founder of the open web, please send them a <a href=\"http://scripting.com/2023/07/13/131033.html?title=toTheFoundersOfTheOpenWeb\">link</a> to this post. It's the web-like thing to do. :smile:",
+                    "created": "Thu, 13 Jul 2023 13:17:50 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
