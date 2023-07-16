@@ -1,0 +1,104 @@
+{
+    "created": "2023-07-15T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "15",
+    "path": "2023/07/15",
+    "text": "July 15",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=KmE7gVkK14I\">Thanks for the Memory</a>.",
+            "created": "Sat, 15 Jul 2023 13:41:39 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=KmE7gVkK14I",
+            "flInCalendar": true
+        },
+        {
+            "text": "Bluesky is in a jam because there's only one instance. They have an architecture for more instances, but now that we've gotten a look at what federation is like in practice with Mastodon and ActivityPub, I don't look forward to the same idea around Bluesky. Which is where the bind is, because that means that Bluesky, like Twitter and Facebook, would have to take on moderation and will get a lot of grief if they don't do it to people's liking. I <a href=\"https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3k2jrmmygel2w\">wrote</a>: \"I don't think they or anyone else can afford to stand against abuse on the web, it's diseconomic. People don't pay for the service, and there's an infinite supply of abuse. You know how when they add a new lane to a freeway thinking it'll ease traffic but doesn't? imho it's the same kind of thing. I do think there's hope for small social nets with dozens or maybe hundreds of users, and let Facebook have the monster social nets, they more or less have found a way to make moderation pay. I've written about this idea a lot, filed under the phrase <a href=\"https://www.google.com/search?q=fractional+horsepower+site%3Ascripting.com\">fractional horsepower</a>.\"",
+            "created": "Sat, 15 Jul 2023 16:31:52 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/02/28/presidentCarter.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/feedlandSupport/issues/212\">FeedLand tweak</a>, there's a new row in the Feed Info page. Should make the flow of navigation a bit smoother. ",
+            "created": "Sat, 15 Jul 2023 15:02:28 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Over the last couple of days I moved <a href=\"https://this.how/\">this.how</a> to an HTTPS server. It was fairly painless, but it did break some pages. If you have an <i>img</i> element in the HTML or use the <i>image</i> attribute in OPML, and the url of the image is on HTTP, the browser will refuse to load it, and at least on Chrome it'll look like it's still loading for a long time, possibly forever. For most of these, I'll never get around to fixing them, it just is what it is. So HTTPS despite the hype, no matter whether you convert or not, still breaks the web, and Google must know all about this and doesn't care. If a platform vendor really cared about the web as a platform, they'd look at the risk in reading an img over http and say wtf, let it go. They're like the <a href=\"https://www.youtube.com/watch?v=RqlQYBcsq54\">Soup Nazi</a>, they have you by the balls, you know it and they know it. ",
+            "created": "Sat, 15 Jul 2023 14:07:45 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/02/27/mrPeanutButter.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "This bit of arcania has also crept into <a href=\"http://scripting.com/rss.xml\">my RSS feed</a>. As you may know \"FeedLand\" is now on HTTPS, it has to be because it's managing identity for itself, and if a feed item has an image only accessible over HTTP, the browser won't load it. I guess all feed readers have this problem, and I guess images from \"Scripting News\" have always been broken? But this isn't how I remember it. Hmmm. Maybe they're doing something special, like accessing the image through a proxy running outside of Chrome's control. Haha if so <i>holy shit.</i> Either it's a security problem or it isn't. I really don't think images need to be protected, but what do I know. In any case, from this point on, my images will be HTTPS too. ",
+            "created": "Sat, 15 Jul 2023 14:14:15 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Twitter approaches textcasting",
+            "created": "Sat, 15 Jul 2023 17:55:13 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Someday tweets will allow you to <a href=\"https://en.wikipedia.org/wiki/Hyperlink\">link</a> from <a href=\"http://ai.scripting.com/2023/07/15/chatgpt.html\">words</a> to <a href=\"https://thispersondoesnotexist.com/\">any</a> web page on the internet.",
+                    "created": "Sat, 15 Jul 2023 17:55:32 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You will be able to give a tweet a title.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You can already style text bold or italic. They kind of snuck that in there quietly? ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'd like to see them support Markdown.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You can edit your tweets for up to an hour. That's pretty good imho.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Twitter is basically checking off the boxes on the \"textcasting\" vision.",
+                    "created": "Sun, 16 Jul 2023 01:01:16 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I wonder if their competitors are noticing.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Also a nice RSS feed coming out of Twitter?",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And let me enclose an MP3 for a podcast.",
+                    "created": "Sun, 16 Jul 2023 01:01:28 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Berthe Morisot",
+            "created": "Sat, 15 Jul 2023 16:41:37 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://www.wikiart.org/en/berthe-morisot/the-beach-at-petit-dalles-aka-on-the-beach\">The Beach at Petit Dalles (aka On the Beach)</a>, 1873.",
+                    "created": "Sat, 15 Jul 2023 16:41:40 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/07/15/theBeach.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
