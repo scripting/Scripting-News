@@ -1,0 +1,7 @@
+{
+    "text": "Over the last couple of days I moved <a href=\"https://this.how/\">this.how</a> to an HTTPS server. It was fairly painless, but it did break some pages. If you have an <i>img</i> element in the HTML or use the <i>image</i> attribute in OPML, and the url of the image is on HTTP, the browser will refuse to load it, and at least on Chrome it'll look like it's still loading for a long time, possibly forever. For most of these, I'll never get around to fixing them, it just is what it is. So HTTPS despite the hype, no matter whether you convert or not, still breaks the web, and Google must know all about this and doesn't care. If a platform vendor really cared about the web as a platform, they'd look at the risk in reading an img over http and say wtf, let it go. They're like the <a href=\"https://www.youtube.com/watch?v=RqlQYBcsq54\">Soup Nazi</a>, they have you by the balls, you know it and they know it. ",
+    "created": "Sat, 15 Jul 2023 14:07:45 GMT",
+    "type": "outline",
+    "image": "https://imgs.scripting.com/2023/02/27/mrPeanutButter.png",
+    "flInCalendar": true
+}
