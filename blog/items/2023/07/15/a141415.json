@@ -1,0 +1,6 @@
+{
+    "text": "This bit of arcania has also crept into <a href=\"http://scripting.com/rss.xml\">my RSS feed</a>. As you may know \"FeedLand\" is now on HTTPS, it has to be because it's managing identity for itself, and if a feed item has an image only accessible over HTTP, the browser won't load it. I guess all feed readers have this problem, and I guess images from \"Scripting News\" have always been broken? But this isn't how I remember it. Hmmm. Maybe they're doing something special, like accessing the image through a proxy running outside of Chrome's control. Haha if so <i>holy shit.</i> Either it's a security problem or it isn't. I really don't think images need to be protected, but what do I know. In any case, from this point on, my images will be HTTPS too. ",
+    "created": "Sat, 15 Jul 2023 14:14:15 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
