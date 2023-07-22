@@ -1,0 +1,6 @@
+{
+    "text": "I've spent the last week trying to do my normal development work on a laptop. And at the end of the week, I'm kind of getting the hang of it. The secret is to use Dropbox again, not just to manage servers (as I have been, but am transitioning away from because Dropbox on Linux is unwieldy), but to keep several editing places in sync without too much chance for error. This morning I lost some changes I made to <a href=\"https://github.com/scripting/Scripting-News/issues/264\">Sally's Reader</a>, but it's a really simple app, and not very mission critical, yet, so it was easy to re-do the changes. But that got me thinking about how to get it to work more smoothly and reliably. I've had various systems over the years for this, and it'll be interesting to do it again. Luckily all the saving and opening of projects flows through two scripts, and I wrote them both, and they work very reliably. So I'll add some features, already am doing that. Feels good actually, didn't think it would. ",
+    "created": "Fri, 21 Jul 2023 19:35:58 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
