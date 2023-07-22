@@ -1,0 +1,57 @@
+{
+    "created": "2023-07-21T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "21",
+    "path": "2023/07/21",
+    "text": "July 21",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=HNzmrEgz_GI&t=39s\">It's my life</a>.",
+            "created": "Fri, 21 Jul 2023 19:44:33 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've spent the last week trying to do my normal development work on a laptop. And at the end of the week, I'm kind of getting the hang of it. The secret is to use Dropbox again, not just to manage servers (as I have been, but am transitioning away from because Dropbox on Linux is unwieldy), but to keep several editing places in sync without too much chance for error. This morning I lost some changes I made to <a href=\"https://github.com/scripting/Scripting-News/issues/264\">Sally's Reader</a>, but it's a really simple app, and not very mission critical, yet, so it was easy to re-do the changes. But that got me thinking about how to get it to work more smoothly and reliably. I've had various systems over the years for this, and it'll be interesting to do it again. Luckily all the saving and opening of projects flows through two scripts, and I wrote them both, and they work very reliably. So I'll add some features, already am doing that. Feels good actually, didn't think it would. ",
+            "created": "Fri, 21 Jul 2023 19:35:58 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Also: The <a href=\"https://github.com/scripting/Scripting-News/issues/264\">source</a> for Sally's Reader. It's all <a href=\"https://en.wikipedia.org/wiki/Turtles_all_the_way_down\">outlines</a> all the way down. ",
+            "created": "Fri, 21 Jul 2023 19:41:28 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you want to deserve a Pulitzer, not saying you're going to win one, run stories shining the same light your publication shines on ChatGPT on your own pub's stories. You'll get a lot of people angry,  they're not accustomed to scrutiny, but your readers will love you. And imho that's the award that's worth winning. ",
+            "created": "Fri, 21 Jul 2023 19:23:20 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2022/11/28/ifyoudontlikethenews.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Journalists are concerned that replacing them with AI writers would make the news less trustworthy.  On the planet I live on, when I read a news story about something I know about it's filled with bullshit and lies, ones that could easily be corrected, but they just copy what they found on Wikipedia. Thus I am pretty sure that stories about stuff I don't know about are filled with similar bullshit. On those same subjects, ChatGPT gets it just as wrong, probably because the bot is relying on the same Wikipedia article that had the original lies in it. If journalism really wants people to have to truth, try giving it to them instead of complaining about how your jobs are in jeopardy. ",
+            "created": "Fri, 21 Jul 2023 13:26:26 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Agent Smith, where are you?",
+            "created": "Fri, 21 Jul 2023 20:16:57 GMT",
+            "type": "outline",
+            "description": "Let's create AI chatbots who take over the world to save us from ourselves.",
+            "metaImage": "https://https.scripting.com/2023/07/21/agentsmith.png",
+            "subs": [
+                {
+                    "text": "Let's create AI chatbots who take over the world to save us from ourselves.",
+                    "created": "Fri, 21 Jul 2023 20:17:05 GMT",
+                    "inlineImage": "https://https.scripting.com/2023/07/21/agentsmith.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
