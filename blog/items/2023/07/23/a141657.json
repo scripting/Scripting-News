@@ -1,0 +1,7 @@
+{
+    "text": "Working on a little project in \"drummer\" that uploads a file to GitHub. I went to add the code to the server, and found it was already <a href=\"https://github.com/scripting/appServer/blob/main/appserver.js#L864\">there</a>. I traced my steps up the stack and found where the call is. Amazingly there's a complete Drummer verb set for GitHub, and even better, it's <a href=\"http://docserver.scripting.com/?verb=github.upload\">documented</a>. Who wrote this? Me! I've been doing this too long. (Postscript: It wasn't exactly what I needed.)",
+    "created": "Sun, 23 Jul 2023 14:16:57 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2022/12/15/drummer.png",
+    "flInCalendar": true
+}
