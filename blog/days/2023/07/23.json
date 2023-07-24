@@ -1,0 +1,36 @@
+{
+    "created": "2023-07-23T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "23",
+    "path": "2023/07/23",
+    "text": "July 23",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I <a href=\"https://github.com/scripting/Scripting-News/issues/264#issuecomment-1646946647\">added</a> all the DaveNet essays from 1997 to 2004 to <a href=\"http://scripting.com/code/sallyreader/\">Sally's Reader</a>.",
+            "created": "Sun, 23 Jul 2023 19:59:27 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Hey if <a href=\"https://www.politico.com/news/2023/07/20/florida-black-history-teaching-standards-00107067\">slavery is so great</a>, why doesn't Desantis enslave white folks? His kids should be slaves right? Why wouldn't they want to be slaves? They should be be lining up. ",
+            "created": "Sun, 23 Jul 2023 22:12:24 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Now <a href=\"https://www.techmeme.com/230723/p2#a230723p2\">Elon Musk wants to kill</a> one of the best known brands there is, in favor of X. In hindsight, how foolish was it for Facebook to change its name to Meta. Google is still Google now whatever they changed their name to (yeah I remember, but it takes some effort to pull it up, and as I'm doing it, I'm reminded how much I don't care) Alphabet. These geniuses should study <a href=\"https://en.wikipedia.org/wiki/Positioning_(marketing)\">positioning</a>. Yes, their brands got tarnished, trampled, humiliated, charged and convicted. But the smart money is on <i>responding</i> to the problem, not running away from it, which 99 out of 100 people recognize this as. Classic example: <a href=\"https://www.nytimes.com/2002/03/23/your-money/IHT-tylenol-made-a-hero-of-johnson-johnson-the-recall-that-started.html?unlocked_article_code=gWK-iA9wveiOjplePMkV9rusl42zxaU_Pvryh4Q-pWSVTiHcVIRZl0j9Gs1alyhNC6S17ugB-KdmrhO0hiIK5ekDKtatn8CTsf9f8_xknxRHGL-bmxPht7I83CBkyyD4jwhJVtQSdkZtRSLgGwHlAwh5JCcVcSFwiGTWK7OEu9ttcqdxuYahRef57njo0bPLYNn1c6-viHLu-lbo3lpRIokcpOh4jmTCQ1FMMLIOKK8LkR4bR3Hl9bkziIx2UvDAD69rBc4ctSPeNNUbs64VaWO2fN1MF4DdoXDi09ckve3Tn-16svkRa4XJJfQUQGf6uDVFM6K59jzVlKY6ieeaPj3tNzAnJWlvnCWPVywmGjitQ_VDtaFRu12N4ygQjXcqx__bzFS6J5T0Nzqy3jQ&smid=url-share\">Johnson & Johnson</a> and Tylenol. My grandfather taught the basics of business with a motto, \"pay for your sins.\" It means if you fuck up you give the customer their money back and apologize, because business is built on your rep. And you can't run away from your sins. Once you put a name in everyone's minds, it stays there until they die. Think of another brand that sinned -- <a href=\"https://en.wikipedia.org/wiki/New_Coke\">Coca Cola</a> with New Coke. They admitted they were wrong, and got rid of the mistake, not the brand, and they're still #1. ",
+            "created": "Sun, 23 Jul 2023 20:05:06 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/07/23/newcoke.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Working on a little project in \"drummer\" that uploads a file to GitHub. I went to add the code to the server, and found it was already <a href=\"https://github.com/scripting/appServer/blob/main/appserver.js#L864\">there</a>. I traced my steps up the stack and found where the call is. Amazingly there's a complete Drummer verb set for GitHub, and even better, it's <a href=\"http://docserver.scripting.com/?verb=github.upload\">documented</a>. Who wrote this? Me! I've been doing this too long. (Postscript: It wasn't exactly what I needed.)",
+            "created": "Sun, 23 Jul 2023 14:16:57 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2022/12/15/drummer.png",
+            "flInCalendar": true
+        }
+    ]
+}
