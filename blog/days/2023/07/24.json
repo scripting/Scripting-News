@@ -1,0 +1,38 @@
+{
+    "created": "2023-07-24T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "24",
+    "path": "2023/07/24",
+    "text": "July 24",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=sJK78Y3zoQk\">Riding with the King</a>.",
+            "created": "Mon, 24 Jul 2023 19:44:15 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=sJK78Y3zoQk",
+            "flInCalendar": true
+        },
+        {
+            "text": "An <a href=\"http://scripting.com/2023/07/24/mantonVoicemail.m4a\">open voicemail</a> to <a href=\"https://www.google.com/search?q=site%3Ascripting.com+manton+reece\">Manton Reece</a>, developer of <a href=\"https://micro.blog/\">micro.blog</a>, about creating a common API for social media apps.",
+            "created": "Mon, 24 Jul 2023 12:08:46 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2023/07/24/mantonVoicemail.m4a",
+            "enclosureType": "audio/mp3",
+            "enclosureLength": "6824970",
+            "flInCalendar": true
+        },
+        {
+            "text": "Simple Node <a href=\"https://github.com/scripting/getEnclosureInfo/blob/main/getenclosureinfo.js\">web service</a> to get information about a data file necessary for using in an <a href=\"https://cyber.harvard.edu/rss/rss.html#ltenclosuregtSubelementOfLtitemgt\">RSS enclosure</a> element.",
+            "created": "Mon, 24 Jul 2023 14:06:48 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "New location for Sally's Reader: <a href=\"http://sally.scripting.com/\">sally.scripting.com</a>.",
+            "created": "Tue, 25 Jul 2023 02:15:01 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
