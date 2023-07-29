@@ -1,0 +1,29 @@
+{
+    "text": "Corner-turning",
+    "created": "Fri, 28 Jul 2023 12:21:06 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Another corner-turn seems to be working now. I'm sure no one cares about this but me, but this blog is also for me to record big changes in the way I work. So here goes..",
+            "created": "Fri, 28 Jul 2023 12:14:45 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The problem was that over the last four years I've created systems that depend on me sitting at my desk in the mountains, surrounded by nature, a good net connection and lots of disk space. Now I want to be mobile, camp out in various places, and still be able to keep the servers running, update and write new code and docs, and my blog, basically everything I do at my desktop. This has meant going back to Dropbox, but not sacrificing the very nice systems I've built that don't depend on Dropbox, because the Linux version is hard to install, and is unpredictable and flaky. ",
+            "created": "Fri, 28 Jul 2023 12:21:28 GMT",
+            "image": "https://imgs.scripting.com/2023/07/28/marshmallowManFromGhostbusters.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I have one server system that runs Dropbox well, so I'm moving all the software I ran locally to push stuff into the cloud onto that server, and instead of saving things to local folders, I save them to Dropbox-hosted folders. The server versions of the software watch the Dropbox folders and move things to where they belong, just as they did on the desktop. Voila, Uncle Davey can move around, and theoretically everything works as it did before. And so far it does. ",
+            "created": "Fri, 28 Jul 2023 12:26:07 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I am able to edit all my docs in \"Electric Drummer\", and my blog, and I'm much happier than I was when I was trying to do all that in web Drummer. E/D is a much better fit for the way I work. The <a href=\"https://www.youtube.com/watch?v=u4pN9L2ArGs\">Bookmarks menu in Drummer</a> was key to making this a (so far) relatively easy transition. But figuring out what to do and doing it took pretty much the whole month of July. Still have a bit more to do.",
+            "created": "Fri, 28 Jul 2023 12:22:33 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
