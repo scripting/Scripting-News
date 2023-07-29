@@ -1,0 +1,7 @@
+{
+    "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/266\">Braintrust query</a>: I had an impulse to write a little web app that takes the address of a post on Bluesky and flows it through an html template and serves it, so I can easily publish stuff I wrote on Bluesky. I thought to use a <a href=\"https://www.npmjs.com/package/@atproto/api\">toolkit</a> John Spurlock pointed me to. But where to start? All the theory upfront, like the spec, I just want something that takes the ID of a post and returns a JavaScript object with a bunch of info like the text, any image enclosed, when it was posted, stuff like that. There really are only 5 or 10 endpoints most apps need. If you're interested in solving this problem for Bluesky, please post a note in the <a href=\"https://github.com/scripting/Scripting-News/issues/266\">thread</a>. ",
+    "created": "Fri, 28 Jul 2023 16:05:38 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2023/07/28/toastedAlmondGoodHumor.png",
+    "flInCalendar": true
+}
