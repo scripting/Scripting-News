@@ -1,0 +1,139 @@
+{
+    "created": "2023-07-28T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "28",
+    "path": "2023/07/28",
+    "text": "July 28",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "What I write on the web, by default, should be publicly readable.",
+            "created": "Fri, 28 Jul 2023 13:51:17 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/266\">Braintrust query</a>: I had an impulse to write a little web app that takes the address of a post on Bluesky and flows it through an html template and serves it, so I can easily publish stuff I wrote on Bluesky. I thought to use a <a href=\"https://www.npmjs.com/package/@atproto/api\">toolkit</a> John Spurlock pointed me to. But where to start? All the theory upfront, like the spec, I just want something that takes the ID of a post and returns a JavaScript object with a bunch of info like the text, any image enclosed, when it was posted, stuff like that. There really are only 5 or 10 endpoints most apps need. If you're interested in solving this problem for Bluesky, please post a note in the <a href=\"https://github.com/scripting/Scripting-News/issues/266\">thread</a>. ",
+            "created": "Fri, 28 Jul 2023 16:05:38 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2023/07/28/toastedAlmondGoodHumor.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Reporters say the allegations against Trump are damaging or incredible are yet again selling the same Trump story they’ve been selling since 2016. He’s a full time 24-by-7 criminal. If Trump is doing anything it’s incredibly damningly criminal, and he doesn’t care because he openly says the laws don’t apply to him. The only news here is that someone in government is finally trying to really do something about it, or at least that’s what it kind of looks like. We’ve been here many times only to find out at some point they decide for some reason he’s right and the laws don’t actually apply to him, and so far they haven’t. ",
+            "created": "Fri, 28 Jul 2023 19:50:26 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/feedlandSupport/issues/213\">My next project</a>: Reviewing the FeedLand docs, one at a time. ",
+            "created": "Fri, 28 Jul 2023 15:38:03 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "No screeds on Twitter",
+            "created": "Fri, 28 Jul 2023 13:26:12 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "BTW, I find I don't write screeds on Twitter any longer. ",
+                    "created": "Fri, 28 Jul 2023 13:26:18 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If I want to piss in the wind I either do it elsewhere or don't do it at all.",
+                    "created": "Fri, 28 Jul 2023 21:22:00 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I use Facebook more now, in addition to Bluesky, but I wonder why I use it because it's behind a very high silo-wall. I only realized today if say Substack were doing this, it would so irritate me that I wouldn't use it. I don't know why I give Bluesky a pass on this. ",
+                    "created": "Fri, 28 Jul 2023 21:21:51 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Mainly Masto is interesting again because <a href=\"https://www.google.com/search?q=liza+sabater\">Liza Sabeter</a> aka <a href=\"https://mastodon.social/@blogdiva\">blogdiva</a> resurfaced, and chose Mastodon to be her stage. She's so smart and irreverent and also incredibly dedicated to her truth. She's enough of a reason for me to check in on Masto. ",
+                    "created": "Fri, 28 Jul 2023 13:27:31 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I also write on <a href=\"http://scripting.com/\">my blog</a> regularly and seem to appreciate it more these days perhaps because it doesn't shut down on me, it seems to care whether I like it or not. ",
+                    "created": "Fri, 28 Jul 2023 13:28:09 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: That's kind of a joke because I have always written my own blogging software going back to 1994. ",
+                    "created": "Fri, 28 Jul 2023 13:28:36 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PPS: Of course I wrote this screed <a href=\"https://twitter.com/davewiner/status/1684918163018747904\">on Twitter</a>, proving once again that it's even worse than it appears. ",
+                    "created": "Fri, 28 Jul 2023 13:28:37 GMT",
+                    "urltweet": "https://twitter.com/davewiner/status/1684918163018747904",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PPPS: Facebook's folly -- <a href=\"http://scripting.com/2023/07/06/134151.html\">aka</a> <a href=\"http://scripting.com/2023/07/05/232331.html\">Threads</a> -- is of no significance whatsoever to me at least. ",
+                    "created": "Fri, 28 Jul 2023 13:33:38 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Bluesky's weird paywall",
+            "created": "Fri, 28 Jul 2023 13:17:51 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I'm uncomfortable that the stuff I write on Bluesky is not visible without being logged-in to Bluesky. ",
+                    "created": "Fri, 28 Jul 2023 13:18:13 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If Substack were doing this, for example, it would be a reason to not to use it.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Not sure why I let this go for Bluesky.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Imho, what I write on the web, by default, should be publicly readable. ",
+                    "created": "Fri, 28 Jul 2023 13:18:15 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Corner-turning",
+            "created": "Fri, 28 Jul 2023 12:21:06 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Another corner-turn seems to be working now. I'm sure no one cares about this but me, but this blog is also for me to record big changes in the way I work. So here goes..",
+                    "created": "Fri, 28 Jul 2023 12:14:45 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The problem was that over the last four years I've created systems that depend on me sitting at my desk in the mountains, surrounded by nature, a good net connection and lots of disk space. Now I want to be mobile, camp out in various places, and still be able to keep the servers running, update and write new code and docs, and my blog, basically everything I do at my desktop. This has meant going back to Dropbox, but not sacrificing the very nice systems I've built that don't depend on Dropbox, because the Linux version is hard to install, and is unpredictable and flaky. ",
+                    "created": "Fri, 28 Jul 2023 12:21:28 GMT",
+                    "image": "https://imgs.scripting.com/2023/07/28/marshmallowManFromGhostbusters.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I have one server system that runs Dropbox well, so I'm moving all the software I ran locally to push stuff into the cloud onto that server, and instead of saving things to local folders, I save them to Dropbox-hosted folders. The server versions of the software watch the Dropbox folders and move things to where they belong, just as they did on the desktop. Voila, Uncle Davey can move around, and theoretically everything works as it did before. And so far it does. ",
+                    "created": "Fri, 28 Jul 2023 12:26:07 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I am able to edit all my docs in \"Electric Drummer\", and my blog, and I'm much happier than I was when I was trying to do all that in web Drummer. E/D is a much better fit for the way I work. The <a href=\"https://www.youtube.com/watch?v=u4pN9L2ArGs\">Bookmarks menu in Drummer</a> was key to making this a (so far) relatively easy transition. But figuring out what to do and doing it took pretty much the whole month of July. Still have a bit more to do.",
+                    "created": "Fri, 28 Jul 2023 12:22:33 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
