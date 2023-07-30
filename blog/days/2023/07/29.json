@@ -1,0 +1,43 @@
+{
+    "created": "2023-07-29T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "29",
+    "path": "2023/07/29",
+    "text": "July 29",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=LXdVgILd38U\">Sax and Violins</a>.",
+            "created": "Sun, 30 Jul 2023 00:04:42 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=LXdVgILd38U",
+            "flInCalendar": true
+        },
+        {
+            "text": "In 2015, the year the Mets won the National League title, I saw a friend who I knew was a Yankees fan wearing a Mets hat, and asked about it. He said we've always liked the Mets, it's Mets fans we don't like. I thought that wsa pretty good, esp for a Yankees fan. I doubted he ever had actually been a Yankees fan.",
+            "created": "Sat, 29 Jul 2023 11:48:21 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Social media is a moral parade.",
+            "created": "Sun, 30 Jul 2023 00:01:21 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Must've been a good one",
+            "created": "Sat, 29 Jul 2023 23:58:45 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Wonder what the joke was.",
+                    "created": "Sat, 29 Jul 2023 23:58:53 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/07/29/hillaryAndObamaEnjoyAGoodLaugh.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
