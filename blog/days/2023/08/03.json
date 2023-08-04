@@ -1,0 +1,28 @@
+{
+    "created": "2023-08-03T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "03",
+    "path": "2023/08/03",
+    "text": "August 03",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I've been <a href=\"https://github.com/scripting/Scripting-News/issues/267\">working with Automattic</a> on a new chatbot for my blog.",
+            "created": "Thu, 03 Aug 2023 18:15:24 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Also <a href=\"https://github.com/scripting/feedlandSupport/issues/214\">testing</a> a new bookmarklet for FeedLand. ",
+            "created": "Thu, 03 Aug 2023 17:52:52 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's been a while since I looked at the <a href=\"https://feedland.org/?everything=true\">everything timeline</a> in FeedLand. In the interim, a bunch of people have subscribed to Bluesky feeds, and they are the most active, and also support rssCloud (!) so the list is skewed toward Bluesky posts from people who are on now.",
+            "created": "Thu, 03 Aug 2023 15:42:48 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
