@@ -1,0 +1,57 @@
+{
+    "created": "2023-08-04T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "04",
+    "path": "2023/08/04",
+    "text": "August 04",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "What made the news worth watching <a href=\"http://scripting.com/2023/08/02.html\">Wednesday night</a> was that finally the most important question was asked -- will our system defend itself? Finally, we've gotten around to insisting that this question be answered. And a jury of Americans will make this decision. How perfectly American.",
+            "created": "Fri, 04 Aug 2023 17:46:33 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2020/07/01/orangeBlob.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Speaking as someone who has <a href=\"http://scripting.com/davenet/1996/03/01/juryduty.html\">served on a jury</a> all the way to a verdict, I have great respect for my fellow citizens in this context. When trusted, we do an amazing job. And whether most of American culture treats individuals like mindless blobs, the justice system is built on trust in the wisdom of the people, who once so challenged, don't let us down. ",
+            "created": "Fri, 04 Aug 2023 18:41:21 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Facebook friends in Canada. If you can see <a href=\"https://www.facebook.com/dave.winer.12/posts/pfbid02M3xPX3F1VHd41MiojZ9Ym6PR1EL28ZC1A2ZKYh5kD4xUREnxnEQVh6LeDC52cdB7l\">this</a>, what do you see? ",
+            "created": "Fri, 04 Aug 2023 15:26:41 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Between August 1 and 9 every year <a href=\"https://www.celebstoner.com/news/celebstoner-news/2020/08/01/jerry-garcia-week-the-days-between/\">Deadheads</a> around the world pause to reflect on and to celebrate the <a href=\"http://scripting.com/davenet/1995/08/09/somethingrealhappened.html\">life</a> of Jerry Garcia. ",
+            "created": "Fri, 04 Aug 2023 15:29:27 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've finished the first pass of my review of the <a href=\"http://docs2.feedland.org/readme.md\">FeedLand docs</a>. I converted them to Markdown, with the source hosted <a href=\"https://github.com/scripting/feedlandSupport/tree/main/docs\">on GitHub</a>, to make it easy for people to see the changes over time, and to make bug reports. I want to get more systematic in working on FeedLand. When you're reading a docs page, there's a command in the menu that opens the same page in GitHub. If you're a FeedLand user, you may want to read the new docs, it's always a good idea I find to review the docs of products I use. You often see things you didn't pick up on the first time around. ",
+            "created": "Fri, 04 Aug 2023 13:55:57 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2023/07/05/pinkyFacingLeft.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Jean Metzinger",
+            "created": "Fri, 04 Aug 2023 16:01:13 GMT",
+            "type": "outline",
+            "metaImage": "https://imgs.scripting.com/2023/08/04/womanWithAFan.png",
+            "subs": [
+                {
+                    "text": "<a href=\"https://en.wikipedia.org/wiki/Woman_with_a_Fan_(Metzinger)\">Woman with a Fan</a>, 1913.",
+                    "created": "Fri, 04 Aug 2023 16:01:17 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/08/04/womanWithAFan.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
