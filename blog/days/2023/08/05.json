@@ -1,0 +1,181 @@
+{
+    "created": "2023-08-05T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "05",
+    "path": "2023/08/05",
+    "text": "August 05",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "My personal librarian now has a name: <a href=\"https://miriam.scripting.com/\">Miriam</a>.",
+            "created": "Sat, 05 Aug 2023 13:55:53 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I described Miram to DALL-E, here are some <a href=\"https://imgs.scripting.com/2023/08/05/miriamByDalle.png\">samples</a>.",
+            "created": "Sat, 05 Aug 2023 13:59:04 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Identity as a product",
+            "created": "Sat, 05 Aug 2023 13:04:23 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "This is about a service that is sold to end users and developers. The users pay for the service, and developers invest in it. Once it's up and running it will be the foundation for the web as an open platform for users and developers. ",
+                    "created": "Sat, 05 Aug 2023 13:16:39 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<b>My personal timeline</b>",
+                    "created": "Sat, 05 Aug 2023 13:04:44 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Until recently I was using Twitter as my identity service. I knew there was some risk, but as long as one of the original founders was still involved, I felt it was pretty safe. ",
+                            "created": "Sat, 05 Aug 2023 13:05:36 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Then with new ownership, I had to quickly pivot to create my own identity system, based on email. It took four months from beginning to end to transition \"Drummer\" and \"FeedLand\". The rest of my products that used Twitter identity were left to break. I wrote about this effort in the <a href=\"http://roadmap.feedland.org/\">roadmap doc</a> for FeedLand. ",
+                            "created": "Sat, 05 Aug 2023 13:06:40 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Every developer needs the same service. And it's a mess for users that there's a new identity system for every app. ",
+                            "created": "Sat, 05 Aug 2023 13:07:59 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Users need storage. I have to provide them storage for their writing in Drummer, and in FeedLand for things like bookmarks, their personal feeds (ones they generate). Again, I have no interest in this. But I have to do it. And I am stuck paying for their files. <i>They</i> should be paying for them. ",
+                            "created": "Sat, 05 Aug 2023 13:09:00 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "And if my service should ever go off the air, they lose their data (I also provide ways for them to back up their data, but no surprise a lot of them don't do it). ",
+                            "created": "Sat, 05 Aug 2023 21:40:29 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "No surprise there's almost no developer community for the web in 2023. The hurdles are pretty close to insurmountable.",
+                            "created": "Sat, 05 Aug 2023 21:39:57 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<b>Describe the service</b>",
+                    "created": "Sat, 05 Aug 2023 13:10:43 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "An identity service as a business. Operated by a strong company with longevity and a good track record for treating users and developers fairly. ",
+                            "created": "Sat, 05 Aug 2023 13:11:26 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "A standard OAuth interface for logging on. Can handle multiple identities per user, make it easy to switch from one to the other. Prior art, look at how Twitter or Bluesky do this.",
+                            "created": "Sat, 05 Aug 2023 13:11:32 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "No per-app storage. Rather functional storage. A folder for PNG images, a folder for OPML outlines, or Markdown files, graphs, spreadsheets, or whatever. And make it easy to form projects with files of whatever type. So a user can have 15 programs that use OPML files and decide which get access to the OPML folder. ",
+                            "created": "Sat, 05 Aug 2023 13:12:09 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Here's a key point -- such a system enforces the need for interop. Teaches users they have a right to demand it. When users know this, good things happen in markets. (Example: Podcasting has not gotten siloized because users know they have a right to choice in listening apps.)",
+                            "created": "Sat, 05 Aug 2023 13:23:03 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<b>Competition?</b>",
+                    "created": "Sat, 05 Aug 2023 13:14:33 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Dropbox got incredibly close to doing this, but punted.",
+                            "created": "Sat, 05 Aug 2023 13:14:36 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Amazon should do this but for some reason hasn't. They have end-user identity working (their shopping system) and they lead everyone in storage as a service. Connecting the dots seems to be incredibly easy for them, but they haven't done it. ",
+                            "created": "Sat, 05 Aug 2023 13:14:47 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Dave Winer, Human",
+            "created": "Sat, 05 Aug 2023 12:16:28 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "When I started at Harvard in 2003, one of the first things I did was get my official ID card. When I got it, there was my picture. Underneath that was my name, and underneath that my status: Officer. It was a bit breathtaking. A few minutes before I was a schmuck. Now I was an officer at Harvard.",
+                    "created": "Sat, 05 Aug 2023 12:18:51 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I just had that kind of experience again. I went to my profile page on DALL-E, which I've been playing with lately, and there it said I was:",
+                    "created": "Sat, 05 Aug 2023 12:54:11 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<img src=\"https://imgs.scripting.com/2023/08/05/daveWinerHuman.png\" style=\"border: 1px solid silver; margin-left: 35px; padding: 10px;\">",
+                    "created": "Sat, 05 Aug 2023 12:19:12 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "What an unusual perspective. Here's a place where saying someone is human is saying something. A familiar tweak I haven't felt in a while -- I am once again living in the future. 2023 has been like that for me, a lot of living in the past, and bringing it forward into the future, and then living in that future. I hope to do a lot more of that. Shoveling ideas from 20+ years ago that never got a chance into the future. ",
+                    "created": "Sat, 05 Aug 2023 12:19:13 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You know what we say about that..",
+                    "created": "Sat, 05 Aug 2023 12:21:32 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<i>Still diggin! </i>",
+                    "created": "Sat, 05 Aug 2023 12:21:37 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: I get this feeling sometimes when I start using a new keyboard, as I did this morning. It's a nice one, the same model as it replaces, which I just plain wore out. It will go to one of my other computers where it won't have so much work to do. Its profile would say: Dave's Keyboard, Keyboard. ",
+                    "created": "Sat, 05 Aug 2023 12:21:45 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Tina Weymouth",
+            "created": "Sat, 05 Aug 2023 14:02:16 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I did some searches on <a href=\"https://en.wikipedia.org/wiki/Tina_Weymouth\">Tina Weymouth</a>, the bass player for the Talking Heads. In an <a href=\"https://www.youtube.com/watch?v=rY_BfWwbCrw\">interview</a> with her husband, he said everyone's eyes were on her when they performed, I thought I was the only one. When I listen to a Talking Heads song with a strong beat (a lot of them) I think of her. That's what she represents, the driving power of the group is a woman. Try listening to <a href=\"https://www.youtube.com/watch?v=LXdVgILd38U\">this song</a> and look at <a href=\"https://www.google.com/search?sxsrf=AB5stBgMSi6KCAVa4-pV7pTOKKxwIwrtQw:1691244562327&q=tina+weymouth&tbm=isch&source=lnms&sa=X&ved=2ahUKEwi6mfb62MWAAxW2kIkEHQGiDhMQ0pQJegQIDRAB&biw=1663&bih=1151&dpr=2\">images</a> of her.",
+                    "created": "Sat, 05 Aug 2023 14:06:16 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Tina Weymouth, bass player for Talking Heads.",
+                    "created": "Sat, 05 Aug 2023 14:06:30 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/08/05/tina.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
