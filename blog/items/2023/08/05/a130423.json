@@ -1,0 +1,97 @@
+{
+    "text": "Identity as a product",
+    "created": "Sat, 05 Aug 2023 13:04:23 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "This is about a service that is sold to end users and developers. The users pay for the service, and developers invest in it. Once it's up and running it will be the foundation for the web as an open platform for users and developers. ",
+            "created": "Sat, 05 Aug 2023 13:16:39 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<b>My personal timeline</b>",
+            "created": "Sat, 05 Aug 2023 13:04:44 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "Until recently I was using Twitter as my identity service. I knew there was some risk, but as long as one of the original founders was still involved, I felt it was pretty safe. ",
+                    "created": "Sat, 05 Aug 2023 13:05:36 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Then with new ownership, I had to quickly pivot to create my own identity system, based on email. It took four months from beginning to end to transition \"Drummer\" and \"FeedLand\". The rest of my products that used Twitter identity were left to break. I wrote about this effort in the <a href=\"http://roadmap.feedland.org/\">roadmap doc</a> for FeedLand. ",
+                    "created": "Sat, 05 Aug 2023 13:06:40 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Every developer needs the same service. And it's a mess for users that there's a new identity system for every app. ",
+                    "created": "Sat, 05 Aug 2023 13:07:59 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Users need storage. I have to provide them storage for their writing in Drummer, and in FeedLand for things like bookmarks, their personal feeds (ones they generate). Again, I have no interest in this. But I have to do it. And I am stuck paying for their files. <i>They</i> should be paying for them. ",
+                    "created": "Sat, 05 Aug 2023 13:09:00 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And if my service should ever go off the air, they lose their data (I also provide ways for them to back up their data, but no surprise a lot of them don't do it). ",
+                    "created": "Sat, 05 Aug 2023 21:40:29 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "No surprise there's almost no developer community for the web in 2023. The hurdles are pretty close to insurmountable.",
+                    "created": "Sat, 05 Aug 2023 21:39:57 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "<b>Describe the service</b>",
+            "created": "Sat, 05 Aug 2023 13:10:43 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "An identity service as a business. Operated by a strong company with longevity and a good track record for treating users and developers fairly. ",
+                    "created": "Sat, 05 Aug 2023 13:11:26 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A standard OAuth interface for logging on. Can handle multiple identities per user, make it easy to switch from one to the other. Prior art, look at how Twitter or Bluesky do this.",
+                    "created": "Sat, 05 Aug 2023 13:11:32 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "No per-app storage. Rather functional storage. A folder for PNG images, a folder for OPML outlines, or Markdown files, graphs, spreadsheets, or whatever. And make it easy to form projects with files of whatever type. So a user can have 15 programs that use OPML files and decide which get access to the OPML folder. ",
+                    "created": "Sat, 05 Aug 2023 13:12:09 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's a key point -- such a system enforces the need for interop. Teaches users they have a right to demand it. When users know this, good things happen in markets. (Example: Podcasting has not gotten siloized because users know they have a right to choice in listening apps.)",
+                    "created": "Sat, 05 Aug 2023 13:23:03 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "<b>Competition?</b>",
+            "created": "Sat, 05 Aug 2023 13:14:33 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "Dropbox got incredibly close to doing this, but punted.",
+                    "created": "Sat, 05 Aug 2023 13:14:36 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Amazon should do this but for some reason hasn't. They have end-user identity working (their shopping system) and they lead everyone in storage as a service. Connecting the dots seems to be incredibly easy for them, but they haven't done it. ",
+                    "created": "Sat, 05 Aug 2023 13:14:47 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
