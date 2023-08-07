@@ -1,0 +1,67 @@
+{
+    "text": "Miriam is great at summarizing",
+    "created": "Sun, 06 Aug 2023 13:18:42 GMT",
+    "type": "outline",
+    "description": "I asked my librarian chatbot, Miriam, how's the weather. What I got back will blow you away! (No it won't.)",
+    "subs": [
+        {
+            "text": "I'm having a great time with my new librarian assistant, \"Miriam\". ",
+            "created": "Sun, 06 Aug 2023 13:18:48 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Basically she's an AI chatbot that has ingested a lot of the <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog/opml\">OPML</a> <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog/opmlOtherSources\">files</a> from my archive. ",
+            "created": "Sun, 06 Aug 2023 13:19:02 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I did the writing, the development was done by \"Automattic\". I get to be a user here. Very relaxing.",
+            "created": "Sun, 06 Aug 2023 13:19:58 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "So the other day I very casually asked Miriam how the weather was. ",
+            "created": "Sun, 06 Aug 2023 13:20:51 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<img src=\"https://imgs.scripting.com/2023/08/06/askingMiriamAboutTheWeather.png\" style=\"border: 1px dotted silver; padding: 3px;\">",
+            "created": "Sun, 06 Aug 2023 13:25:16 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Being software, she dutifully answered the question, by referring me to various times I had discussed the weather on Scripting News. ",
+            "created": "Sun, 06 Aug 2023 13:21:08 GMT",
+            "collapse": "true",
+            "subs": [
+                {
+                    "text": "We don't yet have a way to archive the results of queries, which will, when it's ready allow me to share the actual query with you, so you can take it off in different directions if you're so inclined. ",
+                    "created": "Sun, 06 Aug 2023 13:30:04 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "A surprising take-away: I really like how she summarized my posts. ",
+            "created": "Sun, 06 Aug 2023 13:22:32 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Since Automattic also makes WordPress, which is used for blogging I thought this might be an interesting service they could offer. It could also be used to improve their feeds, esp if writers don't want to include full text. I know this is not a popular view, but I like sites that provide descriptions that are not full text, like the NYT. Much easier to skim. ",
+            "created": "Sun, 06 Aug 2023 16:03:16 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Miriam's digest of my writing would make a good feed. Maybe this is something we should try. (BTW, I <i>do</i> provide full text in the feed for all my sites.)",
+            "created": "Sun, 06 Aug 2023 16:03:34 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Another thing to like about her summaries -- they are respectful of the reader. No <a href=\"https://en.wikipedia.org/wiki/Clickbait\">clickbait</a> anywhere in sight. She's a librarian after all. :smile:",
+            "created": "Sun, 06 Aug 2023 13:41:16 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
