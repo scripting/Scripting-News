@@ -1,0 +1,45 @@
+{
+    "created": "2023-08-10T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "10",
+    "path": "2023/08/10",
+    "text": "August 10",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/268\">Braintrust query</a>: Back in July 2022, I <a href=\"http://source.scripting.com/#1653758422000\">wrote</a> about supporting Markdown in RSS feeds. This is something \"FeedLand\" does, as a feed reader and editor. I would love to see all content editors and feed readers support it. One product in particular I'd like to support Markdown is WordPress. The challenge is to figure out how to convert the HTML in a post to Markdown  and then to get a <a href=\"http://source.scripting.com/#1653758422000\">source:markdown</a> element in the corresponding item in the feed. Here's a <a href=\"http://scripting.com/2022/07/19/152235.html?title=devNotesForMarkdownInRss\">checklist</a> that explains how it works. If you have any interest in working on a plugin that does this please post something in this <a href=\"https://github.com/scripting/Scripting-News/issues/268\">thread</a>. When this work I'd love to host a WordPress site that runs the plugin as a proof-of-concept and to test against. ",
+            "created": "Thu, 10 Aug 2023 15:25:57 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2017/09/12/pitcher.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://youtu.be/CUo9C1vUt0A?t=122\">Today's song</a>: \"I'll play if you have the money, or if you're some kind of friend to me. But the one man band by the quick lunch stand, he was playing real good, for free.\"",
+            "created": "Thu, 10 Aug 2023 11:34:45 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://500songs.com/\">Andrew Hickey</a> is why we started blogging and podcasting. It used to be if you wanted to what he's doing, go back to the beginning, study the roots of rock music in episodes, to teach people who love music how things got going, how our culture changes, he would have needed backing of a big media company to get distribution, and for that he'd have had to accept their limits, and also have a good idea up front of what he was trying to do. Without the gatekeepers, he could try out an idea, iterate, and after a few years become so influential, with so much by now obvious value, to get <a href=\"https://www.newyorker.com/culture/podcast-dept/a-music-podcast-unlike-any-other\">coverage</a> from the New Yorker. Our culture is changing thanks to pioneers like Hickey and podcasting as an open platform. A local friend pointed me to the <a href=\"https://500songs.com/\">podcast</a> a few months ago, in a conversation in her Woodstock driveway. I gave it a try and was immediately hooked. Now music means so much more to me. I'm a proud sponsor, like so many others. Reminds me of a story from the 80s -- once when I was doing a presentation at MacWorld Expo in a crowded auditorium, I asked for a show of hands of people who used my product. The first hand that shot up, super high, with gusto, was that of <a href=\"https://en.wikipedia.org/wiki/Steve_Wozniak\">Steve Wozniak</a>. I hadn't even seen him. He must have felt enormous pride that his creation, the Apple II, led to this moment. I feel that way about Hickey's product. ",
+            "created": "Thu, 10 Aug 2023 11:13:47 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/08/10/500songs.png",
+            "imageLink": "https://500songs.com/podcast/",
+            "flInCalendar": true
+        },
+        {
+            "text": "Marc Chagall",
+            "created": "Thu, 10 Aug 2023 16:07:58 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://www.wikiart.org/en/marc-chagall/music-1963\">Music</a>, 1963.",
+                    "created": "Thu, 10 Aug 2023 16:08:08 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/08/10/musicChagall.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
