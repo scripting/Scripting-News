@@ -1,0 +1,161 @@
+{
+    "created": "2023-08-12T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "12",
+    "path": "2023/08/12",
+    "text": "August 12",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Software docs are now basically obsolete. They should all be provided in the form of input to the OpenAI (or similar) so users can ask questions instead of scouring through the docs. Would also include support queries, so the understanding of the software would increase over time. The net-effect, users might be better-informed about our products, perhaps we can make more complex systems, happier users, lower support costs. The AI could probably help us find UI glitches, better ways to organize the UI to make it more efficient, easier to support.",
+            "created": "Sat, 12 Aug 2023 21:02:35 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2022/06/17/charlieTheTuna.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Bootstrapping an app ecosystem",
+            "created": "Sat, 12 Aug 2023 15:58:26 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "A week ago I wrote a piece about <a href=\"http://scripting.com/2023/08/05/130423.html\">identity as a product</a>, summarizing stuff I've written on this topic for the whole life of my blog. ",
+                    "created": "Sat, 12 Aug 2023 14:20:34 GMT",
+                    "urlPublic": "http://appecosystem.this.how/",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I've been on an exploration of what a <a href=\"http://scripting.com/davenet/1995/08/22/whatisaplatform.html\">platform</a> is, and how developers and users figure in it. In the intervening almost 30 years (!) we started out with a fresh slate, the open web, but it never turned into the developer platform I hoped it would. Quite the opposite. ",
+                    "created": "Sat, 12 Aug 2023 16:04:00 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Today it's virtually impossible for an independent developer, without millions in venture capital, to launch a new product or service. Far too many barriers exist. And the money comes at a cost, meaning that many products that are truly useful to users never get out there. Mostly the products turn users into the product as the <a href=\"http://scripting.com/stories/2011/11/07/willUsersAlwaysBeUsers.html\">cliche</a> goes, products for marketers, wanting to sell products to largely passive users. ",
+                    "created": "Sat, 12 Aug 2023 14:54:07 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But I still believe! There are a lot more young people today who are fluent in computer programming, who have been using computers their whole lives, than there were the 80s, the last time there were intentional developer communities where an individual could launch a product and still retain their freedom to serve users, not marketers. ",
+                    "created": "Sat, 12 Aug 2023 14:53:58 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<b>Now some story-telling to go with this idea...</b>",
+                    "created": "Sat, 12 Aug 2023 14:25:17 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The first deliberate new platform I experienced was the Macintosh in 1984. Before that, there were the Apple II and CP/M platforms which had accidental developer communities. ",
+                    "created": "Thu, 10 Aug 2023 23:36:10 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The Apple II's app ecosystem was bootstrapped by <a href=\"https://en.wikipedia.org/wiki/VisiCalc\">Visicalc</a> but at first Apple, did almost nothing to help. There was no idea that the Apple II would be used in business, or that there even <i>was</i> a business market for personal computers. The Apple II was thought of as a \"home computer.\" Used for shopping lists, calendars, recipes, and kids doing homework. Ads showed the computer on a kitchen counter. ",
+                    "created": "Sat, 12 Aug 2023 16:11:32 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Visicalc, an Apple II spreadsheet with an innovative UI, <i>created</i> the business market and a huge wave of apps following it, once they showed it could be done. That wave continued on the IBM PC with another developer product, Lotus 1-2-3, a precursor to Excel. ",
+                    "created": "Sat, 12 Aug 2023 16:12:52 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "CP/M had a spreadsheet, Supercalc, and a lot of word processors, databases, programming languages, communication software. ",
+                    "created": "Sat, 12 Aug 2023 16:13:28 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<b>The first deliberate app ecosystem was the Mac in 1984.</b>",
+                    "created": "Sat, 12 Aug 2023 14:37:19 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "When it first shipped, the Mac didn't run Apple II software, so they had to solve the <a href=\"http://scripting.com/davenet/2000/11/30/bootstrapping.html\">bootstrap</a> problem. They did it by developing two products in-house that were bundled with the machine -- <a href=\"https://en.wikipedia.org/wiki/MacWrite\">MacWrite</a> and <a href=\"https://en.wikipedia.org/wiki/MacPaint\">MacPaint</a>. So people who bought the machine would have something to use it for before they noticed that there was no developer software for the platform at launch. Only promises. ",
+                    "created": "Thu, 10 Aug 2023 23:38:46 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I was lucky, our product, ThinkTank, for the Apple II, had just launched in 1983, struggled to find distribution at first, got a rave review from the <a href=\"https://www.nytimes.com/1983/05/17/science/personal-computers-software-first-idea-processor.html\">NY TImes</a>, which had just started reviewing software, and then the authoritative tech pub <a href=\"https://imgs.scripting.com/2023/08/12/infoworldThinktank1.png?nodialog\">InfoWorld</a> <a href=\"https://imgs.scripting.com/2023/08/12/infoworldThinktank2.png?nodialog\">gave</a> it the highest score possible. All of a sudden we had sales, and could grow. ",
+                    "created": "Sat, 12 Aug 2023 14:31:45 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Our early success caught the eye of Guy Kawasaki who was newly hired as Apple's chief evangelist. We were a tiny startup but they seeded us with an early Macintosh along with the big software companies, and while we ported to the Mac platform it wasn't uncommon for Mike Boich, who was in charge of developer relations at Apple and himself a programmer, to be at our office helping us debug. They got involved with developers. There was no idea that success meant developers succeeding on their own. This very wrong idea would be the fatal flaw of a few otherwise excellent startup platforms.",
+                    "created": "Sat, 12 Aug 2023 14:55:20 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "We raised angel money and by early summer 1984 we had ThinkTank/Mac shipping. Apple bought full page ads for our product in Fortune, Business Week, Time, etc, out-spending us by a lot. Targeted at education and business, the Mac also caught on in government, and esp the military. To be clear, they invested in quite a few other products, not just ours. ",
+                    "created": "Sat, 12 Aug 2023 14:33:12 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "They had a long way to go to catch up to the IBM PC, which had launched three years earlier and was booming, with magazines covering PC software and every major category deep with product, addons, utilities. But Apple's Mac strategy eventually worked. It took time for the developer community to grow, lots of other factors were at play, mostly that the PC had limited memory and the Mac could grow without practical limits. ",
+                    "created": "Sat, 12 Aug 2023 14:35:51 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<b>How to, in 2023</b>",
+                    "created": "Sat, 12 Aug 2023 15:43:08 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Assuming one were going to approach the idea outlined in <a href=\"http://scripting.com/2023/08/05/130423.html\">Identity as a Product</a>, on launch there should be at least two simple products that play the role of MacWrite and MacPaint, giving users a reason to try the platform, and give developers a user community to aim at. Early users would get a special price, but it would <i>never be free.</i> This is a key part of the positioning of the service. Unlike social networks, users pay for this product, and are viewed in every way as the customer. ",
+                    "created": "Thu, 10 Aug 2023 23:44:40 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The MacWrite/MacPaint startup apps would be released as open source so developers not only have the ideas in the product to help them get started, but also working source code. The bundled products would also define documented open file formats, that developer products could <a href=\"http://scripting.com/2021/12/16/153331.html?title=myProductIsInterop\">interop</a> with, and thus would set the precedent that interop is a core value of this platform. More than any idea, it shows that we are investing in user's power and choice and will commit to getting them lots of software they can use without having to leave their favorite tools behind. There never has been a commercial platform with this ethos, as far as I know.  ",
+                    "created": "Sat, 12 Aug 2023 14:41:41 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I wrote a <a href=\"http://scripting.com/davenet/1996/01/08/gottabearetha.html\">piece</a> in 1996 when Apple was on the ropes, a fantasy about what I would do if I were Apple's new CEO (this was before Jobs came back in 1997). It more or less outlines a business plan for bootstrapping an app ecosystem. We help developers, as Apple did with my product in 1984, and they commit to deliver products in time to be part of the bootstrap of the platform. ",
+                    "created": "Thu, 10 Aug 2023 23:48:54 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "There would also be a venture capital part of this platform, and it will mainly focus on product quality, not headcount, or even number of users. Value to the platform will be the major concern. Are they filling a need that's under-served? Will they draw more developers to the platform. Will it help build user confidence? Will it be fun? Do we believe in their vision? ;-)",
+                    "created": "Thu, 10 Aug 2023 23:50:06 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "How revenue flows -- from users to the platform, where it's distributed to app devs, based on the utility of the product. They can if they want, in addition, charge users a license fee, offer a subscription, or whatever, for use of their product. ",
+                    "created": "Thu, 10 Aug 2023 23:51:34 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But if the users get value from the product, developers will receive dollars from the platform. That means this can work for individuals. Just make a product that people love, and this can be your fulltime job, or maybe even make you rich. No more turning excellent developers into managers and CEOs if that isn't their calling. ",
+                    "created": "Sat, 12 Aug 2023 15:01:08 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<b>Not the iOS model</b>",
+                    "created": "Sat, 12 Aug 2023 15:43:56 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The prior art for this is <i>not</i> Apple's iOS app ecosystem. The platform vendor here, sells core services to the users, mainly identity and storage, but does not provide any warranty for the developer apps. They can ship whatever they like, and if they want can form associations that might behave like the iOS ecosystem. ",
+                    "created": "Sat, 12 Aug 2023 15:01:16 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "There are many reasons for not wanting to emulate that model, but for me the most important is that it cripples developer creativity. None of my products would have been allowed under the iOS approach. It's as if all music would have to be pre-approved by Disney. Maybe that is how music works these days, but it's it's a very limited form of creativity, imho of course.",
+                    "created": "Sat, 12 Aug 2023 16:00:14 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<b>Future-safety</b>",
+                    "created": "Sat, 12 Aug 2023 16:22:23 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Another constant theme of this blog is <a href=\"http://scripting.com/stories/2007/12/10/futuresafeArchives.html\">creating persistence</a> for the web. I have gigabytes worth of text and images on scripting.com, written over the last 29 years. I would like to be able to pay say $10K to have that writing persist at its current address, after I die. That would be something the platform vendor could offer -- safe storage, renewal of the domain name, whatever other services are needed to make the ideas persist in their current form.",
+                    "created": "Sat, 12 Aug 2023 16:22:26 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
