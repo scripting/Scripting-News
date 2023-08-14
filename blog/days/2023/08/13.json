@@ -1,0 +1,63 @@
+{
+    "created": "2023-08-13T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "13",
+    "path": "2023/08/13",
+    "text": "August 13",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Every full-featured Node.js app is like a <a href=\"https://en.wikipedia.org/wiki/Rube_Goldberg_machine\">Rube Goldberg machine</a>. ",
+            "created": "Sun, 13 Aug 2023 14:28:26 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "There should be a system call in Node.js that calls me back when all the threads I just launched have completed. Would make for better error messages. Think about it. ",
+            "created": "Sun, 13 Aug 2023 14:12:59 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've been a Mets fan since 1962 and <a href=\"https://nypost.com/2023/08/12/mets-get-throttled-by-braves-in-21-run-disaster-loss/\">this year's</a> Mets <a href=\"https://en.wikipedia.org/wiki/Choo-Choo_Coleman\">feels</a> <a href=\"https://en.wikipedia.org/wiki/Rod_Kanehl\">very</a> <a href=\"https://en.wikipedia.org/wiki/Marv_Throneberry\">familiar</a>. Part of being a Mets fan imho is loving the team and its <a href=\"http://scripting.com/2018/06/24/181734.html\">philosphy</a> of <i>metsness</i> underneath all the suckage.",
+            "created": "Sun, 13 Aug 2023 14:05:55 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "An immediate improvement AI could make for developers are making the error messages from language interpreters and runtimes better at pointing to the actual source of the problem, not just where it shows up. That would require some guesswork, but it's better to have the computer do some of that before turning it over to the human. The same way it can make medical doctors work easier. ",
+            "created": "Sun, 13 Aug 2023 14:22:34 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "How I wish software worked",
+            "created": "Sun, 13 Aug 2023 13:54:57 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Joni Mitchell, Neil Young, Rick Danko, Van Morrison, Bob Dylan and Robbie Robertson in <a href=\"https://en.wikipedia.org/wiki/The_Last_Waltz\">The Last Waltz</a>. ",
+                    "created": "Sun, 13 Aug 2023 13:55:22 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/08/13/lastwaltz.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I got this picture from a <a href=\"https://www.facebook.com/groups/197624643745929?multi_permalinks=2599965136845189&hoisted_section_header_type=recently_seen\">Facebook post</a> on Woodstock and the 60s. ",
+                    "created": "Sun, 13 Aug 2023 13:55:08 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "My generation of software developers totally fucked this up. Everyone went their own way. Nowhere near enough working together. There was some collaboration however with people in the news world, and we created media that empowered millions of individuals to publish. We got stuff done, but we could have done much better. ",
+                    "created": "Sun, 13 Aug 2023 13:55:57 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The next generation should look for ways to all play on the same stage, make each other sound better, inspire each other to <i>their</i> greatness. To show, visibly, what we can accomplish by working together. ",
+                    "created": "Sun, 13 Aug 2023 13:56:38 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
