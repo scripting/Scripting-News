@@ -1,0 +1,58 @@
+{
+    "created": "2023-08-17T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "17",
+    "path": "2023/08/17",
+    "text": "August 17",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "The home construction project continues, but I have four consecutive days at home, to do with as I please. Then next week is the craziest yet, but with any luck it'll be the end the crazyness. The problem is rain. It just keeps coming. And it's <i>depressing. </i>The summer without the summer. Yeah I can go swimming most days, but it's almost never sunny and it seems it's raining every day. Welcome to the all-new Planet Earth. We have it easy here in the northeastern US, relatively speaking. Outrageous heat in the west where summer is usually cool. The fires in Maui, a place you'd never think would be inundated with fire. Our industrial world had a good run, now that's over. It's only going to get worse from here. What will we do? Hell if I know.  ",
+            "created": "Thu, 17 Aug 2023 12:02:26 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2021/12/24/dontLookUp.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I had a good <a href=\"https://podcasts.apple.com/us/podcast/all-of-a-sudden-there-was-all-this-freedom-david/id1448694012?i=1000624569410\">podcast chat</a> with <a href=\"https://en.wikipedia.org/wiki/Andrew_Keen\">Andrew Keen</a> on Tuesday from a phone booth at a local co-working place. We talked about the technological beginnings of blogging, RSS and podcasting. I wasn't expecting it to be so good. I wanted to do this with Andrew because I had not respected his books in the 00s that said the online world we were creating wasn't going to be too great. I thought of course here's a guy trying to make a buck by invalidating our hard and successful work. Well it turned out Andrew had it right -- and so did we. There's no new technology that can't be abused or have serious downsides. That doesn't mean we shouldn't do it, because the flipside is also true. The answers to our problems can be found in the new tech. We tend to discount the good things that came from online computer tech and there are many. I don't do many interviews, but I like to do them with old friends like Guy Kawasaki and with people who I didn't respect well enough in <a href=\"https://www.google.com/search?q=site%3Ascripting.com+andrew+keen\">the past</a>, like Andrew, to try to make amends. It was a good show. ",
+            "created": "Thu, 17 Aug 2023 12:06:16 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "On the other hand, I still totally agree, with the quick review I did of his first book, <a href=\"http://scripting.com/stories/2007/02/27/blameTheBloggers.html\">here</a>, in 2007.",
+            "created": "Thu, 17 Aug 2023 12:21:45 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Each bit of code is a blog",
+            "created": "Thu, 17 Aug 2023 14:10:13 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Heh yes I still use \"Frontier\". I do all my JavaScript programming in a suite I developed in 2014, and it's still great. ",
+                    "created": "Thu, 17 Aug 2023 14:10:41 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This morning, I decided to take a minute and streamline something I'm doing a lot of now that I work from two different computers. And that involved doing something like what Jake Savin did in the <a href=\"https://imgs.scripting.com/2023/08/17/fatpagesConfirmaddress.png?nodialog\">same place</a> in 2004. My comment is dated today. ",
+                    "created": "Thu, 17 Aug 2023 14:10:55 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Every bit of code is a bit like a blog. ",
+                    "created": "Thu, 17 Aug 2023 14:11:15 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/08/17/codeAsBlog.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: If you have Frontier, <a href=\"http://scripting.com/2023/08/17/141013.html\">download this file</a> and open it in Frontier to get the updated bit. It's also a historic artifact, it uses a text-based file format called <a href=\"http://scripting.com/fatpages/faq.html\">Fat Pages</a>, designed to be embedded in a web page that was also the docs for the bit. We came up with <a href=\"https://www.google.com/search?q=site%3Ascripting.com+fat+pages\">all this</a> in the <a href=\"http://scripting.com/davenet/1997/03/31/FatPagesWithWheels.html\">1997</a>. ",
+                    "created": "Thu, 17 Aug 2023 14:17:42 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
