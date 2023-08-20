@@ -1,0 +1,53 @@
+{
+    "text": "Tagging revisited",
+    "created": "Sat, 19 Aug 2023 12:16:41 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Two summers ago I was playing with <a href=\"http://scripting.com/2021/07/22/135636.html?title=taggingInScriptingNews\">tagging</a> in Scripting News. ",
+            "created": "Sat, 19 Aug 2023 12:16:47 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Briefly, if I enclose a bit of text in double-square-brackets it's processed by Old School as a tag. It makes a call to the tag server software, which simply adds the reference to a database. ",
+            "created": "Sat, 19 Aug 2023 12:19:17 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "When you click on a tag reference in my post, a <a href=\"https://imgs.scripting.com/2023/08/19/tagrefbrowser.png\">dialog pops up</a> with the references to the tag in reverse chronologic order, and it stacks them, so you can click on tags within tags. It's a deceptively complex bit of software, built into the web page you're reading my blog on.  ",
+            "created": "Sat, 19 Aug 2023 12:22:45 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "This is a core feature of the [[Tools For Thought]] category. ",
+            "created": "Sat, 19 Aug 2023 12:23:18 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I stopped tagging at some poin. It's a nice thing to do, but it's for the future, and I'm busy now, and I find I'm not using it that much, still preferring to find the equivalent of tags in Google, because that requires no pre-thought and thus is likely to be more complete. And since I just started tagging two years ago, there, 26 years of my writing that never will be tagged. So I use Google every time. ",
+            "created": "Sat, 19 Aug 2023 12:23:32 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "But the technology still seems potentially valuable, for writing that's more of a product, like reference manuals, or specs or standards work, designs, stuff where the dollar value of the writing is clear. And potentially you can hire people to do the tagging, or more likely give the job to an AI.",
+            "created": "Sat, 19 Aug 2023 12:24:53 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Anyway, you may see me tagging here in the coming days, this is why. ",
+            "created": "Sat, 19 Aug 2023 12:25:58 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<i>Still diggin! </i>(as they say)",
+            "created": "Sat, 19 Aug 2023 12:26:19 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "\"curly\"",
+            "created": "Sat, 19 Aug 2023 12:26:27 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
