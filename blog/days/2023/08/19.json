@@ -1,0 +1,180 @@
+{
+    "created": "2023-08-19T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "19",
+    "path": "2023/08/19",
+    "text": "August 19",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I like \"Hurricane Hilary.\" It probably won't be so much fun <a href=\"https://www.news10.com/news/national/ap-hurricane-hilary-threatens-dangerous-rain-for-mexicos-baja-california-may-get-rare-tropical-storm/\">after</a> it starts killing people, but in the meantime every time I hear it I think \"Good for her.\" If only it were aimed at red states. ",
+            "created": "Sat, 19 Aug 2023 19:00:38 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Whether or not you believe Chris Christie can win, or think he'd be a good president, he's <a href=\"https://thehill.com/homenews/campaign/4160223-christie-hits-trump-on-foreign-policy/\">saying</a> <a href=\"https://politicalwire.com/2023/08/19/quote-of-the-day-3603/\">things</a> anyone running against Trump should say. Good to have someone in there showing what losers the other Repubs are.",
+            "created": "Sat, 19 Aug 2023 19:18:54 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I had a broken link for <a href=\"http://scripting.com/2023/08/18.html#a145356\">yesterday's</a> podcast. <a href=\"http://scripting.com/2023/08/19/mathIsLikePeForTheMind.m4a\">This link</a> should work. Still figuring this stuff out.  ",
+            "created": "Sat, 19 Aug 2023 19:10:55 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Tagging revisited",
+            "created": "Sat, 19 Aug 2023 12:16:41 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Two summers ago I was playing with <a href=\"http://scripting.com/2021/07/22/135636.html?title=taggingInScriptingNews\">tagging</a> in Scripting News. ",
+                    "created": "Sat, 19 Aug 2023 12:16:47 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Briefly, if I enclose a bit of text in double-square-brackets it's processed by Old School as a tag. It makes a call to the tag server software, which simply adds the reference to a database. ",
+                    "created": "Sat, 19 Aug 2023 12:19:17 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "When you click on a tag reference in my post, a <a href=\"https://imgs.scripting.com/2023/08/19/tagrefbrowser.png\">dialog pops up</a> with the references to the tag in reverse chronologic order, and it stacks them, so you can click on tags within tags. It's a deceptively complex bit of software, built into the web page you're reading my blog on.  ",
+                    "created": "Sat, 19 Aug 2023 12:22:45 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This is a core feature of the [[Tools For Thought]] category. ",
+                    "created": "Sat, 19 Aug 2023 12:23:18 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I stopped tagging at some poin. It's a nice thing to do, but it's for the future, and I'm busy now, and I find I'm not using it that much, still preferring to find the equivalent of tags in Google, because that requires no pre-thought and thus is likely to be more complete. And since I just started tagging two years ago, there, 26 years of my writing that never will be tagged. So I use Google every time. ",
+                    "created": "Sat, 19 Aug 2023 12:23:32 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But the technology still seems potentially valuable, for writing that's more of a product, like reference manuals, or specs or standards work, designs, stuff where the dollar value of the writing is clear. And potentially you can hire people to do the tagging, or more likely give the job to an AI.",
+                    "created": "Sat, 19 Aug 2023 12:24:53 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Anyway, you may see me tagging here in the coming days, this is why. ",
+                    "created": "Sat, 19 Aug 2023 12:25:58 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<i>Still diggin! </i>(as they say)",
+                    "created": "Sat, 19 Aug 2023 12:26:19 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "\"curly\"",
+                    "created": "Sat, 19 Aug 2023 12:26:27 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "How \"inventions\" really happen",
+            "created": "Sat, 19 Aug 2023 18:53:05 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Posted <a href=\"https://www.facebook.com/dave.winer.12/posts/pfbid0ozeqgB5RbPo53hFzo5MaYWqZruwem1HcKo3y69mWBKShrGUFWyhBxcvTp2C8KSqSl\">on Facebook</a> in 2014, when the EFF was fighting a patent troll who claimed to have invented podcasting. ",
+                    "created": "Sat, 19 Aug 2023 18:53:12 GMT",
+                    "subs": [
+                        {
+                            "text": "You couldn't have had podcasting without a lot of things coming together. ",
+                            "created": "Sat, 19 Aug 2023 18:54:02 GMT",
+                            "flNumberedSubs": "true",
+                            "subs": [
+                                {
+                                    "text": "Networks of writers who shared links. Blogging.",
+                                    "created": "Sat, 19 Aug 2023 18:54:16 GMT",
+                                    "flInCalendar": true
+                                },
+                                {
+                                    "text": "A protocol for moving links around a network. HTTP.",
+                                    "created": "Sat, 19 Aug 2023 18:54:23 GMT",
+                                    "flInCalendar": true
+                                },
+                                {
+                                    "text": "Something to attach links and recordings to. RSS.",
+                                    "created": "Sat, 19 Aug 2023 18:54:26 GMT",
+                                    "flInCalendar": true
+                                },
+                                {
+                                    "text": "A standard format for recording. MP3.",
+                                    "created": "Sat, 19 Aug 2023 18:54:29 GMT",
+                                    "flInCalendar": true
+                                },
+                                {
+                                    "text": "Inexpensive, easy to use playback devices, that could hook up to all this. iPod.",
+                                    "created": "Sat, 19 Aug 2023 18:54:18 GMT",
+                                    "flInCalendar": true
+                                }
+                            ],
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "You might argue that we still haven't gotten all the pieces needed for it to really work. But one thing is for sure, <i>none</i> of the pieces existed when the famous patent troll claims to have invented podcasting. ",
+                            "created": "Sat, 19 Aug 2023 18:54:45 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Maybe we should reach not for a victory but for understanding. The patent system is making decisions about technological processes it doesn't understand. No wonder it gets it so wrong.",
+                            "created": "Sat, 19 Aug 2023 18:56:36 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Boring roofs are best",
+            "created": "Sat, 19 Aug 2023 14:12:01 GMT",
+            "type": "outline",
+            "metaImage": "https://imgs.scripting.com/2023/08/19/houseWithABoringRoof.png",
+            "subs": [
+                {
+                    "text": "Dear friends, if I were shopping for a new house, I'd look at the roof first. I do not want an interesting roof. It must be boring and for that it should be peaked in the middle, and that's it. ",
+                    "created": "Sat, 19 Aug 2023 14:23:25 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://www.zillow.com/homes/for_sale/2061203742_zpid/\">House</a> with a boring roof.",
+                    "created": "Sat, 19 Aug 2023 14:12:39 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/08/19/houseWithABoringRoof.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I've bought three houses in my life and all have had \"creative\" roofs because I guess I find them interesting or I don't bother to look, or consider that roofs that are flat in places or have skylights, or worse have skylights in flat places, are going to have problems. Gutters get clogged and the water backs up and forms ponds. And if the ponding is hidden from view, you could think you don't have a problem with your roof when water is leaking into the wood that support the roof, and then you are in trouble. Let me say that again. You. Are. In. Trouble. One day a leak shows up in the ceiling and when you trace it back to the source you find a pond. And you realize it was right there all the time and you never saw it. And then you see a picture like this..",
+                    "created": "Sat, 19 Aug 2023 14:12:37 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You do not want this.",
+                    "created": "Sat, 19 Aug 2023 14:15:43 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/08/19/roofrot.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Please. Boring roofs only. ",
+                    "created": "Sat, 19 Aug 2023 14:13:52 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And if you're building a house, same message. ",
+                    "created": "Sat, 19 Aug 2023 14:16:29 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
