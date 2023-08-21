@@ -1,0 +1,74 @@
+{
+    "created": "2023-08-20T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "20",
+    "path": "2023/08/20",
+    "text": "August 20",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Now that social media apps like Mastodon have \"RSS\" feeds, we had to figure out how to display them in FeedLand. Here's an example, Matt Haughey's <a href=\"http://xoxo.zone/@mathowie.rss\">feed</a> on Mastodon, as <a href=\"https://feedland.org/?river=http%3A%2F%2Fxoxo.zone%2F%40mathowie.rss\">viewed in FeedLand</a>. These posts, as you <a href=\"https://imgs.scripting.com/2023/08/20/titlelessPostsInFeedland.png\">can see</a>, have no titles. So we bold-up the first sentence, or if it's too long, a big part of it. They look different from titled posts, but now that we've lived with this for a few weeks, I think it works. Might still do some tweaks. ",
+            "created": "Sun, 20 Aug 2023 23:39:43 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2022/07/14/loveRss.png",
+            "imageLink": "https://cyber.harvard.edu/rss/rss.html",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://this.how/publicFolder/\">Public Folder</a> is a utility I depend on. Created when Dropbox eliminated its \"public\" folder. Works the same way, create, update or delete files in a special folder, and it syncs with a location on S3. Strictly doesn't have to be a public location, that's up to how S3 is configured. ",
+            "created": "Sun, 20 Aug 2023 23:52:02 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Since we're remembering tonight, don't forget that <a href=\"https://this.how/googleAndHttp/\">Google thinks</a> it owns the open web, and if you act like you don't care, they do. ",
+            "created": "Sun, 20 Aug 2023 23:55:54 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Happy Birthday Mom",
+            "created": "Sun, 20 Aug 2023 18:41:24 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Today would have been my mom's 91st birthday. ",
+                    "created": "Sun, 20 Aug 2023 18:46:43 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I've been to Facebook a few times today, and there she is. They're asking if I remember. Yes, I do. As time passes my memory softens. ",
+                    "created": "Sun, 20 Aug 2023 18:53:12 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "We had differences, but she was my mother, and as I like to say, right after \"Your mileage may vary and I am not a lawyer\" -- my mother loves me. Which means at the base level, no matter how insecure I feel, that's a constant. ",
+                    "created": "Sun, 20 Aug 2023 18:52:52 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's been five years since her death. ",
+                    "created": "Sun, 20 Aug 2023 18:52:45 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But as long as I'm here, her <a href=\"http://eve.scripting.com/\">cause</a> lives. ❤️  ",
+                    "created": "Sun, 20 Aug 2023 18:55:26 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Dr Eve K Winer.",
+                    "created": "Sun, 20 Aug 2023 18:46:01 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2018/02/26/eve.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: A <a href=\"http://mp3.morningcoffeenotes.com/cnMay2.mp3\">podcast</a> with her, my father and myself, on my 50th birthday, at a diner in <a href=\"https://www.google.com/maps/place/Bayside,+Queens,+NY/@40.7785084,-73.7781672,18z/data=!4m6!3m5!1s0x89c261e225f2f7bd:0x7efd0c79b487a99e!8m2!3d40.7602604!4d-73.7692026!16zL20vMDRkcnRn?entry=ttu\">Bayside, NY</a>.",
+                    "created": "Sun, 20 Aug 2023 18:47:49 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
