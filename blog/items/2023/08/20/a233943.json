@@ -1,0 +1,8 @@
+{
+    "text": "Now that social media apps like Mastodon have \"RSS\" feeds, we had to figure out how to display them in FeedLand. Here's an example, Matt Haughey's <a href=\"http://xoxo.zone/@mathowie.rss\">feed</a> on Mastodon, as <a href=\"https://feedland.org/?river=http%3A%2F%2Fxoxo.zone%2F%40mathowie.rss\">viewed in FeedLand</a>. These posts, as you <a href=\"https://imgs.scripting.com/2023/08/20/titlelessPostsInFeedland.png\">can see</a>, have no titles. So we bold-up the first sentence, or if it's too long, a big part of it. They look different from titled posts, but now that we've lived with this for a few weeks, I think it works. Might still do some tweaks. ",
+    "created": "Sun, 20 Aug 2023 23:39:43 GMT",
+    "type": "outline",
+    "image": "https://imgs.scripting.com/2022/07/14/loveRss.png",
+    "imageLink": "https://cyber.harvard.edu/rss/rss.html",
+    "flInCalendar": true
+}
