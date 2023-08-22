@@ -1,0 +1,106 @@
+{
+    "created": "2023-08-21T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "21",
+    "path": "2023/08/21",
+    "text": "August 21",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Every time I click on a NYT link they <a href=\"https://imgs.scripting.com/2023/08/21/fuckthenyfuckingtimesfuckyou.png?nodialog\">try to upsell me</a> before they let me read. I am a paying subscriber. I look forward to being a non-subscriber if this goes on much longer. ",
+            "created": "Mon, 21 Aug 2023 22:17:34 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A few weeks ago <a href=\"http://news.scripting.com/\">my news product</a> passed the <a href=\"http://scripting.com/\">home page</a> in daily reloads. As of yesterday it's more than double flow. It makes sense. The news changes more frequently, includes everything that's on the home page and much more. It of course was created and <a href=\"http://docs.feedland.org/newsProducts.opml\">managed</a> by \"FeedLand\". ",
+            "created": "Mon, 21 Aug 2023 10:28:23 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The programming priesthood",
+            "created": "Mon, 21 Aug 2023 14:50:51 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "This <a href=\"https://this.how/googleAndHttp/#1519490506000\">paragraph</a> in Google and HTTP really resonates.",
+                    "created": "Mon, 21 Aug 2023 14:50:58 GMT",
+                    "subs": [
+                        {
+                            "text": "Google is doing what the programming priesthood always does, building the barrier to entry higher, making things more complicated, giving themselves an exclusive. This means only super nerds will be able to put up sites. And we will lose a lot of sites that were quickly posted on a whim, over the 25 years the web has existed, by people that didn't fully understand what they were doing. That's also the glory of the web. Fumbling around in the dark actually gets you somewhere. In worlds created by corporate programmers, it's often impossible to find your way around, by design.",
+                            "created": "Mon, 21 Aug 2023 14:51:11 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "To my fellow developers of the 80s and 90s, think about how we've reverted to the corporate power we helped overturn. Our generation made software in our living rooms on our own that changed the world. Think how impossible that would be today. Not for any technological reason. There are so many more young people today who know how to write software. But the idea of an individual doing something transformative in software is something very few people believe in. Sometimes I think I'm the only one.  ",
+                    "created": "Mon, 21 Aug 2023 14:52:17 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "In our <a href=\"https://www.google.com/search?q=dotage\">dotage</a>, we can do something about this. Let's make developing network apps as easy as it was for us in the 90s. We can do it, perhaps as our last contribution to keep the doors we forced open when we were young, to stay open.",
+                    "created": "Mon, 21 Aug 2023 14:54:14 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<b>A priestly tale</b>",
+                    "created": "Mon, 21 Aug 2023 16:04:09 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "One of my experiences with the priesthood. ",
+                    "created": "Mon, 21 Aug 2023 15:57:41 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "In 1987 I sold my first company, Living Videotext, to Symantec. I left the combined companies after a few months. I didn't fit into a corporate orgchart, esp one where I wasn't a developer. It was okay, I was ready to move on, I wanted to go back to my living room and pick up some of the pieces I had left unexplored at LVT. A couple of years later, I had something -- a scripting system that would allow smaller apps to work with each other, to compete in a world where monster integrated apps were becoming the norm. Small focused apps that could share data via scripting, that was the idea. ",
+                    "created": "Mon, 21 Aug 2023 16:07:29 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So I needed other apps to play along. From my experience as a founder of one of those smaller companies, I knew a lot of the people who could help make this idea work, but my first stop was to meet with people I recruited and trained, the people at Symantec who came from my company. ",
+                    "created": "Mon, 21 Aug 2023 16:05:23 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I expected it to be a fun meeting, the way our development meetings went when I was their leader, but I was shocked, when I was told, by the very same people that they couldn't work with me. \"You have to understand Dave we're a big company and it's much more complicated now.\" I thought to myself no, this is bullshit, it's not even slightly more complicated. ",
+                    "created": "Mon, 21 Aug 2023 16:05:41 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "That's the priesthood, right there. They were still my friends, I'd go out to dinner with them and talk about the old days, but they didn't want to work with me now that I was just one person and they were part of something much bigger and they thought, therefore, more significant. ",
+                    "created": "Mon, 21 Aug 2023 16:06:10 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Today's DocServer",
+            "created": "Mon, 21 Aug 2023 12:08:39 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "As you may know, I've been reviewing projects that I haven't looked at in a while. Latest is <a href=\"https://imgs.scripting.com/2023/08/21/docserverScreen.png?nodialog\">DocServer</a>, the online docs for Drummer's built-in <a href=\"http://docserver.scripting.com/drummer/scripting.opml\">scripting</a> language. If you use(d) Frontier, you'll recognize both the format of the pages and the names of the verbs. Here are the docs for <a href=\"http://docserver.scripting.com/?verb=date.secondsSince\">date.secondsSince</a> and <a href=\"http://docserver.scripting.com/?verb=github.upload\">gitHub.upload</a> to give you an idea of the range of functionality, from simple data manipulation to providing glue for powerful web apps that have well-thought-out APIs. This idea goes back to the late 80s when we were pushing scriptable Mac apps over <a href=\"https://en.wikipedia.org/wiki/Lotus_Jazz\">excessive integration</a>. Another idea that caught on, slowly, over time until now we take it for granted. ",
+                    "created": "Mon, 21 Aug 2023 11:38:09 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Today's DocServer looks like this.",
+                    "created": "Mon, 21 Aug 2023 12:08:51 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/08/21/todaysDocserverScreen.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: Here's a <a href=\"http://scripting.com/frontier/gifs/docserverscreen.gif\">screen shot</a> of the original DocServer from \"Frontier\" in the 90s, a Mac app.",
+                    "created": "Mon, 21 Aug 2023 19:31:26 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
