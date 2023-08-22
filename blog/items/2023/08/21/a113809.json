@@ -1,0 +1,6 @@
+{
+    "text": "As you may know, I've been reviewing projects that I haven't looked at in a while. Latest is <a href=\"https://imgs.scripting.com/2023/08/21/docserverScreen.png?nodialog\">DocServer</a>, the online docs for Drummer's built-in <a href=\"http://docserver.scripting.com/drummer/scripting.opml\">scripting</a> language. If you use(d) Frontier, you'll recognize both the format of the pages and the names of the verbs. Here are the docs for <a href=\"http://docserver.scripting.com/?verb=date.secondsSince\">date.secondsSince</a> and <a href=\"http://docserver.scripting.com/?verb=github.upload\">gitHub.upload</a> to give you an idea of the range of functionality, from simple data manipulation to providing glue for powerful web apps that have well-thought-out APIs. This idea goes back to the late 80s when we were pushing scriptable Mac apps over <a href=\"https://en.wikipedia.org/wiki/Lotus_Jazz\">excessive integration</a>. Another idea that caught on, slowly, over time until now we take it for granted. ",
+    "created": "Mon, 21 Aug 2023 11:38:09 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
