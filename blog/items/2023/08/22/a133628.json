@@ -1,0 +1,40 @@
+{
+    "text": "appConsts.urlTwitterServer",
+    "created": "Tue, 22 Aug 2023 13:36:28 GMT",
+    "type": "outline",
+    "description": "Who's to say the name Twitter isn't now in the public domain? ",
+    "subs": [
+        {
+            "text": "When I started building my Node.js codebase nine years ago, one of the first things I did was build a server to connect to Twitter for identity and to allow my apps to post stuff to Twitter. ",
+            "created": "Tue, 22 Aug 2023 13:30:45 GMT",
+            "image": "https://imgs.scripting.com/2020/07/08/spaghetti.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Over time more functionality was added to this <a href=\"https://github.com/scripting/nodeStorage\">blob of server software</a>, because it was easier to add it to a server that I was already running, than to create a new server for each new function. Eventually I cleaned it up and <a href=\"https://github.com/scripting/appServer\">properly modularized things</a>, but the name stuck. The server was still named <i>appConsts.urlTwitterServer</i> in my client software. It was never on my todo list to come up with a better name for it. ",
+            "created": "Tue, 22 Aug 2023 13:39:57 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Anyway at the end of last year I had to get my ass off Twitter asap, and I did it pretty cleanly, but the name persists. I just had to use it in a bit of maintenence for \"FeedLand\". I thought this could be the day, that for just this one app, I could give it a new name. I thought about it for a few seconds and deleted the idea. I decided to write a <a href=\"http://scripting.com/2023/08/22/133628.html\">blog post</a> instead. There's only so much damage I can do in a blog post. ",
+            "created": "Tue, 22 Aug 2023 13:37:22 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "And anyway, who's to say the name Twitter isn't now in the public domain? ",
+            "created": "Tue, 22 Aug 2023 13:46:18 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Maybe we should start naming all kinds of things Twitter. ",
+            "created": "Tue, 22 Aug 2023 13:39:26 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Just a thought. ",
+            "created": "Tue, 22 Aug 2023 13:38:42 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
