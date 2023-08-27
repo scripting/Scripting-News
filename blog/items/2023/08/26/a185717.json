@@ -1,0 +1,7 @@
+{
+    "text": "As a side-project I'm getting a bridge going between my world and wordpress.com, as a way of rebooting <a href=\"http://bingeworthy.io/tv/\">BingeWorthy</a> which I miss dearly. That's where I'm headed. Anyway, <a href=\"http://scripting.com/2023/08/23.html\">last week</a> I thought it worked, but hadn't tested the accessToken WP returns, and it was getting mangled going back and forth to my server. I've <a href=\"https://github.com/scripting/wordpressIdentity/blob/main/worknotes.md#82623-121410-pm-by-dw\">worked that out</a> today. I think it's going to be relatively smooth sailing from here, but I thought that a few days ago too. Praise Murphy. ",
+    "created": "Sat, 26 Aug 2023 18:57:17 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2019/12/12/mastodon.png",
+    "flInCalendar": true
+}
