@@ -1,0 +1,104 @@
+{
+    "created": "2023-08-27T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "27",
+    "path": "2023/08/27",
+    "text": "August 27",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "The <a href=\"https://developer.wordpress.com/docs/oauth2/\">docs</a> that I needed to get <a href=\"https://github.com/scripting/wordpressIdentity/blob/main/worknotes.md#82723-101733-am-by-dw\">my wordpress toolkit</a> to work. :boom:",
+            "created": "Sun, 27 Aug 2023 15:08:13 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Matt's 100-year web",
+            "created": "Sun, 27 Aug 2023 13:33:52 GMT",
+            "type": "outline",
+            "description": "The web was created by accident, when the tech industry of the early 1990s wasn't looking. ",
+            "subs": [
+                {
+                    "text": "I've been <a href=\"https://www.techmeme.com/230826/p6#a230826p6\">watching</a> the rollout of Automattic's proposed 100-year websites program. It's the first time I think I've seen my friend Matt personally roll something out like this, and I'm glad he's doing it, esp in this area because it lets us have an open discussion about the kind of web we want for the future. ",
+                    "created": "Sun, 27 Aug 2023 13:26:56 GMT",
+                    "type": "outline",
+                    "image": "https://imgs.scripting.com/2021/06/14/strongman.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I wish instead of offering WordPress as a <a href=\"https://mastodon.social/@photomatt/110957400714778133\">hedge</a> against standards that change, he put his bet down the other way, by creating static renderings of the WordPress sites, and offering his services to people who use other CMSes, and saying these sites will still be here in 100 years, and thereby challenge the browser-makers of 2123 to be able to read those sites as well then as browsers could read them in 1993 and 2023. ",
+                    "created": "Sun, 27 Aug 2023 13:34:38 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I think ultimately it'll be a better business move, because standards that move based on the will of big companies never move compatibly. The interop we have with the web wasn't created by Googles or Mozillas or the EFF. The web was created by accident, when the tech industry of the early 1990s wasn't looking. And of course they've been trying ever since to dismantle the interop gift we got from the accidental network.  ",
+                    "created": "Sun, 27 Aug 2023 13:36:06 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Someday Automattic and Google will compete, maybe a WordPress site will be read by Google's browser, maybe not. Maybe it won't support all the features. So, if we bet on you Matt -- what happens to our websites when Google sees you as a competitor, in 2041, and doesn't want to interop with you?",
+                    "created": "Sun, 27 Aug 2023 13:38:56 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The best bet is to go with the standard we have. Force Google to openly break the web, if they insist on breaking it. ",
+                    "created": "Sun, 27 Aug 2023 13:40:26 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Also consider if there's a world to read our 100-year archives, it'll mean we found an answer to climate change, which surely meant we had to learn to work with each other. So let's not give up on the web so quickly. It's what made you and I so successful. We should pass that on to future generations, the ability to quickly put something together on a whim, without much tech knowledge and not limited by what big tech companies say we're allowed to do. ",
+                    "created": "Sun, 27 Aug 2023 13:42:22 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Essential Markdown?",
+            "created": "Sun, 27 Aug 2023 15:05:13 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I <a href=\"http://scripting.com/2023/08/26.html#a155410\">wrote</a> that Markdown is the killer feature for twitter-like systems ",
+                    "created": "Sun, 27 Aug 2023 15:06:43 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://mastodon.social/@ollicle/110959266933013578\">Ollie Boermans</a> points out that Markdown allows arbitrary HTML. ",
+                    "created": "Sun, 27 Aug 2023 15:07:10 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Of course that is not what I'm suggesting. ",
+                    "created": "Sun, 27 Aug 2023 15:07:17 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I want Markdown minus the feature that allows arbitrary HTML. ",
+                    "created": "Sun, 27 Aug 2023 15:07:26 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Maybe call it <i>Essential Markdown</i> or somesuch. ",
+                    "created": "Sun, 27 Aug 2023 15:07:32 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Vincent van Gogh",
+            "created": "Sun, 27 Aug 2023 22:32:49 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://krollermuller.nl/en/vincent-van-gogh-self-portrait-1\">Self-portrait</a>, 1887.",
+                    "created": "Sun, 27 Aug 2023 22:32:57 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/08/27/vangoghselfportrait.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
