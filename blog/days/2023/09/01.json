@@ -1,0 +1,54 @@
+{
+    "created": "2023-09-01T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "01",
+    "path": "2023/09/01",
+    "text": "September 01",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=V83JR2IoI8k\">She Blinded Me With Science</a>.",
+            "created": "Fri, 01 Sep 2023 21:03:29 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=V83JR2IoI8k",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"http://scripting.com/2023/08/27/133352.html#a133606\">August 27</a>: \"Standards that move based on the will of big companies never move compatibly. The interop we have with the web wasn't created by Googles or Mozillas or the EFF. The web was created by accident, when the tech industry of the early 1990s wasn't looking. And of course they've been trying ever since to dismantle the interop gift we got from the accidental network.\"",
+            "created": "Fri, 01 Sep 2023 16:52:45 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2017/06/26/quimby.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "People whose careers began after the advent of the open web probably have no idea what a miracle it is, and imho once it's gone, it'll never happen again. The BigCo's are too entrenched, and have nothing to gain from the freedom and interop it provided. I know, because I was there, and know what a wasteland tech was before the web, and how that changed in an instant when the web caught on. All of a sudden the Bigs couldn't stop us from creating the things we wanted to create. ",
+            "created": "Fri, 01 Sep 2023 16:46:18 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "States should have to buy insurance against mass shootings, to fund health care for victims and damages to families of those killed. That would give them incentive to control factors that cause mass shootings. No room for the usual bs.\n",
+            "created": "Fri, 01 Sep 2023 18:16:39 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "One of my favorite podcasters, <a href=\"http://scripting.com/2023/08/10.html#a111347\">Andrew Hickey</a>, has a <a href=\"https://rss.firesky.tv/?filter=from:andrewhickey.bsky.social\">Bluesky feed</a> that you can subscribe to in any RSS-compatible feed reader. ",
+            "created": "Fri, 01 Sep 2023 17:02:21 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://chat.openai.com/share/9e255c7a-07a3-4fd6-b8d2-11dc8b921a91\">I asked ChatGPT</a> for 10 big themes on my blog.",
+            "created": "Fri, 01 Sep 2023 13:04:11 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The August blog has been <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/opml/2023/08.opml\">archived</a>. ",
+            "created": "Fri, 01 Sep 2023 13:40:37 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
