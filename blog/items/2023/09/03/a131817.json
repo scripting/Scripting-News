@@ -1,0 +1,7 @@
+{
+    "text": "A couple of weeks ago I found and fixed an error in \"PagePark\" that made \"FeedLand\" and \"Drummer\" fail. The apps were offline until I could restart the server, and that sometimes meant hours of downtime.  That no longer happens. But now there's a different problem, sometimes I go to <a href=\"https://feedland.org/?river=true&screenname=davewiner\">my news page</a> on feedland.org and for a minute or so there's no response. Eventually I give up and try again in a new tab. Same thing. Eventually the problem clears and the server returns to it's normal performance. I'm starting to think about how I might isolate this problem. My theory is that the problem is in the <a href=\"https://github.com/scripting/appServer\">appserver</a> layer, not in FeedLand itself, because when it happens nothing is returned. If it were at a higher level, the lockup would be in the code that gets a timeline or feedlist or whatever, so you would see a menu at the top of the screen. But it's always the news page this happens on, come to think of it. Maybe I should start a <a href=\"https://github.com/scripting/Scripting-News/issues/270\">thread</a> on this in case other FeedLand users who are also developers (please) might have some ideas.",
+    "created": "Sun, 03 Sep 2023 13:18:17 GMT",
+    "type": "outline",
+    "image": "https://imgs.scripting.com/2022/06/17/charlieTheTuna.png",
+    "flInCalendar": true
+}
