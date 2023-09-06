@@ -1,0 +1,7 @@
+{
+    "text": "Yet another use-case for ChatGPT. I'm using the <a href=\"https://github.com/Automattic/wp-calypso/tree/trunk/packages/wpcom.js\">wpcom package</a> for Node.js to make calls about a user's WordPress account. I want to know what sites the user is following in their reader app. But they don't document the high-level call for that function, which <i>is</i> <a href=\"https://developer.wordpress.com/docs/api/1.1/get/read/following/mine/\">documented</a> at the REST level. So I ask ChatGPT what to do and it gives me the code I need. In the past I would probably have been able to piece it together with guesswork, trial and error. Might have taken a whole day. Now I have it working while I'm still drinking my morning coffee. BTW, I also had ChatGPT do code review, and it spots an error, and of course I fix it, happily.",
+    "created": "Tue, 05 Sep 2023 13:15:16 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2023/04/01/siliconValley.png",
+    "flInCalendar": true
+}
