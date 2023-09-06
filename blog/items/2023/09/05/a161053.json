@@ -1,0 +1,6 @@
+{
+    "text": "I've reached a milestone in my <a href=\"https://github.com/scripting/wpIdentity\">wpidentity project</a>. It's now a <a href=\"https://www.npmjs.com/package/wpidentity\">package</a>, and can be included in other servers. There's also an <a href=\"https://github.com/scripting/wpIdentity/blob/main/client/api.js\">interface</a> for browser-based clients to call through the server to wordpress.com. I've got a couple of simple demo apps running. Thinking of hooking it up to \"Drummer\" and/or \"FeedLand\". It's a richer interface to WordPress content than I've had, in the past I was limited to what the XML-RPC api could do (and it could do a lot and I appreciate how they've kept it running over the years). Apparently this is using the same API that their web client, Calypso, uses. I have some definite ideas, but it's time for me to take a break from developement for a few days, off to schmooze with old Berkmanites. It's been 20 years since I showed up there, believe it or not. ",
+    "created": "Tue, 05 Sep 2023 16:10:53 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
