@@ -1,0 +1,52 @@
+{
+    "text": "wpidentity package",
+    "created": "Tue, 05 Sep 2023 16:21:17 GMT",
+    "type": "outline",
+    "description": "A package that implements OAuth identity and a simple verb set with wordpress.com for Node.js apps.",
+    "subs": [
+        {
+            "text": "I've reached a milestone in my <a href=\"https://github.com/scripting/wpIdentity\">wpidentity project</a>. ",
+            "created": "Tue, 05 Sep 2023 16:10:53 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "It's now a <a href=\"https://www.npmjs.com/package/wpidentity\">package</a>, so it can be included in other servers. ",
+                    "created": "Tue, 05 Sep 2023 16:21:32 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "There's also an <a href=\"https://github.com/scripting/wpIdentity/blob/main/client/api.js\">interface</a> for browser-based clients to call through the server to wordpress.com. ",
+                    "created": "Tue, 05 Sep 2023 16:21:36 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I've got a couple of simple demo apps running. ",
+                    "created": "Tue, 05 Sep 2023 16:21:41 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Thinking of hooking it up to \"Drummer\" and/or \"FeedLand\". ",
+                    "created": "Tue, 05 Sep 2023 16:21:45 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's a richer interface to WordPress content than <a href=\"https://codex.wordpress.org/XML-RPC_MetaWeblog_API\">I've had</a>. ",
+                    "created": "Tue, 05 Sep 2023 16:21:49 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Apparently this is using the same API that their browser-based client, <a href=\"https://github.com/Automattic/wp-calypso\">Calypso</a>, uses. ",
+                    "created": "Tue, 05 Sep 2023 16:21:54 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "I have some definite ideas, but it's time for a break from development, off to schmooze with old and new Berkmanites. I'm one of the old ones -- it's been <a href=\"http://scripting.com/2003/03.html\">20 years</a> since I showed up there in 2003, believe it or not. ",
+            "created": "Tue, 05 Sep 2023 16:21:59 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
