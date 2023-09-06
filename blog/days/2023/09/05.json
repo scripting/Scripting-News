@@ -1,0 +1,140 @@
+{
+    "created": "2023-09-05T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "05",
+    "path": "2023/09/05",
+    "text": "September 05",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "ChatGPT can <a href=\"https://chat.openai.com/share/db76574b-e58c-4372-aa6a-4b7c1b872c39\">make tables</a>. ",
+            "created": "Tue, 05 Sep 2023 15:49:25 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Back in the 1970s when SQL was new, it was touted as an English-like database language. Now with ChatGPT you really can do database queries in actual English and it understands. Amazing. Whether the info is accurate or not (I suspect it is) is beside the point. It's doing something with language that has not been possible before. Check out <a href=\"https://chat.openai.com/share/db76574b-e58c-4372-aa6a-4b7c1b872c39\">this query</a>. \"Make a table of 15 oscar-winning actors and actresses ranked by number of nominations, also include a column with the names of at most three of the movies they made that won best picture.\"",
+            "created": "Tue, 05 Sep 2023 15:58:31 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Yesterday I posted a <a href=\"https://twitter.com/davewiner/status/1698786873701695772\">full-length excerpt</a> of the <a href=\"https://this.how/googleAndHttp/\">Google and HTTP</a> piece on Twitter, and was surprised at the positive response. I had posted links to the full article many times, and mostly got flames from programmer priests, Googly trolls, but this time the message got through. It was RT'd 58 times, and got 24K views. Not bad for something most people would consider esoteric, yet is still fundamental the their continued freedom on the unowned open web. ",
+            "created": "Tue, 05 Sep 2023 13:52:40 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Just for fun the other day I asked ChatGPT for <a href=\"https://scripting4.wordpress.com/2023/09/04/christopher-lydon-and-amanda-palmer/\">150 words</a> on Christopher Lydon and Amanda Palmer, wondering if it would find the connection between them. It wrote a paragraph profile on each, but did not discover that Palmer had <a href=\"https://www.youtube.com/watch?v=QM2IrTbWJxY\">written a song</a> about Lydon. Note -- Google's search function totally made the <a href=\"https://www.google.com/search?q=amanda+palmer+christopher+lydon\">connection</a>. ",
+            "created": "Tue, 05 Sep 2023 13:46:58 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Yet another use-case for ChatGPT. I'm using the <a href=\"https://github.com/Automattic/wp-calypso/tree/trunk/packages/wpcom.js\">wpcom package</a> for Node.js to make calls about a user's WordPress account. I want to know what sites the user is following in their reader app. But they don't document the high-level call for that function, which <i>is</i> <a href=\"https://developer.wordpress.com/docs/api/1.1/get/read/following/mine/\">documented</a> at the REST level. So I ask ChatGPT what to do and it gives me the code I need. In the past I would probably have been able to piece it together with guesswork, trial and error. Might have taken a whole day. Now I have it working while I'm still drinking my morning coffee. BTW, I also had ChatGPT do code review, and it spots an error, and of course I fix it, happily.",
+            "created": "Tue, 05 Sep 2023 13:15:16 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2023/04/01/siliconValley.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://mastodon.social/@davew/111012177596560602\">Posted on Masto</a>: I find that ChatGPT is far better than Wikipedia at recounting history I know the truth about. Less subject to human manipulation, imho. When we criticize the machines we should remember what we have to compare them with and we should get <i>our</i> act together. Imagine if the AIs wrote critiques about our accuracy.",
+            "created": "Tue, 05 Sep 2023 11:02:40 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Ideas for sessions",
+            "created": "Tue, 05 Sep 2023 18:53:55 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I'm dumping these into the the Activity Feed for the Berkman reuinion but thought I should post them here as well.",
+                    "created": "Tue, 05 Sep 2023 18:54:01 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "ChatGPT is a miracle. It's one of those things like VisiCalc, the Mac UI, the WWW or Pointcast that after experiencing it I knew everything had changed.",
+                            "created": "Tue, 05 Sep 2023 19:27:58 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "What makes for a great conference experience? How to keep the interesting stuff in the room from spilling out into the hallway.",
+                            "created": "Tue, 05 Sep 2023 18:54:31 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "A session about all the ways we love and miss John Perry Barlow. Have Charlie lead this discussion of course.",
+                            "created": "Tue, 05 Sep 2023 18:55:55 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": " Is there any way the web to be open in the future or is it doomed to be forever controlled by the nerds in silicon valley? And do they <i>really</i> know what's best for us? Why?",
+                            "created": "Tue, 05 Sep 2023 18:56:05 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Based on all the people who say they were at BloggerCon, there must've been 100,000 people there, but there were actually only a couple of hundred. Were you one of them? Anything we could have done better?",
+                            "created": "Tue, 05 Sep 2023 18:58:06 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "wpidentity package",
+            "created": "Tue, 05 Sep 2023 16:21:17 GMT",
+            "type": "outline",
+            "description": "A package that implements OAuth identity and a simple verb set with wordpress.com for Node.js apps.",
+            "subs": [
+                {
+                    "text": "I've reached a milestone in my <a href=\"https://github.com/scripting/wpIdentity\">wpidentity project</a>. ",
+                    "created": "Tue, 05 Sep 2023 16:10:53 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "It's now a <a href=\"https://www.npmjs.com/package/wpidentity\">package</a>, so it can be included in other servers. ",
+                            "created": "Tue, 05 Sep 2023 16:21:32 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "There's also an <a href=\"https://github.com/scripting/wpIdentity/blob/main/client/api.js\">interface</a> for browser-based clients to call through the server to wordpress.com. ",
+                            "created": "Tue, 05 Sep 2023 16:21:36 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I've got a couple of simple demo apps running. ",
+                            "created": "Tue, 05 Sep 2023 16:21:41 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Thinking of hooking it up to \"Drummer\" and/or \"FeedLand\". ",
+                            "created": "Tue, 05 Sep 2023 16:21:45 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "It's a richer interface to WordPress content than <a href=\"https://codex.wordpress.org/XML-RPC_MetaWeblog_API\">I've had</a>. ",
+                            "created": "Tue, 05 Sep 2023 16:21:49 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Apparently this is using the same API that their browser-based client, <a href=\"https://github.com/Automattic/wp-calypso\">Calypso</a>, uses. ",
+                            "created": "Tue, 05 Sep 2023 16:21:54 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I have some definite ideas, but it's time for a break from development, off to schmooze with old and new Berkmanites. I'm one of the old ones -- it's been <a href=\"http://scripting.com/2003/03.html\">20 years</a> since I showed up there in 2003, believe it or not. ",
+                    "created": "Tue, 05 Sep 2023 16:21:59 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
