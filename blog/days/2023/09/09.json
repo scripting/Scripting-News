@@ -1,0 +1,110 @@
+{
+    "created": "2023-09-09T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "09",
+    "path": "2023/09/09",
+    "text": "September 09",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "An idea for an app. Make a list of all the places you've lived, schools went to, restaurants you loved, hated, movies, books, places you've visited. Then you're at a conference or reunion, and the app starts vibrating when you're standing near someone who also uses the app who has something significant and interesting that matches your profile. Take out your phone and it says what it is. You can swipe left or right or ignore it. If you both swipe right, your phones start playing a Peter Gabriel song (the same <a href=\"https://www.youtube.com/watch?v=kU8OJAOMbPg\">one</a>) and you know you can have an interesting conversation with this person. ",
+            "created": "Sat, 09 Sep 2023 22:29:39 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/09/09/poe3.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I have Spectrum cable, only because it’s the only way to get Knicks and Mets games. Otherwise I’d go back to YouTube TV, I like it better. Less money too. And now Disney has disconnected from Spectrum, taking ESPN with, it would a great time for everything to decouple and let’s <a href=\"http://scripting.com/2021/01/25/155932.html\">redo the whole thing</a>. I'm wasting so much money just for two channels and so are a lot of other people.",
+            "created": "Sat, 09 Sep 2023 22:46:33 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, I learned that two of my colleagues from early Berkman are regular readers of this blog, <a href=\"https://en.wikipedia.org/wiki/Christopher_Lydon\">Chris Lydon</a> and <a href=\"https://en.wikipedia.org/wiki/Ethan_Zuckerman\">Ethan Zuckerman</a>. Maybe they have some ideas how we might bootstrap an online <i>Old School Berkman</i> on the open web, probably using something like blogs I imagine, and giving users choice as to what tools they use to read and write the stuff. Kind of like podcasting but for text. I would totally use an outliner for everything, but it should be wide open for any kind of tool anyone wants to build and/or use. Just an idea. Someday we will use such a system, I hope. Not federated, but small pieces loosely joined.",
+            "created": "Sat, 09 Sep 2023 17:31:52 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/02/28/presidentCarter.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I do not keep up with who is or isn't <a href=\"http://scripting.com/email/\">subscribed</a> to nightly email. I deliberately don't want to know. ",
+            "created": "Sat, 09 Sep 2023 18:27:32 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, it was pointed out that <a href=\"http://scripting.com/2023/09/08/222335.html\">yesterday's post</a> with my first notes from the BKC 25th reunion failed to say what <a href=\"https://cyber.harvard.edu/\">BKC</a> <i>is.</i> It's a research center that started 25 years ago at Harvard Law School with a charter to do entrepreneurial internet-related projects. ",
+            "created": "Sat, 09 Sep 2023 17:20:41 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I asked <a href=\"https://chat.openai.com/share/3f08b55e-9d43-4daa-9919-6d012500da9b\">ChatGPT to summarize</a> my connection with Berkman. ",
+            "created": "Sat, 09 Sep 2023 17:31:29 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "What a huge loss for the human species that a monstrous company like Facebook controls a wonderful social network like Facebook.",
+            "created": "Sat, 09 Sep 2023 17:20:13 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Federation vs Small Pieces Loosely Joined",
+            "created": "Sat, 09 Sep 2023 20:45:38 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "As you know, I went to a conference this week with lots of web thinkers, people I worked with 20 years ago. And after listening to them about the state of social networks, this is what I've come up with.",
+                    "created": "Sat, 09 Sep 2023 20:45:49 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "It's federation vs small pieces loosely joined. ",
+                            "created": "Sat, 09 Sep 2023 20:46:15 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I'll go with the latter. The former is too complicated to work or deliver a benefit worth anything to anyone except chaos lovers.",
+                            "created": "Sat, 09 Sep 2023 20:46:29 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "SPLJ delivers all the benefits, but is more fragile, probably slower, but easier to understand. ",
+                            "created": "Sat, 09 Sep 2023 20:46:22 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Everyone has a radio station that broadcasts to the universe to which anyone can opt into listening to or not. ",
+                            "created": "Sat, 09 Sep 2023 20:47:09 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "It's nowhere near as efficient as Twitter, but that's a good thing my friends. ",
+                            "created": "Sat, 09 Sep 2023 20:47:21 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "The problem with Twitter is it makes everyone an easy target. This approach, well understood from the old days of blogging has the opposite challenge, getting anyone to hear you, but at least you can tune everyone else out, because that's the default. ",
+                            "created": "Sat, 09 Sep 2023 20:48:52 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "The default on federated nets is the other way, everyone is on by default. This has been proven to be an awful approach, over and over. ",
+                            "created": "Sat, 09 Sep 2023 20:49:05 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Just because you don't know the lessons of the past doesn't somehow make you immune to them. ;-)",
+                            "created": "Sat, 09 Sep 2023 20:49:17 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
