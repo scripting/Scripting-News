@@ -1,0 +1,6 @@
+{
+    "text": "Fixed a bug where every this.how doc would fail trying to load emoji images because it used an \"insecure\" address. I fixed it so now we can be sure no emoji images are being hacked by a router between AWS and your web browser. Hopefully someone will sleep better because of this. Me, I like fixing bugs so I feel good. :smile:",
+    "created": "Sun, 10 Sep 2023 15:24:00 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
