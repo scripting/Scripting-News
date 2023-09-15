@@ -1,0 +1,104 @@
+{
+    "created": "2023-09-14T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "14",
+    "path": "2023/09/14",
+    "text": "September 14",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Google is worse than a monopolist. They deliberately destroy technology because it’s too empowering for users.",
+            "created": "Thu, 14 Sep 2023 19:12:49 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "My father liked to say: \"When in trouble, when in doubt, run in circles scream and shout.\" It's originally from <a href=\"https://en.wikipedia.org/wiki/The_Caine_Mutiny\">The Caine Mutiny</a>, he must've gotten it when he worked at IBM. He was always interested in new ideas, new ways to approach problems.  But you never get a new idea when you're freaking about how you need a new idea now.",
+            "created": "Thu, 14 Sep 2023 13:37:28 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "People who pay Twitter $8 per month should get a certain number of API calls included. Don't charge developers for what the users do. ",
+            "created": "Thu, 14 Sep 2023 16:31:47 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Users should own their storage",
+            "created": "Thu, 14 Sep 2023 16:51:26 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Suppose you're a big company with deep pockets and lots of users. How about offering an identity service for users that includes storage that permitted apps can read and write, where the storage belongs to the user, not the developer. ",
+                    "created": "Thu, 14 Sep 2023 19:15:47 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'm thinking of AWS or Automattic, as examples. Trusted companies, known for technical excellence and a long-term vision. ",
+                    "created": "Thu, 14 Sep 2023 19:18:02 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "What happens then? Well the net as a platform all of a sudden has the power of a personal computer, and the ownership is in the right hands, the users. ",
+                    "created": "Thu, 14 Sep 2023 20:54:56 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The company that does this, with user freedom to switch, will have the developer market that Microsoft used to have. ",
+                    "created": "Thu, 14 Sep 2023 19:18:28 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The company has to be big enough, stable, trusted.",
+                    "created": "Thu, 14 Sep 2023 19:16:03 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "ChatGPT is the best thing ever",
+            "created": "Thu, 14 Sep 2023 13:08:13 GMT",
+            "type": "outline",
+            "description": "Is AI the end of humanity?",
+            "metaImage": "https://imgs.scripting.com/2023/09/14/hal.png",
+            "subs": [
+                {
+                    "text": "Thesis: ChatGPT is to AI tools as Napster was to streaming audio. The people get better tools to do their own programming. And it's neither good nor bad, but it is inevitable. ",
+                    "created": "Thu, 14 Sep 2023 19:10:09 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "As you might imagine the subject of <i>What To Do About AI</i> was much-discussed at the Berkman reunion last week. Lots of hand-wringing. I was the only person who said that AI is wonderful, I can't wait to see what it can do next. When I started to give this schpiel, I was rushed along and made to stop I guess before their brains exploded? Really I wasn't allowed to finish the thought. This always happens when I go to Future of News conferences. I always ask the question, maybe you should embrace bloggers instead of fearing us. Maybe we can help? I almost started a session entitled \"ChatGPT is the best thing ever.\" That would have been fun. But I was at dinner when the sessions were reserved, so that didn't happen. ",
+                    "created": "Thu, 14 Sep 2023 12:54:22 GMT",
+                    "type": "outline",
+                    "image": "https://imgs.scripting.com/2023/09/14/kitchenComputer.png",
+                    "imageLink": "https://imgs.scripting.com/2023/09/14/fullSizeAppleAd.png?nodialog=true",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "We never understand new tech in the first few years it's out. Personal computers, in the late 70s were thought to be Home Computers. The ads had pictures of <a href=\"https://www.printmag.com/advertising/making-the-mac-20-vintage-apple-ads/\">computers in the kitchen</a>, storing recipes and shopping lists. Helping kids with homework or parents with the family budget. It wasn't until <a href=\"https://en.wikipedia.org/wiki/VisiCalc\">VisiCalc</a> that all the heads turned 180 degrees and realized oh shit, this is what we feared most (the old fear thing again) -- what happens when <i>anyone</i> in an organization can have a computer on their desk, unregulated by the IT people? ",
+                    "created": "Thu, 14 Sep 2023 13:09:23 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And then the old <a href=\"https://www.facebook.com/docsearls/posts/pfbid025SC1UNWYyFe9BJYW8ERxXnLVyFVNYeNqE9WE45LwurmbC8kNfroFk61AjhsEXPzcl?notif_id=1694692897566518&notif_t=close_friend_activity&ref=notif\">question</a> \"Can Humans Survive AI?\" comes <a href=\"https://hls.indiana.edu/human-ai-intelligence/\">up</a> which I would answer -- I have no freaking idea -- but we're not surviving <i>without</i> it, so why not give it a try? And to people who say the scifi authors were right, without even trying ChatGPT I say -- no they weren't right. So far, imho, AI is the best thing ever. Why not focus on the long-term unsolvable problems which now might have solutions with the new tech? And try to learn from our mistakes in previous generations of tech, not to try to stop the march of tech, but to find things it can do that we like or even love? ",
+                    "created": "Thu, 14 Sep 2023 13:10:22 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: I asked ChatGPT for <a href=\"https://chat.openai.com/share/94f9f3fe-43ad-47a5-a6c5-ccccd9701cfe\">250 words</a> about early home computers and what happened when VisiCalc was introduced?",
+                    "created": "Thu, 14 Sep 2023 13:15:23 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PPS: I think ChatGPT would be great at Jeopardy.",
+                    "created": "Thu, 14 Sep 2023 13:16:01 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
