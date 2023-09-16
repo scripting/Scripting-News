@@ -1,0 +1,6 @@
+{
+    "text": "I have a few virtual servers at Digital Ocean, and two of them are running <a href=\"https://caddyserver.com/\">Caddy</a>, so the sites hosted on these machines are HTTPS not HTTP. Caddy is the best. You install it, configure it and that's it. It takes care of all the michegas with the EFF, makes them completely invisible. Also makes it possible to switch thank goodness, I didn't miss that the EFF built themselves into the new system, not by force exactly, but by default. Heh. They get a lot of free marketing. Anyway, the fact that Caddy exists means that Amazon S3 could offer HTTPS access to everything I store there without me having to do anything but check a box in a dialog somewhere. So why don't they do it, make HTTPS zero cost to implement and maintain. They could even charge extra. It's kind of perfect, they know who I am better than anyone. We could make HTTPS disappear, which imho would be a good thing. ",
+    "created": "Fri, 15 Sep 2023 13:45:50 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
