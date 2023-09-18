@@ -1,0 +1,54 @@
+{
+    "created": "2023-09-17T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "17",
+    "path": "2023/09/17",
+    "text": "September 17",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "It seems like HTTP requests these days, generally, don't come with a <a href=\"https://en.wikipedia.org/wiki/HTTP_referer\">referer</a> header? It's a shame because if something you wrote is getting a lot of hits you can't tell where they're coming from. I'm sure there's a privacy reason for this. Perhaps if you were clicking a link from a porn site to a tech blog, you might not want the site to know where you came from, esp if the destination site is Facebook? Not sure. I've been noticing this for a long time, but only yesterday took the time to rule out a bug in my code.",
+            "created": "Sun, 17 Sep 2023 12:39:18 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2022/07/12/quarterPounderWithCheese.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Update: It seems like this <a href=\"https://developer.chrome.com/blog/referrer-policy-new-chrome-default/\">change in Chrome</a> in 2020 is at the root of this new behavior. Something that sounds so esoteric is actually removing an important feature of the web, and it got little or no notice.",
+            "created": "Sun, 17 Sep 2023 13:42:37 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Yet another time Google pulled the rug out from under bloggers, acting as the defacto owner of the web. To big tech companies we just don't exist, probably because to news orgs we don't exist either. Not being able to tell where your stuff is being discussed means you can't learn or persuade. Maybe we should have a human network that manages to get links back to the blogger? ",
+            "created": "Sun, 17 Sep 2023 17:24:33 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Imagine a ChatGPT-like bug reporting system, where the user reports a bug via chat, which asks follow-up questions to determine if it's a software error, and determines reproducible steps before a developer even sees the report. One of the most frustrating things in the life of a developer who cares about users are vague reports like \"It doesn't work, what did I do wrong?\" The chatbot has infinite, inhuman patience. ",
+            "created": "Sun, 17 Sep 2023 12:59:11 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2020/04/21/cylon.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm getting email saying ChatGPT got some data wrong in the <a href=\"http://scripting.com/2023/09/16.html#a155518\">movie report</a> I asked for, but that isn't what's interesting. I'm sure they'll fix that stuff. What's impressive is the language I was able to use to specify the query.\n",
+            "created": "Sun, 17 Sep 2023 12:55:44 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "They don't try to report news on NPR. Bending over backwards to treat Republican mockery of legislative processes as legit. I'm sure when they talk about the events they cover privately they tell each other the truth. But not to their listeners. Why bother.",
+            "created": "Sun, 17 Sep 2023 12:14:36 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's that time of year when I get into MLB, and unfortunately the Mets aren't in the race this year. Probably won't root for anyone, but I really like watching the game this time of year. For now I'm watching the Mets, it's relaxing with absolutely nothing at stake. Except I can't believe they're thinking about not signing Pete Alonso. A homegrown star. The rarest thing these days in NY baseball. ",
+            "created": "Sun, 17 Sep 2023 17:21:07 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
