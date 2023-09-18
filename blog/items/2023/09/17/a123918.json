@@ -1,0 +1,7 @@
+{
+    "text": "It seems like HTTP requests these days, generally, don't come with a <a href=\"https://en.wikipedia.org/wiki/HTTP_referer\">referer</a> header? It's a shame because if something you wrote is getting a lot of hits you can't tell where they're coming from. I'm sure there's a privacy reason for this. Perhaps if you were clicking a link from a porn site to a tech blog, you might not want the site to know where you came from, esp if the destination site is Facebook? Not sure. I've been noticing this for a long time, but only yesterday took the time to rule out a bug in my code.",
+    "created": "Sun, 17 Sep 2023 12:39:18 GMT",
+    "type": "outline",
+    "image": "https://imgs.scripting.com/2022/07/12/quarterPounderWithCheese.png",
+    "flInCalendar": true
+}
