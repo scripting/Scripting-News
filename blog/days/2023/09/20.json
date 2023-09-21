@@ -1,0 +1,23 @@
+{
+    "created": "2023-09-20T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "20",
+    "path": "2023/09/20",
+    "text": "September 20",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "We need a Node.js package that lets you add the contents of a file to the ChatGPT database, along with a URL where the content of that file can be found on the web. It has to be that simple. Based on what Google announced yesterday, and what Facebook is likely to announce this week, it's clear that the big tech companies are only going to allow you to access your data if it's stored in their silos. We need something just as powerful and easy that works with content on the open web. ",
+            "created": "Wed, 20 Sep 2023 13:37:58 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2020/08/29/hope.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, I had to try the <a href=\"https://www.theverge.com/2023/9/19/23878999/google-bard-ai-chatbot-gmail-docs-drive-extensions\">Bard feature</a> that lets you ask questions about your Gmail. As you might imagine there's some very personal stuff in there. As a matter of policy I do not write about that kind of stuff on my blog, but <i>mama mia</i> it's pretty amazing what it will report on.",
+            "created": "Wed, 20 Sep 2023 14:03:19 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
