@@ -1,0 +1,111 @@
+{
+    "created": "2023-09-22T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "22",
+    "path": "2023/09/22",
+    "text": "September 22",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://www.youtube.com/watch?v=GP6a-7MP91g\">Graceland</a>: \"Losing love is like a window in your heart.\"",
+            "created": "Fri, 22 Sep 2023 15:23:38 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=GP6a-7MP91g",
+            "flInCalendar": true
+        },
+        {
+            "text": "Tease: We have <a href=\"http://docserver.scripting.com/?verb=wordpress.addPost\">WordPress verbs</a> in Drummer, and they work. Only <a href=\"https://drummer.land/\">web Drummer</a> for now, not in Electric Drummer yet.  ",
+            "created": "Fri, 22 Sep 2023 21:17:04 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "When I was a kid I used to think how most of the <a href=\"https://chat.openai.com/share/11aa73fe-dae1-4c3c-a77e-e3f951a68b1f\">stars of really old movies</a> were dead. How far removed from my existence. I was watching a <a href=\"https://www.youtube.com/watch?v=p66R294bDZc&t=429s\">clip</a> of <a href=\"https://www.npr.org/2023/08/01/1191242224/actor-paul-reubens-who-created-pee-wee-herman-dies-at-70\">Pee Wee Herman</a> and realize he was just as dead as Lucille Ball, Raymond Burr, Judy Garland, Jim Nabors, Bette Davis, Humphrey Bogart and Marilyn Monroe. For that matter he's just as dead as Ben Franklin.",
+            "created": "Fri, 22 Sep 2023 16:29:18 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Oh that awful feeling when you come up with a term you know is going to catch on and the domain is available. ",
+            "created": "Fri, 22 Sep 2023 15:32:00 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I have a local friend who went to my <a href=\"https://en.wikipedia.org/wiki/Bronx_High_School_of_Science\">high school</a> so we have an important cultural reference point, and a local friend who was raised a few blocks from <a href=\"https://www.google.com/maps/place/29-31+170th+St,+Queens,+NY+11358/@40.7696367,-73.7974495,17z/data=!3m1!4b1!4m6!3m5!1s0x89c28a8078136589:0xcdf1c8651455269a!8m2!3d40.7696367!4d-73.7948746!16s%2Fg%2F11bw4jbj00?entry=ttu\">where I grew up</a>, another strong cultural reference point. We can converse about many things without explaining because we started from the same place. I didn't know either of these people when I was growing up, just met them in the last few years. Same sort of thing happened at the <a href=\"https://www.google.com/search?q=site%3Ascripting.com+Berkman\">Berkman</a> reunion. ",
+            "created": "Fri, 22 Sep 2023 13:35:05 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Second wind considered harmful",
+            "created": "Fri, 22 Sep 2023 12:37:59 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I thought I had caught a <a href=\"https://en.wikipedia.org/wiki/Second_wind\">second wind</a> at 6PM last night, and rather than watch political nonsense on MSNBC (every day the same freaking <i>boring</i> story about the ancient fascist with orange hair) I went upstairs, rolled up my sleeves and wrote some new code deep in the bowels of the system I'm working on to report on SQL queries that were taking too long or returning too much data. ",
+                    "created": "Fri, 22 Sep 2023 12:28:09 GMT",
+                    "type": "outline",
+                    "image": "https://imgs.scripting.com/2023/09/22/empireStateBuilding.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I was feeling very competent. Unfortunately the feeling was an illusion, the kind of mistake a novice makes. After a long day of wrestling with a codebase, you're in need of relaxing MSNBC<i>isms</i> -- not another tech challenge; and I am most definitely not a novice at making messes of a working piece of software. I've been doing it for 50 years! Half a century of software mayhem. It's even worse than it appears. ",
+                    "created": "Fri, 22 Sep 2023 12:56:07 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Anyway, it appeared to work for the first few calls as I stepped through the code in the debugger, and then confident (still) I let it rip, and a horrific error message appeared about something called <code>flQueueAllRequests</code> which presumably I put there a few years ago, and I panicked: \"Revert! Time to revert Davey!\" I said to myself, possibly in my mind or possibly out loud even. But alas <a href=\"https://en.wikipedia.org/wiki/Npm\">NPM</a> will not let you revert. The version numbers must move forward, never backward. How little the designers of NPM really understood about software development. :boom:",
+                    "created": "Fri, 22 Sep 2023 12:39:12 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Once a very long time ago, in 1976, I thought that they shouldn't put programmers in offices on the 39th floor of the <a href=\"https://en.wikipedia.org/wiki/Empire_State_Building\">Empire State Building</a> with windows that open. I had a similar desperate empty feeling last night at 8PM. ",
+                    "created": "Fri, 22 Sep 2023 12:41:06 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I tried to revert as best as I could, but the horrific crash persisted, and I did something I never do, I got up from the computer with the software I'm working on broken. ",
+                    "created": "Fri, 22 Sep 2023 12:41:42 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Then I woke up in the middle of the night and thought \"Davey you're not going to sleep any more, so get up and find the freaking problem.\" So I did. I got up. But I did not find the freaking problem. I wrote a sad missive to the people I'm working with asking for sympathy and help. And when I finally woke up for real at 7:30AM, with the sun out, birds singing, feeling rested and ready for a new challenge, I sat down, before eating breakfast or drinking coffee, rolled up my sleeves and set about fixing the problem. My first three attempts didn't work, then I finally thought of something I might do that did in fact fix the problem, and now I can breathe again. <i>Whew.</i>",
+                    "created": "Fri, 22 Sep 2023 12:41:55 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "As a result of this novice move and its consequences I'd like to ask the NPM folks to come up with a way to say \"get me the latest version of this package\" instead of devising complex ways of saying whatever it was I was telling it to do that it did that made my software behave so badly. ",
+                    "created": "Fri, 22 Sep 2023 12:42:32 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And yes, it's always fun to blame someone else, esp someone whose name you don't know, for your own mistakes. ",
+                    "created": "Fri, 22 Sep 2023 18:08:31 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Your faithful reporter, Uncle Davey",
+                    "created": "Fri, 22 Sep 2023 12:43:05 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: Seriously, once I understood what the problem was I <a href=\"https://chat.openai.com/share/6fcc5702-75e5-4581-960c-040cc5c01549\">asked ChatGPT</a> for the answer, and it's surprisingly complicated. ",
+                    "created": "Fri, 22 Sep 2023 13:56:18 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PPS: The title of this post is a twist on title of a <a href=\"https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf\">famous CS paper</a>. ",
+                    "created": "Fri, 22 Sep 2023 15:27:52 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PPPS: I imagine the <a href=\"https://en.wikipedia.org/wiki/Edsger_W._Dijkstra\">author</a> would have considered other constructs harmful such as <a href=\"https://www.w3schools.com/js/js_promise.asp\">promises</a>, <a href=\"https://www.w3schools.com/js/js_async.asp\">await</a>, and all the other extra junk they're throwing at JavaScript these days. ",
+                    "created": "Fri, 22 Sep 2023 16:26:34 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
