@@ -1,0 +1,59 @@
+{
+    "text": "Many Gmail \"accounts\" from one",
+    "created": "Mon, 25 Sep 2023 15:44:08 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "The other day I <a href=\"http://scripting.com/2023/09/23.html#a140952\">asked</a> how to get nearly free and easy mail accounts. Turns out Gmail does it. ",
+            "created": "Mon, 25 Sep 2023 15:41:02 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Add a + after your name and then add any string you like. ",
+            "created": "Mon, 25 Sep 2023 15:44:54 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "dave.winer+hello@gmail.com",
+                    "created": "Mon, 25 Sep 2023 15:44:38 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "You can also add or omit periods in the middle of your name.",
+            "created": "Mon, 25 Sep 2023 15:45:11 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "dave.winer@gmail.com",
+                    "created": "Mon, 25 Sep 2023 15:45:33 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "d.a.v.e.wi.n.e.r@gmail.com",
+                    "created": "Mon, 25 Sep 2023 15:45:33 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "davewiner@gmail.com",
+                    "created": "Mon, 25 Sep 2023 15:45:33 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "All these \"addresses\" go to the same account, but perhaps the system you want to create multiple accounts on will accept them as different names?",
+            "created": "Mon, 25 Sep 2023 20:56:18 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "See the <a href=\"https://gmail.googleblog.com/2008/03/2-hidden-ways-to-get-more-from-your.html\">writeup</a> on the Google blog from 2008.",
+            "created": "Mon, 25 Sep 2023 15:46:29 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
