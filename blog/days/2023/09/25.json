@@ -1,0 +1,95 @@
+{
+    "created": "2023-09-25T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "25",
+    "path": "2023/09/25",
+    "text": "September 25",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "When I write about <a href=\"https://www.google.com/search?q=ez-pass+for+news+site%3Ascripting.com\">EZ-Pass for News</a> I often hear from entrepreneurs who have either tried the idea or want to try it. This is what I have learned and what I believe. No matter how enticing you make it the news industry will ignore you or fight you. It's possible a new network of news sites has to be formed, which is far beyond the scope of a startup wanting to explore a technical solution. It's not a technical problem. It's a <a href=\"http://scripting.com/davenet/2000/11/30/bootstrapping.html\">bootstrap</a>. A chicken and egg problem. If there were a network of local news orgs that wanted to band together to kick ass then they would need EZ-Pass for News. But it may not be possible to have EZ-Pass for News unless there is a critical mass of news and users. Bootstraps are delicate things, and startups are almost by definition indelicate things. ;-)",
+            "created": "Mon, 25 Sep 2023 16:37:56 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/09/25/ezpass.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Many Gmail \"accounts\" from one",
+            "created": "Mon, 25 Sep 2023 15:44:08 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "The other day I <a href=\"http://scripting.com/2023/09/23.html#a140952\">asked</a> how to get nearly free and easy mail accounts. Turns out Gmail does it. ",
+                    "created": "Mon, 25 Sep 2023 15:41:02 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Add a + after your name and then add any string you like. ",
+                    "created": "Mon, 25 Sep 2023 15:44:54 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "dave.winer+hello@gmail.com",
+                            "created": "Mon, 25 Sep 2023 15:44:38 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You can also add or omit periods in the middle of your name.",
+                    "created": "Mon, 25 Sep 2023 15:45:11 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "dave.winer@gmail.com",
+                            "created": "Mon, 25 Sep 2023 15:45:33 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "d.a.v.e.wi.n.e.r@gmail.com",
+                            "created": "Mon, 25 Sep 2023 15:45:33 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "davewiner@gmail.com",
+                            "created": "Mon, 25 Sep 2023 15:45:33 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "All these \"addresses\" go to the same account, but perhaps the system you want to create multiple accounts on will accept them as different names?",
+                    "created": "Mon, 25 Sep 2023 20:56:18 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "See the <a href=\"https://gmail.googleblog.com/2008/03/2-hidden-ways-to-get-more-from-your.html\">writeup</a> on the Google blog from 2008.",
+                    "created": "Mon, 25 Sep 2023 15:46:29 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Georgia O'Keeffe",
+            "created": "Mon, 25 Sep 2023 20:55:16 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://www.metmuseum.org/art/collection/search/484832\">East River from the 30th Story of the Shelton Hotel</a>, 1928.",
+                    "created": "Mon, 25 Sep 2023 20:55:20 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/09/25/eastRiver.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's today's <a href=\"https://en.wikipedia.org/wiki/New_York_Marriott_East_Side\">New York Marriott East Side</a> at <a href=\"https://www.google.com/maps/place/525+Lexington+Ave,+New+York,+NY+10017/@40.7555353,-73.9729455,260m/data=!3m1!1e3!4m6!3m5!1s0x89c258fd3d5bcc6d:0x6a570c9b69a23d4e!8m2!3d40.7553992!4d-73.9726263!16s%2Fg%2F11bw3_v7rx?entry=ttu\">525 Lexington Ave</a>.  ",
+                    "created": "Mon, 25 Sep 2023 21:01:43 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
