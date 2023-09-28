@@ -1,0 +1,48 @@
+{
+    "text": "Adding storage to WordPress",
+    "created": "Wed, 27 Sep 2023 12:39:27 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I am a developer, and WordPress is the largest blogging platform. Naturally, I want to develop products for WordPress. But there's a problem. ",
+            "created": "Wed, 27 Sep 2023 12:39:44 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Suppose I have an idea for an editor for WordPress posts. I have a constraint, the editor can’t save any information about the post that isn’t in the HTML code for the post. This severely limits the kinds of editors developers can write. ",
+            "created": "Wed, 27 Sep 2023 12:39:44 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Instead if WordPress had the idea that an app could store some JSON data along with a post, and when the user wanted to edit the post my editor would get the data back, we could edit all kinds of structures and have the result available in WP, not just to us, but to every app they give permission to.",
+            "created": "Wed, 27 Sep 2023 12:40:56 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I’ve wanted this feature for WP for a long time. Maybe it’s already there? It has happened before that I’ve asked for a feature in a product that was already there.",
+            "created": "Wed, 27 Sep 2023 12:41:10 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, this idea goes back to the early Macintosh OS. Every object in the system had a 32-bit refcon which could be anything the app wanted it to be. Usually it was a pointer to an object that contained a lot of data and more pointers. You could attach them to a window, a menu, a button in a dialog, IIRC every object had a refcon. Whole complex systems were built around this idea. It meant that the platform vendor (Apple) could evolve their internal structures without breaking developers. You can develop whole app ecosystems around this simple idea. ",
+            "created": "Wed, 27 Sep 2023 12:41:46 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "PS: refcon is short for \"reference constant.\" The fact that it almost immediately was used for pointers shows how innovative developers can be, and how sometimes an idea has much broader implications than you can foresee. ",
+            "created": "Wed, 27 Sep 2023 12:46:42 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "PPS: I couldn't find a page on the web that explains what a refcon is so I asked <a href=\"https://chat.openai.com/share/8a9f7f36-b1b6-482f-94e7-8aa9b30dc134\">ChatGPT to write one</a>. I can vouch for the accuracy, even beauty, of what it wrote. ",
+            "created": "Wed, 27 Sep 2023 12:49:13 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "PPPS: Apparently it is possible to set refcon-like values for WordPress posts. I'll write more about it soon. ",
+            "created": "Wed, 27 Sep 2023 23:12:47 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
