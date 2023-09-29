@@ -1,0 +1,87 @@
+{
+    "created": "2023-09-28T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "28",
+    "path": "2023/09/28",
+    "text": "September 28",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Got my <a href=\"https://www.vaccines.gov/\">Covid booster</a> today at <a href=\"https://villageapothecaryrx.com/\">Village Apothecary</a> in <a href=\"https://www.google.com/maps/@42.0403219,-74.1215528,3a,75y,171.34h,84.43t/data=!3m6!1e1!3m4!1soufTbMYo5P7-gdFirQzhEA!2e0!7i13312!8i6656?entry=ttu\">Woodstock</a>.",
+            "created": "Thu, 28 Sep 2023 18:52:41 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've been thinking about <a href=\"http://scripting.com/2013/08/15/feedReaderDevs\">subscribing to OPML files</a> in \"FeedLand\". ",
+            "created": "Thu, 28 Sep 2023 21:03:42 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I suggested a <a href=\"http://scripting.com/2020/09/28.html#a125002\">few years ago</a> that MSNBC or CNN move one of their evening shows to Michigan, Wisconsin, Georgia, Arizona or Ohio, just to shift the perspective a bit. It would work. Probably one of the most revolutionary things they could do, and it's so easy. That they all come from DC or New York is probably why most of the rest of the country feels they are so clueless and elite. I laugh when Chris Hayes talks about what he thinks, or what he has experienced. I laugh because I think he's an idiot, and has no relevant experience. How about getting a child of Holocaust survivors to do the news, now that we're on the brink of a Nazi revolution in America. Might help sober people up a bit. Have a segment every night that explains how Hitler did what Trump is doing, and what it led to. This cozy little setup needs to be exploded. Start by getting off the East Coast, and out into the country. It would do wonders for perspective. BTW, President Biden picketing with striking Michigan auto-workers is an excellent example of this approach. He could have given a speech in the Rose Garden but that would have had no impact, wouldn't do anything to shift anyone's perspective.",
+            "created": "Thu, 28 Sep 2023 14:47:13 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2021/05/13/knicksFan.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Storage and WordPress, day 2",
+            "created": "Thu, 28 Sep 2023 14:15:59 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Follow-up on a <a href=\"http://scripting.com/2023/09/27/123927.html\">piece</a> I wrote yesterday about adding storage to WordPress. Thanks to all the people who helped answer the question, readers of this blog, friends from the Drummer and FeedLand communities, even devs who work at Automattic. :smile:",
+                    "created": "Thu, 28 Sep 2023 14:16:06 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I said in the piece: \"It has happened before that I’ve asked for a feature in a product that was already there.\" ",
+                    "created": "Thu, 28 Sep 2023 14:21:38 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This is <i>almost</i> one of those times. ;-)",
+                    "created": "Thu, 28 Sep 2023 14:22:29 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "WordPress has the ability to add the equivalent of <a href=\"https://chat.openai.com/share/8a9f7f36-b1b6-482f-94e7-8aa9b30dc134\">Mac refcons</a> to WordPress posts. But, and this is an important caveat, you can only create such an object in PHP running on the server that's hosting the website. Once it's created you can access and update the stored object via their API. ",
+                    "created": "Thu, 28 Sep 2023 14:22:38 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Now I haven't tried it myself, because I don't have my own WordPress installation and I assume I can't install software on wordpress.com. And even if I could, it's not the feature I imagined. Tantalizingly close, but not able to do what I want. ",
+                    "created": "Thu, 28 Sep 2023 14:23:58 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<b>A use-case</b>",
+                    "created": "Thu, 28 Sep 2023 14:33:06 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I want to create an editor for WordPress posts that's perfect for me. That means I edit the post in my outliner. I can attach attributes to headlines, like an image attribute with a small graphic that's displayed in the right margin. Or I can enclose text in double-square brackets and have it be indexed by and linked to my tag manager, like this: [[Drummer]]. Or I can use my <a href=\"http://scripting.com/2021/06/24/150234.html?title=theGlossaryInLittleOutliner\">glossary</a> to fill in links and data that I want standardize on. I've developed a set of tools I've been using in some cases for over 30 years. I want to use them in WordPress. But more importantly, I want WordPress to become a writing platform for everyone, I think it can do a lot of important things that it doesn't do, and it's being held back by this missing feature. That's how I look at it, and I realize that's a different perspective from that of developers who work inside Automattic who have to keep their servers running.",
+                    "created": "Thu, 28 Sep 2023 14:24:49 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And btw, I can do much of that without this feature. But with it, I can edit any post even if I don't have the application I wrote it with handy, or the source code for the post I want to change. This is part of the philosophy of having only one structure for my blog writing, to make it easy to make changes. If I have two structures, one for editing and one for reading all of a sudden making a change takes a dozen or more steps, where if the data lives in the same place as the rendered content, it can be edited with one click. This breakthrough, and it was definitely a breakthrough in the development of blogging, in 1999, was in a post entitled Edit This Page. ",
+                    "created": "Thu, 28 Sep 2023 14:33:50 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Anyway I assume the current design makes sure only people who have access to the server can do this. Or maybe it's just an oversight? I hope it's the latter, and I hope we can have the feature in the API in time to make a difference. ",
+                    "created": "Thu, 28 Sep 2023 14:29:50 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I've opened a <a href=\"https://github.com/scripting/Scripting-News/issues/273\">thread</a> on the Scripting News repo to follow up on this very interesting discussion. ",
+                    "created": "Thu, 28 Sep 2023 14:30:41 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
