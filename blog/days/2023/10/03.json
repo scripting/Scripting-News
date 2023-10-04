@@ -1,0 +1,61 @@
+{
+    "created": "2023-10-03T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "03",
+    "path": "2023/10/03",
+    "text": "October 03",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/davewiner/status/1709199915237212624\">Thanks</a> to Matt Mullenweg and the good people of Automattic for saving the archive of the blogs we started at Harvard in 2003. ",
+            "created": "Tue, 03 Oct 2023 13:48:05 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "In the last few months the net effect of ChatGPT has been an order-of-magnitude improvement to searching the web. This time the innovating could not have been done by a duo like Jobs and Woz working in a garage, or a lone programmer like <a href=\"https://en.wikipedia.org/wiki/Tim_Berners-Lee\">TBL</a>. It required a multi-billion dollar investment, and what amounts to decades of R&D, before any benefit was available. This is an event we will have a much greater appreciation for on the other side, from this side all we can see is how much better it is than what we had before. I've been to this place before. It's the best time to be in tech.",
+            "created": "Tue, 03 Oct 2023 14:44:41 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Just read the <a href=\"https://en.wikipedia.org/wiki/Weblogs.com\">Wikipedia page</a> on weblogs.com. I didn't \"decide\" to shut down the site in 2004. The management of UserLand at the time transfered the domain to one of my two servers at a local Boston-area hosting service, without telling me they were doing it. It knocked the server off the air. That was what caused the outage. It took a few days to get it back online. The secret -- we converted the site to PHP and it ran much better. No one <i>decided</i> anything. ",
+            "created": "Tue, 03 Oct 2023 21:21:10 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Sad to say <a href=\"https://www.yelp.com/biz/dixon-roadside-woodstock\">Dixon Roadside</a> in Woodstock is closing. It's only been around for two or three years, I guess launching during the pandemic was bad for business? Interesting place, new construction but designed to feel like an old time gas station and garage. The food was pretty awful, and the expectations were high because the restaurant is an offshoot of the <a href=\"https://www.yelp.com/biz/phoenicia-diner-phoenicia\">Phoenicia Diner</a>, which is excellent, and always super crowded on weekends. Why was the quality was so different? Something of a puzzle, but you couldn't just walk up to the counter and ask Why does the food here suck given that we were expecting greatness? The great thing about living in this area of clean air, and quiet natural beauty is that the food is so good. Has a lot to do with the artist community, the abundance of music, and the <a href=\"https://en.wikipedia.org/wiki/The_Culinary_Institute_of_America\">Culinary Institute of America</a> being just across the river. ",
+            "created": "Tue, 03 Oct 2023 15:17:51 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/10/03/dixonRoadside.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "\"Open web\" is redundant",
+            "created": "Tue, 03 Oct 2023 13:58:06 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I've realized that \"open web\" is redundant. ",
+                    "created": "Tue, 03 Oct 2023 13:58:14 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Same with \"indie web\".",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The web is open. Its users are independent.",
+                    "created": "Tue, 03 Oct 2023 13:58:19 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And the web is too precious to be taken over by self-preserving tech companies.",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
