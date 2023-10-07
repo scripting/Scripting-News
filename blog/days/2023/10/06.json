@@ -1,0 +1,75 @@
+{
+    "created": "2023-10-06T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "06",
+    "path": "2023/10/06",
+    "text": "October 06",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"http://blogbrowser.org/docs.opml\">BlogBrowser</a> started out as a <a href=\"https://blogbrowser.org/\">test app</a> for the WordPress.com API, and over time became a nice way to create and edit posts. Of course there must be many tools out there that do what this does, not claiming any kind of breakthrough, just something that might be useful to some people. I've been using it myself to write WordPress blog posts. If you have comments or questions, post them <a href=\"https://github.com/scripting/Scripting-News/issues/274\">here</a>. ",
+            "created": "Fri, 06 Oct 2023 18:48:55 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/04/24/cheshireCat.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "A new FeedLand <a href=\"https://github.com/scripting/feedlandSupport/issues/223\">feature</a>, the <i>Cats</i> menu. It's like half the product was missing. For example, here's a list of all <a href=\"https://feedland.org/?username=davewiner&catname=podcasts\">my podcast feeds</a>. There was no way to do this before.",
+            "created": "Fri, 06 Oct 2023 18:46:01 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Journalism could do some good by focusing on the <a href=\"https://wapo.st/45qulMJ\">proposal</a> the House Dems are making to possibly persuadable Repubs. Treat it seriously. Ask Repubs what they think. I think there's still some amount of honor, if not in the representatives, in the people. With press air cover, people could call their reps, write op-eds and blog posts, picket, collect signatures. Protest. It's a good thing to discuss. When and if the political depression in America lifts, this is what what it will look like. ",
+            "created": "Sat, 07 Oct 2023 00:24:24 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Twitter and metadata",
+            "created": "Sat, 07 Oct 2023 00:39:14 GMT",
+            "type": "outline",
+            "description": "Is Twitter ignoring some or all of the metadata I attached to this post?",
+            "metaImage": "https://imgs.scripting.com/2023/10/06/keystoneKops.png",
+            "subs": [
+                {
+                    "text": "Briefly, there's been a <a href=\"https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/markup\">standard</a> for including machine-readable metadata in web pages so that when Twitter or Facebook posts a link to the page, they can use an image, title, description and link to the source website in creating a \"card\" for the post. It's very easy to support in a CMS, so people tend to do it. My site has the feature.",
+                    "created": "Sat, 07 Oct 2023 00:39:26 GMT",
+                    "image": "https://imgs.scripting.com/2023/07/30/birdAndHBO.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "There's a confusing story going around that Twitter was <a href=\"https://mashable.com/article/x-accessibility-concerns-over-removed-headlines\">limiting</a> this feature, or even ignoring it. It wasn't clear from the story exactly what they were doing, so <a href=\"https://twitter.com/davewiner/status/1710458267468546276\">let's find out</a>. ",
+                    "created": "Sat, 07 Oct 2023 00:40:33 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I've added an image and description to this post. Did they come through when I <a href=\"https://twitter.com/davewiner/status/1710458267468546276\">pointed to it</a> on Twitter? ",
+                    "created": "Sat, 07 Oct 2023 00:41:05 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Where are you reading the post? A mobile device, desktop, some other place? ",
+                    "created": "Sat, 07 Oct 2023 00:42:19 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Ignore this if you got it via email, this feature doesn't apply there.",
+                    "created": "Sat, 07 Oct 2023 00:42:32 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://imgs.scripting.com/2023/10/06/whatThePostLookedLikeOnTwitter.png\">Screen shot</a>: When I read the post in Chrome on my desktop Mac, the title and description were not shown, the image was shown, and the name of the site was shown. ",
+                    "created": "Sat, 07 Oct 2023 00:56:09 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You can post a comment <a href=\"https://github.com/scripting/Scripting-News/issues/275\">here</a>. ",
+                    "created": "Sat, 07 Oct 2023 00:42:03 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
