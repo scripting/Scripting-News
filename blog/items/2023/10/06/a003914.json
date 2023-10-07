@@ -1,0 +1,46 @@
+{
+    "text": "Twitter and metadata",
+    "created": "Sat, 07 Oct 2023 00:39:14 GMT",
+    "type": "outline",
+    "description": "Is Twitter ignoring some or all of the metadata I attached to this post?",
+    "metaImage": "https://imgs.scripting.com/2023/10/06/keystoneKops.png",
+    "subs": [
+        {
+            "text": "Briefly, there's been a <a href=\"https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/markup\">standard</a> for including machine-readable metadata in web pages so that when Twitter or Facebook posts a link to the page, they can use an image, title, description and link to the source website in creating a \"card\" for the post. It's very easy to support in a CMS, so people tend to do it. My site has the feature.",
+            "created": "Sat, 07 Oct 2023 00:39:26 GMT",
+            "image": "https://imgs.scripting.com/2023/07/30/birdAndHBO.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "There's a confusing story going around that Twitter was <a href=\"https://mashable.com/article/x-accessibility-concerns-over-removed-headlines\">limiting</a> this feature, or even ignoring it. It wasn't clear from the story exactly what they were doing, so <a href=\"https://twitter.com/davewiner/status/1710458267468546276\">let's find out</a>. ",
+            "created": "Sat, 07 Oct 2023 00:40:33 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've added an image and description to this post. Did they come through when I <a href=\"https://twitter.com/davewiner/status/1710458267468546276\">pointed to it</a> on Twitter? ",
+            "created": "Sat, 07 Oct 2023 00:41:05 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Where are you reading the post? A mobile device, desktop, some other place? ",
+            "created": "Sat, 07 Oct 2023 00:42:19 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Ignore this if you got it via email, this feature doesn't apply there.",
+            "created": "Sat, 07 Oct 2023 00:42:32 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://imgs.scripting.com/2023/10/06/whatThePostLookedLikeOnTwitter.png\">Screen shot</a>: When I read the post in Chrome on my desktop Mac, the title and description were not shown, the image was shown, and the name of the site was shown. ",
+            "created": "Sat, 07 Oct 2023 00:56:09 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "You can post a comment <a href=\"https://github.com/scripting/Scripting-News/issues/275\">here</a>. ",
+            "created": "Sat, 07 Oct 2023 00:42:03 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
