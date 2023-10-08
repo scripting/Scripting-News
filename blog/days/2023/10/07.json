@@ -1,0 +1,40 @@
+{
+    "created": "2023-10-07T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "07",
+    "path": "2023/10/07",
+    "text": "October 07",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "29 years ago today I wrote my first blog post on <a href=\"http://scripting.com/davenet/\">scripting.com</a>. Without doubt the longest-running blog on the web. ",
+            "created": "Sat, 07 Oct 2023 19:57:12 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Embarassingly, earlier today I incorrectly wrote that the anniversary would be on Tuesday. Serves to illustrate the point that memory gets less dependable as you get older. :boom: ",
+            "created": "Sat, 07 Oct 2023 19:57:48 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "One thing I remember correctly is this -- if, someday, I wasn't able to pay my AWS and Digital Ocean bills, this site and <a href=\"https://github.com/scripting?tab=repositories\">everything else</a> I've got running on the web would probably disappear within 30 days. That's never been an acceptable situation to me. I've been conscious of the fragility of the web since almost the beginning. I hope to have this solved by this time next year on the 30th anniversary. :smile: ",
+            "created": "Sat, 07 Oct 2023 14:54:14 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "At the same time, I've been programming for <i>fifty years</i> as of this year. I started programming at 18 as a student at Tulane University. A math major who decided to give computers a try because \"I heard you can make money doing that.\" Fifty years might be some kind of record too. All through my career, going back to my mid-30s, people have written me off as too old to develop software. I always resisted this, and resented people playing that trick. It wasn't true in my 30s or 40s or 50s, or even 60s, but I can see a day when it will be true. Programming depends on human memory. Over time the machine you're building on becomes more complex, the interconnections between the components become harder to grok, and you often don't remember why you did this or that. You resist making changes that could bring the whole thing down. So evolution of software becomes slower. There is a reason you can't keep pitching in baseball, or being a basketball star after 40. In software the time barrier is higher, but it is there, I can feel it. ",
+            "created": "Sat, 07 Oct 2023 15:05:49 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I was talking with some friends the other day about what a project to restore the early blogosphere might be like. Off the top of my head I thought of several sites I'd want to be sure were restored in their original condition and location. First, Jorn Barger's Robot Wisdom, Evan Williams' Evhead and Justin Hall's Links.net. I'd also go for Blogtree, which was an innovative and fascinating effort to create basically a family tree of early blogs. I'd approach it like an archeologist. Some of the originals aren't with us any longer, some that never got the notoriety that they deserved imho, like <a href=\"https://en.wikipedia.org/wiki/Jerry_Pournelle\">Jerry Pournelle</a>, who greatly influenced me as an observer of tech. I'd love to see the earliest posts on Mike Arrington's TechCrunch, another important blog that had enormous influence. Doc Searls, the Cluetrain, Kottke, Meghead, I know there are whole universes of blogging that I don't know anything about, it grew so large so quickly. And it was very gratifying to see the Harvard blogs mostly restored. There was a lot of stuff that didn't make the first cut. But it set me thinking about what we could do if we really worked at it and what that might mean for creating more persistent writing on the web for the present and future.  ",
+            "created": "Sat, 07 Oct 2023 20:03:04 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
