@@ -1,0 +1,49 @@
+{
+    "text": "ActivityPub?",
+    "created": "Tue, 10 Oct 2023 11:40:18 GMT",
+    "type": "outline",
+    "description": "ActivityPub is both insufficient and a mess.",
+    "subs": [
+        {
+            "text": "There's been some recent discussion about whether ActivityPub is the standard everyone should be building on, and that new ways of social networking, or even previously existing ones, should stop and implement ActivityPub.",
+            "created": "Tue, 10 Oct 2023 11:41:06 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "My answer is this -- if ActivityPub were sufficient, I'd say yes -- let's coalesce around one standard, and stop trying to make something slightly better. I have a motto that goes with this -- One way of doing something is better than two, no matter how much better the second way is. For a couple of reasons: 1. You still have to support both, so you just made everyone's life more complicated, assuming the second way gains traction. 2. The goal is interop, not creating standards. Both of these are part of my <a href=\"https://this.how/standards/\">Rules for Standards-makers</a>. ",
+            "created": "Tue, 10 Oct 2023 11:41:30 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "But honestly, ActivityPub is both insufficient and a mess. And I'm not even convinced that what it's doing is all that worthwhile. I don't see conversation on social nets as having much value. Replies to my posts tend to be spam, people looking for exposure, hitching a ride on a post that's getting some flow, or to be annoying. It's very rare that new ideas or information come to light this way. ",
+            "created": "Tue, 10 Oct 2023 11:43:47 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "And all the arguing in the world won't change the way things are going. ActivityPub isn't the standard. People want to be Mastodon-compatible, not ActivityPub-compatible. Much of what Mastodon is doing isn't part of ActivityPub, it's their own API. ",
+            "created": "Tue, 10 Oct 2023 11:44:52 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've seen it said that Atom was a good thing, that somehow \"RSS\" wasn't enough. And all the \"IndieWeb\" protocols that just reinvent the <a href=\"http://xmlrpc.com/metaweblog\">Metaweblog API</a>. Depends what your goals were. If you were intending to keep RSS and the blogging APIs from growing, then they were great successes. People spent time judging not aiming for more interop, whether items had their proper names, which is a common <a href=\"https://en.wikipedia.org/wiki/Devolution_(biology)\">devolution</a> in this kind of work, they even have a name for it, <a href=\"https://en.wikipedia.org/wiki/Law_of_triviality\">bike-shedding</a>. ",
+            "created": "Tue, 10 Oct 2023 11:46:06 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's better to reduce the number of competing formats than to increase the number. ",
+            "created": "Tue, 10 Oct 2023 11:48:54 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Again all that matters is interop, and splitting an open standard into multiple competing standards works <i>against</i> interop.",
+            "created": "Tue, 10 Oct 2023 11:48:05 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Back to ActivityPub. I wish it were simpler, that you could get something interesting working quickly that delivers interop. But it isn't that way, and no one seems interested in making it so. So imho the world will not coalesce behind ActivityPub, I wish it could, but it can't and won't happen. ",
+            "created": "Tue, 10 Oct 2023 11:49:21 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
