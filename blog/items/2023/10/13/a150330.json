@@ -1,0 +1,6 @@
+{
+    "text": "A great example of factoring is the <a href=\"https://www.w3schools.com/jsref/jsref_foreach.asp\">forEach</a> function in JavaScript. There was a pattern, a for loop that iterated over an array with an index. They took out the index and did the iterating for you. It's a small simplification, and I smile every time I use it because the got rid of a little drudge work for me when entering it and reading the code. In no way a big deal, but nice that they found a way to make things easier and faster. I <a href=\"https://chat.openai.com/share/b0801e46-dc1d-436d-980e-cd23bd054a95\">asked ChatGPT</a> why forEach is so great, but they use other \"advances\" in JavaScript that I consider unnecessary, not useful, cryptic, and I don't use them. ",
+    "created": "Fri, 13 Oct 2023 15:03:30 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
