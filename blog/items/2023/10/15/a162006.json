@@ -1,0 +1,74 @@
+{
+    "text": "Drummer and OPML files",
+    "created": "Sun, 15 Oct 2023 16:20:06 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "\"Drummer\"'s native file format is \"OPML\" and OPML is the format for reading lists. This has led to some very nice synergies. ",
+            "created": "Sun, 15 Oct 2023 16:20:26 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Example: A script you can add to your <a href=\"http://docserver.scripting.com/drummer/scripting.opml#1627490175000\">Scripts menu</a> that asks for the URL of a feed, and inserts a node into your outline. ",
+            "created": "Sun, 15 Oct 2023 16:20:49 GMT",
+            "flCodeSubs": "true",
+            "subs": [
+                {
+                    "text": "var url = dialog.ask (\"URL of feed\")",
+                    "created": "Sun, 15 Oct 2023 16:13:33 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "var theFeed = rss.readFeed (url)",
+                    "created": "Sun, 15 Oct 2023 16:14:06 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "op.insert (theFeed.title)",
+                    "created": "Sun, 15 Oct 2023 16:15:14 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "op.attributes.addGroup ({type: 'rss', xmlUrl: url})",
+                    "created": "Sun, 15 Oct 2023 16:16:06 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Here are the DocServer pages",
+            "created": "Sun, 15 Oct 2023 16:22:09 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "<a href=\"http://docserver.scripting.com/?verb=dialog.ask\">dialog.ask</a>",
+                    "created": "Sun, 15 Oct 2023 16:22:15 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"http://docserver.scripting.com/?verb=rss.readFeed\">rss.readFeed</a>",
+                    "created": "Sun, 15 Oct 2023 16:22:17 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"http://docserver.scripting.com/?verb=op.insert\">op.insert</a>",
+                    "created": "Sun, 15 Oct 2023 16:22:24 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"http://docserver.scripting.com/?verb=op.attributes.addGroup\">op.attributes.addGroup</a>",
+                    "created": "Sun, 15 Oct 2023 16:22:27 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Took five minutes to write and worked the first time. :smile:",
+            "created": "Sun, 15 Oct 2023 16:21:59 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
