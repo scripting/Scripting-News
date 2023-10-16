@@ -1,0 +1,34 @@
+{
+    "text": "Factoring, the antidote to chaos",
+    "created": "Mon, 16 Oct 2023 01:26:13 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "In the four line example <a href=\"http://scripting.com/2023/10/15/162006.html\">above</a> you're seeing lots of <a href=\"http://scripting.com/2023/10/13.html#a142604\">factoring</a> done over three decades. ",
+            "created": "Mon, 16 Oct 2023 00:43:40 GMT",
+            "image": "https://imgs.scripting.com/2023/02/28/presidentCarter.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's JavaScript with one change, the statements are synchronous. The Nth statement doesn't start until the one before it completes. This version of JavaScript is optimized for the 99% of times you want synchronous code, makes that the default, as all reasonable languages do. Otherwise it's plain old JavaScript, which is a fine Algol-like language. ",
+            "created": "Mon, 16 Oct 2023 01:27:49 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The verbs, dialog.ask, rss.readFeed, op.insert, op.attributes.addGroup, are designed to reduce complicated things to their most simple core functionality.",
+            "created": "Mon, 16 Oct 2023 00:57:23 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"http://docserver.scripting.com/?verb=rss.readFeed\">rss.readFeed</a>, for example, builds on a couple of <a href=\"http://scripting.com/2022/09/18.html\">decades</a> of understanding feed reading, parses all common formats that fit under the RSS umbrella and makes it all flat. Factoring is the antidote to chaos. ",
+            "created": "Mon, 16 Oct 2023 01:01:37 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "And \"op\" stands for outline processor. Those verbs go back to the late 80s when they were the first verbs in my first language outliner I called Betty. Why change the name of verbs if they work, <a href=\"https://this.how/standards/#1497798940000\">recalling</a> that one way to do something is better than two, no matter how much better the second way is. ",
+            "created": "Mon, 16 Oct 2023 00:57:57 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
