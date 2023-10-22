@@ -1,0 +1,147 @@
+{
+    "created": "2023-10-21T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "21",
+    "path": "2023/10/21",
+    "text": "October 21",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Every writing app should have a <a href=\"http://docserver.scripting.com/drummer/blogging.opml#1629212543000\">glossary</a>. ",
+            "created": "Sat, 21 Oct 2023 14:38:54 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://mastodon.social/@dave@social.masto.land/111273568903593372\">Something interesting</a>. I can <a href=\"https://social.masto.land/@dave/111273568591273761\">write a post</a> on a Mastodon instance that supports Markdown and I can <a href=\"https://mastodon.social/@dave@social.masto.land/111273568903593372\">view it</a> in a Mastodon instance that doesn't support Markdown, and it handles it properly. I wonder where the rendering is being done. An incentive to use a server that supports Markdown. The <a href=\"https://social.masto.land/home\">server</a>, which I am operating, also has a character limit of 10000, which is effectively no limit. I think perhaps the dust is starting to settle on Masto, the fog is lifting. Maybe a subset of servers, called Maxtodon perhaps, would be the service worth paying for. ",
+            "created": "Sat, 21 Oct 2023 14:56:57 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/04/11/fruitCocktail.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "What is a reading list?",
+            "created": "Sat, 21 Oct 2023 14:31:59 GMT",
+            "type": "outline",
+            "description": "A reading list is a list of feeds you can subscribe to.",
+            "subs": [
+                {
+                    "text": "A reading list is a list of feeds you can subscribe to.",
+                    "created": "Sat, 21 Oct 2023 14:32:03 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The author of the list can add or remove feeds. When they do, people who subscribe to the list are subscribed to the new feeds and unsubbed from the ones that leave.",
+                    "created": "Sat, 21 Oct 2023 14:32:22 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It means that there can be lots of specialized software that reads feeds, and the user gets to broadcast their subscriptions to all of them.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It also means that influencers like <a href=\"https://bsky.app/profile/andrewhickey.bsky.social\">Andrew Hickey</a> can keep his community up to date on the <a href=\"https://bsky.app/profile/andrewhickey.bsky.social/post/3kcbapf5mde2w\">podcasts</a> he loves. Someday he will have a reading list, and I will subscribe to it.",
+                    "created": "Sat, 21 Oct 2023 14:34:53 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Technically a reading list is exactly the same format as a <a href=\"http://opml.org/spec2.opml#subscriptionLists\">subscription list</a>. The only difference is you import a subscription list, and you subscribe to a reading list. ",
+                    "created": "Sat, 21 Oct 2023 14:43:07 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Playing with the new DALL-E",
+            "created": "Sat, 21 Oct 2023 12:58:44 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I asked ChatGPT to work with DALL-E to create an ad for ThinkTank for the Mac in 1984, suitable to run in MacWorld magazine. What it came up with was dazzling. The software doesn't look anything like ThinkTank, which is par for the course. Ad agencies back then did the same thing. They showed readers what they thought we had described, and didn't bother looking at the actual screens. They treated us like hopeless nerds when we asked them to please show the actual products, that users would be able to see through this ruse. ",
+                    "created": "Sat, 21 Oct 2023 12:58:54 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "DALL-E's rendering of an ad spec'd by ChatGPT.",
+                    "created": "Sat, 21 Oct 2023 12:59:35 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/10/21/thinkTankAdByAI.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "BTW, here's how ChatGPT explained the ad: \"Illustration of an ad for the 'thinktank' software from 1984. A young professional woman sits at her desk, deeply engrossed in using her Macintosh computer. The 'thinktank' software is visible on the screen, prominently displaying a detailed presentation outline. The text reads: 'The Future of Presentations is Here: thinktank for Mac!' The overall aesthetic is vibrant and distinctly 80s, with bold typefaces, neon colors, and a touch of retro flair.\"",
+                    "created": "Sat, 21 Oct 2023 13:02:26 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The new DALL-E is much much better than the previous one. What's great is that it's integrated with ChatGPT so you can have a conversation with it. Also there do not seem to be the previous limits of a few pictures per month. ",
+                    "created": "Sat, 21 Oct 2023 13:14:57 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I asked it to create a header image for my blog. Here was the spec: \"I need a new header image for my blog, Scripting News. I want it to be imagery from The Matrix, with Neo, Morpheus, Agent Smith, Trinity, The Oracle, and Spoon Boy, my favorite characters in The Matrix, in an image that's roughly 1600 by 250 pixels (or proportional). Use the dark styling of the Matrix.\" ",
+                    "created": "Sat, 21 Oct 2023 13:17:38 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It couldn't use the actual characters because of copyright limits, so it tried to produce something in the same style as The Matrix, but after four attempts couldn't get the proper proportions. The images were lovely, but not suitable for a header image because of size. Here's one of them to give you an idea. ",
+                    "created": "Sat, 21 Oct 2023 13:18:25 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Photo of a futuristic dark city skyline with green digital rain falling from the sky, reminiscent of the Matrix. Neon signs with code symbols glow in the distance, illuminating alleys and streets.",
+                    "created": "Sat, 21 Oct 2023 13:19:28 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/10/21/matrixStyleImageByDallE.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You can debate whether ChatGPT is intelligent or creative, but to me, a human who is (supposedly) both intelligent and creative, I can't tell the difference. And it's infinitely patient and always tries to do what I ask it to do. And unlike humans it doesn't judge me based on gender, race, age, religion or any number of other criteria that humans use to justify hating other people. ",
+                    "created": "Sat, 21 Oct 2023 13:31:01 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Next request: \"I’d like a picture of Abraham Lincoln playing with the Grateful Dead at Woodstock. He’s playing lead guitar and singing Casey Jones.\"",
+                    "created": "Sat, 21 Oct 2023 20:36:16 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It said no. But it could give me a generic tall politician with a generic band at a generic concert. I said OK.",
+                    "created": "Sat, 21 Oct 2023 20:36:31 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Generic tall politician from 1860s playing Dead-like music.",
+                    "created": "Sat, 21 Oct 2023 20:36:36 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/10/21/notAbrahamLincoln.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I asked if it could replace Lincoln with a rhinoceros.",
+                    "created": "Sat, 21 Oct 2023 20:38:22 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Rhino playing the part of Abraham Lincoln at Woodstock.",
+                    "created": "Sat, 21 Oct 2023 20:38:24 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/10/21/rhinoRocker.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Vincent van Gogh",
+            "created": "Sat, 21 Oct 2023 20:45:39 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://www.artworkonly.com/vincent-van-gogh/ward-in-the-hospital-in-arles-famous-art-handmade-oil-painting-on-canvas\">Ward in the Hospital at Arles</a>, 1889. ",
+                    "created": "Sat, 21 Oct 2023 20:45:53 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/10/21/wardInTheHospitalAtArles.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
