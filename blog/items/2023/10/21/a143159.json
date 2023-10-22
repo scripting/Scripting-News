@@ -1,0 +1,33 @@
+{
+    "text": "What is a reading list?",
+    "created": "Sat, 21 Oct 2023 14:31:59 GMT",
+    "type": "outline",
+    "description": "A reading list is a list of feeds you can subscribe to.",
+    "subs": [
+        {
+            "text": "A reading list is a list of feeds you can subscribe to.",
+            "created": "Sat, 21 Oct 2023 14:32:03 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The author of the list can add or remove feeds. When they do, people who subscribe to the list are subscribed to the new feeds and unsubbed from the ones that leave.",
+            "created": "Sat, 21 Oct 2023 14:32:22 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "It means that there can be lots of specialized software that reads feeds, and the user gets to broadcast their subscriptions to all of them.",
+            "flInCalendar": true
+        },
+        {
+            "text": "It also means that influencers like <a href=\"https://bsky.app/profile/andrewhickey.bsky.social\">Andrew Hickey</a> can keep his community up to date on the <a href=\"https://bsky.app/profile/andrewhickey.bsky.social/post/3kcbapf5mde2w\">podcasts</a> he loves. Someday he will have a reading list, and I will subscribe to it.",
+            "created": "Sat, 21 Oct 2023 14:34:53 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Technically a reading list is exactly the same format as a <a href=\"http://opml.org/spec2.opml#subscriptionLists\">subscription list</a>. The only difference is you import a subscription list, and you subscribe to a reading list. ",
+            "created": "Sat, 21 Oct 2023 14:43:07 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
