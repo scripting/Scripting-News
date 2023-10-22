@@ -1,0 +1,77 @@
+{
+    "text": "Playing with the new DALL-E",
+    "created": "Sat, 21 Oct 2023 12:58:44 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I asked ChatGPT to work with DALL-E to create an ad for ThinkTank for the Mac in 1984, suitable to run in MacWorld magazine. What it came up with was dazzling. The software doesn't look anything like ThinkTank, which is par for the course. Ad agencies back then did the same thing. They showed readers what they thought we had described, and didn't bother looking at the actual screens. They treated us like hopeless nerds when we asked them to please show the actual products, that users would be able to see through this ruse. ",
+            "created": "Sat, 21 Oct 2023 12:58:54 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "DALL-E's rendering of an ad spec'd by ChatGPT.",
+            "created": "Sat, 21 Oct 2023 12:59:35 GMT",
+            "inlineImage": "https://imgs.scripting.com/2023/10/21/thinkTankAdByAI.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, here's how ChatGPT explained the ad: \"Illustration of an ad for the 'thinktank' software from 1984. A young professional woman sits at her desk, deeply engrossed in using her Macintosh computer. The 'thinktank' software is visible on the screen, prominently displaying a detailed presentation outline. The text reads: 'The Future of Presentations is Here: thinktank for Mac!' The overall aesthetic is vibrant and distinctly 80s, with bold typefaces, neon colors, and a touch of retro flair.\"",
+            "created": "Sat, 21 Oct 2023 13:02:26 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The new DALL-E is much much better than the previous one. What's great is that it's integrated with ChatGPT so you can have a conversation with it. Also there do not seem to be the previous limits of a few pictures per month. ",
+            "created": "Sat, 21 Oct 2023 13:14:57 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I asked it to create a header image for my blog. Here was the spec: \"I need a new header image for my blog, Scripting News. I want it to be imagery from The Matrix, with Neo, Morpheus, Agent Smith, Trinity, The Oracle, and Spoon Boy, my favorite characters in The Matrix, in an image that's roughly 1600 by 250 pixels (or proportional). Use the dark styling of the Matrix.\" ",
+            "created": "Sat, 21 Oct 2023 13:17:38 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "It couldn't use the actual characters because of copyright limits, so it tried to produce something in the same style as The Matrix, but after four attempts couldn't get the proper proportions. The images were lovely, but not suitable for a header image because of size. Here's one of them to give you an idea. ",
+            "created": "Sat, 21 Oct 2023 13:18:25 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Photo of a futuristic dark city skyline with green digital rain falling from the sky, reminiscent of the Matrix. Neon signs with code symbols glow in the distance, illuminating alleys and streets.",
+            "created": "Sat, 21 Oct 2023 13:19:28 GMT",
+            "inlineImage": "https://imgs.scripting.com/2023/10/21/matrixStyleImageByDallE.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "You can debate whether ChatGPT is intelligent or creative, but to me, a human who is (supposedly) both intelligent and creative, I can't tell the difference. And it's infinitely patient and always tries to do what I ask it to do. And unlike humans it doesn't judge me based on gender, race, age, religion or any number of other criteria that humans use to justify hating other people. ",
+            "created": "Sat, 21 Oct 2023 13:31:01 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Next request: \"I’d like a picture of Abraham Lincoln playing with the Grateful Dead at Woodstock. He’s playing lead guitar and singing Casey Jones.\"",
+            "created": "Sat, 21 Oct 2023 20:36:16 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "It said no. But it could give me a generic tall politician with a generic band at a generic concert. I said OK.",
+            "created": "Sat, 21 Oct 2023 20:36:31 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Generic tall politician from 1860s playing Dead-like music.",
+            "created": "Sat, 21 Oct 2023 20:36:36 GMT",
+            "inlineImage": "https://imgs.scripting.com/2023/10/21/notAbrahamLincoln.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I asked if it could replace Lincoln with a rhinoceros.",
+            "created": "Sat, 21 Oct 2023 20:38:22 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Rhino playing the part of Abraham Lincoln at Woodstock.",
+            "created": "Sat, 21 Oct 2023 20:38:24 GMT",
+            "inlineImage": "https://imgs.scripting.com/2023/10/21/rhinoRocker.png",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
