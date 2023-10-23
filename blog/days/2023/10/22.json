@@ -1,0 +1,176 @@
+{
+    "created": "2023-10-22T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "22",
+    "path": "2023/10/22",
+    "text": "October 22",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I've always meant to ask developers of <a href=\"https://chat.openai.com/share/5bcfa50f-a7dc-489a-b684-70f79906710b\">podcast clients</a> to accept podcasts from feeds that contain normal blog posts. When I do a podcast on <a href=\"http://scripting.com/\">scripting.com</a> I just create another item in <a href=\"http://scripting.com/rss.xml\">my feed</a>, alongside all the others. I don't see any reason people should have to have a special feed for podcasts, when it's so easy for clients to ignore items that don't have enclosures. So I've been trying to hold the door open for that (also I'm lazy). There's a 1-minute <a href=\"http://scripting.com/2023/10/22/quickDemoPodcast.m4a\">podcast</a> attached to this item as a demo.",
+            "created": "Sun, 22 Oct 2023 14:57:56 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2023/10/22/quickDemoPodcast.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "600153",
+            "flInCalendar": true
+        },
+        {
+            "text": "scripting.com will always be HTTP",
+            "created": "Mon, 23 Oct 2023 01:25:15 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Because \"Drummer\" and \"FeedLand\" now do their own identity via email, I had to switch them to HTTPS last year. And I've pretty much been converting anything that builds on those apps to HTTPS as well. As a side-effect I had to convert the image URLs in Scripting News, which is served by HTTP, to HTTPS so they wouldn't show up as broken images in FeedLand. They almost certainly have been showing up broken in other feed reading software, for years. ",
+                    "created": "Sun, 22 Oct 2023 15:15:35 GMT",
+                    "type": "outline",
+                    "image": "https://imgs.scripting.com/2021/09/17/simpsonsBeeGuy.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Anyway, even though it would be relatively easy to convert scripting.com to HTTPS, it would break every single image that appeared before 2023. ",
+                    "created": "Mon, 23 Oct 2023 01:29:05 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I will also never do it for the simple reason that this site goes back to 1994, and if I switched to HTTPS now, well what about all the other sites of its era that are breaking due to this really ill-conceived corner-turn. And who there are so many subdomains of scripting.com started over 30 years and left standing, and all the HTTP urls hanging off them, I'll retire long before I consider that much crazy work. ",
+                    "created": "Mon, 23 Oct 2023 01:29:43 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You don't accumulate 30 years of archives thinking someday you're going to convert every page and thus break all the images. I can't imagine a change that could more totally break the web. And yet somehow we've let that happen. ",
+                    "created": "Mon, 23 Oct 2023 01:30:44 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Scripting News is one of the foundation sites of the open web, it goes back further than probably anything that's still updating. Scripting News is angry that Google is deliberately breaking the open web, even though Dave the system developer would rather just go ahead and switch. Google is playing mass psychology on us, getting us all to believe that giving them full control to evolve the web is somehow a reasonable thing. It won't happen here. ",
+                    "created": "Mon, 23 Oct 2023 01:31:02 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Scripting News may be the last continuously updating site that runs in black and white, but it will always do so. ",
+                    "created": "Mon, 23 Oct 2023 01:32:32 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Thinking out loud is blogging",
+            "created": "Mon, 23 Oct 2023 01:19:43 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "It's weird that people have the idea that <a href=\"https://www.google.com/search?q=site%3Ascripting.com+thinking+out+loud\">thinking out loud</a> is a new idea for blogging. That's because when journalists first heard about blogging they decided that it's what they do. People who write publicly for money, mostly without any principle other than getting paid for writing, or perhaps \"building a brand.\" That imho was not what was going on. It was people asking questions, often in the form of statements they weren't sure of. Put it out there, see what comes back. At its best it was what I called <a href=\"https://www.google.com/search?q=site%3Ascripting.com+sources+go+direct\">sources go direct</a> -- where people with expertise shared what they knew so we could learn from them. So the idea of a public \"garden\" is just a response to journalists getting the story totally wrong about blogging in the early days. Amazing how these things cycle round and round often because of basic misunderstandings like this. ",
+                    "created": "Sun, 22 Oct 2023 17:05:14 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I love to cite this <a href=\"http://images.scripting.com/archiveScriptingCom/2005/02/10/cartoon.gif\">cartoon</a> from the 2004 Democratic Convention which first opened its doors to bloggers. I was one of them. They saw us as gatecrashers. We were just people who have the need to blog. A small number of people were born to write about what they see, and the web opened that up to all of us, for the first time it took almost no money to get your ideas out there, and clearly they were scared of us. What a crime that actual people would be reporting on the events of our democracy. They're so stuck in their calcified thought patterns that it never occurred to them that this is great, people who actually give a shit, wanting to tell other people what they saw and heard. Unfortunately they got their way, that's how powerful they are and how easily manipulated we all are. ",
+                    "created": "Sun, 22 Oct 2023 17:14:11 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "A citizen of the Asteroid Belt",
+            "created": "Sun, 22 Oct 2023 16:51:44 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Next query: Draw a profile of a citizen of the Asteroid Belt in the year 2532 against a black background without stars. Make her a human woman, about 58 years old, no facial surgery, no makeup, a warrior and survivor of much hardship. Born in zero gravity so her body is skinny and long, and bones very lightweight. ",
+                    "created": "Sun, 22 Oct 2023 16:51:51 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "1. Belter citizen #1.",
+                    "created": "Sun, 22 Oct 2023 16:52:59 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/10/22/belterCitizen1.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Drawing of a woman from the Asteroid Belt, aged 58, positioned in profile against a solid black background. Her appearance is rugged and battle-worn, a testament to her warrior spirit. Her face is natural, untouched by surgeries or cosmetics. Her physique is distinctive due to being birthed in zero gravity, making her appear tall and thin with fragile bones.",
+                    "created": "Sun, 22 Oct 2023 16:57:02 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "2. Belter citizen #2.",
+                    "created": "Sun, 22 Oct 2023 16:54:27 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/10/22/belterCitizen2.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Render of a 58-year-old Asteroid Belt female warrior in profile view. The background is deep black. Her visage reflects hardships endured, and her natural face is devoid of any surgical enhancements or makeup. Due to her zero-gravity birth, she has an extended, skinny body with lightweight bones.",
+                    "created": "Sun, 22 Oct 2023 16:57:14 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "NY Harbor as a space port",
+            "created": "Sun, 22 Oct 2023 14:19:59 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "My next DALL-E adventure: \"100 years from now in 2123, New York Harbor will be a space port, with spaceships arriving from all over the solar system and around the Milky Way galaxy. People will visit to see New York's museums, see sports games, attend NYU, Columbia and the Bronx High School of Science, all galactically renowned educational institutions. Most alien beings will not be humanoid. \"",
+                    "created": "Sun, 22 Oct 2023 14:20:15 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I was presented with four illustrations.",
+                    "created": "Sun, 22 Oct 2023 14:20:38 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "1. Photo of the futuristic New York Harbor as a bustling space port. Numerous advanced spaceships are seen descending from the sky, some with designs native to the Milky Way galaxy. The skyline of New York is still recognizable but has been augmented with futuristic architectures. Aboard the ships, a diverse array of alien beings disembark. Some float, some have multiple limbs, and they come in various colors and sizes. They interact with humans and each other, many holding digital guides highlighting New York's museums and educational institutions.",
+                    "created": "Sun, 22 Oct 2023 14:22:25 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A bustling New York Harbor transformed into a space port.",
+                    "created": "Sun, 22 Oct 2023 14:20:48 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/10/22/nyharborspaceport.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "2. Illustration of the entrance to NYU in 2123. The iconic Washington Square Arch stands tall, but now with holographic enhancements. Students of various species walk, float, or glide into the campus. Some aliens are seen engaging in animated discussions with human professors. Banners in the background promote intergalactic exchange programs.",
+                    "created": "Sun, 22 Oct 2023 14:25:24 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Entrance to NYU in 2123 with the iconic Washington Square Arch and holographic enhancements.",
+                    "created": "Sun, 22 Oct 2023 14:21:12 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/10/22/nyu.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "3. Photo of an intergalactic sports game taking place in a futuristic stadium in New York. The game is a mix of soccer and a sport from another galaxy, played by teams comprising both humans and aliens. The audience is a melting pot of species from different planets, cheering passionately for their favorite teams.",
+                    "created": "Sun, 22 Oct 2023 14:25:07 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "An intergalactic sports game taking place in a futuristic stadium in New York.",
+                    "created": "Sun, 22 Oct 2023 14:21:13 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/10/22/sportvenue.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "4. Watercolor painting of the Bronx High School of Science's main entrance. This prestigious school now has a massive holographic globe above it, displaying various constellations. Students, both human and alien, rush in, some levitating their books and some using advanced tech wearables for learning. A group of alien parents is seen taking a campus tour, marvelling at the institution's history.",
+                    "created": "Sun, 22 Oct 2023 14:28:27 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Bronx High School of Science's main entrance with a massive holographic globe.",
+                    "created": "Sun, 22 Oct 2023 14:21:21 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/10/22/bronxScience.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
