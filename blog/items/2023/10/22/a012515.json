@@ -1,0 +1,40 @@
+{
+    "text": "scripting.com will always be HTTP",
+    "created": "Mon, 23 Oct 2023 01:25:15 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Because \"Drummer\" and \"FeedLand\" now do their own identity via email, I had to switch them to HTTPS last year. And I've pretty much been converting anything that builds on those apps to HTTPS as well. As a side-effect I had to convert the image URLs in Scripting News, which is served by HTTP, to HTTPS so they wouldn't show up as broken images in FeedLand. They almost certainly have been showing up broken in other feed reading software, for years. ",
+            "created": "Sun, 22 Oct 2023 15:15:35 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2021/09/17/simpsonsBeeGuy.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Anyway, even though it would be relatively easy to convert scripting.com to HTTPS, it would break every single image that appeared before 2023. ",
+            "created": "Mon, 23 Oct 2023 01:29:05 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I will also never do it for the simple reason that this site goes back to 1994, and if I switched to HTTPS now, well what about all the other sites of its era that are breaking due to this really ill-conceived corner-turn. And who there are so many subdomains of scripting.com started over 30 years and left standing, and all the HTTP urls hanging off them, I'll retire long before I consider that much crazy work. ",
+            "created": "Mon, 23 Oct 2023 01:29:43 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "You don't accumulate 30 years of archives thinking someday you're going to convert every page and thus break all the images. I can't imagine a change that could more totally break the web. And yet somehow we've let that happen. ",
+            "created": "Mon, 23 Oct 2023 01:30:44 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Scripting News is one of the foundation sites of the open web, it goes back further than probably anything that's still updating. Scripting News is angry that Google is deliberately breaking the open web, even though Dave the system developer would rather just go ahead and switch. Google is playing mass psychology on us, getting us all to believe that giving them full control to evolve the web is somehow a reasonable thing. It won't happen here. ",
+            "created": "Mon, 23 Oct 2023 01:31:02 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Scripting News may be the last continuously updating site that runs in black and white, but it will always do so. ",
+            "created": "Mon, 23 Oct 2023 01:32:32 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
