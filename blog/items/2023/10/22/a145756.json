@@ -1,0 +1,9 @@
+{
+    "text": "I've always meant to ask developers of <a href=\"https://chat.openai.com/share/5bcfa50f-a7dc-489a-b684-70f79906710b\">podcast clients</a> to accept podcasts from feeds that contain normal blog posts. When I do a podcast on <a href=\"http://scripting.com/\">scripting.com</a> I just create another item in <a href=\"http://scripting.com/rss.xml\">my feed</a>, alongside all the others. I don't see any reason people should have to have a special feed for podcasts, when it's so easy for clients to ignore items that don't have enclosures. So I've been trying to hold the door open for that (also I'm lazy). There's a 1-minute <a href=\"http://scripting.com/2023/10/22/quickDemoPodcast.m4a\">podcast</a> attached to this item as a demo.",
+    "created": "Sun, 22 Oct 2023 14:57:56 GMT",
+    "type": "outline",
+    "enclosure": "http://scripting.com/2023/10/22/quickDemoPodcast.m4a",
+    "enclosureType": "audio/mpeg",
+    "enclosureLength": "600153",
+    "flInCalendar": true
+}
