@@ -1,0 +1,137 @@
+{
+    "created": "2023-10-23T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "23",
+    "path": "2023/10/23",
+    "text": "October 23",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "The nice thing about ChatGPT is that when you want to know something like how to <a href=\"https://chat.openai.com/share/7555aac2-f312-403f-953a-9b812de37f80\">hard-reload any popular browser</a> for advice to a user, or know what <a href=\"https://chat.openai.com/share/fb172a67-2d89-41bf-8b3e-743cb738e620\">Writing-First workflow</a> is -- you get a complete answer without any of the junk writing you get from a commercial journalism site. And it seems not to forget (or bury) the one piece of information you came there for. ",
+            "created": "Mon, 23 Oct 2023 19:26:02 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I wish, instead of dropping all the way down to JavaScript after working in \"Frontier\" for two decades, I could have done the next version of \"Frontier\", backward-compatible of course, factoring in what we learned from developing network writing tools, blogs, feed readers and podcasting in Frontier in the 90s and 00s. Then things like the relatively huge corner-turn I'm doing with <a href=\"http://scripting.com/2023/10/21/143159.html\">reading lists</a> would be less of a mind fuck. I'll get there, but I don't like the stack I'm working in, the browser and its ridiculousness, then JavaScript and its idea of program synchrozation and structure, then HTTP which is simple enough, but of course Google couldn't leave that alone, and then <a href=\"https://en.wikipedia.org/wiki/Node.js\">JavaScript again</a>, and then <a href=\"https://en.wikipedia.org/wiki/SQL\">SQL</a> where, instead of calling into another stack, you write scripts, send them over the wire. At least what you get back is a JavaScript object, imagine if everyone had to parse the text result that I'm sure SQL must send back. None of this history has been factored or smoothed out, yet we can get something as clever as \"FeedLand\" running. Imagine if the runtime environment were <i>designed</i> for the kind of work we're doing.",
+            "created": "Mon, 23 Oct 2023 14:49:01 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/10/23/frontierAboutBox.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Been watching a lot of baseball lately, and let me tell you programmers slump just like athletes. I look at stuff I wrote a week ago and marvel at its complexity. I just don't have it in me to write something like that today. I hope I get it back soon. ;-)",
+            "created": "Mon, 23 Oct 2023 16:00:46 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "POSSE is the right idea but...",
+            "created": "Mon, 23 Oct 2023 22:03:42 GMT",
+            "type": "outline",
+            "metaImage": "https://imgs.scripting.com/2023/10/23/dalleScene.png",
+            "subs": [
+                {
+                    "text": "Nice <a href=\"https://www.theverge.com/2023/10/23/23928550/posse-posting-activitypub-standard-twitter-tumblr-mastodon\">article</a> about the ideal of POSSE, an acronym coming out of the indieweb group, but.. It's like the great <a href=\"https://www.youtube.com/watch?v=YDE8XG_aAHw\">scene</a> near the end of <a href=\"https://en.wikipedia.org/wiki/As_Good_as_It_Gets\">As Good As It Gets</a>, where Melvin (played by Jack Nicholson) is professing his love for Carol (Helen Hunt), acting as nuts as ever, and she blurts out: Why can't I just have a normal boyfriend who doesn't go nuts on me! This is the big moment, because we know he's crazy, and she knows it, and of course she's crazy too and maybe just starting to catch on, when her mother pops out from behind the door and delivers the big line in the movie: ",
+                    "created": "Mon, 23 Oct 2023 22:04:00 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "\"Everybody wants that dear. It doesn't exist.\"",
+                            "created": "Tue, 24 Oct 2023 02:07:01 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Same with POSSE. ",
+                    "created": "Mon, 23 Oct 2023 22:06:09 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Everybody wants it, but it doesn't exist. ",
+                            "created": "Tue, 24 Oct 2023 02:07:09 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "When Twitter took off in 2006 it was the first thought every blogger had, can I cross-post from my blog to Twitter, but Twitter had nothing that our blogs had. Posts couldn't have titles, no links, styling, and it was limited to 140 characters. It's as if they put a big sign out front saying \"No POSSE here.\"",
+                    "created": "Mon, 23 Oct 2023 22:25:15 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Facebook said the same thing, no titles, no styling, but it didn't have a character limit, and while Twitter's API didn't allow updating, Facebook's did. Here's the catch -- if you wanted to cross-post to Facebook, you had to write text that would make sense even if the links didn't come through, and that really screws with the art of web writing. I tried it and hated it as much as I loved the open web. I tried to make it work for years, but <a href=\"http://scripting.com/2017/05/05/iWantMyOldBlogBack.html\">eventually gave up</a>, and went back to blogging the way of the web, and I was a much happier writer, even if I didn't have the reach that Facebook offered. I still to this day have a lot of friends on Facebook, and if they want to read what I write, they have to go outside of Facebook, because my writing can't get in there.",
+                    "created": "Mon, 23 Oct 2023 22:07:28 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Even Medium, which was created by the <a href=\"https://en.wikipedia.org/wiki/Evan_Williams_(Internet_entrepreneur)\">founder of Blogger</a> couldn't fit into the POSSE model because posts couldn't be updated. Otherwise it came pretty close to the ideal.",
+                    "created": "Mon, 23 Oct 2023 22:08:52 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The idea of posting on your blog and cross-posting to lots of place <i>is the right idea,</i> no argument there, the problem is that the places you can actually cross-post to are few and far-between. The two places mentioned in the article that can peer with most other blogging software are <a href=\"https://micro.blog/\">micro.blog</a> and <a href=\"https://wordpress.com/\">WordPress</a>. Everything else as far as I know, if you want to peer with them in a POSSE-like way, requires you to remove features from your writing, and you have to decide if it's worth it. ",
+                    "created": "Mon, 23 Oct 2023 22:09:35 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But now I want to try again -- because the time is right -- with Twitter falling into the background, pretty quickly, there are new platforms that are pretty close to being able to peer with blogging software, Mastodon and other ActivityPub systems, BlueSky and a few others. If we're going to organize, we should get together on the features we want in our blogs to be mirrored elsewhere and help the developers of those systems achieve it. And we should emphasize that it can be done, because we have examples that do it. ",
+                    "created": "Mon, 23 Oct 2023 22:12:00 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I put up a <a href=\"http://textcasting.org/\">proposal</a> for what that feature set would be. It's pretty simple, but in order for it to work, we have to work together. ",
+                    "created": "Mon, 23 Oct 2023 22:14:01 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The features are:",
+                    "created": "Mon, 23 Oct 2023 22:15:03 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Optional titles",
+                            "created": "Mon, 23 Oct 2023 22:15:05 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Links",
+                            "created": "Mon, 23 Oct 2023 22:15:24 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Simple styling",
+                            "created": "Mon, 23 Oct 2023 22:15:25 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Enclosures",
+                            "created": "Mon, 23 Oct 2023 22:15:28 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Unlimited length",
+                            "created": "Mon, 23 Oct 2023 22:15:29 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Editable",
+                            "created": "Mon, 23 Oct 2023 22:15:34 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "That's it. I could peer my posts with any system that supported those features. You can even support just a subset as long as you pass along all the data you get in your outbound feeds. I think with that simple system we could rebuild the social media world so that no one dominates, and we can always try out new ideas, and you can use the editing tools you like, and I can use the ones I like. It would finally be a writer's web, something that, after 30 years we still haven't <i>begun</i> to build. Let's do it! We have a chance now, all we have to do is work with each other. ",
+                    "created": "Mon, 23 Oct 2023 22:15:40 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
