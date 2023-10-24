@@ -1,0 +1,7 @@
+{
+    "text": "I wish, instead of dropping all the way down to JavaScript after working in \"Frontier\" for two decades, I could have done the next version of \"Frontier\", backward-compatible of course, factoring in what we learned from developing network writing tools, blogs, feed readers and podcasting in Frontier in the 90s and 00s. Then things like the relatively huge corner-turn I'm doing with <a href=\"http://scripting.com/2023/10/21/143159.html\">reading lists</a> would be less of a mind fuck. I'll get there, but I don't like the stack I'm working in, the browser and its ridiculousness, then JavaScript and its idea of program synchrozation and structure, then HTTP which is simple enough, but of course Google couldn't leave that alone, and then <a href=\"https://en.wikipedia.org/wiki/Node.js\">JavaScript again</a>, and then <a href=\"https://en.wikipedia.org/wiki/SQL\">SQL</a> where, instead of calling into another stack, you write scripts, send them over the wire. At least what you get back is a JavaScript object, imagine if everyone had to parse the text result that I'm sure SQL must send back. None of this history has been factored or smoothed out, yet we can get something as clever as \"FeedLand\" running. Imagine if the runtime environment were <i>designed</i> for the kind of work we're doing.",
+    "created": "Mon, 23 Oct 2023 14:49:01 GMT",
+    "type": "outline",
+    "image": "https://imgs.scripting.com/2023/10/23/frontierAboutBox.png",
+    "flInCalendar": true
+}
