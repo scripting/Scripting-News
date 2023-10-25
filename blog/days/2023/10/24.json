@@ -1,0 +1,79 @@
+{
+    "created": "2023-10-24T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "24",
+    "path": "2023/10/24",
+    "text": "October 24",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "People are really down on <a href=\"https://www.google.com/search?q=paving+cow+paths\">paving cow paths</a>. But of course we think about whether it's the best way to do something, but the fact that users chose a way is important. Because our software is meant to empower them. I don't like software developers who think of themselves as above the users. Not a constructive way to do our art, imho. ",
+            "created": "Tue, 24 Oct 2023 12:43:47 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2017/10/04/goldenGirl.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "As <a href=\"https://tantek.com/2023/296/t1/posse-syndicate-link-reply\">Tantek describes POSSE</a> it sounds tedious. Imho, web writing is supposed to be a joy. When you push an idea into the world it should feel powerful not laborious. When the process of writing and revising is trouble, the writing is troubled. I find sometimes it <i>is</i> tedious, like arranging the <a href=\"http://scripting.com/2023/10/24/122615.html\">delicious artwork</a> that DALLE made for me (and you), but that always inspires me, as a software developer, to look for ways to smooth the process. We call that paving cow paths, and that's my process. So let's do it. Take Tantek's vision, which we share, and make it work, for real. In the case of blog-peering, we can learn from podcasting and make the <a href=\"http://textcasting.org/\">sharing process</a> for writing as smooth. ",
+            "created": "Tue, 24 Oct 2023 12:31:50 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Art is about the observer",
+            "created": "Tue, 24 Oct 2023 12:26:15 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I asked DALLE to do some art in the style of Diego Rivera, Frida Kahlo, Rembrandt and Georgia O'Keefe. ",
+                    "created": "Tue, 24 Oct 2023 12:26:28 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I asked for artwork about Twitter from each artist. Just about Twitter. My instructions to ChatGPT were: \"Imagine Diego Rivera painting about Twitter.\" ",
+                    "created": "Tue, 24 Oct 2023 12:27:09 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The designs were by ChatGPT and the execution by DALLE.",
+                    "created": "Tue, 24 Oct 2023 12:27:34 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Before all this happened I had an idea of what art is. It isn't the creation of the artist, it's what the observer creates in their mind from participating in the work -- that's the art. I'm not trying to twist words, this is just what I think art is. To the extent that my software is art, it is all about the user. What do you create with my outliner and news manager? You and us. What do we create together? That's the art. The art continues long after I've stopped coding. It starts when you recall an idea you had last Tuesday and improve on it, and relate it to someone else's idea next week and in 2029.  ",
+                    "created": "Tue, 24 Oct 2023 12:27:46 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's why we're so puzzled by some art, we're wondering what the artist was trying to say. Not really important, what matters is what <i>you</i> saw. And there's a precise answer for that, and only you know the answer. Your exploration of yourself is why we make art. It's where the art is. ",
+                    "created": "Tue, 24 Oct 2023 12:29:51 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "With that in mind, look at what the freaking computer created. These are just a few examples. ",
+                    "created": "Tue, 24 Oct 2023 12:30:28 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Rembrandt on Twitter.",
+                    "created": "Tue, 24 Oct 2023 12:34:53 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/10/24/rembrandtOnTwitter.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Kahlo on Twitter.",
+                    "created": "Tue, 24 Oct 2023 12:35:36 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/10/24/kahloOnTwitter.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Rivera on Twitter.",
+                    "created": "Tue, 24 Oct 2023 12:36:12 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/10/24/riveraOnTwitter.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
