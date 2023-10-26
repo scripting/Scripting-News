@@ -1,0 +1,6 @@
+{
+    "text": "I was talking with <a href=\"https://www.linkedin.com/in/jeffsandquist/\">Jeff Sandquist</a> yesterday, a friend from long ago when he was in developer support at Microsoft. He now works at Automattic, makers of WordPress. We're both old enough to remember Filemaker and PFS:File which were user-oriented databases for the Mac and PC in the 1980s. It was a new idea then because there were no easy-to-use file management products on minicomputers, these were products for users of personal computers. I wondered it there wasn't a position for a <i>lite</i> version of WordPress, a user interface designed for one person, not a group. I created a <a href=\"https://github.com/scripting/Scripting-News/issues/274\">prototype</a> of what I call <i>WordPress-for-One</i> as part of a project to get support for the WordPress API into my codebase. It's just enough WordPress for one writer. That's the idea.",
+    "created": "Wed, 25 Oct 2023 16:57:46 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
