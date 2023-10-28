@@ -1,0 +1,7 @@
+{
+    "text": "I want to throw together a nice little utility for Bluesky users. I'm working in JavaScript in web browsers. There should be a service I can access via one include each for CSS and JS code that lets me build the utility without writing any code to deal with storage or identity. Also supports reading and posting of data to Bluesky, one easy call for each. And the same environment should work equally well with Mastodon. The same code. No changes. If my code takes two days to write and test, that's how long I should have to spend on it. And after it's published, it should be a static app, no server presence at all. I get to move on to the next thing. Also if I want to charge for using it, that should be built-in as well. The tech for doing this is well understood. If we want it we can have it. ",
+    "created": "Fri, 27 Oct 2023 20:30:05 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2023/04/24/cheshireCat.png",
+    "flInCalendar": true
+}
