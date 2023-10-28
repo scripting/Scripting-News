@@ -1,0 +1,65 @@
+{
+    "text": "Cats in NYC",
+    "created": "Fri, 27 Oct 2023 13:32:56 GMT",
+    "type": "outline",
+    "metaImage": "https://imgs.scripting.com/2023/10/27/catsInNyc.png",
+    "description": "I dreamed of cats being the people of New York City.",
+    "subs": [
+        {
+            "text": "I woke up in the middle of the night after dreaming about cats being the people of New York City. So I got out my iPad, launched ChatGPT and asked it to instruct DALL-E to visualize: \"A city street in nyc where humans have been replaced by cats, who walk upright, wear typical human clothes, are cops, mothers, business executives, messengers, television reporters. They drive cars, buses and cabs.\" ",
+            "created": "Fri, 27 Oct 2023 13:33:02 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The first two images were imho lifeless, cheap -- lazy. I narrowed the spec: \"The street should be more busy, and dirtier like nyc streets, and the cats should have more expressive faces, some should be angry, flirty, happy, depressed, tired.\"",
+            "created": "Fri, 27 Oct 2023 13:34:15 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "DALL-E's rendering of CatNY as <a href=\"https://imgs.scripting.com/2023/10/27/catNewYork.png?nodialog=true\">visualized</a> by ChatGPT and myself. ",
+            "created": "Fri, 27 Oct 2023 13:39:02 GMT",
+            "inlineImage": "https://imgs.scripting.com/2023/10/27/catNycInline.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "What came out was a good first try -- looks a bit like 8th Ave looking north from 42nd St. And cats! Look at the image in full resolution, it's got a lot of interesting detail. Maybe a continuing story.",
+            "created": "Fri, 27 Oct 2023 13:52:11 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "This is how ChatGPT described what I wanted to DALL-E. I guess it's like SQL, one program writes scripts for the other program. ",
+            "created": "Fri, 27 Oct 2023 13:36:16 GMT",
+            "subs": [
+                {
+                    "text": "\"Illustration of a busy and gritty New York City street scene where cats have replaced humans. The street is filled with trash, and the cats walk upright, wearing human clothes. Their faces are highly expressive, capturing emotions like happiness, anger, flirtation, depression, and tiredness. The roads are jam-packed with cars, buses, and taxis, all operated by these emotive cats. Among them, a cop cat is directing traffic, a mother cat is tending to her kitten in a stroller, and a television reporter cat is conducting an interview.\"",
+                    "created": "Fri, 27 Oct 2023 13:42:44 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Just for fun I asked it to <a href=\"https://imgs.scripting.com/2023/10/27/dogsNyc.png?nodialog=true\">change the cats to dogs</a>. ",
+            "created": "Fri, 27 Oct 2023 14:25:48 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The cats become dogs. ",
+            "created": "Fri, 27 Oct 2023 14:27:18 GMT",
+            "inlineImage": "https://imgs.scripting.com/2023/10/27/catstodogsinlineimage.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Then I asked for more motive variety. \"Some dogs are sad, depressed, flirty, horny, unloved, ugly, arrogant, satisfied. And they're all hungry.\"",
+            "created": "Fri, 27 Oct 2023 20:38:04 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Dogs with varied emotions. (<a href=\"https://imgs.scripting.com/2023/10/27/fullsizeDogsWithEmotions.png?nodialog=true\">Full size</a>.) ",
+            "created": "Fri, 27 Oct 2023 20:39:59 GMT",
+            "inlineImage": "https://imgs.scripting.com/2023/10/27/dogsVariedEmotionsInlineImage.png",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
