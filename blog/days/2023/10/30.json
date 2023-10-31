@@ -1,0 +1,55 @@
+{
+    "created": "2023-10-30T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "30",
+    "path": "2023/10/30",
+    "text": "October 30",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"http://scripting.com/2023/10/21/143159.html\">Reading lists</a> in FeedLand are <a href=\"https://github.com/scripting/feedlandSupport/issues/225\">now usable</a>. :boom: ",
+            "created": "Mon, 30 Oct 2023 17:08:35 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "What does it mean when the <a href=\"https://imgs.scripting.com/2023/10/30/diskIoGraph.png?nodialog=true\">Disk I/O graph</a> for one of your servers does this and you can't think of what changed that could have caused it.",
+            "created": "Mon, 30 Oct 2023 20:38:16 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "To the developers of Threads",
+            "created": "Mon, 30 Oct 2023 20:56:03 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "This is the RSS feed for my <a href=\"https://bsky.app/profile/scripting.com\">Bluesky account</a>.",
+                    "created": "Mon, 30 Oct 2023 20:58:21 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://rss.firesky.tv/?filter=from:scripting.com\">https://rss.firesky.tv/?filter=from:scripting.com</a>",
+                    "created": "Mon, 30 Oct 2023 20:56:21 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Can I have a feed like this for my <a href=\"https://www.threads.net/@davew\">Threads account</a>?",
+                    "created": "Mon, 30 Oct 2023 20:56:35 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This would be good for the open web, like ActivityPub support, but easier. ",
+                    "created": "Mon, 30 Oct 2023 20:59:01 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If you like Threads but also want choice, <a href=\"https://www.threads.net/@davew/post/CzCYItSp4C2\">please pass this on</a>. ",
+                    "created": "Mon, 30 Oct 2023 20:57:09 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
