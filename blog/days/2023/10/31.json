@@ -1,0 +1,40 @@
+{
+    "created": "2023-10-31T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "31",
+    "path": "2023/10/31",
+    "text": "October 31",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Tim Carmody is a smart guy and he <a href=\"https://www.threads.net/@timcarmody/post/CzEd8Sap2Or\">wrote a post</a> on Threads that's a lot like what I've been saying. So I decided to do a <a href=\"http://scripting.com/2023/10/31/podcastForTimCarmody.m4a\">podcast</a> for him, and invite him to respond not on Threads but on a blog, or in a podcast, and let's talk about how we work together on this. If we want a great writer's web, we can have it. ",
+            "created": "Tue, 31 Oct 2023 21:45:51 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2023/10/31/podcastForTimCarmody.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "5740093",
+            "image": "https://imgs.scripting.com/2022/10/31/camel.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://www.threads.net/@mayfield_ross/post/Cy7f1f-uidy\">Ross Mayfield</a>: \"The reason Threads doesn’t have an API or the promised Fediverse coupling is organizational inertia for the fear of another Cambridge Analytica.\" I think that's very likely true. I was using Facebook's API when they quietly turned it off, and I didn't blame them for it, given the way journalism was treating them. Everyone knew they had an API, and what it could do was openly published, and promoted by the same journalists who were now blaming them. So while FB has few scruples to admire them for, as a company -- in this case I believe Ross's explanation of why they are treading very carefully here. ",
+            "created": "Tue, 31 Oct 2023 14:20:42 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Twitter de los muertos\n",
+            "created": "Tue, 31 Oct 2023 16:20:08 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<i>Twitter de los Muertos</i> in the style of Frida Kahlo, by DALL-E, at my behest. ",
+                    "created": "Tue, 31 Oct 2023 16:22:05 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/10/31/twitterDeLasMuertosVIaDalle.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
