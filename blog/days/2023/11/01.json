@@ -1,0 +1,86 @@
+{
+    "created": "2023-11-01T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "01",
+    "path": "2023/11/01",
+    "text": "November 01",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/opml/2023/10.opml\">October is archived</a>, welcome to November 2023. ",
+            "created": "Wed, 01 Nov 2023 12:48:13 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "DALL-E illustrated my story",
+            "created": "Wed, 01 Nov 2023 16:42:13 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I wrote a story ten years ago, posted only <a href=\"https://www.facebook.com/dave.winer.12/posts/pfbid0z317zwEGJKSRcLKR8b7acQeTCf6HhA8ZJsQcnwF3rLWEoGofBuqqtrjkohMyPsUbl\">on Facebook</a>. ",
+                    "created": "Wed, 01 Nov 2023 16:43:23 GMT",
+                    "collapse": "false",
+                    "subs": [
+                        {
+                            "text": "A plot for a science fiction horror movie.",
+                            "created": "Wed, 01 Nov 2023 17:01:10 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Takes place in the near future.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "A young Zuck-like hacker not only understands how to write scalable server apps, and has no principles about people's privacy (or really anything, for that matter), he's also a lawyer. ",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "He starts a Facebook-like service, but it's better in some way (still need to come up with this element), but there's a twist. The end user agreement is customized for each user. Not for everyone, just a few. They know where you live, and whether you own the house or not. ",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Here's the nasty thing they do. ",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "They plant seemingly innocuous language in the agreement (that no one reads anyway) that says you sign over all your property to them. ",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Not sure where it goes from there exactly. ",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Probably not all that great an idea.",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<b>Visualized...</b>",
+                    "created": "Wed, 01 Nov 2023 17:05:00 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I fed this story to ChatGPT and asked it to ask DALL-E to visualize it. Had to change Zuck to Buck to get past its filters. And here's what it came back with.",
+                    "created": "Wed, 01 Nov 2023 17:01:15 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<i>BuckBook,</i> by DALL-E, as directed by ChatGPT, screenplay by me.",
+                    "created": "Wed, 01 Nov 2023 17:02:07 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/11/01/buckbook.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: <a href=\"https://www.facebook.com/photo/?fbid=2125543310986396&set=a.113966572144090&notif_id=1698842698080932&notif_t=feedback_reaction_generic&ref=notif\">Full-size visual</a>, on Facebook -- seems appropriate.",
+                    "created": "Wed, 01 Nov 2023 17:06:00 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
