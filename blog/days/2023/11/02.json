@@ -1,0 +1,58 @@
+{
+    "created": "2023-11-02T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "02",
+    "path": "2023/11/02",
+    "text": "November 02",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Doc in Berkeley in 2006",
+            "created": "Thu, 02 Nov 2023 16:28:36 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I'm helping my friends at Automattic make <a href=\"https://doc.searls.com/\">Doc's blog</a> easier to read, esp on tablets which is where I end up reading most of his writing. ",
+                    "created": "Thu, 02 Nov 2023 16:16:26 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I also never liked the <a href=\"https://imgs.scripting.com/2023/11/02/docblogpic.png\">picture</a> someone put on Doc's blog. I guess if you squint it kind of looks like Doc, but that isn't how I see him.  ",
+                    "created": "Thu, 02 Nov 2023 16:32:26 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://www.flickr.com/photos/scriptingnews/292425043\">This picture</a>, which I took at a nice <a href=\"https://www.google.com/maps/@37.8909372,-122.2875094,3a,75y,313.36h,69.63t/data=!3m6!1e1!3m4!1suaMTkzX9fdF13_oSiid1mw!2e0!7i16384!8i8192?entry=ttu\">breakfast place</a> in Berkeley on <a href=\"http://scripting.com/2006/11/08.html\">Nov 8, 2006</a>, is much more what I think of when I think of Doc. ",
+                    "created": "Thu, 02 Nov 2023 16:29:32 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So is it fair to use a picture that's 17 years old? Sure! Most of the stuff on his blog was written then or before. ",
+                    "created": "Thu, 02 Nov 2023 16:32:15 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Doc in Berkeley in 2006 via <a href=\"https://www.flickr.com/photos/scriptingnews/292425043\">Flickr</a>.",
+                    "created": "Thu, 02 Nov 2023 16:23:32 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/11/02/docInBerkeleyIn2006.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Mona Lisa in Mad Men",
+            "created": "Fri, 03 Nov 2023 01:53:51 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Via DALL-E and ChatGPT.",
+                    "created": "Fri, 03 Nov 2023 01:53:57 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/11/02/monaLisaInMadMen.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
