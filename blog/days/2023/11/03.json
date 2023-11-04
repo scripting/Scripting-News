@@ -1,0 +1,74 @@
+{
+    "created": "2023-11-03T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "03",
+    "path": "2023/11/03",
+    "text": "November 03",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "You can now sign on FeedLand with a <a href=\"https://github.com/scripting/feedlandSupport/issues/226\">WordPress account</a>. ",
+            "created": "Fri, 03 Nov 2023 14:08:45 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "WordPress for identity",
+            "created": "Fri, 03 Nov 2023 14:15:15 GMT",
+            "type": "outline",
+            "description": "Identity means you can be the same person in many different places. ",
+            "subs": [
+                {
+                    "text": "I don't believe a product like \"FeedLand\" should do its own identity. ",
+                    "created": "Fri, 03 Nov 2023 14:24:31 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Identity is one of those things you totally want centralized, because that's the benefit of identity -- you can be the same person in a lot of different places. And if we work that out well, the apps that you connect with that way can work with each other in interesting ways to provide new integrations. ",
+                    "created": "Fri, 03 Nov 2023 14:24:43 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I've always been preaching this, let developers and users do the integration, let software developers create basic capability that we can wire together any way we like. That was what we were doing on the Mac platform in the 1988-92. And also what we've been doing on the web since 1994 . It's an idea as old as <a href=\"https://web.cse.ohio-state.edu/~mamrak.1/CIS762/pipes_lab_notes.html\">Unix pipes</a>. But it requires cooperation among developers, which we have seen sometimes happens. :smile:",
+                    "created": "Fri, 03 Nov 2023 15:11:39 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Using <a href=\"https://github.com/scripting/feedlandSupport/issues/226\">WordPress for identity</a> is a step in that direction. The hope is it could form a <a href=\"https://en.wikipedia.org/wiki/Internet_backbone\">backbone</a> for an internet of applications. I'm willing to step up and say okay let's give this a try and see what happens.  ",
+                    "created": "Fri, 03 Nov 2023 14:35:49 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "FeedLand's identity",
+            "created": "Fri, 03 Nov 2023 15:01:04 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I have been trying to visualize <i>FeedLand</i> to work toward a great logo for it, and had the idea of playing with ChatGPT and DALL-E to see what would come of that. ",
+                    "created": "Fri, 03 Nov 2023 15:06:17 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I painted a verbal picture of a yacht in a port on the Adriatic, the water is choppy but the yacht is doing well. On the main sail would be the words FEED and LAND. ",
+                    "created": "Fri, 03 Nov 2023 15:01:12 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This is what it came up with and it's better than anything I imagined. Really. The art is all over this. ",
+                    "created": "Fri, 03 Nov 2023 15:06:34 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "FeedLand as a yacht.",
+                    "created": "Fri, 03 Nov 2023 15:03:30 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/11/03/feedLandAsYacht.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
