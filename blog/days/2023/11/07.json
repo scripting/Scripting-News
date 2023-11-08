@@ -1,0 +1,35 @@
+{
+    "created": "2023-11-07T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "07",
+    "path": "2023/11/07",
+    "text": "November 07",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Took care of life details today, sold a car, voted, and realized I've been pushing it really hard programming for most of the year.  Learned a lot, made new friends. Looking forward to working with users and developers this winter, and of course fixing bugs. A big new product release coming soon. :smile:",
+            "created": "Wed, 08 Nov 2023 02:30:50 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Mice living in my car",
+            "created": "Wed, 08 Nov 2023 03:42:28 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "My car had huge numbers of mice living in it. When I started the engine and drove it some of the mice who were living in the engine died. Later when I got in the car it smelled terrible. So I took a picture of the car with the mice in it, and I want DALL-E to draw that for me. Thanks.",
+                    "created": "Wed, 08 Nov 2023 03:42:34 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Mice were living in my car.",
+                    "created": "Wed, 08 Nov 2023 03:44:12 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/11/07/miceInMyCar.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
