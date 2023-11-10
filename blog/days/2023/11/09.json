@@ -1,0 +1,47 @@
+{
+    "created": "2023-11-09T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "09",
+    "path": "2023/11/09",
+    "text": "November 09",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://github.com/scripting/reallysimple/tree/main/demos/feedhunter\">Feed Hunter</a> is a new NPM package that looks for a feed, starting with the address of an HTML file. We first look for feeds that are <a href=\"https://dri.es/rss-auto-discovery\">linked into</a> the HTML source code. If we don't find a working feed there, we <a href=\"https://github.com/scripting/reallysimple/blob/main/demos/feedhunter/feedhunter.js#L56\">look in 27 common locations</a> where feeds are often found. And btw, there's a new version of \"FeedLand\" that uses this package, so we do better at finding feeds. Thanks to the <a href=\"https://indieblog.page/\">Indieblog</a> site which keeps a great <a href=\"https://indieblog.page/export\">list</a> of blogs with feeds. We used that info to come up with our list of default locations. We also used the list of feeds people have subscribed to in FeedLand. ",
+            "created": "Thu, 09 Nov 2023 14:14:19 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/11/09/bowHunter.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "For FeedLand users and others, how did you feel about the <a href=\"https://github.com/scripting/Scripting-News/issues/276\">starter feeds</a> you were offered when you first signed on?",
+            "created": "Thu, 09 Nov 2023 16:11:01 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The thing people don't like about AI isn't that the machines are trying to be human, rather it's that you could be a machine. ",
+            "created": "Thu, 09 Nov 2023 17:20:45 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I wonder if <a href=\"https://en.wikipedia.org/wiki/Stack_Overflow\">Stack Overflow</a> tried to do a deal with ChatGPT to flow human knowledge through their database. Or were they caught as flat-footed as \n<a href=\"https://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica\">Encyclopædia Britannica</a> was by Wikipedia, or how <a href=\"https://en.wikipedia.org/wiki/Digital_camera#Types_of_digital_cameras\">digital cameras</a> were obsoleted by smart phones. Was there anything any of them could do, or was there no possible corner-turn? Also newspaper <a href=\"https://en.wikipedia.org/wiki/Classified_advertising\">classified ads</a> and Craigslist.",
+            "created": "Thu, 09 Nov 2023 15:41:32 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I asked DALL-E to help create an icon for <a href=\"https://github.com/scripting/reallysimple/tree/main/demos/feedhunter\">Feed Hunter</a>. I can't imagine an art director at an agency not using AI to play around with ideas for logos, symbols, ads, whatever. What I arrived at was a <a href=\"https://imgs.scripting.com/2023/11/09/feedHunterIcon.png\">tennis racket</a> trying to hit a cheeseburger. I didn't end up using it, but the exploration was useful. I think this process still has quite a ways to go, I find it difficult to control the bot, I give it explicit instructions sometimes that it apparently doesn't understand. But it's still a miracle of technology. And a miracle for this human, because I've found an artist that is infinitely patient with me, and works for $20 a month.",
+            "created": "Thu, 09 Nov 2023 14:37:52 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I bought a <a href=\"https://imgs.scripting.com/2023/11/08/feedlandComHappy.png\">new domain</a> for FeedLand today. :smile:",
+            "created": "Thu, 09 Nov 2023 15:12:02 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
