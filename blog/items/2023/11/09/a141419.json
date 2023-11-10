@@ -1,0 +1,7 @@
+{
+    "text": "<a href=\"https://github.com/scripting/reallysimple/tree/main/demos/feedhunter\">Feed Hunter</a> is a new NPM package that looks for a feed, starting with the address of an HTML file. We first look for feeds that are <a href=\"https://dri.es/rss-auto-discovery\">linked into</a> the HTML source code. If we don't find a working feed there, we <a href=\"https://github.com/scripting/reallysimple/blob/main/demos/feedhunter/feedhunter.js#L56\">look in 27 common locations</a> where feeds are often found. And btw, there's a new version of \"FeedLand\" that uses this package, so we do better at finding feeds. Thanks to the <a href=\"https://indieblog.page/\">Indieblog</a> site which keeps a great <a href=\"https://indieblog.page/export\">list</a> of blogs with feeds. We used that info to come up with our list of default locations. We also used the list of feeds people have subscribed to in FeedLand. ",
+    "created": "Thu, 09 Nov 2023 14:14:19 GMT",
+    "type": "outline",
+    "image": "https://imgs.scripting.com/2023/11/09/bowHunter.png",
+    "flInCalendar": true
+}
