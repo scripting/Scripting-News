@@ -1,0 +1,48 @@
+{
+    "created": "2023-11-11T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "11",
+    "path": "2023/11/11",
+    "text": "November 11",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=azdwsXLmrHE\">Radio Gaga</a>.",
+            "created": "Sat, 11 Nov 2023 18:19:51 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=azdwsXLmrHE",
+            "flInCalendar": true
+        },
+        {
+            "text": "Nobody thinks of social media apps like Bluesky, Mastodon, Threads, etc as part of a content management system. But if they are somewhat <a href=\"http://textcasting.org/\">textcasting</a> oriented, and have feeds that are properly configured, then yes -- you can have people write for publication using such a well-equipped social network. ",
+            "created": "Sat, 11 Nov 2023 18:12:42 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Have you noticed that news articles take forever to get to the point. I very often give up after a dozen paragraphs of this and that. Whatever happened to <a href=\"https://en.wiktionary.org/wiki/bury_the_lede\">don't bury the lede</a>? ",
+            "created": "Sat, 11 Nov 2023 14:08:36 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Ancient band in Arizona desert",
+            "created": "Sun, 12 Nov 2023 01:36:09 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I asked for an ancient rock band performing on stage in the middle of the Arizona desert, and the audience members are all cacti, and they’re partying and grooving on the tunes.",
+                    "created": "Sun, 12 Nov 2023 01:36:17 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Ancient band in Arizona desert with cacti audience.",
+                    "created": "Sun, 12 Nov 2023 01:37:26 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/11/11/rockconcertinarizonadesert.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
