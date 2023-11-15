@@ -1,0 +1,64 @@
+{
+    "created": "2023-11-14T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "14",
+    "path": "2023/11/14",
+    "text": "November 14",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I did my 500th Peloton ride today. ",
+            "created": "Wed, 15 Nov 2023 02:41:09 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've often felt I should be able to stay in places I've lived sort of on an <a href=\"https://en.wikipedia.org/wiki/Emeritus\">emeritus</a> basis. A certain number of days a year based on the number of years I've lived there and maybe the number of people who live there who'd like to go out for a walk or a meal. ",
+            "created": "Tue, 14 Nov 2023 17:07:57 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "We have too many modes of writing. I just wrote a post that's also a tweet. Why didn't it go to my followers on all the social nets I'm on? Why do I have to use a different editor to post to each of the services? That's the point of \"textcasting\", btw. ",
+            "created": "Tue, 14 Nov 2023 14:41:57 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Someone must be working on a ChatGPT for SQL databases. I want to talk to my friend the chatbot, so it can write the queries for me. All the time. For example, instead of <a href=\"https://chat.openai.com/share/d005b639-6976-4391-bab7-e06ca9939b45\">asking ChatGPT</a> how to ask for the number of rows in a table, it could just tell me how many rows there are. ",
+            "created": "Tue, 14 Nov 2023 14:41:04 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/277#issue-1992415528\">Report</a> that <a href=\"http://news.scripting.com/\">news.scripting.com</a> wasn't working. Fixed. ",
+            "created": "Tue, 14 Nov 2023 14:02:37 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A Steely Dan tribute band",
+            "created": "Tue, 14 Nov 2023 17:11:54 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Another in the series of fantasy concerts, locations and fans. ",
+                    "created": "Tue, 14 Nov 2023 17:12:03 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "\"In Madison Square Garden in NYC. A tribute band for Steely Dan. The audience are New Yorkers. Very well educated and well behaved.\"",
+                    "created": "Tue, 14 Nov 2023 17:12:28 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Madison Square and Steely Dan.",
+                    "created": "Tue, 14 Nov 2023 17:13:45 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/11/14/msgAndSteelyDan.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
