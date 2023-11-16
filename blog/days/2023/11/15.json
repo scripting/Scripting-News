@@ -1,0 +1,53 @@
+{
+    "created": "2023-11-15T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "15",
+    "path": "2023/11/15",
+    "text": "November 15",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "\"Textcasting\" and ActivityPub are not mutually exclusive. It would be great if an ActivityPub instance would also support the features outlined in the Textcasting <a href=\"http://scripting.com/images/2023/07/28/marshmallowManFromGhostbusters.png\">doc</a>. It's equally possible that a non-ActivityPub app could support Textcasting. It's like saying you can send an MP3 over email and over SMS. Textcasting is the MP3. As the Textcasting doc says I'm interested in supporting writers. Really if we work on it, we <i>can</i> have a great writing and reading environment. ",
+            "created": "Wed, 15 Nov 2023 14:39:57 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/07/28/marshmallowManFromGhostbusters.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/feedlandSupport/issues/229\">WordPress signin</a> is now the default for feedland.org. I'm looking forward to being able to do some interesting things in the future with the WordPress connection.",
+            "created": "Wed, 15 Nov 2023 15:24:43 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "My gravestone visualized",
+            "created": "Wed, 15 Nov 2023 13:55:27 GMT",
+            "type": "outline",
+            "metaImage": "https://imgs.scripting.com/2023/11/15/headstone.png",
+            "subs": [
+                {
+                    "text": "I love that ChatGPT makes it possible to create visualizations for ideas that previously I could only present in words. ",
+                    "created": "Wed, 15 Nov 2023 14:01:51 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "For example, I like to say that when I die my gravestone should say <i>He's Done Digging</i> or something like that, to stand in contrast to my long-lived motto -- <a href=\"http://scripting.com/2023/07/03/150022.html\">Still diggin!</a> I did some writing this morning about <a href=\"https://www.google.com/search?q=site%3Ascripting.com+Future-Safe+Archives\">Future-Safe Archives</a>, and thought to get that as a picture. The piece isn't ready to publish yet, but no reason not to share the illustration. So here it is.. ",
+                    "created": "Wed, 15 Nov 2023 13:53:05 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Uncle Davy, no longer diggin.",
+                    "created": "Wed, 15 Nov 2023 13:57:40 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/11/15/headstone.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: No need for an actual gravestone. Online is fine. Hopefully we'll figure out how to make such things persist before it's needed. :smile:",
+                    "created": "Wed, 15 Nov 2023 13:58:28 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
