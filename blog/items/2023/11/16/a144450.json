@@ -1,0 +1,7 @@
+{
+    "text": "Here's a <a href=\"https://artshow2.scripting.com/\">demo app</a> that scrolls through pictures recently posted by one of the <a href=\"https://lists.feedcorps.org/artshow.opml\">art feeds</a> on Bluesky. Artshow is not itself a feed reader, it calls FeedLand, <a href=\"https://feedland.com/getriverfromreadinglist?url=https://lists.feedcorps.org/artshow.opml\">via an API</a>, to get the recent posts from feeds in the list. It's all very simple, small pieces loosely joined. An illustration that there’s more to feed “reading” than we might think (podcasting is a another form of feed reading that doesn’t look like a feed reader). ",
+    "created": "Thu, 16 Nov 2023 14:44:50 GMT",
+    "type": "outline",
+    "image": "https://imgs.scripting.com/2022/10/24/rssCoffeeMug.png",
+    "flInCalendar": true
+}
