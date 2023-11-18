@@ -1,0 +1,43 @@
+{
+    "created": "2023-11-17T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "17",
+    "path": "2023/11/17",
+    "text": "November 17",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "We're starting to work with people on <i>artcasting.</i> The idea is we want to send visual art over RSS 2.0 feeds. Photographs. Paintings. News. The consensus seems to be that we should use the <a href=\"https://cyber.harvard.edu/rss/rss.html#ltenclosuregtSubelementOfLtitemgt\">enclosure</a> element, as with podcasting. In this case, if the type begins with \"image/\" then an <i>artcast</i> viewer should handle it, and others should ignore it. We were at this place with podcasting in 2001, and needed some examples, so we had a feed of <a href=\"http://scripting.com/misc/fromDaveOfsCom/rss/gratefulDead.xml\">Grateful Dead music</a> to start using the technology. Here's the artcasting <a href=\"http://scripting.com/misc/artfeed.xml\">test feed</a>. Try subscribing to it in a feed reader you like. Hopefully it either ignores the enclosure or it does the right thing with it, displays it. Here's a <a href=\"https://github.com/scripting/Scripting-News/issues/278\">thread</a> for comments, questions and screen shots. ",
+            "created": "Fri, 17 Nov 2023 22:21:22 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2020/08/09/gary.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I think a basic hookup to a chatbot is going to become part of the \"textcasting\" spec pretty quickly. So far the best one I've seen is Guy Kawasaki's. I want to be able to ask for a list of things I've written on a given topic, and to be able to ask the questions in the same straightforward way I ask ChatGPT.  ",
+            "created": "Fri, 17 Nov 2023 16:21:17 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Polls are not news.",
+            "created": "Fri, 17 Nov 2023 15:10:25 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "November in NYC",
+            "created": "Sat, 18 Nov 2023 02:08:05 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "A photo I took on this day in 2015, in Central Park.",
+                    "created": "Sat, 18 Nov 2023 02:08:11 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/11/17/nycAutumnColors.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
