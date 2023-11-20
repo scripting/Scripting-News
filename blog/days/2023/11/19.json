@@ -1,0 +1,67 @@
+{
+    "created": "2023-11-19T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "19",
+    "path": "2023/11/19",
+    "text": "November 19",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://github.com/scripting/feedlandSupport/issues/225#issuecomment-1817878494\">Found and fixed</a> an error in the implementation of FeedLand's new reading lists feature. ",
+            "created": "Sun, 19 Nov 2023 14:57:42 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "One of the fundamental laws of programming. A problem that seems insurmountable often succumbs to a good night's sleep.",
+            "created": "Sun, 19 Nov 2023 13:46:11 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://colinwalker.blog/blog/?date=2023-11-19\">Brilliant post</a> about RSS from Colin Walker. I agree with all of it. When a protocol or format is much more complicated that it needs to be, there's usually a reason, the proponents want to say they're compatible and open without having actual <a href=\"http://scripting.com/2014/03/21/theWebIsMadeOfInterop.html\">interop</a>. ",
+            "created": "Mon, 20 Nov 2023 02:11:50 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, I read in a news article the other day that I developed iPodder, the first podcasting client in 2004. This is not true. The first podcasting client was <a href=\"https://en.wikipedia.org/wiki/Radio_UserLand\">Radio UserLand</a> in 2001. I did not write <a href=\"https://en.wikipedia.org/wiki/Juice_(aggregator)\">iPodder</a>, it was a community effort. ",
+            "created": "Mon, 20 Nov 2023 02:52:09 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I admire <a href=\"https://en.wikipedia.org/wiki/Jeff_Jarvis\">Jeff Jarvis</a> for his <a href=\"https://www.youtube.com/watch?v=0cHSYhafCQM\">spunk</a>, and on matters of journalism it's amazing how often I fully and enthusiastically agree with his point of view. But I have to just as strongly <a href=\"https://www.threads.net/@jeffjarvis/post/Cz068Apuycp\">disagree with him</a> about OpenAI, the company behind ChatGPT. I don't go for hype in tech, I'm very much a <a href=\"https://en.wikipedia.org/wiki/Missouri#Etymology_and_pronunciation\">Show Me</a> kind of guy. Every time I think of a new use for ChatGPT I'm blown away by what a <a href=\"http://scripting.com/2023/09/14/130813.html\">breakthrough</a> it is. Not just impressive tech, which it certainly is, but how incredibly useful it is. And how it understands my questions. And its infinite patience and good manners. I'm not trying to change Jeff's mind, but just to say I think my friend got this one wrong. ",
+            "created": "Sun, 19 Nov 2023 13:47:06 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/11/19/gutenberg.png",
+            "imageLink": "https://www.bloomsbury.com/us/gutenberg-parenthesis-9781501394829/",
+            "flInCalendar": true
+        },
+        {
+            "text": "Why worry about AI taking over from humans, we’ve led our species off a cliff, maybe it’s time to try another approach.",
+            "created": "Sun, 19 Nov 2023 15:03:20 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Silicon Valley board meeting",
+            "created": "Sun, 19 Nov 2023 20:57:35 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Imagine a Silicon Valley board meeting with a young entrepreneur wearing shorts and a baseball cap, drinking beer, while the investors are wearing ski vests and their attention is focused on their laptop screens.",
+                    "created": "Sun, 19 Nov 2023 20:57:45 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Silicon Valley board meeting.",
+                    "created": "Sun, 19 Nov 2023 20:58:08 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/11/19/siliconValleyBoardMeeting.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
