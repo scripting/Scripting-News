@@ -1,0 +1,62 @@
+{
+    "text": "I'd pay $10K up front",
+    "created": "Mon, 20 Nov 2023 18:35:10 GMT",
+    "type": "outline",
+    "description": "I'd buy 100 years of domain renewal, static storage, API so I can add to the archive as long as I'm writing. ",
+    "subs": [
+        {
+            "text": "<a href=\"https://twitter.com/photomatt/status/1724632370442391861\">Matt Mullenweg</a>: \"Sales of the 100-year plan so far: 0. Hundreds of people filled out the form, though. I think we really messed something up in the follow-up, including not making it self-serve to start. Will review and try again. It's an important promise to us.\"",
+            "created": "Mon, 20 Nov 2023 18:35:15 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm very much a customer for this service. It would be worth $10K for to buy 100 years of persistence for my web writing. A simple easy to understand service that helps get the process started. ",
+            "created": "Tue, 21 Nov 2023 01:02:07 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "I transfer <a href=\"http://scripting.com/\">scripting.com</a> to Automattic as registrar. ",
+                    "created": "Tue, 21 Nov 2023 01:02:40 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I upload the contents from S3 to Automattic server. Static files, HTML, feeds, images, code. ",
+                    "created": "Tue, 21 Nov 2023 01:03:17 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Automattic provides an API to keep the files updated and so I can add to them as long as I'm still writing.",
+                    "created": "Tue, 21 Nov 2023 01:03:48 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The files are publicly accessible over HTTP.",
+                    "created": "Tue, 21 Nov 2023 01:03:56 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Automattic agrees to renew the domain for 100 years, and manage access to the files, with reasonable limits and acts of god accounted for, etc.",
+                    "created": "Tue, 21 Nov 2023 01:04:05 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I pay you $10K on signing. ",
+                    "created": "Tue, 21 Nov 2023 01:04:20 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Why should you do it -- simple, easy benefit, i think you'd sell a lot of contracts, and you could start the business now, and get started serving customers and learning what they want, how they work, and get ideas for where to go next.",
+            "created": "Tue, 21 Nov 2023 01:04:33 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Dave",
+            "created": "Tue, 21 Nov 2023 01:04:36 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
