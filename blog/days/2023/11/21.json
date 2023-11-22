@@ -1,0 +1,67 @@
+{
+    "created": "2023-11-21T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "21",
+    "path": "2023/11/21",
+    "text": "November 21",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"http://news.scripting.com/\">news.scripting.com</a> is a big hit. It regularly gets more traffic than my blog. A sign that it's time for some rearranging. ",
+            "created": "Wed, 22 Nov 2023 02:49:02 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "ChatGPT was overloaded earlier this evening. I wrote: \"I'm losing my shit here. I feel as lost without it as I would have felt last year without Google. Anyway here's the question I need answered. 'working in javascript in the browser, a question about using localstorage. are there any rules about how much storage you can use? would 10MB be too much? 50MB?'\" Believe it or not my friend ChatGPT will have some advice about that and it'll be pretty good. You can't find that through a search engine, btw, which is why OpenAI is so important. ",
+            "created": "Tue, 21 Nov 2023 23:09:44 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "There's a flaw in the design of our social networks. The idea that there are \"conversations\" when actually many of the replies you get are spam. People trying to attach their name to something that they hope gets them attention and followers. So when someone addresses something to you it can be confusing, because they aren't actually talking to you, they're talking to the imagined thousands of people over your shoulder looking for some new tweeter or tooter or threader to adore. When it's actually mostly people looking for places to hang their own spam to catch other people's attention and followers. Is there anything actually going on there? Sadly, no. ",
+            "created": "Wed, 22 Nov 2023 02:45:56 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I got a <a href=\"https://twitter.com/photomatt/status/1727006889987424446\">response from Matt</a> to my offer of <a href=\"http://scripting.com/2023/11/20/183510.html\">$10K</a>. <a href=\"https://twitter.com/davewiner/status/1727086783878541776\">My response</a> to him. ",
+            "created": "Tue, 21 Nov 2023 22:43:22 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I added an item to the <a href=\"https://feedland.org/?feedurl=http%3A%2F%2Fscripting.com%2Fmisc%2Fartfeed.xml\">artcasting test feed</a>, and also added code in FeedLand to <a href=\"https://feedland.com/?river=http%3A%2F%2Fscripting.com%2Fmisc%2Fartfeed.xml#\">display them</a>. On an initial <a href=\"http://news.scripting.com/\">browse</a> around other feeds and collections, it seems a few are using the enclosure for images in artful ways. Some of it is spammy, of course. Should've seen that coming. Heh. But we limit the vertical space a feed item gets in the timeline, you can see the whole thing by clicking on it, and clicking again after having a look. If you want to create a genuine art feed, then I want to make it look great in FeedLand. And keep the more rude feeds manageable. If you're playing around with artcasting, let me know, I'd like to see how others are doing, and share interesting stuff with people who follow this feed.",
+            "created": "Tue, 21 Nov 2023 20:03:09 GMT",
+            "type": "outline",
+            "imageLink": "https://imgs.scripting.com/2023/11/21/artcastingSchematicAI.png",
+            "image": "https://imgs.scripting.com/2023/11/21/schematic.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I like to take a <a href=\"https://imgs.scripting.com/2023/11/21/artcastingOnOpeningDay.png\">screen shot</a> on opening day of a new feature.",
+            "created": "Tue, 21 Nov 2023 20:11:11 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A technology stack",
+            "created": "Wed, 22 Nov 2023 02:25:30 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "A hierarchy of nonsense. But it's the thought that counts. ❤️ ",
+                    "created": "Wed, 22 Nov 2023 02:25:36 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/11/21/technologyStack.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A creative diagram representing a technology stack as a building with multiple floors. At the bottom floor, label it 'TCP'. The next floor above should be labeled 'HTTP'. Above that, have a larger floor labeled 'RSS', with smaller adjacent floors labeled 'Atom' and 'ActivityPub'. The top two floors should be labeled 'Textcasting' and 'Artcasting' respectively. Surrounding the building, depict human-style animals like dogs, bears, owls, and hamsters, all dressed in business attire. Each of these characters should be holding signs with the names of tech companies like Google, Amazon, Tesla, and Salesforce.com. The diagram should illustrate the hierarchy and importance of each technology layer in the stack, with a whimsical and engaging representation.",
+                    "created": "Wed, 22 Nov 2023 02:29:34 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
