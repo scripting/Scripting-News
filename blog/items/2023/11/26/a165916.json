@@ -1,0 +1,6 @@
+{
+    "text": "<a href=\"https://imgs.scripting.com/2023/11/26/screenShotScriptingNewsPrototype.png\">Screen shot</a> of the latest prototype for the new Scripting News home page. It does the job I wanted it to do, presents in one user interface the content of my blog, linkblog, and several timelines from FeedLand. The previous version had the tab links <a href=\"http://scripting.com/2023/11/24/190107.html\">down the left edge</a>. I loved the way it looked on my desktop system, but then I tried it on my iPad, and realized it didn't work. Not enough horizonal real estate to pull it off. So I went back to the tabs-across-the-top format. I had to drop one of the tabs, and not use the nice Font-Awesome icons I used previously on Scripting News when there was <a href=\"https://imgs.scripting.com/2023/11/26/currentScriptingHome.png\">plenty of room</a>. The page is entirely assembled when you load it, so it only works with JavaScript turned on. ",
+    "created": "Sun, 26 Nov 2023 16:59:16 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
