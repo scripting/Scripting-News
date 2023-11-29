@@ -1,0 +1,28 @@
+{
+    "created": "2023-11-28T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "28",
+    "path": "2023/11/28",
+    "text": "November 28",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I spent today working on the plumbing of FeedLand-on-Automattic. Hopefully tomorrow I will get to work on more user-facing features.  ",
+            "created": "Wed, 29 Nov 2023 00:28:03 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/280\">A braintrust query</a> for implementors of <a href=\"http://scripting.com/stories/2009/09/08/whatDoesRsscloudMeanToYou.html\">rssCloud</a>. Do you ping only when an item is created, or every time it changes? ",
+            "created": "Tue, 28 Nov 2023 14:23:58 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://www.threads.net/@davew/post/C0MSucwMo-S\">Posted on Threads</a>: \"Replies are almost always spam, they aren't talking to the author (though technically they are), rather they are talking over the author's head, trying to reach the people who read the author's post. If this is what's really going on, surely we can come up with a more realistic structure/UI that doesn't even involve the author.\" ",
+            "created": "Tue, 28 Nov 2023 13:53:36 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
