@@ -1,0 +1,64 @@
+{
+    "created": "2023-11-29T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "29",
+    "path": "2023/11/29",
+    "text": "November 29",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I'm always doing test posts on this blog. This is one of those times. ",
+            "created": "Wed, 29 Nov 2023 20:25:26 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've heard ActivityPub described as <a href=\"http://scripting.com/2022/07/12/170955.html?title=twoWayRss\">two-way RSS</a>. If so, there are imho more direct ways to arrive at that. I think it's possible to create a federation system that takes a few days to implement. Maybe it doesn't need all the features they've put into ActivityPub. I'm pretty sure a lightweight social network is what's called for now. I know 20 different ventures have started up to do this, but isn't it weird that none of them have built on RSS. That's the only approach imho that has a chance of doing something unique here. I'd rather work with other people, but I'm not into replacing simplicity with something that's not very simple.",
+            "created": "Wed, 29 Nov 2023 13:57:20 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2020/08/04/melo.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm back on <a href=\"https://www.nytimes.com/games/wordle/\">Wordle</a>, having solved the puzzle every day for the last 36 days. It's training my mind -- I see patterns I wouldn't ordinarily see, because I spend as much as an hour or two every day looking for patterns in letters, and finding them, eventually. I wish at times my mind worked more like a computer. When their bot says \"there were only three possible solutions at that point\" -- I wish I could see what they are at each point, or at least know how many they are, if not what they are. The training has also helped my mind debug software. I'm not as daunted as I often am when there appears to be no solution to the problem I'm working on. I'm sure I'll find it eventually. ",
+            "created": "Wed, 29 Nov 2023 13:54:04 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "People who say Twitter is over aren't considering how vast it is. Same kind of situation as with Atom many years ago. It wasn't obvious how deeply installed RSS was, all the networks that had been created with it. It was basically impossible at that time to displace RSS. Anyway, same thing with Twitter today, no matter how vile <a href=\"https://gizmodo.com/elon-musk-tweets-pizzagate-conspiracy-pedo-epstein-1851053448\">the owner</a> of the network is. It has been around since 2006, a time of huge growth in networking, and it captured basically all of it. So if there's anyone you need to reach, and they're hooked up to the net, you almost certainly will be able to reach them on Twitter. This is another situation like Napster. Never have you had all the music of our civilization available so easily to so many people. We could have done so much with that. The most prudent thing to do with Twitter is to organize a buyout for Musk, and get him out of that position. We don't need to delete it, not that we could, we need to get Musk out of a position of control. ",
+            "created": "Wed, 29 Nov 2023 13:48:08 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "AI rendering of my blog spec",
+            "created": "Wed, 29 Nov 2023 16:12:52 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I'm finally happy with the next iteration of Scripting News. It'll be quite a bit simpler than what I demo'd over the weekend. ",
+                    "created": "Wed, 29 Nov 2023 16:13:01 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "For comic relief, I asked my friend ChatGPT, to draw a rendering of my new design, based on these instructions. ",
+                    "created": "Wed, 29 Nov 2023 16:13:41 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<i>i want you to draw me a picture of the user interface of my blog, scripting news, as i describe it here. there are four tabs: blog, links, bloggers and about. below the tabs is a display area, where the content of the selected tab is displayed. above the tabs, across the whole width of the window is an artistic picture, with the big letters SCRIPTING NEWS overlaying it. Just below is the site slogan, \"it's even worse than it appears.\" In your drawing the picture behind the letters should be of a hippie band playing in golden gate park. have fun!</i>",
+                    "created": "Wed, 29 Nov 2023 16:14:12 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "ChatGPT's rendering of the design.",
+                    "created": "Wed, 29 Nov 2023 16:14:21 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/11/29/chatgptscriptingdesignscreen.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
