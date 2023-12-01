@@ -1,0 +1,82 @@
+{
+    "text": "New Scripting News home page",
+    "created": "Thu, 30 Nov 2023 16:18:22 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "It's been five years since I re-did the Scripting News home page. It was overdue. The new version isn't all that different on the surface from the previous version, here's a list of things to look at.",
+            "created": "Thu, 30 Nov 2023 16:18:30 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "Blog, the first tab, becomes <a href=\"http://scripting.com/?tab=dave\">Dave</a>. ",
+                    "created": "Thu, 30 Nov 2023 16:19:18 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The News tab now is named <a href=\"http://scripting.com/?tab=bloggers\">Bloggers</a> and it does something different, more on that in a bit.",
+                    "created": "Thu, 30 Nov 2023 16:19:32 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The tabs work better, the pages aren't reloaded when you click on one of the tabs, but the URL in your browser's address bar changes, so you can bookmark it and go directly to the page you're interested in. And the browser Back button works as you would expect. ",
+                    "created": "Thu, 30 Nov 2023 16:19:48 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "The big change under the covers is that it hooks into \"FeedLand\" on its own. When you're reading the <a href=\"http://scripting.com/?tab=bloggers\">Bloggers tab</a>, you're reading content that came directly from the new Automattic-hosted FeedLand server. ",
+            "created": "Thu, 30 Nov 2023 16:20:39 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The <a href=\"https://feedland.com/opml?screenname=davewiner&catname=bloggers\">list of feeds</a> behind the Bloggers tab right now are just placeholders. We're going to work with other sources, using reading lists, to create a news flow from blogs that we think are interesting, along with what other people think are interesting. How this will develop is not yet clear, but we are going to work on this. When I say \"we,\" I mean <a href=\"https://cagrimmett.com/\">Chuck Grimmett</a> and myself and others at Automattic. This is the kind of stuff they do for WordPress users, so it fits right in imho with our respective skills.",
+            "created": "Thu, 30 Nov 2023 16:21:24 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Speaking for myself, I want to engage with more bloggers. We used to have something, and I think we can again. ",
+            "created": "Thu, 30 Nov 2023 16:23:28 GMT",
+            "image": "https://imgs.scripting.com/2023/11/30/goodhumortruck.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "We're putting a lot of development behind this. FeedLand has been in development for almost three freaking years. This last year has been spent turning corners, and building out features so they can scale to Automattic-level flow. And adding one major new kickass feature to the world of feeds -- reading lists. The ability to subscribe to lists of feeds. We're going to use that in a lot of places. I wanted to get that in the product before we started using it. And it's in, and it works. There are still a few glitches to work out, you know -- software can always work better than it does. :smile:",
+            "created": "Thu, 30 Nov 2023 16:23:48 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "All I can say is we're getting there. Today's FeedLand does a lot more and works a lot better than last year's. ",
+            "created": "Thu, 30 Nov 2023 16:25:35 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "And now Scripting News is part of that. So we'll be able to make the new stuff more visible, by using it here in this site. ",
+            "created": "Thu, 30 Nov 2023 16:25:52 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<i>Still diggin!</i>",
+            "created": "Thu, 30 Nov 2023 16:26:17 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "As they say. ",
+            "created": "Thu, 30 Nov 2023 16:26:19 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "\"curly\"",
+            "created": "Thu, 30 Nov 2023 16:26:22 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "PS: <a href=\"http://news.scripting.com/\">news.scripting.com</a> is still there and updating as before. ",
+            "created": "Thu, 30 Nov 2023 16:31:41 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
