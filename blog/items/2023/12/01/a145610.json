@@ -1,0 +1,6 @@
+{
+    "text": "Remember <a href=\"https://chat.openai.com/share/786af3a9-c35c-499f-8e97-f4b7017415ab\">Bingeworthy</a>? It fell off the air when Twitter blew up their API. I keep wanting it back, because I keep watching shows that should be in its database. I miss it. Then I realized it's not that different from the <a href=\"https://defaults.rknight.me/\">group of explorers</a> who are putting their app choices into feeds. The Bingeworthy database is people, shows and ratings. The simplest relational database possible. It would be easy to represent each user as a feed, where each item is a rating. The link for each item would be a pointer to the Metacritic page. And then give each feed a category of <i>bingeworthy. </i>From there, we explore.  BTW, this is the <a href=\"https://gist.github.com/scripting/a5b3ac43939954c4af6759a9ce27989f\">SQL code</a> that creates the BW database. ",
+    "created": "Fri, 01 Dec 2023 14:56:10 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
