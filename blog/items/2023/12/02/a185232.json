@@ -1,0 +1,7 @@
+{
+    "text": "This is the stupidest thing ever. We've had a bit of trouble with the implementation of <a href=\"http://scripting.com/opmlHowto/dave/rssCloud/walkthrough/publisher.html\">rssCloud</a> on the new Automattic-hosted server, the pings to coming from one server in particular. We did finally get to the bottom of it and all of a sudden it's working. Except for <a href=\"http://scripting.com/rss.xml\">Scripting News</a>. I added debugging code, stared at server logs, and scratched my head, until I decided to check if I was subscribed to the <a href=\"https://feedland.com/?feedurl=http%3A%2F%2Fscripting.com%2Frss.xml\">freaking feed</a>. I wasn't. Once I fixed that little oversight, it's all <a href=\"https://imgs.scripting.com/2023/12/02/itworked.png\">working</a>, nice and fast. Sometimes the bug is in your brain not in the software. :smile:",
+    "created": "Sat, 02 Dec 2023 18:52:32 GMT",
+    "type": "outline",
+    "image": "https://imgs.scripting.com/2023/11/30/curly.png",
+    "flInCalendar": true
+}
