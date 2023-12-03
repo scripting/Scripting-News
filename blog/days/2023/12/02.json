@@ -1,0 +1,63 @@
+{
+    "created": "2023-12-02T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "02",
+    "path": "2023/12/02",
+    "text": "December 02",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=Hg-ILjqbKT4\">Rockin' Chair</a>.",
+            "created": "Sat, 02 Dec 2023 19:14:58 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"http://scripting.com/2023/12/02/whatIsElonMuskDoing.m4a\">Podcast</a>: What is <a href=\"https://www.google.com/search?q=elon+musk+shut+the+fuck+up\">Elon Musk</a> doing? There's value in Twitter that goes beyond the balance sheet and share price. I saw the opportunity in <a href=\"http://scripting.com/2017/01/14/whatIfTwtrIsBoughtByARepub.html\">January 2017</a>, a few days before Trump was <a href=\"https://en.wikipedia.org/wiki/Inauguration_of_Donald_Trump\">inaugurated</a>. Twitter had just elected a president. What is the dollar value of that? In the hands of someone who knows how to squeeze money from the US government, as Musk surely does (and Trump had no idea) -- it could be worth many more billions than he paid for Twitter.",
+            "created": "Sat, 02 Dec 2023 16:50:38 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2023/12/02/whatIsElonMuskDoing.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "3080321",
+            "image": "https://imgs.scripting.com/2023/12/02/whiteRabbitFromAliceInWonderland.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "You can live in places where people do awful disgusting things, I know, I've lived in New Orleans, Berkeley and NYC. Twitter is so huge, this idea that it could disband just like that, well it isn't happening. Maybe it's time for us to say clearly what we expect of a social network and try to influence how they run them. We have these great tools for organizing, one of these days we're going to use them for good, in a serious way. And at this point the users have a lot of power relative to what we've had in the past. ",
+            "created": "Sat, 02 Dec 2023 16:00:59 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm cleaning up some loose-ends in the Scripting News redesign, esp in the phone version. After that, I'm going to start applying the same techniques to FeedLand on phones. Our timelines look fine in that context, here's a <a href=\"https://imgs.scripting.com/2023/12/02/scriptingMobileScreenshot.png\">screen shot</a>. ",
+            "created": "Sat, 02 Dec 2023 16:03:49 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I also updated the <a href=\"http://scripting.com/?tab=about\">About tab</a>, to be a bit more current. ",
+            "created": "Sat, 02 Dec 2023 16:56:00 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "This is the stupidest thing ever. We've had a bit of trouble with the implementation of <a href=\"http://scripting.com/opmlHowto/dave/rssCloud/walkthrough/publisher.html\">rssCloud</a> on the new Automattic-hosted server, the pings to coming from one server in particular. We did finally get to the bottom of it and all of a sudden it's working. Except for <a href=\"http://scripting.com/rss.xml\">Scripting News</a>. I added debugging code, stared at server logs, and scratched my head, until I decided to check if I was subscribed to the <a href=\"https://feedland.com/?feedurl=http%3A%2F%2Fscripting.com%2Frss.xml\">freaking feed</a>. I wasn't. Once I fixed that little oversight, it's all <a href=\"https://imgs.scripting.com/2023/12/02/itworked.png\">working</a>, nice and fast. Sometimes the bug is in your brain not in the software. :smile:",
+            "created": "Sat, 02 Dec 2023 18:52:32 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/11/30/curly.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, this is what \"Scripting News\" looks like <a href=\"https://feedland.com/?river=http%3A%2F%2Fscripting.com%2Frss.xml#\">in FeedLand</a>. ",
+            "created": "Sat, 02 Dec 2023 19:00:40 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "If I could devote myself fulltime to AI development, first thing I'd do is teach a bot how to generate CSS with high level commands from me. After 15 years of wrangling CSS, I still create messes that are impossible to unravel, the only way to fix it is to start over, and then that gets out of control, and on and on. It would take some patience to establish some basic design patterns, but once designed I could say things like \"a little less margin on top of the tabs\" and boom that would happen. ",
+            "created": "Sat, 02 Dec 2023 15:32:25 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
