@@ -1,0 +1,41 @@
+{
+    "text": "Whatever verse you like",
+    "created": "Sun, 03 Dec 2023 20:36:33 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I wrote this as a <a href=\"https://social.masto.land/@dave/111517322418415422\">Mastodon post</a> to a bunch of people who somehow I got cc'd to. I figured I should share it here too. ",
+            "created": "Sun, 03 Dec 2023 20:38:10 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "Let's start with feeds and build as much of a Mastodon as we can, without inventing anything new and see what we come up with.",
+                    "created": "Sun, 03 Dec 2023 20:36:48 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "That way we know at every step we're standing on a solid foundation of interop.",
+                    "created": "Sun, 03 Dec 2023 20:37:15 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "At the same time invest in the feed support of every contender, no matter what \"verse\" its part of. ",
+                    "created": "Sun, 03 Dec 2023 20:37:20 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "John Spurlock has done an exemplary implementation of RSS 2.0 feeds for Bluesky. That <a href=\"https://rss.firesky.tv/?filter=from:scripting.com\">format</a> should be copied everywhere. He did it in about a week in July and it's great. We're building all kinds of stuff on it. Wish it were in Mastodon, and wish Bluesky would bake it in.",
+                    "created": "Sun, 03 Dec 2023 20:37:25 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Forget about clubs, what we want is interop, maximally as widely as possible to force the silos to get on board. They won't unless they have to.",
+                    "created": "Sun, 03 Dec 2023 20:37:59 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
