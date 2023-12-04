@@ -1,0 +1,156 @@
+{
+    "created": "2023-12-03T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "03",
+    "path": "2023/12/03",
+    "text": "December 03",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "\"Wait and see what happens\" is a losing strategy. By the time you figured out what happened, if you ever do, it's too late.  ",
+            "created": "Sun, 03 Dec 2023 16:41:30 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Whatever verse you like",
+            "created": "Sun, 03 Dec 2023 20:36:33 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I wrote this as a <a href=\"https://social.masto.land/@dave/111517322418415422\">Mastodon post</a> to a bunch of people who somehow I got cc'd to. I figured I should share it here too. ",
+                    "created": "Sun, 03 Dec 2023 20:38:10 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Let's start with feeds and build as much of a Mastodon as we can, without inventing anything new and see what we come up with.",
+                            "created": "Sun, 03 Dec 2023 20:36:48 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "That way we know at every step we're standing on a solid foundation of interop.",
+                            "created": "Sun, 03 Dec 2023 20:37:15 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "At the same time invest in the feed support of every contender, no matter what \"verse\" its part of. ",
+                            "created": "Sun, 03 Dec 2023 20:37:20 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "John Spurlock has done an exemplary implementation of RSS 2.0 feeds for Bluesky. That <a href=\"https://rss.firesky.tv/?filter=from:scripting.com\">format</a> should be copied everywhere. He did it in about a week in July and it's great. We're building all kinds of stuff on it. Wish it were in Mastodon, and wish Bluesky would bake it in.",
+                            "created": "Sun, 03 Dec 2023 20:37:25 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Forget about clubs, what we want is interop, maximally as widely as possible to force the silos to get on board. They won't unless they have to.",
+                            "created": "Sun, 03 Dec 2023 20:37:59 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "What about the Fediverse?",
+            "created": "Sun, 03 Dec 2023 21:25:37 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "\"Fediverse\" is another kind of silo.",
+                    "created": "Sun, 03 Dec 2023 21:25:47 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Our social media apps should be rising up out of feeds to interop with each other now, not sometime in the future.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "By then Facebook (or Meta or Threads) will own us as much as Twitter did. ",
+                    "created": "Sun, 03 Dec 2023 21:30:03 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Doc & FeedLand & artcasting",
+            "created": "Sun, 03 Dec 2023 19:28:21 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I pinged Doc the other day saying he should do an artcasting feed. ",
+                    "created": "Sun, 03 Dec 2023 19:28:29 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Doc is in addition to being a prodigious blogger, also is a photo taker and story teller, so he is perfect for artcasting.",
+                    "created": "Sun, 03 Dec 2023 19:28:46 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I was then going to think about what would be the easiest way to get him going, and quickly realized the fastest way is Bluesky because <a href=\"https://www.google.com/search?q=site%3Ascripting.com+spurlock\">John Spurlock</a> did it right and his feeds coming out of Bluesky are totally artcasting-compatible. Just like that. (Artcasting is one of those cases where almost everyone was doing it the right way. Absolutely no one invented it, it was just obvious how it should work, obvious to enough people.)",
+                    "created": "Sun, 03 Dec 2023 19:29:06 GMT",
+                    "image": "https://imgs.scripting.com/2017/07/29/doc.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But I wanted to talk about it with A8C people first, because it's also an opportunity to support it in WordPress, or to create a small app that interfaces to WordPress, so it can lead here too. But Doc beat me to it, he posted a <a href=\"https://bsky.app/profile/dsearls.bsky.social/post/3kfnwb6dbf72b\">beautiful picture</a> of a building site his new hometown to Bluesky, and it appeared in <a href=\"https://rss.firesky.tv/?filter=from:dsearls.bsky.social\">his RSS 2.0 feed</a>, and of course it <a href=\"https://feedland.com/?river=https%3A%2F%2Frss.firesky.tv%2F%3Ffilter%3Dfrom%3Adsearls.bsky.social\">showed</a> <a href=\"https://feedland.com/?item=594431\">up</a> <a href=\"https://feedland.com/?feedurl=https%3A%2F%2Frss.firesky.tv%2F%3Ffilter%3Dfrom%3Adsearls.bsky.social\">in FeedLand</a> when I subscribed to his feed. ",
+                    "created": "Sun, 03 Dec 2023 19:30:05 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So I added it to my collection of artcasting feeds, and the <a href=\"https://lists.feedcorps.org/artshow.opml\">new version</a> is now <a href=\"https://feedland.com/?readinglist=https%3A%2F%2Flists.feedcorps.org%2Fartshow.opml\">available</a> on <a href=\"https://feedland.com/?feedcorps=true\">FeedCorps</a> and his name shows up in the list in the <a href=\"https://artshow2.scripting.com/\">artshow app</a>. ",
+                    "created": "Sun, 03 Dec 2023 19:31:28 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This is how we do it, keep turning the wheel.",
+                    "created": "Sun, 03 Dec 2023 19:32:06 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Interop my friends. ",
+                    "created": "Sun, 03 Dec 2023 19:37:17 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Feed Info for phones",
+            "created": "Sun, 03 Dec 2023 22:13:20 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I've been working on the mobile version of FeedLand. ",
+                    "created": "Sun, 03 Dec 2023 22:13:35 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<img src=\"https://imgs.scripting.com/2023/12/03/mobileScreenShot1.png\">",
+                    "created": "Sun, 03 Dec 2023 22:14:00 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This is very much a snapshot in time. Lots more tweaking coming. ;-) ",
+                    "created": "Sun, 03 Dec 2023 22:14:46 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I want to do some more reduction on the menubar at the top. ",
+                    "created": "Sun, 03 Dec 2023 22:15:08 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://imgs.scripting.com/2023/12/03/timelinescreen.png\">Timelines</a> and <a href=\"https://imgs.scripting.com/2023/12/03/feedlistscreen.png\">feed lists</a> have been converted. ",
+                    "created": "Sun, 03 Dec 2023 22:15:19 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
