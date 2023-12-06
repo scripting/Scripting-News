@@ -1,0 +1,34 @@
+{
+    "created": "2023-12-05T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "05",
+    "path": "2023/12/05",
+    "text": "December 05",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://feedland.com/?river=true&screenname=davewiner\">This is how I read my news</a>. In FeedLand most pages are public. ",
+            "created": "Tue, 05 Dec 2023 20:11:10 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you've been reading <a href=\"http://news.scripting.com/\">news.scripting.com</a> and only want one panel (as some people do), you can bookmark just that panel. For example, this is the <a href=\"https://feedland.com/?river=true&screenname=davewiner&catname=tech\">link</a> for my Tech news category. Or the Bloggers tab on Scripting News can be accessed directly in FeedLand <a href=\"https://feedland.com/?river=true&screenname=davewiner&catname=bloggers\">like this</a>. \"By category\" is just one way FeedLand can display a timeline of news. ",
+            "created": "Tue, 05 Dec 2023 20:49:43 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, we care when an item changes, so if we see the text has changed, or a link has been added, or an image enclosure, we update the database and update the rendering on-screen. ",
+            "created": "Tue, 05 Dec 2023 20:57:48 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "We're thinking about different ways to render art. For example, <a href=\"https://feedland.com/?river=true&screenname=davewiner&catname=art\">this is news</a> from my Art category. I could see this kind of timeline feeding another kind of image viewer app, maybe something running on a kiosk or in a store window.  ",
+            "created": "Tue, 05 Dec 2023 21:00:08 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
