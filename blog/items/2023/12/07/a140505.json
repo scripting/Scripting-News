@@ -1,0 +1,84 @@
+{
+    "text": "Why we want feeds in Bluesky",
+    "created": "Thu, 07 Dec 2023 14:05:05 GMT",
+    "type": "outline",
+    "description": "Feeds should be the baseline of compatibility between social media platforms.",
+    "subs": [
+        {
+            "text": "My old friend <a href=\"https://www.google.com/search?q=site%3Ascripting.com+%22chuck+shotton%22\">Chuck Shotton</a> just <a href=\"https://bsky.app/profile/mrwheat.bsky.social\">showed up</a> on Bluesky. ",
+            "created": "Thu, 07 Dec 2023 14:05:13 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I love Chuck. We've been through a lot together over a long time. ",
+            "created": "Thu, 07 Dec 2023 14:05:28 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "We had a ton of fun in the early days of the web on the Mac. Chuck wrote the HTTP server we all used. And he loved Frontier, so we made our products work incredibly well together. ",
+            "created": "Thu, 07 Dec 2023 14:05:40 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Those were the days! :smile:",
+            "created": "Thu, 07 Dec 2023 14:14:37 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Anyway, of course I immediately followed Chuck in Bluesky, but then I realize, I can also follow him <a href=\"https://feedland.com/?feedurl=https%3A%2F%2Frss.firesky.tv%2F%3Ffilter%3Dfrom%3Amrwheat.bsky.social\">in FeedLand</a> because thanks to John Spurlock, <a href=\"https://rss.firesky.tv/?filter=from:mrwheat.bsky.social\">we have feeds</a> for every freaking Bluesky user. ",
+            "created": "Thu, 07 Dec 2023 14:06:13 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://www.google.com/search?q=site%3Ascripting.com+spurlock\">Spurlock</a> is a gifted programmer, like Chuck, who thinks creatively and doesn't mind priming the pump of a bootstrap, something Chuck and I have done many times in the past. (Chuck is an largely uncredited contributor to the bootstraps of RSS, XML-RPC, podcasting, object databases, content management systems, hey pretty much everything I've worked on since 1994 or so.)",
+            "created": "Thu, 07 Dec 2023 16:09:19 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Okay, now I get to the point. ",
+            "created": "Thu, 07 Dec 2023 14:08:11 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I want to build with confidence on the feed connection with Bluesky. Today I know the ability to <a href=\"https://feedland.com/?feedurl=https%3A%2F%2Frss.firesky.tv%2F%3Ffilter%3Dfrom%3Ascripting.com\">subscribe</a> to a <a href=\"https://rss.firesky.tv/?filter=from:scripting.com\">Bluesky RSS 2.0 feed</a> is there, but will it be there in the future? I would feel better if the feed support were built-into Bluesky, part of its basic feature set. Another very simple API that gets ideas out of Bluesky and anywhere feeds go, which is, as you know, everywhere. ",
+            "created": "Thu, 07 Dec 2023 14:08:21 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Feeds should be the baseline of compatibility between social media platforms. ",
+            "created": "Thu, 07 Dec 2023 14:09:34 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Working with Spurlock, we have given Bluesky a huge headstart, a lead in what I hope will be a race to feed support in all the social media apps, to hook them up to the worldwide feed bus. It's a way to get interop without having to concede that any comprehensive API is the winner. Think of RSS 2.0 support at the TCP of social networking, offering a <a href=\"https://en.wikipedia.org/wiki/Lowest_common_denominator\">LCD</a> compatibility to a world that desperately needs one. ",
+            "created": "Thu, 07 Dec 2023 14:09:59 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "And then after we have that, we can talk about the format of the data we're sending over this network. We have some work to do there too, but luckily the capabilities and limits of RSS 2.0 are a perfect match here. ",
+            "created": "Thu, 07 Dec 2023 14:11:19 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "In summary, the reason we want it is so we can do more with confidence with Bluesky, integrate it into more systems. ",
+            "created": "Thu, 07 Dec 2023 14:12:03 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The reason the Bluesky people should want it is that it offers a way to interop with all social nets, that will take almost no effort on their part, and there's no guesswork, we already know how to make feeds that will work pretty much everywhere, and it lets them take the lead in what will be an important way to communicate on the net. ",
+            "created": "Thu, 07 Dec 2023 14:12:24 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "And the reason it's good for all of us is we can start viewing the web once again as a fully supported writing environment, and let the writers of the world get to work on solving all our problems (of which we have many) and get the freaking technology out of their way. ",
+            "created": "Thu, 07 Dec 2023 14:13:19 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Think of it as the feed-iverse, it's easier and more low-level than the fed-iverse, and can be implemented in a weekend. And it's fun! ",
+            "created": "Thu, 07 Dec 2023 14:16:55 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
