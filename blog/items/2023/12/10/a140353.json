@@ -1,0 +1,46 @@
+{
+    "text": "How we got here",
+    "created": "Sun, 10 Dec 2023 14:03:53 GMT",
+    "type": "outline",
+    "description": "The idea of FeedLand is to see what would happen if instead of building something complicated around conversations, we limited ourselves to what feeds could do and then see where we could go with that. ",
+    "subs": [
+        {
+            "text": "First an apology. To all the people who clicked on a <a href=\"https://feedland.com/?river=true&screenname=davewiner\">link</a> to a FeedLand page on a phone in the past, I am sorry to have put you through that. Now that it works on phones, I can see how nice it is to be able to skim the news while you're out and about. ",
+            "created": "Sun, 10 Dec 2023 14:03:57 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "When you're working alone on a huge product like this, you have to keep your head down and focus on the problem of the moment. There have been some huge ones this year. The product's identity system had to be replaced, while people were using it, because Twitter was getting ready to explode their API. Then the move from a Digital Ocean server to the <a href=\"https://docs.wpvip.com/technical-references/node-js/\">Automattic VIP server</a> required fairly large pieces of the software to be rewritten, again, in-place, while feedland.org continued to run. There's a huge change between writing software for a server where the runtime environment doesn't include local storage. Everything has to be stored in a database. ",
+            "created": "Sun, 10 Dec 2023 14:13:04 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "All the pieces were rewritten, one by one, until we discovered another that needed to be rewritten. And then at almost the last minute I <a href=\"http://scripting.com/2023/10/09/135922.html\">decided</a> we had to have <a href=\"http://scripting.com/2023/10/21/143159.html\">reading lists</a>, because of the kind of feed network I wanted to build with this product. And one more thing, let's get this mofo working on mobile devices as it was meant to, which turned out to be not as hard as I imagined, and very nice to have. ",
+            "created": "Sun, 10 Dec 2023 14:14:01 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The new version of the software with all the new code turned on is at <a href=\"https://feedland.com/\">feedland.com</a>. That's the version that's running on Automattic's servers, and should be able to scale to far more users. The docs aren't converted yet, but the software is basically the same. You should read the <a href=\"http://docs.feedland.org/firstThings.opml\">first page</a> of the docs, at least, so you aren't surprised to find out that your subscriptions are public. This is not the usual kind of feed product, it's more of a community of news users. Just like a social network, you can see what other people are reading. The idea of FeedLand is to see what would happen if instead of building something complicated around conversations, we limited ourselves to what feeds could do and then see where we could go with that. That's what FeedLand is. ",
+            "created": "Sun, 10 Dec 2023 14:09:35 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "PS: I can't believe how fast Automattic's system is. I don't understand how it does all that work in so little time. ",
+            "created": "Sun, 10 Dec 2023 14:23:48 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "PPS: The menus are different on the mobile version, by necessity. I included the Bookmarks menu, it's really important to have the news you want to read available one click away in mobile. I imagine doing setup on your home computer, with links you'll use when you're using the mobile version. ",
+            "created": "Sun, 10 Dec 2023 14:25:46 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The mobile-ready <a href=\"https://feedland.com/\">FeedLand</a> is ready to use.  ",
+            "created": "Sun, 10 Dec 2023 13:53:34 GMT",
+            "type": "outline",
+            "inlineImage": "https://imgs.scripting.com/2023/12/10/feedlandScreen1.png",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
