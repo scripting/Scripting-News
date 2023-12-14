@@ -1,0 +1,7 @@
+{
+    "text": "I miss \"Frontier\" so much. Debugging its database was several orders of magnitude less work than the Node+SQL setup where the runtime and the database are very far apart. In Frontier the database and the language are the same thing. And because Frontier did the rational thing with synchronization, it was handled in the kernel, the code you write doesn't have to worry about it, you can write reasonably readable code. In Node it's a real chore to come back to some code you worked on last a while back. Makes my mind tired, but I do it, because it's where I work now. ",
+    "created": "Wed, 13 Dec 2023 16:15:29 GMT",
+    "type": "outline",
+    "image": "https://imgs.scripting.com/2019/12/26/frontier.png",
+    "flInCalendar": true
+}
