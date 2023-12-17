@@ -1,0 +1,6 @@
+{
+    "text": "I'm starting to scope out if it would be possible to create an Electron version of FeedLand. I had a <a href=\"https://chat.openai.com/share/e825efea-c271-4c24-8594-01a03c21f3af\">conversation</a> with ChatGPT about that. We did not arrive at a plan. FeedLand uses MySQL, I can't convert to another SQL, we have to use the same codebase in all versions. If, after reading the chat, you have ideas, please post a note <a href=\"https://github.com/scripting/Scripting-News/issues/282\">here</a>.  ",
+    "created": "Sat, 16 Dec 2023 15:49:22 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
