@@ -1,0 +1,6 @@
+{
+    "text": "One interesting way to make our feed readers smarter about working with Mastodon and Bluesky is to do the same kind of mapping from account to feed we do with sites that support <a href=\"http://scripting.com/stories/2011/12/17/rssAutodiscovery.html\">feed discovery</a>. When we see the user is trying to subscribe to a Mastodon account, we know where its feed is, so subscribe to that. Same for Bluesky. I expect we'll do that for FeedLand via the <a href=\"https://github.com/scripting/reallysimple/tree/main/demos/feedhunter\">FeedHunter package</a>. ",
+    "created": "Mon, 18 Dec 2023 03:55:20 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
