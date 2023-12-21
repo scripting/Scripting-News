@@ -1,0 +1,70 @@
+{
+    "created": "2023-12-20T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "20",
+    "path": "2023/12/20",
+    "text": "December 20",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "If we had met in the late 80s and early 90s and we were talking about where technology should go next, I would have talked endlessly about creating apps out of apps. It means being able to write scripts that use an application as a scriptable toolbox, going behind the user interface. I was developing a product around that idea called Frontier. It all happened, and played a big role in making the Mac the ideal development platform for the web when it came along, in the early-late 90s. Unfortunately <a href=\"https://en.wikipedia.org/wiki/Steve_Jobs\">Apple's top people</a> didn't get this, and wiped out the whole developer community in one press conference. The ideas were still useful and we're using them every day, but not really aware of it. End of speech.",
+            "created": "Wed, 20 Dec 2023 15:02:30 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2003/10/20/siteScriptedWithFrontier.gif",
+            "flInCalendar": true
+        },
+        {
+            "text": "I asked ChatGPT for a <a href=\"https://chat.openai.com/share/8df0889c-4475-4634-ab2c-9f5b0c3785bb\">list of Motown songs</a> with a strong fast beat good for dancing. Now I want to play the list in Amazon music. Is there a way to do this? ",
+            "created": "Wed, 20 Dec 2023 15:07:01 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Technical note: I've observed that GMail is refusing to show the images on my nightly emails, when <a href=\"https://imgs.scripting.com/2023/12/20/brokenImage.png\">viewed</a> on my iPad, both in the Safari browser and in the iOS GMail app. I'd like to know if this is happening for other people, and then run an experiment to see if we can figure out what it is they don't like about the images. Here's a <a href=\"https://github.com/scripting/Scripting-News/issues/283\">place</a> to comment. ",
+            "created": "Wed, 20 Dec 2023 14:10:08 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "After all the disappointments in our country's response to Homegrown Hitler from Queens, a personality I recognize from the neighborhood I grew up in which is just <a href=\"https://www.google.com/maps/dir/29-31+170th+Street,+Queens,+NY/85-15+Wareham+Pl,+Queens,+NY+11432/@40.7433231,-73.8089171,14z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89c28a8078136589:0xcdf1c8651455269a!2m2!1d-73.7948746!2d40.7696367!1m5!1m1!1s0x89c2611ad4d2c6a5:0xfe60c1b9262c3e04!2m2!1d-73.7858208!2d40.7170272!3e2?entry=ttu\" title=\"via Utopia Parkway\">four miles</a> from <a href=\"https://en.wikipedia.org/wiki/85-15_Wareham_Place\">where</a> Trump grew up, what a nice unexpected surprise that one holiday season Tuesday night, I'd turn on the news on MSNBC at the exact moment the host says \"Hold on, breaking news\" (I sighed, no it's not) only to learn yes, it was. The state of Colorado had decided to use one of the <a href=\"https://wapo.st/3TBQQw3\">guardrail</a> buttons to extinguish the candidacy of HH, just like that. This morning I woke with a smile on my face and thought, hey it could happen, it <i>should</i> happen. If the Supreme Court doesn't want to become the <a href=\"https://theprint.in/opinion/how-judiciary-helped-hitler-and-stalin-in-destroying-political-opposition/285057/\">Nazi-style</a> ratifier of a holocaust, this is their moment to act. It's possible they'll decide that the Constitution applies to every officer of the United States government except the president and vice-president, I'd love to hear the reason, and if they do, we'll know that we've already lost. ",
+            "created": "Wed, 20 Dec 2023 13:53:41 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2020/11/26/uncleSam.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "If journalism wants to help inform the populace of the stakes, I'd like them to stop using the term neo-Nazi. There's nothing new about being a Nazi. It adds a tiny bit of confusion at exactly the point where you want zero confusion. It took journalism a long time to use the term insurrection about the January 6 events, that hurt us too. Understand where the path we're on leads, and don't give people a reason to hope that it's not as serious as it is. ",
+            "created": "Wed, 20 Dec 2023 14:05:29 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "They're letting us have RSS",
+            "created": "Wed, 20 Dec 2023 15:21:27 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Assume that FB doesn't really want to interop, so that's why there's a year timeline on developing AP functionality. No rush. Let's keep growing and later on we can have an app store that only lets certain sites into our world, subject to our turning them off at any time. ",
+                    "created": "Wed, 20 Dec 2023 15:21:34 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Assuming this is true, RSS is their worst nightmare. It's implemented in a week, if you're really careful and there are good toolkits for every platform, and lots of developers know what to do with it, and even worse, there already is a huge installed base of such apps and they all have <a href=\"https://en.wiktionary.org/wiki/vociferous\">vociferous</a> users who would be thrilled to be heard, because they largely feel like they're pissing in the wind. ",
+                    "created": "Wed, 20 Dec 2023 23:11:27 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Remember they said RSS is Dead. I always felt that was aimed at me, but it was aimed at them too, even more so.",
+                    "created": "Wed, 20 Dec 2023 23:11:34 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The thing to do, build -- intelligently, slowly, showing interop at every step. Watch out for people who take stuff out with out putting back. ",
+                    "created": "Wed, 20 Dec 2023 15:21:52 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
