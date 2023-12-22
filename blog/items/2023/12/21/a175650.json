@@ -1,0 +1,56 @@
+{
+    "text": "ChatGPT is my CSS advisor",
+    "created": "Thu, 21 Dec 2023 17:56:50 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "People who don't program must not have any idea how much of a boon ChatGPT is to us programmers. ",
+            "created": "Thu, 21 Dec 2023 17:57:28 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I am doing <a href=\"https://www.w3schools.com/css/\">CSS</a> coding far in advance of my previous capability. When I know something is possible, but I haven't the slightest idea how to specify it, I just ask, in my own words. ",
+            "created": "Thu, 21 Dec 2023 17:57:50 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "For example, a very common thing to want to do is to put a : after the text in the first column every row of a table. ",
+            "created": "Thu, 21 Dec 2023 17:58:19 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "So I <a href=\"https://chat.openai.com/share/b19c1c8d-3e19-4039-86aa-803eb7cf46d6\">asked ChatGPT</a> how to do it, in English, as I did above. This is what it came up with:",
+            "created": "Thu, 21 Dec 2023 17:54:03 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<code>tr td:first-child::after {content: \":\";}</code>",
+                    "created": "Thu, 21 Dec 2023 17:55:57 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "When you see it like that you can almost figure out what's going on if you squint and close one eye. ",
+            "created": "Thu, 21 Dec 2023 17:58:45 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "And it works. I literally shrieked when it did. ",
+            "created": "Thu, 21 Dec 2023 17:58:57 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Now I am the boss of CSS.. ",
+            "created": "Thu, 21 Dec 2023 17:59:09 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Nice.",
+            "created": "Thu, 21 Dec 2023 17:59:21 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
