@@ -1,0 +1,25 @@
+{
+    "text": "Conversation vs publishing",
+    "created": "Fri, 22 Dec 2023 15:41:33 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Conversation has a place, but I think we've explored that pretty well, and now I want to create better publishing and reading systems, that are as fast as social web systems, but place less emphasis on replies that can be seen by everyone, because that often is not really conversation, it's spam. ",
+            "created": "Fri, 22 Dec 2023 15:28:45 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I think ultimately we'll be disappointed with federation for all the reasons we're frustrated with earlier social web systems. People trying to get attention for their ideas, which often are spam or trolling. I also think this means RSS will be more valuable going forward because it's great at publishing, checking all the \"textcasting\" boxes. ",
+            "created": "Fri, 22 Dec 2023 15:44:54 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I plan to build with and around WordPress. I think of WordPress as a basic platform the way I saw Twitter between 2006 and 2022. Now the question is what are the steps to use WordPress as the back-end of a social communication system. Behind the scenes, its database has all the capabilities we need to provide the tools writers need. And it has excellent RSS support. It all runs at scale and has a mature yet simple API.  That is all we need to form a hub.",
+            "created": "Fri, 22 Dec 2023 15:36:16 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
