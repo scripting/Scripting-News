@@ -1,0 +1,56 @@
+{
+    "text": "FeedLand and Bluesky feeds",
+    "created": "Sat, 23 Dec 2023 14:19:39 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "We can now subscribe to Bluesky feeds in \"FeedLand\" --",
+            "created": "Sat, 23 Dec 2023 14:20:39 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "In the <a href=\"https://imgs.scripting.com/2023/12/23/subscribeScreenShot.png\">Subscribe sub-menu</a>, choose <i>To one feed.</i>",
+                    "created": "Sat, 23 Dec 2023 14:20:58 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Enter the URL of a Bluesky profile page. For example, here's a <a href=\"https://bsky.app/profile/neilhimself.neilgaiman.com\">link</a> to Neil Gaiman's profile. ",
+                    "created": "Sat, 23 Dec 2023 14:21:58 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Click OK.",
+                    "created": "Sat, 23 Dec 2023 14:22:53 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "When this feature came out <a href=\"http://scripting.com/2023/12/22.html#a193746\">yesterday</a> it didn't work with FeedLand because we were looking for full URLs pointing to a feed in their feed discovery link and they provided a relative URL.",
+            "created": "Sat, 23 Dec 2023 14:23:33 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The fix was in the <a href=\"https://github.com/scripting/reallysimple/tree/main/demos/feedhunter\">feedHunter package</a>, it now looks for relative URLs and makes them full before trying to find the feed. ",
+            "created": "Sat, 23 Dec 2023 14:23:14 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I think I understand why they used a relative URL, they're getting ready to federate and it's probably simpler for them to just specify a relative URL.",
+            "created": "Sat, 23 Dec 2023 14:24:51 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "On the other hand, I think this is going to be a problem -- in the world of feeds, software usually expects full URLs. ",
+            "created": "Sat, 23 Dec 2023 14:26:04 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "PS: This is what a Bluesky feed <a href=\"https://feedland.com/?river=https%3A%2F%2Fbsky.app%2Fprofile%2Fdid%3Aplc%3Apn5qdowybxjewkcq6zzenvtq%2Frss\">looks</a> <a href=\"https://imgs.scripting.com/2023/12/23/blueskyfeedinfeedlandscreenshot.png\">like</a> in FeedLand on Day 1.",
+            "created": "Sat, 23 Dec 2023 16:27:37 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
