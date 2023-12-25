@@ -1,0 +1,30 @@
+{
+    "created": "2023-12-24T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "24",
+    "path": "2023/12/24",
+    "text": "December 24",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Christmas Eve 2023",
+            "created": "Mon, 25 Dec 2023 03:37:49 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Ho ho ho! :smile:",
+                    "created": "Sun, 24 Dec 2023 16:22:53 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/12/24/santa.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Draw me a picture of a fat bearded old man in red pajamas in a flying sled powered by reindeer flying in the night sky over NYC.",
+                    "created": "Mon, 25 Dec 2023 03:38:08 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2023/12/24/fatOldManFlyingOverNYC.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
