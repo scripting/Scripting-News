@@ -1,0 +1,6 @@
+{
+    "text": "I made a change to how images are served from this blog, to see if the images are still blocked by GMail. Previously we redirected to an <a href=\"https://s3.amazonaws.com/scripting.com/images/2022/12/01/santa.png\">S3 file</a>, so we could use HTTPS and but not have to have the bits flow through one of my Digital Ocean servers, which after this change, they now do. For most of you this will be blah blah whatever blah blah zzzz, but some people may find it interesting.",
+    "created": "Mon, 25 Dec 2023 15:34:47 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
