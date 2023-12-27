@@ -1,0 +1,30 @@
+{
+    "created": "2023-12-26T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "26",
+    "path": "2023/12/26",
+    "text": "December 26",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "So much of the history isn't covered on the <a href=\"https://en.wikipedia.org/wiki/RSS\">Wikipedia page on RSS</a>, for example, the apps that got the ball rolling in the spring of 1999: my.netscape and my.userland and the four pioneering web pubs: Salon, Wired, Motley Fool and Red Herring. We immediately put new feed support into Manila and the early versions of Radio and were followed by Blogger, Movable Type and basically the whole blogging world (WordPress was still a few years in the future). It was all that adoption in a short period of time that made RSS a big thing. Professional and amateur writers in one space. When you went to see what's new, the web did the surfing for you. For me it was the continuation of a story that goes back to the San Francisco <a href=\"http://scripting.com/davenet/1994/11/07/davesautomatedwebster.html\">newspaper strike</a> in 1994. And it's still happening today on Twitter, Threads, Bluesky, Mastodon. It's a continuing story. Not over by a lot. ",
+            "created": "Tue, 26 Dec 2023 18:10:38 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/12/26/rssShirt.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "In the early 80s, my main development machine was an Apple II, believe it or not. Sometimes the machine would just refuse to boot, so I'd get on <a href=\"https://www.google.com/maps/dir/Menlo+Park,+California/1324+S+Mary+Ave,+Sunnyvale,+CA+94087/@37.4029173,-122.15649,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x808fa6b1117280ff:0xebbf998e5df289ab!2m2!1d-122.1817252!2d37.4529598!1m5!1m1!1s0x808fb682d5a368c7:0x5af2a581c038f222!2m2!1d-122.0494523!2d37.3512373!3e2?entry=ttu\">El Camino</a> to <a href=\"https://www.google.com/maps/place/1324+S+Mary+Ave,+Sunnyvale,+CA+94087/@37.3512373,-122.0494523,17z/data=!3m1!4b1!4m6!3m5!1s0x808fb682d5a368c7:0x5af2a581c038f222!8m2!3d37.3512373!4d-122.0494523!16s%2Fg%2F11c37grvdp?entry=ttu\">Computer Plus</a> in Sunnyvale, which was the main developer store in the Valley, owned by Dick and Lucy Applebaum and <a href=\"https://imgs.scripting.com/2023/12/26/wozniakComputerPlus.png\">Mark Wozniak</a>. Very often when I got to the store and plugged the machine in, it would start right up. That became a superstition, if your computer won't launch take it for a ride in the car. Anyway, this morning, in 2023, my web app, the new version of <a href=\"http://news.scripting.com/\">news.scripting.com</a> that I'm working on was in a state that was really depressing. I was working on making it mobile-friendly and nothing I did would make the timeline fit into the alotted space. I was at my wits end, thinking maybe I'd have to revert my changes and try another approach. So I went out for a walk, it's a nice day, kind of warm, and the air is clear, no rain, and there are even some trees in bloom which is weird considering that it's <i>the day after Christmas</i> for crying out loud. But it was a good thing to do, when I got back I had a plan for how to go forward. My brain was now clear. I got myself a nice bowl of fruit salad and a glass of water, and sat down and rolled up my sleeves, and I bet by now dear reader you've figured out the punchline. It worked. I did nothing. Every bit showed up in the right place, more or less (modulo some tweaking). Back with Apple II in the 80s it wasn't really magic. The chips weren't soldered into the motherboard on the machine, and they would get pretty hot, and when you'd turn the computer off and on, it would go hot and cold, which meant the pins on the chips would expand and contract and in doing so, over months, one could unseat. A trip in the car might just jog it back into its socket. The same way, forty years later, if you get up from the computer and go for a walk, when you come back, cached requests have now aged-out and the files that weren't getting refreshed are now up to date, and it turns out I wasn't crazy or incompetent, and it probably wasn't some kind of act of god, it's just the internet being the internet.",
+            "created": "Tue, 26 Dec 2023 17:47:45 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/12/26/appleII.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I believe that, with yesterday's <a href=\"http://scripting.com/2023/12/25.html#a153447\">change</a>, images are now loading <a href=\"https://github.com/scripting/Scripting-News/issues/283\">properly</a> in emails transmitted over GMail. ",
+            "created": "Wed, 27 Dec 2023 01:57:23 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
