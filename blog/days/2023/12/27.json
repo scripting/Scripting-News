@@ -1,0 +1,84 @@
+{
+    "created": "2023-12-27T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "27",
+    "path": "2023/12/27",
+    "text": "December 27",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "The <a href=\"https://www.nytimes.com/2023/12/27/business/media/new-york-times-open-ai-microsoft-lawsuit.html?unlocked_article_code=1.JE0.CZ2w.6HmYzKZ-ps8y&smid=url-share\">NYT is suing ChatGPT</a> for ingesting their archive. I understand why they would sue now, for legal reasons, but before they had their own service up, assuming they are developing one, it's kind of selfish of them to keep the Times content out of the mix. We're failing at a number of big challenges (climate, guns, abortion, democracy, racial hate, wars), with everyone's future at stake. They could grant ChatGPT a license until at least they had their own product up. That would send the right message, our journalism is an aid to our survival, and we wanted to be sure you had access to the paper of record, now and in the future. Instead they want to take their data out of the mix, and who knows if they ever plan to get it back in. This is a far cry from the NYT that helped get our news systems on the web established in the 90s and 00s. ",
+            "created": "Wed, 27 Dec 2023 14:34:51 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/09/25/ezpass.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm going to write rebuttals to important Wikipedia pages that get the story wrong. In the past this was pointless, because search engines ranked them so high, but now I find that ChatGPT figures out the real story somehow, almost always, even if Wikipedia is wildly wrong. I figure our blogging helps.  ",
+            "created": "Wed, 27 Dec 2023 14:23:34 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "news.scripting.com",
+            "created": "Wed, 27 Dec 2023 15:18:06 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Okay the new version of \"news.scripting.com\" is up. ",
+                    "created": "Wed, 27 Dec 2023 15:18:14 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's what's new.",
+                    "created": "Wed, 27 Dec 2023 15:18:23 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "When you click on a tab, we change the URL in the address bar to point to the tab, the same way we do on the Scripting News home page. If you bookmark that link, you'll go to that tab.",
+                            "created": "Wed, 27 Dec 2023 15:18:30 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Click the white-on-orange XML icon to get an OPML subscription list for the feeds with the category of the current selected tab. ",
+                            "created": "Wed, 27 Dec 2023 15:19:59 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "The four buttons below each item now work. ",
+                            "created": "Sun, 24 Dec 2023 18:34:13 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "It should work reasonably well on phones and tablets.",
+                            "created": "Wed, 27 Dec 2023 16:01:47 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "It's served with HTTPS because in upcoming versions you'll be able to log in. ",
+                            "created": "Wed, 27 Dec 2023 16:04:12 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And that's about it, in terms of visible features. Behind the scenes there's a new tab manager. I figured since all my apps use tabs these days, I should make the investment of having a single tab manager that has all the bells and whistles, invoked by setting an option.",
+                    "created": "Wed, 27 Dec 2023 15:22:01 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The customary <a href=\"https://imgs.scripting.com/2023/12/27/newsScripting.png?nodialog\">screen shot</a>. ",
+                    "created": "Wed, 27 Dec 2023 16:05:59 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A <a href=\"https://github.com/scripting/Scripting-News/issues/285\">thread</a> for any questions.",
+                    "created": "Wed, 27 Dec 2023 15:24:41 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
