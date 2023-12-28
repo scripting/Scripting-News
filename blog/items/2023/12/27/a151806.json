@@ -1,0 +1,61 @@
+{
+    "text": "news.scripting.com",
+    "created": "Wed, 27 Dec 2023 15:18:06 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Okay the new version of \"news.scripting.com\" is up. ",
+            "created": "Wed, 27 Dec 2023 15:18:14 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's what's new.",
+            "created": "Wed, 27 Dec 2023 15:18:23 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "When you click on a tab, we change the URL in the address bar to point to the tab, the same way we do on the Scripting News home page. If you bookmark that link, you'll go to that tab.",
+                    "created": "Wed, 27 Dec 2023 15:18:30 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Click the white-on-orange XML icon to get an OPML subscription list for the feeds with the category of the current selected tab. ",
+                    "created": "Wed, 27 Dec 2023 15:19:59 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The four buttons below each item now work. ",
+                    "created": "Sun, 24 Dec 2023 18:34:13 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It should work reasonably well on phones and tablets.",
+                    "created": "Wed, 27 Dec 2023 16:01:47 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's served with HTTPS because in upcoming versions you'll be able to log in. ",
+                    "created": "Wed, 27 Dec 2023 16:04:12 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "And that's about it, in terms of visible features. Behind the scenes there's a new tab manager. I figured since all my apps use tabs these days, I should make the investment of having a single tab manager that has all the bells and whistles, invoked by setting an option.",
+            "created": "Wed, 27 Dec 2023 15:22:01 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The customary <a href=\"https://imgs.scripting.com/2023/12/27/newsScripting.png?nodialog\">screen shot</a>. ",
+            "created": "Wed, 27 Dec 2023 16:05:59 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "A <a href=\"https://github.com/scripting/Scripting-News/issues/285\">thread</a> for any questions.",
+            "created": "Wed, 27 Dec 2023 15:24:41 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
