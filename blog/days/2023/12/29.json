@@ -1,0 +1,23 @@
+{
+    "created": "2023-12-29T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "29",
+    "path": "2023/12/29",
+    "text": "December 29",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "At the end of another year, network writing is still <a href=\"http://scripting.com/2023/12/28.html#a171709\">broken</a> and the bigger problem is we don't work together. And we've gotten out of the habit of trying out new ideas with our networks. And we're building systems that depend on the kindness of our peers and big companies, and keep learning that this is not a kind world. All this is why we've been spinning our wheels for 17 years, and unless we start working together, for real, we'll just keep spinning.  ",
+            "created": "Fri, 29 Dec 2023 16:23:30 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2019/11/20/offWithTheirHeads.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "The new version of \"news.scripting.com\" has been running for a couple of days, and seems to be working well. But I'm not sure everyone is seeing the new version. In the new version there are <a href=\"https://imgs.scripting.com/2023/12/29/newsScriptingScreenShot.png\">icons</a> on each tab. If you're seeing the icons, all is good, if not, try clearing your DNS cache? The domain should point to 143.198.165.199. A <a href=\"https://github.com/scripting/Scripting-News/issues/285#issuecomment-1872208109\">place to comment</a>. ",
+            "created": "Fri, 29 Dec 2023 16:28:25 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
