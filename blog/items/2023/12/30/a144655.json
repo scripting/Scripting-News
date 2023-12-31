@@ -1,0 +1,7 @@
+{
+    "text": "There's been a bit of trouble on my servers the last couple of days, and as a result a couple of domains are not working for everyone, or are behaving in mysterious ways. I moved <a href=\"https://textcasting.org/\">textcasting.org</a> to a server that has a copy of <a href=\"https://github.com/scripting/pagePark/issues/25\">Caddy</a> installed, and therefore supports HTTPS. I am able to see the domain on my local machines, but not on my phone, and I'm getting reports that other people are getting empty pages. And theoretically there should be no way that people should get a non-HTTPS version of <a href=\"https://news.scripting.com/\">news.scripting.com</a>, but I'm seeing hits for the HTTP version in my log. Very weird. If you can shed any light on the problems from your end, please post a note <a href=\"https://github.com/scripting/Scripting-News/issues/285#issuecomment-1872208109\">here</a>. Thanks! What a way to end a year. Oy. ",
+    "created": "Sat, 30 Dec 2023 14:46:55 GMT",
+    "type": "outline",
+    "image": "https://imgs.scripting.com/2023/10/02/debbieDowner.png",
+    "flInCalendar": true
+}
