@@ -1,0 +1,35 @@
+{
+    "created": "2024-01-01T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "01",
+    "path": "2024/01/01",
+    "text": "January 01",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://feedland.blog/2024/01/01/removing-duplicates-from-feed-lists/\">New FeedLand feature/fix</a>. We now remove duplicates from feed lists. This can happen with the advent of reading lists, but it's realllly annoying. Finally got around to making this work in a more reasonable way. ",
+            "created": "Mon, 01 Jan 2024 16:21:43 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Looking to the future, one thing that would help the web develop more quickly in a more open way for users and developers, with less reliance on the <a href=\"https://idioms.thefreedictionary.com/depends+on+the+kindness+of+strangers\">kindness</a> of  <a href=\"https://www.threads.net/@threads/post/C1kEkSornag\">big</a> tech companies -- a commercial identity and storage system that users pay for. There's no reason an independent developer such as myself should have to implement an identity system, and no reason a user should want me to. Yet there is no service that provides storage for users that is accessible to apps that the user chooses. There are a bunch of companies that have all the pieces. There would be so many benefits of this, it would help drive open standards, and make it possible for multiple apps to work on the same data. I don't know why this product doesn't exist. It should. ",
+            "created": "Mon, 01 Jan 2024 14:56:29 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2019/09/18/newYorker.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, I wrote a wizzy writing tool for WordPress. Here's a <a href=\"https://imgs.scripting.com/2024/01/01/blogbrowserscreenshot.png\">screen shot</a>. I wanted something simpler for posting to feedland.blog. I think it could work even more smoothly, it was a first effort. One thing I don't understand is why aren't there a dozen such writing tools for WordPress. It has a great API, really easy to work with. It's a very versatile product, yet people seem to stick with the built-in writing interface. Curious. ",
+            "created": "Mon, 01 Jan 2024 16:18:13 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's the <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog/opml/2023\">OPML archive</a> for this blog for 2023.  ",
+            "created": "Mon, 01 Jan 2024 14:54:59 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
