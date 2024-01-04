@@ -1,0 +1,17 @@
+{
+    "created": "2024-01-03T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "03",
+    "path": "2024/01/03",
+    "text": "January 03",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "On Friday I asked ChatGPT for <a href=\"https://chat.openai.com/share/5bb3c392-c9bc-40eb-81c1-e3520ebffe3d\">1000 words on RSS</a>. The bot sorted through all the nonsense, got the story, where <a href=\"https://en.wikipedia.org/wiki/RSS\">Wikipedia</a> got <a href=\"https://chat.openai.com/share/be930ca9-f345-4aee-9305-b7dfc79dda10\">mired</a>.  They left out almost all of the interesting stuff relating to the way it was adopted by the publishing and blogging worlds. The format isn't all that important, see the <a href=\"https://this.how/standards/\">rules for standards-makers</a>, what matters is the interop it delivers. The RSS 0.91 to 2.0 thread was what the market built around, because it was promoted to the market and <a href=\"https://cyber.harvard.edu/rss/rss.html#roadmap\">held steady</a> for it. The other thread got bogged down in an <a href=\"https://en.wikipedia.org/wiki/Semantic_Web\">academic theory</a> of how the web should evolve. Content syndication was a real application. That's the story, imho. There was no mention of the NYT in the Wikipedia piece, or Salon, Red Herring, Wired and Motley Fool. Or NPR in re podcasting, yet without the support of these news orgs, and of blogging software, there never would have been an RSS. ",
+            "created": "Wed, 03 Jan 2024 17:32:53 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2020/01/16/rodneyDangerfield.png",
+            "flInCalendar": true
+        }
+    ]
+}
