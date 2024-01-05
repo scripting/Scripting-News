@@ -1,0 +1,6 @@
+{
+    "text": "A <a href=\"https://github.com/withastro/astro/issues/9577\">discussion</a> about whether a feed reader should support titleless items. It should, without question. The <a href=\"https://cyber.harvard.edu/rss/rss.html#hrelementsOfLtitemgt\">spec</a> is very clear. \"All elements of an item are optional, however at least one of title or description must be present.\" It's how social media sites like Bluesky, Mastodon, et al hook up to the RSS network. Their posts not only don't require titles, they don't allow them, something I'd like to see them ease up on, per <a href=\"https://textcasting.org/#1683634931000\">textcasting</a>. Let the writer decide if a post needs a title. ",
+    "created": "Thu, 04 Jan 2024 15:27:14 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
