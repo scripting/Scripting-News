@@ -1,0 +1,59 @@
+{
+    "created": "2024-01-05T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "05",
+    "path": "2024/01/05",
+    "text": "January 05",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "The <a href=\"https://cyber.harvard.edu/rss/rss.html#roadmap\">RSS 2.0 roadmap</a> is imho one of my best bits of writing, and has stood up pretty well. \"RSS is by no means a perfect format, but it is very popular and widely supported. Having a settled spec is something RSS has needed for a long time. The purpose of this work is to help it become a unchanging thing, to foster growth in the market that is developing around it, and to clear the path for innovation in new syndication formats. Therefore, the RSS spec is, for all practical purposes, frozen at version 2.0.1. We anticipate possible 2.0.2 or 2.0.3 versions, etc. only for the purpose of clarifying the specification, not for adding new features to the format. Subsequent work should happen in modules, using namespaces, and in completely new syndication formats, with new names.\"",
+            "created": "Fri, 05 Jan 2024 19:53:25 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2022/03/21/beetle.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I am going to ask for a discussion about the <a href=\"https://en.wikipedia.org/wiki/RSS\">Wikipedia page for RSS</a>, because I think it misses the significance of \"RSS\", how it became a big thing. It had little to do with the quality of the technical work, there wasn't much of that, and the <a href=\"https://this.how/standards/#1497798834000\">quality varied</a> as has been pointed out many times. What made it happen was a vision by some exec at Netscape (whose name is never in the writeups, probably because it isn't on the Wikipedia page), a pitch, and a leap of faith by publishers: Salon, Red Herring, Wired and Motley Fool. And if they hadn't, there wouldn't have been anything worth fighting for. I never would have gotten involved, and blogging might not have been part of RSS, as it was. Then, a few years later, the NYT. And then everyone. It's an interesting story, imho -- and it would be good to make the story available to future would-be innovators. Don't design a perfect format and expect the world to beat a path to your door, it doesn't work that way. You have to keep coming back to the problem, try a new approach, gain some traction, and hope you're not going down a blind alley. The actual story of how it happened belongs on that page. ",
+            "created": "Fri, 05 Jan 2024 19:56:33 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Good luck to everyone riding out the first winter storm of the season in NY and Mass. ",
+            "created": "Fri, 05 Jan 2024 21:19:18 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Saw the Colorado Secretary of State on MSNBC just now and she said something that I hadn’t heard before — Trump actually has been found by a court to have been an insurrectionist. That’s what happened in Colorado in their Supreme Court. Due process.",
+            "created": "Sat, 06 Jan 2024 03:09:49 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Every time a new writing environment comes along and gets popular but doesn't support linking, there's less hope for the open web. It's subtle but real. ",
+            "created": "Fri, 05 Jan 2024 19:25:42 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "One of the coolest things about driving a <a href=\"http://scripting.com/2022/12/19/152612.html\">muscle car</a> that looks like a Toyota Camry is when you're merging into traffic on a freeway, and a big truck moves over into the left lane to let you on, a polite gesture, and you smoke him. ",
+            "created": "Fri, 05 Jan 2024 19:34:10 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I know Elon Musk isn't popular, but I saw an older interview of his where he said something important that most people don't realize about technology. Sometimes we lose abilities we had in the past. His example was space travel. In the sixties we went to the moon. A decade later we could only put people in earth orbit. A few decades after that, not so much. I've seen this in software and networks. In some ways they have become far more powerful, in terms of bandwidth, CPU speed and the cost of storage. But software-wise, the runtime that we develop for today is a shadow of what it was in the 80s. We gave up a lot in going to the web, and made some terrible decisions, collectively, about languages and styling. JavaScript is horrendous for building complex systems, the worst language imaginable, but we use it as the default. And CSS, it's disgusting how hard it is to control, at things it claims to be good at. If only we were using C or Pascal, and <a href=\"https://en.wikipedia.org/wiki/QuickDraw\">QuickDraw</a>. When you study how these systems evolved, the discontinuities and how they were usually the result of a company trying to own something they could have let everyone build on (the Mac UI for example, and the networking built into every Mac). I've made some of these mistakes myself, so I'm not saying it's about quality of individuals. It's just that we don't think enough about what we're doing, and before you know it some things are tossed aside that were really good, and replaced them with systems that are grossly inadequate. ",
+            "created": "Fri, 05 Jan 2024 19:27:08 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://ma.tt/2024/01/birthday-gift/\">Happy 40th birthday</a> to <a href=\"https://www.google.com/search?q=site%3Ascripting.com+matt+mullenweg\">Matt Mullenweg</a>. Many happy returns! :smile:",
+            "created": "Fri, 05 Jan 2024 14:14:26 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
