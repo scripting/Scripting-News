@@ -1,0 +1,7 @@
+{
+    "text": "Rich Brown <a href=\"https://github.com/scripting/Scripting-News/issues/287\">reports a problem</a> with the tabs on the Scripting News <a href=\"http://scripting.com/\">home page</a> on an Android tablet running Brave. It sounds like the problems were introduced when I did a rewrite of the tab code, and it's probably due to some code catching the click before it gets to the tab code. Once found, it's easy to fix. If you're running Brave or using an Android tablet, could you give it a try per Rich's description, see if you can reproduce. Also curious if there are error messages in the JavaScript console. Thanks!  ",
+    "created": "Sat, 06 Jan 2024 14:18:56 GMT",
+    "type": "outline",
+    "image": "https://imgs.scripting.com/2017/11/19/catEmoji.png",
+    "flInCalendar": true
+}
