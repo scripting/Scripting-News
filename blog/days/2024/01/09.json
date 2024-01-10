@@ -1,0 +1,35 @@
+{
+    "created": "2024-01-09T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "09",
+    "path": "2024/01/09",
+    "text": "January 09",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Twitter became a <a href=\"https://en.wikipedia.org/wiki/Hairball\">hairball</a>. I first heard this term in speeches given by a tech exec, <a href=\"https://en.wikipedia.org/wiki/Scott_McNealy\">Scott McNealy</a>, talking about a competitor's product. A hairball is something a cat coughs up. Very undesirable. Of course, given enough time all software becomes a hairball. As you refine your understanding of how the product is being used, versus how you thought it would be used, all the new paths through the code and UI become more crooked and impenetrable by a human mind, because you still have to do all the things you did before, unless you start over. There often is value in starting over. Now is a good time to be thinking about bare-bones social web apps. People are open to new ideas.",
+            "created": "Tue, 09 Jan 2024 14:58:33 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/04/24/cheshireCat.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I asked \"Is news copyrightable\" on various social web sites because people aren't making a distinction between the expression and the underlying facts of news. If an AI bot reads a news article, and extracts the facts, then there's no problem, because no one owns the facts. ",
+            "created": "Tue, 09 Jan 2024 14:40:17 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://www.goodreads.com/quotes/63402-you-are-entitled-to-your-opinion-but-you-are-not\">Daniel Patrick Moynihan</a>: “You are entitled to your opinion. But you are not entitled to your own facts.”",
+            "created": "Tue, 09 Jan 2024 15:16:51 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A puzzle about ChatGPT. How can it get something right that both Wikipedia and journalism get wrong? Journalism often uses Wikipedia as a source, thus propagating its lies and mistakes. I think this negates the idea that they're just scanning the news orgs to get their information. The method obviously is more sophisticated. ",
+            "created": "Tue, 09 Jan 2024 14:14:34 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
