@@ -1,0 +1,84 @@
+{
+    "created": "2024-01-10T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "10",
+    "path": "2024/01/10",
+    "text": "January 10",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "It would be better if journalists did not gravitate to a Facebook-owned Twitter clone.\n",
+            "created": "Wed, 10 Jan 2024 20:17:05 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "For a guy who likes to write, I am probably not a lot better about writing docs than most other developers. We're supposed to leave a good trail behind us, but I've only managed to do that in certain ways. For example, I have standardized on a <a href=\"https://github.com/scripting/feedland/blob/main/worknotes.md\">worknotes.md</a> file for each of my projects and I'm pretty good about updating it. I also publish the OPML source of my code, which contains a lot more in the way of internal docs than the JavaScript files I publish alongside them, simply because the outline format lends itself to inline docs, and I have been doing that systematically for at least thirty years. And I now include the OPML source in most projects in a file called <a href=\"https://github.com/scripting/pagePark/blob/master/source.opml\">source.opml</a>. There's a big comment at the top of each of the files at the top that explains. If you're interested, work backward through the <a href=\"https://github.com/scripting?tab=repositories\">directory</a> of my repos. ",
+            "created": "Wed, 10 Jan 2024 16:54:31 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/03/18/accordionGuy.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "\"Overturn an election?\"",
+            "created": "Wed, 10 Jan 2024 14:08:54 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I spend a lot of time thinking about words, and when I hear a phrase that seems wrong to me, I'll work on it until I figure out why it seems wrong and what would be a better way to express the actual idea. ",
+                    "created": "Wed, 10 Jan 2024 14:09:11 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "That said, I don't think Trump tried to \"overturn an election.\"",
+                    "created": "Wed, 10 Jan 2024 14:09:59 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "More accurately, he tried to \"overthrow the government.\"",
+                    "created": "Wed, 10 Jan 2024 14:10:42 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Why I say that:",
+                    "created": "Wed, 10 Jan 2024 14:11:35 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Overturn could be something you do legitimately. If you are convicted of a crime, you could appeal it, be exonerated, and the correct verb would be overturn. Overturn doesn't convey the illegitimacy of what Trump tried to do. The criminality of it. The abhorrence of it, by American values. He tried to \"overturn\" our most sacred ritual, the transfer of power from one person to another, based on the vote of the people. Overthrow is a much better word for what was done. ",
+                            "created": "Wed, 10 Jan 2024 14:11:39 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "When you commit a crime, say for example killing someone, we don't say they tried to illegally use a weapon, that's too technical, we say they're \"accused of murder.\" We focus on the consequences. There are lots of ways to illegally use a weapon, what matters is the intended result.",
+                            "created": "Wed, 10 Jan 2024 14:14:16 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "There is always exactly one president, at all times, in all circumstances. It's spelled out in the <a href=\"https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution\">20th Amendment</a>.",
+                            "created": "Wed, 10 Jan 2024 14:16:23 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "On January 20, 2021, we had an actual peaceful transfer of power when Joe Biden <a href=\"https://www.youtube.com/watch?v=ZwvbQR887W0\">took the oath</a>, but the transfer actually took place before he took the oath, at 12PM exactly. ",
+                            "created": "Wed, 10 Jan 2024 14:19:29 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "You can also look at the government as a continuous thing, the only difference is there is a new person occupying the office of president. Same government, the one defined by the Constitution. Always on. ",
+                            "created": "Thu, 11 Jan 2024 01:20:34 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "So on January 6, 2021, the then-president Donald Trump, tried to destroy the government, replacing it with a new government, one that doesn't follow the Constitution.  ",
+                            "created": "Wed, 10 Jan 2024 14:20:19 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
