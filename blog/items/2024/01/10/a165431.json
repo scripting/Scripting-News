@@ -1,0 +1,7 @@
+{
+    "text": "For a guy who likes to write, I am probably not a lot better about writing docs than most other developers. We're supposed to leave a good trail behind us, but I've only managed to do that in certain ways. For example, I have standardized on a <a href=\"https://github.com/scripting/feedland/blob/main/worknotes.md\">worknotes.md</a> file for each of my projects and I'm pretty good about updating it. I also publish the OPML source of my code, which contains a lot more in the way of internal docs than the JavaScript files I publish alongside them, simply because the outline format lends itself to inline docs, and I have been doing that systematically for at least thirty years. And I now include the OPML source in most projects in a file called <a href=\"https://github.com/scripting/pagePark/blob/master/source.opml\">source.opml</a>. There's a big comment at the top of each of the files at the top that explains. If you're interested, work backward through the <a href=\"https://github.com/scripting?tab=repositories\">directory</a> of my repos. ",
+    "created": "Wed, 10 Jan 2024 16:54:31 GMT",
+    "type": "outline",
+    "image": "https://imgs.scripting.com/2023/03/18/accordionGuy.png",
+    "flInCalendar": true
+}
