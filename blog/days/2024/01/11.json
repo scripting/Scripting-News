@@ -1,0 +1,78 @@
+{
+    "created": "2024-01-11T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "11",
+    "path": "2024/01/11",
+    "text": "January 11",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Ideas for Reading Lists",
+            "created": "Thu, 11 Jan 2024 16:07:44 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "A <a href=\"http://scripting.com/2023/10/21/143159.html\">reading list</a> is a list of feeds you can subscribe to.",
+                    "created": "Thu, 11 Jan 2024 16:25:27 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The author of the list can add or remove feeds. When they do, people who subscribe to the list are subscribed to the new feeds and unsubbed from the ones that leave.",
+                    "created": "Thu, 11 Jan 2024 16:26:42 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Reading lists are not a new topic, I and others have been <a href=\"https://www.google.com/search?q=site%3Ascripting.com+reading+lists\">writing</a> about <a href=\"https://www.google.com/search?q=opml+reading+lists\">them</a> for years. But they've not been used seriously in the past because they weren't widely supported in feed readers. \"FeedLand\", my latest feed manager, has reading list support built-in. And we're serious about starting new communities of feeds and users with this feature. ",
+                    "created": "Thu, 11 Jan 2024 16:22:40 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If you're a feed reader user, you probably know about using OPML to move your subscriptions from one app to another, or to share lists with friends. ",
+                    "created": "Thu, 11 Jan 2024 16:13:05 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Reading lists take it one step further, you can subscribe to a reading list, so you can control one app from another.  ",
+                    "created": "Thu, 11 Jan 2024 16:13:36 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Say I had a reading list with my favorite podcasts and my podcasting client could subscribe to it. Then when I add a feed to that list on my desktop computer, the podcast client would automatically be subscribed to it. Or if I used two or more podcast clients (say one on Android and one on iOS), I could control both from the same subscription list.",
+                    "created": "Thu, 11 Jan 2024 16:14:08 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It factors out subscribing. Now you can use one app to manage subscriptions and use lots of apps to read them.",
+                    "created": "Thu, 11 Jan 2024 16:15:31 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "What's cool about this is that it opens up the possibility for lots of viewer apps. A podcast client is a special kind of feed reader. I'm sure others are possible. But first, to make this practical we need to do better with subscriptions. That's what reading lists are for. ",
+                    "created": "Thu, 11 Jan 2024 16:15:51 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Another idea. Suppose we wanted to put together a big list of great blogs about Major League Baseball (just an example). I might know a few about the Mets, and my friend Scott who lives in Mountain View, CA, would have a bunch about the Giants. We could put together a group of 100 avid baseball fans, and one of us could put out a reading list for all of our feeds merged into one list. It's not so far-fetched, \"FeedLand\" can do that today. ",
+                    "created": "Thu, 11 Jan 2024 16:16:55 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I could see a similar \"big blogroll\" for the IndieWeb, or for Bluesky developers -- or really anything. We just have to get started, prime the pump, and learn how this works. ",
+                    "created": "Thu, 11 Jan 2024 16:19:43 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I felt it was really important to get reading lists built into FeedLand in the current release, because now we're in a position, with the improvements in scaling, to act as a organizing node for new activities with feeds. ",
+                    "created": "Thu, 11 Jan 2024 16:08:20 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This is another form of federation, it's more ad hoc, and doesn't require very much technical knowledge. If you know how to use a feed reader, and move around OPML files, you can do all of what I describe in this piece. ",
+                    "created": "Thu, 11 Jan 2024 16:20:41 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
