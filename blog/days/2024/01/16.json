@@ -1,0 +1,23 @@
+{
+    "created": "2024-01-16T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "16",
+    "path": "2024/01/16",
+    "text": "January 16",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I think it's fair to say that the new FeedLand, at <a href=\"https://feedland.com/\">feedland.com</a>, and running in Automattic's cloud, is stable, and performing nicely. So if you have an account on <a href=\"https://feedland.org/\">feedland.org</a>, the original system, which is still running of course, you could now reasonably move to feedland.com. To do so, just export your OPML subscription list from .org, create a new account on .com, and import the subscription list. It might take a while for all the new feeds to be fully updated, but you'll be rewarded by a higher performance user experience. Thanks to <a href=\"https://ma.tt/\">Matt</a> and company for giving us access to this phenomenal resource. I still haven't gotten used to designing with the assumption that my system can scale as far as it seems it can.",
+            "created": "Tue, 16 Jan 2024 15:33:48 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/09/18/slugger.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I imagine <a href=\"https://www.threads.net/@davew/post/C2K6xlTpa3q\">ChatGPT must have</a> an interface that allows me to send it a bit of text via an API, and get back the same response I'd get if I were typing it into their web page. I am a paying user, I don't want to do any more than I'm currently doing with it. I just want to be able to keep an archive of everything I do, in a format that's more useful to me.  (Update: They do have a simple API, <a href=\"https://platform.openai.com/docs/api-reference/introduction\">documented here</a>.)",
+            "created": "Tue, 16 Jan 2024 18:03:57 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
