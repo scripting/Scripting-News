@@ -1,0 +1,7 @@
+{
+    "text": "I think it's fair to say that the new FeedLand, at <a href=\"https://feedland.com/\">feedland.com</a>, and running in Automattic's cloud, is stable, and performing nicely. So if you have an account on <a href=\"https://feedland.org/\">feedland.org</a>, the original system, which is still running of course, you could now reasonably move to feedland.com. To do so, just export your OPML subscription list from .org, create a new account on .com, and import the subscription list. It might take a while for all the new feeds to be fully updated, but you'll be rewarded by a higher performance user experience. Thanks to <a href=\"https://ma.tt/\">Matt</a> and company for giving us access to this phenomenal resource. I still haven't gotten used to designing with the assumption that my system can scale as far as it seems it can.",
+    "created": "Tue, 16 Jan 2024 15:33:48 GMT",
+    "type": "outline",
+    "image": "https://imgs.scripting.com/2023/09/18/slugger.png",
+    "flInCalendar": true
+}
