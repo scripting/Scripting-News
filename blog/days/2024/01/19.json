@@ -1,0 +1,42 @@
+{
+    "created": "2024-01-19T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "19",
+    "path": "2024/01/19",
+    "text": "January 19",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://www.threads.net/@johnonolan/post/C2S0uRZuPew\">John Nolan</a>, the founder of <a href=\"https://en.wikipedia.org/wiki/Ghost_(blogging_platform)\">Ghost</a>, when asked if they'd support ActivityPub: \"Love the idea in theory and we've looked into it a few times (even built prototypes) - but haven't found an implementation in practice that got us very excited, so far. Spec is pretty lightweight (as in, lots of holes) which means you end up having to invent a lot of proprietary stuff to scale. Tricky.\"",
+            "created": "Fri, 19 Jan 2024 20:39:49 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2024/01/19/faceplant.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://samizdatonline.org/\">Samizdat Online</a> is a DNS-based proxy that makes it possible to read articles from websites that are blocked by the Russian government. Apparently they have a certain number of random domains, that probably change regularly, and they mirror the contents of a story from one of the blocked sites via a random domain. An example of a <a href=\"https://kqtevvweix.com?t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy50aGVtb3Njb3d0aW1lcy5jb20vMjAyNC8wMS8xOC9hbW5lc3R5LWludGVybmF0aW9uYWwtdXJnZXMtZXVyb3BlLXRvLWVuZC1ub3J0aC1jYXVjYXN1cy1leHB1bHNpb25zLWE4Mzc1OCIsInJvb3QiOiJodHRwczovL3d3dy50aGVtb3Njb3d0aW1lcy5jb20iLCJ0eXBlIjoidGV4dC9odG1sIiwiaWF0IjoxNzA1Njc0NDU4LCJleHAiOjE3MDY1Mzg0NTh9.kofaNFyvrOcqNfx12W43zeuCsWoUqV2JLvdrL8e9y1s\">link to a story</a> on the Moscow Times. Their <a href=\"https://samizdatonline.org/\">home page</a> <a href=\"https://imgs.scripting.com/2024/01/19/samizdatstorylist.png\">looks like</a> a fairly basic feed reader. ",
+            "created": "Fri, 19 Jan 2024 14:30:15 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Bull Mancuso comic, day 2",
+            "created": "Fri, 19 Jan 2024 20:41:20 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Draw a nine-panel comic strip. Panels one through three should show <a href=\"https://www.google.com/search?q=%22Bull+Mancuso%22\">Bull Mancuso</a>, a <a href=\"https://chat.openai.com/share/0d0ec2ca-2846-4088-90ed-d5ee1bba5970\">fishery management consultant</a> in Oregon at a <a href=\"https://www.peets.com/pages/store-locator?stockist-query=Portland,%20OR,%20USA\">Peet's Coffee</a> in Portland, ordering and enjoying a huge <a href=\"https://www.peets.com/products/iced-chai-latte\">Chai ice tea</a> drink. In panels four through seven she's teaching a class on <a href=\"https://en.wikipedia.org/wiki/Abortion_in_the_United_States\">abortion rights</a> in <a href=\"https://en.wikipedia.org/wiki/Portland_State_University\">Portland State University</a>. In panels eight and nine she does a <i>hilarious</i> <a href=\"https://www.youtube.com/watch?v=bm9bbT8CIG8\">faceplant</a> while skiing at <a href=\"https://en.wikipedia.org/wiki/Mount_Hood_Skibowl\">Mt Hood Ski Bowl</a>. There is no dialogue on any panel. ",
+                    "created": "Fri, 19 Jan 2024 20:41:29 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Bull Mancuso starts the day with a huge Chai ice tea drink at <a href=\"https://www.peets.com/pages/store-locator?stockist-query=Portland,%20OR,%20USA\">Peets</a> in Portland.",
+                    "created": "Fri, 19 Jan 2024 20:42:18 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2024/01/19/bullMancusoInPortland.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
