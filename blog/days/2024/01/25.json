@@ -1,0 +1,41 @@
+{
+    "created": "2024-01-25T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "25",
+    "path": "2024/01/25",
+    "text": "January 25",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "ChatGPT is the best librarian I've ever had. ",
+            "created": "Thu, 25 Jan 2024 15:03:46 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://www.linkedin.com/in/jernst/\">Johannes Ernst</a>, host of <a href=\"https://fediforum.org/\">FediForum</a>, proposes a <a href=\"https://www.threads.net/@johannes.ernst/post/C2fqDkVPoMx\">session</a> that looks at how a product like <a href=\"https://twitter.com/Ghost\">Ghost</a> might support <a href=\"https://www.google.com/search?q=site%3Ascripting.com+ActivityPub\">ActivityPub</a>. A nicely pragmatic way to look at it. I wrote a thread in response <a href=\"https://www.threads.net/@davew/post/C2hpsEysa7L\">saying</a> what's called for is a Busy Developer's Guide To ActivityPub, with a matching open source client and server to test against. ",
+            "created": "Thu, 25 Jan 2024 14:06:13 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, I co-wrote a <a href=\"https://web.archive.org/web/20090303082440/http://www.soapware.org/bdg\">Busy Developer's Guide to SOAP</a> in 2001, because it was so desperately <a href=\"http://scripting.com/davenet/2001/04/04/aBusyDevelopersGuideToSoap.html\">needed</a>. SOAP was a tangle of specs, which must have made sense to someone, not sure who, but was incomprehensible to app developers, the same ways ActivityPub is today. I have no idea if the BDG helped, but it was the only way I felt I could be supportive of the protocol, without saying it was a complete failure. I was unusual in that among the developers of the protocol, I was the only one who didn't work at a big company, so if I wanted to do something badly enough, I could just do it. The basic <a href=\"http://scripting.com/davenet/2001/04/04/aBusyDevelopersGuideToSoap.html\">message</a> was: \"If you want to implement SOAP in your app, this is one way to do it. And if you do, your software will interop with mine.\"",
+            "created": "Thu, 25 Jan 2024 14:38:24 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2019/05/08/curiousGeorge.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Since when does <a href=\"https://www.w3schools.com/js/js_json_parse.asp\">JSON.parse</a> and <a href=\"https://www.w3schools.com/js/js_json_stringify.asp\">JSON.stringify</a> not preserve the order of object properties?",
+            "created": "Thu, 25 Jan 2024 17:45:25 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Haley should stay in and make Trump <a href=\"https://www.azcentral.com/story/opinion/op-ed/philboas/2024/01/24/nikki-haley-makes-trump-crazy-continue-run-president/72336472007/\">crazier</a> and <a href=\"https://au.news.yahoo.com/trump-says-doesn-t-care-185706046.html\">crazier</a> till El Orange blows his top. ",
+            "created": "Fri, 26 Jan 2024 02:57:50 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
