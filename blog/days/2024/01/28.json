@@ -1,0 +1,87 @@
+{
+    "created": "2024-01-28T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "28",
+    "path": "2024/01/28",
+    "text": "January 28",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Morning ChatGPT Notes",
+            "created": "Sun, 28 Jan 2024 17:21:49 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I spent a couple of days putting together a JSON text editor in a modal dialog for a project I'm working on. I'm combining the <a href=\"https://github.com/scripting/aceEditorDemo\">Ace editor</a> with the <a href=\"https://getbootstrap.com/\">Bootstrap toolkit</a>. I've used both components before, but never together. And they're always a bit tricky to get working because I'm impatient and the docs are spread out, and there are different versions. It's all kind of a mess, so you just get it working and move on, never quite sure why it works, and I rarely end up with reusable code. But it's certainly a lot better than starting from scratch, which basically is impossible, given the depth of the two components. After spinning my wheels a bit, I did what I always do in 2024, I turned to ChatGPT, outlined the problem, and asked if it knew of any sample code, which it proceeded to write for me, in about two seconds (not kidding about that). I copied their code and pasted it into my editor and ran it. It worked. Then I went through a number of iterations, restructuring the code to meet my needs, each time checking with ChatGPT, asking what it thought of my code. And of course there were problems, for example at one point there were two vertical scrollbars, and each time we worked <i>together</i> to figure out the problem and the fix. In the end, I have a solid editor that works exactly as I want it to, and best of all, I understand how it works. Here's the <a href=\"https://chat.openai.com/share/840e8159-9988-4159-8289-5167d6fb78c8\">transcript of the work</a> I did with it, over more than 24 hours, a few different sessions. ",
+                    "created": "Sun, 28 Jan 2024 15:43:11 GMT",
+                    "type": "outline",
+                    "image": "https://imgs.scripting.com/2017/09/04/peterRojas.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'll try to remember when this code ships as part of a product, to link to this perspective.",
+                    "created": "Sun, 28 Jan 2024 16:03:41 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Next up, I'd like to get it to understand my coding conventions, so when it shares code with me it can save me the step of having to convert its conventions to mine. In other words, I'd like to return the favor. It's doing a great job of teaching and coaching me. I'd like to teach it how to do that better, so we work better together over time. And perhaps it can teach human programmers what I've learned about programming in over 50 years of doing this work. ",
+                    "created": "Sun, 28 Jan 2024 16:07:09 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A bit of philosophy. People say these things aren't intelligent, but seriously, if I can engage with it as if it were intelligent, far more intelligent in ways than I am, what's the difference between that and actually being intelligent? I know from a lifetime of dealing with supposedly intelligent humans, and being one myself, how rarely we focus on the idea that the person we're conversing with has an inner life that's vastly different from ours and no less complex, and contradictory. We tend to think of others as being like us, or like someone who raised us. Always in a movie, never in the moment. So why is it interesting that ChatGPT is a machine? These are questions thinkers and writers have been pondering for decades if not centuries, but -- <i>now we're living it.</i> I'm so happy to have made it this far! An amazing experience, so much learning in so little time. I don't understand how people can sit on the sidelines and not want to be the first to try all this stuff out, to be part of its evolution. I feel so lucky. ",
+                    "created": "Sun, 28 Jan 2024 15:57:06 GMT",
+                    "type": "outline",
+                    "image": "https://imgs.scripting.com/2017/09/05/enjoyEveryDay.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A puzzling thing, in the transcripts I'm identified as \"anonymous,\" but I am logged in. It must know my name. I bet this is some kind of setting which defaults to anonymous, to play it safe. ",
+                    "created": "Sun, 28 Jan 2024 16:09:09 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "One more thing. I copied and pasted the text above into ChatGPT. <a href=\"https://chat.openai.com/share/5fe361cd-1fca-4e8d-82cc-920514e8c4b8\">Here are its comments</a>. A funny thing about ChatGPT is that you can't ask it how to use ChatGPT itself. It doesn't know about the chat UI? ",
+                    "created": "Sun, 28 Jan 2024 16:10:58 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Yet another thing. I remember my father, when he was forced to retire by illness, said how fortunate he was that the internet was there, so he could be involved in the world even though he had stopped working. He said his father would have loved it, and I don't doubt that he would. Same with ChatGPT. My parents and uncles were always looking up stuff, wanting to understand how things worked. This is a whole new level. The machines are now far better at collaborating over the net than humans are. Where will that take us? Maybe this is something else we can learn from the machines. ",
+                    "created": "Sun, 28 Jan 2024 23:32:18 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Far side Zuck",
+            "created": "Sun, 28 Jan 2024 17:22:11 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I saw this picture and thought it represents an interesting concept.",
+                    "created": "Sun, 28 Jan 2024 17:22:17 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2024/01/28/zuckreal.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I asked ChatGPT to re-do it in the style of the Far Side. ",
+                    "created": "Sun, 28 Jan 2024 17:22:30 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2024/01/28/zuckimagined.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I asked for more variations, but it refused, saying something about content guidelines. ",
+                    "created": "Sun, 28 Jan 2024 17:27:21 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
