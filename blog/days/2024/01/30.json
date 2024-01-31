@@ -1,0 +1,23 @@
+{
+    "created": "2024-01-30T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "30",
+    "path": "2024/01/30",
+    "text": "January 30",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Yesterday I sent a <a href=\"https://mastodon.social/@davew/111842775965982718\">message</a> to people who follow me on <a href=\"https://twitter.com/davewiner/status/1752171928356335970\">Twitter</a>, <a href=\"https://www.facebook.com/dave.winer.12/posts/pfbid02hkiJCEFtAXwtbqGvUpiy7VcpB1gRVbtcSZJsMDoDBaDmU5svoTr2hgZEd7gqXR8rl\">Facebook</a>, <a href=\"https://bsky.app/profile/scripting.com/post/3kk67hykcvd22\">Bluesky</a>, <a href=\"https://mastodon.social/@davew/111842775965982718\">Mastodon</a>, <a href=\"https://www.threads.net/@davew/post/C2tZaZ0sHxh\">Threads</a>, asking which networks people check first, which they get the most out of. As you might expect, the most common answer was the network I was asking on (except Facebook, no one answered there, I guessed that might happen, because Facebook is different from the others). I asked because I'm trying to figure that out for myself, and I'm kind of disappointed that I find myself going to Threads more often. It has the greater <a href=\"https://www.google.com/search?q=Sweaty+Palms+Quotient\">Sweaty Palms Quotient</a>, the feeling I used to have every week in the 80s when MacWeek or PC Week arrived. I always cleared the time to go through each issue carefully to see what my friends and competitors were up to. Then I would talk to my reporter friends, who wanted to know what I thought, or what back-room perspectives I could share with them. This was the time of the telephone, even before everyone had email, in the tech industry, believe it or not. Anyway, this isn't going the way I hoped it would. For me an open network built on the idea of \"textcasting\" is what I want to see, what I'm working towards. And seeing products like WordPress and its competitors as full-class members of the social web, because they already do textcasting, now all they need is to be hooked up to a social web that understands that writing isn't just <a href=\"https://www.google.com/search?q=site%3Ascripting.com+grunts+and+snorts\">grunts and snorts</a>. Anyway, it'll give you some encouragement that people in the fediverse are most optimistic about their preferred network being the best of the new lot. I still like Bluesky, a lot, because of the intelligence and creativity of the people who use it. And I like the UI, for its simplicity and familiarity, but I'm concerned it'll lose its simplicity when they federate. And don't count Twitter out yet, there's far more happening there than any of the other networks. And a lot of what you read on the other nets  is wishful thinking about the demise of Twitter. Hasn't happened yet, and my guess is it won't. It's really hard to snuff out machines with the kind of momentum Twitter has, even though Musk is doing his best. One more thing to think about, I don't think federation is what we need, I think we need <a href=\"http://scripting.com/2014/03/21/theWebIsMadeOfInterop.html\">interop</a>. It's a more permissive kind of compatibility, and will happen a lot sooner than federation, which honestly, I don't think ever will happen. With the usual disclaimers, most important that I'm often wrong, and am open to other constructive points of view. ",
+            "created": "Tue, 30 Jan 2024 13:20:12 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2022/08/08/bootstrappingByEngelbart.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "A little <a href=\"http://mindbomb.org/\">mind bomb</a>. I couldn't have written <a href=\"http://scripting.com/2024/01/30.html#a132012\">the above message</a> in any of the systems that it's about. It depends on textcasting features that none of those systems support.  ",
+            "created": "Tue, 30 Jan 2024 17:50:47 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
