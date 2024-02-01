@@ -1,0 +1,47 @@
+{
+    "created": "2024-01-31T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "31",
+    "path": "2024/01/31",
+    "text": "January 31",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "After my experience creating an Ace editor instance in a Bootstrap modal dialog, which I narrated in a <a href=\"http://scripting.com/2024/01/28/172149.html\">blog post</a> and in the <a href=\"https://chat.openai.com/share/840e8159-9988-4159-8289-5167d6fb78c8\">transcript</a> with ChatGPT, I had a flash that maybe I could figure out how to use ChatGPT to port \"Frontier\" to Linux. The code still runs on reasonably current Macs, but not the latest. I really should be working on Linux not Mac. If it weren't for my dependence on Frontier, I would be. I actually think ChatGPT might be a great programming partner for a meaty operating-system-like project like this. ",
+            "created": "Wed, 31 Jan 2024 14:50:10 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2022/03/21/beetle.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I just started a <a href=\"https://feedland.com/?username=davewiner&catname=ai\">FeedLand category</a> for AI. Only one feed in there so far. I just want be sure I'm reading all the interesting stuff as it comes out. ",
+            "created": "Wed, 31 Jan 2024 14:49:45 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Looking for bloggers, developers, reporters, columnists, who focus on new applications of AI. Please post a link <a href=\"https://github.com/scripting/Scripting-News/issues/291\">here</a>. If you have the URL for a feed, that would be best. Thanks!",
+            "created": "Wed, 31 Jan 2024 20:45:02 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "As I was writing the post about using ChatGPT to port Frontier, which is a C program, runs on Mac and Windows, GPL licensed, to Linux. This took me to an interesting place. Could a bot, having read all the source code of MySQL, for example, then be tasked with writing a non-GPL MySQL workalike that would <i>not</i> be open source? Here's a <a href=\"https://en.wikipedia.org/wiki/Category:Software_using_the_GPL_license\">list</a> of popular GPL-licensed software. ",
+            "created": "Wed, 31 Jan 2024 15:00:14 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The Knicks are <a href=\"https://nypost.com/2024/01/31/sports/knicks-taking-fun-to-new-level-and-its-time-to-revel-in-it/\">great</a> <a href=\"https://nypost.com/2024/01/31/sports/precious-achiuwa-has-another-big-night-in-knicks-blowout-win/\">now</a>. They're exactly the Knicks we wanted, home-grown, smart, winners. Haven't felt this good about the team since <a href=\"https://www.google.com/search?q=site%3Ascripting.com+Linsanity\">Linsanity</a>. “Next man up.” ",
+            "created": "Wed, 31 Jan 2024 17:06:36 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "JY Stervinou has a <a href=\"https://github.com/scripting/Scripting-News/issues/290\">suggestion</a> re the Forever problem. ",
+            "created": "Wed, 31 Jan 2024 14:54:12 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
