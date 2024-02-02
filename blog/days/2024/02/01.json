@@ -1,0 +1,136 @@
+{
+    "created": "2024-02-01T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "01",
+    "path": "2024/02/01",
+    "text": "February 01",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://textcasting.org/\">Textcasting</a> is rewriting the rules of the social web.",
+            "created": "Thu, 01 Feb 2024 15:38:22 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's what's going to happen. A bunch of new networks are forming, and they will melt into one, following a pattern established by the internet itself, when they formed a <a href=\"https://en.wikipedia.org/wiki/Transmission_Control_Protocol\">net of nets</a> based on a common protocol called TCP. On top of that HTTP was built, with a number of years following with very productive building and bootstrapping, and from there it was a lot of chaos, around the advent of Twitter, Facebook and Google Reader. The last time we had a common way of <a href=\"http://scripting.com/2014/03/21/theWebIsMadeOfInterop.html\">interop</a> was 17 years ago. I think/hope we're incentivized to make one edit box suffice, in place of the 5-10 <a href=\"http://scripting.com/2024/01/14.html#a145854\">tiny little textboxes</a> we now all have to copy-paste between, and btw one way of addressing nodes, and then we can start building again as we did last in the 90s and 00s. I see something brilliant in the <a href=\"https://www.theverge.com/2024/1/31/24057231/iconfactory-kickstarter-internet-reader-project-tapestry-twitterrific\">new path</a> that Twitteriffic wants to go down (I gave <a href=\"https://www.kickstarter.com/projects/iconfactory/project-tapestry\">them</a> $128). It's same path I've been going down, mostly without partners, for the 17 years since we crawled on land and started tweeting. I don't see the negative shit that's happening on Twitter, it's easy to avoid the mess -- I don't think that's the reason we're breaking out of that silo -- it's that all at once all the devs who had been quietly suffering with Twitter were set free. Boom. All at once. And it turns out perhaps we don't give up so easily. :smile:",
+            "created": "Thu, 01 Feb 2024 15:09:36 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2024/02/01/runner.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Every time you <a href=\"https://imgs.scripting.com/2024/01/14/tinyLittleTextBox.png\">see</a> a tiny little textbox that's a sure clue they're trying to own you, and hoping you don't notice.",
+            "created": "Thu, 01 Feb 2024 15:40:43 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/feedlandSupport/issues/236\">Heads-up</a> to users of feedland.org. There will be a little downtime tomorrow AM, Eastern time, for a system upgrade. ",
+            "created": "Thu, 01 Feb 2024 22:09:27 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "January's posts have been <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/opml/2024/01.opml\">archived to GitHub</a>, now we start a new month. February. What wonders will happen this month??",
+            "created": "Thu, 01 Feb 2024 15:08:28 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Bard does pics",
+            "created": "Thu, 01 Feb 2024 23:02:20 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Google's Bard now does pictures. I asked for thousands of cats marching on 8th Ave in NYC between 57th St and 45th St. A very different style from what ChatGPT would have drawn and I like it. ",
+                    "created": "Thu, 01 Feb 2024 23:02:26 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Cats on 8th Ave.",
+                    "created": "Thu, 01 Feb 2024 23:02:43 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2024/02/01/catsOnEighth.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "What's up at Harvard?",
+            "created": "Thu, 01 Feb 2024 22:10:59 GMT",
+            "type": "outline",
+            "description": "In my two years at Harvard in 00s, I never saw or experienced antisemetism there.",
+            "metaImage": "https://imgs.scripting.com/2024/02/01/catsHeaderImage.png",
+            "subs": [
+                {
+                    "text": "I wrote this note to Chris Lydon re the <a href=\"https://radioopensource.org/the-humbling-of-harvard/\">latest episode</a> of his podcast. ",
+                    "created": "Thu, 01 Feb 2024 22:11:08 GMT",
+                    "subs": [
+                        {
+                            "text": "Chris,",
+                            "created": "Thu, 01 Feb 2024 22:11:25 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I'm listening to your latest <a href=\"https://radioopensource.org/the-humbling-of-harvard/\">podcast about Harvard</a>, and totally appreciate this. ",
+                            "created": "Thu, 01 Feb 2024 22:13:15 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "In my two years at Harvard in the 00s, I never:",
+                            "subs": [
+                                {
+                                    "text": "1. Experienced antisemitism.",
+                                    "created": "Thu, 01 Feb 2024 22:13:23 GMT",
+                                    "flInCalendar": true
+                                },
+                                {
+                                    "text": "2. Saw antisemitism.",
+                                    "flInCalendar": true
+                                },
+                                {
+                                    "text": "3. Even thought about the <i>possibility</i> of antisemitism.",
+                                    "created": "Thu, 01 Feb 2024 22:13:24 GMT",
+                                    "flInCalendar": true
+                                }
+                            ],
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "On the Harvard campus.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "That said, antisemitism is everywhere, even inside me, a man whose grandparents were Jews who fled for their lives with their children from the Holocaust before and during WWII. I am a product of that, in ways I didn't even realize until my parents were gone. It's everywhere, all around, inside myself, inside everyone, and the best we can hope for imho is that it will stay hidden. ",
+                            "created": "Thu, 01 Feb 2024 22:13:55 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Ask me about what happened in the NBA with <a href=\"https://www.google.com/search?q=site%3Ascripting.com+kyrie\">Kyrie Irving</a>, and how, by their silence, the players and coaches showed how huge and deep the problem is.",
+                            "created": "Thu, 01 Feb 2024 22:14:48 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "To see the Repubs monetize this for political gain is par for the course. To see Harvard buckle under that, is as weak and the people who made that decision imho should resign in disgrace. ",
+                            "created": "Thu, 01 Feb 2024 22:20:49 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Thanks for your continued and unique excellence. ",
+                            "created": "Thu, 01 Feb 2024 22:15:09 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Dave",
+                            "created": "Thu, 01 Feb 2024 22:15:10 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
