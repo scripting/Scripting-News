@@ -1,0 +1,97 @@
+{
+    "created": "2024-02-02T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "02",
+    "path": "2024/02/02",
+    "text": "February 02",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "We hit a <a href=\"https://stackoverflow.com/questions/17824486/mysql-query-timing-out-70100-query-execution-was-interrupted\">snag</a> in the <a href=\"https://github.com/scripting/feedlandInstall/issues/54#issuecomment-1919574144\">upgrade</a> for <a href=\"https://feedland.org/\">feedland.org</a>. The work is narrated in this <a href=\"https://github.com/scripting/feedlandInstall/issues/56\">thread</a>. Here's what the snag was. We were low on storage starting at the beginning and eventually we ran out of space, and the error messages we got indicated the problem was something else. All the searching we did, none of the hits, or ChatGPT suggested looking at memory usage. Quite independently after thrashing around trying various theories, we finally got a message from the Digital Ocean service saying the server was out of space. When I doubled the space, that gave it enough room to do the tasks we had for it. Now running the last query. Looks like we may be over the hump. Let's just pray the software runs when we turn the server back on. :boom:",
+            "created": "Fri, 02 Feb 2024 15:06:49 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2021/09/17/simpsonsBeeGuy.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "At 10PM Eastern, we still haven't finished the upgrade. Will <a href=\"https://www.youtube.com/watch?v=Qp_djIuQ2Cw\">return</a> to the job tomorrow AM. ",
+            "created": "Sat, 03 Feb 2024 03:10:41 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=Qp_djIuQ2Cw",
+            "flInCalendar": true
+        },
+        {
+            "text": "If I were running Bluesky -- I'd think about incentives for people with the kind of following they want to cultivate to do most or all of their social media'ing there. Some people are already doing it or so it seems, <a href=\"https://bsky.app/profile/neilhimself.neilgaiman.com\">Neil Gaiman</a>, <a href=\"https://bsky.app/profile/andrewhickey.bsky.social\">Andrew Hickey</a>, and I'm sure there are lots of others. \n",
+            "created": "Fri, 02 Feb 2024 22:22:10 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I have a server that handles all my old sites, and it needs to be replaced, so I'm trying to figure out where to put all the sites. Most are really small, 10 or fewer files. But <a href=\"http://outline.land/treefun\">outline.land/treefun</a> was large and interesting, so I thought I'd put a link here. I have forgotten so many of my little experiments. ",
+            "created": "Fri, 02 Feb 2024 16:28:16 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I wrote a <a href=\"https://imgs.scripting.com/2024/02/02/frontierScriptToSortOutFolders.png\">script in Frontier</a> to sort the folders by how many files they contain. I shudder to think how long it would take to write in JavaScript with all its synchronous difficulties.",
+            "created": "Fri, 02 Feb 2024 22:25:27 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Debugging misbehaving servers",
+            "created": "Sat, 03 Feb 2024 03:17:11 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Generally I wish I had a checklist that said: ",
+                    "created": "Sat, 03 Feb 2024 03:17:22 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Do this.",
+                            "created": "Sat, 03 Feb 2024 03:18:02 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Then that.",
+                            "created": "Sat, 03 Feb 2024 03:18:05 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "And finally this.",
+                            "created": "Sat, 03 Feb 2024 03:18:07 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Cats are people too!",
+            "created": "Fri, 02 Feb 2024 20:47:50 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "\"Cats are on the march in NYC, on 8th Ave between 57th and 45th streets. Thousands of cats carrying signs and handing out leaflets saying 'Cats are people too!' and 'Up with Cats!' -- they are angry but there's a sense of celebration in the march, that finally the time has come for cats.\"",
+                    "created": "Fri, 02 Feb 2024 20:47:57 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The first version had one of the themes as \"Down with Dogs!\" but ChatGPT rejected that as not being nice enough. So I changed it to \"Up with Cats!\" Please keep that in mind.",
+                    "created": "Fri, 02 Feb 2024 20:49:55 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Cats are marching on 8th Ave",
+                    "created": "Fri, 02 Feb 2024 20:49:35 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2024/02/02/catsRUs.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
