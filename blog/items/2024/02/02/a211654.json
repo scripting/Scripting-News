@@ -1,0 +1,6 @@
+{
+    "text": "Here's what the snag was. We were low on storage starting at the beginning and eventually we ran out of space, and the error messages we got indicated the problem was something else. All the searching we did, none of the hits, or ChatGPT suggested looking at memory usage. Quite independently after thrashing around trying various theories, we finally got a message from the Digital Ocean service saying the server was out of space. When I doubled the space, that gave it enough room to do the tasks we had for it. Now running the last query. Looks like we may be over the hump. Let's just pray the software runs when we turn the server back on. :boom:",
+    "created": "Fri, 02 Feb 2024 21:16:54 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
