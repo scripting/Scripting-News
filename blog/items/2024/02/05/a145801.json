@@ -1,0 +1,6 @@
+{
+    "text": "feedland.org runs on a small <a href=\"https://cloud.digitalocean.com/droplets/new\">Digital Ocean server</a>, and Com runs in a data center. The first is a fixed-size relatively small scale server that can't expand, and the latter is designed to scale automatically according to demand. I spent most of 2023 converting the software to run in the scalable environment. ",
+    "created": "Mon, 05 Feb 2024 14:58:01 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
