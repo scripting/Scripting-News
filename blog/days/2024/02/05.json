@@ -1,0 +1,47 @@
+{
+    "created": "2024-02-05T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "05",
+    "path": "2024/02/05",
+    "text": "February 05",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I was asked about the difference between <a href=\"https://feedland.com/\">feedland.com</a> and <a href=\"https://feedland.org/\">feedland.org</a>. Which should you create a new account on? ",
+            "created": "Mon, 05 Feb 2024 14:38:07 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2022/03/21/beetle.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "feedland.org runs on a small <a href=\"https://cloud.digitalocean.com/droplets/new\">Digital Ocean server</a>, and Com runs in a data center. The first is a fixed-size relatively small scale server that can't expand, and the latter is designed to scale automatically according to demand. I spent most of 2023 converting the software to run in the scalable environment. ",
+            "created": "Mon, 05 Feb 2024 14:58:01 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you're creating something new, definitely create it on feedland.com. If you're already using feedland.org, for now you're welcome to continue, but in the back of your mind think about creating a new account on Com and importing your subscription list. Org is proving useful to have around, so I don't imagine it'll go away, it's much easier for me to work on a DO server than on the big cloud-based server. ",
+            "created": "Mon, 05 Feb 2024 14:58:43 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "You should assume that some day <i>all</i> these systems will disappear. The web is ephemeral. But -- my guess is <a href=\"https://feedland.com/\">feedland.com</a> will be around longer. However, honestly, I really have no idea, no one does. ",
+            "created": "Mon, 05 Feb 2024 15:00:12 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, while we're doing this transition in FeedLand, I also have a small crisis happening on my main static server, which depends on a combination of software that suddenly aren't getting along with each other. Obviously something changed. I'm running it in a somewhat crippled state, I may be figuring how to dig out of this hole. One of the downsides of having fun with server software.",
+            "created": "Mon, 05 Feb 2024 14:36:45 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Everyone's watching and listening to <a href=\"https://twitter.com/RealBrittain/status/1754316190552375724\">Fast Car</a> this morning. It's a time capsule for so many of us. <a href=\"https://en.wikipedia.org/wiki/Fast_Car\">1988</a>. A window back to good times.",
+            "created": "Mon, 05 Feb 2024 14:07:52 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
