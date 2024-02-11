@@ -1,0 +1,6 @@
+{
+    "text": "Thinking out loud. It would be interesting if every feed for a wordpress.com site included the <code>site_ID</code> of the site it came from, and if every item had the <code>ID</code> of the item it came from. A WordPress-aware reader might be able to do something with this. Or if it knew that the user owned the site it came from, it could open it in a simple editor. I was thinking through a use-case and came across this idea. Isn't it time for there to be a WordPress namespace? After all it's not only a big part of the web, it's also a big part of the feed world. ",
+    "created": "Sat, 10 Feb 2024 14:22:05 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
