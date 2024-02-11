@@ -1,0 +1,39 @@
+{
+    "text": "A WordPress namespace?",
+    "created": "Sat, 10 Feb 2024 14:27:50 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Thinking out loud. ",
+            "created": "Sat, 10 Feb 2024 14:22:05 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "It would be interesting if every feed for a wordpress.com site included the <i>site_ID</i> of the site an item came from, and if every item had the <i>ID</i> of the item it came from. Shorten the distance from seeing something that needs editing to actually being able to edit it. ",
+            "created": "Sat, 10 Feb 2024 14:28:02 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "This was one of the big realizations of <a href=\"http://scripting.com/davenet/1999/05/24/editThisPage.html\">Edit This Page</a> in 1999.  ",
+            "created": "Sat, 10 Feb 2024 14:31:23 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "A WordPress-aware reader might be able to do something with this. Or if it knew that the user owned the site it came from, it could open it in a simple editor. ",
+            "created": "Sat, 10 Feb 2024 14:28:22 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I was thinking through a use-case and came across this idea. ",
+            "created": "Sat, 10 Feb 2024 14:28:33 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Isn't it time for there to be a WordPress namespace? After all it's not only a big part of the web, it's also a big part of the feed world. ",
+            "created": "Sat, 10 Feb 2024 14:28:38 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
