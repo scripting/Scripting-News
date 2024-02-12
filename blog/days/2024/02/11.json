@@ -1,0 +1,105 @@
+{
+    "created": "2024-02-11T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "11",
+    "path": "2024/02/11",
+    "text": "February 11",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I'm almost rooting for KC just so Taylor can be the total dominant uncontested Queen of America.",
+            "created": "Mon, 12 Feb 2024 02:51:25 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "If the Supreme Court had an ounce of guts they would say <a href=\"https://apnews.com/article/trump-insurrection-14th-amendment-2024-colorado-d16dd8f354eeaf450558378c65fd79a2\">this isn't</a> a state matter, it's a federal matter, and we are the federal government, so here's the deal. Trump tried to overthrow the government and he took an oath to protect the government, and therefore the 14th Amendment applies, and he can't be on the ballot anywhere, including Colorado.",
+            "created": "Sun, 11 Feb 2024 20:33:54 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Where did <a href=\"http://isRssDead.com/\">RSS being D</a> come from? The meme was started by VCs and tech influencers in the 00s. A bunch of VCs had RSS startups, hired people who didn't know anything about it to run the companies. ",
+            "created": "Sun, 11 Feb 2024 16:38:33 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/07/02/validRss.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=XpqqjU7u5Yc\">How Deep is Your Love?</a>",
+            "created": "Sun, 11 Feb 2024 16:51:27 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=XpqqjU7u5Yc",
+            "flInCalendar": true
+        },
+        {
+            "text": "One way is always better than two",
+            "created": "Sun, 11 Feb 2024 15:35:10 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Most Hacker News threads devolve into people talking about personalities, not about tech stuff. But yesterday's <a href=\"https://news.ycombinator.com/item?id=39324847\">thread</a> about OPML was the rare exception, until someone who says they like me (I guess) said something personal and ugly. ",
+                    "created": "Sun, 11 Feb 2024 15:21:48 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I wonder why after all this time we can't see how pointless it is to have opinions about people, esp online. Everything you hear is passed through someone else's filters, so you're getting a huge dose of their personality along with a sliver of insight into the person they're talking about. ",
+                    "created": "Sun, 11 Feb 2024 15:41:01 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And don't forget to factor in that sometimes when someone has put an <a href=\"https://www.google.com/search?q=site%3Ascripting.com+interop\">obstacle</a> in the way of big companies, you can earn favor inside those companies by scandalizing the person whose work they object to. There was a lot of that happening as RSS crossed paths with some very big and rich companies with lots of employees, and an interest in appearing to interop without the cost of interop.",
+                    "created": "Sun, 11 Feb 2024 15:41:33 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I've tried to add formats, protocols and software to the mix, always trying to compromise. It's not mentioned in the Wikipedia page on RSS that I had a format that does what RSS does, a year before it existed, but I gave it up so that Netscape and UserLand would build on the same format, RSS. ",
+                    "created": "Sun, 11 Feb 2024 15:31:08 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I didn't invent RSS. I did something much greater, I compromised. We had the leading blogging software at the time, and Netscape had the feeds of four credible news orgs. When you put them together, that turned out to be huge power. We eventually pulled in all of social media and all of professional publishing into one format. Ask anyone who was active at the time. The blogging world adopted RSS in an instant, in 1999 and 2000. And in 2002, when the NYT adopted it, again, in an instant the entire news world all of a sudden all had RSS feeds. You can see it in the steady stream of announcements in the archive of <a href=\"http://scripting.com/\">this blog</a>. ",
+                    "created": "Sun, 11 Feb 2024 15:42:46 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "BTW there was someone brilliant at Netscape who saw our compromise and responded with more compromise. Their next version of RSS had some of the features we had left behind in our format. We never asked them to do that, they just figured it out. Collaboration is something that requires two, one person can't collaborate on their own. I know that sounds ridiculous, but sometimes people don't look for the other party who made compromise possible.",
+                    "created": "Sun, 11 Feb 2024 15:37:49 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I don't think even the people who were closest to it at the time understood the move. And I don't think very many appreciate the power that comes from being the one who throws in the towel on their pet project to attain unity. ",
+                    "created": "Sun, 11 Feb 2024 15:33:33 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "One way of doing something is always better than two. That's just a restatement of <a href=\"https://en.wikipedia.org/wiki/Robustness_principle#:~:text=It%20is%20often%20reworded%20as,an%20early%20specification%20of%20TCP.\">Postel's Postulate</a>. Be conservative in what you send. ",
+                    "created": "Sun, 11 Feb 2024 16:59:57 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "That doesn't just apply to you, it applies to all of us collectively. Every time you add something that already exists we're all going to pay for it. ",
+                    "created": "Sun, 11 Feb 2024 15:55:41 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If you think that saying this makes me <a href=\"https://en.wiktionary.org/wiki/cantankerous\">cantankerous</a> -- well, I say okay -- but you're wrong because it's generous and brilliant to push back when people add complexity. Of course people don't like to hear they're doing something wrong, but when it comes to accumulating complexity debt unnecessarily, well imho you have to listen to that. Complexity is a force against interop. ",
+                    "created": "Sun, 11 Feb 2024 15:55:50 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "We should be looking for opportunities to work together to create something greater than anything any one of us can create. ",
+                    "created": "Sun, 11 Feb 2024 17:47:23 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "See also: the role of <a href=\"http://essaysfromexodus.scripting.com/priorArtDesignMethod\">prior art</a> in design.",
+                    "created": "Sun, 11 Feb 2024 15:39:38 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
