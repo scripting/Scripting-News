@@ -1,0 +1,66 @@
+{
+    "created": "2024-02-19T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "19",
+    "path": "2024/02/19",
+    "text": "February 19",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I've had a recent change of direction. Now I'm factoring into my thinking and planning that there will be a rebirth in blogging, because I see there are people willing to work on making the systems work together in new interesting ways. That's what it's going to take -- we have to capture the imaginations of the smartest web writers. And the only thing that's going to get their attention is developers working together to create new experiences for everyone. Now I believe it's going to happen. ",
+            "created": "Mon, 19 Feb 2024 17:16:59 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2021/06/14/strongman.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/293\">Random thought</a> -- maybe the fastest way to get full ActivityPub support for WordPress is to offer a feature in any WP site to cross-post to a Mastodon gateway operated by Automattic. It's possible I don't understand the problem of course. But Mastodon is open source, so it's not like depending on another vendor to do this for you. And then you avoid all the hassles with having to say what part of the protocol is ActivityPub and what part is Mastodon's API.",
+            "created": "Mon, 19 Feb 2024 14:50:33 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Eagle on a tree",
+            "created": "Mon, 19 Feb 2024 18:18:54 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "This eagle was perched on a tree near my house. ",
+                    "created": "Mon, 19 Feb 2024 18:18:59 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2024/02/19/eagleOnTree.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "I look forward to dumping Trump again",
+            "created": "Mon, 19 Feb 2024 14:06:17 GMT",
+            "type": "outline",
+            "metaImage": "https://imgs.scripting.com/2024/02/19/trumpAndHisMaster.png",
+            "description": "Putin's little buddy.",
+            "subs": [
+                {
+                    "text": "I've mostly kept Trump off the <a href=\"http://scripting.com/\">home page</a> of this blog since he left office in 2021, but things are changing, and this is shaping up as a Trump year. I read today in the NYT that the resistance <a href=\"https://www.nytimes.com/2024/02/19/us/politics/trump-resistance-democrats-voters.html?unlocked_article_code=1.Wk0.0hoY.duTfLtk_PUxj&smid=url-share\">is exhausted</a>. Bullshit. We're very well rested. Anyway I look forward to once again, pretending Trump doesn't exist, next year or the year after, Murphy-willing. ",
+                    "created": "Mon, 19 Feb 2024 14:04:22 GMT",
+                    "type": "outline",
+                    "image": "https://imgs.scripting.com/2023/04/10/trumpBeingCarriedAway.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The other day when I was skiing at <a href=\"https://www.belleayre.com/\">Belleayre</a>, I got to ride up on a chairlift with a Trump supporter. He told me he got Covid but it wasn't a big deal, just like a cold. I said a lot of people died from Covid. He said most were already sick or overweight. I said yeah but they deserve to live too. He said he didn't get vaccinated, he doesn't like to put drugs in his body. What bullshit I muttered under my breath. I looked at him, maybe ten years younger than me. From New Jersey, a house painter. I said that my life has been saved by drugs at least twice, once when I was perfectly healthy other than having a ruptured appendix at 9 years old. I also said you're really lucky not to have needed medical care, but before you die I bet you will. And I thought to myself but didn't say out loud that what about your parents and grandparents, siblings even children? Have they all been perfectly healthy until they died? Anyway a chairlift is not a safe place for real anger, but -- you also can't walk away from the other person. There's a lot of soul-sharing on rides like that.  ",
+                    "created": "Mon, 19 Feb 2024 14:23:15 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "What Trump means by making America great.",
+                    "created": "Mon, 19 Feb 2024 14:06:24 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2024/02/19/whatMagaReallymeans.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
