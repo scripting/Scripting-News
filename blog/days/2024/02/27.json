@@ -1,0 +1,37 @@
+{
+    "created": "2024-02-27T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "27",
+    "path": "2024/02/27",
+    "text": "February 27",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://www.nytimes.com/2024/02/27/climate/scientists-are-freaking-out-about-ocean-temperatures.html\">Ocean warming</a> is a bad thing. Ocean currents determine the weather all around the world, accounting for a relatively mild environment in Europe, for example, even though a city like London is on the same parallel as <a href=\"https://en.wikipedia.org/wiki/Winnipeg#Climate\">Winnipeg</a>. Once the current is disrupted, people will find their buildings are not prepared for the change, or the cost of heating homes, or growing food. ",
+            "created": "Tue, 27 Feb 2024 23:06:41 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2024/01/26/cartoonChicken.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "In the 80s there was a tech press that reviewed software, and explained OSes and hardware, so you really had a good idea what was going on. They just don't do that anymore. Haven't for many years. But along comes ChatGPT and I can get a <a href=\"https://chat.openai.com/share/e8b8e861-4345-45c4-a5bb-8e5b7432b240\">comparitive review</a> of hosting services that compete with Digital Ocean, just by asking for it. I wanted to get an idea of how easy it would be to create an open source app so it could be easily deployed, on any of them and what the pros and cons were. I asked for a comparison between Digital Ocean (where I host my servers now) and Amazon, Microsoft, Google and I threw in <a href=\"https://glitch.com/\">Glitch</a>, just to anchor the whole thing simplicity-wise. Even InfoWorld wouldn't have done such an in-depth review. This is a <a href=\"https://en.wikipedia.org/wiki/Productivity\">productivity</a> revolution, at least.",
+            "created": "Tue, 27 Feb 2024 19:47:25 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "There's a new faster version of <a href=\"http://news.scripting.com/\">news.scripting.com</a> coming. I was originally thinking I'd do the switch today, but decided to hold it for a bit. I want to do more testing and development.",
+            "created": "Tue, 27 Feb 2024 16:55:27 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "My <a href=\"https://www.threads.net/\">Threads timeline</a> is full of <a href=\"https://www.threads.net/@davew/post/C30_luzJBQa\">Kara Swisher</a> the last few days. She has a <a href=\"https://www.amazon.com/s?k=kara+swisher+burn+book&hvadid=673834124081&hvdev=c&hvlocphy=1023511&hvnetw=g&hvqmt=b&hvrand=4553868743109009067&hvtargid=kwd-2231804831244&hydadcr=22122_13323353&tag=googhydr-20&ref=pd_sl_1th6nk73pi_b\">book</a> coming out. I think she's popular with other journalists. Her theme appears to be that it's the personalities that matter, not what the companies do. I don't think she has a whole lot of insight into the products and technology. For some reason tech, which mystifies a lot of history and english majors, is considered irrelevant or optional, or maybe kind of cute, by the typical reporter. So she expresses tech in terms the journalists understand, therefore they like her.   ",
+            "created": "Tue, 27 Feb 2024 12:45:37 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2024/02/27/burnbook.png",
+            "imageLink": "https://www.amazon.com/Burn-Book-Tech-Love-Story/dp/B0CFYPHG5Z/ref=sr_1_2?crid=3A5HZAPQIQFN8&dib=eyJ2IjoiMSJ9.FM8cBCpWVjk-hhWnwzpLlX0FMjTZPzKAoZCVc70s5piiJcGsYN7gIJYoFxVwo_4v0KHWDRlnMsEaF51rlZN16HeQKQMc4sW4J056RoRAXZT32fFR-c5UJ-4DqGA5dfnesjv2jr2CHTAoQwcR9r43FN43u9_5-gF_fmdDysqBV10WWx5CZ5yn3GManiF5uyQQrq4RX1ZecFx71TZJQPWulhU7jlhI5L1i7KZt2ckiiLeXV9zdCQ3sWXZBjyQb74URk6ltIZS9gZR0AuLOrM4VVI203z1ufKePtL3RPWzbs8E.wF9wf4LkD-HHDyWm9SSu_j9cDqNW_4bCxHA-p9izwIY&dib_tag=se&keywords=burn+book&qid=1709038706&sprefix=burn+book%2Caps%2C106&sr=8-2",
+            "flInCalendar": true
+        }
+    ]
+}
