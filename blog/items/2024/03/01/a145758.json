@@ -1,0 +1,66 @@
+{
+    "text": "Blogs for social web apps",
+    "created": "Fri, 01 Mar 2024 14:57:58 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "In a new product I'm working on, I'm including links to the blogs of the social media apps I use. I notice that most of them have one. This is why:",
+            "created": "Fri, 01 Mar 2024 14:58:06 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "You can put a title on a post on a blog.",
+                    "created": "Fri, 01 Mar 2024 14:58:13 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You can include links (invariably announcements have links).",
+                    "created": "Fri, 01 Mar 2024 14:58:28 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You can edit posts.",
+                    "created": "Fri, 01 Mar 2024 14:58:30 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Simple text styling.",
+                    "created": "Fri, 01 Mar 2024 14:58:31 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Blogs have feeds.",
+                    "created": "Fri, 01 Mar 2024 14:58:14 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "So I'm looking for the official blogs of the social apps I use -- Mastodon, Bluesky, Twitter, Threads. ",
+            "created": "Fri, 01 Mar 2024 14:58:38 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "If so, what's the feed URL? ",
+            "created": "Fri, 01 Mar 2024 14:59:37 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's a <a href=\"https://github.com/scripting/Scripting-News/issues/294\">place</a> to comment.",
+            "created": "Fri, 01 Mar 2024 15:05:18 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "PS: It seems dumb to have two places for writing. <s>Also I bet Bluesky wrote their own blogging software, which is why there's no feed for their blog, which is awkward because Bluesky itself has feeds. As a programmer, I don't think I could maintain both codebases, and i'm pretty sure the blog is the one that'll get abandoned.</s> Update: they do <a href=\"https://github.com/scripting/Scripting-News/issues/294#issuecomment-1973571777\">have a feed</a> for their blog. At some point there won't be a distinction between blogging and social media-ing. Remember the \"tiny little text boxes\" have to go. :smile:",
+            "created": "Fri, 01 Mar 2024 17:13:10 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "PPS: Twitter's blog has a <a href=\"https://blog.x.com/en_gb/blog.rss\">really shitty title</a>, it shows up in the list as English (UK). That should be fixed to something like Twitter Blog. I know how this happens, obviously they're maintaining more than one language, so the title is given from their point of view. As a reader, it has to make sense in a list of feeds from different publishers. Here's a <a href=\"https://imgs.scripting.com/2024/03/01/howCouldYouTellThatsTwitter.png\">screen shot</a> to illustrate. ",
+            "created": "Fri, 01 Mar 2024 17:16:01 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
