@@ -1,0 +1,152 @@
+{
+    "created": "2024-03-05T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "05",
+    "path": "2024/03/05",
+    "text": "March 05",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "The new version of <a href=\"https://news.scripting.com/\">news.scripting.com</a> is up. It's been a long time coming. It looks a lot like the previous version. But it's faster. And if you poke around you'll find some new stuff. There's an <a href=\"https://this.how/newsScriptingCom/\">About page</a>, linked into the info icon at the top of the page. Basically the dust is settling on the big work we did last year, and now things are starting to feel more like products. I don't doubt there will be problems, as they say, still diggin! 😄",
+            "created": "Tue, 05 Mar 2024 16:54:12 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2022/09/28/rss.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, in case you're wondering where \"still diggin!\" came from -- here's the deal. I have a feeling that when I develop software it's a lot like digging a hole and then starting another, and another and using the dirt from a new hole to fill in the old holes. At any time there's more or less a constant amount of dirt and holes. It seems futile at first look, and second looks and third looks, but we do eventually get somewhere, or so we hope, maybe. It's like \"even worse than it appears.\" Still diggin is meant to say we know it's really futile, you don't have to point that out, we never actually go anywhere or do anything, but we feel somehow that next time it really will work. It's a Vonnegut-like or Deadhead-like philosophy, which is also very Postel-like. In other words, realistic. ",
+            "created": "Tue, 05 Mar 2024 17:05:30 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://www.threads.net/@emilyreesnunn/post/C4GDOWGr9T6\">Emily Nunn</a>: \"I don’t understand how all the outcry about their bizarre and defensive political coverage and the scary effect it can have on the election is not a major investigative story being written by other journalists. Not some fancy media critic opinion or an editorial. A real report, taking defensiveness out of it and applying accountability.\" A regular reader of this blog will know how totally I agree with this. But oddly when I agreed with her, perhaps a little to strongly for her liking, she accused me of being a MAGA. It's so totally not true, and typical of reporters, to use an ad hominem to not have to listen to a non-journalist opinion about journalism. ",
+            "created": "Tue, 05 Mar 2024 13:51:48 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/08/01/mrmet.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I have been a reader of the NYT since I was a small child. I wanted to be a writer like <a href=\"https://en.wikipedia.org/wiki/Russell_Baker\">Russell Baker</a>. I was quoted by <a href=\"https://en.wikipedia.org/wiki/William_Safire\">William Safire</a> in an op-ed. I have done some of the <a href=\"http://scripting.com/davenet/2002/04/10/newYorkTimesAndUserland.html\">most successful work</a> of my career with the NYT. I love journalism <a href=\"http://scripting.com/2018/06/24/181734.html\">like I love the Mets</a>. I don't expect them to do great things every season, but I do hope for a <a href=\"https://en.wikipedia.org/wiki/1969_New_York_Mets_season\">1969</a> or <a href=\"https://en.wikipedia.org/wiki/1986_New_York_Mets_season\">1986</a> every once in a while. These days I don't have much hope for the NYT returning to its former glory. I also wonder if they ever really were that great, that maybe I was just a naive young hero-seeker, growing up in Queens in the 1960s. We <i>all</i> have to work together to dig out of the hole we're in. And that means reporters have to start looking at themselves, and they have to listen to us, the people who care about the job that we need journalism to do, that it isn't doing. ",
+            "created": "Tue, 05 Mar 2024 23:10:30 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The writing is the same",
+            "created": "Tue, 05 Mar 2024 20:13:01 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "All these different networks, but it's all the same kind of writing. ",
+                    "created": "Tue, 05 Mar 2024 20:13:07 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I just pasted a link to a Substack post into a Threads document. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It would make so much sense if the document itself was readable right there, wouldn't it?",
+                    "created": "Tue, 05 Mar 2024 20:13:16 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Is the concept of a \"web page\" all that valuable?",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Imagine if each note was a node. ",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "How we learn to art",
+            "created": "Tue, 05 Mar 2024 20:05:50 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2024/03/05/howWeLearnToArt.png",
+            "subs": [
+                {
+                    "text": "People learn to make art by studying previous artists. Would we want it any other way? ",
+                    "created": "Tue, 05 Mar 2024 20:01:28 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Imagine if everyone had to reinvent everything that anyone had ever invented just to make something new. ",
+                    "created": "Tue, 05 Mar 2024 20:14:12 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "There is a lot of that in software, people won't put in an API so you have to rebuild the whole house just to get a window. ",
+                    "created": "Tue, 05 Mar 2024 20:14:20 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "We can make progress when people don't try to lock up their ideas. ",
+                    "created": "Tue, 05 Mar 2024 20:14:26 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Individuals live just a short time, we can't do that much in a lifetime, but we are an amazing species, because we leave behind what we learn and we build. ",
+                    "created": "Tue, 05 Mar 2024 23:42:58 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "We learn by studying ourselves.",
+                    "created": "Tue, 05 Mar 2024 20:08:52 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2024/03/05/selfportrait.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So why shouldn't our machines be able to learn too? They already can do things vastly more complex than we can. We've invented a huge lever. ",
+                    "created": "Tue, 05 Mar 2024 20:14:39 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Science fiction tells us that we will lose control and be enslaved by our machines. I love those stories, like the Matrix and Battlestar Galactica. But those are stories, they didn't happen. The future is rarely so predictable. Things interact in unforseeable ways. ",
+                    "created": "Tue, 05 Mar 2024 20:14:47 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "We're at dead-ends in climate and government. We need to make radical changes, and a fresh invention as radically progressive as any that has come before is now in our hands. ",
+                    "created": "Tue, 05 Mar 2024 20:15:11 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "We're going to use it.",
+                    "created": "Tue, 05 Mar 2024 20:15:26 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2024/03/05/weWillUseIt.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: I wrote the words, ChatGPT did the images. ",
+                    "created": "Tue, 05 Mar 2024 20:16:09 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Screen shot",
+            "created": "Tue, 05 Mar 2024 17:13:54 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "A new <a href=\"http://scripting.com/2024/03/05.html#a165412\">version</a> of news.scripting.com went up today.",
+                    "created": "Tue, 05 Mar 2024 17:14:49 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I like to save a screen shot when a new version of something goes up. ",
+                    "created": "Tue, 05 Mar 2024 17:14:01 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2024/03/05/newsScripting.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
