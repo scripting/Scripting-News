@@ -1,0 +1,6 @@
+{
+    "text": "There's a problem on <a href=\"https://news.scripting.com/\">news.scripting.com</a> and the <a href=\"http://scripting.com/\">scripting.com</a> home page. On a mobile device, sometimes you have to click several times on a tab to get it to switch. It doesn't seem to happen in desktop browsers. Yesterday I finally got it to reproduce on my own machine, when emulating an iPad Mini in Chrome on my desktop. I added debugging code and set breakpoints, and had a theory that tooltips were interfering, which turned out not to be the case, but now that I can reproduce it here, I really want to get this solved. If you have development experience, or just like a good technical puzzle, <a href=\"https://github.com/scripting/Scripting-News/issues/287#issuecomment-1983757115\">here's the thread</a>. Help much appreciated. ",
+    "created": "Fri, 08 Mar 2024 15:23:22 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
