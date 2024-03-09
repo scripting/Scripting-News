@@ -1,0 +1,53 @@
+{
+    "created": "2024-03-08T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "08",
+    "path": "2024/03/08",
+    "text": "March 08",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I just added a &lt;link rel=\"blogroll\"> to my blog. I don't think it's ever had such a thing before. Now where's the freaking blogroll? :smile:",
+            "created": "Fri, 08 Mar 2024 21:32:39 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://en.wikipedia.org/wiki/Poor_Things_(film)\">Poor Things</a> on Hulu is excellent. Didn't get a good <a href=\"https://www.nytimes.com/2023/12/07/movies/poor-things-review.html\">review</a> from NYT. I usually like their reviews but this time I think the reviewer didn't understand. As I see it, it's hey check out what <a href=\"https://en.wikipedia.org/wiki/Emma_Stone\">Emma Stone</a> is doing now. Really entertaining because she is such a thrill. ",
+            "created": "Fri, 08 Mar 2024 21:28:09 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's a test you can help with if you have a minute and are using a tablet or phone. Go to <a href=\"http://scripting.com/code/tabsmanager2/testing/?title=tabletTest\">this page</a>. Click on each of the tabs. Do the clicks always work? Or do you have to click several times to get anything to happen. There is no good or bad answer. It's just a test. Please report result <a href=\"https://github.com/scripting/Scripting-News/issues/287#issuecomment-1986089776\">here</a>. Say what kind of device you were using. Thanks! :-)",
+            "created": "Fri, 08 Mar 2024 17:13:59 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/11/30/goodhumortruck.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "There's a problem on <a href=\"https://news.scripting.com/\">news.scripting.com</a> and the <a href=\"http://scripting.com/\">scripting.com</a> home page. On a mobile device, sometimes you have to click several times on a tab to get it to switch. It doesn't seem to happen in desktop browsers. Yesterday I finally got it to reproduce on my own machine, when emulating an iPad Mini in Chrome on my desktop. I added debugging code and set breakpoints, and had a theory that tooltips were interfering, which turned out not to be the case, but now that I can reproduce it here, I really want to get this solved. If you have development experience, or just like a good technical puzzle, <a href=\"https://github.com/scripting/Scripting-News/issues/287#issuecomment-1983757115\">here's the thread</a>. Help much appreciated. ",
+            "created": "Fri, 08 Mar 2024 15:23:22 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Why hasn't anyone invented a substance that has the properties of snow but doesn't melt. It's probably a crazy question. Why hasn't anyone invented a substance that has the properties of snow but doesn't melt. It's probably a crazy question. Why does it have to be cold to ski??",
+            "created": "Fri, 08 Mar 2024 17:39:35 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "When I was a kid we used card catalogs, microfilm, encyclopedia and almanacs. Much later there was the web with search, Wikipedia and archive.org. Now there's ChatGPT. Each level was a dramatic improvement of the previous one. Now everything we're all working on is cast in a new context. They don't mean what they used to. What problem with the AI solve next? Any one of us can discover one, any day.",
+            "created": "Fri, 08 Mar 2024 17:42:03 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Evan Prodromou <a href=\"https://www.threads.net/@evanprodromou/post/C4OkHjlveLn\">explains</a> that he has access to a feature in Threads that we don't have, which allows him to follow his Threads account from a Mastodon account. This is the easy side of interop, the other direction is more difficult, not technically, but from a regulation and PR standpoint. Facebook (they call themselves Meta now) heavily regulates what people can see on their network, and it's hard to imagine them not having an App Store like the ones on iOS and Android that allows certain services to peer with them and disallows the rest. This should be factored into people's thinking about the benefits of federating. It probably will feel fairly one-way. ",
+            "created": "Fri, 08 Mar 2024 14:09:28 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
