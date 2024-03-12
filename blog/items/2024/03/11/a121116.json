@@ -1,0 +1,6 @@
+{
+    "text": "Last night's <a href=\"http://scripting.com/email\">email</a> was a repeat of Saturday's. The reason was the switch to <a href=\"https://en.wikipedia.org/wiki/Daylight_saving_time\">Daylight Savings Time</a>. This happens every year. The fix is to edit stats.json in the mail sender app's folder, and change <code>whenLastUpdate</code> to the day before, save it, and restart the sender app. It immediately sends out the correct email. I put this note here so I might find it next time it happens and I forget how to fix it. :smile:",
+    "created": "Mon, 11 Mar 2024 12:11:16 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
