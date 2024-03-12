@@ -1,0 +1,78 @@
+{
+    "created": "2024-03-11T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "11",
+    "path": "2024/03/11",
+    "text": "March 11",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Manton Reece: <a href=\"https://www.manton.org/2024/03/11/recommendations-and-blogrolls.html\">Recommendations and Blogrolls</a>. We have been working on this together for the last couple of weeks. Really exciting to see it come to fruition.",
+            "created": "Mon, 11 Mar 2024 19:51:57 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Journalism talks about Trump's trials, but they are trials for the Constitution too. If Trump is guilty (spoiler: <a href=\"https://en.wikipedia.org/wiki/Trump%E2%80%93Raffensperger_phone_call\">he is</a>) then if he isn't punished we no longer have the rule of law. So don't miss that we are on trial too. And -- when journalism frames the faceoff as Democrat vs Republican, they ignore us, the people of the United States. Whether people know it or not, they will lose if the Republicans win. We know that, it's provable. And anything that's true should be built into the stories journalism writes about.",
+            "created": "Mon, 11 Mar 2024 16:52:49 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/296\">Next tab test</a>: Do the tabs on news.scripting.com work??",
+            "created": "Mon, 11 Mar 2024 13:59:06 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Last night's <a href=\"http://scripting.com/email\">email</a> was a repeat of Saturday's. The reason was the switch to <a href=\"https://en.wikipedia.org/wiki/Daylight_saving_time\">Daylight Savings Time</a>. This happens every year. The fix is to edit stats.json in the mail sender app's folder, and change <code>whenLastUpdate</code> to the day before, save it, and restart the sender app. It immediately sends out the correct email. I put this note here so I might find it next time it happens and I forget how to fix it. :smile:",
+            "created": "Mon, 11 Mar 2024 12:11:16 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Oh servers!",
+            "created": "Mon, 11 Mar 2024 12:47:03 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "The other day I wrote proudly that we had better more reliable server software in 2024 than we did the first time we bootstrapped blogging communities. ",
+                    "created": "Mon, 11 Mar 2024 12:47:17 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And then this happened...",
+                    "created": "Mon, 11 Mar 2024 12:47:59 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "We've been having serious problems on \"feedland.com\" since Friday when I made a software version mistake. At first it caused the server to crash when you tried to subscribe to a new feed, so you'd get an awful error message, either from the FeedLand website, or the browser, saying the server had gone away. I quickly fixed that problem and another, and restored the server to some basic functionality. But when I did some work on my account over the weekend, I saw that there were new errors. And then noticed that none of my feeds had updated since March 8, they still haven't. ",
+                    "created": "Mon, 11 Mar 2024 12:36:13 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "We're going to fix it this morning, by reverting the server software to the version as it was before the update, and the server should return to its previous reliability, Murphy-willing. Then we're going to upgrade the database, and then install the new software, and try again. That won't happen today and probably not tomorrow. ",
+                    "created": "Mon, 11 Mar 2024 12:48:23 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Most people probably don't know that feedland.com is a project I'm doing with Automattic. It's running in their cloud. This system should be able to scale up in ways that a Digital Ocean droplet can't, where feedland.org and the new feedland.social are running. So when there are many thousands of users, we should be okay. That's why I did the work to convert FeedLand so everything is stored in the SQL database, and nothing in the file system, among other changes that had to be made last year, like getting off Twitter for identity. That was not much fun, but it had to be done. ",
+                    "created": "Mon, 11 Mar 2024 12:48:36 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Anyway I am very sorry and embarrassed for the unreliable performance on our main server in the last few days. I can't promise it won't happen again, but we learned a lot in this experience, and in some cases re-learned. ",
+                    "created": "Mon, 11 Mar 2024 12:49:01 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's even worse than it appears and as they say -- still diggin! ",
+                    "created": "Mon, 11 Mar 2024 12:49:16 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
