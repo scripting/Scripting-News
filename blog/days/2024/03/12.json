@@ -1,0 +1,138 @@
+{
+    "created": "2024-03-12T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "12",
+    "path": "2024/03/12",
+    "text": "March 12",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today I'm <a href=\"https://chat.openai.com/share/a6e638d6-9efe-4180-85e0-7676787b1b6d\">working on titles</a>. ",
+            "created": "Tue, 12 Mar 2024 18:41:11 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://medium.com/@timberners_lee/marking-the-webs-35th-birthday-an-open-letter-ebb410cc7d42\">Tim Berners-Lee's idea</a> for user-owned and controlled storage is good. Can't tell you how many times, as a developer, I wanted this. To get it going it'll need at least a couple of compelling apps, to seed the bootstrap. Like <a href=\"http://scripting.com/2013/01/24/whatAboutMacwriteAndMacpaint.html\">MacWrite and MacPaint</a> for the Mac. Without that, it can't even begin. I could help with their bootstrap if I had some belief they had would not crush developers, which is harder to do than it sounds. The only times it has worked for me, for a little while, was when I created the platform and apps and content (you need all three). But the huge companies have no vision for the role of developers, so these things rarely even get off the ground, and who's going to sign up to believe in the goodness of a huge company. It's a very steep road TBL has chosen to travel. I have argued with my friends at Automattic that they are in a golden position to do this since they already have a large installed base product that's popular with users, and lots of developers who could make good use of storage attached to each account. I hope someone with deep pockets and longevity does it. Then we can really start building an app ecosystem on the net. We've been doing this for 35 years as TBL points out, and we still haven't created an economic developer ecosystem on the web. Storage, believe it or not, is the big missing piece. ",
+            "created": "Wed, 13 Mar 2024 01:25:58 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2024/03/12/macpaint.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "We need a protocol for embedding a tweet in a web page. We used to have one with Twitter, but it now works only intermittently. Mastodon has one, and I have been able to use it. But really it would be nice to have a sort of jQuery of this stuff. If they're all going to create their own APIs we obviously need a container for that so developers don't have to worry about all of it. ",
+            "created": "Tue, 12 Mar 2024 18:44:57 GMT",
+            "type": "outline",
+            "urltoot": "https://mastodon.social/@davew/112085742109683817",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, has Twitter abandoned \"tweet\" as a trademark? Is it now public domain? Could someone ask?",
+            "created": "Tue, 12 Mar 2024 18:46:46 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I bet someone could develop and AI bot that takes a NYT article and removes the spin. It'd be interesting to see the befores and afters.",
+            "created": "Tue, 12 Mar 2024 18:03:25 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "This <a href=\"https://imgs.scripting.com/2024/03/12/mastoLogin.png\">screen shot</a> illustrates the core weakness of Mastodon. We need the ability to log on to Mastodon, not to an instance. A factoring of that functionality. It totally could work, some person, company, foundation or whatever could build software that acts as a simplifier. Have you ever used plex.tv? Somehow they manage to do it. You're connected to someone's server, but you log on through one site. ",
+            "created": "Tue, 12 Mar 2024 17:33:44 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Rebooting the blogroll bootstrap ",
+            "created": "Tue, 12 Mar 2024 18:43:21 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Manton is doing <a href=\"https://www.threads.net/@manton/post/C4ayOPGO08R\">great work</a>.",
+                    "created": "Tue, 12 Mar 2024 18:43:55 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "His <a href=\"https://micro.blog/\">micro.blog</a> system is pioneering a new form of blogrolls.",
+                    "created": "Tue, 12 Mar 2024 18:44:01 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "We've been working together behind the scenes to make sure his stuff interops with mine.",
+                    "created": "Tue, 12 Mar 2024 18:44:06 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "That's imho the best part.",
+                    "created": "Tue, 12 Mar 2024 18:44:11 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: Blogrolls is where the social web started.",
+                    "created": "Tue, 12 Mar 2024 18:44:15 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PPS: I have to write a short \"what is a blogroll\" doc, re OPML and RSS. There's not a lot to it. So it needs to be written down. Will do.",
+                    "created": "Tue, 12 Mar 2024 18:47:10 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PPPS: I'm having flashbacks to \"Manila\". We're using GitHub more or less the same way. We had a better scripting system. I also know that WordPress can be that too, and plan to use that in my software.  ",
+                    "created": "Tue, 12 Mar 2024 18:47:57 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "AI and the NYT",
+            "created": "Tue, 12 Mar 2024 12:01:11 GMT",
+            "type": "outline",
+            "description": "How the NYT and other news orgs can create new products with their raw material -- news. ",
+            "subs": [
+                {
+                    "text": "Zach Seward, a friend from my days at <a href=\"https://www.niemanlab.org/about/\">Harvard</a> and NYU, got a kickass <a href=\"https://www.nytco.com/press/zach-seward-is-the-newsrooms-editorial-director-of-a-i-initiatives/\">job</a>, starting up the AI effort at the NYT.  He's just the right guy for it. Young, curious, creative, and very ambitious. And he has a strong startup journalism background. I couldn't think of anyone I'd want more to be in this position. ",
+                    "created": "Tue, 12 Mar 2024 12:01:15 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Now that he's published <a href=\"https://www.zachseward.com/ai-news-thats-fit-to-print-sxsw-2024/?ref=zach-seward-newsletter\">notes</a> for a talk he gave at SXSW, it's time to share some ideas I have for the NYT re AI.",
+                    "created": "Tue, 12 Mar 2024 12:02:52 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Current events. This is something ChatGPT doesn't do. Not sure why. I'd like to be able to connect to <a href=\"https://ai.nytimes.com/\">ai.nytimes.com</a> and ask it to give me a rundown on the <a href=\"http://scripting.com/2024/03/09.html#a200615\">lawyer</a> who's testifying in Congress today about how our president is \"elderly.\" I don't want pointers to stories, though they should be included in the response, I want a custom report, like the ones ChatGPT provides, that answers the questions I have about the MAGA lawyer. Maybe the AI will just give me the story without the spin. ",
+                            "created": "Tue, 12 Mar 2024 12:03:32 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "More useful NYT archives. When I was a kid I spent so much time at the <a href=\"https://www.queenslibrary.org/about-us/locations/central-library\">big library</a> in Jamaica (Queens)  going back through microfilm of the NYT from before I was born. So far all we've done is replicate the microfilm user experience (which is great and very useful) but the thing that ChatGPT does so well is prepare custom reports. All that source material, used to answer very specific questions. Answer questions like \"has anything notorious happened in the neighborhood I grew up in, as far as the NYT knows?\"",
+                            "created": "Tue, 12 Mar 2024 12:05:36 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Sell a service to your readers where you manage the archive of their blogs, and in doing so you create a much broader archive for historians, journalists and others to study in the future, and, in the context of AI, feed it all kinds of perspective on the time we live in. Maybe in the future history won't be written by the winners (lotsa luck with that). Anyway, if at some point the NYT and other journalism outlets will harness the energy, knowledge and intelligence of the readers, why not start now? ",
+                            "created": "Tue, 12 Mar 2024 12:07:13 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I criticize the NYT a lot, I know. But that <a href=\"http://scripting.com/2018/06/24/181734.html\">means</a> I care. When I stop criticizing you'll know that I've given up. ",
+                    "created": "Tue, 12 Mar 2024 12:08:27 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Alan Kay <a href=\"https://www.azquotes.com/quote/707961\">said</a> of the Mac, it's the first personal computer worth criticizing. That's the spirit. ",
+                    "created": "Tue, 12 Mar 2024 12:14:17 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
