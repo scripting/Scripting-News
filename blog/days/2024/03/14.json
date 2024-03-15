@@ -1,0 +1,79 @@
+{
+    "created": "2024-03-14T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "14",
+    "path": "2024/03/14",
+    "text": "March 14",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "This would be a <a href=\"https://imgs.scripting.com/2024/03/14/markdownWouldBeNiceHere.png\">nice place</a> to have Markdown support. ",
+            "created": "Fri, 15 Mar 2024 02:44:28 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Lots of cleaning up after yesterday's party. I love that people are open to new ideas with blogs in 2024. It's been a while. ",
+            "created": "Fri, 15 Mar 2024 02:47:25 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://blogroll.social/howto.opml\">Written docs</a> about using the blogroll.  ",
+            "created": "Thu, 14 Mar 2024 16:02:47 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, this is the <a href=\"https://lists.feedcorps.org/daveblogroll.opml\">feed list</a> for my blogroll. Feel free to import or subscribe to it into your feed reader. ",
+            "created": "Thu, 14 Mar 2024 20:31:47 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've started a page <a href=\"https://opml.org/blogroll.opml\">on opml.org</a> for notes on blogrolls. ",
+            "created": "Thu, 14 Mar 2024 17:11:56 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The Scripting News <a href=\"http://scripting.com/rss.xml\">RSS feed</a> now has a &lt;source:blogroll> element.",
+            "created": "Thu, 14 Mar 2024 17:34:49 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Updated the <a href=\"https://github.com/scripting/reallysimple\">reallySimple package</a> to look for the &lt;source:blogroll> element. This means the <a href=\"https://imgs.scripting.com/2024/03/14/screenFeed.png\">data</a> will be <a href=\"http://feeder.scripting.com/returnjson?feedurl=http://scripting.com/rss.xml\">available to FeedLand</a>. ",
+            "created": "Thu, 14 Mar 2024 17:51:32 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The blogroll sorted in <a href=\"https://imgs.scripting.com/2024/03/14/reversereverse.png\">reverse-reverse chronologic order</a>. ",
+            "created": "Thu, 14 Mar 2024 16:49:36 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A place to <a href=\"https://github.com/scripting/Scripting-News/issues/297\">report problems</a> with the new <a href=\"http://scripting.com/2024/03/13.html\">blogroll</a>.",
+            "created": "Thu, 14 Mar 2024 14:09:57 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The popup menu",
+            "created": "Thu, 14 Mar 2024 16:35:11 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "A popup menu with all kinds of background info.",
+                    "created": "Thu, 14 Mar 2024 16:33:33 GMT",
+                    "type": "outline",
+                    "inlineImage": "https://imgs.scripting.com/2024/03/14/popupMenu.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
