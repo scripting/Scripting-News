@@ -1,0 +1,139 @@
+{
+    "created": "2024-03-15T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "15",
+    "path": "2024/03/15",
+    "text": "March 15",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Maybe the thing I'm most <a href=\"https://imgs.scripting.com/2024/03/15/jayGraberInBlogroll.png\">proud</a> of is that the <a href=\"https://blogroll.social/\">blogroll</a> can host <a href=\"https://en.wikipedia.org/wiki/Jay_Graber\">Jay Graber</a>, CEO of Bluesky, because they <a href=\"https://openrss.org/blog/bluesky-has-launched-rss-feeds\">support</a> outbound \"RSS\". I can also follow <a href=\"https://en.wikipedia.org/wiki/Eugen_Rochko\">Eugen Rochko</a>, founder of Mastodon, for the same reason. And of course <a href=\"https://en.wikipedia.org/wiki/Matt_Mullenweg\">Matt Mullenweg</a>, founder of Automattic, whose WordPress supported RSS from inception. Bluesky, Mastodon and WordPress, in the same social web. One of those <a href=\"https://en.wikipedia.org/wiki/Golden_spike\">Golden Spike</a> moments.  ",
+            "created": "Fri, 15 Mar 2024 17:26:49 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/04/24/cheshireCat.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "The blogroll is a lot like weblogs.com combined with its successor my.userland.com. All this happened first in 1999. Today's blogroll is far in advance technically from the blogrolls of 25 years ago.",
+            "created": "Fri, 15 Mar 2024 13:21:41 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "When I was growing up they taught us that humans were the only animals that were conscious. They wasn't any scientific evidence of this, we know now, because it obviously <a href=\"https://www.threads.net/@theheralddiary/post/C4iTyzBMATf\">isn't true</a>. And to my own credit, I was sure it was bullshit when I was a kid. ",
+            "created": "Fri, 15 Mar 2024 13:45:15 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Finally seeing a real blogroll bug. We're getting notified that feeds are updating that we aren't following, yet they're showing up in my blogroll anyway. Either have to add some code or look for a bug. Good thing I've got the only really deployed blogroll now.",
+            "created": "Fri, 15 Mar 2024 18:42:54 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "This is a nit, but it bugs me anyway. I'd love to know why Threads, which in every way is a modern JavaScript app running in a web browser, uses <a href=\"https://imgs.scripting.com/2024/03/15/exampleOfAThreadsUrl.png\">urls that begin with www</a>. In 2024. There's no harm in it, it's just there was a consensus a long time ago that the <i>www</i> part was not necessary. ",
+            "created": "Fri, 15 Mar 2024 13:46:35 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Did you forget that quickly?",
+            "created": "Fri, 15 Mar 2024 13:52:59 GMT",
+            "type": "outline",
+            "description": "We tried letting Trump play president, we shouldn't have survived it, and in a lot of ways we didn't.",
+            "metaImage": "https://imgs.scripting.com/2024/03/15/whatKindOfMonsterIsThis.png",
+            "subs": [
+                {
+                    "text": "We've noted this before.",
+                    "created": "Fri, 15 Mar 2024 13:53:10 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Established facts about Trump eventually lose their currency, reporters forget and report it as big news next time they see it happening. ",
+                    "created": "Fri, 15 Mar 2024 13:53:20 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Trump's <a href=\"https://en.wikipedia.org/wiki/Fealty\">fealty</a> to Putin for example. How could a reporter forget that? Yet they seem to. ",
+                    "created": "Fri, 15 Mar 2024 13:53:55 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Two moments to bring you back. ",
+                    "created": "Fri, 15 Mar 2024 13:54:36 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Picture 1.",
+                    "created": "Fri, 15 Mar 2024 13:54:47 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2024/03/15/trumpBowsToPutinWhoGlowsWithPride.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Picture 2.",
+                    "created": "Fri, 15 Mar 2024 13:54:52 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2024/03/15/whatKindOfMonsterIsThis.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "There are so many of these pictures. ",
+                    "created": "Fri, 15 Mar 2024 13:55:08 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Remember we tried letting Trump play president, we shouldn't have survived it, and in a lot of ways we didn't.",
+                    "created": "Fri, 15 Mar 2024 13:59:42 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Collectively we're like the main character in <a href=\"https://en.wikipedia.org/wiki/The_Sixth_Sense\">The Sixth Sense</a> (no spoilers, but if you have seen it you know what I mean).",
+                    "created": "Fri, 15 Mar 2024 14:00:21 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So please, dear reporters and editors, try to factor actual proven facts into the context of your reporting.",
+                    "created": "Fri, 15 Mar 2024 13:55:23 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Four things about threads.net ",
+            "created": "Sat, 16 Mar 2024 01:57:19 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Four things.",
+                    "created": "Sat, 16 Mar 2024 01:57:59 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "We're selling ourselves out by letting Facebook own a new social network and not putting that energy into building something that preserves our choice.",
+                            "created": "Sat, 16 Mar 2024 01:58:03 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I understand that Facebook's claims of supporting the Fedisphere won't amount to anything. They will end up controlling what interop means, which means we end up with yet another app store, with all the nonsense that comes with. Welcome to CyberDisneyland.",
+                            "created": "Sat, 16 Mar 2024 01:58:07 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "You know all this, as well as I do. But we have decided not to care.",
+                            "created": "Sat, 16 Mar 2024 01:58:16 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "This is exactly how we snookered ourselves into using Twitter for 17 years.",
+                            "created": "Sat, 16 Mar 2024 01:58:20 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
