@@ -1,0 +1,65 @@
+{
+    "created": "2024-03-16T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "16",
+    "path": "2024/03/16",
+    "text": "March 16",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "An upgrade idea for the web. I'd like to have a bit of JavaScript code ask to be notified when the user clicks on a link on my page that gets them a 404. I'd like a chance to do some looking around and seeing if I can find the thing they wanted. This comes up when you look at the archive of this blog for <a href=\"http://scripting.com/1999/03.html\">March 1999</a>. Back then my server was a Macintosh which had a case-insensitive operating system. A few years later I moved all the stuff to Amazon S3, much less hassle, and probably cheaper too. But over there the filesystem is case-sensitive. I must've been typing in URLs by hand and not caring about case, because why should I, my server didn't care. Except now it does care and when I click links to pages I know <a href=\"http://scripting.com/davenet/1999/03/18/everyonesEquallyNasty.html\">are there</a>, but <a href=\"http://scripting.com/davenet/1999/03/everyonesEquallyNasty.html\">can't</a> be found, I get depressed. I wanted to read the damn thing, that's why I clicked on it. Not to see some cute <a href=\"https://scripting.com/thispageisnottherehahahah\">404 page</a> (although it is pretty nice). Even better would be a way to tell Amazon to serve this bucket without regard to case. ",
+            "created": "Sat, 16 Mar 2024 16:41:34 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2024/03/16/looneyTunes.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Saying the web <a href=\"https://www.theverge.com/23778253/google-reader-death-2013-rss-social\">misses</a> Google Reader is like saying the United States misses President Trump. Why do I think that? Think of the mess Google left behind when they dumped the web. Putting all our cards in one basket in software is a very very very very bad idea. As everyone who misses The Orange Feed Reader is evidence of. It's like someone rips you off bad and all you can think about is how much you miss them. You, sir or madam, need to get your head examined. \n",
+            "created": "Sat, 16 Mar 2024 16:55:06 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The big picture",
+            "created": "Sat, 16 Mar 2024 13:31:39 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "As I complete a big project I like to re-center, to remind myself what I'm working for.",
+                    "created": "Sat, 16 Mar 2024 13:32:24 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "My goal is to create a <i>social web</i> that includes blogs and twitter-like systems. To set a new <a href=\"https://textcasting.org/\">baseline</a> where titles, simple styling, links, enclosures and the ability to edit are tools writers can use.",
+                    "created": "Sat, 16 Mar 2024 13:32:02 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Somehow twitter pushed writing into a tiny little box. If we work together we can dig ourselves out of this box. ",
+                    "created": "Sat, 16 Mar 2024 13:32:19 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "I love this",
+            "created": "Sat, 16 Mar 2024 21:50:21 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I love that I can read Mastodon posts in my freaking blogroll. ",
+                    "created": "Sat, 16 Mar 2024 21:53:00 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Eugen is the founder of Mastodon.",
+                    "created": "Sat, 16 Mar 2024 21:50:30 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2024/03/16/mastodonInBlogroll.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
