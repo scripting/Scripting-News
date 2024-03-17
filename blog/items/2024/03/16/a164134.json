@@ -1,0 +1,7 @@
+{
+    "text": "An upgrade idea for the web. I'd like to have a bit of JavaScript code ask to be notified when the user clicks on a link on my page that gets them a 404. I'd like a chance to do some looking around and seeing if I can find the thing they wanted. This comes up when you look at the archive of this blog for <a href=\"http://scripting.com/1999/03.html\">March 1999</a>. Back then my server was a Macintosh which had a case-insensitive operating system. A few years later I moved all the stuff to Amazon S3, much less hassle, and probably cheaper too. But over there the filesystem is case-sensitive. I must've been typing in URLs by hand and not caring about case, because why should I, my server didn't care. Except now it does care and when I click links to pages I know <a href=\"http://scripting.com/davenet/1999/03/18/everyonesEquallyNasty.html\">are there</a>, but <a href=\"http://scripting.com/davenet/1999/03/everyonesEquallyNasty.html\">can't</a> be found, I get depressed. I wanted to read the damn thing, that's why I clicked on it. Not to see some cute <a href=\"https://scripting.com/thispageisnottherehahahah\">404 page</a> (although it is pretty nice). Even better would be a way to tell Amazon to serve this bucket without regard to case. ",
+    "created": "Sat, 16 Mar 2024 16:41:34 GMT",
+    "type": "outline",
+    "image": "https://imgs.scripting.com/2024/03/16/looneyTunes.png",
+    "flInCalendar": true
+}
