@@ -1,0 +1,65 @@
+{
+    "created": "2024-03-18T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "18",
+    "path": "2024/03/18",
+    "text": "March 18",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://feedland.blog/blogroll-wp-plugin-test/\">This is amazing</a>. Some of my friends at Automattic quickly put together a toolkit for WordPress that allows it to host my blogroll. There are still some missing pieces and some CSS glitches. But this is exactly where I hoped we would be at this point.",
+            "created": "Mon, 18 Mar 2024 17:34:51 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://www.threads.net/@davew/post/C4lzhewJnlC\">Read this on Threads</a>. The thing that's great about this moment is that people are just beginning to get the possibility of not being locked into silos. They don't know how to parse my posts and screen shots, because I can do something they never thought they'd be permitted to do. Well we've got some visionary and lovable techies at Masto and Blueski who want you and I to be able to do that. And we've been building on that. And will continue to do so, Murphy-willing. ",
+            "created": "Mon, 18 Mar 2024 15:20:42 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Blogroll fix. The blogroll was grabbing the up and down-arrow and Return for keyboard navigation, one of my favorite blogroll features. Put the cursor where you want, and arrow through the list. Press Return to expand, and again to collapse. Then down-arrow and repeat. But sometimes you want to use these keys for other functions. So I changed it so you have to click the blogroll to set the focus. Its border turns blueish, and the keys work as described. Press the Tab key or click outside the blogroll to take the focus off the blogroll.",
+            "created": "Mon, 18 Mar 2024 14:31:25 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm working with developers again, thank goodness. I once thought I could make server products or toolkits for people I called \"poets\" -- motivated writers. I have given up on that, at least for the time-being. I think a properly motivated intelligent writer could get developer-like results, I've seen it happen (Brent Simmons, Dan MacTough). They make really good developers because they understand the user perspective so well, it still lives inside them. The problem seems to be motivation, and a poet knowing that they need to be super-motivated and have the time, to get <i>anything</i> technical to work. If they knew what was required, my 2024 theory goes, and had studied for it, the way they studied for their degree, they could not only be successful, but they could contribute to the developer process. Analogously, we all have to learn a little cooking just to get through life, but only a few people are chefs. <a href=\"http://scripting.com/2024/01/07/012112.html\">Julia Child</a>, a hero of mine, believed she could teach anyone to be a good-enough cook. But I bet she was frustrated by human reality. :smile:",
+            "created": "Mon, 18 Mar 2024 14:19:55 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2024/03/18/juliaChild.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Now that I have ChatGPT around, my <a href=\"https://imgs.scripting.com/2024/03/18/loremIpsum.png\">Lorem Ipsum text</a> for testing can be slightly more interesting. ",
+            "created": "Mon, 18 Mar 2024 13:26:57 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Linkblogs work differently",
+            "created": "Tue, 19 Mar 2024 00:10:42 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Linkblogs work differently in blogrolls. When I click a link it takes me to the site the blog linked to, not to the blog.",
+                    "created": "Tue, 19 Mar 2024 00:10:50 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So.. When you click the link in the screen shot below it takes you to a Metacritic review of the program",
+                    "created": "Tue, 19 Mar 2024 00:10:54 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Screen shot.",
+                    "created": "Tue, 19 Mar 2024 00:10:55 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2024/03/18/linkblogInBlogroll.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
