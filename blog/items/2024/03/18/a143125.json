@@ -1,0 +1,6 @@
+{
+    "text": "Blogroll fix. The blogroll was grabbing the up and down-arrow and Return for keyboard navigation, one of my favorite blogroll features. Put the cursor where you want, and arrow through the list. Press Return to expand, and again to collapse. Then down-arrow and repeat. But sometimes you want to use these keys for other functions. So I changed it so you have to click the blogroll to set the focus. Its border turns blueish, and the keys work as described. Press the Tab key or click outside the blogroll to take the focus off the blogroll.",
+    "created": "Mon, 18 Mar 2024 14:31:25 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
