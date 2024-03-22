@@ -1,0 +1,115 @@
+{
+    "created": "2024-03-21T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "21",
+    "path": "2024/03/21",
+    "text": "March 21",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Why we're lucky WordPress is here and other topics",
+            "created": "Thu, 21 Mar 2024 12:55:05 GMT",
+            "type": "outline",
+            "description": "WordPress is, among other things, a perfect time capsule of open technologies from the early days of innovation on the web, and widely deployed.",
+            "metaImage": "https://imgs.scripting.com/2024/03/21/marge.png",
+            "subs": [
+                {
+                    "text": "I spent some time this week reviewing the UI of Radio UserLand, released in 2002. It was both a feed reader and a writing tool. ",
+                    "created": "Thu, 21 Mar 2024 12:45:15 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "One would have thought, btw, that from that start that all subsequent blogging tools would have the same connections, even if the functionality was not all in the same product. But then came Twitter and Facebook, and they said they weren't blogs, and presumably would start a new tradition with new user expectations. And that worked. The new blogging platforms were <a href=\"https://en.wikipedia.org/wiki/Information_silo\">silos</a>.",
+                    "created": "Thu, 21 Mar 2024 13:03:13 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So the integration opportunities were limited, something that took me 11 years to fully appreciate, and to <a href=\"http://scripting.com/2017/05/05/iWantMyOldBlogBack.html\">give up</a> on. I was in a intellectual cloud, not thinking straight. ",
+                    "created": "Thu, 21 Mar 2024 12:55:57 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Meantime, the tradition of blogging was preserved by WordPress. As a blogging tool, it supported the same connective features that Radio did. There were some it couldn't cover because Radio was a desktop app, not a web app (though it looked like a web app, you installed a piece of software on the desktop). ",
+                    "created": "Thu, 21 Mar 2024 12:56:26 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This was the <a href=\"http://scripting.com/davenet/1997/09/14/FractionalHorsepowerHTTPSe.html\">Fractional Horsepower HTTP Server</a> idea realized. ",
+                    "created": "Thu, 21 Mar 2024 13:03:31 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So for example, we had <a href=\"http://radio.userland.com/userGuide/reference/howUpstreamingWorks\">upstreaming</a>, which was a one-way Dropbox, a number of years before Dropbox existed. This meant that the link between the CMS and the server went through the file system. The product didn't live long enough to fulfill the potential of that feature. The idea was that you could use any editor you wanted to write something that was posted to the blog, you could choose to have it rendered through the site template, or uploaded as-is. ",
+                    "created": "Thu, 21 Mar 2024 12:56:58 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The <a href=\"https://imgs.scripting.com/2024/03/21/radioEditorScreenshot.png\">editor</a> we supplied with Radio was one of those \"tiny little text boxes\", but I hoped that better editors would emerge. I wanted to make one myself, combining the outliner in Frontier with scripting, to drop posts into the folder structure that Radio expected. ",
+                    "created": "Thu, 21 Mar 2024 18:12:42 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Radio's tiny little textbox circa 2002.",
+                    "created": "Thu, 21 Mar 2024 14:38:35 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2024/03/21/radioEditorScreenshot.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Years later I tried to do it with Dropbox itself, with a product called <a href=\"http://fargo.io/docs/whatIsFargo.html\">Fargo</a>. Dropbox was so incredibly close to the ideal user-owned storage server system, but they wouldn't go the final step, in creating a class of content that could be shared with two or more apps but not all apps. So the user didn't have enough control for it to work. ",
+                    "created": "Thu, 21 Mar 2024 12:58:31 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The idea of multiple apps working on the same data would be revolutionary. How do I know? Because that's how computers worked before the web. So to make the thing I want to do work, now, in 2024, I'm going to have to create my own storage system for the user, and I will pay for it, at least to start. ",
+                    "created": "Thu, 21 Mar 2024 13:00:52 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Hopefully at some point I'll be able to turn that over to Automattic and have them run it, or if they don't want to, maybe someone else will. But it has to be there for the web as a runtime environment to support the same diversity of software that the PC and Mac did in the generation before the web. ",
+                    "created": "Thu, 21 Mar 2024 13:01:27 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Technology does go backwards, a lot -- we lose valuable things without any thought, when we could keep them. ",
+                    "created": "Thu, 21 Mar 2024 13:01:46 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "BTW, that's why it's good to keep some old people around, we might remember the things that were lost. I'm trying to make sure the really good ideas, the keepers, get another chance. ",
+                    "created": "Thu, 21 Mar 2024 13:01:54 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Another random morning bit -- something subtle in the blogroll you might not have noticed. It has no trouble dealing with titled or untitled posts. Blog posts typically have titles, social media posts do not. \"RSS\" is opinionated about this -- it <a href=\"https://imgs.scripting.com/2024/03/21/rssIsOpinionatedAboutOptionalTitles.png\">says</a> you should support both views. But the feed reader folk ignored that guidance. My little blogroll shows you how to do it, it's pretty simple. <span>If it doesn't have a title use the description</span>. ",
+                    "created": "Thu, 21 Mar 2024 13:13:02 GMT",
+                    "type": "outline",
+                    "image": "https://imgs.scripting.com/2024/03/21/blogrollscreen.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Think of it this way. What if motorcycles, cars, trucks and bikes couldn't all use the same roads? What kind of way would that be to run a civilization. Same thing with feeds. ",
+                    "created": "Thu, 21 Mar 2024 18:16:15 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "There's a screen shot of the blogroll to the right, with Scripting News highlighted and expanded. Some of those posts have titles and some don't. You and I as developers care about that, but we shouldn't show that difference that in the user interface. The users don't care and rightly so. It's confusing and takes their attention away from the writing. ",
+                    "created": "Thu, 21 Mar 2024 13:24:17 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Another topic. Something I noticed in WordPress's RSS feeds. If I start a post out with an empty title, it uses the post ID to form the URL for the post. That's the right thing to do imho. But then if I add a title, which can happen, it changes the URL to use the title. But URLs shouldn't change. It also changes the guid, so a feed reader will think there were two posts when there was just one. Now I don't know if they can change it at this late date, I imagine there are workarounds out there. But I noticed this the other day, and thought I should mention it. Why not just use the post ID for the guid, esp since it says the guid is not a permalink? And use it in forming the URL. I totally understand the benefit of using the title in the URL. But you can't depend on the title being there. ",
+                    "created": "Thu, 21 Mar 2024 13:18:46 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Finally, to answer the question raised by the title of this piece -- WordPress is, among other things, a perfect time capsule of open technologies from the early days of innovation on the web, and widely deployed and able to deliver all their benefits, if we widen our view of social media to be a <i>social web,</i> and simply create places where posts with and without titles are equally supported. It's that simple. Without WordPress we would have to build all that, and wait for it to deploy in numbers, to matter in the market. All we have to do now is make the connections. ",
+                    "created": "Thu, 21 Mar 2024 15:37:00 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
