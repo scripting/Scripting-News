@@ -1,0 +1,6 @@
+{
+    "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/299\">Braintrust query</a>: I have not been able to reliably get to a bunch of my sites that use HTTP this morning. For example, <a href=\"http://feeder.scripting.com/returnjson?feedurl=https://techfightclub.wordpress.com/feed/\">feeder.scripting.com</a>, a site that I use to test feeds. Also <a href=\"http://xmlrpc.com/\">xmlrpc.com</a>. It's possible that something broke overnight in my server. Or Digital Ocean is having a problem? Doesn't seem like it's something Google is doing to punish me for using HTTP, though that is always the first thing that comes to mind. I tried moving the XML-RPC site to a different server, but the problem follows it. No changes have been made to the site in years. Not exactly what I had planned to be digging into on a nice (but cold) Sunday morning in the mountains. I started a <a href=\"https://github.com/scripting/Scripting-News/issues/299\">thread</a>, if you have any insights. At least scripting.com is still working, but it's not served through my software or Digital Ocean. ",
+    "created": "Sun, 24 Mar 2024 12:59:52 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
