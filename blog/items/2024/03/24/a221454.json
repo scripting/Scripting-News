@@ -1,0 +1,6 @@
+{
+    "text": "So I went ahead and moved <a href=\"https://xmlrpc.com/\">xmlrpc.com</a> to a HTTPS server. The <a href=\"http://scripting.com/2024/03/22/031933.html\">other day</a> I forgot to mention that style sheets might not be readable when you move from HTTP to HTTPS, leading to <a href=\"https://imgs.scripting.com/2024/03/24/httpsBreaksSitesThanksGoogle.png\">this striking breakage</a> I saw when I first got to look at the site in its new location. And now thanks to Google and the EFF, I get to spend time debugging something that worked just fine in 1998 and every year since then. Should I send them the bill for my time? Fuckers. ",
+    "created": "Sun, 24 Mar 2024 22:14:54 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
