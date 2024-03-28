@@ -1,0 +1,7 @@
+{
+    "text": "I wish I could ask ChatGPT to look at <a href=\"https://feedland.blog/blogroll-wp-plugin-test/\">this page</a>. Then I'd ask why is every object in class <code>trBlogrollFeed</code> 31 pixels high? By my computation it should be 27 pixels. Where are the extra pixels coming from? It matters. For a comparison, the same structure on <a href=\"https://blogroll.social/\">this page</a> renders at 27.5 pixels which looks just right, but it's weird that it computes it's got that extra half pixel. I don't really believe in half-pixels. Hey if you have any ideas, post a note <a href=\"https://github.com/scripting/Scripting-News/issues/300\">here</a>. ",
+    "created": "Wed, 27 Mar 2024 20:07:56 GMT",
+    "type": "outline",
+    "image": "http://scripting.com/images/2024/01/19/faceplant.png",
+    "flInCalendar": true
+}
