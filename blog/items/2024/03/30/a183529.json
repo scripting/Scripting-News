@@ -1,0 +1,34 @@
+{
+    "text": "The language of developers",
+    "created": "Sat, 30 Mar 2024 18:35:29 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I loved hanging out with fellow math and compsci majors in college and grad school. It's nice when you get to speak in the language of math and programming, where you can't be fuzzy about things, you have to be direct, because it's the only way to communicate. ",
+            "created": "Sat, 30 Mar 2024 18:35:41 GMT",
+            "image": "https://imgs.scripting.com/2019/11/14/weTryHarder.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "No one attaches their feelings to the things other people say in this context. But sometimes it hurts anyway. I think I've told this story many times. I had posted some example code on the door to the office I shared with a few other teaching assistants at <a href=\"https://www.cs.wisc.edu/\">UW</a> in the late 70s, and there was a mistake in it. It wouldn't have compiled if I had tried to run it. I was told by a TA who was senior to me, never to do this again. It stung for an instant, but I recall suppressing that and accepting that the <a href=\"https://meta.stackexchange.com/questions/146513/what-does-op-mean\">OP</a> was right. I should never have to learn this lesson again, and as far as I know, many years have passed and I have never have had to re-learn that one (though I have with many others). ",
+            "created": "Sat, 30 Mar 2024 19:02:44 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "But nothing prepared me for the experience in 1981 or so when the <a href=\"https://en.wikipedia.org/wiki/VisiCorp\">company</a> I was working for hired a professional tester to report on the software. Page after page of my mistakes. Written in cold dispassionate unyielding text, with no concern for anyone's feelings. And since I was the lead developer on the project, the feelings were pretty much all mine. <i>But</i> the concerns were valid. Some of the things were the result of confusion about how the product worked, and others were outright mistakes. All of them were my responsibility. Later when I started and ran a company of my own, I hired people to test our software in exactly the same way.",
+            "created": "Sat, 30 Mar 2024 18:39:13 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Many many years later, if you work with me on a project, I expect you to report problems with my code directly. Please don't beat around the bush. I've been through this a million times. It still stings sometimes, but I recover quickly, because my mission is to make flawless software, a feeling that the \"software thinks like I do\" that only comes from addressing all the issues you can. No software is ever anything close to perfect. But we strive to make it more perfect. This is the ethos of developers, and why our conversations may sound weird to others. ",
+            "created": "Sat, 30 Mar 2024 18:41:12 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "PS: An <a href=\"https://www.cleveland.com/news/2024/03/our-trump-reporting-upsets-some-readers-but-there-arent-two-sides-to-facts-letter-from-the-editor.html\">editorial</a> about news that expresses the same idea. ",
+            "created": "Sun, 31 Mar 2024 03:29:59 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
