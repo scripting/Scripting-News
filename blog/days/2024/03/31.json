@@ -1,0 +1,44 @@
+{
+    "created": "2024-03-31T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "31",
+    "path": "2024/03/31",
+    "text": "March 31",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Tomorrow is, of course, April 1 -- when people on the net lie about the people they hate and call it humor.",
+            "created": "Mon, 01 Apr 2024 02:48:13 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "An advantage of using an outliner to edit a blog, is that you can easily split one post into several because they're edited in one document. Or move a paragraph from one story to another with drag and drop. In a page-oriented editor, you get to focus on the writing for one page, but navigating outside that post is more jarring, a writer more easily loses the train of thought. I've been <a href=\"https://imgs.scripting.com/2024/03/31/outline.png\">writing</a> in an outliner almost exclusively for decades, only now considering the writing world outside. Learning a lot.",
+            "created": "Sun, 31 Mar 2024 16:17:30 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/11/30/goodhumortruck.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I start a fresh outline for this blog on the first of every month, so tomorrow I will <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog/opml\">archive</a> my blog.opml file on GitHub, start a new month, and delete the previous month. I've been doing that since 2017, when I finally forever gave up trying to interop with the great blogging silos (ie Twitter and Facebook mainly). I think outlining is like double-diamond skiing, but for writing. ",
+            "created": "Sun, 31 Mar 2024 16:42:41 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Machine-visualized blog post",
+            "created": "Sun, 31 Mar 2024 18:12:16 GMT",
+            "type": "outline",
+            "metaImage": "https://imgs.scripting.com/2024/03/31/languageofprogrammers.png",
+            "subs": [
+                {
+                    "text": "I asked ChatGPT to illustrate a <a href=\"http://scripting.com/2024/03/30/183529.html\">post</a> I wrote yesterday.",
+                    "created": "Sun, 31 Mar 2024 18:12:32 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2024/03/31/languageofprogrammers.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
