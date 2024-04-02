@@ -1,0 +1,49 @@
+{
+    "created": "2024-04-01T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "01",
+    "path": "2024/04/01",
+    "text": "April 01",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "We need a resistance movement that reporters can report on. A new women’s march for reproductive health would be a great place to start. I'm not giving up on journalism yet, just knowing they need to see a resistance to report on it. That means big marches, streets filled with Americans, who will sound angry and determined when inteviewed by reporters. And spokespersons who can be interviewed by Maddow and Blitzer. ",
+            "created": "Mon, 01 Apr 2024 14:03:31 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2024/04/01/appleRunner.png",
+            "imageLink": "https://www.youtube.com/watch?v=2zfqw8nhUwA",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://www.threads.net/@akakensmith/post/C5OTZtkulXg\">Ken Smith summarizes</a>: \"Figure out what kinds of events the press likes to cover, then create that kind of event.\" That's right. Let's not argue about what the press should cover. We can't change them. Just give them what they need to do the right thing. ",
+            "created": "Tue, 02 Apr 2024 02:20:29 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "After a couple of tests, the fix below is implemented here. For some reason I wasn't subscribed to my own feed, which accounted for the fact that updates from this blog weren't getting into the blogroll. That troubles me, I have to try to piece together how that happened. In the meantime it's nice to have the instant updating working again. I didn't know that I had missed it, but I did.",
+            "created": "Mon, 01 Apr 2024 14:45:11 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I introduced a bug in the blogroll code where it was ignoring instant updates. Probably the sexiest feature in the whole thing. The bug was introduced on March 21, so it's been there a while. You have to hard-reload the page to get the new version. So, when I post this on \"Scripting News\", it should move to the top of the list immediately. So a good use-case is to leave Scripting News open with the blogroll visible and every once in a while you may find something interesting to read. I like having it there, but of course, it's my baby, so that's understandable. :-)",
+            "created": "Mon, 01 Apr 2024 14:30:25 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/12/02/whiteRabbitFromAliceInWonderland.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I tried <a href=\"https://www.wnyc.org/story/kara-swishers-tech-love-story/\">listening</a> to one of Kara Swisher's interviews for her new book. The interviewer was someone I respect, Brian Lehrer at WNYC. But he has an old and imho unfair view that CraigsList and Facebook are responsible for the demise of local news. I was surprised when he said as much near the start of the interview. Then Swisher went into an obviously very well rehearsed schpiel that confirmed that he was absolutely right and the tech gods weren't fooling anyone. OK that was my limit, I switched to another podcast. She's got a great business model. Tell the press what they want to hear and you will get good press, pretty much guaranteed.",
+            "created": "Mon, 01 Apr 2024 14:12:19 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Started a <a href=\"https://imgs.scripting.com/2024/04/01/scriptingOutlineScreenShot.png\">new outline</a> for the month of April, with March <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/opml/2024/03.opml\">safely archived</a> on GitHub. If you want to read the month in outline form, <a href=\"https://drummer.land/?url=https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opml/2024/03.opml\">click this link</a> and it will open read-only in \"Drummer\". That's a pretty good approximation of how I edit it, except I use the desktop version of Drummer that writes files to the local Mac filesystem as well as to the cloud. ",
+            "created": "Mon, 01 Apr 2024 13:32:04 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
