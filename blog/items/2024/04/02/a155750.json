@@ -1,0 +1,7 @@
+{
+    "text": "We're starting to test the blogroll software with a few users, but we hit a problem before we began. The blogroll code includes the CSS for the Bootstrap Toolkit. I use it as if it were part of the OS, but not everyone does, and it changes the global values of things. So when you install it on a page that has its own ideas how things should work, you can get an unpleasant effect (to put it mildly). So I created a localized <a href=\"http://scripting.com/code/blogroll/smallbootstrap.css\">subset</a> of Bootstrap's styles, to be a better guest in other people's pages. That is now done. I expect we'll see more of that kind of thing. Web plugins are a new area for me. I guess that's pretty obvious. ",
+    "created": "Tue, 02 Apr 2024 15:57:50 GMT",
+    "type": "outline",
+    "image": "https://imgs.scripting.com/2024/04/01/appleRunner.png",
+    "flInCalendar": true
+}
