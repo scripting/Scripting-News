@@ -1,0 +1,23 @@
+{
+    "text": "Sometimes it pays to start over",
+    "created": "Sat, 06 Apr 2024 15:26:55 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I think you can save time by starting over sometimes, and rebuild the complexity, carefully testing at every step. ",
+            "created": "Sat, 06 Apr 2024 15:27:07 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Going back and fixing a poorly tested corner-turn, esp one you did a while ago, is a time-consuming and frustrating process. You need to have a fully consistent model to evolve. When you try to reorganize a complicated bit of code, and you find yourself scratching your head about how this or that works, that's a sign that it <i>doesn't</i> work. ",
+            "created": "Sat, 06 Apr 2024 15:27:17 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "But it's much more fun to add new features to a broken foundation than it is to either fix the foundation or rip it out and put in a new one. ",
+            "created": "Sat, 06 Apr 2024 15:28:16 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
