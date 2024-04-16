@@ -1,0 +1,121 @@
+{
+    "created": "2024-04-15T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "15",
+    "path": "2024/04/15",
+    "text": "April 15",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"http://storian.org/\">Anton Zuiker</a> is the first Drummer user with a FeedLand blogroll. ",
+            "created": "Mon, 15 Apr 2024 20:43:52 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Followed by <a href=\"http://oldschool.scripting.com/frank.mcpherson@gmail.com/\">Frank McPherson</a> and <a href=\"http://oldschool.scripting.com/gwthompson@mac.com/\">Gary Thompson</a>.",
+            "created": "Mon, 15 Apr 2024 21:19:57 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A blogroll on a Drummer blog",
+            "created": "Mon, 15 Apr 2024 14:53:15 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "How to add a <a href=\"https://blogroll.social/\">FeedLand blogroll</a> to a <a href=\"http://docserver.scripting.com/drummer/blogging.opml\">Drummer blog</a>. ",
+                    "created": "Mon, 15 Apr 2024 14:53:27 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "You must have a Drummer blog and a FeedLand account.",
+                            "created": "Mon, 15 Apr 2024 14:53:51 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "You can specify that all the feeds you're subscribed to are in your blogroll or use a category and only feeds in that category will be in the blogroll. ",
+                            "created": "Mon, 15 Apr 2024 14:54:07 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "The blogroll updates automatically, when one of the feeds has a new post, it goes to the top of the list.",
+                            "created": "Mon, 15 Apr 2024 14:54:09 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "You can expand a feed to see the five most recent items. Click on the pubdate to go to the full item on the web. ",
+                            "created": "Mon, 15 Apr 2024 14:54:11 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "It supports keyboard navigation. Up and down arrows move through the list, Return to expand/collapse. ",
+                            "created": "Mon, 15 Apr 2024 14:54:13 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "We're working on WordPress plugin. ",
+                            "created": "Mon, 15 Apr 2024 14:53:52 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Four head-level attributes in your blog.opml file. Only one required. ",
+                    "created": "Mon, 15 Apr 2024 14:54:41 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "blogrollUsername -- required",
+                            "created": "Mon, 15 Apr 2024 14:54:39 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "blogrollServer -- optional, if not specified it's feedland.com",
+                            "created": "Mon, 15 Apr 2024 14:56:02 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "blogrollCategory -- optional",
+                            "created": "Mon, 15 Apr 2024 14:56:04 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "blogrollTitle -- optional, but you really should provide a title, otherwise we invent a silly one for you. :smile:",
+                            "created": "Mon, 15 Apr 2024 14:54:40 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://imgs.scripting.com/2024/04/15/headlevelatts.png\">Screen shot</a> of how the head-level attributes are set on <a href=\"http://oldschool.scripting.com/bullmancuso@gmail.com/\">Bull Mancuso's blog</a>. ",
+                    "created": "Mon, 15 Apr 2024 14:55:09 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://imgs.scripting.com/2024/04/15/bullblogscreenshot.png\">Screen shot</a> of the blog itself with the blogroll.",
+                    "created": "Mon, 15 Apr 2024 14:55:24 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A link to Bull's blogroll <a href=\"https://feedland.com/?username=bullmancuso&catname=blogroll\">category</a> on feedland.com.",
+                    "created": "Mon, 15 Apr 2024 14:55:41 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A <a href=\"https://github.com/scripting/Scripting-News/issues/303\">place</a> to ask questions offer kudos, etc. :smile:",
+                    "created": "Mon, 15 Apr 2024 14:58:55 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: I'm not trying to sell you on using Drummer to run a blog. Rather I needed a place to figure out how this works, so we know how to set up and document the WordPress plugin. ",
+                    "created": "Mon, 15 Apr 2024 15:12:49 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
