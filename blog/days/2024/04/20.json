@@ -1,0 +1,53 @@
+{
+    "created": "2024-04-20T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "20",
+    "path": "2024/04/20",
+    "text": "April 20",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Quiet mode for the blogroll",
+            "created": "Sat, 20 Apr 2024 16:18:11 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "After living with the blogroll on the home page of Scripting News for <a href=\"http://scripting.com/2024/03/13/010313.html\">about a month</a>, and having heard from early testers, I felt that it was demanding too much attention when I was reading stuff on the blog. So I made some time last week to experiment with a subtler sidebar.",
+                    "created": "Sat, 20 Apr 2024 16:18:21 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "In <i>Quiet Mode,</i> the blogroll doesn't call attention to itself until you click on it. Then its background changes from neutral to white. That's the equivalent of shining a spotlight on it. Also the borders become blue to indicate that the browser's focus is on the blogroll.",
+                    "created": "Sat, 20 Apr 2024 16:19:54 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I wanted to do more to tone it down. So, in Quiet Mode the title moves up and to the left, and is in a much smaller font, boldface, nicely visible and stands off from the list, but doesn't call your attention to it. It's there when you want to know more. ",
+                    "created": "Sat, 20 Apr 2024 16:20:53 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You may want to call it something other than a blogroll, btw. If you're using blogs to coordinate projects with others, something I think a lot more people would do if it worked better, instead of \"blogroll\" you'd might call it your \"workgroup.\"",
+                    "created": "Sat, 20 Apr 2024 16:33:40 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Anyway, I have switched \"Scripting News\" over to the new quiet mode, it's already the default, but I put a <a href=\"https://imgs.scripting.com/2024/04/20/checkbox.png\">checkbox</a> just below the blogroll that lets you toggle between the two modes to see the difference and possibly spot problems. The checkbox will go away before long. I just want it there to quickly do an A-B comparison. ",
+                    "created": "Sat, 20 Apr 2024 16:22:29 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's a <a href=\"https://www.youtube.com/shorts/zfNS97NUHB4\">quick video demo</a> of Quiet Mode. ",
+                    "created": "Sat, 20 Apr 2024 16:29:30 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And a <a href=\"https://github.com/scripting/Scripting-News/issues/304\">place</a> to comment or ask questions.",
+                    "created": "Sat, 20 Apr 2024 16:30:53 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
