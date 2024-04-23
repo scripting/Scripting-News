@@ -1,0 +1,35 @@
+{
+    "created": "2024-04-22T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "22",
+    "path": "2024/04/22",
+    "text": "April 22",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "The idea of us all <a href=\"http://scripting.com/2024/04/16/140810.html\">working together</a> to federate is the right idea, but making ActivityPub the hurdle everyone has to jump over is imho the wrong idea. I'm building on feeds -- RSS, Atom, RDF. A lot of good stuff works on that basis. And it's a much shorter path to <a href=\"http://scripting.com/2021/12/16/153331.html?title=myProductIsInterop\">interop</a> than ActivityPub.",
+            "created": "Mon, 22 Apr 2024 17:12:56 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2024/04/22/uncleArno.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I hate paywalls tied to subscription. I’m never going to subscribe to a Philadelphia news org, but based on <a href=\"https://bsky.app/profile/jayrosen.bsky.social/post/3kqnxdwej3s2c\">Jay’s recommendation</a> I might pay $1 on my <a href=\"http://scripting.com/2022/10/04/130438.html?title=howEzpassForNewsWouldWork\">EZ Pass for News</a> to read <a href=\"https://www.inquirer.com/opinion/commentary/civil-war-movie-about-journalism-20240421.html\">this story</a>, esp since I saw the <a href=\"https://en.wikipedia.org/wiki/Civil_War_(film)\">Civil War</a> movie. I just had a thought, I might subscribe to a Philadelphia news org for a week or two, given that the Knicks are playing their NBA team right now in the first round of the playoffs. I really want to know everything there is to know about this faceoff. See, I want to pay for journalism here, but journalism hasn't been willing to sell it to me, at any price. They've never gotten the basic truth of: \"The customer is always right.\" Really important point and true in every way.",
+            "created": "Mon, 22 Apr 2024 13:20:20 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Over the weekend I <a href=\"https://techfightclub.wpcomstaging.com/\">tested</a> the <a href=\"https://blogroll.social/\">blogroll</a> plugin for WordPress. It worked. After a little more testing and docs-writing we'll be ready for other people to test it, an important step before wider use. So if you're a regular Scripting News reader, and are curious what this blogroll stuff is about, you'll be able to try it out pretty soon. ",
+            "created": "Mon, 22 Apr 2024 13:00:09 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Jeff Jarvis <a href=\"https://mastodon.social/@jeffjarvis/112314943773347273\">writes</a> that a German man who died with 70K books in his house was obsessed with the work of writer Arno Schmidt, who was <a href=\"https://www.google.com/search?q=site%3Ascripting.com+arno&rlz=1C5CHFA_enUS743US747&oq=site%3Ascr&aqs=chrome.0.69i59l3j69i57j69i64j69i58j69i65.24769j0j4&sourceid=chrome&ie=UTF-8\">my great-uncle</a>, my grandmother's brother. ",
+            "created": "Mon, 22 Apr 2024 12:51:47 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
