@@ -1,0 +1,35 @@
+{
+    "created": "2024-04-25T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "25",
+    "path": "2024/04/25",
+    "text": "April 25",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I don't think conversation on the web has been the big benefit some people think. Do you remember when you first realized that people weren't talking to you in a response to your post, they were talking over your shoulder to the people who read your post. I guess it depends on who you are, but I don't see any value in providing a surface for spam. These days I block people without much thought if I think that's what they're doing. So, why should you design a protocol, and pay the cost of supporting, something that is a vector for spam and abuse? That's the argument in favor of using \"RSS\" to glue things together. You can comment on my post, in your space, but my followers don't have to see it. That's up to me. I think it would change the nature of discourse, for the better. ",
+            "created": "Thu, 25 Apr 2024 15:33:49 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2020/06/29/alice.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "A <a href=\"https://chat.openai.com/share/a5f524c2-e9c2-480f-9587-9ef2ee5f74b8\">backgrounder</a> on how the web is used for conversation, the pros and cons of each variant, and what role RSS can play in it, thanks to ChatGPT.",
+            "created": "Thu, 25 Apr 2024 15:55:55 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "When you really have federation no one needs to hype it, people don't even realize it because things just work the way you expect them to. Every time I hear \"Where ever you get your podcasts,\" I'm reminded of how well that worked. :smile:",
+            "created": "Thu, 25 Apr 2024 20:05:56 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "ChatGPT has memory across chats. This just <a href=\"https://imgs.scripting.com/2024/04/25/chatgptmessage.png\">popped up</a> on the screen. I'd like to tell it that until further notice I use Node.js and do not use Express, and do use jQuery for my browser-based JavaScript, and I use the debugger all the time, so you can assume that. If this works, I now have a programming partner with memory. And maybe I can somehow get it to read all my blog posts going back 30 years? I have good archives of most of it. Also, of course I <a href=\"https://imgs.scripting.com/2024/04/25/chatgptcomments.png\">fed this post</a> to ChatGPT of course. So ChatGPT is not resting on its laurels. That's good. I'd really like a <i>Personal ChatGPT, </i>and this is on the way to that goal. ",
+            "created": "Thu, 25 Apr 2024 12:32:34 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
