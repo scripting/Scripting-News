@@ -1,0 +1,36 @@
+{
+    "created": "2024-04-28T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "28",
+    "path": "2024/04/28",
+    "text": "April 28",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://www.youtube.com/watch?v=UJRLoegBYvc\">Demo</a>: I'm working on a web text editor that works in three different formats -- wizzy, markdown and html source. You can flip between them with an icon click. I love flip-switches in software. ",
+            "created": "Sun, 28 Apr 2024 14:51:34 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=UJRLoegBYvc",
+            "flInCalendar": true
+        },
+        {
+            "text": "Today's <a href=\"https://blogroll.social/\">blogrolls</a> are more like feed readers than the blogrolls of the 90s. My blogroll has all the best sources, and they update slowly enough that I can keep up with all of them.",
+            "created": "Sun, 28 Apr 2024 13:04:16 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "These days I'm using the moderation tools on the social web more than I did in the past. If someone I don't know posts a negative comment on Facebook, in response to something I posted, I just delete it, because they have that feature (other systems don't, they should). Any lurker who happens by is free to enjoy what I write. But if I don't know you, I honestly don't care what you think, esp if it's negative and has less than ten syllables total. It's hit and run spam for sure. I'm widening my definition of spam all the time. If you add up all the responses that actually mean anything, it doesn't amount to much. Let's see what the social web looks like without hearing from all assholes. ",
+            "created": "Sun, 28 Apr 2024 12:39:23 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/11/09/bowHunter.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm also blocking people who hype ActivityPub in comments to my posts about social web stuff that has nothing to do with AP. I've been down this road before. I just want to find people with <a href=\"http://scripting.com/2024/04/16/140810.html\">active minds</a>, whose business is interop, who want to try stuff out. AP is not a good foundation to build on, at least until they come up with a <a href=\"https://www.google.com/search?q=%22busy+developer+guide%22\">BDG</a> for it. Basically it isn't a standard even though they say it is. If you want to help your cause: 1. Stop hyping. 2. Get busy with that BDG. ",
+            "created": "Sun, 28 Apr 2024 12:45:21 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
