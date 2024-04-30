@@ -1,0 +1,6 @@
+{
+    "text": "If you're running a <a href=\"https://github.com/scripting/feedlandInstall\">FeedLand server</a>, look in the <i>data/riverBuildLogs</i> folder. A bunch of fairly unnecessary JSON files may be accumulating there. I made a mistake in the default value of a config setting. Details <a href=\"https://github.com/scripting/feedland/blob/main/database/worknotes.md#42924-92653-am-by-dw\">here</a>. I noticed the problem as feedland.org was getting low on disk space. The default is set correctly in the latest release.",
+    "created": "Mon, 29 Apr 2024 13:55:35 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
