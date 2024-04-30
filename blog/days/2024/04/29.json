@@ -1,0 +1,44 @@
+{
+    "created": "2024-04-29T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "29",
+    "path": "2024/04/29",
+    "text": "April 29",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "The Knicks keep <a href=\"https://www.espn.com/nba/story/_/id/40046466/embiid-disappointing-knicks-fans-flooded-philly-arena\">winning</a> my heart. They play the game exactly as it should be played. And they don't take the bait to make it about anything other than what happens on the court, and to trust in the league to take care of players who don't play by the rules. And <i>of course</i> the Philadelphia arena was full of Knicks fans. The tickets cost a lot less than NYC tickets, and it's only 2 hours away by car, and there's good train service. If the series goes back to Philadelphia, the same thing will happen. I feel sorry for fans of small town teams, because no matter where you go in the US, there are always lots of Knicks fans. Largest city in the country. ",
+            "created": "Mon, 29 Apr 2024 15:08:13 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2024/04/29/loveNy.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I keep harping on Kevin Durant, but the thing he didn't understand about New York is that we're a one-team town when it comes to basketball. We'll go to a Nets game if there's nothing else to do, but the Knicks are the story of New York in re basketball. ",
+            "created": "Mon, 29 Apr 2024 18:15:46 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you're running a <a href=\"https://github.com/scripting/feedlandInstall\">FeedLand server</a>, look in the <i>data/riverBuildLogs</i> folder. A bunch of fairly unnecessary JSON files may be accumulating there. I made a mistake in the default value of a config setting. Details <a href=\"https://github.com/scripting/feedland/blob/main/database/worknotes.md#42924-92653-am-by-dw\">here</a>. I noticed the problem as feedland.org was getting low on disk space. The default is set correctly in the latest release.",
+            "created": "Mon, 29 Apr 2024 13:55:35 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Rustic Swiss village",
+            "created": "Mon, 29 Apr 2024 14:08:06 GMT",
+            "type": "outline",
+            "metaImage": "https://imgs.scripting.com/2024/04/29/alps.png",
+            "subs": [
+                {
+                    "text": "A rustic scene in Swiss mountain top village.",
+                    "created": "Mon, 29 Apr 2024 14:08:14 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2024/04/29/rusticSwissVillage.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
