@@ -1,0 +1,76 @@
+{
+    "text": "Protecting your FeedLand subscription lists",
+    "created": "Thu, 02 May 2024 13:56:43 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "First and foremost, you should keep a current backup copy of your subscription list. It's very easy to do. ",
+            "created": "Thu, 02 May 2024 14:01:06 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "In \"FeedLand\", choose <i>My feed list</i> in the first menu.",
+                    "created": "Thu, 02 May 2024 14:01:38 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Click on the white-on-orange XML icon, in the upper right corner of the page.",
+                    "created": "Thu, 02 May 2024 14:01:43 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "That will open a standard OPML version of your subscription list. This is the format that all feed reading software understands. ",
+                    "created": "Thu, 02 May 2024 14:01:52 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "In your browser, choose the <i>Save Page As</i> command in the File menu (or something like that, there are lots of browsers) and save it along with your other backups.",
+                    "created": "Thu, 02 May 2024 14:02:30 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You can also automate it if you can run a script that gets stuff over the internet. Once a night would be fine, not a huge burden on the server. ",
+                    "created": "Thu, 02 May 2024 14:02:56 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "I added another way to preserve your feed list, using localStorage.",
+            "created": "Thu, 02 May 2024 14:05:47 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "Every time you sign in FeedLand now saves a copy of your subscription list in localStorage. ",
+                    "created": "Thu, 02 May 2024 14:07:54 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And if the FeedLand server you're using should happen to disappear, if you have not taken a backup in a while, if you have a tab open, you'll at least have a copy in localStorage. ",
+                    "created": "Thu, 02 May 2024 14:08:20 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If you want to see it -- visit feedland.org or feedland.com, wherever you have an account, and do a hard reload. Then open the JavaScript console, and enter this line:",
+                    "created": "Thu, 02 May 2024 14:28:06 GMT",
+                    "subs": [
+                        {
+                            "text": "<code>console.log (localStorage.savedUserSubs)</code>",
+                            "created": "Thu, 02 May 2024 14:28:42 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If you have questions, here's a <a href=\"https://github.com/scripting/feedlandSupport/issues/240\">thread</a>.",
+                    "created": "Thu, 02 May 2024 14:44:24 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
