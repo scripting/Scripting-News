@@ -1,0 +1,23 @@
+{
+    "text": "What became of 1999.io",
+    "created": "Thu, 02 May 2024 14:09:41 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "TL;DR: It's gone -- you can't get <a href=\"http://1999.io/\">there</a>. Because it uses Twitter for identity. It and bingeworthy.io are the two apps I miss the most. ",
+            "created": "Thu, 02 May 2024 14:09:46 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://www.google.com/search?q=site%3Ascripting.com+1999.io\">1999 was a rewrite</a> of blogging software from the point of view of both 1999 and 2016. Both timeframes. I had learned a lot inbetween, and the art of online interaction had moved forward a lot. I had become a user of Facebook, and was impressed with how their software worked. I was imploring them to turn it into a blogging system, it was achingly close. When I realized they weren't going to do it, I set out to do it myself, how I imagined Facebook would do a blogging system. Of course I didn't have their source code, so I built it from scratch. ",
+            "created": "Thu, 02 May 2024 13:57:14 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Because 1999 used Twitter for identity, I couldn't use it. I also couldn't use Radio, because it ran on Windows and a now-obsolete version of the Mac OS. It's made me think that maybe in a few years or even months you might not be able to use \"FeedLand\" or \"Drummer\". Then I thought about how I can better future-safe them for users. And that led me to adding a simple feature to FeedLand that will help if a FeedLand server you depend on should go off the air. See the next post, below.",
+            "created": "Thu, 02 May 2024 14:00:42 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
