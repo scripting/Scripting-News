@@ -1,0 +1,68 @@
+{
+    "created": "2024-05-04T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "04",
+    "path": "2024/05/04",
+    "text": "May 04",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/306\">Braintrust query</a>: If my wordpress.com username is <i>scripting, </i>where is my public profile page?",
+            "created": "Sat, 04 May 2024 15:20:59 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2024/05/04/quail.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "ChatGPT is letting us customize the context in which our queries run. So I can say I use JavaScript so if I ask a programming question, it should answer in that language. I was happy to have this feature, and gave it a thumbs up. The idea is that we build up a highly detailed profile over time, so ChatGPT gets better at answering my questions. And it also locks us in. It didn't come up for me until Meta.ai came along and sometimes it's good to get a second opinion. But I want to share that profile info. ",
+            "created": "Sat, 04 May 2024 14:27:38 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Knicks win, fans stunned",
+            "created": "Sat, 04 May 2024 13:40:04 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Knicks star <a href=\"https://www.si.com/nba/knicks/slamanoby-og-anunoby-ends-new-york-knicks-series-style\">OG Anunoby</a> dunks on last season's MVP Joel Embiid.",
+                    "created": "Sat, 04 May 2024 13:41:07 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2024/05/04/ogDunksOnEmbiidHahahaaahaLoveIt.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<b>Two first round questions</b>",
+                    "created": "Sat, 04 May 2024 13:45:40 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Why didn't Sixers coach Nick Nurse continue to play <a href=\"https://www.google.com/search?sca_esv=ecb6ee45659b3970&rlz=1C5CHFA_enUS743US747&sxsrf=ADLYWIJCOqn7DU76bzgDcnSordiwZJtE3w:1714831647760&q=Buddy+Hield&tbm=nws&source=lnms&sa=X&ved=2ahUKEwj4kdvZlfSFAxW34MkDHaZPBvwQ0pQJegQIDRAB&biw=1634&bih=1036&dpr=2\">Buddy Hield</a> who had the hot hand in the second and third quarters, and got the Sixers back in the game after the Knicks early dominance? He sat out most of the fourth quarter, was put back in at the very end and took the last Sixers desperation shot. ",
+                            "created": "Sat, 04 May 2024 13:45:49 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "In the other big Eastern Division game on Thursday, why did Doc Rivers, the Milwaukee Bucks' coach go into <a href=\"https://en.wikipedia.org/wiki/Garbage_time\">garbage time</a> when the Bucks were down by only 10 with 2.5 minutes remaining? What the frack was he thinking? Deficits like that are often made up, esp in elimination games? Being a good sport is one thing, but quitting the season early when you're only down by 10? What the what? I tuned in the game at the point when his stars were coming out, before the Knicks game started, and couldn't figure out why he was giving up so soon?",
+                            "created": "Sat, 04 May 2024 13:46:26 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<b>It couldn't actually happen</b>",
+                    "created": "Sat, 04 May 2024 14:04:49 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "In the pause between the first and second rounds of the NBA playoffs, I am having the very very very strange thought that maybe possibly maybe the Knicks will could possibly maybe perhaps nah never hmm -- go all the way?",
+                            "created": "Sat, 04 May 2024 13:40:12 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
