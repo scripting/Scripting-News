@@ -1,0 +1,27 @@
+{
+    "text": "Random RSS & ActivityPub notes",
+    "created": "Mon, 06 May 2024 00:27:26 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Back when I did my first XML-based serialization format, I did it because the XML people were asking developers to do that. \"Now you can create your own formats!\" The theory was they had finished their work, XML was ready to go, and developers should start building on it. So I did, thinking in the back of my mind, \"they don't really mean it.\" This was based on experience with commercial platform vendors who heavily evangelized their products when they were new, but took <a href=\"https://en.wiktionary.org/wiki/umbrage\">umbrage</a> at the <a href=\"https://en.wiktionary.org/wiki/chutzpah\">chutzpah</a> of the developer who thought they could do anything really useful or important, don't they know that's what BigCo's do. Anyway a few years later, that's exactly what happened. Predictably, the big companies, IBM, Microsoft, Google, Sun etc thought they should define the syndication format of the future, so they set about to do it as a \"standard\" and thus was born Atom. My opinion, <a href=\"https://this.how/standards/#1497798940000\">one way is better</a> than two, and they should have jumped on the \"RSS\" bandwagon. But that's not what they do. They're still <a href=\"https://www.w3.org/TR/activitypub/\">trying</a> to make RSS unnecessary, you think they would have figured out that there's no point in <a href=\"https://www.w3.org/TR/activitypub/\">trying</a> to do that. It isn't going away. :smile:",
+            "created": "Sun, 05 May 2024 14:30:38 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/11/27/rssClub.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I wonder if anyone has thought of working with ChatGPT or Meta.ai to create a Busy Developer's Guide to ActivityPub? Here's the prompt. \"I want to write a simple bridge between my writing app and any app that runs in the Fediverse, using only ActivityPub. The operations are basically those of the MetaWeblog API, create a post, update a post. Just to start. How should it handle identity? I work in Node.js.\" I asked both AI tools, and the Meta.ai answer was pretty useless, but <a href=\"https://chatgpt.com/share/3a37d2dd-a442-4d8c-b314-0c934b87f5e1?oai-dm=1\">ChatGPT gave</a> what seems to be a reasonable outline for the project. ",
+            "created": "Sun, 05 May 2024 15:20:50 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://www.w3.org/TR/activitypub/\">ActivityPub</a> is a product of <a href=\"https://en.wikipedia.org/wiki/Architecture_astronaut\">Architecture Astronauts</a>. Start with a simple idea but generalize it too far, so it can do everything, so much so that no one understands how to do the simple stuff. You have to understand the theory before you do can anything pragmatic. It's why I said last week that they <a href=\"http://scripting.com/2024/04/28.html#a124521\">need a BDG asap</a>, with implementations in all major runtime environments. I would help them design it, I'm a fairly typical \"busy developer.\" I would support it if it were easier to understand, thus more likely not to be revised with breakage to apps. I've also seen this happen before, in fact it happens more often than not. If you don't understand a format, you can't actually support it. This is part of the <a href=\"http://scripting.com/davenet/1997/05/07/Programmers.html#5\">you can't lie to a compiler</a> axiom. ",
+            "created": "Sun, 05 May 2024 14:37:38 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
