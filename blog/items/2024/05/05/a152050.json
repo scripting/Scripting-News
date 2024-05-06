@@ -1,0 +1,6 @@
+{
+    "text": "I wonder if anyone has thought of working with ChatGPT or Meta.ai to create a Busy Developer's Guide to ActivityPub? Here's the prompt. \"I want to write a simple bridge between my writing app and any app that runs in the Fediverse, using only ActivityPub. The operations are basically those of the MetaWeblog API, create a post, update a post. Just to start. How should it handle identity? I work in Node.js.\" I asked both AI tools, and the Meta.ai answer was pretty useless, but <a href=\"https://chatgpt.com/share/3a37d2dd-a442-4d8c-b314-0c934b87f5e1?oai-dm=1\">ChatGPT gave</a> what seems to be a reasonable outline for the project. ",
+    "created": "Sun, 05 May 2024 15:20:50 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
