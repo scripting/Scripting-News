@@ -1,0 +1,109 @@
+{
+    "created": "2024-05-06T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "06",
+    "path": "2024/05/06",
+    "text": "May 06",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "An unsung miracle of ChatGPT. I usually write my prompts very carefully, esp when using it to build software, but I just tried not really caring, and asking a question the way I thought of it, so it rambled a lot, was repetetive and had an error I didn't bother to correct, to see what would happen. It didn't even criticize me. It figured out what I was trying to ask/say, and gave me the answer I was looking for. Yes I am aware that all my fellow programmers taught it how to do this, though I have no idea how it does that, but it is freaking amazing. I keep finding miracles in this tech.  ",
+            "created": "Mon, 06 May 2024 13:40:32 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2022/08/20/brilliantFriend.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Cross-posting in 2024",
+            "created": "Mon, 06 May 2024 13:58:47 GMT",
+            "type": "outline",
+            "description": "Pragmatic notes how cross-posting works these days.",
+            "subs": [
+                {
+                    "text": "Some pragmatic notes how cross-posting works these days.",
+                    "created": "Mon, 06 May 2024 14:13:46 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I use regularly: Twitter, Threads, Facebook, Mastodon, Bluesky.  ",
+                    "created": "Mon, 06 May 2024 13:59:08 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Two that have APIs I can use: Mastodon and Bluesky.",
+                    "created": "Mon, 06 May 2024 13:59:41 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I can't send images to Bluesky via their API, they broke the interface. My way of doing it is now called \"legacy.\" The app that uses that feature doesn't work. But I don't even remotely have the time to go back and fix it.",
+                    "created": "Mon, 06 May 2024 13:59:54 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The items in my <a href=\"http://scripting.com/?tab=links\">linkblog</a> come from this flow. If it appears in my linkblog, it also appears on Masto and Bluesky.",
+                    "created": "Mon, 06 May 2024 14:05:52 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "When I want broader distribution, I do this:",
+                    "created": "Mon, 06 May 2024 14:00:50 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Open a new browser window.",
+                            "created": "Mon, 06 May 2024 14:01:02 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Open a tab to Twitter usually. I don't know why.",
+                            "created": "Mon, 06 May 2024 14:01:09 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I write some text into the Twitter tab.  ",
+                            "created": "Mon, 06 May 2024 14:01:24 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Paste an image if there is one.",
+                            "created": "Mon, 06 May 2024 14:09:03 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I open another tab for Threads, Facebook, Mastodon, Bluesky. ",
+                            "created": "Mon, 06 May 2024 14:02:05 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I make one pass to paste the text, another to paste the image.",
+                            "created": "Mon, 06 May 2024 14:06:39 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I click Send in each of the tabs, and get back to what I was doing.",
+                            "created": "Mon, 06 May 2024 14:02:47 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'm sure a lot of people are doing something very much like this. I can actually witness Jeff Jarvis doing it. I think Jay Rosen probably is too.",
+                    "created": "Mon, 06 May 2024 14:03:03 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "One thing that Bluesky may not be aware of is that their character limit is signficantly lower than the others, so sometimes I can't include them in this rotation. ",
+                    "created": "Mon, 06 May 2024 14:03:51 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'd love to see one of these support the features of \"textcasting\". I would give them 100 good netizen points for that, because it wouldn't be long before the others did it, and we'd have a much more complete network writing environment. ",
+                    "created": "Mon, 06 May 2024 14:04:47 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
