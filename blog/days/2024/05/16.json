@@ -1,0 +1,35 @@
+{
+    "created": "2024-05-16T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "16",
+    "path": "2024/05/16",
+    "text": "May 16",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Poll 1 on <a href=\"https://twitter.com/davewiner/status/1791196115477365078\">Twitter</a>, <a href=\"https://mastodon.social/@davew/112452528516101550\">Mastodon</a>, <a href=\"https://www.threads.net/@davew/post/C7CrkeJpY_4\">Threads</a>: \"If you're a developer, how much has ChatGPT or its equivalents affected the way you develop?\"",
+            "created": "Thu, 16 May 2024 20:06:47 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Poll 2 on <a href=\"https://twitter.com/davewiner/status/1791218560632590637\">Twitter</a>, <a href=\"https://mastodon.social/@davew/112452878606174278\">Mastodon</a>, <a href=\"https://www.threads.net/@davew/post/C7C1xIPJ2Gn\">Threads</a>: \"Has ChatGPT replaced Google (or other search engine) when you look up something for a development project, environment, etc.?",
+            "created": "Thu, 16 May 2024 21:26:31 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The thing that <a href=\"https://www.platformer.news/google-io-ai-search-sundar-pichai/\">Casey Newton predicts</a> for Google and news has already happened for the huge base of reference info and know-how for software development. We no longer go to the sources, don't need to, the ChatGPT version is an order of magnitude better. What we do need is people to keep asking and answering questions for each other, so the knowledge can be added into the AI database. We're going somewhere here. It's worth going there, imho, having experienced the before, and only starting to glimpse the now and near-future. But it's as big a step as the move to PCs, then GUIs, the web, mobile.",
+            "created": "Thu, 16 May 2024 13:56:37 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Something I'd like from ChatGPT or a plug-in. I'd like to create a notebook of info I'd like it to have available for people who inquire about a product I'm developing. As I'm working on the code, I develop features that sometimes don't make it into the docs. But when I'm working on the feature, I take lots of notes in my work outline. I'd like to give that outline to a LLM and let it figure out which product I'm talking about by the context it appears in. Maybe all I have to do is publish the notes when the product comes out, and eventually, like a search engine, my favorite AI will crawl it. I wonder if it makes sense to somehow pre-digest it. I wish I had a panel of experts about this stuff, but I guess they'd have to be human, at least at this point in time. If this makes sense to you and you know how to get started, <a href=\"https://github.com/scripting/Scripting-News/issues/307\">post a note here</a>. ",
+            "created": "Thu, 16 May 2024 13:04:19 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2023/04/24/cheshireCat.png",
+            "flInCalendar": true
+        }
+    ]
+}
