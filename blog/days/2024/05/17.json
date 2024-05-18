@@ -1,0 +1,133 @@
+{
+    "created": "2024-05-17T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "17",
+    "path": "2024/05/17",
+    "text": "May 17",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=XQ3XNtdzSFA\">That's the way god planned it</a>. ",
+            "created": "Fri, 17 May 2024 16:29:04 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=XQ3XNtdzSFA",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's something that matters. Somehow ChatGPT gets the story right about my various contributions. You'll see all kinds of BS in Wikipedia and other various highly rated sites. Somehow ChatGPT sees through the bullshit, and usually gets the story right. So when people say that human reporting is better than machine reporting, I think this may be one of those cases where conventional wisdom is wrong. The human record is relatively easy to manipulate if the researchers are lazy and/or dishonest. ",
+            "created": "Fri, 17 May 2024 21:07:34 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "People get all moral about AI, but I for one would never go back.",
+            "created": "Fri, 17 May 2024 16:42:17 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Wouldn't it be great if there was a social web toolkit with the basic building blocks so we could experiment with different UI and behaviors. Why, after so many years are we still so controlled. When and why did we give up?",
+            "created": "Fri, 17 May 2024 16:45:45 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "On MSNBC yesterday I saw a discussion where two black panelists were asked to comment on Trump's idea that black people go for him because they can relate to his awful prison mug shot. How incredibly insulting. It's just like what Trump says about Jewish Americans being loyal to Israel. Such an un-American idea. We all got here different ways. Some for a better life, some for life at all, others as slaves. But the United States is a big-hearted idea -- the <i>United</i> States. It's unfortunate that such a small-minded <i>dis</i>united person is so powerful now. We still have a long way to go.",
+            "created": "Fri, 17 May 2024 16:19:50 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2024/05/17/orange.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Google and The Innovator's Dilemma in 2024",
+            "created": "Fri, 17 May 2024 13:10:08 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "It's overwhelming how much ground Google has to cover to get AI into all their products, but that's what they think they have to do, and I more or less agree. They feel they have to because their main product, search, is threatened by ChatGPT. ",
+                    "created": "Fri, 17 May 2024 13:01:48 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Clayton Christensen called <a href=\"https://chatgpt.com/share/5ab4f305-0d0d-4cba-b7d7-0b5debf06a6c\">this</a> The <a href=\"https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma\">Innovator's Dilemma</a>  in a <a href=\"https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation-dp-1633691780/dp/1633691780/ref=dp_ob_title_bk\">book</a> published in 1997. It's why Netscape was able to undermine Microsoft when the web came out. Microsoft had a huge beast they had to move, Windows, and all its apps, and while they had a hardcore, scrappy and rich culture, they couldn't overcome the inertia that comes from being dug in, with their cannons pointed at the already-vanquished IBM, not the upstarts that came from the VCs in Silicon Valley. ",
+                    "created": "Fri, 17 May 2024 13:11:51 GMT",
+                    "image": "https://imgs.scripting.com/2024/05/17/innovatorsDilemma.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Microsoft and the rest of the PC industry had written off Unix, but there it was, again -- ugly as ever, but with networking that really worked and was easy, and the users wanted networking even though Microsoft wanted them to want Office. ",
+                    "created": "Fri, 17 May 2024 13:24:22 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Google did the same with AI. As did Apple, Amazon, Facebook, Microsoft, etc. They had AI projects, and used AI in limited areas, as did Microsoft with Unix in the early 90s. But they couldn't bet everyting on it like a startup can. Now they have to. But the they don't have the tools needed to fight the new war. <i>That's</i> the dilemma. ",
+                    "created": "Fri, 17 May 2024 13:14:15 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This is the toughest corner any tech company has to turn, but there is an approach that could work for Google. Their strength is distribution. They have all the users. They can take a product that's ready for the world to market in a day. But they can't develop it. You can't snap your fingers and have a good new UI for every one of their products, ready in a year, although they will try as MS tried to adapt Office to the web. They don't have the right people or corporate culture to do that. Instead you have to hope you can find a great bootstrapping startup outside to work with, and use their strength as a distributor to help them. This is what I recommended for Microsoft in the 1990s, and I think I was vindicated, it would have imho worked a lot better than the path they chose. ",
+                    "created": "Fri, 17 May 2024 13:26:13 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But now, their third time around this loop, Microsoft has learned! With their OpenAI partnership they've done exactly what I recommended in the 90s. They still have to convert all the old software and their user interfaces around the new capabilities, but at least they also own a share of a bootstrap that's now booming.",
+                    "created": "Fri, 17 May 2024 13:16:54 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: I am blessed to have lived long enough now to have been part of now six different rearrangements like this. I love that we have now gotten there again. There's absolutely no doubt now, imho. The six rearrangements -- minis, PCs, GUIs, web, Napster, and now AI.",
+                    "created": "Fri, 17 May 2024 13:18:10 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PPS: This is all my opinion, and from the polls I did <a href=\"http://scripting.com/2024/05/16.html\">yesterday</a>, it's obvious that many of the people within earshot don't agree or have seen the light yet. ",
+                    "created": "Fri, 17 May 2024 13:31:43 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "The Knicks and the Epic Fart",
+            "created": "Fri, 17 May 2024 13:42:01 GMT",
+            "type": "outline",
+            "description": "The Knicks won the last game in the playoffs because of an epic fart in the locker room.",
+            "metaImage": "https://imgs.scripting.com/2024/05/17/epicFart2.png",
+            "subs": [
+                {
+                    "text": "Dave to ChatGPT: I just read a news story that the Knicks won the last game in the playoffs because of an <a href=\"https://www.google.com/search?q=knicks+epic+fart\">epic fart</a> in the locker room. Can you draw a light-hearted illustration of that event?",
+                    "created": "Fri, 17 May 2024 13:42:10 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Version 1",
+                    "created": "Fri, 17 May 2024 13:42:19 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2024/05/17/epicFart1.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Then I asked for a serious and dramatic illustration.",
+                    "created": "Fri, 17 May 2024 13:44:16 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Version 2",
+                    "created": "Fri, 17 May 2024 13:43:10 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2024/05/17/epicFart2.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I imagine you can bet on who the farter was. ",
+                    "created": "Fri, 17 May 2024 13:44:56 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "My guess would be <a href=\"https://en.wikipedia.org/wiki/Isaiah_Hartenstein\">Hartenstein</a>. ",
+                    "created": "Fri, 17 May 2024 13:46:37 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
