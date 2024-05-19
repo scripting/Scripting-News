@@ -1,0 +1,6 @@
+{
+    "text": "A few weeks ago I asked ChatGPT if it could transcribe an M4A audio file, the kind of file that Apple's voice memo app produces, and it said no, it couldn't do that. I gave it another try today and got a different answer. I uploaded the file, and it came close, it said it needed the file in WAV format. It gave me instructions for writing a desktop tool that would do the conversion. I expect in another couple of weeks they'll be able to deal with the M4A file directly. ",
+    "created": "Sat, 18 May 2024 13:50:55 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
