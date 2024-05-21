@@ -1,0 +1,62 @@
+{
+    "created": "2024-05-20T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "20",
+    "path": "2024/05/20",
+    "text": "May 20",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Don't miss that Twitter has become a <a href=\"http://scripting.com/2024/05/20/193616.html\">blogging platform</a>. It's sad that it took this long. And we're still missing a <a href=\"http://textcasting.org/\">bunch</a> of features. ",
+            "created": "Mon, 20 May 2024 19:41:30 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A post I wrote on Twitter",
+            "created": "Mon, 20 May 2024 19:36:16 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Here's <a href=\"https://x.com/davewiner/status/1792237882679156983\">something</a> you may find funny if you study the evolution of software technology.",
+                    "created": "Mon, 20 May 2024 19:36:23 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "In the 80s there were all kinds of ideas about how to do hypertext. Mostly they called for two-way links, so you could walk the graph in any direction you like. These were hard to implement and required the two parties work with each other, and that never happened. ",
+                            "created": "Mon, 20 May 2024 19:40:22 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "In the early 90s along comes Tim Berners-Lee, a random NextStep developer who wanted to play and he for whatever reason didn't wait to figure out how to boil the ocean with two-way links, he just did one-way links and instead of inventing a new protocol he just implemented it on top of TCP/IP. While the purists were debating its purity it took off, broke all records, made a lot of people very rich.",
+                            "created": "Mon, 20 May 2024 19:40:40 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "A few years later, Tim Berners-Lee, the same guy who made the web, wants to layer a new protocol on top of the web -- the Semantic Web. He wanted people to be able to query the web the way you query a database. \"show me all the widgets on sale in urbana for less than $20.\" Like that.",
+                            "created": "Mon, 20 May 2024 19:40:42 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "It never happened for the same reason the two-way hyperlinks didn't, it required cooperation. You couldn't just throw together a demo in an afternoon as a fun side project like you could with the web (I speak from experience, my first success with the web took five freaking minutes). ",
+                            "created": "Mon, 20 May 2024 19:40:44 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Now when Google or some other browser maker integrates ChatGPT-like functionality in their browser, as a side-effect, you will get TBL's Semantic Web. It won't require any cooperation and that's why it will work.",
+                            "created": "Mon, 20 May 2024 19:40:23 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "",
+            "created": "Mon, 20 May 2024 13:05:19 GMT",
+            "flInCalendar": true
+        }
+    ]
+}
