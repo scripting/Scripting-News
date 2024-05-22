@@ -1,0 +1,75 @@
+{
+    "created": "2024-05-21T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "21",
+    "path": "2024/05/21",
+    "text": "May 21",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Podcast: <a href=\"http://scripting.com/2024/05/21/whatIsAMagazine.m4a\">What is a magazine?</a> It depends on what direction you look at it from. An iPad was like a magazine, but what would you tell a young person who never used a magazine? What is it? Right now almost everyone is looking at AI from the point of view of a world with no AI. And it turns out that once you have it, it starts solving problems you never thought would be associated with AI. But there it is. You just have to sit down and start playing and you find all kinds of amazing things. But if you don't try it, you'll always be looking at it from the past. We've seen this kind of explosive growth in the power of the individual human. It's a 20-minute podcast and I'm all over the map, but it's good stuff, imho of course. YMMV, my mother loves me, I am not a lawyer.",
+            "created": "Tue, 21 May 2024 18:01:13 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2024/05/21/whatIsAMagazine.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "10489681",
+            "image": "https://imgs.scripting.com/2024/05/21/magazineCover.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "\"Every day's an endless stream of cigarettes and magazines\" is from <a href=\"https://www.youtube.com/watch?v=HAnj2fyjxRw\">Homeward Bound</a> by Simon and Garfunkel. ",
+            "created": "Tue, 21 May 2024 18:13:10 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"http://scripting.com/2024/03/21/125505.html#a153700\">March 2024</a>: \"WordPress is, among other things, a perfect time capsule of open technologies from the early days of innovation on the web, and widely deployed and able to deliver all their benefits, if we widen our view of social media to be a social web.\"",
+            "created": "Tue, 21 May 2024 15:38:27 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "If I were building a product like <a href=\"https://substack.com/home\">Substack</a> or <a href=\"https://ghost.org/\">Ghost</a>, I would build on top of <a href=\"https://wordpress.org/\">WordPress</a>, for the widest compatibility.  ",
+            "created": "Tue, 21 May 2024 16:18:40 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "What if <a href=\"https://www.npr.org/2024/05/20/1252495087/openai-pulls-ai-voice-that-was-compared-to-scarlett-johansson-in-the-movie-her\">Scarlett Johansson</a> had said wtf let's see what happens. Might be fun to be the first default voice of AI. Like <a href=\"https://en.wikipedia.org/wiki/The_Horse_in_Motion\">the jockey</a> in <a href=\"https://www.youtube.com/watch?v=heRuLp7CyTM\">this movie</a>.",
+            "created": "Tue, 21 May 2024 20:15:06 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I found a fairly painless way to transcribe voicemails using Google Docs. 1. Open a text document. 2. Choose <a href=\"https://support.google.com/docs/answer/4492226?hl=en\">Voice Typing</a> from the Tools menu. 3. Play the voice memo over the speaker of your iPhone. 4. That's it. Google transcribes it into your document. It would be better if Apple offered that as an option in the Share menu, but they don't. ",
+            "created": "Tue, 21 May 2024 16:00:19 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Why Tesla FSD is unsafe",
+            "created": "Tue, 21 May 2024 11:47:12 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Here's what I've learned from <a href=\"https://www.google.com/search?q=site%3Ascripting.com+tesla\">owing</a> a Tesla Model Y with <a href=\"http://scripting.com/2024/04/10/230303.html\">Full Self Driving</a>. I don't believe it's safe. It absolutely does require your full attention at all times. You are still driving the car. I've seen it do crazy stuff in simple situations. I've seen it panic, basically throw its hands in the air and say Dave this is your problem. That's why you always have to be ready, as if you were driving the car yourself because at any moment you could be. You never know when it's going to happen. Now focus on that moment. Your car has given up and turned the driving over to you. How much experience do you have with that? Do you know where to look? Do you hit the brakes or veer to the left or right? If you're an experienced driver, a lot of these reactions are completely programmed into the lower levels of the brain. You don't have to think at all. When the car panics, I tend to panic. If I had 10 or 20 years experience with this connection, then I guess it's probably safe. But not the way it is. ",
+                    "created": "Tue, 21 May 2024 11:36:14 GMT",
+                    "type": "outline",
+                    "image": "https://imgs.scripting.com/2024/05/21/teslaModelY.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'm amazed there aren't more terrible accidents with FSD, and that Tesla still promotes this as \"self-driving,\" which it is not. ",
+                    "created": "Tue, 21 May 2024 11:49:41 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Also, I love my Tesla. Every time I get into that mofo I feel privileged. It looks like a Toyota Camry but drives like a muscle car. I might still switch to a <a href=\"https://www.caranddriver.com/kia/ev9\">Kia EV9</a>, at some point, if it drives as well as the Tesla, simply because the nearest Telsa dealer is over an hour away, and the <a href=\"https://www.romeokia.com/\">Kia dealer</a> is in <a href=\"https://en.wikipedia.org/wiki/Kingston,_New_York\">Kingston</a> which is practically in the neighborhood. ",
+                    "created": "Tue, 21 May 2024 11:49:55 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
