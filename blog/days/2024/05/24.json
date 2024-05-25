@@ -1,0 +1,35 @@
+{
+    "created": "2024-05-24T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "24",
+    "path": "2024/05/24",
+    "text": "May 24",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "There's this great <a href=\"https://www.youtube.com/watch?v=7mzY1sdiFSU&t=53s\">scene</a> in MoneyBall where <a href=\"https://en.wikipedia.org/wiki/Billy_Beane\">Billy Beane</a> is talking to <a href=\"https://en.wikipedia.org/wiki/David_Justice\">David Justice</a> in the batting cage. Justice reminds Beane how much he's paying him, and Beane says I'm going to tell it to you straight -- half your salary is being paid by the Yankees. Think about it. They're paying all that money for you to play <i>against</i> them. That's how I feel about Fox. How much will it cost to get them to STFU. Whatever it is it's worth it.",
+            "created": "Fri, 24 May 2024 14:55:10 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=7mzY1sdiFSU&t=53s",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you have working code that <a href=\"https://github.com/scripting/wpIdentity/issues/1\">uploads images to WordPress</a> sites via the WPCOM interface, I could use some pointers.  ",
+            "created": "Fri, 24 May 2024 14:20:40 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://chatgpt.com/share/cb9c4c97-bb20-439e-a503-ed2356403b0c\">Dave</a>: \"Do you want credit?\" ChatGPT: \"Not necessary.\"",
+            "created": "Fri, 24 May 2024 12:33:15 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you're part of the indieweb community and work in Node.js, you should know about the <a href=\"https://www.npmjs.com/package/reallysimple\">reallysimple package</a>. It flattens the interface for the most common feed formats. It's designed to be super easy to use. Give it a URL and it returns a consistent JSON structure. More people would develop feed-using apps if they knew about this package. I just want more people to develop around feeds. \n",
+            "created": "Fri, 24 May 2024 14:38:53 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
