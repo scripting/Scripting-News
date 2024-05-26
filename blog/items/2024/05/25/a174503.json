@@ -1,0 +1,6 @@
+{
+    "text": "As you may know, over the years I extend \"RSS\" by adding elements to the <a href=\"http://source.scripting.com/\">source namespace</a>. The latest is <a href=\"http://source.scripting.com/#1716308936000\">source:self</a> whose value is the canonical URL for the feed. This was a useful addition in Atom, which I <a href=\"https://github.com/scripting/reallysimple/blob/main/worknotes.md#61522-by-dw----v049\">supported</a> in <a href=\"https://github.com/scripting/reallysimple/blob/main/README.md\">reallySimple</a> in 2022, and I wanted to include the value without having to add another namespace to <a href=\"http://scripting.com/rss.xml\">my feed</a> and feeds produced by my products, so reallySimple now supports both. Small move forward for <a href=\"https://www.google.com/search?q=site%3Ascripting.com+interop\">interop</a>. ",
+    "created": "Sat, 25 May 2024 17:45:03 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
