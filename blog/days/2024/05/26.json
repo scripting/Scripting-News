@@ -1,0 +1,23 @@
+{
+    "created": "2024-05-26T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "26",
+    "path": "2024/05/26",
+    "text": "May 26",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "The best <a href=\"https://www.youtube.com/watch?v=2nwRiuh1Cug\">campaign commercial</a> ever. So simple. A nostalgic <a href=\"https://en.wikipedia.org/wiki/America_(Simon_%26_Garfunkel_song)\">song</a>, beautifully performed. Stock footage of American workers and families, esp in Vermont, interspersed with video from campaign events. These things aren't complicated. I bet Bernie and <a href=\"https://en.wikipedia.org/wiki/Simon_%26_Garfunkel\">S&G</a> would let Biden use the same format.",
+            "created": "Sun, 26 May 2024 23:19:38 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=2nwRiuh1Cug",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/Scripting-News/issues/308\">Call for feeds</a>. I'm working on a bit of demo software and need a few blogroll-supporting feeds that have &lt;source:blogroll> elements.",
+            "created": "Sun, 26 May 2024 14:27:03 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
