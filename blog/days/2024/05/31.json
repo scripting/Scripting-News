@@ -1,0 +1,117 @@
+{
+    "created": "2024-05-31T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "31",
+    "path": "2024/05/31",
+    "text": "May 31",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=w05CYrXe4p4\">Them Changes</a>. ",
+            "created": "Fri, 31 May 2024 13:32:08 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=w05CYrXe4p4",
+            "flInCalendar": true
+        },
+        {
+            "text": "Microsoft and Google are putting AI chat into all their apps everywhere you can enter text, which imho is as pointless as embedding web browsers in all of the Office apps in 1994. ChatGPT is the Netscape of this generation. Compete with that, create the best environment for the kind of work we do there. That’s the game, from a UI standpoint.",
+            "created": "Fri, 31 May 2024 17:16:57 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2021/09/17/simpsonsBeeGuy.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Perhaps I should add a new element to the <a href=\"http://source.scripting.com/\">source namespace</a>, the name of the author of a blog, if the feed is for a blog. Here's why I need it. I am building my blogroll. Every time I find an insightful story about using tech I use, these days esp AI, I add it to my blogroll so I get to see any new articles they write when they post. But if their blog has a catchy name, I'll never pick it out of the list as I scan for something new to read. I need the name of the author too. Basically a blogger should provide their name, but of course it's completely optional. I'll subscribe anyway, if the article is on-topic. I'm soaking this stuff up now, building my own personal firehose. ",
+            "created": "Fri, 31 May 2024 13:02:43 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A <a href=\"https://imgs.scripting.com/2024/05/31/blogrollScreen.png\">screen shot</a> that illustrates. If you're going to put your name in the title, put it in the first part. ",
+            "created": "Fri, 31 May 2024 13:42:29 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Tech is about people",
+            "created": "Fri, 31 May 2024 12:32:55 GMT",
+            "type": "outline",
+            "description": "Once again we're at the beginning of a huge tech-induced transformation.",
+            "metaImage": "https://imgs.scripting.com/2024/03/06/writersCircle.png",
+            "subs": [
+                {
+                    "text": "Once again we're at the beginning of a huge tech-induced transformation, and yet again the people who already occupy a high rung of the ladder of success, or imagine they do, are pissing all over it, without using it.",
+                    "created": "Fri, 31 May 2024 12:33:05 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I remember <a href=\"https://en.wiktionary.org/wiki/kvell\">kvelling</a> about Napster, about how the ability to program my own music had made it possible for me to explore my own life in new ways, because music is inexorably bound to memory. For me the big revelation came on <a href=\"http://scripting.com/2000/06/18.html\">Father's Day in 2000</a> when I heard <a href=\"https://www.youtube.com/watch?v=P6zaCV4niKk\">Father and Son</a> by Cat Stevens on the radio and desperately wanted to hear it again. ",
+                    "created": "Fri, 31 May 2024 12:35:14 GMT",
+                    "urlvideo": "https://www.youtube.com/watch?v=P6zaCV4niKk",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I had tried Napster a few months earlier and found that it had none of my music. It was basically just a technology demo. I tried it again, and this time not only did it have the Cat Stevens song, but it had every song from my childhood that I hadn't heard since being a kid listening to WABC on the transistor radio my grandfather gave me for my birthday when I was five or six years old.",
+                    "created": "Fri, 31 May 2024 12:37:28 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I told this story at a Future of Music conference and was torn apart by the other people on stage, supposedly creative people, who cared not one bit about how people used the product they created, and the power of being able to program our own music. They were the bosses of music and my job was merely to give them money and admiration and stfu. They tried to get me off the stage (I was the moderator) but I stood my ground and of course never forgot.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It happened again a few years later at the DNC in Boston, when the journalists mocked the bloggers because we had no experience as journalists, and they didn't like the way we dressed (they wrote articles about it, in the NYT even). 20+ years later they're still complaining, but they forget to blame us for their misery, now. Their misery is they forget the glory of their job, which is empowering us -- their users -- to change the world that so desperately needs changing. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's happening again with AI, which is opening up creative expression to people who can't draw, or aren't good writers, or people who want to be better programmers, or who knows -- this technology is the most powerful I've used in my long life in tech. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The difference is -- you have to use something before your criticism makes any sense. That was the mistake the music industry made with Napster. What the journalists made regarding bloggers (we're they're sources, tried to say over and over but they don't listen they just like to talk and be admired and our job as usual is to give them money and stfu). ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "My very good friend Doc Searls sees it the same way. He calls it <a href=\"https://doc.searls.com/2024/05/28/the-peoples-ai/\">People's AI</a>. We're going to build this out the way we did it with blogging and podcasting a few years ago. It may be our last rodeo, we're getting on in years, but I'm so glad I lived to see this.",
+                    "created": "Fri, 31 May 2024 12:40:51 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "(Sidebar: The people who run tech companies today have no idea how to build new technology markets, the categories they occupy were built by others, now gone. I finally figured that's our disconnect and why products lose important features when they are taken over by the inheritors, and why the leaders of Google et al have no idea where to put AI for users to build with it, or even that the users build the stuff they use in tech. Say what you want about Jack, Ev and Biz, but they understood this idea and they did let the users lead.)",
+                    "created": "Fri, 31 May 2024 12:40:51 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And btw, don't miss that it was twelve of us, twelve people, that finally said what the ladder-occupiers have failed to say for far too long about Trump -- he's a felon. We've known that, but when did Obama, Biden, Moscow Mitch or anyone else with a name or reputation to protect say the most obvious truth. They're all powerless and weak, and if we want to get out of this mess we're going to have to lead ourselves. Waiting for them, that didn't work. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: Thanks to Twitter for increasing the character limit, so I can <a href=\"https://x.com/davewiner/status/1796516437281935415\">write my blog posts</a> on my iPad before starting my day. Like this. ;-)",
+                    "created": "Fri, 31 May 2024 12:33:19 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PPS: BTW -- here's <a href=\"https://www.youtube.com/watch?v=P6zaCV4niKk\">the song</a>. Somehow the music industry survived my ability to share this song with you and my future self.",
+                    "created": "Fri, 31 May 2024 12:35:05 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PPPS: I write these pieces with specific people in mind but I rarely say who they are because it embarrasses them. But I write <i>all</i> my pieces the my regular readers, who keep me going, almost 30 years (on Oct 10 this year). I hope they build great things with these ideas, and they let me help them do it. ",
+                    "created": "Fri, 31 May 2024 12:44:52 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PPPPS: Doc tends to write brilliant pieces that perfectly describe these points in time. Let's travel back to 1997, as Steve Jobs is returning to Apple, when <a href=\"http://scripting.com/davenet/stories/DocSearlsonSteveJobs.html\">Doc explained</a> that while he loves me, Steve loves no one but Steve. :smile:",
+                    "created": "Fri, 31 May 2024 12:49:46 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PPPPPS: The motto for the podcasting community as it was booting up in 2004 was \"users and developers party together.\" That was the thing that Adam and I agreed on. Adam being the user, and I being the developer. Of course it was his trying to be a developer, and me trying to be a user that was the spark that created the boom. We both made it safe for amateurs to do what we do. That's why podcasting, unlike the music industry, never went to war with its users.  :boom:",
+                    "created": "Fri, 31 May 2024 12:53:08 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
