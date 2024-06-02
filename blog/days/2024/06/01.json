@@ -1,0 +1,60 @@
+{
+    "created": "2024-06-01T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "01",
+    "path": "2024/06/01",
+    "text": "June 01",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Welcome to another month on \"Scripting News\"! :smile:",
+            "created": "Sat, 01 Jun 2024 16:39:48 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "By my calculations this is the 365th consecutive month of publication for my humble blog. Are there any longer-running blogs in the world? ",
+            "created": "Sat, 01 Jun 2024 16:48:35 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The outline for May 2024 has been <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/opml/2024/05.opml\">safely tucked away</a> for posterity on the Scripting News repo. ",
+            "created": "Sat, 01 Jun 2024 16:40:07 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"http://scripting.com/2024/05/31/123255.html\">The last post for last month</a> is one you should read if you read nothing else on this blog ever. It's the story of tech. Something new and explosive comes out, and the journalists feel threatened by it (always, in every way, even when it has nothing to do with them) and a few others (music industry with Napster, artists with ChatGPT) see amateurs invading their previously exclusive space. Truth is these new technologies give new tools for expression of ordinary untrained people. Now we get to have fun with sharing what we see, and maybe the professionals have to reorient themselves to the rest of the world. One thing you can't do and hope not to be left behind, is ignore the new tech, if you want to understand, don't depend on what you read in the news orgs, because they are always full of shit about new tech. You have to go discover it for yourself. And when someone says they're blown away by the new stuff they can do, listen to them, don't argue, try to understand. There's a lot of growth locked up in understanding. So please read the piece, we're at one of those points now wrt to ChatGPT. Sure, it knows a lot of stuff, that's great, but there's also it's ability to listen and understand us. This is what's really new here. ",
+            "created": "Sat, 01 Jun 2024 16:41:34 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2024/06/01/neo.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Sometimes the On This Day feature in Facebook surfaces some questions that should be asked regularly. For example. 1. I asked <a href=\"https://www.facebook.com/dave.winer.12/posts/pfbid02MA2JoTwY1oEYhuxmhuvarmVsaMqX6Gi6dADc3i8C8acFK3j3xNdw6W8GrG2vnoNgl\">in 2023</a> what do librarians think of ChatGPT. Only one response. Maybe more this year. If there are any librarians blogging about their experiences with ChatGPT, please send me a link and I will add them to my AI category. If <i>anyone</i> is writing about new discoveries they've made, I want to hear about it. ",
+            "created": "Sat, 01 Jun 2024 18:24:26 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The rare picture of Trump on this blog",
+            "created": "Sat, 01 Jun 2024 18:36:37 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I try not to post pictures of Trump on this blog since he left office in 2021, but this is too good not to share. ",
+                    "created": "Sat, 01 Jun 2024 18:36:50 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Pretty sure this is a meme, not an actual New Yorker cover. ",
+                    "created": "Sat, 01 Jun 2024 18:37:14 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2024/06/01/trumpOnEscalator.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
