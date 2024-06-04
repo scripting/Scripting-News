@@ -1,0 +1,6 @@
+{
+    "text": "We should apply mathematics to language design. The goal of the language should be maximum simplicity for the human developer. As much of the complexity as possible should be handled by software, either at compile-time or runtime. It should strive to read like <a href=\"https://en.wikipedia.org/wiki/Pseudocode\">pseudocode</a>. We started out writing code by toggling switches on the front panel of the computer, and for a few decades we were factoring and making it simpler with every iteration, but then we turned around in the other direction. I am from the church of factoring. I do it in my designs of products at all levels, and I treat languages with the same care. It turns out all the rules of working on open systems also apply to language design. I plan to write more about this. ",
+    "created": "Mon, 03 Jun 2024 14:31:27 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
