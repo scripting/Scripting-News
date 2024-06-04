@@ -1,0 +1,6 @@
+{
+    "text": "If you make a podcast client, I'd like to have an <a href=\"https://opml.org/spec2.opml#subscriptionLists\">OPML list</a> of all the feeds I'm subscribed to in my client so I can follow it in my feed reader. I'd really like it to go the other way, actually, so I could maintain the list on my desktop computer, and have it automatically reflected in the mobile podcast client. It's very important that it use OPML, that's the standard for this stuff. I couldn't possibly get excited by another format. Podcasting thrives on these standards. The client I use is <a href=\"https://pocketcasts.com/\">Pocket Casts</a> which is part of Automattic. BTW, you can <a href=\"https://editsubscriptionlists.opml.org/\">use Drummer to edit</a> a subscription list. Its native format is OPML.",
+    "created": "Mon, 03 Jun 2024 18:01:54 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
