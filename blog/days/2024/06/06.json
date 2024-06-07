@@ -1,0 +1,43 @@
+{
+    "created": "2024-06-06T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "06",
+    "path": "2024/06/06",
+    "text": "June 06",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://www.threads.net/@growwith.nash/post/C7ztTyASBmS\">Question</a>: \"Worst financial advice for someone in their 20s?\" <a href=\"https://www.threads.net/@davew/post/C74GmMjMzCB\">Answer</a>.",
+            "created": "Thu, 06 Jun 2024 15:10:35 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "More bad financial advice: \"Give money to Trump! He needs your help! They're out to get him! You're next!\"",
+            "created": "Thu, 06 Jun 2024 21:10:11 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I used the ChatGPT \"upload an image\" feature today while debugging some software. I could show it what wasn't working with a screen shot. Amazingly it understood and made the connection to the software we were working on, and suggested a modification that made it work properly. This was an important missing bit of functionality, previously you had to explain in words what wasn't working visually. That worked too, but was cumbersome. Much easier to just show it was wrong. And the UI couldn't be simpler. Take the screen shot at paste it into the box where you normally type. It starts analyzing before you press Enter. ",
+            "created": "Thu, 06 Jun 2024 14:25:26 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2020/04/21/cylon.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "A new use for ChatGPT",
+            "created": "Thu, 06 Jun 2024 15:00:15 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Greeting cards. 😀",
+                    "created": "Thu, 06 Jun 2024 15:00:21 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2024/06/06/loveAmericaCat.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
