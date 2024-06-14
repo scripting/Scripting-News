@@ -1,0 +1,85 @@
+{
+    "created": "2024-06-13T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "13",
+    "path": "2024/06/13",
+    "text": "June 13",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "\"Too much of everything is just enough.\" -- <a href=\"https://genius.com/The-grateful-dead-i-need-a-miracle-lyrics\">The Dead</a>. ",
+            "created": "Thu, 13 Jun 2024 12:58:22 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm working on a server app to read blogroll source in OPML, and build a database of other blogrolls that are linked to feeds in the original blogroll, accessed via the <a href=\"https://opml.org/blogroll.opml\">feed or html source</a>. It was a lucky thing when I designed the format for <a href=\"https://opml.org/spec2.opml#subscriptionLists\">subscription lists</a> back in the 00s that it included the <i>htmlUrl</i> attribute, it makes the HTML easier to find (though the channel-level link element in the feed could play the same role). Anyway, of course I'm using a SQL database for all this, and when I was thinking about it initially I thought \"no big deal\" it's a variant of a SQL table I've now done a dozen times. But it was a big deal, because I've yet to come up with a way to factor this so that I have a library that knows how to make the kind of table that keeps coming up all the time, to bury the complexity and make creating a new one much simpler. Same thing with CSS and JavaScript. I know the justification for CSS is that it makes scaling from phones to desktops possible, but that would be equally possible if you provided a good object with properties that can be configured at runtime. That's how we do it on servers with a config.json file. Then you could do a much better job of factoring browser-based apps. Imagine how much smoother everything would be if these structures could be factored. This probably doesn't make sense to too many people, maybe it won't even make sense to me in a couple of years, when hopefully I've moved on to a better way of doing these things. I would love to have the time to take a crack at doing the factoring anyway, I'm sure it's possible, just not obvious how to do it. In the meantime I think there are now enough blogrolls out there to build something interesting out of them, which is why I'm taking my break from <i>The Next Product</i> to do this. ",
+            "created": "Thu, 13 Jun 2024 12:34:37 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2024/06/11/nakedJenToday.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's not much of a secret that my next product is the minimal writing tool I always felt <a href=\"https://www.google.com/search?q=site%3Ascripting.com+wordpress\">WordPress</a> should have. I have not been doing this in conjunction with Automattic, I'm not sure we're on the same planet re what WordPress is for. Ultimately it'll be their decision if this idea gains traction. But I keep hearing people ask for this product, and I think it's the reason Substack and Ghost have become popular. I'm going to put it out there, and see what comes back. :smile: ",
+            "created": "Thu, 13 Jun 2024 13:06:10 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Also, I'm using their <a href=\"https://github.com/Automattic/wp-calypso\">Calypso API</a> to talk to WordPress. I like it. Well-designed and documented. I've built another layer that makes it even easier for a browser-based JavaScript apps, and also added storage, which you can't do a web app without. ",
+            "created": "Thu, 13 Jun 2024 13:12:15 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, I love the new <a href=\"https://imgs.scripting.com/2024/06/11/nakedJenToday.png\">margin image</a> of NakedJen. Talking with her the other day we decided this would be the opening scene of The NakedJen Movie. The <a href=\"https://www.youtube.com/watch?v=5xqiu0ekahw\">meaning</a> of the image is well-known to people who travel with the Dead, as Jen did. I've never been to a Dead concert with her, but I understand it's like going to a Comdex or MacWorld in the 80s or <a href=\"http://www.bricklin.com/albums/pcforum99/\">Esther's</a> or <a href=\"https://www.edge.org/digerati/alsop/\">Stewart's</a> conferences for me in the 90s. Sure you go for the music, but <i>mainly</i> you go to <a href=\"http://scripting.com/davenet/1996/10/24/QueSeraSera.html\">schmooze</a> in the hallways. I love talking with her on the phone the most. We have thought about doing a podcast, and even tried recording one, but our one-to-one conversations are much more interesting, and funny. We're take turns being <a href=\"https://en.wikipedia.org/wiki/Pinky_and_the_Brain\">Pinky or the Brain</a>.",
+            "created": "Thu, 13 Jun 2024 12:47:32 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Why Google should know my blog",
+            "created": "Thu, 13 Jun 2024 13:19:49 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I did a search on my site for NakedJen. ",
+                    "created": "Thu, 13 Jun 2024 13:19:59 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Google thinks I meant \"Naked Men.\"",
+                    "created": "Thu, 13 Jun 2024 13:25:58 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This is why Google should know I have a blog and it has it indexed, and if it just looks it would know that question shows how <b>dumb</b> it is. ",
+                    "created": "Thu, 13 Jun 2024 13:20:16 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "When I type my mother's name in, searching on my own blog (again) it tries to correct the spelling of her name. My own mother's name.",
+                    "created": "Thu, 13 Jun 2024 13:20:58 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Google started out so smart then they must have lost all the smart people. Or they got stupid? I don't know. But there's so much they could do to improve their product, it would be sensible to, while they're shooting for the fences, do the small things that would give users an idea that there's <i>some</i> humanity to the product. ",
+                    "created": "Thu, 13 Jun 2024 13:21:33 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "NakedJen or \"Naked Men.\"",
+                    "created": "Thu, 13 Jun 2024 13:22:41 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2024/06/13/nakedJenOrNakedMen.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: ChatGPT should also know where my blog is, and it should be constantly loading the updates. This is the freaking breakthrough. Do it. ",
+                    "created": "Thu, 13 Jun 2024 13:26:47 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
