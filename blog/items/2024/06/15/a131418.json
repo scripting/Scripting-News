@@ -1,0 +1,6 @@
+{
+    "text": "I have a server that's returning <a href=\"https://opml.org/\">OPML</a> files. It's not the first time I've done this, but now there seem to be enough other people interested in this that it's worth raising this question. What content type should I use. Generally I've been using text/xml. But I see other people using text/opml. Here's a <a href=\"https://github.com/scripting/opml.org/issues/20\">thread</a>. ",
+    "created": "Sat, 15 Jun 2024 13:14:18 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
