@@ -1,0 +1,84 @@
+{
+    "created": "2024-06-15T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "15",
+    "path": "2024/06/15",
+    "text": "June 15",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "\"If looks could kill it would have been us instead of him.\" -- <a href=\"https://en.wikipedia.org/wiki/The_Continuing_Story_of_Bungalow_Bill\">Beatles</a>.",
+            "created": "Sat, 15 Jun 2024 13:54:01 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://gist.github.com/scripting/aa1a8beacf79d90bc26105ba46c32072\">This function</a> is included in every bit of software I write. Never know when you might need a random snarky slogan. I added two today. 1. There's no time like now, and 2. Mirrors lie.",
+            "created": "Sat, 15 Jun 2024 15:10:29 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I have a server that's returning <a href=\"https://opml.org/\">OPML</a> files. It's not the first time I've done this, but now there seem to be enough other people interested in this that it's worth raising this question. What content type should I use. Generally I've been using text/xml. But I see other people using text/opml. Here's a <a href=\"https://github.com/scripting/opml.org/issues/20\">thread</a>. ",
+            "created": "Sat, 15 Jun 2024 13:14:18 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "One place I could use ChatGPT-like functionality, in debugging CSS. I'd like to put my cursor on an object in Elements view and ask why does this object have a width of 1054.09px. When I look it up in the Computed panel it's greyed out, and for the life of me I can't figure out how to get the debugger to explain this. But there is an answer to this question. ",
+            "created": "Sat, 15 Jun 2024 13:05:59 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Is there a Kickstarter for political ads? I'd like to put up a page with <a href=\"http://scripting.com/2024/06/14/175200.html\">yesterday's ad</a>, and let people put up money to run it. The more money we raise the more the ad runs. ",
+            "created": "Sat, 15 Jun 2024 12:50:43 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Getting a new case for an old cellphone is a huge cost savings, because you're getting most of the benefits of having a new phone for approx 1/86th of the cost, by my calculations.",
+            "created": "Sat, 15 Jun 2024 12:25:29 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Spoiler for The Jinx",
+            "created": "Sat, 15 Jun 2024 17:18:48 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<i>Warning if you haven't watched the second season of <a href=\"https://en.wikipedia.org/wiki/The_Jinx_(TV_series)\">The Jinx</a> you should not read this, because it's a total spoiler. </i>",
+                    "created": "Sat, 15 Jun 2024 17:18:57 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "When Durst is cross-examined in the trial, the prosecutor asks a series of questions that got him to admit that if he had actually killed his first wife, he would have lied in his testimony. He asked a whole bunch of things but stopped short of asking the question that would have nailed him.",
+                    "created": "Sat, 15 Jun 2024 17:19:32 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Mr Durst, would you kill someone to avoid being convicted of killing your wife?",
+                    "created": "Sat, 15 Jun 2024 17:21:21 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "From what we know of Durst he would have had a hard time saying no. When he's caught he generally admits he's caught. ",
+                    "created": "Sat, 15 Jun 2024 17:21:40 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "They got the conviction anyway. ",
+                    "created": "Sat, 15 Jun 2024 17:22:03 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: I don't recommend either season but having watched the first, I was kind of committed to watching the second. He's a truly despicable character. ",
+                    "created": "Sat, 15 Jun 2024 17:22:34 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
