@@ -1,0 +1,35 @@
+{
+    "created": "2024-06-18T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "18",
+    "path": "2024/06/18",
+    "text": "June 18",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "My second Podcast0 episode is up. Here's the <a href=\"http://scripting.com/podcast0/rss.xml\">RSS 2.0 feed</a>. And the <a href=\"https://podcasts.apple.com/us/podcast/my-second-podcast/id1752527298?i=1000659386865\">page</a> for the episode on Apple Podcasts.",
+            "created": "Tue, 18 Jun 2024 12:06:30 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2024/06/18/patrioticKitty.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm highly motivated to support the newly released Threads API, but a quick look indicates that it's a fairly large project. All I want to do is cross-post, along with Masto and Bluesky. I did both those a loooong time ago. But I really want my links to go to threads, and also create a thread-writer for it like the one I did for Twitter and Bluesky. There's no shortage of really interesting projects now, so I think I'm going to have to wait to do this for a while. If anyone makes a really simple Hello World for Threads for Node.js that would make my day. :smile:",
+            "created": "Tue, 18 Jun 2024 20:57:25 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "For people who use \"Electric Drummer\". If you accidentally close a file that's open and want it to re-appear in its previous position, you can edit your prefs.json file. You can find it by choosing <i>Open Data Folder</i> from the File menu. You'll see prefs.json. Open it in a text editor, and make the changes you want -- carefully. Probably a good idea to make a copy of the file before editing. But I just did it and laughed out loud, why didn't I think of this before? Heh.",
+            "created": "Tue, 18 Jun 2024 15:56:42 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"http://scripting.com/stories/2009/10/03/fathersDay.html\">My</a> <a href=\"https://www.google.com/search?q=site%3Ascripting.com+father%27s+day\">father</a>, <a href=\"https://leonwiner.com/\">Leon Winer</a>, would have been 95 today. ",
+            "created": "Tue, 18 Jun 2024 16:00:59 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
