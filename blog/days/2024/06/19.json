@@ -1,0 +1,110 @@
+{
+    "created": "2024-06-19T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "19",
+    "path": "2024/06/19",
+    "text": "June 19",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's <a href=\"http://scripting.com/podcast0/rss.xml\">podcast-zero</a> episode is up. It's from June 14, 2004. It's 1/2 of a panel in 1991 that I was on with Bill Gates. This is before the turn to the web. At this point I'm starting to look around for audio that might fit into this new audio blog channel that goes with my written blog. ",
+            "created": "Wed, 19 Jun 2024 15:10:42 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2024/06/11/nakedJenToday.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Technical note. I made a <a href=\"https://imgs.scripting.com/2024/06/19/datesoff.png\">mistake</a> in converting local time to GMT in the code that builds the feed. My times were off by four hours. So I corrected them. And now instead of three items in the feed, according to my own feed software, there are now six. I bet all the <a href=\"https://podcasts.apple.com/us/podcast/dws-podcast0-feed/id1752527298\">other</a> systems will do the same thing because the guid is a function of the creation date of the item, and they changed. Oh well. At least the <a href=\"http://scripting.com/podcast0/rss.xml\">RSS version</a> only has three items. I think I should change how the guid works. ",
+            "created": "Wed, 19 Jun 2024 15:16:01 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's a game you can play. Every time you think \"good\" immediately say \"gouda.\" For some reason it's funny. ",
+            "created": "Wed, 19 Jun 2024 15:28:22 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I asked ChatGPT to <a href=\"https://chatgpt.com/share/290adf1b-9d58-4eff-a543-aefbedcf3219\">write</a> a Hello World app for Threads. Here's <a href=\"https://github.com/scripting/Scripting-News/issues/309\">the code</a>. I haven't tried running it yet.",
+            "created": "Wed, 19 Jun 2024 13:41:02 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The FeedLand stack",
+            "created": "Wed, 19 Jun 2024 12:38:42 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "One of the cool things about the way I designed FeedLand internally is that there are various levels of feed stuff. If you want to start over at any level, you can, and today I'm doing exactly that. But first here's the stack:",
+                    "created": "Wed, 19 Jun 2024 12:40:32 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "At the lowest level is the <a href=\"https://www.npmjs.com/package/reallysimple\">reallysimple package</a>, which reads any feed and returns a consistent JavaScript object, so the database code only ever sees one kind of feed. All the differences between RSS and Atom are flattened, and features from the source <a href=\"https://source.scripting.com/\">namespace</a> are included, where they are present.  ",
+                            "created": "Wed, 19 Jun 2024 12:41:12 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Above that level is the <a href=\"https://www.npmjs.com/package/feedlanddatabase\">feedlanddatabase package</a>, which has a Node API that does all the stuff with the SQL database that FeedLand runs off. So if all you want to do is add feeds, subscribe to them, add a user, subscribe to a reading list, build a river, all that stuff is at this level. This is the level at which I'm going to start building today.",
+                            "created": "Wed, 19 Jun 2024 12:41:24 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Next level up is the <a href=\"https://www.npmjs.com/package/feedland\">feedland package</a>, which implements the REST interface, and handles all the runtime stuff that the FeedLand client needs.",
+                            "created": "Wed, 19 Jun 2024 12:42:56 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "And the final level is the one the user interacts with, it runs in the browser, and makes the REST calls to the feedland server. All the rendering of the objects coming out of the database via the REST interface happens here.  ",
+                            "created": "Wed, 19 Jun 2024 12:43:55 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "In an <a href=\"http://scripting.com/2024/06/16.html#a112207\">application</a> I'm working on, I found myself reimplementing features of FeedLand, and I stopped myself and said, nooooo use the API that's already there. The advantages are many, including I will be able to use FeedLand to manage the data structures. So that's what I'm doing. Wish me luck.",
+                    "created": "Wed, 19 Jun 2024 12:44:31 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "The next patriotic kitten",
+            "created": "Wed, 19 Jun 2024 12:55:00 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I loved being my own DJ with Napster, and none of the execs or journalists figured out that this was the appeal of getting all the music out from behind the incredibly obsolete and brutal paywall that the music industry had concocted. They didn't give a shit about the users except they wanted our money, there was no love in the connection between the creativity of the artists and the creativity of the users. We supposedly didn't have any. ",
+                    "created": "Wed, 19 Jun 2024 12:55:11 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'm like <a href=\"https://en.wikipedia.org/wiki/Emmett_Chapman\">Emmett Chapman</a>, an accomplished musician who created a new kind of <a href=\"https://en.wikipedia.org/wiki/Chapman_Stick\">musicial instrument</a> for himself and others to use. That's what I do with software. I play the tools I make. But what I really get off on is the music the users make. I was thinking about my father yesterday, it would have been his 95th birthday. He died at 80, so there's been plenty of time to process his life as I knew it. The best connection he and I had was silent. I inherited my love for outliners from him, yet that love was latent probably for hundreds of generations in our family. I had the skill and creativity to create such a tool, and finally the <a href=\"https://en.wikipedia.org/wiki/IBM_Personal_Computer\">technology</a> existed, and he let his son turn his mind upside down and inside out. For that he would say Every day is Father's Day. That may be my greatest accomplishment.",
+                    "created": "Wed, 19 Jun 2024 12:56:41 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I was chatting with my brother yesterday, ChatGPT came up, and I thought (and said) I bet dad would have loved ChatGPT. Then I thought of our uncle Ken, on my mother's side, and said he would have shit his pants over ChatGPT. Ken spent literally hours every day with the meager reference tools he owned in his off the grid cottage near St Augustine. The way I love ChatGPT is the way he would have loved it. I'm absolutely sure of it. My paternal grandfather would have loved it, and I expect my great uncle <a href=\"https://en.wikipedia.org/wiki/Arno_Schmidt\">Arno</a> who was a pioneer of <a href=\"https://en.wikipedia.org/wiki/Zettelkasten\">zettlekasten</a> would have also lost his shit over ChatGPT.",
+                    "created": "Wed, 19 Jun 2024 13:00:44 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Which leads me to the art of a user of ChatGPT (which really needs a shorter name). People's first reaction is that by creating art with ChatGPT I'm stealing. Bollocks. I'm creating. I'm not even going to validate that with a rebuttal. I am proving it with the <a href=\"https://www.google.com/search?q=%22Patriotic+Kitten%22\">Patriotic Kitten</a> thread, the next of which I will now entertain you with. ",
+                    "created": "Wed, 19 Jun 2024 13:03:22 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The second patriotic kitten. ",
+                    "created": "Wed, 19 Jun 2024 13:04:48 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2024/06/19/patrioticKitten2.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
