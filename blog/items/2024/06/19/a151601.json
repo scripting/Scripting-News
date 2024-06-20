@@ -1,0 +1,6 @@
+{
+    "text": "Technical note. I made a <a href=\"https://imgs.scripting.com/2024/06/19/datesoff.png\">mistake</a> in converting local time to GMT in the code that builds the feed. My times were off by four hours. So I corrected them. And now instead of three items in the feed, according to my own feed software, there are now six. I bet all the <a href=\"https://podcasts.apple.com/us/podcast/dws-podcast0-feed/id1752527298\">other</a> systems will do the same thing because the guid is a function of the creation date of the item, and they changed. Oh well. At least the <a href=\"http://scripting.com/podcast0/rss.xml\">RSS version</a> only has three items. I think I should change how the guid works. ",
+    "created": "Wed, 19 Jun 2024 15:16:01 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
