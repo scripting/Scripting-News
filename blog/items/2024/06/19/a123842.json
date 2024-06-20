@@ -1,0 +1,41 @@
+{
+    "text": "The FeedLand stack",
+    "created": "Wed, 19 Jun 2024 12:38:42 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "One of the cool things about the way I designed FeedLand internally is that there are various levels of feed stuff. If you want to start over at any level, you can, and today I'm doing exactly that. But first here's the stack:",
+            "created": "Wed, 19 Jun 2024 12:40:32 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "At the lowest level is the <a href=\"https://www.npmjs.com/package/reallysimple\">reallysimple package</a>, which reads any feed and returns a consistent JavaScript object, so the database code only ever sees one kind of feed. All the differences between RSS and Atom are flattened, and features from the source <a href=\"https://source.scripting.com/\">namespace</a> are included, where they are present.  ",
+                    "created": "Wed, 19 Jun 2024 12:41:12 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Above that level is the <a href=\"https://www.npmjs.com/package/feedlanddatabase\">feedlanddatabase package</a>, which has a Node API that does all the stuff with the SQL database that FeedLand runs off. So if all you want to do is add feeds, subscribe to them, add a user, subscribe to a reading list, build a river, all that stuff is at this level. This is the level at which I'm going to start building today.",
+                    "created": "Wed, 19 Jun 2024 12:41:24 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Next level up is the <a href=\"https://www.npmjs.com/package/feedland\">feedland package</a>, which implements the REST interface, and handles all the runtime stuff that the FeedLand client needs.",
+                    "created": "Wed, 19 Jun 2024 12:42:56 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And the final level is the one the user interacts with, it runs in the browser, and makes the REST calls to the feedland server. All the rendering of the objects coming out of the database via the REST interface happens here.  ",
+                    "created": "Wed, 19 Jun 2024 12:43:55 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "In an <a href=\"http://scripting.com/2024/06/16.html#a112207\">application</a> I'm working on, I found myself reimplementing features of FeedLand, and I stopped myself and said, nooooo use the API that's already there. The advantages are many, including I will be able to use FeedLand to manage the data structures. So that's what I'm doing. Wish me luck.",
+            "created": "Wed, 19 Jun 2024 12:44:31 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
