@@ -1,0 +1,106 @@
+{
+    "created": "2024-06-20T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "20",
+    "path": "2024/06/20",
+    "text": "June 20",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=dlRuYCDyeOA\">Take Me Back to Tulsa</a>.",
+            "created": "Thu, 20 Jun 2024 15:03:41 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=dlRuYCDyeOA",
+            "flInCalendar": true
+        },
+        {
+            "text": "Why did the Podcast 2.0 people reinvent <a href=\"http://home.rsscloud.co/\">rssCloud</a>? That's the kind of bullshit Google does. We don't do that in the open formats and protocols world. What really pains me is they claim to follow <a href=\"https://this.how/standards/\">my</a> Rules for Standards-makers. Imho they do not. Two rules apply. <a href=\"https://this.how/standards/#1497798753000\">Rule #1</a> says the only reason we do this is interop. It's called Rule #1 for a reason. And the <a href=\"https://this.how/standards/#1497798940000\">one way</a> rule a little further down the page. I've seen this happen twice where people say they abide by the <a href=\"https://this.how/standards/\">RFSM</a> but then do exactly the opposite of what it says to do. We have to do this better people. Come on. Also come up with something more humble than the name you've chosen. We've been down this path. The only way it ends is in <a href=\"http://scripting.com/2024/06/20/134901.html?title=standardsKitty\">tears</a>. ",
+            "created": "Thu, 20 Jun 2024 13:37:41 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Now that I'm publishing a podcast feed designed to be read in commercial podcast clients, I'm learning for the first time how they work. For example, they seem to list shows not in the order they discovered them, as I do in my products, rather in order of pubDate. So when I set the dates on the shows from 2004 to their actual dates, that would have worked if I hadn't made a <a href=\"http://scripting.com/2024/06/19.html#a151601\">mistake</a> in GMT-encoding the dates. Stupid programmer (me). Now they will show up first in the lists forever unless I switch to that form of dates. This so totally sucks. I wish there were something in RSS to say \"Hey readers dump your cache now, let's start over, because I fcuked up.\" It wouldn't have mattered anyway, I'm sure none of them would listen, right? ",
+            "created": "Thu, 20 Jun 2024 13:32:25 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "ChatGPT is the Ozempic of online info-finding. Neither is a panacea, there are side-effects, but both make possible great feats that weren't possible before, and both have come about just in the last year or two.  ",
+            "created": "Thu, 20 Jun 2024 11:58:37 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://mastodon.social/@davew/112648408196566182\">Until recently</a> I was always unsure of how to use CSS, been that way for many years. Then I started to use ChatGPT and could ask it how to do things, and I’ve gotten much closer to the designs I wanted, and I’m getting better at it with every project I do.",
+            "created": "Thu, 20 Jun 2024 11:57:31 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'd like to do a series of interview-style podcasts. I'm <a href=\"https://mastodon.social/@davew/112648820680722618\">wondering</a> if there are any services set up to make this easy. Or should we just use Zoom, and record the audio somehow?",
+            "created": "Thu, 20 Jun 2024 11:27:02 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "People of my generation (born 1955) are at the point in our lives when we would feel better if we got credit for our accomplishments, good intentions, the ways we made the world better, but it’s dawning on us that we didn’t make as much of a difference as we hoped to, and what little we did accomplish will largely go unrecognized. Even worse, none of it, even in the short term, made much of a difference. 😂Threads API reminds me wh",
+            "created": "Thu, 20 Jun 2024 11:18:32 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Facebook APIs are a sad place",
+            "created": "Thu, 20 Jun 2024 11:50:39 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I started to write the code to hook up my linkblogger to Threads, but it led me to the same website with all my broken Facebook apps, the ones that stopped working when they shut down the API after the 2016 election. A reminder that this is still Facebook. And while I don't blame them for shutting down the APIs, the whole experience left a really bad feeling. ",
+                    "created": "Thu, 20 Jun 2024 11:50:50 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So I backed out of the project to give it some more thought. Do I really want to go down this road?",
+                    "created": "Thu, 20 Jun 2024 11:54:26 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And of course I had the cute little kitten illustrate.",
+                    "created": "Thu, 20 Jun 2024 11:53:28 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The kitten is startled by the Facebook developer site.",
+                    "created": "Thu, 20 Jun 2024 11:51:39 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2024/06/20/kittenStartledByThreadsAPI.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A cute little kitten is sitting at a desk with a laptop, preparing to write an app. The laptop screen shows code for the Threads API from Meta. The kitten has a surprised and concerned expression as she looks at the developer site on another screen, which shows a Facebook logo and reminds her of the events of 2016. In the background, a calendar shows the year 2024. The scene is set in a cozy room with soft lighting and a few toys scattered around, giving it a homely feel.",
+                    "created": "Thu, 20 Jun 2024 11:51:56 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Standards Kitty",
+            "created": "Thu, 20 Jun 2024 13:49:01 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Here is the image of the cute yet sad \"Standards Kitty.\" She feels the pain of someone reinventing something while claiming to support open standards. Despite her tears, she's still really adorable.",
+                    "created": "Thu, 20 Jun 2024 13:49:09 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Standards Kitty is sad.",
+                    "created": "Thu, 20 Jun 2024 13:49:19 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2024/06/20/standardsKittyIsSad.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
