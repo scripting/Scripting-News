@@ -1,0 +1,6 @@
+{
+    "text": "Now that I'm publishing a podcast feed designed to be read in commercial podcast clients, I'm learning for the first time how they work. For example, they seem to list shows not in the order they discovered them, as I do in my products, rather in order of pubDate. So when I set the dates on the shows from 2004 to their actual dates, that would have worked if I hadn't made a <a href=\"http://scripting.com/2024/06/19.html#a151601\">mistake</a> in GMT-encoding the dates. Stupid programmer (me). Now they will show up first in the lists forever unless I switch to that form of dates. This so totally sucks. I wish there were something in RSS to say \"Hey readers dump your cache now, let's start over, because I fcuked up.\" It wouldn't have mattered anyway, I'm sure none of them would listen, right? ",
+    "created": "Thu, 20 Jun 2024 13:32:25 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
