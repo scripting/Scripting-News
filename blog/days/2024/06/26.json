@@ -1,0 +1,46 @@
+{
+    "created": "2024-06-26T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "26",
+    "path": "2024/06/26",
+    "text": "June 26",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"http://scripting.com/2024/06/26/theFediverseIsDoomedUnlessSubscriptionGetsEasyFast.m4a\">Podcast</a>: The Fediverse is doomed unless subscription gets easy, fast. Twitter kicked butt when it came out in 2006 and the butt it kicked was the <i>feed</i>iverse. Why? Because it was too damned hard and unnecessarily complicated to subscribe to a feed. In Twitter there was a button on each feed page that said Subscribe. Click the button and you're subscribed. That's it. May sound like a small matter, but it's not. Listen wherever you get your podcasts. I've been dying to say that. 12 minutes. ",
+            "created": "Wed, 26 Jun 2024 22:58:14 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2024/06/26/theFediverseIsDoomedUnlessSubscriptionGetsEasyFast.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "6502187",
+            "image": "https://imgs.scripting.com/2024/06/26/feedlandSmall.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Summary of yesterday's news: You should now be able to subscribe to my podcasts. Use the search function in your favorite podcast client and look for <i>Scripting News.</i> This is what it <a href=\"https://imgs.scripting.com/2024/06/26/applePodcastClientForScriptingNews.png\">looks like</a> in Apple Podcasts, for example. ",
+            "created": "Wed, 26 Jun 2024 13:02:15 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Wordle Kitty prevails!",
+            "created": "Wed, 26 Jun 2024 14:43:07 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Wordle Kitty hunkers down in an epic battle with Wordle Monkey on stage at Carnegie Hall in NYC for the honor of kittens everywhere. She ultimately prevails, but not without a brush with disaster! The NY Times judges her performance as merely “great!”",
+                    "created": "Wed, 26 Jun 2024 14:43:16 GMT",
+                    "image": "https://imgs.scripting.com/2024/06/26/wordleGrid.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The Kitten Abides!",
+                    "created": "Wed, 26 Jun 2024 14:43:26 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2024/06/26/kittenAbides.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
