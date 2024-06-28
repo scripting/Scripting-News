@@ -1,0 +1,36 @@
+{
+    "text": "How reading lists work",
+    "created": "Thu, 27 Jun 2024 13:06:47 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "The technology that would make solving the subscription problem easy requires that client apps allow OPML not just to be imported and exported, it should be possible to subscribe to OPML subscription lists. It's not necessarily all that easy to support, but it is possible. I've written the code for this in FeedLand, in a few weeks. It's open source btw, and you can show it to ChatGPT and it can ingest it, and perhaps even show you how to add it to your product. ",
+            "created": "Thu, 27 Jun 2024 17:57:28 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "This is roughly how it works.",
+            "created": "Thu, 27 Jun 2024 13:06:50 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "When a user subscribes to a list, you read the list, and subscribe the user to all the feeds in the list, marking each as as a special subscription, that came from the list. You identify the list with its URL.",
+                    "created": "Thu, 27 Jun 2024 17:59:41 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Periodically you read each list, as you would check a feed, and compile an array of feed URLs of the feeds it contains, and then compare it to the stored list of feeds for that list.  Subscribe each user that's subscribed to the list from the feeds that were added from the list, and unsub each user from the feeds that are no longer in the list. ",
+                    "created": "Thu, 27 Jun 2024 18:00:42 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The user could be subscribed to a feed many times, once for each list, and once perhaps on their own. If the user unsubs from the list, only the subscription from the list is removed, the others remain.",
+                    "created": "Thu, 27 Jun 2024 18:02:14 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
