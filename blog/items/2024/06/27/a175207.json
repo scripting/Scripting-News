@@ -1,0 +1,52 @@
+{
+    "text": "The subscription problem",
+    "created": "Thu, 27 Jun 2024 17:52:07 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Yesterday I did a <a href=\"http://scripting.com/2024/06/26.html#a225814\">podcast</a> in my new <a href=\"https://this.how/scriptingNewsPodcast/\">podcast-only feed</a> that explained how RSS had its moment between 2002 and 2006. The big event in 2002 was support from the NY Times, and in 2006 it was the advent of Twitter. ",
+            "created": "Thu, 27 Jun 2024 17:43:12 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "The <a href=\"https://scripting.wordpress.com/2006/02/09/how-the-ny-times-came-to-support-rss/\">NY Times support</a> gave us the news flow of one of the greatest and most respected news orgs. The entire news publishing industry followed, with incredible speed. It was an amazing time. Woodstock on the web. Everyone who was anyone was there.  ",
+                    "created": "Thu, 27 Jun 2024 17:44:47 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Inbetween, \"RSS\" got the rep of being too hard for average people. The <i>only</i> reason for this deserved reputation is that subscription was a mess. Every website had to figure it out for themselves, and every feed reader acted as if they were the only feed reader in the world. RSS, which could have been the foundation of something very much like Twitter, never got out the corner of the market where it was totally adored, by people who were motivated enough to tolerate the awful state of subscribing.",
+                    "created": "Thu, 27 Jun 2024 17:46:03 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This was not in any way an insolvable problem. But it required something that the developers of the open web weren't able to do, work together. The W3C and IETF were busy trying to replace RSS, they were offended that it had been developed independently, even though their pitch for XML was that you could develop your own formats. It seemed they didn't believe their own hype? So not only did they not do do anything to help, they actively worked to undermine the success of RSS. That didn't work, fortunately. ",
+                    "created": "Thu, 27 Jun 2024 17:48:01 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "By the time <a href=\"https://en.wikipedia.org/wiki/Google_Reader\">Google Reader</a> came along in 2005, it was too late for cooperation. Google dominated, and they didn't want to do anything to build an open news ecosystem.",
+                    "created": "Thu, 27 Jun 2024 18:17:42 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "When Twitter arrived in 2006, it had control of every aspect of user interface in their corporate platform, and were thus able to completely solve the subscription problem. Every feed had a button that said Follow. Click the button and you were following that feed. The button changed to Unfollow. That is was whole user interface right there. So easy anyone could use it.",
+                    "created": "Thu, 27 Jun 2024 17:49:41 GMT",
+                    "image": "https://imgs.scripting.com/2024/06/27/followButton.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "This story must sound familliar, in 2024 -- because it's all happening <a href=\"https://www.goodreads.com/quotes/468991-all-of-this-has-happened-before-and-it-will-all\">again</a>. This time it's Facebook playing the role of Twitter, and Mastodon playing the role of RSS. And Mastodon has gotten a deserved reputation as being only for techie types. And the solution in 2024 is the same as it was in 2002 -- working together to make subscription easy. A one-click Follow button that works. One button for site-makers to put on their pages. And users leaning back and clicking away without a care in the world (at least about the software).",
+            "created": "Thu, 27 Jun 2024 18:42:43 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The <a href=\"http://scripting.com/2024/06/26/theFediverseIsDoomedUnlessSubscriptionGetsEasyFast.m4a\">podcast</a> is only 12 minutes long. Go have a listen and then think about whether or not you want to solve this problem for the fediverse. It can include non-ActivityPub systems btw, like Bluesky and even feed readers! We can all share the same subscription protocol. But it cannot be distributed. It must be centralized. ",
+            "created": "Thu, 27 Jun 2024 17:50:45 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
