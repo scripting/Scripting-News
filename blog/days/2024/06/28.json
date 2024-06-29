@@ -1,0 +1,88 @@
+{
+    "created": "2024-06-28T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "28",
+    "path": "2024/06/28",
+    "text": "June 28",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "A <a href=\"http://scripting.com/2024/06/28/weNeededBidenToHelpUsRelaxAboutHim.m4a\">podcast</a> about the debate. We needed one thing from Biden, to believe he's got this. It didn't happen. Okay what's next. ",
+            "created": "Fri, 28 Jun 2024 20:54:56 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2024/06/28/weNeededBidenToHelpUsRelaxAboutHim.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "4840648",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://www.youtube.com/watch?v=10Rw7tf3QzM\">Today's song</a>: \"Respect yourself, respect yourself, respect yourself.\"",
+            "created": "Fri, 28 Jun 2024 14:13:44 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=10Rw7tf3QzM",
+            "flInCalendar": true
+        },
+        {
+            "text": "I don't want to write about last night's debate. But if I did, I'd say there's nothing to be done, we just have to let this play out. Even if Biden were to step aside, that would just open the convention and there are lots of Democrats who would see this as their opportunity to be the FDR or Lincoln of the 21st century. There would be no nominee until after the convention, maybe it wouldn't be so bad for the Democrats to have everyone's full attention for a few months. There will be lots of polls, that's for sure. In the meantime, I'm going to try to enjoy the summer, it's beautiful here in the mountains north of the city, and I have some software to finish. And of course I will vote for Democrats straight down the line in the coming election. ",
+            "created": "Fri, 28 Jun 2024 13:30:23 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2024/06/28/cherryCokeZero.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've started a FAQ for <a href=\"https://this.how/whyVoteForBiden/\">why we should vote for Biden</a> in November. I would have liked to have been looking at this list last night at the debate, to remind myself that even if the President had trouble explaining it in words, there were still good reasons to vote for him. ",
+            "created": "Fri, 28 Jun 2024 13:47:51 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A blogroll lab",
+            "created": "Fri, 28 Jun 2024 17:02:35 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I wanted to see what was out there in blogrolls, so I wrote an app that started from my own blogroll, and looked for feeds I was subscribed to that also had blogrolls, following the <a href=\"https://opml.org/blogroll.opml\">conventions</a> we outlined in March.",
+                    "created": "Fri, 28 Jun 2024 17:02:46 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It then starts at each of the blogrolls I found in my list, and did the same thing with them, until I ran out of lists to look at.",
+                    "created": "Fri, 28 Jun 2024 17:04:02 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And the whole thing runs again a few minutes later. ",
+                    "created": "Fri, 28 Jun 2024 17:04:36 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It found a bunch of them, so then I threw together a simple user interface that lets you click on the title of a blogroll in a list in the left panel, and view the actual blogroll in the right panel. Here's a screen shot.",
+                    "created": "Fri, 28 Jun 2024 17:04:49 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Screen shot of the Blogroll Browser.",
+                    "created": "Fri, 28 Jun 2024 17:07:27 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2024/06/28/blogrollbrowser.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You can see it at <a href=\"https://browse.blogroll.social/?blogrollUrl=https%3A%2F%2Ffeedland.social%2Fopml%3Fscreenname%3Ddavewiner%26catname%3Dblogroll&blogrollTitle=davewiner%2Fblogroll\">browser.blogroll.social</a>.",
+                    "created": "Fri, 28 Jun 2024 17:08:03 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A caveat -- what you see here is just an experiment. I don't expect this app to be up for any period of time. It's here just to learn from. Part of a bootstrap perhaps.",
+                    "created": "Fri, 28 Jun 2024 17:08:17 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: Cross-posted on <a href=\"https://dave.micro.blog/2024/06/28/a-blogroll-lab.html\">micro.blog</a>.",
+                    "created": "Fri, 28 Jun 2024 17:13:09 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
