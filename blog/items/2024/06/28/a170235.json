@@ -1,0 +1,49 @@
+{
+    "text": "A blogroll lab",
+    "created": "Fri, 28 Jun 2024 17:02:35 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I wanted to see what was out there in blogrolls, so I wrote an app that started from my own blogroll, and looked for feeds I was subscribed to that also had blogrolls, following the <a href=\"https://opml.org/blogroll.opml\">conventions</a> we outlined in March.",
+            "created": "Fri, 28 Jun 2024 17:02:46 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "It then starts at each of the blogrolls I found in my list, and did the same thing with them, until I ran out of lists to look at.",
+            "created": "Fri, 28 Jun 2024 17:04:02 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "And the whole thing runs again a few minutes later. ",
+            "created": "Fri, 28 Jun 2024 17:04:36 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "It found a bunch of them, so then I threw together a simple user interface that lets you click on the title of a blogroll in a list in the left panel, and view the actual blogroll in the right panel. Here's a screen shot.",
+            "created": "Fri, 28 Jun 2024 17:04:49 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Screen shot of the Blogroll Browser.",
+            "created": "Fri, 28 Jun 2024 17:07:27 GMT",
+            "inlineImage": "https://imgs.scripting.com/2024/06/28/blogrollbrowser.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "You can see it at <a href=\"https://browse.blogroll.social/?blogrollUrl=https%3A%2F%2Ffeedland.social%2Fopml%3Fscreenname%3Ddavewiner%26catname%3Dblogroll&blogrollTitle=davewiner%2Fblogroll\">browser.blogroll.social</a>.",
+            "created": "Fri, 28 Jun 2024 17:08:03 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "A caveat -- what you see here is just an experiment. I don't expect this app to be up for any period of time. It's here just to learn from. Part of a bootstrap perhaps.",
+            "created": "Fri, 28 Jun 2024 17:08:17 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "PS: Cross-posted on <a href=\"https://dave.micro.blog/2024/06/28/a-blogroll-lab.html\">micro.blog</a>.",
+            "created": "Fri, 28 Jun 2024 17:13:09 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
