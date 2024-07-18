@@ -1,0 +1,65 @@
+{
+    "created": "2024-07-17T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "17",
+    "path": "2024/07/17",
+    "text": "July 17",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=Z0GFRcFm-aY\">It's the End of the World as We Know It (And I Feel Fine)</a>.\n",
+            "created": "Wed, 17 Jul 2024 22:06:27 GMT",
+            "type": "outline",
+            "urlvideo": "https://www.youtube.com/watch?v=Z0GFRcFm-aY",
+            "flInCalendar": true
+        },
+        {
+            "text": "The Repubs can win by throwing the election into the House. They can probably get it by the courts in enough places, just a couple of swing states, and they win even if they lose by normal vote-counting methods. The whole bit about Biden's age is meant to distract us from the fact it probably doesn't matter how old the Democratic candidate is.",
+            "created": "Wed, 17 Jul 2024 17:20:51 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Hello from 2024",
+            "created": "Wed, 17 Jul 2024 15:50:53 GMT",
+            "type": "outline",
+            "enclosure": "http://scripting.com/2024/07/17/helloFrom2024.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "3722967",
+            "link": "http://scripting.com/2024/07/17/155053.html",
+            "metaImage": "https://imgs.scripting.com/2024/07/17/centralParkWinterScene.png",
+            "subs": [
+                {
+                    "text": "A <a href=\"http://scripting.com/2024/07/17/helloFrom2024.m4a\">podcast</a> about listening to the podcasts from 2004. ",
+                    "created": "Wed, 17 Jul 2024 15:51:00 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This is a short episode about what I learned, and what's coming up.",
+                    "created": "Wed, 17 Jul 2024 16:10:24 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Humbling experience. ",
+                    "created": "Wed, 17 Jul 2024 16:12:30 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Nana Kitty played Shoreline",
+            "created": "Wed, 17 Jul 2024 22:03:02 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Wordle Kitty's great grandma plays with the Dead at Shoreline in the 80s. ",
+                    "created": "Wed, 17 Jul 2024 22:03:10 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2024/07/17/grandmaKittyPlaysShorelineWithTheDead.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
