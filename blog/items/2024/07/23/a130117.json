@@ -1,0 +1,46 @@
+{
+    "text": "Podcast starts with linkblogging",
+    "created": "Tue, 23 Jul 2024 13:01:17 GMT",
+    "type": "outline",
+    "enclosure": "https://s3.amazonaws.com/scripting.com/2024/07/23/randomMorningCoffeeNotes.m4a",
+    "enclosureType": "audio/mpeg",
+    "enclosureLength": "10639895",
+    "subs": [
+        {
+            "text": "A 20-minute morning coffee notes rambler <a href=\"https://s3.amazonaws.com/scripting.com/2024/07/23/randomMorningCoffeeNotes.m4a\">podcast</a>, started with a narration of how we do linkblogging these days, mostly by hand, and how Bluesky is being hurt by not having a large-enough character limit. Another plea for textcasting, some standards for what we put on the wire over the social web.",
+            "created": "Tue, 23 Jul 2024 13:01:34 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Also talked about twitter-like systems, and idea borrowed from algol-like and lisp-like. ",
+            "created": "Tue, 23 Jul 2024 13:02:40 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I talk about what made Unix so great. ",
+            "created": "Tue, 23 Jul 2024 13:05:36 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Eric Raymond once told me that <a href=\"https://xmlrpc.com/\">XML-RPC</a> was very much like Unix, and I said oh yeah, and so is <a href=\"http://reallysimple.org/\">RSS</a> and the rest. Huge compliment because the simplicity of Unix is what I strive for, put huge time into. ",
+            "created": "Tue, 23 Jul 2024 13:11:58 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Journos once said Apple is dead, but that was ridiculous because they had built a product that was just starting to grow and they had planted the seeds of huge growth in the 80s when they focused on selling to education, which made sure that kids when they grew up would have good feelings about Apple, and it totally worked. When the reporters were calling them dead, they were actually just about to boom in a whole new way, on the web, which the Mac was perfect for, given the built in simple networking. And then boom again when Jobs came back. And again with the iPod and then again with the iPhone. See how reporters miss the big picture. We shouldn't give them so much power, they pretend they know, but they are usually pretty clueless. ",
+            "created": "Tue, 23 Jul 2024 13:06:32 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "This podcast is also a demo of how my mind works. I flit around all over the place but also have learned over the years that if I want to get anything done I have to focus on one thing for at least a few hours every day, and string those days together. ",
+            "created": "Tue, 23 Jul 2024 13:08:04 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I want to document this stuff for the benefit of young programmers. I learned a lot from reading the code of Unix, I always want to pay that back, the message is to strive for simplicity, keep technical debt to a minimum, and factor, factor and factor again to reduce technical debt. Those are the hardest projects, I'm doing one of those right now, but in the end it's worth it, because with simplicity you get to build higher.",
+            "created": "Tue, 23 Jul 2024 13:09:00 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
