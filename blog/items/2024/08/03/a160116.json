@@ -1,0 +1,7 @@
+{
+    "text": "For some reason I don't like writing <a href=\"https://docserver.scripting.com/drummer/about.opml\">user</a>-<a href=\"https://docs.feedland.com/gettingstarted.md\">level</a> docs for my own software, but I don't mind narrating a draft with voice. Now that I have a <a href=\"http://scripting.com/2024/07/26/150516.html\">voice recorder</a> that creates transcripts exactly where I need them, I can feed the narration to ChatGPT and ask it to write docs based on features I describe that are part of the current software, and leave out notes about possible changes or additions. It took me 13 minutes to do the narration, because I talk more slowly than it writes, and I ramble and get distracted. It took the bot less than a second to produce a near-perfect outline. It left out a bit that I wanted included, it was added in a second. Then I asked for an \"OPML\" version of the docs so I could edit it, and pass back the edited version. It got a bit confused and gave me a JSON version of the outline, and Node.js code to convert it to the XML, but when I pointed out a simpler way to do it, I got what I needed in less than a second. And <a href=\"https://imgs.scripting.com/2024/08/03/docsOutline.png\">here it is</a>, in my outliner, ready for me to add notes, and edit and reorganize. ChatGPT is a team member, not a surrogate. Another amazing experience, absolutely no going back. ",
+    "created": "Sat, 03 Aug 2024 16:01:16 GMT",
+    "type": "outline",
+    "image": "https://imgs.scripting.com/2024/05/12/librarian.png",
+    "flInCalendar": true
+}
