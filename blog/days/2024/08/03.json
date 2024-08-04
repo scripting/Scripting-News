@@ -1,0 +1,44 @@
+{
+    "created": "2024-08-03T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "03",
+    "path": "2024/08/03",
+    "text": "August 03",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "For some reason I don't like writing <a href=\"https://docserver.scripting.com/drummer/about.opml\">user</a>-<a href=\"https://docs.feedland.com/gettingstarted.md\">level</a> docs for my own software, but I don't mind narrating a draft with voice. Now that I have a <a href=\"http://scripting.com/2024/07/26/150516.html\">voice recorder</a> that creates transcripts exactly where I need them, I can feed the narration to ChatGPT and ask it to write docs based on features I describe that are part of the current software, and leave out notes about possible changes or additions. It took me 13 minutes to do the narration, because I talk more slowly than it writes, and I ramble and get distracted. It took the bot less than a second to produce a near-perfect outline. It left out a bit that I wanted included, it was added in a second. Then I asked for an \"OPML\" version of the docs so I could edit it, and pass back the edited version. It got a bit confused and gave me a JSON version of the outline, and Node.js code to convert it to the XML, but when I pointed out a simpler way to do it, I got what I needed in less than a second. And <a href=\"https://imgs.scripting.com/2024/08/03/docsOutline.png\">here it is</a>, in my outliner, ready for me to add notes, and edit and reorganize. ChatGPT is a team member, not a surrogate. Another amazing experience, absolutely no going back. ",
+            "created": "Sat, 03 Aug 2024 16:01:16 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2024/05/12/librarian.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Saw a video where Elon Musk talks about climate change, no snark, didn't call it a hoax, was intelligent and serious. Also heard that he's backing Trump for president, who  says it's a hoax and one of his major campaign promises is to \"drill baby drill.\" Maybe they could discuss this because there seems to be a disagreement here.",
+            "created": "Sat, 03 Aug 2024 14:43:19 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The Kitty at the Carnegie",
+            "created": "Sat, 03 Aug 2024 22:25:54 GMT",
+            "type": "outline",
+            "description": "Wordle Kitty is rumored to be the VP choice for the Dems.",
+            "metaImage": "http://scripting.com/images/2024/08/03/kittyPastramiRepubNoshow.png",
+            "subs": [
+                {
+                    "text": "Wordle Kitty is rumored to be the VP choice for the Dems. She is at the Carnegie Deli in NYC to meet the Republican VP candidate, to talk about a debate, but the Repub is a no-show! Weird. Meanwhile the press is having fun asking her embarrassing questions about a cat in the White House. They want to know if the WH has a litter box. What if she gets pregnant? Stuff like that.",
+                    "created": "Sat, 03 Aug 2024 22:26:02 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Such a big sandwich for such a cute kitty! :smile:",
+                    "created": "Sat, 03 Aug 2024 22:26:16 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2024/08/03/kittyAtTheCarnegieDeli.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
