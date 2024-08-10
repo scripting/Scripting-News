@@ -1,0 +1,43 @@
+{
+    "text": "My first ChatGPT app",
+    "created": "Fri, 09 Aug 2024 16:44:17 GMT",
+    "type": "outline",
+    "enclosure": "http://scripting.com/2024/08/09/hallucination.m4a",
+    "enclosureType": "audio/mpeg",
+    "enclosureLength": "1449308",
+    "description": "A browser-based JavaScript app that finds out who Bull Mancuso is.",
+    "link": "http://scripting.com/2024/08/09/164417.html",
+    "subs": [
+        {
+            "text": "4-minute <a href=\"http://scripting.com/2024/08/09/hallucination.m4a\">podcast</a> about my first venture into ChatGPT via its API. ",
+            "created": "Fri, 09 Aug 2024 16:44:34 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "There's an accompanying <a href=\"https://github.com/scripting/chatGptHelloWorld/\">GitHub repo</a>, with an example app in JavaScript that runs in the browser.",
+            "created": "Fri, 09 Aug 2024 16:50:07 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Includes instructions for setting up and funding a developer account, which was the biggest hurdle. ",
+            "created": "Fri, 09 Aug 2024 16:46:31 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Functionality: It tells you <a href=\"https://www.google.com/search?q=site%3Ascripting.com+%22Bull+Mancuso%22\">who</a> Bull Mancuso is. ",
+            "created": "Fri, 09 Aug 2024 16:45:40 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Much excitement as I think about integrations I can now do. ",
+            "created": "Fri, 09 Aug 2024 16:46:43 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Don't know why I waited so long. :smile:",
+            "created": "Fri, 09 Aug 2024 16:47:05 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
