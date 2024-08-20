@@ -1,0 +1,28 @@
+{
+    "text": "Feeds for Threads",
+    "created": "Mon, 19 Aug 2024 12:56:03 GMT",
+    "type": "outline",
+    "description": "Two caveats re rss.app feeds: cost and how they handle titleless items.",
+    "subs": [
+        {
+            "text": "I was <a href=\"https://www.merriam-webster.com/dictionary/kvell\">kvelling</a> the other day <a href=\"https://www.threads.net/@davew/post/C-wOWuDJUU6\">about rss.app</a> and how they have feeds for <a href=\"https://www.threads.net/\">Threads</a> accounts. They do. But there are two caveats.",
+            "created": "Mon, 19 Aug 2024 12:56:19 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "It <a href=\"https://rss.app/pricing\">costs</a> $9.99 per month for 15 feeds. Could be a bit expensive for some people's budgets.",
+                    "created": "Mon, 19 Aug 2024 12:56:22 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The second concern is more serious. It doesn't handle titleless items properly. It repeats the contents of the tweet in the title and description of the feeds it generates. An <a href=\"https://feeder.scripting.com/returnjson?feedurl=https://rss.app/feeds/3A2qGRnWMHFk5DvE.xml\">example</a>. This is not right, and it's not the way Mastodon and Bluesky do it. There's nothing wrong with items that have no titles. When an item has no title you do the common sense thing -- omit the title. I'm happy to help with this. I wrote the <a href=\"https://cyber.harvard.edu/rss/rss.html\">RSS 2.0 spec</a>, and am something of an authority on this. It's important to get this right.",
+                    "created": "Mon, 19 Aug 2024 12:56:22 GMT",
+                    "image": "http://scripting.com/images/2023/07/02/validRss.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
