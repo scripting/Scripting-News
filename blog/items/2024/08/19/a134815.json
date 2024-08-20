@@ -1,0 +1,73 @@
+{
+    "text": "Reliable app storage over time is not here yet",
+    "created": "Mon, 19 Aug 2024 13:48:15 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I'm working on a project which may or may not ship, but it presents an interesting design challenge either way.",
+            "created": "Mon, 19 Aug 2024 13:48:23 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The idea is I want to write lots of little bits, less than 5000 characters each, they have titles, use styling, links, include images, etc. ",
+            "created": "Mon, 19 Aug 2024 13:48:48 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Or it could also be as small as a single emoji.",
+            "created": "Mon, 19 Aug 2024 13:49:27 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "This is what we've settled on in 2024 as the basic unit of writing. From a tweet to a long blog post. ",
+            "created": "Mon, 19 Aug 2024 13:49:40 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I want to make an editor and storage system that fits this model perfectly based on all we know about this stuff, and the latest server and network technologies. ",
+            "created": "Mon, 19 Aug 2024 14:07:22 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "It should have the best simplest API we know how to make in 2024.",
+            "created": "Mon, 19 Aug 2024 13:50:25 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "In every way it'll be the nicest, fastest and most flexible way to create structures of writing over time.",
+            "created": "Mon, 19 Aug 2024 13:50:38 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "In that last sentence is the gotcha -- <i>over time. </i>It's the frontier, the leading edge. Because in 2024 there's no way for me, as an individual developer to create a structure that lasts over time.  ",
+            "created": "Mon, 19 Aug 2024 13:51:20 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I can create a structure that has a high probability of lasting a month. A pretty good chance of lasting a few years, but beyond that, it gets less likely probably at a pretty good clip and eventually goes over a cliff. ",
+            "created": "Mon, 19 Aug 2024 13:52:14 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The way I have answered that in the past was with GitHub.",
+            "created": "Mon, 19 Aug 2024 13:52:58 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "In 2017, I started an <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog\">archive</a> of my \"Scripting News\" writing on GitHub. It's still just a fraction of my writing, I'm not doing anything like that for all my other sites and services. But at least I've managed to set up a system that only requires me to do something once a month, which is something I like to do because it gives me some assurance the other mechanisms are still working. Archive systems have bugs too.",
+            "created": "Mon, 19 Aug 2024 13:53:07 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "So I guess for the project I'm doing I will again use GitHub to mirror the content in the database until and unless GitHub proves unusable for this purpose, or something much better comes along.  ",
+            "created": "Mon, 19 Aug 2024 13:54:41 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Note that GitHub has made no promise about the continued availability of their service, all we have to go on is that they have been reliable for enough time to present the <i>illusion</i> of persistence. :smile:",
+            "created": "Mon, 19 Aug 2024 13:56:01 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
