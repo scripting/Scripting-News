@@ -1,0 +1,71 @@
+{
+    "created": "2024-08-21T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "21",
+    "path": "2024/08/21",
+    "text": "August 21",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Thinking about what <a href=\"https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3l2alzdfd2w2j\">Michelle Obama said</a> last night in her fantastic DNC speech. “We don’t get to change the rules so we always win.” She was talking about Trump, but it also <a href=\"https://this.how/googleAndHttp/\">applies to Google</a>. There should be opportunities for independent developers to create for the web without having big tech companies be our gatekeepers. The web is a public resource. Of course big companies will take whatever isn't nailed down. It's way past time to protect the open web. ",
+            "created": "Wed, 21 Aug 2024 19:52:06 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Speaking of Michelle Obama, she made the <a href=\"https://www.pbs.org/newshour/politics/watch-whos-going-to-tell-trump-that-hes-campaigning-for-a-black-job-michelle-obama-asks\">most powerful political statement</a> I've ever heard. \"Who's going to tell Trump the job he's currently seeking might just be one of those black jobs.\" The way she said it made you think. Here we are, and one way or another, we <i>have</i> changed. America in 2024 is vastly different from the American of 2008. America is moving both toward self-acceptance and away from it at the same time. But here in the half of America my feet are planted in, we realize that there isn't a black America and a white America, there's just one America. We finally have come to accept ourselves as we have been all along. ",
+            "created": "Wed, 21 Aug 2024 19:58:52 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I use <a href=\"https://pocketcasts.com/\">PocketCasts</a> on my Android phone as my main podcast-listening app. I also have a website, <a href=\"http://dave.podcatch.com/\">dave.podcatch.com</a>, that has the latest episodes from the podcasts I follow. I would love to hook up my <a href=\"http://scripting.com/publicfolder/feedland/subscriptionLists/dwPocketcastSubscriptions.opml\">subscriptions</a> from PocketCasts to dave.podcatch.com, so that I could add to the website from my freaking phone. Make it really easy for me to pitch a great podcast feed to my friends. But I can only export my feeds, I can't create a dynamic link between the two. If I ran a popular podcatch app like Pocketcasts, I would open up my outbound subscription list, and vie to be the default place people come to subscribe to podcasts. If a few of my users were geeks and visionaries, they could start telling other vendors they should hook up to my source lists, so they can use Pocketcasts to subscribe. One place to subscribe is way better than many. If you think things like that can't happen, think again. How did you all come to use \"OPML\" for your subscription lists? It's because someone volunteered to go first, and the users of that product demanded that other products support the format. It still amazes me that there's an interchange format there, but we've barely begun to tap into the power there. ",
+            "created": "Wed, 21 Aug 2024 19:37:38 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2024/08/21/pocketCastsLogo.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "My linkblog posts are once again <a href=\"https://linkblog3.wordpress.com/\">flowing to WordPress</a>. I had to generate a special password for this app because of <a href=\"https://en.wikipedia.org/wiki/Multi-factor_authentication\">2FA</a>.",
+            "created": "Wed, 21 Aug 2024 17:55:01 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "ChatGPT slows down my programming, and that's good",
+            "created": "Wed, 21 Aug 2024 15:39:12 GMT",
+            "type": "outline",
+            "enclosure": "https://s3.amazonaws.com/scripting.com/2024/08/21/iProgramMoreSlowlyNowThanksToChatGPT.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "10165561",
+            "subs": [
+                {
+                    "text": "Podcast: <a href=\"https://s3.amazonaws.com/scripting.com/2024/08/21/iProgramMoreSlowlyNowThanksToChatGPT.m4a\">27 minutes</a>.",
+                    "created": "Wed, 21 Aug 2024 15:42:01 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Sorry about the recording quality, I was in a large space with bad acoustics. I'll try to remember not to do that in the future. ",
+                    "created": "Wed, 21 Aug 2024 15:39:59 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I've noticed I spend less time programming, I go more slowly and carefully because now I can know a lot more about each problem I'm solving, and use the packages I build on, jQuery, MySQL, Node, the browser, Bootstrap, Font-awesome, Frontier, to greater advantage. A new kind of programming is possible, and it's better. ",
+                    "created": "Wed, 21 Aug 2024 15:41:32 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I go into some detail in this podcast about how the process works. ",
+                    "created": "Wed, 21 Aug 2024 15:44:09 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Interested in hearing similar stories from other developers using ChatGPT or something like it. ",
+                    "created": "Wed, 21 Aug 2024 15:47:14 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
