@@ -1,0 +1,52 @@
+{
+    "text": "The status of Twitter's API",
+    "created": "Mon, 26 Aug 2024 13:32:49 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "The Twitter API still works, with some serious limits. Not easily incorporated into products, but useful for individuals with developer accounts. Not an insurmountable hurdle, it seems, though I was a developer from before. A few bullet points.",
+            "created": "Mon, 26 Aug 2024 13:46:44 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "My linkblog now reliably works on <a href=\"https://x.com/davewiner\">Twitter</a> and <a href=\"https://www.threads.net/@davew\">Threads</a>, in addition to <a href=\"https://social.masto.land/@dave\">Mastodon</a>, <a href=\"https://bsky.app/\">Bluesky</a>, <a href=\"http://data.feedland.org/feeds/davewiner.xml\">RSS</a> and <a href=\"https://linkblog3.wordpress.com/\">WordPress</a>.   ",
+                    "created": "Sat, 24 Aug 2024 15:13:21 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I was confused about the status of the Twitter API, but it turns out it's still there, and there is a <a href=\"https://www.npmjs.com/package/twitter-api-v2\">package</a> that connects to it for Node apps. ",
+                    "created": "Mon, 26 Aug 2024 13:34:54 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It took me a few hours to add <a href=\"https://github.com/scripting/textcasting/blob/main/textcasting.js#L543\">support for Twitter</a> in my <a href=\"https://github.com/scripting/textcasting/tree/main\">textcasting</a> server app which is how my software connects to all the various services. ",
+                    "created": "Mon, 26 Aug 2024 13:39:06 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I should probably add a plugin abilitiy for textcasting so that other services could easily be added, without modifying the core app. Totally doable. It's already factored that way internally.",
+                    "created": "Mon, 26 Aug 2024 13:37:02 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I should probably write <a href=\"https://github.com/scripting/textcasting/blob/main/README.md\">some docs</a> for it too. :smile:",
+                    "created": "Mon, 26 Aug 2024 13:44:37 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Anyway, the <a href=\"https://developer.x.com/en/docs/x-api/getting-started/about-x-api\">deal with Twitter</a> is that it's free for up to 1500 posts per month, as I read it, which seems manageable for one person (me), but no way is it enough for a community of users. ",
+                    "created": "Mon, 26 Aug 2024 13:37:36 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Why connect to Twitter? People are there. Until they aren't we're going to need a way to push stuff to Twitter.",
+                    "created": "Mon, 26 Aug 2024 13:41:40 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
