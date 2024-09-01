@@ -1,0 +1,83 @@
+{
+    "created": "2024-08-31T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "31",
+    "path": "2024/08/31",
+    "text": "August 31",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://www.threads.net/@davew/post/C_V8Va8pt4Z\">Why does JD Vance</a> have so many opinions about women?\n",
+            "created": "Sat, 31 Aug 2024 17:34:55 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's worth <a href=\"https://www.threads.net/@davew/post/C_VzCo_JSN5\">reflecting</a> that the press took its best shot at Kamala Harris, and it was a big puff of smoke, she just cruised right through it.",
+            "created": "Sat, 31 Aug 2024 17:15:42 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Thread: <a href=\"https://mastodon.social/@davew/113056965813280335\">Blogs and the social web will merge</a>. \n",
+            "created": "Sat, 31 Aug 2024 14:34:08 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Platform drivers for textcasting",
+            "created": "Sat, 31 Aug 2024 14:19:19 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "A feature I've wanted to add to the <a href=\"https://github.com/scripting/textcasting/tree/main\">textcasting server app</a> is a plug-in architecture so you can add a new <a href=\"https://github.com/scripting/textcasting/blob/main/README.md#platform-drivers\">platform driver</a> without having to reconfigure or even reboot the server. ",
+                    "created": "Sat, 31 Aug 2024 14:01:32 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "There's a new folder at <a href=\"https://github.com/scripting/textcasting/tree/main/plugins/platforms\">plugins/platforms</a>. Each subfolder contains a driver for one platform. Initially there are four folder:  bluesky, mastodon, twitter and wordpress. Each driver is a Node module that exports a single function that posts an item to the platform. ",
+                    "created": "Sat, 31 Aug 2024 14:19:48 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "As an example here's the <a href=\"https://github.com/scripting/textcasting/blob/main/plugins/platforms/wordpress/code.js\">driver</a> for WordPress. ",
+                    "created": "Sat, 31 Aug 2024 14:22:59 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The drivers are invoked through an HTTP POST call, where the body contains the parameters to the driver. The parameters for each driver are different, because their APIs are different. To add support for a new platform, you just write a new driver. ",
+                    "created": "Sat, 31 Aug 2024 14:23:17 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I also have a client app that does linkblogging through this server, that's why my linkblogging these days is so relatively effortless. ",
+                    "created": "Sat, 31 Aug 2024 14:20:28 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Even though the current situation is done without standards, I think not only will that change over time, but this is a good thing. What used to be a corporate silo owned by Twitter, Inc is now a competitive market with lots of players. That's what we wanted back in 2006 when Twitter started, and now we have it. ",
+                    "created": "Sat, 31 Aug 2024 14:20:52 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This isn't the last step or the first step toward getting them all to coalesce, but it is progress. ",
+                    "created": "Sat, 31 Aug 2024 14:21:19 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If you're a developer have a look. And if you're a user, know that we're on the road to make cross-site posting a reality. It works for super-geeks like myself now, but eventually it'll work for poets too.",
+                    "created": "Sat, 31 Aug 2024 14:21:26 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: There's also an <a href=\"http://data.feedland.org/feeds/davewiner.xml\">RSS feed</a> emanating from my textcasting system, that, in conjunction with the masterful Manton Reece at <a href=\"https://micro.blog/\">micro.blog</a>, is how I do my cross-posting to Threads. Eventually I expect there will be a platform driver for Threads too, but for now -- this is how it works. Thanks Manton! It's great to work with you on this stuff. :smile:",
+                    "created": "Sat, 31 Aug 2024 14:09:49 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
