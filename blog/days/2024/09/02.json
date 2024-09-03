@@ -1,0 +1,84 @@
+{
+    "created": "2024-09-02T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "02",
+    "path": "2024/09/02",
+    "text": "September 02",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Here's the <a href=\"https://shownotes.scripting.com/podcast0/2024/09/02/firstInthecarPodcast.html\">show notes page</a> for the podcast from <a href=\"http://scripting.com/2004/09/01.html\">Sept 1, 2004</a>.",
+            "created": "Mon, 02 Sep 2024 12:45:50 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "And the <a href=\"https://shownotes.scripting.com/podcast0/2024/09/02/aDriveThroughSaskatchewanOnTheTranscanadaHighway.html\">show notes</a> for the podcast from <a href=\"http://scripting.com/2004/09/02.html\">Sept 2, 2004</a>. Fans of Adam Curry's podcasting will like this one. It's about this time that the collaboration starts becoming a community. Next episode is on Sept 5.",
+            "created": "Mon, 02 Sep 2024 21:25:59 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"http://scripting.com/2004/09.html\">September 2004</a> was the month when podcasting became a real community thing. <a href=\"http://scripting.com/2024/06/17/152838.html\">Twenty years ago</a>. I did eight podcasts that month. The mail list, which Adam started, was going strong. This is the month where <a href=\"http://scripting.com/2013/04/07/howPodcastingGotItsName.html\">podcasting got its name</a>, thanks to some brilliant creativity from Dannie Gregoire. Until then we were calling them \"audio blog posts\" or some variant thereof. You can see it in this <a href=\"https://trends.google.com/trends/explore?date=all&q=podcast\">Google Trends</a> graph. I started a <a href=\"http://scripting.com/podcast0/rss.xml\">special feed</a> to echo my programs from 2004, I even got it registered in <a href=\"https://podcasts.apple.com/us/podcast/dws-podcast0-feed/id1752527298\">Apple's podcast</a> database.  There will be two podcasts in the feed today because I missed the one from yesterday. <i>Still diggin!</i>",
+            "created": "Mon, 02 Sep 2024 12:23:08 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "WordPress and GitHub fit into similar niches, but one is for writers and the other for developers. ",
+            "created": "Mon, 02 Sep 2024 14:34:53 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "In hindsight <a href=\"https://www.google.com/search?q=site%3Ascripting.com+medium\">Medium</a> chose the wrong business model. They could have done what Automattic has done with WordPress. It's a private company so I don't know how much it's growing or how profitable it is, but from outside it's obviously growing and profitable. Basically, charge writers for the service, or lots of services. Little extras you can add to your site. Use it as a hook to sell domain names (huge recurring business). And open source the Medium editor, when it came out it was a breakthrough in usability, and offer it to Google to bundle with Chrome, upgrade the whole web while you're at it. With billions of windfall from the success of Twitter, why argue over nickels and dimes. That's what I always wondered about the thinking behind Medium. Ev had the ability to change the course of the industry, and make the same kind of money Google and Microsoft make. And yes, I did urge him to do <a href=\"https://www.google.com/search?q=site%3Ascripting.com+medium\">all this</a> at the time, publicly (didn't have access to him privately, if you can believe that). ",
+            "created": "Mon, 02 Sep 2024 12:55:52 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2024/09/02/heinzSpaghetti.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Bluesky vs Mastodon as open APIs",
+            "created": "Mon, 02 Sep 2024 13:33:32 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "The problem with Mastodon is its protocol is underspecified, therefore interop is really hard, and ultimately the standard, if any emerges, will be decided by big tech companies and will be ridiculously complex. ",
+                    "created": "Mon, 02 Sep 2024 13:34:08 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I think Bluesky has a better chance of being a solid standard you can build on, though I find it fairly incomprehensible, but other people seem to understand it well enough, and I've been able to get it to do what I need. Kind of like Amazon's web service APIs. The designers seem smart, and are accessible (a big plus). On the other hand, I've already had apps built on their api break. ",
+                    "created": "Mon, 02 Sep 2024 13:34:23 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Neither one is in a particularly strong position. ",
+                    "created": "Mon, 02 Sep 2024 13:34:57 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Bluesky should factor their API, provide a profile, and a simple API you can adapt to in a weekend, for most common things people want to hook into. And they should commit to not breaking that profile. Their protocol has a lot of generality that gets in the way of doing things that 99% of devs need to do. ",
+                    "created": "Mon, 02 Sep 2024 13:48:48 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Of course Mastodon isn't supposed to be an API, the underlying API was supposed to be ActivityPub, but as I understand, that isn't complete, and they need the functionality now, so they've implemented a REST API for the other stuff. Makes sense, it's what I would do in this situation. On the other hand, that pretty much guarantees that a big part of this interface is going to be deprecated, meaning many developers, myself included, will just wait till we get there. ",
+                    "created": "Mon, 02 Sep 2024 13:38:10 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "As I said above I fully expect Meta (ie Facebook) will drive that process, that people will choose to interop with their product over Mastodon and over ActivityPub. Names like \"fediverse\" get walked over and perverted by big tech companies. We will find ourselves soon talking about the Meta-fediverse and the Masto-fediverse or (somesuch). ",
+                    "created": "Mon, 02 Sep 2024 13:50:24 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I've seen countless of good, clear, solid ideas get muddied by big tech companies. This idea, the fediverse, got completely muddied before the BigCos got involved.  Still more hard work to do, and it must be working <i>together. </i>It doesn't work if people try to throw their non-existent weight around. That's basically with the big companies. ",
+                    "created": "Mon, 02 Sep 2024 13:41:06 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
