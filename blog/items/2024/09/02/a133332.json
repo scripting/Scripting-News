@@ -1,0 +1,43 @@
+{
+    "text": "Bluesky vs Mastodon as open APIs",
+    "created": "Mon, 02 Sep 2024 13:33:32 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "The problem with Mastodon is its protocol is underspecified, therefore interop is really hard, and ultimately the standard, if any emerges, will be decided by big tech companies and will be ridiculously complex. ",
+            "created": "Mon, 02 Sep 2024 13:34:08 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I think Bluesky has a better chance of being a solid standard you can build on, though I find it fairly incomprehensible, but other people seem to understand it well enough, and I've been able to get it to do what I need. Kind of like Amazon's web service APIs. The designers seem smart, and are accessible (a big plus). On the other hand, I've already had apps built on their api break. ",
+            "created": "Mon, 02 Sep 2024 13:34:23 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Neither one is in a particularly strong position. ",
+            "created": "Mon, 02 Sep 2024 13:34:57 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Bluesky should factor their API, provide a profile, and a simple API you can adapt to in a weekend, for most common things people want to hook into. And they should commit to not breaking that profile. Their protocol has a lot of generality that gets in the way of doing things that 99% of devs need to do. ",
+            "created": "Mon, 02 Sep 2024 13:48:48 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Of course Mastodon isn't supposed to be an API, the underlying API was supposed to be ActivityPub, but as I understand, that isn't complete, and they need the functionality now, so they've implemented a REST API for the other stuff. Makes sense, it's what I would do in this situation. On the other hand, that pretty much guarantees that a big part of this interface is going to be deprecated, meaning many developers, myself included, will just wait till we get there. ",
+            "created": "Mon, 02 Sep 2024 13:38:10 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "As I said above I fully expect Meta (ie Facebook) will drive that process, that people will choose to interop with their product over Mastodon and over ActivityPub. Names like \"fediverse\" get walked over and perverted by big tech companies. We will find ourselves soon talking about the Meta-fediverse and the Masto-fediverse or (somesuch). ",
+            "created": "Mon, 02 Sep 2024 13:50:24 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've seen countless of good, clear, solid ideas get muddied by big tech companies. This idea, the fediverse, got completely muddied before the BigCos got involved.  Still more hard work to do, and it must be working <i>together. </i>It doesn't work if people try to throw their non-existent weight around. That's basically with the big companies. ",
+            "created": "Mon, 02 Sep 2024 13:41:06 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
