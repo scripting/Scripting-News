@@ -1,0 +1,41 @@
+{
+    "created": "2024-09-07T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "07",
+    "path": "2024/09/07",
+    "text": "September 07",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "The next in the series of <a href=\"https://shownotes.scripting.com/podcast0/2024/09/07/furtherDrivingInCanadaHeadingWest.html\">podcasts from 2004</a>. This one was done driving from Banff to Kelowna, on the way to Seattle.",
+            "created": "Sat, 07 Sep 2024 14:17:01 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2024/09/07/ipod.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I found a bug in <a href=\"https://github.com/scripting/opmlPackage/blob/main/worknotes.md#9724-95957-am-by-dw\">opml.visitAll</a> in the OPML package I use in various software including Drummer and FeedLand. Had to fix it, even though there's a slight chance of breakage.",
+            "created": "Sat, 07 Sep 2024 14:07:27 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Do you think you've ever had an online chat with an AI impersonating a human without you knowing? Have you had such an experience with someone you know? If no, when do you think you will have such a conversation? Would you mind if a friend used an AI to front for them, so they could do other things while they were \"chatting\" with you? Would you be liable for anything your avatar did or said?",
+            "created": "Sat, 07 Sep 2024 15:20:59 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's a fascinating moment, somewhat like when the Berlin Wall came down. When it happened, we were all in kind of a daze. That wall had been there my entire life. No one knew, for many years, what its disappearance would mean. Same with the wall betw the Democratic and Republican parties. It was still the same US when one or the other was in power, there were constants that didn't change. There was an agreement that politics ends at the border. But now, are there two parties? What became of the one we call Republican? ",
+            "created": "Sat, 07 Sep 2024 14:41:33 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Also, <a href=\"https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall\">when the Berlin Wall came down</a> there were no blogs or podcasts. We got what we were given by the news networks and NYT and WSJ. ",
+            "created": "Sat, 07 Sep 2024 14:42:47 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
