@@ -1,0 +1,71 @@
+{
+    "text": "Peering in the social web",
+    "created": "Sun, 08 Sep 2024 15:26:55 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "A very practical issue. ",
+            "created": "Sun, 08 Sep 2024 15:26:59 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://bsky.app/profile/scripting.com/post/3l3njg5jhft2k\">BlueSky</a> has a 300 character limit, which is less than the other services I cross-post to, namely:",
+            "created": "Sun, 08 Sep 2024 15:27:03 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "Mastodon: 500 (using mastodon.social as benchmark)",
+                    "created": "Sun, 08 Sep 2024 15:27:19 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Threads: 500",
+                    "created": "Sun, 08 Sep 2024 15:30:05 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Twitter: 10000 (assume paying the montly fee)",
+                    "created": "Sun, 08 Sep 2024 15:30:01 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "RSS: no specific limit",
+                    "created": "Sun, 08 Sep 2024 15:30:14 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "WordPress: no specific limit",
+                    "created": "Sun, 08 Sep 2024 15:27:59 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "BlueSky: 300",
+                    "created": "Sun, 08 Sep 2024 15:29:57 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "This will be a problem when we eventually get <a href=\"https://en.wikipedia.org/wiki/Peering\">peering</a> working cross-network among twitter-like systems.",
+            "created": "Sun, 08 Sep 2024 15:27:59 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "It looks to me, just eyeballing this list, that 500 is a good place to start, although I don't think ultimately there should be any specific limits. ",
+            "created": "Sun, 08 Sep 2024 15:31:24 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "We saw that clearly when RSS 0.91 was the most recent version, there were limits in the Netscape doc, but they were ignored by content sources, which is why I took them out in the 0.92 and 2.0 versions. ",
+            "created": "Sun, 08 Sep 2024 15:32:03 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Peering is simpler than federation. It would enable people to send messages across these boundaries, but wouldn't handle the engagement features, likes, replies, forwarding. It's what many people are starting to do now, by hand. There's no way to put it off, imho -- the Bluesky limit is already hard to deal with. ",
+            "created": "Sun, 08 Sep 2024 15:33:37 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
