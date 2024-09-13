@@ -1,0 +1,52 @@
+{
+    "text": "Dropbox almost reinvented the web",
+    "created": "Thu, 12 Sep 2024 21:33:54 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "<i>I was trying to <a href=\"https://mastodon.social/@davew/113125134990424609\">explain</a> to Miguel de Icaza, a longtime developer friend, how Dropbox was within inches of making the web a million times more useful, ten years ago, and then backed away from it. I don't think I've ever told the story here on my blog, so here goes. </i>",
+            "created": "Thu, 12 Sep 2024 21:34:03 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "In 2014, Dropbox had a developer program, you could write an app, and register it with them, and then the user could run your app from a website, and log on to Dropbox in the app, and they would have access to files in a directory in the user's Dropbox hierarchy in the app, as if it were accessing it from the local file system, which in a way they were.",
+            "created": "Thu, 12 Sep 2024 21:36:44 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I made an <a href=\"http://fargo.io/docs/whatIsFargo.html\">outliner</a> for that system, and loved it -- it was great, I didn't have to get into the business of reselling storage, or user identity. And for the users, it \"just worked\" as they say, because they were already using Dropbox, and now it could be used for something completely new and incredibly useful, and it didn't require huge venture capital to get it going, so it would enable very small niche products to find a market. It was brilliant and visionary, and I was very open about my feelings on my blog. ",
+            "created": "Thu, 12 Sep 2024 21:36:51 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "They also had a Public Folder, where any user files could be accessed over the web. ",
+            "created": "Thu, 12 Sep 2024 21:38:28 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "They were within an inch of the perfect system. The problem was my app couldn't access user files in any other directory. So it didn't allow for specialization in products, every editor had to do everything. ",
+            "created": "Thu, 12 Sep 2024 21:43:19 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "They had an option where you could give an app access to <i>everything</i> but that was ridiculous, I couldn't recommend users do that. Users store all kinds of private data on Dropbox.",
+            "created": "Thu, 12 Sep 2024 21:38:43 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's the <a href=\"http://fargo.io/docs/fargo/dropbox.html\">howto</a> for the product and how it connects to Dropbox.",
+            "created": "Thu, 12 Sep 2024 21:39:05 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "They lost interest in this, btw -- and when they broke the API, I took that opportunity to shut down the product. ",
+            "flInCalendar": true
+        },
+        {
+            "text": "I wish they had gone in that direction, or someone would go in that direction. ",
+            "created": "Thu, 12 Sep 2024 21:39:30 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
