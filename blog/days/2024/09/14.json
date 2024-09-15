@@ -1,0 +1,69 @@
+{
+    "created": "2024-09-14T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "14",
+    "path": "2024/09/14",
+    "text": "September 14",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Could we agree that ChatGPT can ingest everything that's in Wikipedia? I particularly want the images. I'd like to ask for a picture of <a href=\"https://en.wikipedia.org/wiki/Chuck_Berry\">Chuck Berry</a>, and get something nice and be able to put him in a scene with the <a href=\"https://www.google.com/search?q=site%3Ascripting.com+%22wordle+kitty%22\">Wordle Kitty</a>. That seems pretty harmless. And the news industry could hardly object, they didn't invent Chuck Berry, or own the copyright of the picture of him in Wikipedia.",
+            "created": "Sat, 14 Sep 2024 14:10:42 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm searching for some common ground between the twitter-like systems, a basis for interop, a common API even. We had that for the blogging layer of this onion, something called the <a href=\"https://xmlrpc.com/metaweblog\">MetaWeblog API</a>.  All the popular blogging software supported it. And that meant you could write once and publish to many places. And you could write the script that did that in an afternoon or two. We started out with simple systems and the best of intentions. There's no technical barrier. And we could do it in a few weeks at most if there was a will to do it",
+            "created": "Sat, 14 Sep 2024 14:05:03 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW the <a href=\"https://en.wikipedia.org/wiki/MetaWeblog\">Wikipedia page</a> for the MetaWeblog positions it as a replacement for the Blogger API, but it's an extension of it. You could use MetaWeblog to publish to Blogger sites, but it also supported features that Blogger didn't have, that were in our blogging software, Manila.",
+            "created": "Sat, 14 Sep 2024 14:15:48 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Hecklers",
+            "created": "Sat, 14 Sep 2024 14:04:01 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://www.threads.net/@davew/post/C_5i0bLpwNe\">Hecklers</a> at last night's rally in Greensboro, couldn't hear what they were angry about, but it had something to do with Gaza.",
+                    "created": "Sat, 14 Sep 2024 14:04:13 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The US isn't doing the killing there, the issue is with Netanyahu who is part of the same political party as Trump. So you can be pretty sure the killing won't stop there at least until after our election. One way to be sure the killing continues is to elect Trump.",
+                    "created": "Sat, 14 Sep 2024 14:04:58 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "It's good to laugh",
+            "created": "Sat, 14 Sep 2024 14:01:15 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "It's wonderful that we're laughing at Trump now.",
+                    "created": "Sat, 14 Sep 2024 14:01:18 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "What a joke to think that after all he took us through, there are 47% of the people in the country who want more of that! ",
+                    "created": "Sat, 14 Sep 2024 14:01:28 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "OMG we must be crazy. What else are you going to do but laugh. ",
+                    "created": "Sat, 14 Sep 2024 14:01:34 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
