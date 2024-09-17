@@ -1,0 +1,41 @@
+{
+    "text": "How I cross-post to Threads",
+    "created": "Mon, 16 Sep 2024 13:51:41 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I have a linkblogging tool crossposts to Bluesky, Mastodon, Threads, Twitter, WordPress and RSS. ",
+            "created": "Mon, 16 Sep 2024 13:54:58 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Every time I publish a link it goes to all those places,",
+            "created": "Mon, 16 Sep 2024 14:04:20 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"http://data.feedland.org/feeds/davewiner.xml\">The RSS feed</a> is doing a lot of the work.",
+            "created": "Mon, 16 Sep 2024 13:59:20 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "Links from the RSS feed show up on my <a href=\"http://scripting.com/?tab=links\">Links page</a> and in the <a href=\"http://scripting.com/email/\">nightly emails</a>.",
+                    "created": "Mon, 16 Sep 2024 13:56:05 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The RSS feed is also used to connect to Threads, going through micro.blog. I am able to <a href=\"https://micro.blog/account/feeds\">give</a> it the <a href=\"http://data.feedland.org/feeds/davewiner.xml\">URL</a> of the linkblogging feed, and then click on <a href=\"https://imgs.scripting.com/2024/09/16/addthreads.png\">Add Threads</a> -- and that's it. When I post something to the feed it shows up on Threads. ",
+                    "created": "Mon, 16 Sep 2024 13:56:14 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "This feature is tucked away in a corner of micro.blog and I suspect most people don't know it's there. It's sort of a Grand Central station for moving stuff around among the twitter-like systems. If you're a micro.blog user, its <a href=\"https://micro.blog/account/feeds\">Feeds page</a> is where you set it up. <a href=\"https://imgs.scripting.com/2024/09/16/microblogScreen.png\">Screen shot</a>.",
+            "created": "Mon, 16 Sep 2024 14:05:22 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
