@@ -1,0 +1,41 @@
+{
+    "created": "2024-09-20T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "20",
+    "path": "2024/09/20",
+    "text": "September 20",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "This is a test. For the next sixty seconds this station will conduct a test of a new server app that combines the functionality of several apps I used to run as separate servers. The goal is to be able to integrate the functionality of all the components. It's time to invest in blogging in a real way. The <a href=\"http://scripting.com/2017/05/05/iWantMyOldBlogBack.html\">2017 corner-turn</a> was about getting back to the foundation I had before trying to co-exist with Twitter, Facebook, Medium. All three are now no longer high value targets for interop. So while I wasted a lot of time trying to <a href=\"http://scripting.com/2024/09/08/152655.html\">peer</a> with them, I did finally get off the horse and I had a decent setup while developed \"Drummer\" and \"FeedLand\" and in doing so learned how to do scalable server apps with <a href=\"https://en.wikipedia.org/wiki/SQL\">SQL</a>. I've wasted so much time trying to be compatible with apps that didn't want us. I have a feeling that none of the current targets really want us either. So let's get back to the <a href=\"http://scripting.com/2015/06/24/keyConceptOfTheOpenWebWorkingTogether.html\">Open Web</a>, which gave us much hope before. I think we can do a lot with feeds and \"OPML\". They're to open systems what <a href=\"https://en.wikipedia.org/wiki/GNU_General_Public_License\">GPL</a> is to open source. You don't get to be half-committed to being open, you have to be all-in or you can't play. (Same idea as <a href=\"https://www.google.com/search?q=site%3Ascripting.com+podcasting\">podcasting</a>, which of course is just an instance of \"RSS\".) You don't have to deal with a lot of confusion to find the interop. You just have to be willing to look in that direction. This started out as a test post and look what it has become. ",
+            "created": "Fri, 20 Sep 2024 17:20:12 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2024/02/01/runner.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Has anyone attempted to make a higher level language on top of SQL? It's taken me a few iterations over years to finally (I hope) figure out how to design a table to take advantage of the features that evolved into making SQL efficient for the applications people really deploy. If this were machine language, it would be time to start thinking about the HLL that it inspires. Actually long past time imho. ",
+            "created": "Fri, 20 Sep 2024 21:23:32 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "My Pixel 9 Pro keeps giving me tips on using it when I bring it up, as I'm trying to read an important message, or change something at a red light. I'm always distracted when I use the phone, and by adding more distractions to sell me on something, that's not their right. I paid $1300 for this new phone. And also I can't figure out how to get the phone to ring when I get a call. I keep missing important calls. ",
+            "created": "Fri, 20 Sep 2024 16:10:44 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Note to self: When the phone doesn't ring, go to Settings - Sound & vibration - Do Not Disturb. It was on for some reason. I'm sure I didn't set this. I'm pretty sure I've been here before. Here's the <a href=\"https://chatgpt.com/share/66eda2dd-b8a4-8012-91b3-849a70920a38\">ChatGPT log</a> and <a href=\"https://imgs.scripting.com/2024/09/20/donotdisturb.png\">screen shot</a>.",
+            "created": "Fri, 20 Sep 2024 16:27:08 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I keep discovering uses for ChatGPT. I think it would be very useful to learn a language, for example. I know how to say this in English, could you explain to me, in English, how to say it in French. I bet it's very good at that. I am using it to learn to write SQL code that takes advantage of all the arcane features they've added over the years to handle cases that come up in real database work. It's anything but a new language, and efficiency is everything -- so I think they pretty much have all the cases covered. I remember how frustrating it was to learn Algol when all I knew before that was Fortran and Basic. It would have been great to have ChatGPT to coach me on it. ",
+            "created": "Fri, 20 Sep 2024 14:40:01 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
