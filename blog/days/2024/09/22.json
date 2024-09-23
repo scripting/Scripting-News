@@ -1,0 +1,34 @@
+{
+    "created": "2024-09-22T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "22",
+    "path": "2024/09/22",
+    "text": "September 22",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Instead of just fact-checking the candidates, and presenting \"both sides,\" how about recording the number of times the candidate threatens specific races, genders, lifestyles, religions and of course individual people. Keep a page where you tally the groups he <i>doesn't</i> threaten with expulsion or worse. That would be very revealing, and in line with the true issue of this election. Time for you all to get in sync with the actual American history that's being made. ",
+            "created": "Sun, 22 Sep 2024 20:28:04 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's around this time of year that I start thinking about my <a href=\"https://www.google.com/search?q=site%3Ascripting.com+boty\">BOTY</a>. I should give out a plaque or a statue or something. Someday! Anyway almost immediately I had my answer. The announcement will wait till December of course, sometimes early January. ",
+            "created": "Sun, 22 Sep 2024 20:24:42 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Social networks are condemned when they carry lies from race-hate, misogyny and worse, but the major news orgs do it all the time. It's ridiculous that there are two standards. ",
+            "created": "Sun, 22 Sep 2024 20:23:09 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "To my programmer friends, how long would it have taken to answer <a href=\"https://chatgpt.com/share/66f038e3-7218-8012-a294-05bb7afa9b97\">this question</a> using Google and StackExchange. There was a bug in this one line of code, a call to <i>new Date ()</i> in JavaScript, that was behaving as if months were not 0-based, which they are known to be. The problem: I was specifying the day as 0 and month, correctly, but the day had to be 1 in order for it to work and without thinking I had specified it as 0.  ",
+            "created": "Sun, 22 Sep 2024 15:34:09 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
