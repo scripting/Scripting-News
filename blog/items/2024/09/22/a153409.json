@@ -1,0 +1,6 @@
+{
+    "text": "To my programmer friends, how long would it have taken to answer <a href=\"https://chatgpt.com/share/66f038e3-7218-8012-a294-05bb7afa9b97\">this question</a> using Google and StackExchange. There was a bug in this one line of code, a call to <i>new Date ()</i> in JavaScript, that was behaving as if months were not 0-based, which they are known to be. The problem: I was specifying the day as 0 and month, correctly, but the day had to be 1 in order for it to work and without thinking I had specified it as 0.  ",
+    "created": "Sun, 22 Sep 2024 15:34:09 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
