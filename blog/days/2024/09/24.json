@@ -1,0 +1,93 @@
+{
+    "created": "2024-09-24T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "24",
+    "path": "2024/09/24",
+    "text": "September 24",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Now that ActivityPub is <a href=\"https://socialwebfoundation.org/2024/09/24/launch/\">claiming</a> to be the <a href=\"https://en.wikipedia.org/wiki/Social_web\">Social Web</a>, I feel like Lloyd Bentsen at the <a href=\"https://en.wikipedia.org/wiki/Senator,_you%27re_no_Jack_Kennedy\">debate</a> with Dan Quayle. ActivityPub is not the web any more than Dan Quayle was Jack Kennedy. The web is simple. That was hard to do. Very little since then lives up to that standard of simplicity, definitely not ActivityPub. The web is the web is the web is the web etc. Pick another more humble name. If it ever does achieve the utility of the web does we can take another look.",
+            "created": "Tue, 24 Sep 2024 18:15:08 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Imagine no doctor would treat you for a serious illness until you got a court order saying it was due to rape, incest or the life of the mother. Judges with the power of life and death. In some states with the death penalty judges have the power to sentence people to death, but not for having a well-accepted medical procedure. But that's the situation women with a troubled pregnancy are in, if they live in the wrong state. From the patient's point of view, I have a slight inkling about what this is like because twice in my life I've needed health care to save me from imminent death. The health care system never hesitated to help. But what if they had said \"we can't admit you until a judge rules that we can.\" In the new USA, abortion is like a pardon, something only the government can grant. Forget about juries of our peers. It raises so many questions. If a woman is about to miscarry are they even allowed to admit her to the hospital, or does she have to wait until she is actually dying? If you can check her in, what are the limits of the treatment they can provide? Aspirin? Blood? Oxygen? Surgery? And btw, medicine has advanced a <i>lot</i> since before Roe v Wade. Whatever practices they had for avoiding abortion can't apply now. This is the kind of thing no society should change the way we changed it as an edict handed down by judges who are subject to corruption. We are learning about a serious flaw in our system of government. ",
+            "created": "Tue, 24 Sep 2024 15:40:33 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2024/09/24/careyTreatment.png",
+            "imageLink": "https://en.wikipedia.org/wiki/The_Carey_Treatment",
+            "flInCalendar": true
+        },
+        {
+            "text": "It would be great if we could make voting a party, a celebration, something to look forward to, not something you have to make time for. That would probably do more to improve the lives of all Americans than any other single thing. It's like the SuperBowl, the NBA Finals, Coachella or the Oscars, only better -- because we are the stars.",
+            "created": "Tue, 24 Sep 2024 12:24:41 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A Hello World for Bluesky?",
+            "created": "Tue, 24 Sep 2024 16:58:31 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "First, a couple of examples/case studies.",
+                    "created": "Tue, 24 Sep 2024 17:50:51 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "1. About ten years ago I was trying to figure out how to get started with Node.js. I knew a little JavaScript, but nothing I read about Node made it click. It's server software, so there must be a way to write an HTTP server? From there, I read all the details about the power it has, but what I needed was a Hello World script. <a href=\"https://www.google.com/search?q=site%3Ascripting.com+%22brent+simmons%22\">Brent Simmons</a> gave me the script, and step by step <a href=\"https://inessential.com/2013/12/09/getting_started_with_web_services_using_.html\">instructions</a> on how to write it. ",
+                    "created": "Tue, 24 Sep 2024 16:58:38 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I followed his steps, and it worked, and of course I wrote a <a href=\"http://scripting.com/2014/01/29/imBecomingANodejsDeveloper.html\">blog post</a> about it.  That was the key I needed that unlocked what Node is, and helped me see what I could do with it. The first thing I did was factor out some of the bits so I could make it even simpler and then I built. I just wanted a few lines of code that created a server and responded to requests. All I needed was a Hello World to get me going. ",
+                    "created": "Tue, 24 Sep 2024 17:00:05 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Now Brent knew that I knew the basics of HTTP servers, we both worked together on a huge app that had as a small part of it a full HTTP server, thanks to <a href=\"https://www.google.com/search?q=site%3Ascripting.com+%22wes+felter%22\">Wes Felter</a> who wrote it, no one asked him to, one day he showed up with a server that ran in \"Frontier\". I was ecstatic. That's the key. If you have something that isn't truly new, that might have some analogies in other worlds, if you want people in those other worlds to know how to get started, give them the beginning. The first step.",
+                    "created": "Tue, 24 Sep 2024 17:03:21 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "2. Another example. How I learned to create and edit a website. It was 1994. I loved the web the way I love ChatGPT today. I knew how to use it, but I didn't know how to make it. Everyone told me it was really simple and they sent me links to all the docs, but they made no sense, because they talked about things I didn't understand. What I really needed was a way to make a web page that was as simple as the one Brent provided for Node-based HTTP servers, with tools and concepts I knew how to use. I found one, a service provided by <a href=\"http://scripting.com/2014/04/07/howIDoNewThings.html\">Ohio State University</a>. You emailed a message to them and they put it \"on the web\" and sent you back a link to the page. Click the link and there's what you typed. I tried <i>Hello World</i> and got back a link to a page that said Hello World. So I tried something more complicated, I did a view source of Hotwired.com's home page, and copy and pasted it into an email. That worked too (with broken images because the urls were relative). ",
+                    "created": "Tue, 24 Sep 2024 17:05:12 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Everything I've ever learned how to do required me to first understand it at this level.",
+                    "created": "Tue, 24 Sep 2024 17:53:07 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Okay here we are in 2024, and I want to understand what Bluesky is. I know how to use it, but I don't know how to <i>make</i> it. But I would be surprised if it is any more complicated that writing a web content management system that uses feeds, something I've done many times. I know the components of a message, have iterated over it for the last thirty years. I even wrote the spec that defines them in RSS 2.0. We're all doing the same thing over and over and Bluesky is no different. I hear there's some nice design for the protocol, but right now I don't care. I want my Hello World. The minimal code I need to add a node to the network defined by Bluesky and I want to see what it can do with the same kind of aha moment I had with the web. I want it to work when I try it, and I want it to reveal what Bluesky is beyond what I can see from using it. I want to begin to understand the opportunities for interop. ",
+                    "created": "Tue, 24 Sep 2024 17:08:51 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Why do I ask? For one, I'm a student of this stuff, and I want to understand. But I also am very active in this area, and <a href=\"http://scripting.com/2021/12/16/153331.html?title=myProductIsInterop\">interop is my product</a> (really read that piece, I mean it, and I think it's Bluesky's product too). I'm into <a href=\"http://scripting.com/2024/04/16/140810.html\">working together</a> -- it happens so infrequently. So here I'm also trying to show not just you how to explain what you do for a curious but time-limited developer, but I want to make this a this.how document that explains how to do it for everyone, hoping that we as an art and industry start explaining ourselves better to each other, because we absolutely need to do this much better imho, ymmv, mmlm, etc. ",
+                    "created": "Tue, 24 Sep 2024 17:12:50 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "To summarize -- assume I know how the web works. I've worked with the structures and protocols for systems that are very much like Bluesky. Don't try to explain the design of the protocol, just use it to solve a problem that I will understand because I use the product and I have developed lots of stuff like it. It should be possible to show us, to teach us, what your product does. ",
+                    "created": "Tue, 24 Sep 2024 17:55:37 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: It could take a few days to put a Hello World together. Because once you do the first iteration, you may think of a more direct way to illustrate the idea, and you should do it, iterate until it works, until you can't make it any simpler. ",
+                    "created": "Tue, 24 Sep 2024 18:00:57 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PPS: And if you don't want to do it, that's okay too. I just thought it was worth the effort to explain what's needed to foster a greater understanding of what you're doing and what the opportunities for interop are. ",
+                    "created": "Tue, 24 Sep 2024 18:02:35 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
