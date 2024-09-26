@@ -1,0 +1,36 @@
+{
+    "created": "2024-09-25T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "25",
+    "path": "2024/09/25",
+    "text": "September 25",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Interesting <a href=\"https://fansided.com/posts/mlb-weather-report-hurricane-helene-could-impact-braves-mets\">situation</a> in Atlanta with the Mets. They have two more games to play with the Braves, but there's a <a href=\"https://imgs.scripting.com/2024/09/25/atlantaWeather.png\">hurricane</a> headed <a href=\"https://forecast.weather.gov/MapClick.php?lat=33.7485&lon=-84.3915\">toward</a> Atlanta. It's going to start raining at 1PM and won't stop until Friday afternoon. It's the end of the season and both the Braves and Mets are in the same wildcard battle. Do the Mets stay in Atlanta to ride out the storm, or head back to NY? It's far more weird than I have time to explain right now.",
+            "created": "Wed, 25 Sep 2024 14:18:19 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2022/09/21/mets.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "How they divide us",
+            "created": "Wed, 25 Sep 2024 13:33:51 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I keep thinking of this cartoon, which explains it so well. ",
+                    "created": "Wed, 25 Sep 2024 13:34:02 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This is what's going on in US politics now. ",
+                    "created": "Wed, 25 Sep 2024 13:34:27 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2024/09/25/foreignerWantsYourCookie.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
