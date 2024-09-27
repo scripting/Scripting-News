@@ -1,0 +1,30 @@
+{
+    "created": "2024-09-26T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "26",
+    "path": "2024/09/26",
+    "text": "September 26",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Why do I care about what \"social web\" means? Because I plan to add functionality to this space. I'm tired of all the stupid limits these products have. Titles or no titles. 300 character limits. No links, etc etc and on and on. Where did they get the idea that taking features out of writing was something they could do. What a wrong turn we took there. And now that once we have a chance to erase the limits, maybe -- none of the companies running their products are doing it. I don't want the way they do it to be the only way, the products are <i>deliberately</i> incompatible. Social web is the best name for what I'm working on. So I need to reserve this space. They didn't ask for my opinion, the first I heard of it was a press release. When I ship my thing I want to point back at this and say look -- I did tell you this was going to be a problem. ",
+            "created": "Thu, 26 Sep 2024 17:51:20 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/11/09/bowHunter.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://oursocialweb.org/\">oursocialweb.org</a>: You don't have to give it any money or come to any meetings. Just know that someone else believes in users and developers. And let's work together to make it great, as soon as we can, without waiting for the big companies.",
+            "created": "Thu, 26 Sep 2024 14:14:34 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The <a href=\"https://www.threads.net/@davew/post/DAYZWUXpEyJ\">question</a> came up on Threads as to whether the ActivityPub support in Ghost will be a full two-way presence in the fedisphere, and apparently the <a href=\"https://www.threads.net/@quillmatiq/post/DALtxZ_PiiX\">answer</a> is yes. They are working on a feed reader that also hooks into AP. That's how I would have done it. Really feeds and tweets should always have been peers. If you want to know the history, blame Google Reader for that disconnect. Also it highlights the need for a <a href=\"https://www.threads.net/@davew/post/DAYm3v5JLLe\">news-zine</a> focused on the \"social web\". When the PC first came out there was PC Mag and PC World and then PC Week. Same for the Mac. And there was InfoWorld that covered everything. Now we're basically using smoke signals between users. A few really interested users could bootstrap a blog to keep track of what's going on, and share what you learn publicly. That was the advice I gave <a href=\"site:scripting.com arrington\">Mike Arrington</a> and he started TechCrunch and that acted as the glue that hooked together the early blogosphere, feeds and ultimately twitter and its offspring. We need it again. Users and developers party together has never been more needed as now.",
+            "created": "Thu, 26 Sep 2024 16:14:19 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/11/04/feedlandLogoPossible.png",
+            "flInCalendar": true
+        }
+    ]
+}
