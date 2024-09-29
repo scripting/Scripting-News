@@ -1,0 +1,51 @@
+{
+    "text": "Making the social web really work",
+    "created": "Sat, 28 Sep 2024 13:21:52 GMT",
+    "type": "outline",
+    "description": "I was trying to keep four pieces of software happy with my writing and doing so made my writing suck.",
+    "metaImage": "http://scripting.com/images/2024/03/06/writersCircle.png",
+    "subs": [
+        {
+            "text": "Molly White wrote a <a href=\"https://www.citationneeded.news/posse/\">great piece</a> on the problem we're all facing now that so many of us are trying to maintain a presence on a few different social web sites. She describes a situation I've been writing about since the mid-late 00s, with the inception of Twitter and Google Reader, two phenoms that had very different ideas of what writing on the web should be. That's where the problems started.",
+            "created": "Sat, 28 Sep 2024 13:33:23 GMT",
+            "image": "https://imgs.scripting.com/2019/11/14/weTryHarder.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Before that we had a cross-posting API that was broadly supported and really worked, based on <a href=\"https://cyber.harvard.edu/rss/rss.html#hrelementsOfLtitemgt\">RSS 2.0's idea</a> of what a post is. It's called the <a href=\"https://xmlrpc.com/metaweblog\">Metaweblog API</a>, and it's still supported by <a href=\"https://codex.wordpress.org/XML-RPC_MetaWeblog_API\">WordPress</a> and probably a few other social web sites (I take a broad view of what the social web is and definitely include WordPress and other blogging tools. Based on Molly's piece, I expect she would see it that way too.)",
+            "created": "Sat, 28 Sep 2024 14:24:37 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The first approach I took to this problem was to cross-post as Molly describes, to work around the limits in software. But the limits will creep into your writing, since you know that people who read your stuff on Bluesky, Threads or Twitter won't see the links, you'll be reluctant to them in your writing. I encountered this problem in the mid-teens when I was trying to cross-post to Medium and Facebook, one supported links and basic HTML, the other didn't. Eventually before <a href=\"http://scripting.com/2017/05/05/iWantMyOldBlogBack.html\">giving up</a> on the POSSE approach in 2017, I was barely using links at all. I was trying to keep four pieces of software happy and doing so made my writing suck.",
+            "created": "Sat, 28 Sep 2024 13:50:10 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "To get a handle on the problem, I created a list of features I felt all social web platforms should support and published it at <a href=\"https://textcasting.org/\">textcasting.org</a>. Ultimately I think we're going to have to make a platform that implements a reasonable subset of this functionality, if only as a demo for the social web companies to show them what we want. There already are Mastodon forks that support some of the features (no character limit, Markdown support). ",
+            "created": "Sat, 28 Sep 2024 13:41:51 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I <a href=\"https://github.com/scripting/textcasting\">published the code</a> I use to cross-post for my linkblog, that much does work quite well across the different platforms, and I'd be happy to operate a server for people to experiment with. The <a href=\"https://github.com/scripting/textcasting/blob/main/textcasting.js\">server software</a> runs in Node.js, is already open source. It has a simple <a href=\"https://github.com/scripting/textcasting/tree/main/plugins/platforms\">plug-in architecture</a> so support for new platforms can be added without modifying the server. ",
+            "created": "Sat, 28 Sep 2024 13:55:44 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "But my main point is this -- let's <a href=\"http://scripting.com/2024/04/16/140810.html\">work together</a>. We really aren't very good in tech at building on each others' work, that's why we get so stuck. I have a lot to say about that too, I've been writing about it on my blog for many many years. ",
+            "created": "Sat, 28 Sep 2024 13:45:17 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "And thanks for picking up this thread. It's one of the two big threads -- along with AI -- how are we going to make writing on the web work.",
+            "created": "Sat, 28 Sep 2024 13:59:18 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "PS: I started writing this in Mastodon, but obviously I had to fall back to my blog, because there was no room and I needed to use links or why bother. ;-)",
+            "created": "Sat, 28 Sep 2024 13:40:39 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
