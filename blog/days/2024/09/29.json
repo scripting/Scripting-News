@@ -1,0 +1,41 @@
+{
+    "created": "2024-09-29T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "29",
+    "path": "2024/09/29",
+    "text": "September 29",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "New <a href=\"https://shownotes.scripting.com/podcast0/2024/09/29/mySideOfANewsInterview.html\">episode</a> from the Podcast0 <a href=\"http://scripting.com/podcast0/rss.xml\">feed</a> about a new Yahoo RSS reader.",
+            "created": "Sun, 29 Sep 2024 15:24:03 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, I haven't mentioned this before, but I'm working on the reading interface for my blog. What you see when you go to scripting.com. I'm putting the same kind of attention into it that I did for the <a href=\"http://scripting.com/2024/03/13/010313.html\">blogroll</a> feed reader earlier this year. There are a few unreleased products that use the same approach. The way we read the web hasn't received enough attention, we've been so focused on the twitter-like interfaces, forgetting that reading on a full page is important too. We've settled for a pretty awful way of reading. I want to fix writing too, and have plans for this, but I thought I should do some work on reading as well. I wish I could show you all the new ideas, but I'm saving that for a big reveal at some point. ",
+            "created": "Sun, 29 Sep 2024 15:27:04 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2017/06/03/wiredWebIsDeadFreeGift.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "This blog has been running for: 29 years, 11 months, 22 days, 20 hours, 43 minutes, 55 seconds. <i>Still diggin!</i>\n",
+            "created": "Sun, 29 Sep 2024 15:44:01 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://www.threads.net/@davew/post/DAgMFyyNYbX\">Thread</a>: Much easier than struggling with ActivityPub, would be a set of functionally equivalent APIs and a common understanding of what a “post” is among various social web systems. This how we created solid interop in the blogging world, and it would work here too.\n",
+            "created": "Sun, 29 Sep 2024 17:55:14 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you want to help the open web, when you write something you’re proud of on a social web site like Bluesky or Mastodon, also post it to your blog. Not a huge deal but every little bit helps.",
+            "created": "Mon, 30 Sep 2024 00:39:37 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
