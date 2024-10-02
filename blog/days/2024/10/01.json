@@ -1,0 +1,63 @@
+{
+    "created": "2024-10-01T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "01",
+    "path": "2024/10/01",
+    "text": "October 01",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I asked Google Trends about <a href=\"https://trends.google.com/trends/explore?q=textcasting\">textcasting</a>. No data. ",
+            "created": "Tue, 01 Oct 2024 19:17:21 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm still waiting for the podcast client that can subscribe to OPML lists, so I can subscribe to shows from my desktop, even automate it. If one of them did, we could start curated lists of feeds put together by smart people and influencers. The first podcast client that did this would open up the market, and stand out from the pack. I've been <a href=\"http://scripting.com/stories/2012/06/29/twoSuggestionsForPodcastCl.html\">asking</a> for this from the inception of podcasting twenty years ago. I had it in my first podcatcher. It would be great if one of the popular clients of today adopted the idea. Happy to help.",
+            "created": "Tue, 01 Oct 2024 14:55:35 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2021/06/14/strongman.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I had a dream last night with many of my dead relatives present. We were at some kind of social event. My grandfather had a new wife or girlfriend, but he didn't recognize me, though he pretended to. My mother was far off in the distance taking pictures. I wonder what that means. Some of them <i>were</i> dead and gone. I had to remind myself of that. Meanwhile both my parents were alive and being themselves. (Heh.) My subconscious has a clear idea of who they are/were, only it doesn't register that some of them are gone.  ",
+            "created": "Tue, 01 Oct 2024 17:04:23 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here is the monthly <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/opml/2024/09.opml\">archive</a> for \"Scripting News\" in OPML, for September. I've been systematically creating <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog/opml\">this archive</a> since May 2017. And also have been able to <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog/opmlOtherSources\">reconstruct</a> the archive for most of Scripting News going back to 1994.  I've been doing a lot of work with the contents of this archive in the last month. ",
+            "created": "Tue, 01 Oct 2024 14:01:06 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Cross-posting",
+            "created": "Tue, 01 Oct 2024 19:22:07 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Cross-posting is here now. I am not surprised <a href=\"https://techcrunch.com/2024/10/01/croissant-debuts-a-cross-posting-app-for-threads-bluesky-and-mastodon/\">Croissant</a> is getting such a positive reception. ",
+                    "created": "Tue, 01 Oct 2024 19:22:13 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "That is where the fediverse will be defined imho, in the intersection between the competing social web services. ",
+                    "created": "Tue, 01 Oct 2024 19:22:30 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You'll know it's working when they feel they have to match each others' features because with cross-posting their difference in character limits, titles, styling, links etc will be much more visible. ",
+                    "created": "Tue, 01 Oct 2024 19:22:35 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Activitypub is too much. Cross-posting is exactly right and here now.",
+                    "created": "Tue, 01 Oct 2024 19:22:44 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
