@@ -1,0 +1,35 @@
+{
+    "text": "WordPress has a greater destiny",
+    "created": "Sat, 05 Oct 2024 14:21:18 GMT",
+    "type": "outline",
+    "description": "Developers could compete to delight them.",
+    "metaImage": "http://scripting.com/images/2024/10/05/wordpressDestiny.png",
+    "subs": [
+        {
+            "text": "A few years before WordPress came out, I did a product called <a href=\"https://www.google.com/search?q=site%3Ascripting.com+%22radio+userland%22\">Radio UserLand</a> which was a combination <a href=\"http://scripting.com/2021/08/15/024232.html?title=radioUserlandScreenShot\">blogging tool</a> and feed reader. Two main screens, a streamlined UI. You could get in quickly, write and publish a post in a minute, and see it show up in the reader a moment later. It worked, and it added a major new component to the blogging world, and I think still represents the simplest most focused UI for writing. It was a really popular product. ",
+            "created": "Sat, 05 Oct 2024 14:15:06 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The same idea, really simple blog post writing and editing, with all the <a href=\"https://textcasting.org/\">features</a> that should be available to web writers, optional titles, links, simple styling, enclosures, the ability to edit. The things the common social web apps generally <i>don't</i> have. ",
+            "created": "Sat, 05 Oct 2024 14:21:40 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "This imho is a huge opportunity. I wish this is where the focus in the WordPress community was, but I think right now the world is building <i>around</i> WordPress, not on it. It could be great, it could totally solve the problem of a new document standard in the social web that makes it really like the web. Instead they're fighting over who owns what part of the WordPress trademark, at least as far as I can tell. ",
+            "created": "Sat, 05 Oct 2024 14:21:53 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Last year I created a Node.js package called <a href=\"https://github.com/scripting/wpIdentity\">wpidentity</a> that acts as a bridge between a browser-based JavaScript app and the WordPress back-end, and the result is fine. It suggests that there could be a developer community writing apps that all join up in the middle in WordPress's database. Pretty powerful idea! ",
+            "created": "Sat, 05 Oct 2024 14:22:33 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "And I think the users, the writers, would love it, because we developers could <b>compete to delight them</b>, and not have to worry about building a huge server capability as Automattic already has debugged and scaled. And maybe the battle that's going on now could fade into the background.",
+            "created": "Sat, 05 Oct 2024 14:22:55 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
