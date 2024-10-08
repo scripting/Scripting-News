@@ -1,0 +1,74 @@
+{
+    "created": "2024-10-07T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "07",
+    "path": "2024/10/07",
+    "text": "October 07",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today is the 30th anniversary of this blog. <i>Hola!</i> ",
+            "created": "Mon, 07 Oct 2024 12:15:15 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I did a <a href=\"http://scripting.com/2019/08/06/155950.html\">roundup of thoughts</a> when this blog turned 25. I stand by what I wrote then, but I'd add this. My blog started because I needed content to test a script I had written that sent emails on my Mac using <a href=\"http://scripting.com/frontier/apps/Eudora.html\">Eudora</a>, which was an early <a href=\"http://scripting.com/frontier/apps/Eudora.html\">scriptable app</a> and I had a nice scripting system that worked with it. I looked around for <a href=\"http://scripting.com/davenet/1994/10/07/marccantersingsagain.html\">something</a> to send (30 years ago today), and shot out an email to the people whose business cards I had collected at various tech conferences. It was a thrill, so I did it <a href=\"http://scripting.com/davenet/1994/10/12/marcs10things.html\">again</a>, and <a href=\"http://scripting.com/davenet/1994/10/13/lettertocannavino.html\">again</a> and <a href=\"http://scripting.com/davenet/1994/10/14/howtoinvestinpdas.html\">three</a> <a href=\"http://scripting.com/davenet/1994/10/16/randybattatonpdas.html\">more</a> <a href=\"http://scripting.com/davenet/1994/10/17/pdasonparade.html\">times</a>, before I realized hey I could use this thing to get <a href=\"http://scripting.com/davenet/1994/10/18/billgatesvstheinternet.html\">my own ideas</a> out <a href=\"http://scripting.com/davenet/\">there</a>. And thus began <a href=\"http://scripting.com/\">this thing</a> that I still do to this day. Look at the <a href=\"http://scripting.com/2024/10/05/142118.html\">two</a> <a href=\"http://scripting.com/2024/10/06/142657.html\">posts</a> I wrote about WordPress in the last few days. There may be hope to find a blogosphere buried somewhere in there. And it may be possible to give them some sweet new writing tools so they can get excited about writing on the web the way we did all those years ago. I actually am kind of optimistic about that. Maybe we can stand up something in the midst of the noise. When we booted up podcasting, approx 20 years ago, we had a slogan -- \"Users and developers party together.\" It worked! That is still the way I want to build stuff, it's the only way I know how to do it. Blogging started out as a programming adventure and eventually became a form of literature. How about that. I'm up for doing more of that if you all are. But please expect to make contributions, don't expect it all to come to you for free, because as we know nothing really is free.  ",
+            "created": "Mon, 07 Oct 2024 17:03:03 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/10/25/mookieWilson.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Today's the big day. Thanks to John Naughton's wonderful <a href=\"https://www.theguardian.com/commentisfree/2024/oct/05/the-blogosphere-is-in-full-bloom-the-rest-of-the-internet-has-wilted-dave-winer\">piece</a> in the Guardian, I'm hearing from people all over the world about what blogging means to them. I appreciate all of the messages, but would appreciate them <i>even more</i> if they were on your blog. We need to keep using the tech. Blogging is kind of lost, and I would like to see that change. Every time you post something you're proud of on a social media site, how about taking a moment and posting it to your blog too. And while there, if appropriate, link to something from some part of your post, even though the social media sites don't support linking, the web is still there and it still does. ",
+            "created": "Mon, 07 Oct 2024 12:15:44 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Interestingly, the <a href=\"https://imgs.scripting.com/2024/10/07/mailClock.png\">clock</a> at the bottom of the nightly emails does not agree with the clock on the home page of Scripting News. It's a hard thing to test in real life. And it's completely fitting, given the motto of the blog is: <i>it's even worse than it appears,</i> which could be the motto of all programmers everywhere, and probably bloggers too. We always focus on the bad news, of course -- that's human nature -- but always remember, it could actually be worse. ",
+            "created": "Mon, 07 Oct 2024 12:19:16 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Pseudo code and kitchen-table conversations",
+            "created": "Mon, 07 Oct 2024 13:58:28 GMT",
+            "type": "outline",
+            "enclosure": "https://s3.amazonaws.com/scripting.com/publicfolder/downloads/podcasts/2024/10/07/pseudoCodeAndKitchenTableConversations.m4a",
+            "enclosureType": "audio/mpeg",
+            "enclosureLength": "10739428",
+            "subs": [
+                {
+                    "text": "Today's <a href=\"https://shownotes.scripting.com/scripting/2024/10/07/pseudoCodeAndKitchenTableConversations.html\">podcast</a> has nothing to do with the 30 year milestone, except that it is totally unscripted, stream of consciousness, for 30 minutes, on two topics.",
+                    "created": "Mon, 07 Oct 2024 13:41:58 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "The idea of what a programming language is, is about to be completely overturned. The verbs and nouns will, at least at first, be pretty much exactly like we do it now, but the way you specify how they work, how they interact both in the UI and on the backend, will be done more or less as you would document the user interface. The AI system is almost ready to work at that level. With a few more iterations by human designers it should all meet up in a place where the slogging type work I've been doing for 50+ years will be obsolete. We will all become anachronisms. All of us. Get ready for it. And btw I was the biggest skeptic of the idea of a higher level more human way of programming. Scoffed at the idea. Repeatedly. Never say you can't teach an old dog new tricks.",
+                            "created": "Mon, 07 Oct 2024 13:42:35 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "The second part is about kitchen-table conversations in families, the bored rantings of our ancestors, passed on lovingly from generation to generation. Should have realized that we did not turn a racial corner with the election of Obama, we all should have gotten prepared for the backlash from children of the slavers and fascists, who were raised alongside us as victims of slavery and fascism were raised to feel persecuted. We all revert to our comfortable roles. The question is can we rise above that and forget for a moment what our ancestors taught us as gospel and take an interest in going beyond that, or do we have to do another loop around the genocide and its consequences, which this time will be <i>far worse</i> than they were in the 1940s because of all the new war and computer tech and the damage done by the post-war growth. ",
+                            "created": "Mon, 07 Oct 2024 13:45:42 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I feel good about this podcast, because it has nothing to do with the milestone. I have an idea of what it feels like to have been blogging for 30 years, but no conclusions to offer that would mean anything to me or anyone else, except perhaps a psychologist. ",
+                    "created": "Mon, 07 Oct 2024 13:49:18 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I've been watching a lot of sports recently and the interviews with star athletes saying the same predictable bullshit after being asked how it felt to do whatever heroic thing they just did. All of TV and news is like that, none of it is news, all of it is predictable bullshit. That is probably why they have so much trouble reporting the truth about Trump and Musk. It doesn't fit into their job description, it's not in anyone's job to tell the truth. And <i>that's</i> the truth. ",
+                    "created": "Mon, 07 Oct 2024 14:07:40 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
