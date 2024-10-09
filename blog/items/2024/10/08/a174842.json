@@ -1,0 +1,7 @@
+{
+    "text": "Okay this is blowing my mind. My friends at Automattic showed me how to turn on ActivityPub on a WordPress site. I wrote a <a href=\"https://daveverse.wordpress.com/2024/10/08/writers-come-first-in-wordland/\">test post</a> in my simple WordPress editor, forgetting that it would be cross-posted to Mastodon. When I just checked in on Masto, <a href=\"https://mastodon.social/@daveverse.wordpress.com@daveverse.wordpress.com/113272969462140490\">there was the freaking post</a>. After I recovered from passing out, I wondered what happens if I update the post in my editor, and save it to the <a href=\"https://daveverse.wordpress.com/2024/10/08/writers-come-first-in-wordland/\">WordPress site</a> that's hooked up to Masto via ActivityPub. So I made a change and saved it. I waited and waited, nothing happened. I got ready to add a comment saying ahh I guess it doesn't update, when -- it updated. Oh geez look at that. Folks, I did nothing here but write an app that can be used to edit WordPress posts. And I got in return an app that is part of the freaking Fediverse. And I never had to write a line of ActivityPub code. Think about that. I don't know if Automattic understands what they have, honestly. ",
+    "created": "Tue, 08 Oct 2024 17:48:42 GMT",
+    "type": "outline",
+    "image": "https://imgs.scripting.com/2020/04/09/santaCoke.png",
+    "flInCalendar": true
+}
