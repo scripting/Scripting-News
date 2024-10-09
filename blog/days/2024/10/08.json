@@ -1,0 +1,101 @@
+{
+    "created": "2024-10-08T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "08",
+    "path": "2024/10/08",
+    "text": "October 08",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://shownotes.scripting.com/scripting/2024/10/08/editorWordpressMastodon.html\">Podcast</a>: I was able to write a post that appeared on Mastodon using ActivityPub. Via the WordPress API. Congrats to the ActivtyPub community, Automattic and Mastodon. \"It just worked.\" ",
+            "created": "Tue, 08 Oct 2024 20:05:39 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Okay this is blowing my mind. My friends at Automattic showed me how to turn on ActivityPub on a WordPress site. I wrote a <a href=\"https://daveverse.wordpress.com/2024/10/08/writers-come-first-in-wordland/\">test post</a> in my simple WordPress editor, forgetting that it would be cross-posted to Mastodon. When I just checked in on Masto, <a href=\"https://mastodon.social/@daveverse.wordpress.com@daveverse.wordpress.com/113272969462140490\">there was the freaking post</a>. After I recovered from passing out, I wondered what happens if I update the post in my editor, and save it to the <a href=\"https://daveverse.wordpress.com/2024/10/08/writers-come-first-in-wordland/\">WordPress site</a> that's hooked up to Masto via ActivityPub. So I made a change and saved it. I waited and waited, nothing happened. I got ready to add a comment saying ahh I guess it doesn't update, when -- it updated. Oh geez look at that. Folks, I did nothing here but write an app that can be used to edit WordPress posts. And I got in return an app that is part of the freaking Fediverse. And I never had to write a line of ActivityPub code. Think about that. I don't know if Automattic understands what they have, honestly. ",
+            "created": "Tue, 08 Oct 2024 17:48:42 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2020/04/09/santaCoke.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, it also supports HTML pretty well, but the title does not appear on the Mastodon version. That's going to be a problem. Actually the title is visible at the bottom. Let's call that an anachronism. Of course the title should/must be at the top.",
+            "created": "Tue, 08 Oct 2024 17:56:12 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://om.co/2024/10/08/dave-happy-30th-blog-birthday/\">Om Malik</a>, a long-time friend, <a href=\"http://scripting.com/stories/2009/11/24/naturalbornBlogger.html\">NBB</a> and supporter: \"The best version of Dave is the Hopeful Dave.\" I agree. That's certainly when I'm happiest. Because it means someone is working with someone else. Imho, that's the only source of hope in our world. ",
+            "created": "Tue, 08 Oct 2024 15:40:14 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm really proud of <a href=\"https://daringfireball.net/linked/2024/10/07/scripting-news-30-years\">what John Gruber said</a> about me as a blogger in his Daring Fireball <a href=\"https://daringfireball.net/linked/2024/10/07/scripting-news-30-years\">yesterday</a>: \"Winer is rightfully renowned for his technical achievements — outliners as an application genre, RSS in general, and RSS in the specific context of podcasting in particular — but what’s kept me reading Scripting News for the entirety of Scripting News’s 30-years-and-counting run is his writing. He has such a distinctive writing voice that is impossible to imagine in any medium other than the web. But I think that’s because he helped define what writing not just on the web, but for the web, even meant.\" ",
+            "created": "Tue, 08 Oct 2024 12:47:23 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2022/09/21/mets.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've mentioned the <a href=\"https://github.com/scripting/wpIdentity/\">wpIdentity package</a> a few times recently, and thought I should explain its <a href=\"https://github.com/scripting/wpIdentity/blob/main/docs/history.md\">purpose and history</a>. ",
+            "created": "Tue, 08 Oct 2024 12:06:18 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Guy Kawasaki, proto-evangelist",
+            "created": "Tue, 08 Oct 2024 15:57:02 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://guykawasaki.com/\">Guy Kawasaki</a> and I have been going back and forth privately about what we want from our personal ChatGPT. Here's one thing for the list. When I go to Google and search for NBB, it should take me to <a href=\"http://scripting.com/stories/2009/11/24/naturalbornBlogger.html\">this page</a> on my blog. It shouldn't even require me to click on Feelin Lucky. Google has had 26 years to get to know me, and it still thinks I might mean <a href=\"https://nbbank.com/\">National Bank of Blacksburg</a>. Folks, <a href=\"http://scripting.com/\">this</a> is my blog, read it and use it as context when I ask a question. And they don't have to even read my blog, \"NBB\" is defined in my <a href=\"http://scripting.com/publicfolder/misc/glossary.opml\">glossary</a>, which I make public and is used in rendering all my pages. ",
+                    "created": "Tue, 08 Oct 2024 15:42:42 GMT",
+                    "image": "https://imgs.scripting.com/2022/08/20/brilliantFriend.png",
+                    "collapse": "true",
+                    "subs": [
+                        {
+                            "text": "A few years back, Google, when I searched for my mother, using her correctly-spelled last name, which happened to also be <i>my</i> last name, showed me results for Eve Wilmer.",
+                            "created": "Tue, 08 Oct 2024 16:30:18 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Back to Guy. I asked if he's written about what an evangelist is. To me, he is the prototypical evangelist. He's #1 and there isn't a #2 or #3. He has written about it, in the <a href=\"https://hbr.org/2015/05/the-art-of-evangelism\">Harvard Business Review</a> in 2015. But his story is, excuse me, bullshit. I should record a podcast about what an evangelist is, as I was very well-schooled in this by Guy. Let me try here. ",
+                    "created": "Tue, 08 Oct 2024 15:49:28 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The evangelist for a product or organization is the person who deliberately tilts the playing field in favor of developer products that absolutely must get out there for the organization to achieve its mission. How is the tilt determined? Intuitively. If some random schmuck approaches him out of the blue at a developer conference, and explains their problem, where most BigCo people ignore them, the evangelist listens carefully. Helps without a second thought. And his door is open, if the developer wants to follow up. He helps route his needs through the organization. No developer is on their own if Guy is there. ",
+                    "created": "Tue, 08 Oct 2024 16:14:51 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And when the killer product comes along, the one that will give Mac users something to get charged up over in 1986 when the hardware problems were being solved (they were!) and the software flow had dried up, Guy gets the developer the $400K they need to keep the doors open to ship the freaking product. The level playing field approach, which most tech companies follow, results in dead developers and platforms whose capabilities go unexplored. Users get bored, and move on to where the excitement is. ",
+                    "created": "Tue, 08 Oct 2024 16:16:44 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I've seen products and companies fail to look around them to see what's possible. They only look inward at their own organizations who fail year after year to create products that users love. There's a reason for this, but you don't need to know it -- you just need to keep looking at every possible victory and when one comes along, do anything it takes to get it out to users.",
+                    "created": "Tue, 08 Oct 2024 16:26:04 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I've applied Guy's teaching in every project I've done since I got to know him in 1983 and when we, together, rode the wave of success in the Mac in 1986. He was like a member of our team inside the Mac Division at Apple. And we <i>did</i> have the hit product that year. And Guy pulled every string to make sure the world knew.  ",
+                    "created": "Tue, 08 Oct 2024 16:18:32 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This is how I applied the lesson. When I saw the potential in another developer and a way for their project to help me achieve my goal, I go for it. I know those things are very rare, and not to worry if it doesn't arrive in exactly the way I expected it to. ",
+                    "created": "Tue, 08 Oct 2024 16:21:04 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
