@@ -1,0 +1,74 @@
+{
+    "text": "The web lives in WordPress and Mastodon",
+    "created": "Fri, 11 Oct 2024 13:27:36 GMT",
+    "type": "outline",
+    "metaImage": "http://scripting.com/images/2024/10/11/kingKong.png",
+    "description": "I am more excited about the web than I have been in a long time.",
+    "subs": [
+        {
+            "text": "I have a morning ritual which begins with breakfast and iced coffee, and my laptop, on the kitchen table, to review the news, sports, whatever. Write a few tweets or share a few links. Usually with <a href=\"https://www.wnyc.org/\">WNYC</a> playing in the background until I find something I want to read carefully, then I shout at <a href=\"https://www.alexa.com/\">Alexa</a> to go away. When done, I head upstairs where the work begins, often with a blog post, as I'm writing now, and sometimes with a bit of code, but that usually waits until my brain is warmed up. ",
+            "created": "Fri, 11 Oct 2024 13:29:30 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "But today I had a different assignment. Instead of tweeting, I wrote a few wordpress/mastodon posts, a new hybrid, a medium that I may well be the first person to explore, to do actual writing in. ",
+            "created": "Fri, 11 Oct 2024 13:30:57 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I have a writing tool I call wordLand, it connects directly to WordPress, and from there, one of my sites is hooked up to Mastodon via ActivityPub. I choose to view it that way, to keep from going crazy. I know that it's hooked up to the \"fediverse\" -- meaning my writing can be viewed by any other app that supports the protocol Masotodon supports which is kind of ActivityPub+ -- where the + is the Mastodon API. Not sure what the ratios are, and I don't care. In this context I am a user, and happy to be that. The developers at Automattic are taking care of the technical details. ",
+            "created": "Fri, 11 Oct 2024 13:42:07 GMT",
+            "image": "https://imgs.scripting.com/2024/10/11/kong.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's the conclusion that appeared in <a href=\"https://mastodon.social/@daveverse.wordpress.com@daveverse.wordpress.com/113288911901690601\">one of the posts</a> I wrote in my kitchen this morning -- \"I am more excited about the web than I have been in a <i>lonnnnng</i> time.\" I am. I explained why in one of my posts, but it comes down to this. I have most of the features I asked for in \"textcasting\" (!) and I am typing in a respectable editing window, where I retain copies of my writing, and there's no freaking \"tiny little text box\". And because I'm hooking in through a protocol (here's the punchline) this writing can go anywhere. Anywhere. Let me say that again. Any. Where. ",
+            "created": "Fri, 11 Oct 2024 13:34:04 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Like I said the other day, I doubt if Automattic knows what they have. I seriously doubt it. But in a few years, we're going to look back on this as the moment when Twitter stopped controlling our writing, as they have since 2006. ",
+            "created": "Fri, 11 Oct 2024 13:36:35 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "No more character limits. Posts can have titles, or not. We can use <a href=\"http://scripting.com/scripting/manila/bloggerCon/ruleoflinks.html\">links</a>, as many as we like. Styling works. We can edit our posts. And the really big payoff, I can use a writing tool I love and you can use a tool you love and they work together perfectly well. And if one day you feel like using mine, and I feel like using yours, it just works. So in one step, we turn the clock back to 1994, when the web had all the features a writer could want.",
+            "created": "Fri, 11 Oct 2024 13:46:45 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Links to the stories I wrote earlier, on Mastodon:",
+            "created": "Fri, 11 Oct 2024 13:40:13 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "<a href=\"https://mastodon.social/@daveverse.wordpress.com@daveverse.wordpress.com/113288911901690601\">My new writing environment does textcasting</a>.",
+                    "created": "Fri, 11 Oct 2024 14:33:15 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://mastodon.social/@daveverse.wordpress.com@daveverse.wordpress.com/113288829308266525\">I have bad luck hooking up to platforms</a>.",
+                    "created": "Fri, 11 Oct 2024 14:34:17 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://mastodon.social/@daveverse.wordpress.com@daveverse.wordpress.com/113288799924700948\">A place for a 90s blogosperic reboot</a>.",
+                    "created": "Fri, 11 Oct 2024 14:34:55 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "WordPress versions are linked to from the Mastodon posts. ",
+            "created": "Fri, 11 Oct 2024 14:41:28 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Enter this in the address box: <b>@daveverse.wordpress.com</b> to follow this blog in Mastodon.",
+            "created": "Fri, 11 Oct 2024 15:14:19 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
