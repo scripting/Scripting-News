@@ -1,0 +1,43 @@
+{
+    "text": "Why is this possible now?",
+    "created": "Sat, 12 Oct 2024 14:54:03 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "BTW, the reason there's such a confluence of power between WordPress and Mastodon is this.",
+            "created": "Sat, 12 Oct 2024 14:54:09 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "WordPress has a <a href=\"https://github.com/Automattic/wp-calypso/tree/trunk/packages/wpcom.js\">complete, debugged, deployed, scaled and frozen API</a>. It's been around since 2016 or so.",
+            "created": "Sat, 12 Oct 2024 14:54:23 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "In contrast Mastodon, while they're doing excellent work, is trying to wrangle an already large community into a set of consistent interfaces. It's very hard for an outsider like myself to approach, esp when you're overloaded with your own work (which we all are).",
+            "flInCalendar": true
+        },
+        {
+            "text": "Meanwhile, Automattic has a small team whose only job is to make WordPress work with Mastodon.",
+            "flInCalendar": true
+        },
+        {
+            "text": "So I can build software that works with Mastodon without venturing into the rough seas of Mastodon-land. I can stay on the cruise-liner, which is the WordPress API.",
+            "created": "Sat, 12 Oct 2024 14:54:50 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I didn't even know they had this API until last summer. My jaw dropped when I first saw it. It even works with Node.js. And now that I'm on the other side, I haven't hit any insurmountable obstacles or had to wait for something to be decided.",
+            "flInCalendar": true
+        },
+        {
+            "text": "This is the proper way to build interop. Implementors make things work, not W3C committees (I say that with decades of experience with this, btw).",
+            "flInCalendar": true
+        },
+        {
+            "text": "I thought it deserved an explanation.",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
