@@ -1,0 +1,80 @@
+{
+    "text": "What's up with WordPress?",
+    "created": "Tue, 15 Oct 2024 17:07:49 GMT",
+    "type": "outline",
+    "description": "My story about weblogs.com and how it relates to what's happening with WordPress now. ",
+    "subs": [
+        {
+            "text": "A long time ago I ran a free service <a href=\"http://oldweblogscomblog.scripting.com/faq\">called</a> <a href=\"https://web.archive.org/web/20240000000000*/http://weblogs.com\">weblogs.com</a>. It was the <a href=\"http://www.weblogs.com/\">early days</a> of <a href=\"https://www.google.com/search?q=site%3Ascripting.com+weblogs.com\">blogs</a>. \"RSS\" didn't exist yet, so there was no way to find out which blogs had new stuff other than going through your blogroll and clicking links. ",
+            "created": "Tue, 15 Oct 2024 17:00:47 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "So I built a simple server, running in \"Frontier\", that handled pings. When you updated your blog, you'd send a message to weblogs.com saying your blog updated. It would then read the HTML of the blog and verify that it changed, and it would be added to a list of blogs that updated, in reverse chronologic order. It also published an XML version of the update list called <a href=\"http://oldweblogscomblog.scripting.com/changesXml\">changes.xml</a>, so if you wanted to run a search engine off the list, you could do that too. ",
+            "created": "Tue, 15 Oct 2024 17:09:22 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "There were several ways to send a ping. You could go to a web page and enter the URL of your blog. Or you could save the URL as a bookmark and click the bookmark when you updated. Or if you used blogging software like our Manila or Radio UserLand, or later EditThisPage.com or weblogs.com (which eventually hosted blogs itself), it could ping on your behalf, automatically. ",
+            "created": "Tue, 15 Oct 2024 17:09:51 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Aside: Here's a <a href=\"http://oldweblogscomblog.scripting.com/historyOfWeblogs\">snapshot</a> of the weblogs.com site, preserved. ",
+            "created": "Tue, 15 Oct 2024 17:42:18 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "A number of search sites appeared. And we were happy, until another <a href=\"https://en.wikipedia.org/wiki/Technorati\">developer</a>, funded by venture capitalists, who expected a return on their investment, built on our open and free <a href=\"http://scripting.com/publicfolder/misc/changes.xml\">changes.xml</a> list, started asking for and receiving pings on their own, and (key point) they didn't make their change list public. This struck me as highly un-weblike and unfair, but they could do it and we had to live with it. ",
+            "created": "Tue, 15 Oct 2024 17:09:48 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Based on what Matt has been saying it sounds to me like it's something like our experience. Except weblogs.com was a short term thing, and not a business, and it didn't last twenty years, and it didn't have a payroll to support. ",
+            "created": "Tue, 15 Oct 2024 17:12:15 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "But it still felt wrong that they weren't giving back as they received. If it had persisted like WordPress has, it would have eventually been a seriously diseconomic and unsustainable problem. And I can imagine I might write about it publicly as Matt has  and maybe even get a famous lawyer like <a href=\"https://en.wikipedia.org/wiki/Neal_Katyal\">Neal Katyal</a> to advise me. And here we are. ",
+            "created": "Tue, 15 Oct 2024 17:13:08 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Have we heard anything from the other side, or anyone who is familiar with what their position might be. Do they not feel obligated to support the continued development of WordPress or maybe there's another issue we haven't heard about. ",
+            "created": "Tue, 15 Oct 2024 17:14:00 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I can't imagine that Matt would make such a big deal out of this if it weren't actually a big deal. He probably knew in advance how disruptive this would be. And I imagine the others knew it would be too and counted on him not wanting to make a fuss. ",
+            "created": "Tue, 15 Oct 2024 17:14:38 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I have gotten embroiled in these kinds of things in the past, and I don't like it. I love to make software and make users happy and then make more software, round and round. Anything that involves lawyers is not me doing what I was made to do. ",
+            "created": "Tue, 15 Oct 2024 17:15:03 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "And I do see a silver lining. As with twitter-like systems, I now see the possibilty to help WordPress serve writers better in the future. Before this, people didn't think change was possible in the WordPress world, like they didn't see the possibility of change with Twitter. But now Twitter has quite a bit of viable competition. I know that WordPress could be better tuned for writers, and the product has a very nice API that would make it possible for lots of writing tools to flourish. It is a strong platform that's debugged, scaled, documented and worked on for a long time, and they don't tend to break users. And where commercial vendors like Facebook and Twitter often have excellent technology, ultimately they are run by execs and bankers who don't believe in being open, where this is something that has been deeply ingrained in the WordPress culture from the beginning and would be hard to change and that's a good thing for users and developers. ",
+            "created": "Tue, 15 Oct 2024 17:15:26 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's the exciting part -- between WordPress and Twitter lies a product that would bring the web back to life. Imagine a twitter-like system with the writers features of WordPress. Amazingly, we are on the cusp of that being a reality.",
+            "created": "Tue, 15 Oct 2024 17:31:29 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "There's lots of opportunity to better serve writers here, and that's what I love to do, and honestly I think Ghost and Substack have left themselves open to a writing environment built on WordPress that doesn't try to lock users in. And at the same time, I think we can use this platform to help all the twitter-like services to support all kinds of writing, not just severely limited tweets typed into \"tiny little text boxes\". Somewhere along the line they got the wrong idea that taking features out of the web was a good thing. I want to bring these features back so we can get going again with the web as a writer's platform. ",
+            "created": "Tue, 15 Oct 2024 17:18:45 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Anyway, I don't need to think anyone is right or wrong here, and I don't think anyone else should either. I think this platform is very nicely open and we can do lots of interesting new stuff here. I hope to open a new thread here, focused on writers and the web. It's been too long. ",
+            "created": "Tue, 15 Oct 2024 17:20:48 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
