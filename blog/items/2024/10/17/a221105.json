@@ -1,0 +1,7 @@
+{
+    "text": "I made the <a href=\"https://github.com/scripting/reallysimple\">reallySimple package</a> for Node.js because I wanted to make it as easy as possible to read feeds in Node apps. It should be as easy as reading a file. Give it the URL of a feed, get back a JavaScript object that's as simple as feeds are. It can read RSS, Atom and RDF feeds, but you get the same object regardless of what form the feed was in. I'm up for creating some example apps if you're interested. There is a very simple <a href=\"https://github.com/scripting/reallysimple/tree/main/example\">Hello World app</a> included in the package and a set of <a href=\"https://github.com/scripting/reallysimple/tree/main/demos\">demo apps</a>. It's MIT-licensed, so you can do whatever you want with the code. It would lovely to see it ported. The idea is to plant some seeds in the Node.js world to make it easy for developers to try out new ideas with feeds, figuring the easier it is, the more people will do it. Be creative. Blow our minds! :-)",
+    "created": "Thu, 17 Oct 2024 22:11:05 GMT",
+    "type": "outline",
+    "image": "https://imgs.scripting.com/2022/10/24/rssCoffeeMug.png",
+    "flInCalendar": true
+}
