@@ -1,0 +1,54 @@
+{
+    "text": "What about Ghost?",
+    "created": "Tue, 22 Oct 2024 16:16:25 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "<b>Bob Sassone writes via email</b>:",
+            "created": "Tue, 22 Oct 2024 16:16:33 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "You said on your blog that you can't imagine moving from WordPress because \"there isn't anything else out there that's offering something new for the writers.\" What about Ghost? ",
+            "created": "Tue, 22 Oct 2024 16:18:45 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Bob's site is <a href=\"https://www.bobsassone.com/\">bobsassone.com</a>.",
+            "created": "Tue, 22 Oct 2024 16:21:24 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<b>My response</b>:",
+            "created": "Tue, 22 Oct 2024 16:18:16 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Sorry it wasn't clear -- but as far as I know, Ghost isn't built on WordPress. It's a completely different product. ",
+            "created": "Tue, 22 Oct 2024 16:19:50 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "My writing app runs on WordPress. So you can use it with your existing wordpress.com sites.",
+            "created": "Tue, 22 Oct 2024 16:20:14 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's a browser-based JavaScript app that hooks into WordPress via the wpidentity package I wrote.",
+            "created": "Tue, 22 Oct 2024 16:31:02 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "And the codebase I've built will support lots of editors built using WordPress as the backend. ",
+            "created": "Tue, 22 Oct 2024 16:20:42 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "A <a href=\"https://github.com/scripting/Scripting-News/issues/312\">place</a> to ask questions. ",
+            "created": "Tue, 22 Oct 2024 16:28:48 GMT",
+            "isComment": "true",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
