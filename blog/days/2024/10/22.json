@@ -1,0 +1,79 @@
+{
+    "created": "2024-10-22T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "22",
+    "path": "2024/10/22",
+    "text": "October 22",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "What about Ghost?",
+            "created": "Tue, 22 Oct 2024 16:16:25 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<b>Bob Sassone writes via email</b>:",
+                    "created": "Tue, 22 Oct 2024 16:16:33 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You said on your blog that you can't imagine moving from WordPress because \"there isn't anything else out there that's offering something new for the writers.\" What about Ghost? ",
+                    "created": "Tue, 22 Oct 2024 16:18:45 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Bob's site is <a href=\"https://www.bobsassone.com/\">bobsassone.com</a>.",
+                    "created": "Tue, 22 Oct 2024 16:21:24 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<b>My response</b>:",
+                    "created": "Tue, 22 Oct 2024 16:18:16 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Sorry it wasn't clear -- but as far as I know, Ghost isn't built on WordPress. It's a completely different product. ",
+                    "created": "Tue, 22 Oct 2024 16:19:50 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "My writing app runs on WordPress. So you can use it with your existing wordpress.com sites.",
+                    "created": "Tue, 22 Oct 2024 16:20:14 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's a browser-based JavaScript app that hooks into WordPress via the wpidentity package I wrote.",
+                    "created": "Tue, 22 Oct 2024 16:31:02 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And the codebase I've built will support lots of editors built using WordPress as the backend. ",
+                    "created": "Tue, 22 Oct 2024 16:20:42 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A <a href=\"https://github.com/scripting/Scripting-News/issues/312\">place</a> to ask questions. ",
+                    "created": "Tue, 22 Oct 2024 16:28:48 GMT",
+                    "isComment": "true",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "The million-plus Americans Trump killed",
+            "created": "Tue, 22 Oct 2024 16:15:08 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Yesterday I <a href=\"http://scripting.com/2024/10/21.html#a131028\">posted a bit</a> about the \"million-plus Americans who died from Covid during Trump's tenure.\" It wasn't worded carefully enough, I should've had a lawyer review it. Yes, a lot of them died during Biden's tenure too. But I don't think of it that way. I think of the big con-job Trump pulled, first denying there was a virus, then saying it would be done by Easter, then telling people not to wear masks, then ridiculing Biden because he was isolating during the campaign, and of course injecting bleach and all the other <a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC7685699/\">bullshit</a>. Then the mofo got Covid, and our doctors saved his life, and he never said geez I was wrong about this, it's a killer, and btw thanks for saving my life. So yes this was yet another mess a Democrat had to clean up left by his Republican predecessor. Recall the economic collapse Bush left for Obama. And btw, I used to vote Republican, so don't tell me I'm biased. There are a lot of lawyers out there who think a turn of a word can exonerate the depravity and incompetence of Trump. Hopefully he's the worst the Repubs have to throw at us, but who knows what they will come up with. And for crying out loud, if you haven't voted yet, save us from concentration camps and <a href=\"https://www.pbs.org/newshour/politics/watch-where-rnc-delegates-stand-on-immigration\">mass deportation</a>. One million Americans dead is far too many, let's not try to top that. Thanks.  ",
+                    "created": "Tue, 22 Oct 2024 12:18:04 GMT",
+                    "type": "outline",
+                    "image": "https://imgs.scripting.com/2020/02/23/ronaldMcDonaldWithBomb.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
