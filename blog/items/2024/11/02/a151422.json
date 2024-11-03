@@ -1,0 +1,7 @@
+{
+    "text": "Programming language design should follow the half of <a href=\"https://en.wikipedia.org/wiki/Robustness_principle#:~:text=It%20is%20often%20reworded%20as,an%20early%20specification%20of%20TCP.\">Postel's Principle</a> that says be \"conservative in what you send.\" There should be one way to do anything, not many. That way I can include your code in mine and vice versa. I can understand what you're doing. Tools can be developed that make it even easier to do things the only way they work. New programming languages if they really are necessary should strive to simplify the programming model, there should be less things for the developer to worry about, the more easily new ideas can be developed, the less attention you have to pay to how you'll do something over what it does. I actually don't support the other half of Postel, in everything but user interface where I do support it. I don't think in general software interfaces should be liberal with what they understand because that defeats the first half. They sort of zero each other out. ",
+    "created": "Sat, 02 Nov 2024 15:14:22 GMT",
+    "type": "outline",
+    "image": "https://imgs.scripting.com/2021/01/08/lasorda.png",
+    "flInCalendar": true
+}
