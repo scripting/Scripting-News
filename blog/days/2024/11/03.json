@@ -1,0 +1,62 @@
+{
+    "created": "2024-11-03T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "03",
+    "path": "2024/11/03",
+    "text": "November 03",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "About polls, I learned how they work and how much they are a <a href=\"https://en.wikipedia.org/wiki/Ouija\">Ouija board</a>, where the reports are tuned up based on the pollsters assumptions about who are the real voters, and account for the limited people who can be polled. They're trying to estimate what millions of people will do by talking with a few hundred. So they read each others' work, and try not to be too far off the consensus. It's at best an art, at worst they're just press releases designed to get the ad money to flow in certain directions. Don't overlook that the money is flowing to the same businesses that are choosing which polls to report on. Most of what the news orgs report on, it makes it into a sport like the NBA or MLB, but there at least there's objective news to report on, you know -- the score of each game, how many runs were scored, who got injured, fired, traded. In politics, there is no objective news, and if there were, the journalists we have don't report it. There's a lot of inputs that are connected to the outputs, conflicts of interest everywhere. Even so, the <a href=\"https://www.memeorandum.com/241102/p54#a241102p54\">top item</a> on <a href=\"https://imgs.scripting.com/2024/11/03/iowapoll.png\">Memeorandum</a> is about a <a href=\"https://www.desmoinesregister.com/story/news/politics/iowa-poll/2024/11/02/iowa-poll-kamala-harris-leads-donald-trump-2024-presidential-race/75354033007/\">poll in Iowa</a> that says Harris is ahead. Iowa was never thought to be in play. Yes, I too am addicted. Endlessly fascinated. Maybe we'll survive next week after all? Hope.",
+            "created": "Sun, 03 Nov 2024 15:18:47 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2024/07/23/hopeKamala.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://www.facebook.com/photo/?fbid=10104718207905344&set=a.964794816304\">Heard on Facebook</a>: Next week has been exhausting. <i>Yes.</i>",
+            "created": "Sun, 03 Nov 2024 15:28:44 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Could a Musk buy Bluesky?",
+            "created": "Sun, 03 Nov 2024 14:53:56 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://pluralistic.net/2024/11/02/ulysses-pact/#tie-yourself-to-a-federated-mast\">Cory Doctorow</a>: \"I will never again devote my energies to building up an audience on a platform whose management can sever my relationship to that audience at will.\" It's a good practice, and while I completely support it, I am part of several communities that could remove me without recourse. I do it because I value the people in the community, and feel that life is too short to wait for everyone to get it right. ",
+                    "created": "Sun, 03 Nov 2024 14:39:11 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Doctorow was writing about Bluesky, and once again, on Bluesky a <a href=\"https://bsky.app/profile/scripting.com/post/3l7ygxnh7ce2a\">discussion</a> starts on what it would take for Bluesky to attract developers, and each time I am told that they have done enough, and I go away thinking that their pitch is a scam, and they're building value in a user base that they will sell. They certainly could do it, and for all we know the founders may have already sold some of their stock in the <a href=\"https://bsky.social/about/blog/10-24-2024-series-a\">latest investment round</a> which valued the company at $x billion. (I did a <a href=\"https://www.google.com/search?q=bluesky+investment+round+%2415m\">search</a> to find the evaluation but it appears to have not been announced.) ",
+                    "created": "Sun, 03 Nov 2024 14:54:29 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I gave them a roadmap, again, of how to demonstrate that they're open, and finally <a href=\"https://bsky.app/profile/scripting.com/post/3l7zvw43d752a\">concluded</a> that the only way to <i>really</i> do it is to \"provide a download that you can install on any popular operating system to get an instant blue sky network, running on its own without any help from anyone else. Then you can claim to be really open and until then there will be a lot of confusion.\" (And I was generous at that. More accurately, people with experience in tech will be certain this is yet another deal where the founders get rich, where the users are the product and have read too much into their promise of being open.) ",
+                    "created": "Sun, 03 Nov 2024 14:55:10 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'm still on Bluesky but I expect them to be another Twitter, which btw had an open API too, and it's pretty good, but they never offered the option of people running their own twitters. That would have been good protection against a Musk buying them out and turning us into pawns in his plan for world domination. Do we really want to help someone else build one of those? ",
+                    "created": "Sun, 03 Nov 2024 14:55:24 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "In early 2017 I <a href=\"http://scripting.com/2017/01/14/whatIfTwtrIsBoughtByARepub.html\">observed</a> that Twitter had just been used to route around journalism and elect a president. This value wasn't on their balance sheet as an asset. I felt its stock was vastly underpriced. Exactly as it turned out when Musk bought it. Everyone still thinks he paid too much, at this moment it could possibly gain him control of part of the US government's $6 trillion per year budget early next year, and if they start selling the assets of the government he could be in the best position to buy them at pennies on the dollar, or take a percentage of each sale. He could probably start borrowing against it the day after the election is called for Trump.",
+                    "created": "Sun, 03 Nov 2024 14:56:11 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "In the title I ask if a Musk could buy Bluesky, it's possible they have a way to prevent that in the design of their corporation, that's why it's a question. But if the price were right maybe the founders would sell out even if they didn't have to. ",
+                    "created": "Sun, 03 Nov 2024 14:59:37 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
