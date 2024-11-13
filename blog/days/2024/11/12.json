@@ -1,0 +1,23 @@
+{
+    "created": "2024-11-12T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "12",
+    "path": "2024/11/12",
+    "text": "November 12",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "If Bluesky is open source, which it <a href=\"https://chatgpt.com/share/673392ed-4e24-8012-8241-b4d3118d49d8\">appears to be</a>, someone who has time and has experience packaging products, should create a Bluesky distribution for a few popular hosting services, so installing a new instance is as simple as it can possibly be. One click? That would be awesome. We need to have <i>thousands</i> of these running. If it really is like the web, as they say it is, then it should be like the web in every way. There are lots of websites. If you sell your website to a billionaire, that has no effect on my website. Right now we are totally vulnerable to the Bluesky folk selling their service to another country, or <i>our</i> country for that matter -- or a billionaire, or whoever. Whoever did this packaging job would deserve the Nobel Peace Prize. Anticipating the objection that Mastodon is already doing this -- it is not. Setting up and using a Mastodon instance is good for nerds. Not for poets. ",
+            "created": "Tue, 12 Nov 2024 17:32:55 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/11/30/goodhumortruck.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "My guess is that they haven't released enough code to run a Bluesky of your own, because all the answers from people who say they know say the same thing -- \"It doesn't work that way.\" You <i>could</i> write your own, but if we were to do that, why use their one-off API, use a standard instead, and we might have a chance to interop with other systems in a meaningful way. I don't blame them for wanting to cash out, but I do blame them for conning people into believing it's some kind of escape. Until I hear otherwise Bluesky is a dead-end, not worth investing your hope in. If you're migrating from Twitter this is no better. Keep looking. But I promise to let you know if I get any info that changes my opinion, so if I've got it wrong, people from Bluesky, just answer the freaking question in the post at the top of this page. Thanks.",
+            "created": "Tue, 12 Nov 2024 22:41:24 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
