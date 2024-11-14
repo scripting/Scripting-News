@@ -1,0 +1,56 @@
+{
+    "text": "Are you the nerd of the year??",
+    "created": "Wed, 13 Nov 2024 17:23:37 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Whenever you ask for something with Bluesky they tell you about how a user account is like a website, you just have to make it work a certain way, that some devs have mastered, and I guess I could too, but right now all my attention is focused on WordPress and getting it to work well with ActivityPub so my editor can get directly into the Mastodon network and possibly with Threads too. ",
+            "created": "Wed, 13 Nov 2024 17:23:47 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "But what about Bluesky which is growing like a weed now??",
+            "created": "Wed, 13 Nov 2024 17:29:15 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "It might be easy for the right person.",
+            "created": "Wed, 13 Nov 2024 17:25:09 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "Come up with an interface that makes it so that a WordPress blog is just a user on the Bluesky network.",
+                    "created": "Wed, 13 Nov 2024 17:25:22 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "They have a nice API, I've just spent a year implementing on top of it. I imagine for someone who knows both WordPress and Bluesky this might be a weekend project? ",
+                    "created": "Wed, 13 Nov 2024 17:25:43 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Do it, and blow our minds! There's a lot of content out there in WordPress and a lot of people publish on it.  ",
+                    "created": "Wed, 13 Nov 2024 17:26:20 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And the best part of it is that it totally drives adoption of \"textcasting\" which is my not so hidden agenda. :smile:",
+                    "created": "Wed, 13 Nov 2024 17:28:14 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And for the people who are starting to think it's only an ActivityPub thing, think again. ",
+                    "created": "Wed, 13 Nov 2024 17:28:25 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "If you do this you might not win the Nobel Peace Prize but you will be Nerd of the Year in my book! ",
+            "created": "Wed, 13 Nov 2024 17:29:52 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
