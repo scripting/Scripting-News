@@ -1,0 +1,125 @@
+{
+    "created": "2024-11-13T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "13",
+    "path": "2024/11/13",
+    "text": "November 13",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "A 27-minute post-election ramble <a href=\"https://shownotes.scripting.com/scripting/2024/11/13/aWednesdayMorningRamble.html\">podcast</a>. ",
+            "created": "Wed, 13 Nov 2024 15:00:24 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I am working on a text editor for WordPress using MediumEditor, but I save the text in Markdown and when I reload the Markdown text I regenerate the HTML. I think the social web should exchange Markdown as the canonical form of web text. It has the right set of features, it's <a href=\"http://scripting.com/2022/08/25/210902.html\">Just Enough HTML</a>.  \n",
+            "created": "Wed, 13 Nov 2024 16:27:40 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "There isn’t a single social web network that I like pouring my creativity into. I feel like I’m being used not appreciated. There’s nothing in it for me. I had a similar feeling for Twitter, but they were the only one. Now there are a bunch, and I honestly don't care about any of them, esp now that the election is over. I think this whole idea of feeding the greed of a bunch of tech people is over. If there's a good place to gather, with a small number of people I relate to as people, then I'm up for that, but none of these services meet that need.",
+            "created": "Wed, 13 Nov 2024 21:55:56 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "ChatGPT can't remember my coding conventions. It always falls back to using features of JavaScript I told it not to use. I indent my code according to the way it works in an outliner, so I can't use their code without having to manually modify it. I haven't forgotten that I'm the human and it's the computer. Its memory is supposed to be perfect. And I am a paying customer, btw.  ",
+            "created": "Wed, 13 Nov 2024 15:38:55 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Are you the nerd of the year??",
+            "created": "Wed, 13 Nov 2024 17:23:37 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Whenever you ask for something with Bluesky they tell you about how a user account is like a website, you just have to make it work a certain way, that some devs have mastered, and I guess I could too, but right now all my attention is focused on WordPress and getting it to work well with ActivityPub so my editor can get directly into the Mastodon network and possibly with Threads too. ",
+                    "created": "Wed, 13 Nov 2024 17:23:47 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But what about Bluesky which is growing like a weed now??",
+                    "created": "Wed, 13 Nov 2024 17:29:15 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It might be easy for the right person.",
+                    "created": "Wed, 13 Nov 2024 17:25:09 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Come up with an interface that makes it so that a WordPress blog is just a user on the Bluesky network.",
+                            "created": "Wed, 13 Nov 2024 17:25:22 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "They have a nice API, I've just spent a year implementing on top of it. I imagine for someone who knows both WordPress and Bluesky this might be a weekend project? ",
+                            "created": "Wed, 13 Nov 2024 17:25:43 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Do it, and blow our minds! There's a lot of content out there in WordPress and a lot of people publish on it.  ",
+                            "created": "Wed, 13 Nov 2024 17:26:20 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "And the best part of it is that it totally drives adoption of \"textcasting\" which is my not so hidden agenda. :smile:",
+                            "created": "Wed, 13 Nov 2024 17:28:14 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "And for the people who are starting to think it's only an ActivityPub thing, think again. ",
+                            "created": "Wed, 13 Nov 2024 17:28:25 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If you do this you might not win the Nobel Peace Prize but you will be Nerd of the Year in my book! ",
+                    "created": "Wed, 13 Nov 2024 17:29:52 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "2024 is different from 2016",
+            "created": "Wed, 13 Nov 2024 14:41:32 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "It's good to have a record of the things you posted and when you posted it. On August 12 of this year, I tweeted <a href=\"https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3kzjvirjq3d2q\">this</a>: \"When the NYT makes Trump sound like a reasonable candidate that a sane person might vote for, remember this day.\" I included a <a href=\"https://imgs.scripting.com/2024/11/13/trumpIncitesMob.png\">screen shot</a> of the front page of the NYT on Jan 7, 2021. One in three Trump voters still <a href=\"https://x.com/froomkin/status/1856384929476624841\">watch mainstream news</a>, which follows the lead of the NYT, and if they had been straight with us, perhaps enough people who like Trump's style would have realized the danger, and voted in a conservative way, ie to conserve the Constitution. Because of how they covered it, we now get to re-run the 2016 experiment all over again. ",
+                    "created": "Wed, 13 Nov 2024 13:40:05 GMT",
+                    "type": "outline",
+                    "image": "https://imgs.scripting.com/2024/11/13/mobIncited.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But, as <a href=\"https://podcasts.apple.com/us/podcast/trump-won-what-now-with-heather-cox-richardson/id1583132133?i=1000676185735\">Heather Cox Richardson</a> points out in Jon Stewart's weekly podcast (a must-listen) -- we have more experience too, and perhaps will know better how to deal with Trump and know that <b>his bark is often worse than his bite.</b> I have to say as the new reality sinks in, I'm not as scared as I was on Election Night last week or even Election Night in 2016. A lot of people will sell out this time who didn't before. But the problems of climate change have gotten worse in the intervening years,  and people feel it in their bones, pocketbooks and fears. You think inflation was bad? This will be far worse and it's happening now, and nothing we can do at a human scale will make it go away. ",
+                    "created": "Wed, 13 Nov 2024 14:44:20 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "We're dealing with a very unusual drought in the eastern US now. Fires are breaking out where we never used to have them. Yeah this shit is real, and even people who don't believe in science are feeling it. ",
+                    "created": "Wed, 13 Nov 2024 14:45:01 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "As someone once said, you should <a href=\"https://www.reddit.com/r/Stoicism/comments/xdc8t4/never_let_a_good_crisis_go_to_waste/\">never waste a good crisis</a>. A lot of other people feel compelled to move. Unfortunately some are moving to the wrong place, as they always do. Making change isn't easy, but is possible, if you understand how people move. As they try to figure out what the Dem's failed at, that's it. ",
+                    "created": "Wed, 13 Nov 2024 14:45:22 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Skate to where the <a href=\"https://www.reddit.com/r/RocketLeague/comments/1bvv11l/i_skate_to_where_the_puck_is_going_to_be_not/\">puck will be</a>, not where it was, as another famous philosopher once said. And people don't listen to their friends, they listen to their competitors (which I said, sadly, but then put that fact to use to get various standards to fly by without debate). There is a method to human madness, in other words, imho.",
+                    "created": "Wed, 13 Nov 2024 14:48:54 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
