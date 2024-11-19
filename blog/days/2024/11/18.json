@@ -1,0 +1,95 @@
+{
+    "created": "2024-11-18T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "18",
+    "path": "2024/11/18",
+    "text": "November 18",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Bluesky feature request",
+            "created": "Mon, 18 Nov 2024 14:27:16 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I posted a <a href=\"https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3lb46hc76n22p\">feature request</a> on Bluesky that has gotten a lot of flow. ",
+                    "created": "Mon, 18 Nov 2024 14:27:20 GMT",
+                    "subs": [
+                        {
+                            "text": "Bluesky devs.. How about a compromise. Support inbound RSS. Let me enter the URL of an RSS feed in settings. I'll ping a fixed location when the feed updates. Would allow the same flow to go to other systems. This would help a lot. ",
+                            "created": "Mon, 18 Nov 2024 14:27:41 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<b>Discussion</b>",
+                    "created": "Mon, 18 Nov 2024 14:31:48 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Imagine a Bluesky-like network that you could post to through any blogging tool that can create an RSS feed. Imagine the new tools that could be created. All of a sudden a whole world of writing tools opens up.",
+                            "created": "Mon, 18 Nov 2024 14:27:56 GMT",
+                            "image": "https://imgs.scripting.com/2024/06/11/nakedJenToday.png",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "It should happen faster than the proprietary format that Bluesky defined, because RSS is so well understood in the developer world. Lots of software out there for reading and writing. I have a couple of toolkits of my own, for JavaScript, MIT licensed. In use in deployed software so they work pretty well. (Knock wood.) ",
+                            "created": "Mon, 18 Nov 2024 14:33:59 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Also it would create an incentive for competitors to follow suit, and if they do we suddenly have a strong and simple and broadly understood basis for interop. It's a brilliant competitive move, if they really intend to give users choice, to not lock them in. It challenges their competitors to follow suit. I don't doubt that Mastodon would do it. And Threads might even do it if they're feeling competitive with Bluesky. They've already chosen ActivityPub as a basis for interop, but that's been slow to develop. RSS is so simple and well understood it should take a small fraction of the time to adapt.",
+                            "created": "Mon, 18 Nov 2024 14:28:47 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Bluesky has already pioneered in providing excellent outbound RSS support. I helped them do it, a while back, before the huge onslaught of users. ",
+                            "created": "Mon, 18 Nov 2024 14:30:43 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "The fact that so many users loved the idea is enough to have made it worthwhile to suggest it. But I wouldn't be tremendously surprised if they actually did it. ",
+                            "created": "Mon, 18 Nov 2024 14:31:14 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Feedback on sez.us sign up",
+            "created": "Mon, 18 Nov 2024 14:17:35 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Why I haven't created an account on <a href=\"https://sez.us/\">sez.us</a> yet. ",
+                    "created": "Mon, 18 Nov 2024 14:17:42 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "They ask for my first and last name before I sign up. Ask for that info later, after I've created an account. I gave it a fake name to get to the next screen.",
+                            "created": "Mon, 18 Nov 2024 14:18:22 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Then they ask for my phone number. That's when I hit the back button. I already get too much spam on my phone, and the filters aren't good there. I am happy to provide an email address as my identifier as I do on all other systems. Later, if I become a regular user, I don't mind providing the phone number as part of 2-factor identity, but not up front.",
+                            "created": "Mon, 18 Nov 2024 14:18:47 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Also I don't like white on black letters. It's hard for me to read. All the competitive systems use black on white background. Offer it as an option if it's important to you, but please default to black on white.",
+                            "created": "Mon, 18 Nov 2024 14:19:55 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
