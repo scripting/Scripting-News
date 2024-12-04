@@ -1,0 +1,62 @@
+{
+    "text": "We need a BDG for Bluesky",
+    "created": "Tue, 03 Dec 2024 16:27:08 GMT",
+    "type": "outline",
+    "description": "Developers are often overly busy, so we need to get right to the problem before understanding all the theory behind it.",
+    "subs": [
+        {
+            "text": "I was very happy to see <a href=\"https://bsky.app/profile/pfefferle.org/post/3lcfkqqlcfk2j\">this post</a> on Bluesky this morning from a friend, Matthias Pfefferle, who works at Automattic on the connection between WordPress and ActivityPub. ",
+            "created": "Tue, 03 Dec 2024 16:27:19 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "In his post he asks if there is a BDG for creating a PDS for Bluesky. ",
+            "created": "Tue, 03 Dec 2024 16:59:43 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "A BDG is a <a href=\"https://www.google.com/search?q=what+is+a+busy+developer%27s+guide\">Busy Developer's Guide</a>, something we did <a href=\"https://web.archive.org/web/20041009205034/http://www.soapware.org/bdg\">first</a> <a href=\"http://scripting.com/davenet/2001/04/04/aBusyDevelopersGuideToSoap.html\">for SOAP</a> in 2001 when we were trying to figure out how to map <a href=\"http://xmlrpc.com/\">XML-RPC</a> onto it.  Since then there have been lots of BDGs for all kinds of things. It's a useful concept because developers are often overly busy, so we need to get right to the problem before understanding all the theory behind it. We need an example that works, and we'll just do what it does. That also guarantees interop, which is the point of course. ",
+            "created": "Tue, 03 Dec 2024 16:59:51 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Now we have a similar problem. Bluesky stores a user's writing in a PDS. If we can generate a PDS for our blogs, theoretically Bluesky should be able to see them and use them as if they were created inside Bluesky. If it were easy to understand we could get busy converting everything so it works there. We can do that because we're using popular simple formats like JSON (see below) to organize our work. ",
+            "created": "Tue, 03 Dec 2024 16:31:20 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "For example this is how I use JSON for my blog, the one you're reading right now.",
+            "created": "Tue, 03 Dec 2024 16:33:43 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "Here's a <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog/items\">folder</a> in a repository on GitHub. Broken down into <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog/items/2020\">years</a>, <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog/items/2020/07\">months</a>, <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog/items/2020/07/18\">days</a>, and posts. ",
+                    "created": "Tue, 03 Dec 2024 16:34:32 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Each post is a JSON file, <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/items/2019/03/03/a025810.json\">like this</a>. It has three bits of data, the text of the post, when it was created (which also serves as a unique ID, no two posts have the same creation date) and type. This item has a type of outline, because it can have structure, though this post does not. ",
+                    "created": "Tue, 03 Dec 2024 16:35:08 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/items/2022/07/06/a232835.json\">another post</a> that does have structure. In Bluesky it would be represented as a thread. ",
+                    "created": "Tue, 03 Dec 2024 16:39:31 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's the question. What's the absolutely simplest way to have that structure of posts represented in a Bluesky PDS?",
+            "created": "Tue, 03 Dec 2024 16:33:55 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "PS: I had a <a href=\"https://chatgpt.com/share/674f3d6c-4904-8012-b071-953862cd5b4a\">conversation</a> with ChatGPT to scope this out. ",
+            "created": "Tue, 03 Dec 2024 17:19:02 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
