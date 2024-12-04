@@ -1,0 +1,360 @@
+{
+    "created": "2024-12-03T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "03",
+    "path": "2024/12/03",
+    "text": "December 03",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=sI7UOwOhKEs\">Where is the love?</a>",
+            "created": "Tue, 03 Dec 2024 17:29:21 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "President Biden <a href=\"https://en.wikipedia.org/wiki/Hunter_Biden#Pardon_of_criminal_offenses\">pardoned</a> his son. I have no problem with that, because his son was accused as a proxy for his father. If there is any legitimate use of presidential pardons, this is it. Perhaps relatives of the president should also be immune from prosecution. Does anyone really think <a href=\"https://en.wikipedia.org/wiki/Hunter_Biden\">Hunter Biden</a> would have been tried for such petty crimes if he weren't Biden's son? The journalists, as always, have equated two <a href=\"https://www.npr.org/2024/11/11/nx-s1-5181960/can-trump-pardon-as-promised-people-convicted-in-connection-with-the-jan-6-attack\">very different</a> things. They're playing their own game, trying to self-pardon in a way, to avoid being a target for the incoming administration, which we're all scared of, and I guess that's the point, to scare us. ",
+            "created": "Tue, 03 Dec 2024 12:48:43 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2024/08/13/trafficUptight.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, another thing journalism is getting wrong, the FBI is <a href=\"https://www.theatlantic.com/magazine/archive/2022/12/j-edgar-hoover-fbi-influence/671900/?gift=f35zZN0v_gDFE8xNwlQAHecEiPqEe5Dt3lYjNlWgAmg&utm_source=twitter&utm_medium=social&utm_campaign=social\">not the squeaky clean</a> organization they present it as. ",
+            "created": "Tue, 03 Dec 2024 12:58:09 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "We're <a href=\"https://bsky.app/profile/pfefferle.org/post/3lcfkqqlcfk2j\">looking</a> for a <a href=\"https://www.google.com/search?q=site%3Ascripting.com+%22Busy+Developer%27s+Guide%22\">Busy Developer's Guide</a> to Bluesky's feed format. ",
+            "created": "Tue, 03 Dec 2024 13:21:36 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I frequently have trouble remembering the names of things I want to use in my writing. I've come to rely on ChatGPT for help. So I <a href=\"https://chatgpt.com/share/674f36d9-9990-8012-8971-a2019ac8808b\">wrote</a> to ChatGPT: \"I'm trying to remember the name of the stone that has the key to understanding a language.\" To which it replied: \"You're likely thinking of the <a href=\"https://en.wikipedia.org/wiki/Rosetta_Stone\">Rosetta Stone</a>. It was crucial in deciphering Egyptian hieroglyphs because it featured the same text written in three scripts: Greek, Demotic, and hieroglyphic. The Greek text provided the key to understanding the other two scripts.\"",
+            "created": "Tue, 03 Dec 2024 16:42:14 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "We need a BDG for Bluesky",
+            "created": "Tue, 03 Dec 2024 16:27:08 GMT",
+            "type": "outline",
+            "description": "Developers are often overly busy, so we need to get right to the problem before understanding all the theory behind it.",
+            "subs": [
+                {
+                    "text": "I was very happy to see <a href=\"https://bsky.app/profile/pfefferle.org/post/3lcfkqqlcfk2j\">this post</a> on Bluesky this morning from a friend, Matthias Pfefferle, who works at Automattic on the connection between WordPress and ActivityPub. ",
+                    "created": "Tue, 03 Dec 2024 16:27:19 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "In his post he asks if there is a BDG for creating a PDS for Bluesky. ",
+                    "created": "Tue, 03 Dec 2024 16:59:43 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A BDG is a <a href=\"https://www.google.com/search?q=what+is+a+busy+developer%27s+guide\">Busy Developer's Guide</a>, something we did <a href=\"https://web.archive.org/web/20041009205034/http://www.soapware.org/bdg\">first</a> <a href=\"http://scripting.com/davenet/2001/04/04/aBusyDevelopersGuideToSoap.html\">for SOAP</a> in 2001 when we were trying to figure out how to map <a href=\"http://xmlrpc.com/\">XML-RPC</a> onto it.  Since then there have been lots of BDGs for all kinds of things. It's a useful concept because developers are often overly busy, so we need to get right to the problem before understanding all the theory behind it. We need an example that works, and we'll just do what it does. That also guarantees interop, which is the point of course. ",
+                    "created": "Tue, 03 Dec 2024 16:59:51 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Now we have a similar problem. Bluesky stores a user's writing in a PDS. If we can generate a PDS for our blogs, theoretically Bluesky should be able to see them and use them as if they were created inside Bluesky. If it were easy to understand we could get busy converting everything so it works there. We can do that because we're using popular simple formats like JSON (see below) to organize our work. ",
+                    "created": "Tue, 03 Dec 2024 16:31:20 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "For example this is how I use JSON for my blog, the one you're reading right now.",
+                    "created": "Tue, 03 Dec 2024 16:33:43 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Here's a <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog/items\">folder</a> in a repository on GitHub. Broken down into <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog/items/2020\">years</a>, <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog/items/2020/07\">months</a>, <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog/items/2020/07/18\">days</a>, and posts. ",
+                            "created": "Tue, 03 Dec 2024 16:34:32 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Each post is a JSON file, <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/items/2019/03/03/a025810.json\">like this</a>. It has three bits of data, the text of the post, when it was created (which also serves as a unique ID, no two posts have the same creation date) and type. This item has a type of outline, because it can have structure, though this post does not. ",
+                            "created": "Tue, 03 Dec 2024 16:35:08 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Here's <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/items/2022/07/06/a232835.json\">another post</a> that does have structure. In Bluesky it would be represented as a thread. ",
+                            "created": "Tue, 03 Dec 2024 16:39:31 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's the question. What's the absolutely simplest way to have that structure of posts represented in a Bluesky PDS?",
+                    "created": "Tue, 03 Dec 2024 16:33:55 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: I had a <a href=\"https://chatgpt.com/share/674f3d6c-4904-8012-b071-953862cd5b4a\">conversation</a> with ChatGPT to scope this out. ",
+                    "created": "Tue, 03 Dec 2024 17:19:02 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "All the people on Patel's list",
+            "created": "Tue, 03 Dec 2024 19:02:02 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "In <a href=\"https://www.amazon.com/s?k=government+gangsters&hvadid=676936599591&hvdev=c&hvlocphy=1023511&hvnetw=g&hvqmt=e&hvrand=10163969034705884545&hvtargid=kwd-1905190322044&hydadcr=22167_13517494&tag=googhydr-20&ref=pd_sl_1ktex8f0as_e\">Government Gangsters</a>, Kash Patel identifies 60 individuals he alleges are part of a Deep State undermining the US government. \n",
+                    "created": "Tue, 03 Dec 2024 19:02:20 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Michael Atkinson: Former Inspector General of the Intelligence Community.",
+                            "created": "Tue, 03 Dec 2024 19:02:50 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Lloyd Austin: Defense Secretary under President Joe Biden.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Brian Auten: Supervisory Intelligence Analyst, FBI.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "James Baker: Former General Counsel for the FBI and former Deputy General Counsel at Twitter.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Bill Barr: Former Attorney General under Trump.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "John Bolton: Former National Security Adviser under Trump.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Stephen Boyd: Former Chief of Legislative Affairs, FBI.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Joe Biden: President of the United States.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "John Brennan: Former CIA Director under President Barack Obama.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "John Carlin: Acting Deputy Attorney General, previously led DOJ’s National Security Division under Trump.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Eric Ciaramella: Former National Security Council staffer during the Obama and Trump administrations.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Pat Cipollone: Former White House Counsel under Trump.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "James Clapper: Former Director of National Intelligence under Obama.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Hillary Clinton: Former Secretary of State and presidential candidate.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "James Comey: Former FBI Director.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Elizabeth Dibble: Former Deputy Chief of Mission, U.S. Embassy, London.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Mark Esper: Former Secretary of Defense under Trump.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Alyssa Farah: Former Director of Strategic Communications under Trump.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Evelyn Farkas: Former Deputy Assistant Secretary of Defense for Russia, Ukraine, Eurasia under Obama.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Sarah Isgur Flores: Former DOJ Head of Communications under Trump.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Merrick Garland: Attorney General under Biden.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Stephanie Grisham: Former Press Secretary under Trump.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Kamala Harris: Vice President under Biden; former presidential candidate.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Gina Haspel: CIA Director under Trump.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Fiona Hill: Former staffer on the National Security Council.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Curtis Heide: FBI Agent.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Eric Holder: Former Attorney General under Obama.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Robert Hur: Special Counsel who investigated Biden over mishandling of classified documents.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Cassidy Hutchinson: Aide to Trump Chief of Staff Mark Meadows.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Nina Jankowicz: Former Executive Director, Disinformation Governance Board under Biden.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Lois Lerner: Former IRS Director under Obama.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Loretta Lynch: Former Attorney General under Obama.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Charles Kupperman: Former Deputy National Security Adviser under Trump.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "General Kenneth McKenzie, Ret.: Former Commander of United States Central Command.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Andrew McCabe: Former FBI Deputy Director under Trump.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Ryan McCarthy: Former Secretary of the Army under Trump.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Mary McCord: Former Acting Assistant Attorney General for National Security under Obama.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Denis McDonough: Former Chief of Staff for Obama, Secretary of Veterans Affairs under Biden.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "General Mark Milley, Ret.: Former Chairman, Joint Chiefs of Staff.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Lisa Monaco: Deputy Attorney General under Biden.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Sally Moyer: Former Supervisory Attorney, FBI.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Robert Mueller: Former FBI Director, Special Counsel for Russiagate.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Bruce Ohr: Former Associate Deputy Attorney General under Obama and Trump.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Nellie Ohr: Wife of Bruce Ohr and former CIA employee.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Lisa Page: Former Legal Counsel for Deputy Director Andrew McCabe at FBI; exchanged texts about Trump with Peter Strzok.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Pat Philbin: Former Deputy White House Counsel under Trump.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "John Podesta: Former Counselor to Obama; Senior Adviser to Biden on Climate Policy.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Samantha Power: Former Ambassador to the United Nations under Obama, Administrator of USAID under Biden.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Bill Priestap: Former Assistant Director for Counterintelligence, FBI under Obama.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Susan Rice: Former National Security Adviser under Obama, Director of the Domestic Policy Council under Biden.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Rod Rosenstein: Former Deputy Attorney General under Trump.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Peter Strzok: Former Deputy Assistant Director for Counterintelligence, FBI; exchanged texts about Trump with Lisa Page.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Jake Sullivan: National Security Adviser under President Joe Biden.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Michael Sussmann: Former Legal Representative, Democratic National Committee.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Miles Taylor: Former DHS Official under Trump; penned New York Times op-ed critical of Trump under the byline “Anonymous.”",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Timothy Thibault: Former Assistant Special Agent, FBI.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Andrew Weissmann: Mueller’s Deputy in Russiagate probe.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Alexander Vindman: Former National Security Council Director for European Affairs.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Christopher Wray: FBI Director under Trump and Biden.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Sally Yates: Former Deputy Attorney General under Obama and, briefly, Acting Attorney General under Trump.",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
