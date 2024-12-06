@@ -1,0 +1,7 @@
+{
+    "text": "Dom Christie has an <a href=\"https://github.com/scripting/Scripting-News/issues/313#issuecomment-2520524443\">interesting idea</a> related to <a href=\"https://this.how/podcasting/\">listening lists</a>. Aggregate all the shows from all the feeds in a list into a single feed. This seems brilliant because it reduces the implementation in the client to almost nothing, just rebuild a feed periodically, it could be done entirely in the client app. But it also could be something users could share with other users, sort of a meta-channel. I think it's brilliant with the caveat that sometimes when you implement it you find something that makes it more complex than it seems at first. This is the second idea I've heard that the initial listening lists idea spawned. I think there's a lot of unexplored possibilities here. ",
+    "created": "Thu, 05 Dec 2024 15:32:03 GMT",
+    "type": "outline",
+    "image": "https://imgs.scripting.com/2010/09/13/iLoveRss.gif",
+    "flInCalendar": true
+}
