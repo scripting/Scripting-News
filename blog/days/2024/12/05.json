@@ -1,0 +1,41 @@
+{
+    "created": "2024-12-05T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "05",
+    "path": "2024/12/05",
+    "text": "December 05",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Looking for more excellent <a href=\"https://this.how/wordland/\">WordLand</a> bug report writers. :smile:",
+            "created": "Thu, 05 Dec 2024 18:00:19 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://bsky.app/profile/chuck.kilroy.tech/post/3lclb5vffhs2k\">Chuck Shotton</a>: \"Posting a video to YouTube is infinitely easier for a lot of people than understanding how to publish a podcast.\" <i>True.</i> ",
+            "created": "Thu, 05 Dec 2024 22:55:19 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://shownotes.scripting.com/scripting/2024/12/05/dontGiveHimAnyIdeas.html\">17-minute podcast</a> I recorded on Tuesday after hearing that the president of South Korea had declared martial law. ",
+            "created": "Thu, 05 Dec 2024 23:14:26 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Dom Christie has an <a href=\"https://github.com/scripting/Scripting-News/issues/313#issuecomment-2520524443\">interesting idea</a> related to <a href=\"https://this.how/podcasting/\">listening lists</a>. Aggregate all the shows from all the feeds in a list into a single feed. This seems brilliant because it reduces the implementation in the client to almost nothing, just rebuild a feed periodically, it could be done entirely in the client app. But it also could be something users could share with other users, sort of a meta-channel. I think it's brilliant with the caveat that sometimes when you implement it you find something that makes it more complex than it seems at first. This is the second idea I've heard that the initial listening lists idea spawned. I think there's a lot of unexplored possibilities here. ",
+            "created": "Thu, 05 Dec 2024 15:32:03 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2010/09/13/iLoveRss.gif",
+            "flInCalendar": true
+        },
+        {
+            "text": "As if in response to Dom's idea, overnight, via email Leslie Joyce sends a <a href=\"https://audiofiction.co.uk/releases.php\">link to a feed</a> containing first episodes of new fiction podcasts. First comment, how useful! I love this idea as a user. And second, how innovative! I love this idea as a media hacker, what a clever use of RSS. I've added it to my blogroll and to my <a href=\"http://scripting.com/publicfolder/feedland/subscriptionLists/podcasts.opml\">shared list</a> of podcast feeds. ",
+            "created": "Thu, 05 Dec 2024 15:38:16 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
