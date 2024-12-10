@@ -1,0 +1,6 @@
+{
+    "text": "I've got the <a href=\"https://imgs.scripting.com/2024/12/09/bingeworthyScreenShot.png\">new version of Bingeworthy</a> running here. When I saw how the database code worked, I had to redo it from scratch. It was probably my first SQL project, and I barely knew what I was doing. It's too bad, because looking at it from that point of view I could see how SQL could have been much simpler by making some of the optional features automatic. A higher layer on top of SQL is possible, it seems to me. Having ChatGPT review my ideas has been invaluable in this project. I'm going to use it myself for a while, and see how I want to reorganize the user interface. There were opportunities for factoring I didn't take back then because I was in a rush to do something else. ",
+    "created": "Mon, 09 Dec 2024 15:25:13 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
