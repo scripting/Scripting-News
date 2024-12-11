@@ -1,0 +1,48 @@
+{
+    "created": "2024-12-10T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "10",
+    "path": "2024/12/10",
+    "text": "December 10",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "This time of year every day feels like Sunday.",
+            "created": "Tue, 10 Dec 2024 15:36:23 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's a sad fact. When something open takes off, the vultures swoop in and try to own it. You wouldn't believe the greed I've seen. It's a virus, and it needs to stop, or at least be exposed as it's happening. ",
+            "created": "Tue, 10 Dec 2024 15:08:44 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Yesterday I did a <a href=\"https://shownotes.scripting.com/scripting/2024/12/09/weAllOwnAndNoOneOwnsPodcasting.html\">podcast</a> about why it's important to choose humble names for groups of developers working on open formats, using podcasting as an example. Another case in point, the <a href=\"https://socialwebfoundation.org/\">Social Web Foundation</a>, which is about ActivityPub and the Fediverse, when there are many other forms of the social web. Here's where the rubber meets the road. They're having a meeting in Brussels where people can demo their social web apps, but it's only about ActivityPub. If you have a project for Bluesky, or Threads, or non-ActivityPub Mastodon, or \"RSS\" for that matter, you should feel welcome there, regardless of what their <a href=\"https://socialwebfoundation.org/2024/11/01/fosdem-2025-social-web-devroom-call-for-participation/\">Call For Participation</a> says. ",
+            "created": "Tue, 10 Dec 2024 14:37:06 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2020/08/29/hope.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Apple watch and Tesla",
+            "created": "Tue, 10 Dec 2024 16:50:48 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Many Tesla drivers <a href=\"http://scripting.com/2024/12/07/142329.html#a143215\">wish</a> they'd evict Elon Musk. On the other hand can your car do this?",
+                    "created": "Tue, 10 Dec 2024 16:50:56 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "My Apple Watch can unlock my Model Y, turn the heat on, open the frunk.",
+                    "created": "Tue, 10 Dec 2024 16:51:49 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2024/12/10/appleWatchOnTesla.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
