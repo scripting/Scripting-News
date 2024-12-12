@@ -1,0 +1,6 @@
+{
+    "text": "Just added to my todo list -- add the option to use the <a href=\"https://github.com/WP-API/node-wpapi\">WordPress REST interface</a> in place of the <a href=\"https://github.com/Automattic/wpcom.js\">WPCOM interface</a>, this will give \"WordLand\" the ability to edit WordPress sites anywhere, not just on wordpress.com. When I made the choice to go with WPCOM I didn't have ChatGPT to look at the other options, I was surprised to find that WordPress actually had a good JavaScript API. It doesn't look like the conversion will be too bad. It's obviously better to be able to work with all WordPress sites. ",
+    "created": "Wed, 11 Dec 2024 14:39:52 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
