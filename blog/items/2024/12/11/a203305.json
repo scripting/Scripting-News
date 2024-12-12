@@ -1,0 +1,60 @@
+{
+    "text": "Answers for a tester",
+    "created": "Wed, 11 Dec 2024 20:33:05 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "A valued tester of \"WordLand\" asked a series of questions, which I answered in some detail, and felt it was a good idea to post the answers here on my blog.",
+            "created": "Wed, 11 Dec 2024 20:33:10 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "Any kind of feedback you want to give is totally welcome. I'd prefer it be in the <a href=\"https://github.com/scripting/wordlandSupport/issues\">GitHub issues section</a> so it might inspire other people to contribute. ",
+                    "created": "Wed, 11 Dec 2024 20:33:38 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Re image insertion, I'm not sure it could be simpler. The goal is to get an image into the user's document. If it succeeded at doing that then I'm happy with the design. ;-)",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The target audience is writers who use WordPress. The idea is to put all the features writers need in one place, rather than scattered around the WP interface. And to use modern UI techniques you'd see in social web apps. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I've tried to answer the questions you raised in the only way I can. For example I need to use a term for the arrows that move you through the stories you've written. They aren't all posts, but they are all drafts. I can explain that in the docs, but I seriously doubt if anyone would read them. There is a distinction and it's important to make that distinction. I also don't think it's crucial to get that one \"right\" -- not that I think there is a right answer to that one other than removing the feature, which I like having there because it emphasizes that we're working with a set of documents that you can edit.",
+                    "created": "Wed, 11 Dec 2024 20:34:56 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "In all cases, you could raise any issue you have, I will think about what you say, but accept my response, and trust that I've incorporated your experience as data that might inspire a change in the design at some point. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But do understand that a lot of thought has already gone into this, and a quick review by a new user is no substitute for a product design.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I know the docs are non-existent. I am limited in the time I have and the commitments I've made. The truth is that even dedicated users won't read them. I know that by the questions they ask. But I will write the docs. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "What I suggest is you try using the product for its intended purpose, and assume that all feedback is welcome (it is) but once it has been registered, you should move on to the next thing.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I've worked with testers many times going back a very long time. I've even hired testers. I don't take offense to critiques of the software.",
+                    "created": "Wed, 11 Dec 2024 20:33:44 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, if after reading this, you think you could be this kind of tester for \"WordLand\", and you have experience with WordPress, and a site on wordpress.com, and are excited about the idea of a simple way to write and manage lots of documents in a WordPress environment, please <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSeuk4REqAIkKs9vHf4ExMN_jtANenoDl0ciUxeLSFVmtehZ_Q/viewform\">fill out this form</a>, I'll read it right away, and if it seems like a fit, I'll authorize your account. ",
+            "created": "Wed, 11 Dec 2024 22:56:15 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
