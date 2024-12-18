@@ -1,0 +1,36 @@
+{
+    "created": "2024-12-17T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "17",
+    "path": "2024/12/17",
+    "text": "December 17",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "The Democrats are, of course, failing to lead the 75 million who voted for them in the last election, which was a bit over a month ago. Maybe they should factor that into their thinking, what kind of relationship would you have with an organization that only cared about what you thought if they needed something very specific from you in that exact moment. Any other time, who are you again? We are without leaders.",
+            "created": "Tue, 17 Dec 2024 22:26:07 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2024/12/17/redstatesBluestates.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "What could journalism do to help the country? Move your shows out into the red territories. Make it a requirement that Chris and Joy, Lawrence or Rachel, if they want to stay on the air, have to broadcast from one of the red states. It could be a large city in a red state. The reason is symbolic and practical. The red state voters wouldn't be such a mystery if you knew some of them from your everyday life. And you might have a few of them on the show. You have some selling to do, the idea you're selling is that you care about the people you don't know. ",
+            "created": "Tue, 17 Dec 2024 22:29:25 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm farting around with the OpenAI API. I have a nice encapsulation for calls to ChatGPT, one that hides all the tricky stuff, all you need is an apiToken to make it work, something that is available for free. The first place I put it is in an outliner. Basically I can write a question in a headline, click an icon and the response from ChatGPT is placed in a series of sub-heads. Interesting to see that they use Markdown to convey the response. The logical choice. I'm not sure how or if I will use this in my writing, but now I have an idea what it's good for. Here's a <a href=\"https://imgs.scripting.com/2024/12/17/fartingAroundWithOpenAiApi.png\">screen shot</a> of a question I asked and the answer. Also the API is very slow. A question like that would be displayed instantly in their app, in my app it takes a half minute. And I have to pay for it, whereas in their app it's all covered by my $20 a month subscription.",
+            "created": "Tue, 17 Dec 2024 16:43:45 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I get my greatest ideas walking, riding my bike, on a ski lift, or sitting in a hot tub esp when it's really cold out and there's a full moon as there was last night. Sometimes the ideas prove workable and other times they're like the great brainstorms one had with <a href=\"https://en.wikipedia.org/wiki/Cocaine_boom\">cocaine</a> in the 80s, not that I would know, but have heard. Anyway, I was daydreaming about what I'd do with <a href=\"https://www.google.com/search?q=site%3Ascripting.com+bingeworthy\">Bingeworthy</a> if I was going to continue working on it. I thought about the mode I want to use it in. I want to watch a series that I would like, not that Netflix thinks I'd like, because their idea of what I'd like is bullshit. I find that I'll like almost anything that's rated in the 80s by Metacritic, but really only if the NYT reviewed it well. I'll give almost any NYT <i>critics choice</i> a go. So what I really want in the middle of the Bingeworthy display of a program is 250 words about the program aggregated from various critics as Metacritic does so well. Unfortunately neither Metacritic or the NYT offer an API for this as far as I know. Oh too bad, same old thing. No access to the data where you need it (btw, ideally Bingeworthy would be baked into the TV set, or all the streamers could be played in the context of Bingeworthy). Anyway, then <i>boom</i> it hit me, holy shit the thing I was farting around with <a href=\"http://scripting.com/2024/12/17.html#a164345\">in the outliner</a> could actually do this. Now I'm going to need to be able to call ChatGPT from a Node app.  ",
+            "created": "Tue, 17 Dec 2024 17:07:04 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2019/11/29/whiteRussian.png",
+            "flInCalendar": true
+        }
+    ]
+}
