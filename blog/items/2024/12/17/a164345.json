@@ -1,0 +1,6 @@
+{
+    "text": "I'm farting around with the OpenAI API. I have a nice encapsulation for calls to ChatGPT, one that hides all the tricky stuff, all you need is an apiToken to make it work, something that is available for free. The first place I put it is in an outliner. Basically I can write a question in a headline, click an icon and the response from ChatGPT is placed in a series of sub-heads. Interesting to see that they use Markdown to convey the response. The logical choice. I'm not sure how or if I will use this in my writing, but now I have an idea what it's good for. Here's a <a href=\"https://imgs.scripting.com/2024/12/17/fartingAroundWithOpenAiApi.png\">screen shot</a> of a question I asked and the answer. Also the API is very slow. A question like that would be displayed instantly in their app, in my app it takes a half minute. And I have to pay for it, whereas in their app it's all covered by my $20 a month subscription.",
+    "created": "Tue, 17 Dec 2024 16:43:45 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
