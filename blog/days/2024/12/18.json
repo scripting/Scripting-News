@@ -1,0 +1,17 @@
+{
+    "created": "2024-12-18T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "18",
+    "path": "2024/12/18",
+    "text": "December 18",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I've got a new project called <a href=\"https://github.com/scripting/davegpt\">davegpt</a>, it's in GitHub, open source of course. I also created a <a href=\"https://help.openai.com/en/articles/10169521-using-projects-in-chatgpt\">ChatGPT project</a> with the same code. Presumably I can ask it questions about the code. Because I have a <a href=\"https://github.com/scripting/davegpt/blob/main/worknotes.md\">worknotes.md</a> file in the GitHub project, ChatGPT understands where I want to take this project. Most amazing, it wrote a <a href=\"https://github.com/scripting/davegpt/blob/main/gptnotes.md\">summary</a> of what it saw in the project. I <a href=\"https://github.com/scripting/davegpt/blob/main/gptnotes.md\">added that</a> to the GitHub project, of course, and since it was in Markdown, it fit right in with no mods. The power of standards. I love it when things that should work, do. The next step is to implement a feature in the new Bingeworthy that can only be done with an AI bot like ChatGPT. It's such a thrill to be working on this stuff as it's happening. And what a delight that it has an API. I don't mind that I'm paying for it, I love the idea of paying to break down walls to create new things that couldn't have been created before. ",
+            "created": "Wed, 18 Dec 2024 16:09:09 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2024/06/14/julieAndrews.png",
+            "flInCalendar": true
+        }
+    ]
+}
