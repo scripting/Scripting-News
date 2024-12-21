@@ -1,0 +1,54 @@
+{
+    "created": "2024-12-20T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "20",
+    "path": "2024/12/20",
+    "text": "December 20",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I've been alternating days <a href=\"http://scripting.com/\">here</a> on my blog. One day, lots of posts, maybe even a podcast. And then a quiet day. Today started out quiet, and then the ideas started flowing. ",
+            "created": "Fri, 20 Dec 2024 22:32:55 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Programming work: I was trying to work out a feature for \"WordLand\" that isn't cooperating, having to do with the clipboard and the <a href=\"https://github.com/yabwe/medium-editor\">MediumEditor</a> package, which does all these nice things for us with the clipboard, but it isn't willing to share custody, or perhaps more accurately we can't figure out how to. The feature I want is when you paste a URL and there's a selection, the selected text is turned into a link. A video <a href=\"https://www.youtube.com/watch?v=fwQQPTlpNZQ\">explanation</a>. I've burned two full sessions on this, seeking advice from ChatGPT, Claude and Perplexity. They all pretend to know what to do, but in fact they don't. The clipboard is one of those areas of the browser that is held together with rumors and confusion, as is MediumEditor, and the intersection is rumors and confusion squared. Tomorrow I'm going to work on other things, and the day after until I have an idea for another way to approach this. I really want this feature because apparently it's supported in Slack, WordPress and other software that supports links. ",
+            "created": "Fri, 20 Dec 2024 23:18:30 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2024/06/11/nakedJenToday.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, we could use a few <a href=\"https://this.how/wordland/#1733146566000\">more testers</a> with good experience with bug reporting who use WordPress. I'm sure there are more bugs we haven't gotten reports on yet. ",
+            "created": "Fri, 20 Dec 2024 23:14:52 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've figured out more precisely what \"WordLand\" is meant to <a href=\"http://scripting.com/2024/04/13/214755.html?title=itsBiggerThanATinyLittleTextbox\">compete</a> with --> the <a href=\"http://scripting.com/2024/01/14/031201.html\">tiny little text boxes</a> of the social web. Ours is slightly bigger, and grows as your piece gets longer. Neatly arranged like the others, and all your writing flows through WordPress and RSS, where each of the <a href=\"http://scripting.com/2024/01/14/031201.html\">TLTBs</a> only flows into their limited and incompatible views of the social web. RSS and WordPress are a powerful distribution system. Lots of software works with those two protocols, as do many programmers, and they're both marvelously open, stable over more than twenty years each, and <i>can't</i> be owned by billionaires. Pretty powerful place, kind of amazing that there's so much room here, and the people are friendly. :smile:",
+            "created": "Fri, 20 Dec 2024 22:55:49 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Amazing that the tech industry hasn't tried to retrieve its reputation from the ones who are repping us in DC nowadays. Software doesn't <i>have</i> to treat their users like nobodies. Quite the opposite. I come from the school that says our users are the smartest most powerful people in the world and it's our privilege to create tools for them.",
+            "created": "Fri, 20 Dec 2024 23:06:15 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "One more thing. I love taking the time to craft a delicious piece of software. I have never really done that in the 50 years I've been doing this. This time I decided there's no rush. I'm going to wait until people want what I've created. We're not there yet. :smile:",
+            "created": "Fri, 20 Dec 2024 23:07:58 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "What WordLand looks like today. <a href=\"https://www.youtube.com/watch?v=KyNMy-aaEeA\" target=\"_blank\">Video</a>.",
+            "created": "Fri, 20 Dec 2024 23:30:38 GMT",
+            "type": "outline",
+            "inlineImage": "https://imgs.scripting.com/2024/12/20/wordlandScreenShot.png",
+            "flInCalendar": true
+        }
+    ]
+}
