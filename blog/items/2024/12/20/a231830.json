@@ -1,0 +1,7 @@
+{
+    "text": "Programming work: I was trying to work out a feature for \"WordLand\" that isn't cooperating, having to do with the clipboard and the <a href=\"https://github.com/yabwe/medium-editor\">MediumEditor</a> package, which does all these nice things for us with the clipboard, but it isn't willing to share custody, or perhaps more accurately we can't figure out how to. The feature I want is when you paste a URL and there's a selection, the selected text is turned into a link. A video <a href=\"https://www.youtube.com/watch?v=fwQQPTlpNZQ\">explanation</a>. I've burned two full sessions on this, seeking advice from ChatGPT, Claude and Perplexity. They all pretend to know what to do, but in fact they don't. The clipboard is one of those areas of the browser that is held together with rumors and confusion, as is MediumEditor, and the intersection is rumors and confusion squared. Tomorrow I'm going to work on other things, and the day after until I have an idea for another way to approach this. I really want this feature because apparently it's supported in Slack, WordPress and other software that supports links. ",
+    "created": "Fri, 20 Dec 2024 23:18:30 GMT",
+    "type": "outline",
+    "image": "https://imgs.scripting.com/2024/06/11/nakedJenToday.png",
+    "flInCalendar": true
+}
