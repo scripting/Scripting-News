@@ -1,0 +1,35 @@
+{
+    "created": "2024-12-24T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "24",
+    "path": "2024/12/24",
+    "text": "December 24",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Talking with a friend about the <a href=\"https://this.how/podcasting/#1733322866000\">listening lists</a> idea and realized if it takes off it will turn podcasting into its own loosely-coupled social network. Really low tech, like the web. And not possible for one company to control. All it will take is one popular podcast client to get the <a href=\"https://en.wikipedia.org/wiki/Pump#Priming_a_pump\">pump primed</a>. The second and third apps should be much easier to convince. This is how it worked with podcasting. Steady mission broadcasting, keep beating the drum, and if it's the right idea and when it's the right time, eventually, it happens. It will be that way too for this layer of the network, but at this time I don't own a podcast client, and that's the most basic ingredient in this bootstrap, so we wait, and keep beating the drum.",
+            "created": "Tue, 24 Dec 2024 14:05:16 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2022/12/01/santa.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Another idea that we continued to push in 2024 is \"textcasting\". It was what I needed to build \"WordLand\", it defines its objective, to form an open social web with all the basic features writers need. Titles, links, simple styling, ability to edit, no character limit, these are basic features we will drive the adoption of. Defining a new network where if you want to play you'll need to start thinking about writers, their power, and interop. You can't be on the open web and be a silo. And some of the most insidious silo-like features seem innocuous, like character limits. Whatever forces you into copying and pasting into \"tiny little text boxes\", that's how you know you're in a silo. If you can use any writing tool to post to a network, then it <i>is</i> on the web. Pretty simple. Right now -- <i>none</i> of the popular ones qualify. None. ",
+            "created": "Tue, 24 Dec 2024 14:19:52 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "How this stuff fits in? 1. \"RSS\" blew a big open hole in the distribution of news and ideas. 2. Now we want to blow the equivalent hole in the <i>writer's</i> web. Put the two together and we will have finally, after 30+ years, delivered on the <a href=\"http://scripting.com/davenet/2000/03/02/theTwowayweb.html\">promise</a> of the web. ",
+            "created": "Tue, 24 Dec 2024 14:25:33 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I have a fairly large and old <a href=\"https://github.com/scripting/frontier\">C application</a> that was written to run on the Mac and Windows. I still use it today on a relatively modern Macintosh. I wonder if it will soon be possible to turn this project over to an AI like ChatGPT, Claude or Perplexity or some other, to convert it to run on Linux, where it should be able to run in perpetuity, or at least a lot longer than on the Macintosh. I would be willing to pay a few thousand dollars to do this work. ",
+            "created": "Tue, 24 Dec 2024 19:07:44 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
