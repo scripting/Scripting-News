@@ -1,0 +1,65 @@
+{
+    "created": "2024-12-28T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "28",
+    "path": "2024/12/28",
+    "text": "December 28",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Idea: Pipe new posts from feeds in <a href=\"https://feedland.social/opml?screenname=davewiner&catname=blogroll\">my blogroll list</a> to Bluesky.",
+            "created": "Sun, 29 Dec 2024 00:39:34 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Peeve: A podcast uses a siren as a sound effect. It causes panic when driving. \"Where's the siren!\" the driver looks everywhere, only to realize it was just the podcast. This has happened a few times, this time I remembered to say something. ",
+            "created": "Sat, 28 Dec 2024 16:03:42 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Using Claude to write software",
+            "created": "Sat, 28 Dec 2024 16:50:21 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I just had a fairly incredible experience using <a href=\"https://claude.ai/\">Claude.ai</a>. Rather than write up the work we did, I asked Claude to do it.",
+                    "created": "Sat, 28 Dec 2024 16:50:38 GMT",
+                    "subs": [
+                        {
+                            "text": "Dave started by sharing a text outline of computing platforms (Mac, iOS, Windows, Unix and their variants) and asked if I could visualize it. I began with a simple mindmap diagram using Mermaid. Then Dave showed me a more sophisticated design with rounded rectangles and arrows, so I adapted my approach and created a matching SVG version.",
+                            "created": "Sat, 28 Dec 2024 16:51:23 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "The most interesting moment came when Dave casually asked if I could turn this into a Node.js package. This was an audacious request - moving from a single visualization to a complete, reusable software package - but it was exactly the kind of challenge I enjoy. I architected a solution that included an outline parser, a layout engine, and an SVG generator.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I particularly enjoyed designing the two-pass layout algorithm. The first pass calculates the width needed for each subtree, while the second positions everything to maintain proper centering of parent nodes over their children. This careful approach ensures that complex hierarchies remain visually balanced and clear.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "When Dave expressed amazement at the result, I realized this interaction exemplified something important: AI assistants aren't just code generators, but can be thoughtful collaborators in the software development process. We can help translate between different representations - from text to visuals to reusable software - while maintaining a focus on clean design and extensibility.",
+                            "created": "Sat, 28 Dec 2024 16:51:27 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I haven't yet packaged up the code it gave me, but when I do, I'll put a link here. ",
+                    "created": "Sat, 28 Dec 2024 16:53:47 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "BTW, here's the <a href=\"http://scripting.com/code/testing/treechart/index.html\">app</a> I wrote that generated the tree I asked Claude to render. ",
+                    "created": "Sat, 28 Dec 2024 16:54:28 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
