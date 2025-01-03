@@ -1,0 +1,94 @@
+{
+    "created": "2025-01-02T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "02",
+    "path": "2025/01/02",
+    "text": "January 02",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Little Feed Reader on Bluesky",
+            "created": "Thu, 02 Jan 2025 14:31:49 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "My <a href=\"https://bsky.app/profile/did:plc:fkwl6tbnev3vdx63bippmscy\">little feed reader</a> on Bluesky is <a href=\"https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3lerbu7ugvc2i\">ready</a> for you to follow.",
+                    "created": "Thu, 02 Jan 2025 15:33:35 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Technically, this is how the pieces fit together.",
+                    "created": "Thu, 02 Jan 2025 14:32:38 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "I'm using the <a href=\"https://viewfeedlist.opml.org/?url=https%3A%2F%2Ffeedland.social%2Fopml%3Fscreenname%3Ddavewiner%26catname%3Dblogroll\">OPML file</a> for my <i>blogroll</i> category on feedland.social to determine what's posted on Bluesky. When I add or remove feeds from the category, the OPML adjusts dynamically.",
+                            "created": "Thu, 02 Jan 2025 14:32:49 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I'm running a new Node app that has a <a href=\"https://javascript.info/websocket\">websocket</a> connection to feedland.social. It receives all the new items as they are found from all feeds over the socket. It's feedland.social's <a href=\"https://www.pubnub.com/learn/glossary/firehose-api/\">firehose</a>. Since I'm currently the only user of that server, it's getting news from the all feeds I follow, not just the ones in the blogroll category. ",
+                            "created": "Thu, 02 Jan 2025 14:34:24 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "The Node app checks each new item to see if it's in one of the feeds in the OPML list. If so, it reformats it to fit in a Bluesky post and sends it to the <a href=\"https://bsky.app/profile/did:plc:fkwl6tbnev3vdx63bippmscy\">feediverse account</a>.  ",
+                            "created": "Thu, 02 Jan 2025 14:35:53 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "If you're subscribed you should see the item, with a link, in your Bluesky timeline.",
+                            "created": "Thu, 02 Jan 2025 14:40:04 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<b>Notes</b>.",
+                    "created": "Thu, 02 Jan 2025 14:44:26 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "The Node app re-loads the OPML subscription list every minute so any change is quickly reflected.",
+                            "created": "Thu, 02 Jan 2025 14:53:38 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "It's the same <a href=\"https://blogroll.social/\">blogroll</a> you <a href=\"https://imgs.scripting.com/2024/03/13/expandedBlogScreen.png\">see</a> on my <a href=\"http://scripting.com/\">blog's home page</a>.",
+                            "created": "Thu, 02 Jan 2025 15:00:07 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "The biggest <a href=\"https://github.com/scripting/textcasting/issues/1\">problem</a> in getting this running was rate-limiting. I have dealt with this on Twitter and other services, but Bluesky was not, for a while, letting anything through with the error message that we were over the limit. It was suggested that we should cache the accessToken rather get a new one for every message. I did that and cautiously turned the server on again at first with a 5 message per hour self-imposed limit, then gradually increased it to 10 per hour. The latest version only requires that there be at least five minutes between posts, so that means no more than 12 per hour. ",
+                            "created": "Thu, 02 Jan 2025 14:44:31 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Thanks to <a href=\"https://bsky.app/profile/mcuban.bsky.social/post/3lerhvj52pk27\">Mark Cuban</a> for the initial idea and his support. He saw a <a href=\"https://news.scripting.com/\">river of news</a> from \"FeedLand\" and asked if it could work in Bluesky. That was the idea. I have always wanted a tight coupling between Bluesky and \"RSS\" but didn't know how to do it. We may have just skipped a step. ",
+                            "created": "Thu, 02 Jan 2025 14:32:33 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "We realllly could use some more formating features in Bluesky messages. This is a really strong use-case imho for the \"textcasting\" idea. ",
+                            "created": "Thu, 02 Jan 2025 14:42:03 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "The coolest thing from my point of view is that I already had all the pieces, fully developed, the only thing that remained was to hook them together. ",
+                            "created": "Thu, 02 Jan 2025 15:35:42 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Finally, there's a <a href=\"https://this.how/feediverse/bluesky/\">this.how page</a> for Little Feed Reader. It's purposely brief, but I have put a link to this post on that page. ",
+                            "created": "Thu, 02 Jan 2025 15:07:45 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
