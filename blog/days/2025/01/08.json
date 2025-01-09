@@ -1,0 +1,53 @@
+{
+    "created": "2025-01-08T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "08",
+    "path": "2025/01/08",
+    "text": "January 08",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Podcast: <a href=\"https://shownotes.scripting.com/scripting/2025/01/08/howIViewWordpress.html\">How I view WordPress</a>.",
+            "created": "Wed, 08 Jan 2025 18:24:00 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Started a new <a href=\"https://github.com/scripting/bingeworthySupport/issues/1\">support repo</a> for Bingeworthy. ",
+            "created": "Wed, 08 Jan 2025 22:46:25 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Just found an exponential memory leak at the database level in Bingeworthy. I have never seen one of these in all my years of programming. A data structure that saves a copy of itself in itself. So every time it saved it became exponentially bigger. Until it made the SQL server crash because the JSON object it was storying was over the limit of JSON objects. Crashed the freaking server. Fixed. Feels good. ",
+            "created": "Wed, 08 Jan 2025 17:05:50 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "As part of the conversion of \"Bingeworthy\", I started the database from scratch, but before I did that, I exported <a href=\"https://github.com/scripting/binge2Data/tree/master/data\">all the data</a> and put it in a GitHub repo. This included a JSON file of ratings for each user. For example, <a href=\"https://github.com/scripting/binge2Data/blob/master/data/users/davewiner.json\">this</a> is my file. Remember we used Twitter identity then, <i>davewiner</i> is my Twitter username, just replace my name with yours to see your file, if you were a Bingeworthy user in the past.  ",
+            "created": "Wed, 08 Jan 2025 16:02:03 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I wrote <a href=\"http://scripting.com/2023/07/13/115050.html\">this post</a> in 2023 as Threads was coming online. Now that Zuckerberg has thrown us under the bus, again, it's worth remembering their rollout strategy was to get us to overlook their past betrayals of users. They said \"We ❤️ Fediverse.\" That did it. It was at a moment of fear of Twitter, now owned by Musk, and a belief in the story of ActivityPub, that it would create an open social web. Zuck said \"we're on board.\" Now it's expedient to say to another group that he sees things their way, and it just so happens to be the very people most people who were looking to get away from in 2023 when he was loving the Fediverse. Now we're doing the same thing with Bluesky. And <i>it's going to happen again. </i>There will be a moment when you look back on your \"hope for the best\" approach and realize that it didn't work, and if I'm around I will remind you again. We have to roll up our sleeves and make an <i>open social web</i> that can't be sold out. When you build value for other people, they will use it for their advantage, leaving you with nothing. That's business. There are no companies that are different, not Apple, not anyone. More in a <a href=\"https://bsky.app/profile/scripting.com/post/3lfagl2im4c2m\">thread</a> on Bluesky.",
+            "created": "Wed, 08 Jan 2025 15:08:26 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2012/02/16/1984.jpg",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"http://scripting.com/2023/07/13/115050.html\">2023</a>: \"If they really want to prove their love for the open web, if they aren't just trying to lull us to sleep while they steal yet another market from the open web, they should do something that helps the web more than it helps them.\"",
+            "created": "Wed, 08 Jan 2025 14:50:47 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3lfad2dznnk2e\">Liberals should support</a> truly open technology that doesn't have a Zuckerberg who can sell us all out. Get involved.",
+            "created": "Wed, 08 Jan 2025 14:48:23 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
