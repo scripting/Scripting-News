@@ -1,0 +1,6 @@
+{
+    "text": "As part of the conversion of \"Bingeworthy\", I started the database from scratch, but before I did that, I exported <a href=\"https://github.com/scripting/binge2Data/tree/master/data\">all the data</a> and put it in a GitHub repo. This included a JSON file of ratings for each user. For example, <a href=\"https://github.com/scripting/binge2Data/blob/master/data/users/davewiner.json\">this</a> is my file. Remember we used Twitter identity then, <i>davewiner</i> is my Twitter username, just replace my name with yours to see your file, if you were a Bingeworthy user in the past.  ",
+    "created": "Wed, 08 Jan 2025 16:02:03 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
