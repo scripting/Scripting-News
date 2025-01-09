@@ -1,0 +1,6 @@
+{
+    "text": "Just found an exponential memory leak at the database level in Bingeworthy. I have never seen one of these in all my years of programming. A data structure that saves a copy of itself in itself. So every time it saved it became exponentially bigger. Until it made the SQL server crash because the JSON object it was storying was over the limit of JSON objects. Crashed the freaking server. Fixed. Feels good. ",
+    "created": "Wed, 08 Jan 2025 17:05:50 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
