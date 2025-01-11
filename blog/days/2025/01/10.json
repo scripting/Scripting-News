@@ -1,0 +1,63 @@
+{
+    "created": "2025-01-10T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "10",
+    "path": "2025/01/10",
+    "text": "January 10",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "The personal profile pages for Bingeworthy are working again. Here's <a href=\"https://my.bingeworthy.org/?username=scripting\">my profile page</a>. This is how you share recommendations. More info <a href=\"https://github.com/scripting/bingeworthySupport/issues/4\">here</a>.",
+            "created": "Fri, 10 Jan 2025 16:01:53 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Good <a href=\"https://github.com/scripting/Scripting-News/issues/316#issuecomment-2583279043\">questions</a> from Phil Jones re Wednesday's podcast. I'm glad to get to answer these questions. There's more to wpIdentity than is obvious at first glance, for example it has a relatively complete storage system built in for developers to use. I used one of its features yesterday in the connection between Bingeworthy and the profile display app. ",
+            "created": "Fri, 10 Jan 2025 17:23:17 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, I'm going through all the episodes of <a href=\"https://en.wikipedia.org/wiki/Deadwood_(TV_series)\">Deadwood</a>, and find it's influencing how I write. A good bingewatch is like that. You become one of the characters, or in a way, all of them. Sometimes I'm Swearingen and other times I'm Wu. Etc.",
+            "created": "Fri, 10 Jan 2025 15:18:01 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "GitHub and chatbots",
+            "created": "Fri, 10 Jan 2025 15:06:35 GMT",
+            "type": "outline",
+            "description": "We need an AI chatbot that can work with GitHub repos.",
+            "metaImage": "http://scripting.com/images/2025/01/10/codescreenshot.png",
+            "subs": [
+                {
+                    "text": "We need an AI chatbot that can work with GitHub repos. That is, in my prompt I say, the following questions are about this GitHub repo. At that point it is ready to answer any question about the project. This an incredibly important intersection of capabilities. As far as I can tell, GitHub doesn't offer it. ",
+                    "created": "Fri, 10 Jan 2025 15:01:43 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Anticipating that people will suggest I use their editor, I don't want to use their freaking editor. This keeps coming up everywhere. You can't use this or that unless you use their editor. Insidious form of lock-in. And it also limits their market to people who use their editor. Shortsighted and stupid. ",
+                    "created": "Fri, 10 Jan 2025 15:06:54 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "We need to start thinking about choice. If it applies to developers, it's more likely they will follow through in the designs of their own projects and give their users choice as a matter of principle. ",
+                    "created": "Fri, 10 Jan 2025 15:07:17 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'd also like to use a chatbot that incorporates the philosophy of the open web. They have opinions btw. One of the first things Claude.ai does when I give it some JavaScript code is that they \"modernize\" it. That is also insidious. I choose which constructs I use carefully, and follow the rule that one way to do something is better than two, no matter how much better the second way is. ",
+                    "created": "Fri, 10 Jan 2025 15:07:25 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The bots can be bullies because the companies that make them are tech companies and thus shortcuts to make money, and thus handicap their users. Maybe the users are starting to figure this out. One can hope. ",
+                    "created": "Fri, 10 Jan 2025 15:07:44 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
