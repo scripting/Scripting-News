@@ -1,0 +1,29 @@
+{
+    "created": "2025-01-11T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "11",
+    "path": "2025/01/11",
+    "text": "January 11",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://daveverse.wordpress.com/2025/01/11/little-feed-reader-seems-to-work/\">Notes</a> on Little Feed Reader, <a href=\"https://bsky.app/profile/feediverse.bsky.social\">running</a> on Bluesky since Jan 2. ",
+            "created": "Sat, 11 Jan 2025 20:05:49 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "YouTube channels have feeds. Here's <a href=\"https://www.youtube.com/feeds/videos.xml?channel_id=UCIKA6QNSb56qnA5Enn2BOXw\">the feed</a> for my YouTube channel. And a canonical <a href=\"https://feeder.scripting.com/?feedurl=https://www.youtube.com/feeds/videos.xml?channel_id=UCIKA6QNSb56qnA5Enn2BOXw\">JSONification</a> of the feed (this is how FeedLand gets the data from any type of feed, RSS, Atom or RDF, the YouTube feed is Atom). I did not know they had feeds, in fact I thought I heard they specifically did <i>not</i> have feeds. I've subscribed to the feed <a href=\"https://feedland.social/?feedurl=https%3A%2F%2Fwww.youtube.com%2Ffeeds%2Fvideos.xml%3Fchannel_id%3DUCIKA6QNSb56qnA5Enn2BOXw\">in FeedLand</a> and it seems to work, and also included it in my blogroll category, so it should show up in my blogroll, and possibly in the <a href=\"https://bsky.app/profile/feediverse.bsky.social\">Little Feed Reader</a> on Bluesky. All of this, and more, was discovered by <a href=\"https://www.google.com/search?q=site%3Ascripting.com+%22Andrew+Shell%22\">Andrew Shell</a>. Two suggestions. 1. Include descriptions with the items. 2. Use enclosures for the videos. Atom does enclosures differently from RSS, but it can be made to work, imho. No matter what, thank you YouTube, and it's a great start. ",
+            "created": "Sat, 11 Jan 2025 17:03:29 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2020/07/07/ohYeah.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "This is what my YouTube channel <a href=\"https://imgs.scripting.com/2025/01/11/youtubeInBlogroll.png\">looks like</a> in my blogroll. ",
+            "created": "Sat, 11 Jan 2025 17:49:22 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
