@@ -1,0 +1,83 @@
+{
+    "created": "2025-01-13T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "13",
+    "path": "2025/01/13",
+    "text": "January 13",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "It couldn't hurt to have a better lifeboat",
+            "created": "Mon, 13 Jan 2025 17:50:42 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I posted this to both <a href=\"https://bsky.app/profile/scripting.com/post/3lfncckr2sc2h\">Bluesky</a> and <a href=\"https://mastodon.social/@davew/113822309652127443\">Mastodon</a> just now.",
+                    "created": "Mon, 13 Jan 2025 17:50:54 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I see people betting on the idea of federation in Bluesky.",
+                    "created": "Mon, 13 Jan 2025 17:52:25 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "At the same time, we should bet on simplifying Mastodon at scale.",
+                    "created": "Mon, 13 Jan 2025 17:52:33 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Approach the problem from both directions.",
+                    "created": "Mon, 13 Jan 2025 17:52:41 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "We may need and not have federation in Bluesky at some point.",
+                    "created": "Mon, 13 Jan 2025 17:52:44 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It couldn't hurt to have a better lifeboat.",
+                    "created": "Mon, 13 Jan 2025 17:52:48 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This <a href=\"https://shownotes.scripting.com/scripting/2025/01/13/itCouldntHurtToHaveABetterLifeboat.html\">podcast</a> goes into more depth of this idea. ",
+                    "created": "Mon, 13 Jan 2025 18:05:35 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "What I want and am not getting from AI technology",
+            "created": "Mon, 13 Jan 2025 15:09:02 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "There’s a funny contradiction in the AI world.",
+                    "created": "Mon, 13 Jan 2025 15:09:03 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "News orgs, published authors, great artists, universities, want to retain ownership of their intellectual property and don’t trust the utility of AI chatbots. They think the only application of AI technology is to steal from them, to cheat at school and in work. They see AI technology as destructive, immoral and dishonest.",
+                            "created": "Mon, 13 Jan 2025 15:09:07 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "As a writer, of prose and software, I want to use the new tools to analyze and develop my work. I want ChatGpt to help port my biggest piece of software from Mac to Linux where it will work far better, far into the future. I want it to reassemble my 30+ years of every day writing into something that can be read by anyone in a few days. I want it to organize new writing projects in ways I can’t. I want it to help me learn about myself. I would gladly give it access to all my creative work, if only there were a relatively easy way to do it. Rather than demanding money, I would gladly pay thousands of dollars to have it all absorbed into its models so I can study and learn.",
+                            "created": "Mon, 13 Jan 2025 15:09:07 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Two very different approaches to the same technology.",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
