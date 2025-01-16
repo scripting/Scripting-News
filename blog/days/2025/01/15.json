@@ -1,0 +1,64 @@
+{
+    "created": "2025-01-15T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "15",
+    "path": "2025/01/15",
+    "text": "January 15",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "The \"feediverse\" is not a joke. It's deployed, scaled, widely supported, far beyond AT Proto or ActivityPub. It's the HTML of the open social web. And where the others are complicated, feeds are really simple. ",
+            "created": "Wed, 15 Jan 2025 14:21:24 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/07/02/validRss.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Matt Mullenweg <a href=\"https://x.com/photomatt/status/1878809636750721323\">said</a> something provocative on Twitter two days ago that I'm just tuning into now. \"The lawsuits will go years and could potentially bankrupt me or force the closure of WordPress.org.\" I <a href=\"https://x.com/davewiner/status/1879556640455712964\">commented</a> on it as a developer who views WordPress as a platform. ",
+            "created": "Wed, 15 Jan 2025 15:54:11 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Sad to say I'm going to have to mention Trump from time to time. When I hear a reporter wondering what to make of his thing about all those friendly countries he wants to go to war with, here's what it means. He's \"trolling\" you. Haven't you figured that out by now. Just by mentioning the weird thing he's talking about as if it were some kind of puzzle, a brilliant chess move, etc blah blah zzzz. It's trolling. Stop falling for it. If it's Trump-initiated nonsense, don't report it. You. Are. Being. Trolled. Asshole. All he wants is attention. Always. No exceptions.",
+            "created": "Wed, 15 Jan 2025 18:57:05 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2017/07/21/trumpHead.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "New version of Daytona",
+            "created": "Wed, 15 Jan 2025 14:35:44 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://daytona.scripting.com/search?q=berkeley\">Daytona</a> is the search engine for Scripting News.  ",
+                    "created": "Wed, 15 Jan 2025 14:37:55 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I've wanted to do a rewrite for quite some time, there were a lot of decisions I wanted to redo, and I've learned a lot about databases in the <a href=\"http://scripting.com/2021/12/\">three years</a> since the first release.",
+                    "created": "Wed, 15 Jan 2025 14:38:02 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You can <a href=\"https://daytona.scripting.com/\">try it out</a>. There are <a href=\"https://this.how/daytona/\">docs</a>, and a <a href=\"https://github.com/scripting/Scripting-News/issues/317\">place</a> for questions and comments. The usual caveats apply, esp since it's newly deployed, quickly.",
+                    "created": "Wed, 15 Jan 2025 14:39:27 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Screen shot of the new Daytona.",
+                    "created": "Wed, 15 Jan 2025 14:38:37 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2025/01/15/newDaytonaScreenshot.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: A list of <a href=\"https://github.com/scripting/Scripting-News/issues/317#issuecomment-2593188990\">problems</a> I will investigate.",
+                    "created": "Wed, 15 Jan 2025 15:24:53 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
