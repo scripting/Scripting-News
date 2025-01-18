@@ -1,0 +1,6 @@
+{
+    "text": "Digital Ocean sent an <a href=\"https://imgs.scripting.com/2025/01/17/digitaloceanmessage.png\">email</a> about an hour ago saying that one of my servers, the newest one, where all the new stuff is deployed, had a hardware failure. It's taken that long for it to start responding again. As a result of course that means that the new search engine didn't respond, and also for an hour you couldn't load my blog's home page. Now one of the apps won't start, I have a feeling I need to fix the version of Node running on the machine, but the error message is completely incomprehensible. Thanks for fucking up my Friday, they call it an \"inconvenience\" at Digital Ocean. Ugh.",
+    "created": "Fri, 17 Jan 2025 17:35:42 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
