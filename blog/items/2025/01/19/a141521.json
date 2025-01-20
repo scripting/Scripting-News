@@ -1,0 +1,7 @@
+{
+    "text": "How easy would it be to create a twitter-like app using RSS, and in what ways would it differ from other twitter-like apps. Here's the deal. You need a place to write a posts and a way to read a timeline of posts. That's the basic functionality. To do that with RSS you would start with a blogging app like WordPress, and a feed reader like FeedLand or NetNewsWire. Manton has integrated the two into a single user interface at <a href=\"https://micro.blog/\">micro.blog</a>. I'm going to approach it in a somewhat differently, not sure yet how it will work, but I'm getting there. And I will offer a way for people to hook in any feed reader they want, thus opening up innovation to tech-curious users. The take-away is that you need to handle inbound and outbound feeds. That's the basics of being twitter-like. ",
+    "created": "Sun, 19 Jan 2025 14:15:21 GMT",
+    "type": "outline",
+    "image": "https://imgs.scripting.com/2020/11/27/duck.png",
+    "flInCalendar": true
+}
