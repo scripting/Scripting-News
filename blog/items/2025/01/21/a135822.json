@@ -1,0 +1,46 @@
+{
+    "text": "Heading off spam on Bluesky",
+    "created": "Tue, 21 Jan 2025 13:58:22 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Please -- to the people in charge at Bluesky, add a setting that allows me to restrict who can reply to posts. Choices:",
+            "created": "Tue, 21 Jan 2025 13:59:03 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "Anyone can reply.",
+                    "created": "Tue, 21 Jan 2025 13:59:16 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "People who follow me can reply.",
+                    "created": "Tue, 21 Jan 2025 13:59:18 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "People I follow can reply.",
+                    "created": "Tue, 21 Jan 2025 13:59:19 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "No one can reply.",
+                    "created": "Tue, 21 Jan 2025 13:59:20 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "For <i>all</i> posts, not on a post-by-post basis. ",
+            "created": "Tue, 21 Jan 2025 13:59:23 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Defaults to #3.",
+            "created": "Tue, 21 Jan 2025 13:59:25 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
