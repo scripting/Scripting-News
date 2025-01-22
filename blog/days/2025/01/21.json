@@ -1,0 +1,181 @@
+{
+    "created": "2025-01-21T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "21",
+    "path": "2025/01/21",
+    "text": "January 21",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Wouldn't it be <a href=\"https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3lgbv3qcjjc27\">smart</a> for Kia or Rivian or some other EV competitor of Tesla's to name their car Bluesky and have it only come in blue?",
+            "created": "Tue, 21 Jan 2025 22:25:45 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Another idea. One of Tesla's competitors could offer a trade-in, where they commit to recycling all the parts of your Tesla, so you are actually taking a Tesla off the road. And for a few extra dollars they can send you a scrapbook of your old Tesla being <i>lovingly</i> taken apart suitable for RT'ing.",
+            "created": "Tue, 21 Jan 2025 22:40:31 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "We did nothing and now we pay",
+            "created": "Tue, 21 Jan 2025 17:38:54 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2025/01/20/noCountry.png",
+            "subs": [
+                {
+                    "text": "The most depressing moment of Trump 1.0, for me, was leaving the local supermarket, after seeing the kind of empty shelves you see in third world countries with broken or non-existent economic systems. This was when it sunk in how far the United States had fallen. ",
+                    "created": "Tue, 21 Jan 2025 17:31:27 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But somehow those of us who survived Covid could relax on January 20, four years ago -- which was also coincidentally the day I got my first Covid vaccination -- the nightmare was over. We could relax for at least a few months before paying the price that was sure to come when we cleaned the mess that Trump had created with his January 6 insurrection. The question was will there be a war over this? Well, I reasoned, as I assumed the incoming president would, that it's better if you have to fight a civil war to do it when the military is responsible to you. But then a few months turned into a couple of years, and nothing happened. No indictments. He hadn't been arrested. I thought geez if we had done something like what he did, the scale of it, the audacity, the terror, my god how could he be left to walk around as if nothing had happened. I figured there must be a reason and our president had a plan. He didn't. Neither did journalism. When Trump ran for re-election he got the consideration any major party candidate would get from the press. As he is getting now as a newly sworn-in president. But we know his oath is meaningless. ",
+                    "created": "Tue, 21 Jan 2025 17:44:42 GMT",
+                    "image": "https://imgs.scripting.com/2021/01/11/klaesAshford.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So that day when the shelves were empty is now only the second worst day, and yesterday I was still living with the respite of a four year trance of normality, as if all it took was belief that somehow we'd get through this. But now it's so depressing. I feel both like dying and living at the same time. I know many others feel this way. I don't imagine too many of the people who voted for Trump are full of joy right now. ",
+                    "created": "Tue, 21 Jan 2025 17:45:35 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If we get another shot at cleaning this up, we must not let that opportunity slip by. ",
+                    "created": "Tue, 21 Jan 2025 17:46:00 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Bingeworthy + WordLand",
+            "created": "Tue, 21 Jan 2025 14:03:40 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I spent a few days designing and implementing the protocol that allows WordLand to be the writing tool for Bingeworthy, thus giving it a real writing and publishing function, instead of the usual ridiculous tiny little textbox. Today I'm going to make it work for writing and reading actual reviews for shows I have opinions about. I've always wanted to do this in a way that it's not just scattered into the wind, to rely on Google to find it again. Now I'll be able to scatter it, and also have it maintained in context, where it can help me remember what I liked about a show, and why perhaps I gave it an excellent rating when some parts really sucked. This was something that was missing in Bingeworthy, I knew it -- just didn't know how to make it work. Now I think I have it working.",
+                    "created": "Tue, 21 Jan 2025 14:03:47 GMT",
+                    "image": "https://imgs.scripting.com/2017/12/10/thisIsNextYear.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's the flow:",
+                    "created": "Tue, 21 Jan 2025 14:08:19 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "In Bingeworthy, I rate a program. Then I realize I want to say more, I want to write a review that explains the rating.",
+                            "created": "Tue, 21 Jan 2025 14:08:27 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I click on the <i>Review in WordLand</i> button. The bingeworthy client asks for a token from the bingeworthy server. The token is is part of the database record for the user's rating of the program being displayed.  ",
+                            "created": "Tue, 21 Jan 2025 14:09:09 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "The button switches me over to WordLand using window.open, along with a <a href=\"https://gist.github.com/scripting/3b3c17e974882409ebf0f715a6f4f1b3\">package of data</a> that gives the editor all the info it needs to update the post when published. It's worth clicking the <a href=\"https://gist.github.com/scripting/3b3c17e974882409ebf0f715a6f4f1b3\">link</a> to see the data involved. ",
+                            "created": "Tue, 21 Jan 2025 14:22:31 GMT",
+                            "collapse": "true",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "In WordLand, I see a <a href=\"https://imgs.scripting.com/2025/01/18/useWordland.png\">dialog</a> confirming that I want to write a review for Bingeworthy. If I approve, it creates a new WordLand draft. ",
+                            "created": "Tue, 21 Jan 2025 14:20:36 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I write the first draft of the review and when I'm ready I publish it. The protocol supports revisions, btw.",
+                            "created": "Tue, 21 Jan 2025 14:09:41 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "When the user publishes, in WordLand it builds a URL with tv.bingeworthy.org as the destination. The post body has a JSON object with title and content properties, both of which can contain markdown. The URL params contain the id of the program, screenname of the user, the token that authorizes updating the comment for the rating of this program by this user. ",
+                            "created": "Tue, 21 Jan 2025 14:16:07 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "On tv.bingeworthy.org, if the token agrees with the one in the database, it updates the <i>comment</i> field of the rating, ",
+                            "created": "Tue, 21 Jan 2025 14:19:20 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Then tv.bingeworthy.org sends a websocket message to the author, in Bingeworthy, so they can update the display of the rating for the user, if they still have the program displayed on their screen.",
+                            "created": "Tue, 21 Jan 2025 14:25:42 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I've done these kinds of protocols before, for example, menu sharing on the Mac in the 90s and rssCloud on the web. These are increasingly complicated things, because they require secure coordination between a circle of programs, and allow choice in each of the nodes. ",
+                    "created": "Tue, 21 Jan 2025 14:05:57 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "There's nothing hard-coded about the protocol only working for this pair of programs. ",
+                    "created": "Tue, 21 Jan 2025 14:27:45 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It also supports updating. And the post is also available in WordPress and RSS, so even though it's editable in a great editor, and displayed in a collection of similar writing, it is also fully scattered into the wind. And there's no need for federation, it's just a protocol. We don't even rely on the apps using the same identity system.",
+                    "created": "Tue, 21 Jan 2025 14:28:03 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A <a href=\"https://github.com/scripting/wordlandSupport/issues/41\">thread</a> I started on the WordLand support repo.",
+                    "created": "Tue, 21 Jan 2025 14:49:18 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Heading off spam on Bluesky",
+            "created": "Tue, 21 Jan 2025 13:58:22 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Please -- to the people in charge at Bluesky, add a setting that allows me to restrict who can reply to posts. Choices:",
+                    "created": "Tue, 21 Jan 2025 13:59:03 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Anyone can reply.",
+                            "created": "Tue, 21 Jan 2025 13:59:16 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "People who follow me can reply.",
+                            "created": "Tue, 21 Jan 2025 13:59:18 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "People I follow can reply.",
+                            "created": "Tue, 21 Jan 2025 13:59:19 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "No one can reply.",
+                            "created": "Tue, 21 Jan 2025 13:59:20 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "For <i>all</i> posts, not on a post-by-post basis. ",
+                    "created": "Tue, 21 Jan 2025 13:59:23 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Defaults to #3.",
+                    "created": "Tue, 21 Jan 2025 13:59:25 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
