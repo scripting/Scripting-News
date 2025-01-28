@@ -1,0 +1,119 @@
+{
+    "created": "2025-01-27T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "27",
+    "path": "2025/01/27",
+    "text": "January 27",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Rivers on Bluesky",
+            "created": "Mon, 27 Jan 2025 16:16:56 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "This is a post for longtime Scripting News readers. As you know, I've been doing feed readers for a long time. They've been mostly organized around the <a href=\"https://daytona.scripting.com/search?q=%22river%20of%20news%22\">river of news</a> concept, which also happens to be the way twitter-like systems work. My rivers are built around \"RSS\" and formats that interop with RSS. ",
+                    "created": "Mon, 27 Jan 2025 16:15:38 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Then I got one of the ideas out of the blue that at first didn't make sense, but then the more I thought about the better the idea seemed. It came from <a href=\"https://bsky.app/profile/mcuban.bsky.social\">Mark Cuban</a>, who liked one of my posts on Bluesky, it was about some FeedLand rivers I had produced, and then I did what I often do -- I offered to do something like that for him. For obvious reasons I don't need to go into here, you all are smart or you wouldn't be reading this. :-)",
+                    "created": "Mon, 27 Jan 2025 16:18:09 GMT",
+                    "image": "https://imgs.scripting.com/2024/03/19/basketball.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Anyway -- he said \"I'd use that if it were on Bluesky.\" ",
+                    "created": "Mon, 27 Jan 2025 16:20:00 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "My first thought, ridiculous -- can't be done. They have all these limits that aren't present in HTML. I don't have any idea how I could make this work. Here's a <a href=\"https://imgs.scripting.com/2025/01/27/riverInFeedlandScreenshot.png\">screen shot</a> of what a river looks like in FeedLand. ",
+                    "created": "Mon, 27 Jan 2025 16:20:52 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But then after a few hours or days, the idea developed, as often happens, and I decided it might work and was worth a try. ",
+                    "created": "Mon, 27 Jan 2025 16:38:33 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So I wrote a piece of software that hooked into FeedLand's outbound news flow, and picked out stories from the right feeds, and shot them over to <a href=\"https://bsky.app/profile/feediverse.bsky.social\">an account on Bluesky</a>. Thanks to <a href=\"https://bsky.app/profile/mcuban.bsky.social\">Cuban</a>, who linked to it from his million+ follower account, it has 7.6K followers. It uses the list of feeds in my <a href=\"https://daytona.scripting.com/search?q=blogroll\">blogroll</a> on Scripting News to feed the river. I think it's a really good pioneering effort, with quite a few followers who are active. And it's going to stay running for the indefinite future. That was in December. ",
+                    "created": "Mon, 27 Jan 2025 16:23:19 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Now I've gone a step further, and generalized the code so I can have N of these rivers instead of just one. And to prove it works, I now have two new rivers on Bluesky. ",
+                    "created": "Mon, 27 Jan 2025 16:26:40 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "<a href=\"https://bsky.app/profile/dave.feediverse.org\">dave.feediverse.org</a> -- the <a href=\"https://news.scripting.com/?tab=dave\">Dave tab</a> on my news site. It subscribes to all the RSS feeds I generate. My linkblog, Scripting News, even my YouTube channel which has an RSS feed. Chuck Shotton requested this. It was a good idea so it was the <a href=\"https://bsky.app/profile/dave.feediverse.org\">first new river</a> I did on Bluesky. Went on the air just yesterday and now has 10 followers. ",
+                            "created": "Mon, 27 Jan 2025 16:27:38 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "<a href=\"https://bsky.app/profile/nba.feediverse.org\">nba.feediverse.org</a> -- then my project for this morning is to do the same thing for the NBA. I'm a huge Knicks fan, and basically love all of the NBA. People say the Knicks must win a championship, but I say who cares. If they keep playing at this level, with new castmembers all the time, with the track record of current management, I'm a totally happy campter. If we won a championship all the more exciting, but after all those years in the wilderness, it's so nice to finally after all this time to have a great NBA team in NY (and sorry the Nets don't count). Anyway, there's nothing more really to say. If you like basketball, and use Bluesky -- <a href=\"https://bsky.app/profile/nba.feediverse.org\">here's</a> what you follow. ",
+                            "created": "Mon, 27 Jan 2025 16:27:48 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "One more thing -- no federation here folks. It's very simple. No new formats or protocols, built entirely on the tried-and-true RSS and OPML formats for feeds and subscription lists. (And of course support for Atom and RDF too.)",
+                    "created": "Mon, 27 Jan 2025 16:32:28 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'm glad Mark Cuban asked me to try this path, it provides something I hadn't thought of. Not just inbound feeds for Bluesky, inbound rivers. All we need now is Markdown support, and then a <a href=\"https://textcasting.org/\">few more things</a>, and we'll be back to where we were in 1997. :-)",
+                    "created": "Mon, 27 Jan 2025 16:33:24 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "What is a sanctuary city?",
+            "created": "Mon, 27 Jan 2025 14:59:39 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I wonder if people understand what a <a href=\"https://en.wikipedia.org/wiki/Sanctuary_city\">sanctuary city</a> is. ",
+                    "created": "Mon, 27 Jan 2025 15:00:54 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "In a sanctuary city the local government accepts the fact that there are people living in the city who are not there legally. ",
+                            "created": "Mon, 27 Jan 2025 15:01:49 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "They want these people to be able to call the police without fear of being turned into the feds. Otherwise crime would go unreported and that would create much larger problems. ",
+                            "created": "Mon, 27 Jan 2025 15:03:23 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "They want the children of these people, who are often American citizens, to be able to go to school, again without having the parents reported to the feds. If they didn't guarantee that, the kids wouldn't be in school, and we all lose by having uneducated adults. It's a core principle of this country that educated citizens are a good thing.",
+                            "created": "Mon, 27 Jan 2025 15:04:37 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "They want them to be able to get health care, to go to a hospital when someone is seriously ill or injured. This is partly for pragmatic reasons, to slow disease spreading, and also because we are a rich country and keeping people healthy is a good thing, just like education. What other purpose could a government have? (A fair question for Republicans, one they probably wouldn't want to answer truthfully.) ",
+                            "created": "Mon, 27 Jan 2025 15:05:49 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The Republican talking points make it sound like local governments that declare as sanctuary cities are weak or immoral or anti-American, but that is not what's going on. You couldn't run a city with huge crimes commited against illegals because they would be so vulnerable, and kids need education, and everyone needs health care. Yet I hear the word used all the time in public discourse, and am concerned that most people don't know what it means. ",
+                    "created": "Mon, 27 Jan 2025 15:06:31 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
