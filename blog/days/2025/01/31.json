@@ -1,0 +1,105 @@
+{
+    "created": "2025-01-31T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "31",
+    "path": "2025/01/31",
+    "text": "January 31",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I've been using <a href=\"https://claude.ai/\">claude.ai</a> for programming work lately, and it does one thing better than ChatGPT. It reads your code and tries to mimic your coding style. ChatGPT won't do that. It's really frustrating to have to edit their code before I can even try it out. I like it and am paying the $20 per month in addition to the money I'm paying ChatGPT.",
+            "created": "Fri, 31 Jan 2025 15:49:56 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've decided that trading in my <a href=\"https://daytona.scripting.com/search?q=Model%20Y\">Model Y</a> for <a href=\"https://www.edmunds.com/suv/electric/#electric-suvs\">another EV</a> is an acceptable solution. Let someone else ride around in this car that I love, but hate because it is a symbol of American terrorism and apartheid.  This is compatible with my understanding that hate is love that was betrayed. I'm sure I won't love its replacement as much as I loved the Model Y, but I will feel better about driving it. And Tesla shareholders will, I hope, learn the lesson that products must be politically agnostic in order to work commercially. Or if you must take a stand, make it <i>against</i> fascism. So many of our oligarchs have made the wrong bet here. We will never forget what Zuckerberg, Bezos, the CEOs of Apple, Microsoft, Open AI -- all these companies went the wrong way. ",
+            "created": "Fri, 31 Jan 2025 14:46:22 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2024/05/21/teslaModelY.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Advice to would-be platform vendors",
+            "created": "Fri, 31 Jan 2025 15:26:41 GMT",
+            "type": "outline",
+            "description": "The key to success is convincing developers to ignore the fact that you will eventually kill them.",
+            "subs": [
+                {
+                    "text": "TL;DR: The key to success is convincing developers to ignore the fact that you will eventually kill them.",
+                    "created": "Fri, 31 Jan 2025 15:31:23 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Would-be platform vendors, open or not, in order to entice a developer to learn how it works:",
+                    "created": "Fri, 31 Jan 2025 15:26:57 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Quick success. Hello World works in less than 30 minutes. Hopefully much less.",
+                            "created": "Fri, 31 Jan 2025 15:27:23 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Easy to believe that the platform vendor won't want to kill me. This is a trick, because based on my experience, they always try to kill you, eventually. ",
+                            "created": "Fri, 31 Jan 2025 15:27:24 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Fun. If I can fill a need that I think users will want, without being resented too much by the platform vendor then I might take a jump knowing full well that the better the idea the quicker the vendor will kill me. For that reason it's better to do something they don't understand, or will see as irrelevant, ie a \"third party opportunity.\" As soon as it appears to be \"system software,\" that's when they started the project to eat your lunch. ;-)",
+                            "created": "Fri, 31 Jan 2025 15:27:33 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "The API works the way you think. This has been the highest hurdle for me to get over in most platforms I think about working with. I can't tell you how many times I've stared at the docs for a platform and have no idea how it relates to the product, which I know how to use. The concepts should mirror the functionality of the system it's the API for. Too much theory and I have to be very very motivated for other reasons to get through the fog. ",
+                            "created": "Fri, 31 Jan 2025 15:27:46 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "It must be relatively easy for you to hang out in a corner where it's too hard for them to be worth the trouble.",
+                            "created": "Fri, 31 Jan 2025 22:56:47 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Thing is if there is a platform vendor, they <i>can</i> kill you, no matter what they say. I once had a big platform vendor say they weren't trying to crush me. I could see on his face he realized he had just given up their plan, or how else would that term be in his head as applied to me. Never mind, I was already commited so what difference did it make. ",
+                    "created": "Fri, 31 Jan 2025 22:55:28 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The reason for all this is that as they grow, platform vendors hire employees to work on this stuff, and they resent independent developers. This surprised me when I first encountered it. I thought we were siblings, brothers and sisters. But they idealize our situation and only see the pain in theirs. So they will enjoy killing you. It will eventually happen. That's why it's generally much better if there is <a href=\"https://www.google.com/search?q=%22platform+without+a+platform+vendor%22+site%3Ascripting.com\">no platform vendor</a>. ",
+                    "created": "Fri, 31 Jan 2025 22:57:12 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "A pastoral scene",
+            "created": "Fri, 31 Jan 2025 14:12:37 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2025/01/31/pastoralFarmScene.png",
+            "subs": [
+                {
+                    "text": "Here we are on an artichoke farm in coastal California, a place where migrant workers would normally be doing low-pay back-breaking work to pick the artichokes we could eat in our salads and antipasto. ",
+                    "created": "Fri, 31 Jan 2025 14:12:40 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Instead all we have are Trump's beautiful dancers! It <i>is</i> a beautiful scene, but hold your nose because the unharvested 'chokes are rotting and they don't smell very sweet!",
+                    "created": "Fri, 31 Jan 2025 14:16:05 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Trump's California artichoke farms, beautiful, but not very productive. ",
+                    "created": "Fri, 31 Jan 2025 14:13:27 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2025/01/31/chokingOnArtichokes.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
