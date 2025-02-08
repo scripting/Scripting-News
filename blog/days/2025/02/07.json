@@ -1,0 +1,54 @@
+{
+    "created": "2025-02-07T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "07",
+    "path": "2025/02/07",
+    "text": "February 07",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Behind the scenes in the US government I imagine it's like a Vonnegut novel, or an episode of <a href=\"https://www.youtube.com/watch?v=XJYmyYzuTa8\">Pinky and the Brain</a>. ",
+            "created": "Fri, 07 Feb 2025 21:35:27 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've <a href=\"https://bsky.app/profile/scripting.com/post/3lhm3di6fgs24\">cracked the code</a> for adding OpenGraph data to Bluesky posts. The key was I <a href=\"https://bsky.app/profile/bmann.ca/post/3lhluwhk6jk2g\">learned</a> how to do the equivalent of a <a href=\"https://pdsls.dev/at/did:plc:dwaduijo6ngdgzmir5vovzrh/app.bsky.feed.post/3lhlwfuq2a22u\">View Source</a> on a Bluesky post so I could see how others did it. I tried Claude, ChatGPT, Gemini, none of them even understood the question of how to get Bluesky to add the data. I was amazed to learn that each developer has to do it for themselves, that this isn't something they built into their server. Anyway, I'm halfway there. ",
+            "created": "Fri, 07 Feb 2025 17:15:32 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/07/05/pinkyFacingLeft.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I wish Bluesky had just used the <a href=\"https://www.google.com/search?q=site%3Ascripting.com+%22twitter+api%22\">Twitter API</a>. That's how I would've done it. Continuity matters a lot. And think of all time wasted at re-doing something we had working a long time ago.  ",
+            "created": "Fri, 07 Feb 2025 21:18:16 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The AI world would have done much better with a president like Biden than we will with Trump. AI is a very potent tool for surveillance. Completely changes the game. And if it were just Trump and not Musk we'd have a chance, but Musk and Thiel fully understand the power, and probably already have all the code written, they just need the database records to scan and now they have all of them. Eventually we'll be talking about the \"peaceful uses of AI\" as we do about nuclear tech. But just saying that will get you punished. ",
+            "created": "Fri, 07 Feb 2025 15:22:16 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Another thing to watch while you still can, <a href=\"https://en.wikipedia.org/wiki/The_Lives_of_Others\">The Lives of Others</a>, about life in East Germany during the Cold War. ",
+            "created": "Fri, 07 Feb 2025 15:25:22 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I saw a bit on CNN that was like the <a href=\"https://en.wikipedia.org/wiki/Dean_scream\">Dean Scream</a>, an extended clip of how awkward Chuck Schumer is at a rally. It was used to shame a Democrat who was doing a great job of explaining the danger, Sen Murphy of Connecticut. I switched to basketball in disgust, thinking these people, CNN, they are <a href=\"https://www.youtube.com/watch?v=LZTaXjt2Ggk\">not serious people</a>. This problem isn't on the Dems, it's on all of us, and it always was. To pin it on the Dems is to say it's hopeless because right now they're just our representatives in Congress and some of our state governments. We have a big problem and we probably can't dig out of it, but if we have any hope at all, orgs like CNN have to stop being such idiots. Every so often I see a spark of brilliance over there, and then one of these things happens. What's more depressing, Trump or CNN? CNN by a lot. And the NYT and all the rest of the broken media. We are all in the same boat. ",
+            "created": "Fri, 07 Feb 2025 14:24:24 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/05/17/theBrain.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "In January I started <a href=\"https://this.how/myAppList/\">an online diary</a> where I list each of the apps I manage, as I work on them. When I work on one, I move it to the top. The notes are brief and to anyone but me might seem cryptic. But at least you can follow what I'm doing. No I don't plan to do an RSS feed for it. It's just a place to keep track of all the things I work on, for people who I work with, and most important, me. ",
+            "created": "Fri, 07 Feb 2025 14:05:21 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
