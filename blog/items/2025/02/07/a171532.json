@@ -1,0 +1,7 @@
+{
+    "text": "I've <a href=\"https://bsky.app/profile/scripting.com/post/3lhm3di6fgs24\">cracked the code</a> for adding OpenGraph data to Bluesky posts. The key was I <a href=\"https://bsky.app/profile/bmann.ca/post/3lhluwhk6jk2g\">learned</a> how to do the equivalent of a <a href=\"https://pdsls.dev/at/did:plc:dwaduijo6ngdgzmir5vovzrh/app.bsky.feed.post/3lhlwfuq2a22u\">View Source</a> on a Bluesky post so I could see how others did it. I tried Claude, ChatGPT, Gemini, none of them even understood the question of how to get Bluesky to add the data. I was amazed to learn that each developer has to do it for themselves, that this isn't something they built into their server. Anyway, I'm halfway there. ",
+    "created": "Fri, 07 Feb 2025 17:15:32 GMT",
+    "type": "outline",
+    "image": "https://imgs.scripting.com/2023/07/05/pinkyFacingLeft.png",
+    "flInCalendar": true
+}
