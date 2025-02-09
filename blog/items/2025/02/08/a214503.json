@@ -1,0 +1,31 @@
+{
+    "text": "A new Bluesky feature",
+    "created": "Sat, 08 Feb 2025 21:45:03 GMT",
+    "type": "outline",
+    "metaImage": "https://imgs.scripting.com/2025/02/08/aNiceForkInTheRoad.png",
+    "description": "My feed readers on Bluesky now use the metadata in the pages we link to to show a title, picture and description for each post that offers the metadata. ",
+    "subs": [
+        {
+            "text": "My <a href=\"https://bsky.app/profile/feediverse.bsky.social\">feed</a> <a href=\"https://bsky.app/profile/dave.feediverse.org\">readers</a> <a href=\"https://bsky.app/profile/devs.feediverse.org\">on</a> Bluesky <a href=\"https://bsky.app/profile/nba.feediverse.org\">now</a> use the metadata in the pages we link to to show a title, picture and description for each post that offers the metadata. ",
+            "created": "Sat, 08 Feb 2025 21:45:16 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Like <a href=\"http://scripting.com/2025/02/08/214503.html\">this page</a>, the one you're reading right now at this moment. ",
+            "created": "Sat, 08 Feb 2025 21:46:27 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "And here's a <a href=\"https://imgs.scripting.com/2025/02/08/screenshot.png\">screen shot</a> of what it looks like over in Bluesky.",
+            "created": "Sat, 08 Feb 2025 21:53:20 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "A fork in the road. ",
+            "created": "Sat, 08 Feb 2025 21:47:31 GMT",
+            "inlineImage": "https://imgs.scripting.com/2025/02/08/aNiceForkInTheRoad.png",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
