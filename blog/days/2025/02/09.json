@@ -1,0 +1,43 @@
+{
+    "created": "2025-02-09T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "09",
+    "path": "2025/02/09",
+    "text": "February 09",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I'm still fixing bugs in the <a href=\"http://scripting.com/2025/02/08/214503.html\">new Bluesky feature</a> I wrote about yesterday. If the URL of an image has search args, I wasn't getting the type correct and Bluesky rejected it. I used a post about <a href=\"https://en.wikipedia.org/wiki/Aaron_Swartz\">Aaron Swartz's</a> statue unveiled in San Francisco <a href=\"https://sfstandard.com/2025/02/08/aaron-swartz-marble-statue-unveiled-internet-archive/\">yesterday</a> to test the fix. I knew Aaron of course, he was part of the group developing \"RSS\" in the early 00s. He went on to do other things, as did I, and I met up with him again in NYC in the early teens, and then a few months or a year or two (I don't have the exact date of the meetup) he commited <a href=\"https://www.nytimes.com/2013/01/13/technology/aaron-swartz-internet-activist-dies-at-26.html\">suicide</a>. It was a real shock. Now, many years later -- a statue. And the <a href=\"https://gist.github.com/scripting/aa1a8beacf79d90bc26105ba46c32072\">random snarky slogan</a> my test script picked out was really <a href=\"https://imgs.scripting.com/2025/02/09/aaronScreenshot.png\">appropriate</a> to the <a href=\"https://bsky.app/profile/bighugga.bsky.social/post/3lhqslgshmt2c\">event</a>. It was a tragedy, because an older more confident Aaron would have made a big contribution. I often think about that. ",
+            "created": "Sun, 09 Feb 2025 14:10:09 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/04/24/cheshireCat.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I subscribed to <a href=\"https://www.wired.com/\">Wired</a> because of their famous coverage of the Musk Coup, so I also added its feed to my blogroll so I could <a href=\"https://imgs.scripting.com/2025/02/09/blogrollscreen.png\">see what I bought</a>, and was actually not surprised that they've been hit by the same disease all online publishing has, the need to bait the clicks, and of course not very much of it is hard-hitting. ",
+            "created": "Sun, 09 Feb 2025 14:26:31 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, being in my blogroll means that your posts have a chance of being included in my <a href=\"https://bsky.app/profile/feediverse.bsky.social\">Little Feed Reader</a> on Bluesky. ",
+            "created": "Sun, 09 Feb 2025 14:31:07 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Blue sky writer",
+            "created": "Sun, 09 Feb 2025 22:29:35 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "The word \"blue\" as written by a <a href=\"https://en.wikipedia.org/wiki/Skywriting\">sky writer</a>.",
+                    "created": "Sun, 09 Feb 2025 22:29:41 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2025/02/09/tease.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
