@@ -1,0 +1,52 @@
+{
+    "created": "2025-02-13T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "13",
+    "path": "2025/02/13",
+    "text": "February 13",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Here's a <a href=\"https://www.youtube.com/watch?v=U2-Xbn92mXE\">two-minute demo</a> of my new writing tool for Bluesky. This is quite a bit simpler than the last version, you log on directly to Bluesky, doesn't go through my server at all. This removes a whole layer of complexity for the user, and means a lot of people can use it without it having to scale up. Also made it simpler, more of a writing tool, closer to where I'd like this stuff to be when we have across-the-board textcasting support. Really focused on the flow for writers. ",
+            "created": "Thu, 13 Feb 2025 15:01:38 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's the <a href=\"https://bsky.app/profile/bighugga.bsky.social/post/3li2yzagkyj2u\">thread</a> that's created in the demo.",
+            "created": "Thu, 13 Feb 2025 15:31:18 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "If the US were a company, what would its market capitalization be?",
+            "created": "Thu, 13 Feb 2025 14:56:40 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you’re getting bummed about the news, remember tonight there’s another new episode of <a href=\"https://daytona.scripting.com/search?q=Severance\">Severance</a> to kvell about. ",
+            "created": "Thu, 13 Feb 2025 14:55:39 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Re-did the social media links at the bottom of each story page. <a href=\"https://imgs.scripting.com/2025/02/13/socialMediaLinks.png\">Screen shot</a>. Used to be just RSS and Linkedin. I got rid of Linkedin because I never use it. Added Bluesky, Mastodon, Threads. Debated whether to remove Twitter, but it is still a way to follow my posts, the ones that go out through the linkblog. A lot of people still use Twitter. Had to include the latest version of Font-Awesome, but since my story pages don't otherwise use FA, I figured nothing could break. Haha. ;-)",
+            "created": "Thu, 13 Feb 2025 14:44:06 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "New motto: Pissing in the wind for the good of mankind.",
+            "created": "Thu, 13 Feb 2025 15:32:40 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I wonder what Kurt Vonnegut would have thought of twitter-like systems?",
+            "created": "Thu, 13 Feb 2025 15:32:24 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
