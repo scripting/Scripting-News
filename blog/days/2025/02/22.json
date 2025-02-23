@@ -1,0 +1,41 @@
+{
+    "created": "2025-02-22T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "22",
+    "path": "2025/02/22",
+    "text": "February 22",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "\"WordLand\" opened yesterday for everyone to use. There was a deal-stopping bug reported last night, <a href=\"https://daveverse.wordpress.com/2025/02/21/bookmarks-opml-not-found-ooops/\">fixed</a> provisionally, then for real this morning. Prevented new users from getting started. Really embarassing. If you have trouble, please report. There's a link for Support in the <a href=\"https://imgs.scripting.com/2025/02/22/support.png\">main menu</a>.  WordLand is designed to be the kind of editor you use in a social app like Bluesky or Mastodon, but with most of the features of \"textcasting\". ",
+            "created": "Sat, 22 Feb 2025 19:56:29 GMT",
+            "type": "outline",
+            "image": "https://s3.amazonaws.com/scripting.com/images/2024/10/24/wordlandlogo.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "\"WordLand\" is where we start to boot up a simple social net using only \"RSS\" as the protocol connecting users. Rather than wait for ActivityPub and AT Proto to get their acts together. I think we can do it with feeds and start off with <i>immediate</i> interop without the complexity of federation. I call it the <a href=\"https://feediverse.org/\">feediverse</a>. It's not a joke, although it may incite a smile and a giggle. And that's ok.",
+            "created": "Sat, 22 Feb 2025 20:06:51 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://bsky.app/profile/jayrosen.bsky.social\">Jay Rosen</a> started a list of <a href=\"https://bsky.app/profile/jayrosen.bsky.social/lists/3ling3swmwv2w\">journalism sources</a> on Bluesky. <a href=\"https://bsky.app/profile/johnspurlock.com\">John Spurlock</a> wrote an app that generates an <a href=\"https://firesky.tv/opml?list=https://bsky.app/profile/did:plc:3t37x6vfigdzzp2gjcfnzlz4/lists/3ling3swmwv2w\">OPML subscription list</a> using Bluesky's API. It will enable us to recreate a world that Jay put together, outside of Bluesky. From AT Proto to OPML and RSS. ",
+            "created": "Sat, 22 Feb 2025 19:36:47 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "We aren't prepared for what's coming.",
+            "created": "Sat, 22 Feb 2025 19:35:29 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "We should be declaring independence from both political parties. We have to get together with other citizens whose lives are going to be torn apart by what's happening, and the Dems are not at this time representing us. This is <i>our</i> government that is being overthrown. ",
+            "created": "Sun, 23 Feb 2025 02:37:26 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
