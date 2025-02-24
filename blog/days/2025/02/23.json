@@ -1,0 +1,62 @@
+{
+    "created": "2025-02-23T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "23",
+    "path": "2025/02/23",
+    "text": "February 23",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Day 3 of WordLand",
+            "created": "Sun, 23 Feb 2025 16:02:40 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "This started out as a post on the support group, but it became a post that needed to be on the blog. ",
+                    "created": "Sun, 23 Feb 2025 16:13:07 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The groundrules here are -- if you see a problem in the support group and you can help with it, please give it a try and speak up. ",
+                    "created": "Sun, 23 Feb 2025 16:02:43 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's important to develop a community here if the <a href=\"https://wordland.social/\">product</a> is going to gain users, and become solid for all people and achieve all its potential for blazing a new trail. If it's just me, the results are predictable and not good -- I'm one old man here, with limited capability. The product still has issues, so there is still plenty of work to do, but I think the result will be worth it. ",
+                    "created": "Sun, 23 Feb 2025 16:03:13 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The goal is to bootstrap something new -- a social network without all the problems of Twitter et al. Ultimately the limits they impose on writers are unacceptable. I've waited for them to fix these problems for 18 years now, and I've come to see, amazingly, they don't see them as problems. They are happy to have writers paste images of their writing instead of the words themselves. Or break their writing up into 300-character chunks that are basically impossible to read and a bitch to write. And no titles, no editing, no style, no links. And they call it the web? (End of editorial.)",
+                    "created": "Sun, 23 Feb 2025 16:04:16 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If this works, it will blaze a trail for new products on both sides, reading and writing. We've got reading covered from a technical standpoint with FeedLand, and some good UI, I want to integrate them with WordLand. And, as with everything based on RSS, you can replace my stuff with others, <i>easily.</i> Unlike the twitter-like systems, which are monolithic, and rely on federation (which imho doesn't actually work) to make it possible for components to be replaced. They should have all started with RSS and slowly and carefully added features without sacrificing the replaceability of components. Instead they decided, imho unwisely, to try to reinvent RSS. The result is confusion and stagnation.",
+                    "created": "Sun, 23 Feb 2025 16:05:46 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I would also like to encourage people with WordPress experience to help come up with a template that accomadates WordLand sites in a canonical form. Makes sure WL's idea of a category is a good match with WP's. I am a very casual WordPress user as you can see from <a href=\"https://daveverse.wordpress.com/\">my test site</a>. I like the template, but it has errors in it. I don't plan on becoming a WordPress expert, there are so many of you, and I have my plate full with all kinds of other stuff where I'm the only expert. ",
+                    "created": "Sun, 23 Feb 2025 16:07:29 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I chose WordPress for the same reason I chose MP3 and XML for podcasting in 2001. There's absolutely no question it's the consensus platform for web publishing. There are others, but the one that's most deeply installed is WordPress. So many people know how to make it work. It's a 20+ year thing, and they've done an <i>excellent</i> job of maintaining compatibility. Stuff we developed that worked with WordPress in the 00s still works today. That probably has a lot to do with it being the consensus. ",
+                    "created": "Sun, 23 Feb 2025 16:10:29 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Anyway, it's encouraging to see how many people are trying WordLand. Now I expect there will be lots of problem reports. It's an important time when help is needed.",
+                    "created": "Sun, 23 Feb 2025 16:12:23 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Dave",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
