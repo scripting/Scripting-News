@@ -1,0 +1,68 @@
+{
+    "text": "Day 4 of WordLand",
+    "created": "Mon, 24 Feb 2025 15:30:52 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Aziz Poonawalla wrote a <a href=\"https://azizhp.wordpress.com/2025/02/24/7482/\">review</a> of WordLand. I'd like to respond.",
+            "created": "Mon, 24 Feb 2025 15:31:57 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "First, I'd like to say I put a lot of thought into this product, so it is the way it is for good reason.",
+            "created": "Mon, 24 Feb 2025 15:32:55 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm trying to escape from the limits of twitter-like systems. I want a writing world where we get the features of \"textcasting\". So your belief that the product has to support Bluesky and Mastodon cross-posting would be like saying an EV should only run on gasoline. The whole point is to <i>not</i> limit ourselves to the features of Bluesky. ",
+            "created": "Mon, 24 Feb 2025 15:33:25 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "On the other hand, I'm not saying limits in software aren't good. A product is as much defined by what it can't do as with what it does. All feed reading software has to strip large amounts of HTML from what it finds in feeds, because RSS doesn't place any limits what you can use. So we strip off all the HTML except (in FeedLand) simple styling and links. And so to fit into FeedLand and as a suggestion to other feed reading software, I've said my limit is Markdown. I think we can all support that. I ran the idea by my former colleague Brent Simmons, who does <a href=\"https://netnewswire.com/\">NetNewsWire</a>, and he was quickly convinced, and plans to support it in his product. This is a way to get new stuff happening in the RSS world. Start with supporting the <a href=\"https://source.scripting.com/#1653758422000\">source:markdown</a> element in your feeds and in your feed reader. ",
+            "created": "Mon, 24 Feb 2025 15:34:32 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "You say there's no use-case -- but there is a use-case, just not for you which is fine. ",
+            "created": "Mon, 24 Feb 2025 15:38:17 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The typical user is a writer who publishes to WordPress. As passionate as I am about the limits of twitter-like systems, I am also feel that WordPress has never adequately served the needs of writers, and what a shame that is. \"WordLand\", imho, is exactly what writers need. Get all the other non-writing stuff out of my way. Let me clear a space for iterating over something I publish to the web. Give me a menu with all my documents, so I can quickly make a change. These are the basic principles we implemented successfully in \"Radio UserLand\" in 2002. They were available for anyone in the WordPress world to copy, but for some reason they didn't. It's so weird to me, I'm like a time traveler who has come 20 years in the future to find out they lost the <i>purpose</i> of a product like WordPress. It's supposed to be a place writers love to come to do their writing. I think when writers discover WordLand they will see a product designed by someone who is one of them. It's just a beginning, there's lots more to do. I take the long term view, a road to anywhere begins with one step.",
+            "created": "Mon, 24 Feb 2025 15:38:33 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Back to Bluesky and Mastodon -- because they both support outbound RSS, we will be able to include stuff written there in our collections of published feeds. I fully intend to integrate features from FeedLand in WordLand. That's why the names are so similar. :smile:",
+            "created": "Mon, 24 Feb 2025 15:44:21 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's good that you like <a href=\"https://micro.blog/\">micro.blog</a>, this isn't in the way of it and it isn't in the way of WordLand. I'm in regular contact with Manton, and if his product grows, I win because he's got the right model. He's still trying to work with the limited platforms and I, again, gave up. That right there defines the two products. ",
+            "created": "Mon, 24 Feb 2025 15:45:14 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Sometimes giving up is the right thing to do. The first time i gave up btw was in 2017, when I stopped trying to cross-post from Scripting News to Medium, Twitter, Facebook, etc. It was liberation. I had come to hate my writing because I couldn't use links, and I couldn't edit or have more than 140 chars. What a miserable existence, and I love writing, and I had to make a choice. I'm doing it again, but now have made the investment in meeting people with the kind of writing tool they expect and want. That was the same thing that worked so well with Radio. ",
+            "created": "Mon, 24 Feb 2025 15:46:06 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "My real goal was to not need to do any of this! I would have much preferred if Bluesky had decided to break out of the tiny little box Twitter put them in. Then I could do all my writing there. And I wish WordPress had a team of developers working on making the product the best for writers in addition to programmers and designers, but they didn't. Should I give up there? Maybe. Maybe we were destined to give up on the web as a writer's platform. But I saw so much potential there in 1994 when I started working here exclusively. That potential is still very much there, you just have to believe, and against all odds, I do still believe. One more time, let's give it a try.",
+            "created": "Mon, 24 Feb 2025 15:47:43 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Anyway, it's okay if you don't use it, but I wanted to disagree with some of your conclusions. :-)",
+            "created": "Mon, 24 Feb 2025 15:50:06 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "PS: I wrote every word on this page, not an AI bot, in case you were wondering. :smile:",
+            "created": "Mon, 24 Feb 2025 15:43:30 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
