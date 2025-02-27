@@ -1,0 +1,52 @@
+{
+    "created": "2025-02-26T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "26",
+    "path": "2025/02/26",
+    "text": "February 26",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "People give <a href=\"https://en.wikipedia.org/wiki/Matt_Mullenweg\">Matt Mullenweg</a> a lot of grief, but do they realize how hopeless the open web would be if he and his friends hadn’t kept it going for 20+ years. I wrote the other day that I feel like a <a href=\"http://scripting.com/2025/02/24/153052.html#a153833\">time traveler</a>, discovering WordPress 20 years after I left UserLand. I care that it's open source, but I care much more that it's open web esp after we've been so thoroughly dominated by feature-limited silos such as Twitter, Facebook and yes -- even Mastodon and Bluesky. Even if there's a theoretical way to do it, practically speaking we have to wait for their developers to implement the features we want. Open source doesn't help there, but open web does. Matt puts the emphasis on the open source part, that's why it wasn't until very recently that I realized that <i>open web</i> is more important, to me at least. ",
+            "created": "Wed, 26 Feb 2025 14:13:19 GMT",
+            "type": "outline",
+            "image": "https://s3.amazonaws.com/scripting.com/images/2024/08/13/trafficUptight.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://imgs.scripting.com/2025/02/26/slamTheScamDay.png\">An email arrived</a> from the Social Security Administration entitled Help Us Slam the Scam. Explains how not to get scammed by people who want our checks. Wonder if they realized it applies equally to Elon Musk, richest man in the world, who wants to eat old people's cupcakes because, well I can't explain it. \n",
+            "created": "Wed, 26 Feb 2025 14:31:28 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Death panel",
+            "created": "Wed, 26 Feb 2025 14:06:45 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I asked ChatGPT to draw a picture of a <a href=\"https://en.wikipedia.org/wiki/Death_panel\">death panel</a> as described by Republican lawmakers as they fought the Affordable Care Act. I was surprised it was willing to do it.",
+                    "created": "Wed, 26 Feb 2025 14:06:47 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "According to the bot: \"The concept of 'death panels' was a widely debunked political talking point used by opponents of the Affordable Care Act. It falsely suggested that government-run committees would decide whether individuals—especially the elderly or disabled—would receive life-saving care. ",
+                    "created": "Wed, 26 Feb 2025 14:07:55 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "\"I can generate an image depicting a grim, dystopian bureaucratic setting where a group of shadowy officials in suits are sitting at a long, dark table, stamping papers while an elderly patient looks on with concern. The room would have a cold, sterile look, with a looming clock symbolizing bureaucratic power over life and death.\"",
+                    "created": "Wed, 26 Feb 2025 14:12:49 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Death panel, as imagined by ChatGPT.",
+                    "created": "Wed, 26 Feb 2025 14:06:59 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2025/02/26/deathPanel.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
