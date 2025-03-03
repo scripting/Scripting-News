@@ -1,0 +1,59 @@
+{
+    "created": "2025-03-02T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "02",
+    "path": "2025/03/02",
+    "text": "March 02",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "If I understand correctly, this <a href=\"https://techcrunch.com/2025/02/28/bluesky-based-instagram-alternative-flashes-launches-publicly/\">TechCrunch article</a> is misleading the same way the Bluesky company misleads. There is no  benefit to users of either app that they use the same complicated and new structure to communicate, where simpler and established standards would work just as well. There is a way they could make this work. Come up with a plugin architecture and something like an app store, so developers could define new data types, and then we'd really have something. I would probably do an <a href=\"https://opml.org/\">outliner</a> plugin first, then a <a href=\"http://scripting.com/2022/08/25/210902.html\">Markdown</a> plugin.",
+            "created": "Sun, 02 Mar 2025 14:24:20 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2017/09/12/pitcher.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "The best revenge is none",
+            "created": "Sun, 02 Mar 2025 19:44:16 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://www.goodreads.com/author/quotes/14997571.Pamela_Short\">Pamela Short</a>: The best revenge is none. Heal yourself, forgive, move on and don't become like those who hurt you.",
+                    "created": "Sun, 02 Mar 2025 19:44:37 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "There's a pragmatic reason for this. I found, when I was young and didn't know better, that getting revenge didn't just hurt the target, it also left me with a deep pain. When I did something to another person I was also doing it to myself. I found that the dark cloud of my harmful behavior would stay with me for a long time, maybe never going away. I would find it hard to forgive myself for what I did. So it's better to not try to get revenge, and let the pain of being hurt dissipate on its own.",
+                    "created": "Sun, 02 Mar 2025 19:46:19 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I have a story to go with that. In the beginning of RSS, I had a partner and customer ask me at lunch if there were any circumstances when I would take the server we ran for them off the air. I said that's a weird question, but of course not. The very next day, his team announced they were taking over RSS, completely changing it, and the first I heard of it was in the public announcement. Later that same day, my brain boiling over in anger at being treated so poorly, I did eventually land on the idea of just taking his server offline. And then I laughed that he knew I'd get to that, and wanted to plant a little marker there for whatever reason, I don't know. But no I didn't take his server off the air. He may be a bastard, but he did pay for the service so his server stays up. And two years later, his project a failure, I came out with RSS 2.0 and that was the end of that. It wasn't revenge, it was just picking up the ball in the playground and restarting the game that they had caused to stop. We went on and RSS did a lot of good work.",
+                    "created": "Sun, 02 Mar 2025 19:47:05 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Mike Myers as Elon Musk",
+            "created": "Sun, 02 Mar 2025 15:32:27 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://www.youtube.com/watch?v=CUpOMSJ1MdU&t=260s\">Video</a> of Mike Myers doing Elon Musk in last night's SNL cold open. ",
+                    "created": "Sun, 02 Mar 2025 15:35:45 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://www.youtube.com/watch?v=CUpOMSJ1MdU&t=260s\">Myers does Musk</a> almost as well as Musk does Musk.",
+                    "created": "Sun, 02 Mar 2025 15:32:35 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2025/03/02/myersAsMuskSNL.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
