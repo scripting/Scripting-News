@@ -1,0 +1,98 @@
+{
+    "text": "Bluesky is not billionaire-proof",
+    "created": "Tue, 11 Mar 2025 11:38:38 GMT",
+    "type": "outline",
+    "metaImage": "http://scripting.com/images/2025/03/11/robberBarons.png",
+    "description": "If Bluesky were to disappear or be bought by a billionaire, their open protocol wouldn't help users replace it.",
+    "subs": [
+        {
+            "text": "First I want to say that <a href=\"https://daytona.scripting.com/search?q=bluesky\">Bluesky</a> is nice software, good design, attractive, they have a goal and stick to it, and it stays up, no <a href=\"https://www.theatlantic.com/technology/archive/2015/01/the-story-behind-twitters-fail-whale/384313/?gift=f35zZN0v_gDFE8xNwlQAHSNkdwehtNpsP-bh1d4EoU4&utm_source=copy-link&utm_medium=social&utm_campaign=share\">fail whales</a> that were so vexing of early days Twitter. ",
+            "created": "Tue, 11 Mar 2025 12:34:31 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "That said, I have two criticisms:",
+            "created": "Tue, 11 Mar 2025 11:38:49 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "They are implementing the same limits that Twitter designed into their product, no styling, no links, you can't edit, no titles, enclosures, and a limit of 300 chars per post. Simple stuff that, if they broke through the Twitter design, would make it a decent platform for writers. I don't see any reason to duplicate the mistakes that Twitter made, in 2006, in the design of their product.",
+                    "created": "Tue, 11 Mar 2025 11:39:28 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "They repeatedly claim to be <a href=\"https://www.cnbc.com/2024/11/21/bluesky-ceo-jay-graber-says-x-rival-is-billionaire-proof.html\">billionaire-proof</a> but as far as I can tell, and I have built software on their APIs, they are not. Yet they tell users they are safe, and what choice do the users have but to believe them, esp when tech journalism repeats the claims without challenging them. As a result, people believe that if Bluesky were to be acquired by a billionaire, something they might not even be able to stop, they will be able to quickly migrate to something that's the same as Bluesky and keep all their connections, people they follow and people following them. ",
+                    "created": "Tue, 11 Mar 2025 11:39:14 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "All of this would be nice, if it were true but imho it is not true. I'm going to go through the recent statement from their CEO in the remainder of this piece. I invite them to rebut it, esp <a href=\"https://www.techdirt.com/user/mmasnick/\">Mike Masnick</a> of Techdirt, who has journalistic integrity, is widely respected, and is on the Bluesky board of directors. Honestly I can't understand why Masnick puts his integrity on the line here, I've tried to discuss it with him, and I guess he doesn't take me seriously enough to give a serious response. I would also like to know what his deal is with them, does he profit personally if Bluesky is acquired. That needs to be disclosed, imho. I would do it if I were in his shoes. ",
+            "created": "Tue, 11 Mar 2025 11:58:59 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you read my blog, I hope you know that I wouldn't challenge something like this unless I was pretty sure there is an issue. I don't imagine for a second that people would abandon Bluesky if they knew they were locked in and would have no path out if it was bought by a billionaire. I know we can't get out and I still use Bluesky, because that's where the people I want to network with are. They won. So they don't have to deceive. They can stop making this claim. Yet they continue to do it, in pretty much exactly the same terms as they have been doing it all along. ",
+            "created": "Tue, 11 Mar 2025 12:00:18 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's the statement that appeared in <a href=\"https://techcrunch.com/2025/03/10/at-sxsw-bluesky-ceo-jay-graber-pokes-fun-at-mark-zuckerberg-with-latin-phrase-t-shirt/\">TechCrunch</a> yesterday.",
+            "created": "Tue, 11 Mar 2025 12:02:21 GMT",
+            "subs": [
+                {
+                    "text": "“If a billionaire came in and bought Bluesky, or took it over, or if I decided tomorrow to change things in a way that people really didn’t like, then they could fork off and go on to another application,” Graber explained at SXSW. “There’s already applications in the network that give you another way to view the network, or you could build a new one as well. And so that openness guarantees that there’s always the ability to move to a new alternative.”",
+                    "created": "Tue, 11 Mar 2025 11:45:10 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The quote is from <a href=\"https://en.wikipedia.org/wiki/Jay_Graber\">Jay Graber</a>, the CEO of the company.",
+                    "created": "Tue, 11 Mar 2025 11:45:47 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Let's go through it, point by point",
+            "created": "Tue, 11 Mar 2025 11:45:58 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "\"they could fork it off and go on to another application\" -- in this sentence \"they\" applies to developers, because you have to be a developer to <a href=\"https://en.wikipedia.org/wiki/Fork_(software_development)\">fork</a> an application. Assuming Bluesky is available in source code, with an appropriate open source license, and they have released enough code so that a developer could quickly launch an exact Bluesky clone, maybe this part is true. I can't evaluate it without going through the exercise of forking their code, but I do know this -- no one has. Why not? I would think that with <a href=\"https://backlinko.com/bluesky-statistics\">27 million users</a>, by now someone would have tried it. Maybe this post will uncover such an instance, or motivate one. I would be happy to try it out to see how it works. But it has to be completely independent of Bluesky. It would have to work, without loss of functionality, if Bluesky's network disappeared.",
+                    "created": "Tue, 11 Mar 2025 11:46:10 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "\"there’s already applications in the network that give you another way to view the network\" -- this is true. But they don't do very much nor do they have many users. They are basically experiments that show that you could build something else with the format they have defined. This isn't unusual. You can make a lot of different kinds of websites with HTML, for example, but very few of them have millions of users. Same thing with apps built on the Bluesky protocol that use data types that Bluesky itself doesn't understand. I don't think this adds anything to the claim of billionaire-safety. Also if these apps are in the same network, that doesn't give us any independence from Bluesky. So I think this is a <a href=\"https://en.wikipedia.org/wiki/NOP_(code)\">no-op</a>, it adds nothing but confusion to the claim.",
+                    "created": "Tue, 11 Mar 2025 11:49:15 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "\"[our] openness guarantees that there’s always the ability to move to a new alternative\" -- this is not true, and it's the crux of the concern. There is no such guarantee. If there were, we would be able to move to an alternative now. Where is it? It's not there and imho it can't be there. ",
+                    "created": "Tue, 11 Mar 2025 11:54:12 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "There are other problems. Mastodon, via its API, actually does what Bluesky claims to do. There are lots of <a href=\"https://www.quora.com/What-is-a-server-instance\">instances</a> of Mastodon servers and they interop with each other. It's an incredible proof of concept. But its federation ability adds enough complexity that most people prefer Bluesky, which doesn't have those complications. There are always tradeoffs in technology. You can have flexibility but it comes at a price. Bluesky would have you believe you can have the flexibility of Mastodon without paying the price. ",
+            "created": "Tue, 11 Mar 2025 12:28:14 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "There may be a way to do what they promise, but it would mean removing features, which isn't a bad idea, but they have decided they have to do everything Twitter does and there is the conundrum. Twitter was designed around centralization, and because of that Twitter is <i>not</i> billionaire-proof as has been <a href=\"https://en.wikipedia.org/wiki/Elon_Musk#Business_career\">demonstrated</a>, and neither is Bluesky.",
+            "created": "Tue, 11 Mar 2025 12:15:44 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Every time I read this quote from their CEO it gets my bile up, and I say things <a href=\"https://bsky.app/profile/scripting.com\">on Bluesky</a> that I regret later. Instead I decided to take the time this morning to carefully explain the problem and now when they make the claim, I can point to this piece. And maybe I'm wrong, and they can show me an instance I can switch to and not lose access to my network of friends on Bluesky and not depend on the existence of Bluesky itself. That would actually make me happy (I think) and give me a completely new understanding of computer science. ",
+            "created": "Tue, 11 Mar 2025 12:16:27 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
