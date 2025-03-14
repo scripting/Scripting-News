@@ -1,0 +1,61 @@
+{
+    "text": "The writer's web",
+    "created": "Thu, 13 Mar 2025 13:28:30 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "The web was initially <a href=\"https://www.ietf.org/rfc/rfc1866.txt\">designed</a> for writers. Styling, links, paragraphs, titles (at all levels). The ability to edit. No character limits. That's what we had to work with when we started blogging in the mid-late 90s. ",
+            "created": "Thu, 13 Mar 2025 13:30:08 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Then there was a big <a href=\"http://scripting.com/2016/09/22/tenYearsUsingTwitter.html\">corner-turn</a> in 2006. In an instant the web shrunk to almost nothing. No titles, no style, no links, 140 chars max. Enough to say \"I'm waiting in line at the bank.\" Nothing wrong with that, but it isn't what I think of as writing. ",
+            "created": "Thu, 13 Mar 2025 14:16:29 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "A couple of years ago, I decided to focus on writers once again. I started developing ideas of what <i>the writer's web</i> would look like if we used today's technology.  ",
+            "created": "Thu, 13 Mar 2025 13:28:52 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "<b>New technology</b>. Since the last time we looked, Markdown was invented. RSS feeds had become instant. Websockets replaced long polling. Servers got cheap! And SQL is fast and the tools are much better. We'll use all the best new technology.  ",
+                    "created": "Thu, 13 Mar 2025 13:48:15 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<b>Modern interfaces</b>. And we'll borrow the best ideas from twitter-like systems. Writing a new post should be as easy as writing a tweet, but with all the features writers need at-hand, easy to access. ",
+                    "created": "Thu, 13 Mar 2025 13:31:15 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<b>Open, for real</b>. And best of all, it'll be open, for real, now -- not some day. Each component will be completely replaceable with simple APIs, and lots of example code. ",
+                    "created": "Thu, 13 Mar 2025 13:32:44 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm going to use WordPress as my basic back-end technology because it is reliable and broadly deployed, but you don't have to. The great thing about the web is that it's already federated. Nothing to wait for. :smile: ",
+            "created": "Thu, 13 Mar 2025 13:52:29 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "We know how to do this. The only remaining question imho is whether we <i>choose</i> to.",
+            "created": "Thu, 13 Mar 2025 13:33:49 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "What does the writer's web mean to you? Write a blog post. Start now.",
+            "created": "Thu, 13 Mar 2025 14:08:26 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<i>Let's write together!</i>",
+            "created": "Thu, 13 Mar 2025 13:35:13 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
