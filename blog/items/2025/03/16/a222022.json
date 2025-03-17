@@ -1,0 +1,49 @@
+{
+    "text": "Blogging is due for a refresh",
+    "created": "Sun, 16 Mar 2025 22:20:22 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "A lot has changed since the last time we took a serious look at blogging. A few items, as examples.",
+            "created": "Sun, 16 Mar 2025 22:20:28 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "When RSS came along Markdown didn't exist. The two technologies belong together, imho.",
+                    "created": "Sun, 16 Mar 2025 22:20:34 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Websockets have replaced long polling. ",
+                    "created": "Sun, 16 Mar 2025 22:20:51 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Servers got cheap! (and easy to deploy).",
+                    "created": "Sun, 16 Mar 2025 22:20:53 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "SQL is fast and the tools are much better.",
+                    "created": "Sun, 16 Mar 2025 22:20:54 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The user interfaces of all the Web 2.0+ products didn't exist last time we created new blogging communities. We can borrow ideas from  twitter-like systems, even huge products like Facebook and Spotify have innovations that come long after the initial wave of blogging.",
+                    "created": "Sun, 16 Mar 2025 22:20:35 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "But one thing stays the same -- all the components are replaceable. Absolutely zero lock-in. We use simple standard APIs where they exist, and create new minimal formats and protocols where they don't.",
+            "flInCalendar": true
+        },
+        {
+            "text": "Blogging has a simple philosophy that remains constant. ",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
