@@ -1,0 +1,6 @@
+{
+    "text": "Poking around on old servers I found <a href=\"http://jsonify.scripting.com/?url=http://scripting.com/rss.xml\">this cute little app</a> that jsonifies an RSS feed. Not sure why I did it. Postscript, it only works for one feed, mine. I replaced it with a template in the feeder app which was a useful version of the cute little app. Here's a <a href=\"https://feeder.scripting.com/?template=jsonify&feedurl=http%3A%2F%2Fjeffmilner.com%2F%3Ffeed%3Drss2\">demo</a> of it viewing the contents of a feed in JSON using a special template. ",
+    "created": "Mon, 17 Mar 2025 15:06:14 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
