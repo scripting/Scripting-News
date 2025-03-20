@@ -1,0 +1,48 @@
+{
+    "created": "2025-03-19T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "19",
+    "path": "2025/03/19",
+    "text": "March 19",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://www.politico.com/story/2009/04/inside-obamas-bank-ceos-meeting-020871\">Obama once said</a> to the bankers who had just crashed the economy, much like Trump/Musk are trying to do now -- that his administration is the \"only thing between you and the pitchforks.” These are the same people. They’re back from 2009 and this time they want <i>everything.</i> They don't care what's left, they're machines. All they know how to do is to consume. Squeeze a cent of value from every dollar. This <a href=\"https://www.youtube.com/watch?v=P4nYgfV2oJA&t=130s\">clip</a> from Goodfellas explains. I saw a quote from one of the Dogeheads saying that all universities should be shut down. Hey you can say whatever you like, but they want to actually do it. ",
+            "created": "Wed, 19 Mar 2025 14:54:52 GMT",
+            "type": "outline",
+            "image": "https://s3.amazonaws.com/scripting.com/images/2020/03/08/uncleSam.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "A piece that Paul Krugman should write. How what Musk is doing to the US is worse than the 2009 near-collapse of the world economy. People who think he's going to bring down just the US, should recall how close we all came to falling into the abyss. But this time there will be no one to save us.",
+            "created": "Wed, 19 Mar 2025 16:44:49 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The basic thing about tech is that attracts people who take things that don't belong to them. There's no policing. The richest people are the ones who are best at grabbing control of other people's creations. That's the common theme. Now they're in DC, going for all of it. The whole thing. But they're like the <a href=\"https://www.youtube.com/watch?v=NWeh4A600E0\">dog that catches the car</a>. They don't have the slightest idea what to do with what they're taking. How could they? It's incomprehensibly vast.",
+            "created": "Wed, 19 Mar 2025 17:14:47 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The <a href=\"https://gist.github.com/scripting/85bc99f9dc055b220c43a6cde4aa6415\">data behind</a> a <a href=\"https://daveverse.wordpress.com/2025/03/16/blogging-is-due-for-a-refresh/\">WordLand blog post</a> I wrote a few days ago. I'm publishing these so people get an idea of the structures we're working with. It's basically a WordPress post with added metadata. They have these kinds of structures in RSS, Atom, ActivityPub and AT Proto. Eventually some of these will die out, there are too many formats to support. At any moment in time it feels like each one is enormous and permanent. But show me where the new OS/2, Novell, UCSD Pascal or CP/M apps are. Go back far enough, Alogol, Smalltalk, Lisp, Simula. I am very much a less-is-more type protocol designer, don't try to plan for things you don't have a working model of, because the ideas you gain when you actually put the app together will work much better. And only add things you're willing to live with forever. Slow down to hurry up. Etc. Anyway, <a href=\"https://gist.github.com/scripting/85bc99f9dc055b220c43a6cde4aa6415\">this</a> is the format we work with inside \"WordLand\", and more important, in the new APIs, that build on and simplify the <a href=\"https://www.npmjs.com/package/wpcom\">excellent API</a> that Automattic had already produced.",
+            "created": "Wed, 19 Mar 2025 13:46:38 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Of course I'm getting ready to ditch <a href=\"https://daytona.scripting.com/search?q=tesla\">my Tesla</a> Model Y, and thinking about what my options are. I saw someone comment on the <a href=\"https://www.caranddriver.com/rivian/r1t\">Rivian truck</a>, and I've seen them around but didn't imagine they'd have the same muscle car profile as the Tesla, but apparently they do. That's the thing I'd miss the most about the Model Y. Its power and handling. It's a big car, but it drives in many ways like the <a href=\"https://www.edmunds.com/mazda/mx-5-miata/1992/review/\">Miata</a> I drove in the 90s. ",
+            "created": "Wed, 19 Mar 2025 13:20:41 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2025/03/19/rivian.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://www.techdirt.com/\">Techdirt</a> has a well-deserved rep for exposing the false claims tech companies make. I’d love to see a Techdirt analysis of Bluesky’s claim that they’re billionaire-proof and they don’t lock users in. For background check out this <a href=\"https://techcrunch.com/2025/03/10/at-sxsw-bluesky-ceo-jay-graber-pokes-fun-at-mark-zuckerberg-with-latin-phrase-t-shirt/\">TechCrunch piece</a> from SXSW. ",
+            "created": "Wed, 19 Mar 2025 13:26:54 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
