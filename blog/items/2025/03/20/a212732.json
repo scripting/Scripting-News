@@ -1,0 +1,47 @@
+{
+    "text": "How the \"socialsphere\" shapes up",
+    "created": "Thu, 20 Mar 2025 21:27:32 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Product Protocol Support Matrix.",
+            "created": "Thu, 20 Mar 2025 21:35:33 GMT",
+            "inlineImage": "https://imgs.scripting.com/2025/03/20/socialsphereProtocolMatrix.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Notes",
+            "created": "Thu, 20 Mar 2025 21:30:41 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "Terminology: I don't thnk we should use the term <i>social web</i> until there actually is such a thing, so I invented a new term for these twitter-like services.",
+                    "created": "Thu, 20 Mar 2025 21:27:57 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Since Ghost is now supporting ActivityPub, I felt we needed to include Substack because the two products compete directly. ",
+                    "created": "Thu, 20 Mar 2025 21:31:28 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I consider AT Proto a proprietary protocol for now, as proprietary as Mastodon's API.",
+                    "created": "Thu, 20 Mar 2025 21:32:00 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I included WordPress because it supports ActivityPub. ",
+                    "created": "Thu, 20 Mar 2025 21:33:24 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If you want to comment or ask questions I posted this table on <a href=\"https://mastodon.social/@davew/114196981837796238\">Mastodon</a> and <a href=\"https://bsky.app/profile/scripting.com/post/3lktoxrxmok2v\">Bluesky</a>.",
+                    "created": "Thu, 20 Mar 2025 21:58:39 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
