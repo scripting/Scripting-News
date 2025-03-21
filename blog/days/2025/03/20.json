@@ -1,0 +1,108 @@
+{
+    "created": "2025-03-20T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "20",
+    "path": "2025/03/20",
+    "text": "March 20",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Podcast: <a href=\"https://shownotes.scripting.com/scripting/2025/03/20/weStillNeedUniversities.html\">We still need universities</a>. <i>21 minutes.</i>",
+            "created": "Thu, 20 Mar 2025 15:15:08 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://www.youtube.com/watch?v=EqLfXzzPB0g&t=115s\">Senator Chris Murphy</a>: \"How on earth are we going to ask the American people to take risks for us when there's a 5-alarm constitutional fire and we need them to be out on the streets, with hundreds of thousands of people, if we're not willing to show courage and take risks ourselves.\"",
+            "created": "Thu, 20 Mar 2025 15:27:21 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I like <a href=\"https://jeffcnichols.net/2025/03/20/the-writers-web-aka-blogging/\">Jeff Nichols' piece</a>, but I don't agree that <a href=\"http://scripting.com/2025/03/13/132830.html\">the writer's web</a> is blogging. I think it's bigger. Blogging is <i>part</i> of the writer's web. Today's writing network is much more powerful, the software tools are stronger, and new UI standards have evolved. Things like Digital Ocean, Markdown, Font-Awesome and Node.js didn't exist last time we took a serious look at writing on the web. The web with all its features is still here. WordPress has created a strong foundation to build on, at least as good as the social media platforms, but better because it's of the web, with <i>no limits. </i>We've got the beginning of a new platform, one where developers compete to create great writing and reading environments, and we don't need federation because the web takes care of that. ",
+            "created": "Thu, 20 Mar 2025 13:09:38 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A thread I wrote <a href=\"https://bsky.app/profile/scripting.com/post/3lkqf4hrkc22e\">on Bluesky</a> about how the RSS world, an earlier instance of \"the writer's web\", was overtaken by Twitter and why, which boils down to this -- the reading platforms wouldn't work with each other. So Twitter made subscription one click. And RSS made sites include 25 buttons to give people one-click subscription in every popular feed reader. Twitter only needed one button. And it worked every time. Now, 18 years later, the twitter-like systems world, Mastodon, Threads, Substack, Ghost, Bluesky, etc mostly can't get together on a simple way to peer. They keep talking about it and while they do, we're losing everything that's important to us. In the open tech world we have the same problem as the Democratic Party and the same problem RSS had. We refuse to see how the world has changed, and our slow and steady approach leads nowhere fast. We can't all be masters of our own silo'd domain. We need a web for words that's simple and can be learned in an afternoon, but doesn't lose the essential features writers need. I don't know what we need to win, but I do know what we need to get started. ",
+            "created": "Thu, 20 Mar 2025 13:34:18 GMT",
+            "type": "outline",
+            "image": "https://s3.amazonaws.com/scripting.com/images/2024/08/17/dewey.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "How the \"socialsphere\" shapes up",
+            "created": "Thu, 20 Mar 2025 21:27:32 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Product Protocol Support Matrix.",
+                    "created": "Thu, 20 Mar 2025 21:35:33 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2025/03/20/socialsphereProtocolMatrix.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Notes",
+                    "created": "Thu, 20 Mar 2025 21:30:41 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Terminology: I don't thnk we should use the term <i>social web</i> until there actually is such a thing, so I invented a new term for these twitter-like services.",
+                            "created": "Thu, 20 Mar 2025 21:27:57 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Since Ghost is now supporting ActivityPub, I felt we needed to include Substack because the two products compete directly. ",
+                            "created": "Thu, 20 Mar 2025 21:31:28 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I consider AT Proto a proprietary protocol for now, as proprietary as Mastodon's API.",
+                            "created": "Thu, 20 Mar 2025 21:32:00 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I included WordPress because it supports ActivityPub. ",
+                            "created": "Thu, 20 Mar 2025 21:33:24 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "If you want to comment or ask questions I posted this table on <a href=\"https://mastodon.social/@davew/114196981837796238\">Mastodon</a> and <a href=\"https://bsky.app/profile/scripting.com/post/3lktoxrxmok2v\">Bluesky</a>.",
+                            "created": "Thu, 20 Mar 2025 21:58:39 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Using ChatGPT for tech support",
+            "created": "Thu, 20 Mar 2025 15:12:34 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "If you aren’t sure how to ask for help with software, try first asking ChatGPT or another AI chatbot to help figure out what’s going wrong. It has infinite time to help, and won’t mind if the problem turned out to be a random browser plug-in that was misbehaving.",
+                    "created": "Thu, 20 Mar 2025 15:12:42 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It often suggests trying things you might not have thought of.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I use it myself esp as often is the case there’s no one who can or is willing to work for me for free. I’m already playing it $20 per month, and for that I get as much time as it takes.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Really good for organizing your approach to a problem.",
+                    "created": "Thu, 20 Mar 2025 15:13:22 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
