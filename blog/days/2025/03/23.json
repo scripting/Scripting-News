@@ -1,0 +1,22 @@
+{
+    "created": "2025-03-23T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "23",
+    "path": "2025/03/23",
+    "text": "March 23",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://github.com/scripting/wordlandSupport/issues/64\">WordLand 0.51 is out</a>, with support for <a href=\"https://wordpress.com/support/featured-images/\">featured images</a> and <a href=\"https://wordpress.com/support/excerpts/\">excerpts</a>, and a better designed home page for the app, before you sign in. ",
+            "created": "Sun, 23 Mar 2025 13:50:42 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've been putting Markdown support in my feeds -- everywhere -- on both sides, yielding <a href=\"https://imgs.scripting.com/2025/03/23/markdownSerendipity.png\">serendipity like this</a>. This is how \"it just works\" comes about. With a good <a href=\"https://source.scripting.com/#1653758422000\">design</a> and a lot of love. ",
+            "created": "Sun, 23 Mar 2025 13:47:44 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
