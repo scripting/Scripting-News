@@ -1,0 +1,123 @@
+{
+    "created": "2025-03-26T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "26",
+    "path": "2025/03/26",
+    "text": "March 26",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Join a parade today",
+            "created": "Wed, 26 Mar 2025 15:48:36 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "This morning‘s <a href=\"https://daveverse.wordpress.com/2025/03/26/join-a-parade-today/\">early morning missive</a> from WordLand..",
+                    "created": "Wed, 26 Mar 2025 15:48:41 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Talking with friends about What To Do.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I actually have an idea.",
+                    "created": "Wed, 26 Mar 2025 15:50:06 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "We all try to lead a parade, with a big viral idea, if only everyone would follow me, it might just work. A lot of us have that feeling. My advice — it doesn’t work. Lose it. Instead, find a parade you can join, and add your energy, talent and experience to it.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "We have a tremendous oversupply of would-be parade leaders, we need to build momentum, and it doesn’t really matter what it is or who leads it. As long as it’s something the press can cover. A movement that begets more motion. A huge march in DC. Demonstrations at Tesla dealers. Blogging in a group. Helping an existing group route around an outage. Making a great list of causes others can join. Reading a blog and finding the thing the blogger is looking for. And so on.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "There’s great satisfaction in joining a righteous cause that’s working, my bother, my sister.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This goes back to something observed in standards work. The standard is set by the person who goes second, not the one who goes first. The person who chooses to interop instead of blazing a new incompatible trail. We should celebrate people who support others as much as we do the one who goes first. You need both, and the thirds and fourth adopters to create a movement.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "At a time like now when there’s no room for error or individual ego, as Ben Franklin’s so wisely said during America’s revolution, we must all hang together or most assuredly we will all hang separately.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: One way facebook can cripple a nascent movement, by the algorithm not showing you parades you might like too much. Remember Zuck is trying to ingratiate himself to trump. I find I’m seeing posts of vital interest to me over 24 hours after they were posted, when 165 people have already liked it. Suspicious behavior. We need to own our own social net. ",
+                    "created": "Wed, 26 Mar 2025 15:49:05 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PPS: This philosophy led me to build on WordPress as a foundation, instead of building my own, which I am fully capable of. It’s working much better this way, so far. Could the be a way toward our own social net? Possibly.",
+                    "created": "Wed, 26 Mar 2025 15:49:09 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Doc's approach to WordLand",
+            "created": "Wed, 26 Mar 2025 15:18:34 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Watching Doc Searls use WordLand to post to his <a href=\"https://doc.searls.com/\">WordPress blog</a>. ",
+                    "created": "Wed, 26 Mar 2025 15:19:22 GMT",
+                    "flBulletedSubs": "true",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "He's using it the way \"Manila\" worked for blogging in the late 90s early 00s. Every day is a new page, which contained as many items as you liked. When you add a blank line that starts a new post. It's Markdown kind of a approach to structuring text. ",
+                    "created": "Wed, 26 Mar 2025 15:19:32 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "There's a point where you click the <i>Flip Home Page</i> button. You can do that once a day. Each day is a fresh start. Each day gets its own archive page. The software can automate some of that, but it's trivial to do it by hand. A nice daily ritual. ",
+                    "created": "Wed, 26 Mar 2025 15:20:35 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The RSS feed we generated looked for two Returns in the text, that started a new &lt;item>.",
+                    "created": "Wed, 26 Mar 2025 15:21:02 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Manila eventually adopted Blogger's approach, but I always liked this way because it said a blog post can be a very small thing. That was certainly the way I write. Some ideas don't require a lot of writing, so why should they take up so much space? I'm trying to make sure that as WordLand evolves, it treats little things and big things with equal respect. ",
+                    "created": "Wed, 26 Mar 2025 15:29:56 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Basically Doc is doing manually what Manila did for you, but it's not a lot of work, he just clicks the + icon to create a new post, when he wants a fresh start. He has to choose a site from a popup, and then he's ready to write. The advantage is he has them all arrayed for him to make a change where ever he likes. I have that when I write in Drummer. ",
+                    "created": "Wed, 26 Mar 2025 15:23:31 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "He's not getting the benefit of the RSS treatment in Manila. Both WordPress and WordLand see that as one post, not N posts. ",
+                    "created": "Wed, 26 Mar 2025 15:45:27 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Below is a screen shot of Docs blog, and below it, in contrast is a page generated by Manila in 2001.",
+                    "created": "Wed, 26 Mar 2025 15:33:52 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A screen shot of a <a href=\"https://doc.searls.com/2025/03/25/there-they-go/\">day</a> in the life of Doc's new blog.",
+                    "created": "Wed, 26 Mar 2025 15:20:36 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2025/03/26/docsBlogScreen.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And a <a href=\"http://scripting.com/2001/08/28.html\">day</a> in the life of Scripting News in 2001.",
+                    "created": "Wed, 26 Mar 2025 15:28:28 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2025/03/26/scriptingscreen.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
