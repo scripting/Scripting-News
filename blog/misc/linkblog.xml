@@ -1,82 +1,14 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="vi">
+<html style="height:100%">
 <head>
-
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>radio3.io</title>
-
-<link rel='stylesheet' id='dashicons-css' href='https://radio3.io/wp-includes/css/dashicons.min.css?ver=6.6.2' type='text/css' media='all' />
-<link rel='stylesheet' id='buttons-css' href='https://radio3.io/wp-includes/css/buttons.min.css?ver=6.6.2' type='text/css' media='all' />
-<link rel='stylesheet' id='forms-css' href='https://radio3.io/wp-admin/css/forms.min.css?ver=6.6.2' type='text/css' media='all' />
-<link rel='stylesheet' id='l10n-css' href='https://radio3.io/wp-admin/css/l10n.min.css?ver=6.6.2' type='text/css' media='all' />
-<link rel='stylesheet' id='login-css' href='https://radio3.io/wp-admin/css/login.min.css?ver=6.6.2' type='text/css' media='all' />
-
-<style media="screen">
-#login_error, .login .message, #loginform { margin-bottom: 20px; }
-.password-protected-text-below { display: inline-block; text-align: center; margin-top: 30px;}
-.password-protected-text-above { text-align: center; margin-bottom: 10px;}
-</style>
-
-<meta name='robots' content='noindex, nofollow' />
-		<meta name="viewport" content="width=device-width" />
-		
-</head>
-<body class="login login-password-protected login-action-password-protected-login wp-core-ui">
-
-<div id="login">
-	<h1 id="password-protected-logo"><a href="https://radio3.io/" title="radio3.io">radio3.io</a></h1>
-	
-	
-	<form name="loginform" id="loginform" action="https://radio3.io/users/davewiner/rss.xml?password-protected=login&#038;redirect_to=https%3A%2F%2Fradio3.io%2Fusers%2Fdavewiner%2Frss.xml" method="post">
-
-        <p>
-                    </p>
-
-        <!--
-		We are removing this field PP-245
-             <p>
-                <label for="password_protected_pass">Password</label>
-                <input type="password" name="password_protected_pwd" id="password_protected_pass" class="input" value="" size="20" tabindex="20" autocomplete="false" />
-            </p>
-        -->
-
-        <div class="user-pass-wrap">
-            <label for="password_protected_pass">Password</label>
-            <div class="wp-pwd">
-                <input id="password_protected_pass" class="input password-input" type="password" name="password_protected_pwd" value="" size="20" autocomplete="false" spellcheck="false" required>
-                <button id="pp-hide-show-password" class="button button-secondary hide-if-no-js wp-hide-pw" type="button" data-toggle="0" aria-label="Show password">
-                    <span class="dashicons dashicons-visibility" aria-hidden="true"></span>
-                </button>
-            </div>
-        </div>
-
-						
-		<p class="submit">
-			<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Đăng nhập" tabindex="100" />
-			<input type="hidden" name="password_protected_cookie_test" value="1" />
-			<input type="hidden" name="password-protected" value="login" />
-			<input type="hidden" name="redirect_to" value="https://radio3.io/users/davewiner/rss.xml" />
-		</p>
-
-        <div style="display: table;clear: both;"></div>
-
-        <p>
-		            </p>
-
-	</form>
-
-	
-</div>
-
-<script>
-try{document.getElementById('password_protected_pass').focus();}catch(e){}
-if(typeof wpOnload=='function')wpOnload();
-try{let s=document.getElementById("pp-hide-show-password");s.addEventListener("click",function(e){e.preventDefault();let t=document.getElementById("password_protected_pass");"password"===t.type?(t.type="text",s.innerHTML='<span class="dashicons dashicons-hidden" aria-hidden="true"></span>'):(t.type="password",s.innerHTML='<span class="dashicons dashicons-visibility" aria-hidden="true"></span>')})}catch(e){}
-</script>
-
-
-<div class="clear"></div>
-
-
-</body>
-</html>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title> 404 Not Found
+</title><style>@media (prefers-color-scheme:dark){body{background-color:#000!important}}</style></head>
+<body style="color: #444; margin:0;font: normal 14px/20px Arial, Helvetica, sans-serif; height:100%; background-color: #fff;">
+<div style="height:auto; min-height:100%; ">     <div style="text-align: center; width:800px; margin-left: -400px; position:absolute; top: 30%; left:50%;">
+        <h1 style="margin:0; font-size:150px; line-height:150px; font-weight:bold;">404</h1>
+<h2 style="margin-top:20px;font-size: 30px;">Not Found
+</h2>
+<p>The resource requested could not be found on this server!</p>
+</div></div><div style="color:#f0f0f0; font-size:12px;margin:auto;padding:0px 30px 0px 30px;position:relative;clear:both;height:100px;margin-top:-101px;background-color:#474747;border-top: 1px solid rgba(0,0,0,0.15);box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;">
+<br>Proudly powered by LiteSpeed Web Server<p>Please be advised that LiteSpeed Technologies Inc. is not a web hosting company and, as such, has no control over content found on this site.</p></div></body></html>
