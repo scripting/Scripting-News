@@ -1,0 +1,23 @@
+{
+    "created": "2025-03-30T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "30",
+    "path": "2025/03/30",
+    "text": "March 30",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "A new Bluesky news feed, <a href=\"https://bsky.app/profile/radiofreeameri.ca\">Radio Free America</a>. It will also be on a web page as a river of news, and of course in <a href=\"https://feedland.social/opml?screenname=davewiner&catname=radiofree\">dynamic OPML</a> so it can be reproduced in lots of places. It will be hard to shut down, if it catches on. The idea: deliver news stories, blog posts and podcasts from sources with ideas and facts an informed person would want. We hope we are helping the United States respond to threats to our freedom, well-being, the rule of law, and our country's friendships around the world. As the depth of what's happening is understood across the country, I believe we may need more flexible sources of news. We use mature tech that's widely deployed, well-understood. And it is completely and utterly one hundred percent billionaire-proof. We start out today with two feeds, <a href=\"https://bsky.app/profile/factpostnews.bsky.social/post/3lfn5pghprs26\">FactPost</a> which is the official rapid response page of the Democratic Party, and <a href=\"http://scripting.com/?tab=links\">my linkblog feed</a>, so I can easily test the system. The part that hooks up to Bluesky is relatively new, so we'll need to look at problems. As they say -- <i>still diggin!</i>",
+            "created": "Sun, 30 Mar 2025 20:25:05 GMT",
+            "type": "outline",
+            "image": "https://s3.amazonaws.com/scripting.com/images/2024/02/01/runner.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "The US is being run like a TV show, with predictable results. ",
+            "created": "Sun, 30 Mar 2025 14:38:44 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
