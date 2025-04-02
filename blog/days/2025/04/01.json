@@ -1,0 +1,66 @@
+{
+    "created": "2025-04-01T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "01",
+    "path": "2025/04/01",
+    "text": "April 01",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "The chickens of <a href=\"https://en.wikipedia.org/wiki/Sanewashing\">sanewashing</a> come home to <a href=\"https://bsky.app/profile/pbump.com/post/3llqu7ed5nc2x\">roost</a>.",
+            "created": "Tue, 01 Apr 2025 14:23:43 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "How did the music industry get through <a href=\"https://en.wikipedia.org/wiki/Sampling_(music)#Hip-hop\">hip-hop sampling</a> in the 80s without blowing itself up? I was paying attention to copyright issues in software at the time, we used copy protection, but we knew it didn't work. It was just how things were done.",
+            "created": "Tue, 01 Apr 2025 11:12:48 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The <a href=\"http://scripting.com/images/2025/03/25/severanceArt.png\">beautiful art</a> that came with the season finale of Severance could have been drawn by ChatGPT, it's that good, in the way that machine art is good. There's a point of view reflected in its creations, looking into a soul that in no way exists. We're learning about it, but it's a moving target, evolving before our eyes, in huge steps. ",
+            "created": "Tue, 01 Apr 2025 10:41:29 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "My server has been coughing up hairballs tonight. It coughed up a link to <a href=\"http://scripting.com/2023/02/02/133127.html\">this piece</a> from two years ago, when Twitter pulled the plug on their API. It knocked everything I had built on the Twitter API off the air. Every thing. Just like that. That's what tonight was like here. It was just some of my apps, suddenly, not working. Whew. ",
+            "created": "Tue, 01 Apr 2025 10:39:00 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "\"WordLand\" and \"Scripting News\" and a bunch of other sites/apps were off the air starting about 1AM Eastern, but mostly things seem to be working now, shortly after 6AM. It was a big scramble, I had to provision a new server on Digital Ocean.  ",
+            "created": "Tue, 01 Apr 2025 10:16:09 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "More weird ChatGPT fun",
+            "created": "Tue, 01 Apr 2025 10:47:58 GMT",
+            "type": "outline",
+            "description": "I laughed out loud as this was revealed by ChatGPT.",
+            "metaImage": "http://scripting.com/images/2025/04/01/daveInSeverance.png",
+            "subs": [
+                {
+                    "text": "The prompt: Here's a drawing and a profile picture. I'd like you to insert the person in the profile into the drawing, and adapt it as you see fit, but the face of the person in the profile should be in the same style as the ones around it. ",
+                    "created": "Tue, 01 Apr 2025 10:48:10 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I gave it a snapshot of the art from the season finale of Severance, and my profile picture from Facebook. ",
+                    "created": "Tue, 01 Apr 2025 10:48:24 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I laughed out loud as this was revealed by ChatGPT.",
+                    "created": "Tue, 01 Apr 2025 10:48:56 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2025/04/01/daveSevChatGPT.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
