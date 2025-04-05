@@ -1,0 +1,6 @@
+{
+    "text": "One thing led to another, we discussed lots of facets to the RFSM document. At some point it started rewriting what I had, and used two terms that don't belong in standards-making: dogfood and deprecate. Nothing ever is deprecated. That's arrogance on the part of developers. Imagine if someone in charge of NYC decided to deprecate the arrangement of the streets. Also, if your protocol achieved any adoption at all, there are far more developers than there are originators of the format. If I decided, for example, that the \"webmaster\" element in RSS was deprecated, do you think anyone would care? Of course not, nor should they. It's a powerless thing. I feel you should introduce features carefully because you will have to live with them forever. Also I thought there was a section in RFSM about breakage. That was Rule #1 at UserLand. We didn't always live up to it. About dogfood:  I don't eat dog food, I'm a human. 2. It says we think of our users as pets, that's not rational or productive. However I do very strongly believe you have to use what you create, because you won't understand what users say unless you are one yourself. ",
+    "created": "Fri, 04 Apr 2025 13:47:27 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
