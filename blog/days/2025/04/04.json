@@ -1,0 +1,41 @@
+{
+    "created": "2025-04-04T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "04",
+    "path": "2025/04/04",
+    "text": "April 04",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "How Bluesky <a href=\"https://www.youtube.com/shorts/kb45rYbR8YY\">hooks up via RSS</a> into a powerful news system. ",
+            "created": "Fri, 04 Apr 2025 21:51:38 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://this.how/bluesky/\">Bluesky is centralized</a>, version 2. I wasn't satisfied with the blog post I wrote in March. I felt it was poorly organized and hard to understand, so I edited it, to get it down to its essential elements, and at the end explain why it's so important to get this right. Basically, by trying to be the universe, Bluesky is cutting off easy connections that can be made with other networks, make the system work better for communication, and at least deliver <i>some</i> of the freedom we all want. They've been very successful, and deserve to profit from that, but recognize it plays a larger role today than just as a business, so let's spread it out so it's harder to shut it down. This is a real concern, not just a nice-to-have thing.  ",
+            "created": "Fri, 04 Apr 2025 16:55:19 GMT",
+            "type": "outline",
+            "image": "https://s3.amazonaws.com/scripting.com/images/2020/12/07/fauci.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "ChatGPT <a href=\"https://imgs.scripting.com/2025/04/04/rudyColorized.png\">colorized</a> the photo of my grandfather on his <a href=\"https://rudykiesler.com/\">tribute site</a>. ",
+            "created": "Fri, 04 Apr 2025 15:57:03 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Just tried an <a href=\"https://chatgpt.com/share/67efabbd-1758-8012-a19b-a912cd72944a\">experiment</a>, I asked ChatGPT to review <a href=\"https://en.wikipedia.org/wiki/ActivityPub\">ActivityPub</a> re <a href=\"https://this.how/standards/\">Rules for Standards-makers</a>. I totally concurred with its conclusions. In any case, it illustrates how ChatGPT can be helpful in designing new formats and protocols, making them more supportable and more useful for interop, which according to Rule 1, is the only reason we make standards.",
+            "created": "Fri, 04 Apr 2025 13:17:28 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "One thing led to another, we discussed lots of facets to the RFSM document. At some point it started rewriting what I had, and used two terms that don't belong in standards-making: dogfood and deprecate. Nothing ever is deprecated. That's arrogance on the part of developers. Imagine if someone in charge of NYC decided to deprecate the arrangement of the streets. Also, if your protocol achieved any adoption at all, there are far more developers than there are originators of the format. If I decided, for example, that the \"webmaster\" element in RSS was deprecated, do you think anyone would care? Of course not, nor should they. It's a powerless thing. I feel you should introduce features carefully because you will have to live with them forever. Also I thought there was a section in RFSM about breakage. That was Rule #1 at UserLand. We didn't always live up to it. About dogfood:  I don't eat dog food, I'm a human. 2. It says we think of our users as pets, that's not rational or productive. However I do very strongly believe you have to use what you create, because you won't understand what users say unless you are one yourself. ",
+            "created": "Fri, 04 Apr 2025 13:47:27 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
