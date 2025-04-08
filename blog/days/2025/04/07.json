@@ -1,0 +1,36 @@
+{
+    "created": "2025-04-07T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "07",
+    "path": "2025/04/07",
+    "text": "April 07",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "There’s no reason \"RSS\" and social media have to be separate worlds. RSS is the easiest and fastest way to connect systems. When I see people endorse RSS over social sites I think we took a wrong turn somewhere because all these systems should be connected on the open web and RSS is the perfect way to do that.",
+            "created": "Tue, 08 Apr 2025 01:29:28 GMT",
+            "type": "outline",
+            "image": "https://s3.amazonaws.com/scripting.com/images/2022/09/28/rss.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Rachel Maddow's show these days often begins with a hard-to-watch over-the-top endorsement of Bluesky. She shouldn't be doing that. It's a private company and someday she may criticize them as strongly as she did Facebook. I'd love to hear her explain exactly what's the difference between Bluesky and Facebook. A lot less than you might think. ",
+            "created": "Tue, 08 Apr 2025 01:30:33 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://bsky.app/profile/hillaryclinton.bsky.social/post/3lma3a4rgks2y\">Hillary Clinton</a> makes a very important point. \"Republicans in Congress can put a stop to this at any time.\" By this, she means the crashing US economy. And even if you believe they'll \"never do it\" -- it's still the right thing to repeat this over and over -- people should know they could. This should be repeated until enough people get it, this is being done <i>on purpose</i> by the Repubs. This isn't about winning elections, it's about understanding who's doing this to you and how deliberate it is. ",
+            "created": "Mon, 07 Apr 2025 14:32:24 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A <a href=\"https://github.com/scripting/drummerSupport/issues/198\">question</a> on GitHub: Is OPML the native file format for Drummer? It's better to first <a href=\"https://imgs.scripting.com/2025/04/07/fileformatScreen.png\">use</a> the product or <a href=\"https://docserver.scripting.com/drummer/about.opml#1633536117000\">read</a> the docs or <a href=\"https://www.google.com/search?q=What+is+the+native+file+format+for+Drummer%3F&rlz=1C5CHFA_enUS743US747&oq=What+is+the+native+file+format+for+Drummer%3F&aqs=chrome..69i57j0i512i546j0i546i649j69i64.10884j0j4&sourceid=chrome&ie=UTF-8\">search</a> on web or use an <a href=\"https://claude.ai/share/08b9de36-bc41-454b-a21d-e2edcc75d094\">AI chatbot</a> before getting humans involved. Anyway, the answer is yes, OPML is the native file format of \"Drummer\". It's the reason we chose \"OPML\" as the format for RSS reading lists, so we could edit them in a distant <a href=\"http://scripting.com/2021/01/21/141332.html?title=twentyYearsAgoInPodcasting#a154217\">ancestor</a> of Drummer's whose native file format was also OPML. I tend not to change file formats gratuitously -- it's how you can use different tools to edit your own data. That's a big part of the plan with \"WordLand\", because the internal file format for drafts is Markdown, you could put any editor alongside that can edit and save text in Markdown, without a glitch. The idea is to create a new platform, editors for WordPress, and have them all interop with each other perfectly from the start. Because WordLand is the first product in this niche, and Markdown is a very safe choice these days (understood to discourage lock-in), I think it's going to be a perfect basis for interop. Learning from past experience and doing it better each time. ",
+            "created": "Mon, 07 Apr 2025 13:31:00 GMT",
+            "type": "outline",
+            "image": "https://s3.amazonaws.com/scripting.com/images/2022/12/15/drummer.png",
+            "flInCalendar": true
+        }
+    ]
+}
