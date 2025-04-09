@@ -1,0 +1,86 @@
+{
+    "created": "2025-04-08T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "08",
+    "path": "2025/04/08",
+    "text": "April 08",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=6BODDyZRF6A\">Come on Eileen</a>.",
+            "created": "Tue, 08 Apr 2025 16:09:45 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The big vision behind WordLand",
+            "created": "Tue, 08 Apr 2025 22:04:56 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I believe that eventually WordPress will be the hub for writers the way the web itself became the the hub for apps. Initially, the web wasn’t the best place to host apps, the Mac had a much more developed set of meaningful features for app devs, and we already knew the Mac APIs where the web was strange and incomplete. ",
+                    "created": "Tue, 08 Apr 2025 22:11:14 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Yet most of the energy in AppLand quickly shifted to the web because of three advantages it had:  ",
+                    "created": "Tue, 08 Apr 2025 22:05:06 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Anyone could publish for it, there was no platform vendor.",
+                            "created": "Tue, 08 Apr 2025 22:05:10 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "The networking model was open and simple, where the Mac's was hidden behind incomplete and poorly written docs. ",
+                            "created": "Tue, 08 Apr 2025 22:05:31 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "The Mac's networking only worked on the Mac at a time when Windows was becoming dominant, and the web offered simplicity that neither platform could match.",
+                            "created": "Tue, 08 Apr 2025 22:05:11 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The web made writing network apps a joy, where the Mac made it a slog. No matter how much time you spent developing, it never resulted in success. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "There was no question for me when I saw the web, I had to be there.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Substack and Ghost are like Mac and Windows at the dawn of the web. Their big mistake imho is they weren’t built on WordPress, which can and should imho serve as the base platform for writing on the web. If an ecosystem of writing tools is built on the Wordpress foundation how could silo’d writing tools hope to compete? ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If you question the choice of Wordpress, what would you go with in its place? I argue that whatever it is, it would work much like Wordpress, which has a 20+ year head start, is stable, scales, is widely supported, and open source, so if you don't like the company behind it, you can choose not to use their distribution.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "With WordLand we are testing the water hopefully proving that it is possible to create a functional writing environment on the WordPress foundation. Why is that such an advantage? Because, like the word processing products of the 80s on various OSes, these apps should be able to share data. One day you may feel like writing something with WordLand and a few days later you might want to try editing the same document using a different editing tool. As long as they both ingest and emit Markdown, they should have no trouble editing each others' documents. This is where the benefit of a common platform becomes insurmountable, because the silos insist you use their editor and only their editor and an open platform with open data formats lets you move between apps that interop. There’s a reason so many word processors thrived in the 80s, because the needs and tastes of writers vary so much, and technically it was possible to move data around in an ad hoc way.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Until WordLand, tools for writers on the Wordpress platform were practically nonexistent. I think that can change now, because the <a href=\"https://github.com/scripting/wpIdentity\">middleware</a> that connects WordLand to Wordpress is both easy to understand, for developers, and open source under the most liberal license. Any app that connects with Wordpress through this API will interop with WordLand so totally that it could replace WordLand. ",
+                    "created": "Tue, 08 Apr 2025 22:06:17 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I would be happy if WordLand played the role of <a href=\"https://en.wikipedia.org/wiki/MacWrite\">MacWrite</a> in the Mac ecosystem of the 80s. At the outset it was the only writing tool for the Mac, and set the usability pattern for all that followed. As a result the Mac platform, even though initially its appeal was mainly to developers and designers, quickly boomed as a writer's platform. I strongly believe Wordpress has this potential. ",
+                    "created": "Tue, 08 Apr 2025 22:06:41 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I think writers need the same variety and open possibilities as developers, and the existing writer's systems are not offering that choice. I believe this is the start of the writers web, that should, if we do it right, and if my intuition is correct, grow like the web itself at inception. My bet is that an expansive approach will yield far more creativity in a very important area, writing, and should quickly become the place writers want to be.",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
