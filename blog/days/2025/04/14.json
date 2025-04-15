@@ -1,0 +1,57 @@
+{
+    "created": "2025-04-14T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "14",
+    "path": "2025/04/14",
+    "text": "April 14",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "A long time ago, based on my experience at Berkman in the 00s, I proposed the idea of a <a href=\"http://scripting.com/2014/10/30/developingBetterDevelopers.html\">Developing Better Developers</a> function at a university, as a pilot, to create a teaching hospital atmosphere around creating new communication systems out the web and (key point) not compromising the openness of the web. It would be as sacred as academic freedom is in the university, or the First Amendment of the Constitution. It seemed to me that a university is the perfect place to create something like this. If we had such a setup, anywhere, at this time -- we would be working in earnest on an open alternative to twitter, one that is truly billionaire-proof right now, as opposed to \"would be nice to have sometime in the future.\"",
+            "created": "Mon, 14 Apr 2025 13:29:39 GMT",
+            "type": "outline",
+            "image": "https://s3.amazonaws.com/scripting.com/images/2017/07/26/veritas.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Harvard could use <a href=\"https://www.harvard.edu/president/news/2025/the-promise-of-american-higher-education/\">this moment</a> to bring some really new ideas back into the university.",
+            "created": "Mon, 14 Apr 2025 20:13:59 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "What is Inbound RSS?",
+            "created": "Mon, 14 Apr 2025 12:19:46 GMT",
+            "type": "outline",
+            "description": "Feed readers view RSS as inbound, and blogging tools regard it as outbound. ",
+            "subs": [
+                {
+                    "text": "I wrote a complex piece here earlier, but it's much simpler than it made it sound, so I decided to start again.",
+                    "created": "Mon, 14 Apr 2025 20:15:05 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Feed readers view RSS as inbound, and blogging tools regard it as outbound. Same feed, different contexts. Like trains going in and out of a station. Inbound and outbound. ",
+                    "created": "Mon, 14 Apr 2025 20:15:21 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But some software views RSS in both directions. The best example is Twitter and its successors such as Mastodon, Threads and Bluesky. These products are for both for reading and writing. It makes sense to have outbound feeds, like a blogging tool, and it makes just as much sense as a consumer of feeds, like a feed reader, so we can easily publish stuff from other environments and people can subscribe to them exactly as if they used their editor to write it. No reason anyone needs to know. <i>This is absolutely the simplest and most web-like way to do federation. </i>And you don't need any new formats or protocols. It's all \"RSS\" on both sides. We totally know how to do RSS. It's ready to go. ",
+                    "created": "Mon, 14 Apr 2025 20:15:57 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "What got me thinking about this a few years ago was Substack. I wanted to publish a nightly email newsletter from what I had posted that day on my blog, but I didn't have the patience to copy and paste and then reformat the text, by hand, when I already have that automated. They wanted to turn me into a computer. I tried that with Medium for a couple of years and it was awful. No thanks. What I needed them to have support Inbound RSS. ",
+                    "created": "Mon, 14 Apr 2025 20:19:40 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "That's it. You now know all there is to know about <a href=\"https://daytona.scripting.com/search?q=%22Inbound%20RSS%22\">Inbound RSS</a>. 😀 ",
+                    "created": "Mon, 14 Apr 2025 20:19:09 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
