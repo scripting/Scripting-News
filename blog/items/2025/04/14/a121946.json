@@ -1,0 +1,34 @@
+{
+    "text": "What is Inbound RSS?",
+    "created": "Mon, 14 Apr 2025 12:19:46 GMT",
+    "type": "outline",
+    "description": "Feed readers view RSS as inbound, and blogging tools regard it as outbound. ",
+    "subs": [
+        {
+            "text": "I wrote a complex piece here earlier, but it's much simpler than it made it sound, so I decided to start again.",
+            "created": "Mon, 14 Apr 2025 20:15:05 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Feed readers view RSS as inbound, and blogging tools regard it as outbound. Same feed, different contexts. Like trains going in and out of a station. Inbound and outbound. ",
+            "created": "Mon, 14 Apr 2025 20:15:21 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "But some software views RSS in both directions. The best example is Twitter and its successors such as Mastodon, Threads and Bluesky. These products are for both for reading and writing. It makes sense to have outbound feeds, like a blogging tool, and it makes just as much sense as a consumer of feeds, like a feed reader, so we can easily publish stuff from other environments and people can subscribe to them exactly as if they used their editor to write it. No reason anyone needs to know. <i>This is absolutely the simplest and most web-like way to do federation. </i>And you don't need any new formats or protocols. It's all \"RSS\" on both sides. We totally know how to do RSS. It's ready to go. ",
+            "created": "Mon, 14 Apr 2025 20:15:57 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "What got me thinking about this a few years ago was Substack. I wanted to publish a nightly email newsletter from what I had posted that day on my blog, but I didn't have the patience to copy and paste and then reformat the text, by hand, when I already have that automated. They wanted to turn me into a computer. I tried that with Medium for a couple of years and it was awful. No thanks. What I needed them to have support Inbound RSS. ",
+            "created": "Mon, 14 Apr 2025 20:19:40 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "That's it. You now know all there is to know about <a href=\"https://daytona.scripting.com/search?q=%22Inbound%20RSS%22\">Inbound RSS</a>. 😀 ",
+            "created": "Mon, 14 Apr 2025 20:19:09 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
