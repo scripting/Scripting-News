@@ -1,0 +1,42 @@
+{
+    "text": "Learning about themes",
+    "created": "Tue, 15 Apr 2025 19:00:47 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "My demo site for WordLand isn't very good from a WordPress perspective. ",
+            "created": "Tue, 15 Apr 2025 19:00:53 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm going to try to quickly fix that. ",
+            "created": "Tue, 15 Apr 2025 19:02:31 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Starting on the themes page for the site.",
+            "created": "Tue, 15 Apr 2025 19:03:29 GMT",
+            "subs": [
+                {
+                    "text": "https://wordpress.com/themes/daveverse.wordpress.com",
+                    "created": "Tue, 15 Apr 2025 19:03:39 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "It was suggested I try the Retrospect theme",
+            "created": "Tue, 15 Apr 2025 19:03:55 GMT",
+            "subs": [
+                {
+                    "text": "https://github.com/scripting/wordlandSupport/issues/54#issuecomment-2726041217",
+                    "created": "Tue, 15 Apr 2025 19:04:08 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
