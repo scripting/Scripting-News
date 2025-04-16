@@ -1,0 +1,35 @@
+{
+    "created": "2025-04-15T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "15",
+    "path": "2025/04/15",
+    "text": "April 15",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://github.com/scripting/wordlandSupport/issues/70\">WordLand 0.5.4</a>. New feature, the Timeline. \"I can imagine there will be a Timeline for news about WordLand, or a Timeline that contains Scripting News posts. A Timeline for all the people you work with, the people you play chess with. Basically it will be possible to have Timelines that correspond to anything that can be represented in RSS. It's possible to imagine a product where the Timeline is the main display and the editor is the one that pops up.\"",
+            "created": "Tue, 15 Apr 2025 12:58:00 GMT",
+            "type": "outline",
+            "image": "https://s3.amazonaws.com/scripting.com/images/2022/10/31/camel.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Quick <a href=\"https://youtube.com/shorts/pAPW9wrk1No?si=ArdjdCuU6aBg1bym\">demo</a> of the Timeline in v0.5.4.",
+            "created": "Tue, 15 Apr 2025 14:22:00 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Looking for help from people who know how to create WordPress themes. The goal is to create a default theme that works well for \"WordLand\"-authored sites. It was suggested I try the <a href=\"https://wordpress.com/theme/retrospect?tab_filter=blog\">Retrospect theme</a>, and it does <a href=\"https://imgs.scripting.com/2025/04/15/siteshot.png\">look</a> quite nice when I <a href=\"https://github.com/scripting/wordlandSupport/issues/54#issuecomment-2807218882\">switched over</a> the <a href=\"https://daveverse.wordpress.com/2025/04/15/this-is-not-the-america-we-grew-up-in/\">daveverse site</a> to use it. Is it possible to fork a WordPress theme? If so, here's a <a href=\"https://github.com/scripting/wordlandSupport/issues/54#issuecomment-2807241008\">list of changes</a> I'd like in a new theme. ",
+            "created": "Tue, 15 Apr 2025 19:34:42 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A few days ago I <a href=\"https://mastodon.social/@dave@social.masto.land/114335522071398061\">wrote</a>: ChatGPT is to Google what Google was to library card catalogs. The great thing about Google when it was first out was that unlike previous search products, they searched everything, including our blogs, and that opened up knowledge to us that had been previously, for all of our history as a species, not accessible. And LLMs are similarly revolutionary. I'm doing much better, deeper work, with great results for my users, than I could have accomplished with the network defined by Google. ",
+            "created": "Tue, 15 Apr 2025 12:07:56 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
