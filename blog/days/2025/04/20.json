@@ -1,0 +1,52 @@
+{
+    "created": "2025-04-20T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "20",
+    "path": "2025/04/20",
+    "text": "April 20",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "\"Dave's not here.\"",
+            "created": "Sun, 20 Apr 2025 12:43:00 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "\"I'm sorry, Dave. I'm afraid I can't do that.\"",
+            "created": "Sun, 20 Apr 2025 12:43:08 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "“You gotta do what you gotta do.”",
+            "created": "Sun, 20 Apr 2025 12:42:44 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Another app for ChatGPT",
+            "created": "Sun, 20 Apr 2025 20:08:43 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "My niece sent me a self-portrait, which I liked very much.",
+                    "created": "Sun, 20 Apr 2025 20:09:04 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So I tried an experiment. I pasted her self-portrait and my head shot of myself and asked ChatGPT to render my photo in the style of her art.",
+                    "created": "Sun, 20 Apr 2025 20:09:28 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "ChatGPT renders my headshot in a familiar style. ",
+                    "created": "Sun, 20 Apr 2025 20:10:06 GMT",
+                    "inlineImage": "https://s3.amazonaws.com/scripting.com/images/2025/04/20/headShotInFamilialStyle.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
