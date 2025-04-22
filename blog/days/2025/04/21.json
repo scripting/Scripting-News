@@ -1,0 +1,142 @@
+{
+    "created": "2025-04-21T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "21",
+    "path": "2025/04/21",
+    "text": "April 21",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "New docs: <a href=\"https://this.how/wordland/#1745242711000\">The role of Markdown in WordLand</a>.",
+            "created": "Mon, 21 Apr 2025 16:16:30 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://zeldman.com/2025/04/21/writing-in-wordland/\">Zeldman tries WordLand</a>: \"For bloggers who mostly write, it’s a clean, distraction-free interface with strong basic features that lets you offload CMS duties to WordPress.\"",
+            "created": "Mon, 21 Apr 2025 13:56:05 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Don't try to change the world",
+            "created": "Mon, 21 Apr 2025 14:10:55 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Silicon Valley encourages entrepreneurs to think in terms of changing the world. I was one of them when I arrived there in 1979 at the age of 24, with world-changing software ready to go (or so I thought). A few years later, I shipped a way of writing that was only possible on a computer, and in a small way I suppose it did change the world. I kept innovating, but over time I came to realize that one person trying to change the world is usually futile, but what's even worse, you might actually manage to change the world, and that's going to be a disaster for you and the world. As Elon Musk is doing right now. ",
+                    "created": "Mon, 21 Apr 2025 14:03:20 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Musk is the perfect cautionary tale for \"be careful of what you wish for.\" No one person should change the world. We are a creation of evolution, and we also are creators of evolution, but evolution is the result of lots of infinitesmal events, not some great god-like creation that young people tend to dream of. That's what he's doing wrong, trying to force his vision on all of the rest of us. We'd be crazy to wish for what he wants, and we're not that crazy. ",
+                    "created": "Mon, 21 Apr 2025 14:12:23 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I have a pretty good idea of what he wants because like him, I think in terms of what you can do with networks of computers and people. And I understand their weakness, and also believe in the good intentions of 99.99% of the people, so even though our networks are not perfectly secure somehow we seem to get by. But Musk has gotten inside, and is doing what he wants, and the rest of us don't get a say, and he's of the 0.01% you absolutely <i>don't</i> want to have the keys to the treasury or nukes of the United States in 2025. ",
+                    "created": "Mon, 21 Apr 2025 14:13:27 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A lot of wise people over a few hundred years set up a system where we all get a say, and it's gotten us by pretty well. When one person takes control, that's disaster, because no one, not even Musk, is an immortal god. He's got huge blind spots. If you try to rewrite every bit of code too fast you end up with a broken system. He'll leave and we'll have to deal with what remains. And hopefully after we get over that, we'll figure out how to not let a future Musk get in there again. And that's going to involve a fair amount of pain for the billionaires. If you all want to start helping to solve the problem, now would be a good time to get involved, Mr and Ms Billionaire. Thanks for listening. ",
+                    "created": "Mon, 21 Apr 2025 14:14:04 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "BTW, I've <a href=\"http://scripting.com/2023/09/03/201849.html\">mentioned</a> this <a href=\"http://scripting.com/2022/12/13.html#a141000\">before</a> -- there's a <a href=\"https://clip.cafe/sleeper-1973/what-happened-everybody/\">great joke</a> in the Woody Allen movie Sleeper. It was about Albert Shanker playing the role of Elon Musk, who wasn't born when the movie came out.",
+                    "created": "Mon, 21 Apr 2025 14:15:16 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Trying to close a book",
+            "created": "Mon, 21 Apr 2025 13:10:08 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I know this is ancient history, but I was thinking the other day about how Tim O'Reilly kept saying he had nothing to do with the temporary takeover of the name \"RSS\" by RDF advocates. But it was an O'Reilly exec, Dale Dougherty, who drove it. I suppose perhaps Tim was saying, effectively, that Dougherty never told him what he was doing. But the information of his involvement was available publicly. At the time, we had the web (obviously) and good search engines. And O'Reilly Associates was a journalistic organization -- he could have asked someone to research it for him. Also the tech guy who ran the project was an O'Reilly employee. Maybe Tim didn't know. But he sure took it out on me personally. A lot of doors were closed to me because of this clash. But I don't apologize for anything I said. It <i>was</i> a company thing. If Tim wasn't aware of what his #2 guy was doing, sorry that's not on me. But everyone involved knew it was O'Reilly doing it. ",
+                    "created": "Mon, 21 Apr 2025 13:00:41 GMT",
+                    "type": "outline",
+                    "image": "https://imgs.scripting.com/2025/04/21/miceAndMen.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Anyway -- if ChatGPT had existed at the time, he could have asked for an impartial opinion. I'm going to try it now. Here's the prompt I wrote.",
+                    "created": "Mon, 21 Apr 2025 13:12:44 GMT",
+                    "subs": [
+                        {
+                            "text": "In 1999 or 2000 (not sure of the exact date) there was a fork of RSS, turning it into a dialect of RDF, a format that was being promoted by the W3C. They called it RSS 1.0. ",
+                            "created": "Mon, 21 Apr 2025 13:13:09 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "It never really took hold, never became widely used, because the earlier version of RSS, v0.91 was being adopted at a very high rate because it was being supported by all the blogging platforms of the day, and by major publishers, including Salon, Red Herring, Motley Fool and Wired. Later the NY Times would support RSS 2.0, which was an evolution of RSS 0.91, and then the entire news industry followed their lead, and RSS quickly became the most popular way to read news on the web.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Here's the question. Was O'Reilly Associates involved in the RSS 1.0 fork? Tim O'Reilly, at the time, said it wasn't involved. But Dale Dougherty, the #2 exec at O'Reilly lead the effort, and the technical lead was an O'Reilly employee. Would it be fair to say that ORA was involved. Would the fork have happened without their involvement? Try to be as impartial as you can.",
+                            "created": "Mon, 21 Apr 2025 13:29:29 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I have asked ChatGPT to give me a <a href=\"https://chatgpt.com/share/680644ab-ee60-8012-b3b5-77ddc2300958\">shareable version</a> of its answer -- but I find that often people say they can't read it. But you have the prompt so you can ask ChatGPT or any other AI app, for it's (hopefully) impartial response. ",
+                    "created": "Mon, 21 Apr 2025 13:13:16 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Update: I fed the same prompt into <a href=\"https://claude.ai/share/e347df31-c906-4db1-bb16-909f9e15541f\">Claude.ai</a> and <a href=\"https://g.co/gemini/share/bae87a853d69\">Gemini</a>.",
+                    "created": "Mon, 21 Apr 2025 13:28:46 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Another view of me via ChatGPT",
+            "created": "Mon, 21 Apr 2025 12:12:02 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "People who look down their noses at ChatGPT and its cousins tend to say it's not art. Hardly the most interesting thing, but as I've <a href=\"http://scripting.com/2025/03/28/124753.html\">written</a>, art lives mostly in the mind of the viewer, it's the effect it has on the viewer -- that imho is the art. BTW I can tell when people have actually used the product, and most of the critics haven't. Sorry but until you use it you won't know how obvious that is to someone who does.",
+                    "created": "Mon, 21 Apr 2025 12:01:45 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Lately I've been interested in using ChatGPT to mash images together. <a href=\"http://scripting.com/2025/04/20/200843.html\">Yesterday</a> I asked for a rendering of my headshot through a self-portrait of my niece. It's like <a href=\"https://en.wikipedia.org/wiki/Sampling_(music)\">sampling</a> with music but with images. I say here's a photo of me, and here's a drawing someone else did. Can you render the image of me in that style? As I did <a href=\"http://scripting.com/2025/04/20/200843.html\">yesterday</a> with my niece's portrait of herself. ",
+                    "created": "Mon, 21 Apr 2025 12:22:19 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I've also been doing stories that started with an image of Mark Zuckerberg, calling him \"my programmer friend\" and taking him through all kinds of adventures, none of which could shake his depression. It was like the <a href=\"https://daytona.scripting.com/search?q=wordle%20kitty\">Wordle Kitty</a> from last year, only these only went out via Facebook. I wish I had them in an easily shareable format, but next time I may start a group for them, or something else. ",
+                    "created": "Mon, 21 Apr 2025 22:21:07 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Today I came across a cartoon of <a href=\"https://en.wikipedia.org/wiki/Pete_Hegseth\">Pete Hegseth</a>, the US Secretary of Defense drawn by <a href=\"https://www.deadder.net/home\">Michael de Adder</a>. I thought wow that's different. I wonder what ChatGPT would do if I asked it to render my headshot in the style of that drawing? While it was doing the work, I tried to imagine what it would do with it! Would I be wearing a military uniform? Would I salute the viewer? Would it change my expression? Here's the drawing, and below it, the rendering.",
+                    "created": "Mon, 21 Apr 2025 12:12:08 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Hegseth as drawn by de Adder.",
+                    "created": "Mon, 21 Apr 2025 12:17:15 GMT",
+                    "inlineImage": "https://s3.amazonaws.com/scripting.com/images/2025/04/21/hegseth.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "My headshot rendered in the style of the Hegseth drawing.",
+                    "created": "Mon, 21 Apr 2025 12:13:33 GMT",
+                    "inlineImage": "https://s3.amazonaws.com/scripting.com/images/2025/04/21/winer.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
