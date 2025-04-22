@@ -1,0 +1,46 @@
+{
+    "text": "Trying to close a book",
+    "created": "Mon, 21 Apr 2025 13:10:08 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I know this is ancient history, but I was thinking the other day about how Tim O'Reilly kept saying he had nothing to do with the temporary takeover of the name \"RSS\" by RDF advocates. But it was an O'Reilly exec, Dale Dougherty, who drove it. I suppose perhaps Tim was saying, effectively, that Dougherty never told him what he was doing. But the information of his involvement was available publicly. At the time, we had the web (obviously) and good search engines. And O'Reilly Associates was a journalistic organization -- he could have asked someone to research it for him. Also the tech guy who ran the project was an O'Reilly employee. Maybe Tim didn't know. But he sure took it out on me personally. A lot of doors were closed to me because of this clash. But I don't apologize for anything I said. It <i>was</i> a company thing. If Tim wasn't aware of what his #2 guy was doing, sorry that's not on me. But everyone involved knew it was O'Reilly doing it. ",
+            "created": "Mon, 21 Apr 2025 13:00:41 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2025/04/21/miceAndMen.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Anyway -- if ChatGPT had existed at the time, he could have asked for an impartial opinion. I'm going to try it now. Here's the prompt I wrote.",
+            "created": "Mon, 21 Apr 2025 13:12:44 GMT",
+            "subs": [
+                {
+                    "text": "In 1999 or 2000 (not sure of the exact date) there was a fork of RSS, turning it into a dialect of RDF, a format that was being promoted by the W3C. They called it RSS 1.0. ",
+                    "created": "Mon, 21 Apr 2025 13:13:09 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It never really took hold, never became widely used, because the earlier version of RSS, v0.91 was being adopted at a very high rate because it was being supported by all the blogging platforms of the day, and by major publishers, including Salon, Red Herring, Motley Fool and Wired. Later the NY Times would support RSS 2.0, which was an evolution of RSS 0.91, and then the entire news industry followed their lead, and RSS quickly became the most popular way to read news on the web.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's the question. Was O'Reilly Associates involved in the RSS 1.0 fork? Tim O'Reilly, at the time, said it wasn't involved. But Dale Dougherty, the #2 exec at O'Reilly lead the effort, and the technical lead was an O'Reilly employee. Would it be fair to say that ORA was involved. Would the fork have happened without their involvement? Try to be as impartial as you can.",
+                    "created": "Mon, 21 Apr 2025 13:29:29 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "I have asked ChatGPT to give me a <a href=\"https://chatgpt.com/share/680644ab-ee60-8012-b3b5-77ddc2300958\">shareable version</a> of its answer -- but I find that often people say they can't read it. But you have the prompt so you can ask ChatGPT or any other AI app, for it's (hopefully) impartial response. ",
+            "created": "Mon, 21 Apr 2025 13:13:16 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Update: I fed the same prompt into <a href=\"https://claude.ai/share/e347df31-c906-4db1-bb16-909f9e15541f\">Claude.ai</a> and <a href=\"https://g.co/gemini/share/bae87a853d69\">Gemini</a>.",
+            "created": "Mon, 21 Apr 2025 13:28:46 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
