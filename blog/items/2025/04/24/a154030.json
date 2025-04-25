@@ -1,0 +1,6 @@
+{
+    "text": "I'm rebuilding my nightly email-sending code from the bottom up. Something I never properly understood is that most mail clients don't include your CSS files, so people were seeing the writing and images with no style. What an embarassment. As often is the case in 2025, I have ChatGPT to guide me through getting this right. The secret is inline styles. And there's no simple way to do the conversion, except element by element. Seems like an OS could do this for us somewhere along the line. Now I have to think about how to test it without trying to just switch it over, trying to avoid breaking everyone at once. But the nightly email might start looking a lot better for some real soon, and for others, only slight almost no noticeable differences.",
+    "created": "Thu, 24 Apr 2025 15:40:30 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
