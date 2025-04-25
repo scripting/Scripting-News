@@ -1,0 +1,75 @@
+{
+    "created": "2025-04-24T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "24",
+    "path": "2025/04/24",
+    "text": "April 24",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I've got <a href=\"https://www.youtube.com/watch?v=RWDXgUjpORw\">Crazy Fingers</a> in my brain. Can't stop humming it. ",
+            "created": "Thu, 24 Apr 2025 21:28:11 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm rebuilding my nightly email-sending code from the bottom up. Something I never properly understood is that most mail clients don't include your CSS files, so people were seeing the writing and images with no style. What an embarassment. As often is the case in 2025, I have ChatGPT to guide me through getting this right. The secret is inline styles. And there's no simple way to do the conversion, except element by element. Seems like an OS could do this for us somewhere along the line. Now I have to think about how to test it without trying to just switch it over, trying to avoid breaking everyone at once. But the nightly email might start looking a lot better for some real soon, and for others, only slight almost no noticeable differences.",
+            "created": "Thu, 24 Apr 2025 15:40:30 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "We should demand that the new owner of Chrome must respect the open web as something it does not have the power to change. Google never got this and we're losing the archive function of the web because of this. Please <a href=\"https://this.how/googleAndHttp/\">read and pass on</a> -- <i>now</i> -- we're in a unique position to fix this.",
+            "created": "Thu, 24 Apr 2025 15:37:44 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "One of the nice things about \"WordLand\" is that <b>titles are optional</b>. Some posts are too short to require a title. In a sense they are their own title. We know the benefits well, having used Twitter for a long time. There's no reason this simple idea shouldn't work in RSS feeds and blogging, in fact RSS doesn't require titles. And there's no requirement in WordPress either. So we support them, with gusto. I want this network to do what Twitter does, and everything Twitter doesn't do, that writers want. #writersweb ",
+            "created": "Thu, 24 Apr 2025 13:58:55 GMT",
+            "image": "http://scripting.com/images/2023/11/30/goodhumortruck.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "ChatGPT can level the playing field",
+            "created": "Thu, 24 Apr 2025 13:30:28 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "There's a company that I have an account with because they're the only ones who provide the service I need, so I have to stay with them. They have made my telephone unusable, they call me all the time from varying phone numbers, wanting me to do things, or with a \"courtesy reminder\" that I could spend more money with them. My number is a cell phone btw. On my user profile on their site, I unchecked <i>phone</i> as a way for them to contact me, only leaving email checked. They appear to be ignoring this. My question is this -- how do I get their attention and get them to stop calling me. The constant interruptions are interfering with my life and work.",
+                    "created": "Thu, 24 Apr 2025 13:30:37 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "That was a ChatGPT prompt. It gave me lots of options, but two were outstanding.",
+                    "created": "Thu, 24 Apr 2025 13:32:20 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "First, they knew their privacy account, and a form on their website for reporting privacy violations. ",
+                            "created": "Thu, 24 Apr 2025 13:32:41 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "They suggested I use commands in my cell phone to block unknown numbers. ",
+                            "created": "Thu, 24 Apr 2025 13:33:13 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I hadn't thought of doing this until today. Usually the big companies have all the power. They can force you to call them back and wait on hold and then it's not clear they'll even understand or respect the request. ChatGPT also suggested the FTC (heh I doubt if it can do much with Trump as president) or the state Attorney General (we still have a government in NY). ",
+                    "created": "Thu, 24 Apr 2025 13:34:09 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So think about it next time you have trouble with a megamonolithic company that's bullying you. We may have a tool at our disposal that levels the playing field.",
+                    "created": "Thu, 24 Apr 2025 13:35:41 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
