@@ -1,0 +1,16 @@
+{
+    "created": "2025-04-25T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "25",
+    "path": "2025/04/25",
+    "text": "April 25",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://github.com/scripting/wordlandSupport/issues/76\">WordLand v0.5.6</a>: You can customize the menu that pops up when you select text. and we now handle sites with large category lists, the previous limit was 100. ",
+            "created": "Fri, 25 Apr 2025 23:56:38 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
