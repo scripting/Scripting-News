@@ -1,0 +1,95 @@
+{
+    "created": "2025-04-26T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "26",
+    "path": "2025/04/26",
+    "text": "April 26",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "What if, before we transfer human awareness into computers, we discover proof of reincarnation. What then?",
+            "created": "Sat, 26 Apr 2025 19:21:39 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "If <a href=\"https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3lnojmezh5k2p\">Bluesky</a> really wanted to decentralize and do it quickly, they could build a layer out of RSS and OPML on top of what they have and not only would they be able interop with other Bluesky-like services but they could also interop with Mastodon and it could all be done in a matter of weeks.",
+            "created": "Sat, 26 Apr 2025 14:16:00 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Why is AWS breaking Node devs?",
+            "created": "Sat, 26 Apr 2025 13:53:35 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I have been getting warnings on all my Node.js code that uses AWS api's that come September they're all going to break. ",
+                    "created": "Sat, 26 Apr 2025 13:48:06 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'm working on my mail list stuff this week, trying to get the HTML to work for a lot more people than it was working for, and it's a very depressing process, but I did the work, but I don't plan on looking at this again for another five years, if then. ",
+                    "created": "Sat, 26 Apr 2025 18:49:14 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But lurking in the background is the threat by AWS, and I consider a threat, that if I don't rewrite my code in a non-insignificant way, before September, it's all going to just stop working. I took the time the other day to actually look at what's involved, and I see that they changed/broke their API to use <a href=\"https://www.w3schools.com/js/js_promise.asp\">promises</a>. Great. Another stupid exercise in fealty. ",
+                    "created": "Sat, 26 Apr 2025 13:57:12 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I think they're going to regret doing this, because I don't have the time to go so deep in the bowels of pretty much my entire codebase, and potentially break everything, and then have to debug it, when I have so many other things to do, and I'm getting older, and I just don't have the energy to devote to make-work for Amazon. The arrogance of it, and how diseconomic it is. ",
+                    "created": "Sat, 26 Apr 2025 13:57:37 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "They never promised they <i>wouldn't</i> break all their developers, but geez who would've thought they <i>wanted</i> to? ",
+                    "created": "Sat, 26 Apr 2025 13:57:56 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I don't think they're actually going to be able to flip the switch. ",
+                    "created": "Sat, 26 Apr 2025 13:58:08 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'd love to hear <a href=\"https://github.com/scripting/s3/issues/1\">what other developers think</a>.",
+                    "created": "Sat, 26 Apr 2025 13:58:52 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: Amazon APIs are the worst, so over-complicated, you have to understand everything before you can do anything. But once they work, they keep working. That's the only reason people put up with it. I've switched almost everything but S3 and SES to Digital Ocean because their docs and example code are great and they seem about the same price as Amazon, but my time is all I have, and Amazon doesn't use it well and ultimately that's going to hurt their business, and it seems September is when the shit is going to hit the fan for many, definitely for me.",
+                    "created": "Sat, 26 Apr 2025 13:59:25 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PPS: This is different from the breakage that came in the Twitter API when Musk took over. No one was paying anything for this. But I pay a lot for AWS, more every month, as my storage costs go up. I think someone in AWS in a position to make big decisions has no clear idea where the costs are for their customers or they wouldn't do this. Imagine a company of gas stations deciding to change the shape of all the nozzles on their gas pumps in September. \"We gave you plenty of times to adapt!\" they might say. Yes, but -- as long as we have to change why not change to your competitor's service? The strangeness of their APIs is their lockin. I don't think they have factored that into their plans.",
+                    "created": "Sat, 26 Apr 2025 14:02:06 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Country folk in Harvard Square",
+            "created": "Sat, 26 Apr 2025 21:25:36 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I asked ChatGPT for an \"imaginary image of Harvard Square with middle-class people from red states visiting in their trucks and country mannerisms.\"",
+                    "created": "Sat, 26 Apr 2025 21:25:51 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Red state country folk in Harvard Square.",
+                    "created": "Sat, 26 Apr 2025 21:26:18 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2025/04/26/countryFolkInHarvardSquare.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
