@@ -1,0 +1,84 @@
+{
+    "created": "2025-04-27T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "27",
+    "path": "2025/04/27",
+    "text": "April 27",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "New podcast: <a href=\"https://shownotes.scripting.com/scripting/2025/04/27/chatgptDeservesOurRespectAtLeast.html\">ChatGPT deserves our respect (at least)</a>.",
+            "created": "Sun, 27 Apr 2025 22:11:58 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you're <a href=\"http://scripting.com/2025/04/27/130611.html\">getting this via email</a>, things might look different. ",
+            "created": "Sun, 27 Apr 2025 20:03:13 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Lots of news reports about Trump's polls. But it isn't surprising that in the transition from a democracy to autocracy the people would become increasingly unhappy with the change, until we basically give up, and the polls from some pollsters are always this way, but the polls from others tell a different story. Fox News still runs polls the old way, as does the NYT and others. But that will change, as the lawyers have, and the Washington Post and NY Times have, in their editorial functions. And they just arrested a judge in Wisconsin. Makes you think maybe it doesn't matter if the polls say what they say, if there isn't something behind them. ",
+            "created": "Sun, 27 Apr 2025 15:59:41 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I heard that <a href=\"https://www.austinchronicle.com/daily/sxsw/2025-04-26/huge-changes-in-sxsw-leadership/\">Hugh Forrest</a> was fired at SXSW. Many people loved him based on the outpouring of grief, but I didn't. They had keynotes and panels about stuff I was working on at the time, in the 90s and 00s, blogging, RSS, podcasting, bringing blogs to politics. He wouldn't take my calls. I wanted to be on stage to talk about what I was working on, and to set the record straight on what we had created. Instead my competitors got top billing and I was not allowed in. It felt corrupt to me, as if someone was trading favors behind the scenes. My hope is now SXSW, or whatever replaces it, will be more open-minded about who they include in the show. I'm still working and still have a story to tell. ",
+            "created": "Sun, 27 Apr 2025 12:38:48 GMT",
+            "type": "outline",
+            "image": "http://scripting.com/images/2023/03/27/successionPoster.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Dan MacTough <a href=\"https://github.com/scripting/s3/issues/1#issuecomment-2832609727\">feels the same</a> about AWS breaking Node devs.",
+            "created": "Sun, 27 Apr 2025 12:35:03 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Nightly email switchover",
+            "created": "Sun, 27 Apr 2025 13:06:11 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "If all goes as planned, if you're subscribed to the <a href=\"http://scripting.com/email/\">nightly email</a>, you should get two copies of the posts for April 27, one sent by the old software, and one sent by the new. The new version might look better in your mail reader app. That was the point of this transition. ",
+                    "created": "Sun, 27 Apr 2025 13:07:00 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's a <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdBkVybd_vaWT4oen5uNAEKxK8ztFUvAStcCq0Y8m-0VSsTNQ/viewform?usp=header\">Google form</a> where you can let me know how it went. Did it work? How many emails did you get? Does the v2 email look better than the old version? In general do you want to comment?",
+                    "created": "Sun, 27 Apr 2025 15:03:18 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<b>The story</b>",
+                    "created": "Sun, 27 Apr 2025 13:18:31 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I had to do a rewrite because when I originally wrote it, I misunderstood how CSS styling works in some/most email clients and it required a very deep rewrite of the software, it was actually harder to do the conversion than it was to write the software in the first place. And the app was running on an old version of PagePark and depended on Dropbox, and had broken in many ways over the years. But I never had the time to zero in on this. ",
+                    "created": "Sun, 27 Apr 2025 13:17:44 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Now was the time to do it, because I want to do an <i>excellent</i> email sender for \"WordLand\". And in order for that to have even a small chance of working, I needed to do this transition, to get fully up to date on the best practices for HTML email in 2025. ",
+                    "created": "Sun, 27 Apr 2025 13:09:32 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And yet another plug for ChatGPT. It's like having a library of medical journals for a general practitioner. I'm sure they have this, if a GP has a question about which specialist to send a patient to. And then they probably have good reference materials for the specialist too, to be sure they're using the latest proven techniques for treating disease. Believe it or not we have nothing like this in software development. Which means we don't interop, and don't use prior art and are constantly reinventing each others' work because there's no way to find out about it. No conferences, no journals, nothing but hearsay and O'Reilly books and I hear they aren't very good these days. Enter ChatGPT, and all of a sudden if you have a question it has the freaking answer. It's as if medicine went from the pre-internet days to now, in just a couple of years. Only more so because medicine was considered a discipline, where developing software never has been. Now at least us practitioners have the tools if not the respect. ",
+                    "created": "Sun, 27 Apr 2025 13:10:31 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: The <a href=\"http://scripting.com/email/\">signup page</a> moved to <a href=\"https://subscribe.scripting.com/\">subscribe.scripting.com</a>. It's the same software now running on my latest server software, and served via HTTPS.",
+                    "created": "Sun, 27 Apr 2025 13:16:13 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
