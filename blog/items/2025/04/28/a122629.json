@@ -1,0 +1,6 @@
+{
+    "text": "I mentioned this in <a href=\"https://shownotes.scripting.com/scripting/2025/04/27/chatgptDeservesOurRespectAtLeast.html\">yesterday's podcast</a> -- new problems popped up with websockets in WordLand. I worked through the whole tree of possibilities with ChatGPT and it came to the conclusion that the source was an out of date package, and it was confident if I replaced it with the one \"everyone else\" is using, the problems will go away. Now this is the moment when human judgement prevails. I'm going to experiment in a very small app first, to make sure I have the approach right, then I will cautiously make the change on my test WordLand server, and if it works there, then I will figure out how to install it on the main site. It couldn't break all that much because for some reason the WS code stopped working, completely, with no code changes anywhere. ",
+    "created": "Mon, 28 Apr 2025 12:26:29 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
