@@ -1,0 +1,48 @@
+{
+    "created": "2025-04-29T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "29",
+    "path": "2025/04/29",
+    "text": "April 29",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "New podcast: <a href=\"https://shownotes.scripting.com/scripting/2025/04/29/buildingABillionairesNetwork.html\">Building a billionaire's network</a>.",
+            "created": "Tue, 29 Apr 2025 15:20:25 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "ChatGPT use-case for reporters -- fact-checking. Feed a draft of your story into ChatGPT and ask if it spots any factual errors. There may be some false positives, so you can ask another AI chatbot, or investigate yourself elsewhere. It may miss some. But it couldn't hurt and it might help. ",
+            "created": "Tue, 29 Apr 2025 19:46:04 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "New howto: <a href=\"https://this.how/feedland/editingSubscriptions.opml\">Editing subscription lists</a>. I'm doing a project with a friend who hasn't used \"FeedLand\". I want him to maintain a subscription list which will then be the source for a Bluesky account. Any time the OPML changes, of course, the channel adjusts, so they have full power to add and remove feeds. \"Just enough FeedLand.\" ",
+            "created": "Tue, 29 Apr 2025 13:55:53 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3lnxcy2wodj2y\">Bluesky was down this morning</a>. Usually I don't criticize a service when it's down, because I can relate. We like to help each other when there are outages. But Bluesky is special, because they claim to be decentralized. If it were, it wouldn't go down unless the internet itself had. And since the internet, amazingly, <i>is</i> decentralized, that's not likely to happen. It was designed that way when it was developed at <a href=\"https://en.wikipedia.org/wiki/ARPANET\">Arpanet</a>, a project of the US Department of Defense. It was designed to survive a <a href=\"https://en.wikipedia.org/wiki/ARPANET#Inspiration\">nuclear strike</a>. Bluesky is nice, but it's fragile, and their hype says otherwise. That's why they're special. They should straighten this out so we can properly get decentralization into <i>our</i> networks. Bluesky could easily add a layer of \"RSS\" on top of what they have, so that news flow could survive a disaster.  In 2025 this is a realistic concern, as it was in the 1960s. Also it would be nice if other network experts would support this, esp if they're on Bluesky. This is not personal, if they wanted to get the RSS layer built, I would help them do it. We should all pitch in because then it would really be our network, and not owned by anyone. Live up to the promise, now.",
+            "created": "Tue, 29 Apr 2025 13:12:57 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2019/05/16/weTryHarder.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "\"RSS\" defines a network of services and readers. Each one can go down, but the whole network stays up. That's all that Bluesky has promised, and that's why a layer of RSS on top of Bluesky would deliver a huge portion of the stability they've promised and would need to survive a disaster. It could be done in a matter of weeks, if they decided to do it. I would help.",
+            "created": "Tue, 29 Apr 2025 13:35:48 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "New Yorker cover.",
+            "created": "Wed, 30 Apr 2025 02:41:30 GMT",
+            "type": "outline",
+            "inlineImage": "https://imgs.scripting.com/2025/04/29/libertyInJailCountingDays.png",
+            "flInCalendar": true
+        }
+    ]
+}
