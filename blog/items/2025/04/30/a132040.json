@@ -1,0 +1,66 @@
+{
+    "text": "How blogs show their site title",
+    "created": "Wed, 30 Apr 2025 13:20:40 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "We're working on the \"baseline\" theme for WordLand, the default -- the one that shows the user's writing in a WordPress context. I did a survey of news sites and blogs to see how they show their titles:",
+            "created": "Wed, 30 Apr 2025 13:21:30 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "<a href=\"https://gothamist.com/news/gov-hochul-says-ny-budget-will-create-50m-rental-aid-program-championed-by-tenant-groups\">Gothamist</a> puts the name in the upper left corner, leaving room for some buttons and a menu in the right corner.",
+                    "created": "Wed, 30 Apr 2025 13:22:11 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://arstechnica.com/tech-policy/2025/04/redditor-accidentally-reinvents-discarded-90s-tool-to-escape-todays-age-gates/\">Ars Technica</a> does something similar, name of site in upper left corner, with an array of buttons flush right.",
+                    "created": "Wed, 30 Apr 2025 13:22:34 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://www.emptywheel.net/2025/04/30/three-coequal-timelines-of-government/\">Empty Wheel</a> does the same thing. (I sense a pattern here.)",
+                    "created": "Wed, 30 Apr 2025 13:22:42 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://missouriindependent.com/2025/04/30/missouri-lawmakers-should-reject-fake-chaplains-in-schools-bill/\">Missouri Independent</a> centers the title in much bigger type than the previous examples, the buttons are arrayed above it (more buttons).",
+                    "created": "Wed, 30 Apr 2025 13:22:51 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://evgrieve.com/2025/04/east-village-mainstay-cafe-mogador.html\">EV Grieve</a> puts the name in the upper left corner without much fanfare. Proves that it doesn't have to be eye-catching, it's the attitude and the content I love. One of my longtime favorites. It's an East Village neighborhood blog, running in Blogger for ages.",
+                    "created": "Wed, 30 Apr 2025 13:22:59 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://seths.blog/2025/04/uncomfortable-ideas/\">Seth's Blog</a> is a WordPress site, managed by Automattic. The left sidebar includes the title of the blog, and has a list of things he wants you to read, and how to get on his mail list, etc. So effectively the title is in the upper left corner, and the equiv of the buttons are arrayed vertically in a column. The functionality of his blog is probably closest to what I have in mind for WordLand, but into spartan beginnings. It's easy to add stuff, impossible to take away.",
+                    "created": "Wed, 30 Apr 2025 13:23:08 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://simonwillison.net/2025/Apr/30/sycophancy-in-gpt-4o/#atom-everything\">Simon Willison's Weblog</a>, another great example of the kind of writing I want people to do with WordLand. He puts the title in the upper left corner, with a single button flush right. He deals with the recent articles thing by putting a list of three posts, linkblog style, at the bottom. I like this placement, btw. Positioned as an afterthought. If you're lingering here, you might like this? I pretty much always ignore this kind of stuff.",
+                    "created": "Wed, 30 Apr 2025 13:23:18 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://www.manton.org/2025/04/29/model-train-at-the-casey.html\">Manton Reece</a> does the same thing everyone else is doing. Title at the top left, an array of buttons flush-right at the same level. What's uncommon about his style is that the name of his blog is tiny, 13px. But it also is very visible.",
+                    "created": "Wed, 30 Apr 2025 13:23:28 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://kottke.org/25/04/0046739-trump-is-a-hallucinating-\">Kottke</a> does not include the title of his blog on a story page. This is remarkable. But he does have the author name very prominently placed, it's the very topmost text on the page, impossible to miss. So amazingly the title is visible, even though it isn't there.",
+                    "created": "Wed, 30 Apr 2025 13:23:36 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://pluralistic.net/2025/04/29/cheaters-and-liars/https://pluralistic.net/2025/04/29/cheaters-and-liars/https://pluralistic.net/2025/04/29/cheaters-and-liars/https://pluralistic.net/2025/04/29/cheaters-and-liars/\">Pluralistic</a> puts the title in big type flush left, with a subtitle, and the buttons are below the title, before the headline of the post (lots of white space separating).",
+                    "created": "Wed, 30 Apr 2025 13:23:47 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
