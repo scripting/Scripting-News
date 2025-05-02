@@ -1,0 +1,67 @@
+{
+    "created": "2025-05-01T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "01",
+    "path": "2025/05/01",
+    "text": "May 01",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Has anyone thought to give ChatGPT a Turing test?",
+            "created": "Thu, 01 May 2025 20:33:38 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/wpIdentity/issues/4\">Rewrite</a> of WebSockets functionality in the server side of \"WordLand\".  ",
+            "created": "Thu, 01 May 2025 21:09:21 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "One consistent bit of <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdBkVybd_vaWT4oen5uNAEKxK8ztFUvAStcCq0Y8m-0VSsTNQ/viewform\">feedback</a> on the new email format, which appears to be working for just about everyone, is that the text is too small. And while it is a rewrite, for a lot of people it looks exactly the same. That's because of differences in how email clients deal with HTML.  ",
+            "created": "Thu, 01 May 2025 18:08:09 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Phil Donahue <a href=\"https://www.today.com/video/flashback-watch-bernie-sanders-today-interview-from-1981-1448099395517\">interview with Bernie Sanders</a> from 1981, then-mayor of Burlington, VT. He was a novelty then, an American politician who was a socialist. He was asked if capitalism was the normal way for humans to relate, he said no. I wonder if he still agrees, because I think that's the goal, and the reason we're in so much trouble is there really isn't an impulse to work with each other. What I've seen mostly is that when there's work to do, it's hard to find help, but once something has taken off, there isn't much help available either, the people who could make the greatest contribution just want to take over. And they often feel they have, but usually it doesn't work out, it would have been better if we all collaborated. At this point, the hurdle the human race has to get over <i>is</i> working together. We will never get out of the climate crisis without it, or avoid the next pandemic without millions of unnecessarily lost lives. The cynics are winning, basically -- and there isn't net-net much of a will for our species to survive. It's only getting worse. ",
+            "created": "Thu, 01 May 2025 14:20:13 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2024/05/21/magazineCover.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I turned yesterday's <a href=\"http://scripting.com/code/baselineplayground/\">Baseline Playground</a> into a <a href=\"https://github.com/scripting/baselinePlayground\">GitHub repo</a>. I never made one of these before and thought it was worth sharing, or just writing about. I'm struggling to find the most readable font, size, line-height. I'm looking at the screen where I do most of my online writing, and I find this very readable, it just fades into the background, to the base of the spine, so intrinsic it occupies none of my conscious mind. Anyway the purpose of the baseline is to give WordLand a target to work out all the glitches in, so the writing experience goes fully end-to-end. I didn't find any WordPress themes that I felt worked really well for this, so we set out to create one. Thanks to <a href=\"https://github.com/scotthansonde\">Scott Hansen</a> who is using my work to build out a <a href=\"https://github.com/scotthansonde/wordlandBaseline\">WordPress theme</a> and thanks to <a href=\"https://github.com/jeherve\">Jeremy Herve</a> for helping us work with WordPress, which is more than a CMS, it's a network OS. There's a lot of value in the WordPress platform that has been widely overlooked, imho.",
+            "created": "Thu, 01 May 2025 14:16:52 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Welcome to yet another month",
+            "created": "Thu, 01 May 2025 14:31:13 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Good morning and welcome to May 2025. ",
+                    "created": "Thu, 01 May 2025 14:10:39 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's nice to start with a simple <a href=\"https://imgs.scripting.com/2025/05/01/almostEmptyOutline.png\">almost-empty</a> outline. ",
+                    "created": "Thu, 01 May 2025 14:12:48 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Archived the OPML for April in the <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/opml/2025/04.opml\">usual place</a>.",
+                    "created": "Thu, 01 May 2025 14:11:01 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
