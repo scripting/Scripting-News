@@ -1,0 +1,17 @@
+{
+    "created": "2025-05-05T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "05",
+    "path": "2025/05/05",
+    "text": "May 05",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I think we're at the \"no more new features\" point of the first release of \"WordLand\". Learned my lesson on the <a href=\"https://github.com/scripting/wordlandSupport/issues/82\">0.5.7 release</a>. There comes a point in a developing product that it may not be perfect for every possible user, and while it has bugs (all software does), it is useful for what it was designed to do. In the case of WordLand, there's nothing else like it out there, and it forms a foundation to build on, not just for itself but for other types of editors, all pumping people's writing out through WordPress. The <a href=\"https://daytona.scripting.com/search?q=%22writer%27s%20web%22\">writer's web</a> with a sweet new UI. Thousands of developers work in WordPress. Maybe tens of thousands. That's what I get excited about. WordLand is the equivalent of the twitter-like <a href=\"https://daytona.scripting.com/search?q=%22tiny%20little%20textbox%22\">tiny little textbox</a>, but it grows big as your writing does, and it has the features Twitter removed. Anyway I don't expect to do any further adventures in features for WordLand for a while, instead I'm going to assume it's there and build connections to other software, my own and that of friends, in this context products that use open formats like \"RSS\" and \"OPML\" for interop. I like <a href=\"https://en.wikipedia.org/wiki/WebSocket\">WebSockets</a> too. ",
+            "created": "Mon, 05 May 2025 15:13:02 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/04/24/cheshireCat.png",
+            "flInCalendar": true
+        }
+    ]
+}
