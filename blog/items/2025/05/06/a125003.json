@@ -1,0 +1,31 @@
+{
+    "text": "Notes for WordLand users",
+    "created": "Tue, 06 May 2025 12:50:03 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Three questions came up in overnight posts re \"WordLand\".",
+            "created": "Tue, 06 May 2025 12:50:10 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "Where did the Bookmarks menu go? It's mentioned in the docs under <a href=\"https://this.how/wordland/#1732286073000\">Feature List</a>, but the feature doesn't appear to be in the product. It is there, you just have to go to the <a href=\"https://imgs.scripting.com/2025/05/06/settings.png\">Settings</a> page to turn it on. It's in the menu at the right edge of the screen. I'm doing some work on it, simplifying it, and finding and fixing a bug. It's going to be in the final 1.0 release of WordLand. ",
+                    "created": "Tue, 06 May 2025 12:50:24 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "How do I know when an post has been published? It was <a href=\"https://github.com/scripting/wordlandSupport/issues/57#issuecomment-2853465283\">suggested</a> we post a dialog that confirms that a post is published. People found it confusing since it appears as if it works like a social media post editor, as in Twitter or Mastodon, it behaves like a blog post editor. This is a good and valid point and something that had not occurred to me! I've been advertising it as inspired by the tiny little textbox editors, but it doesn't behave like one, because you can edit a post after it has been published and it is expected that the user knows this, and they don't always get it. I will work on this. ",
+                    "created": "Tue, 06 May 2025 12:51:57 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The user might not have a WordPress site. They may have created an account to just log onto WordLand, but didn't know they needed to also create a site to work with. The software does not behave well in this circumstance. Again, something that did not occur to me, because I think of the WordPress world as huge, and that my new, tiny and humble product couldn't be creating new users for them, but it does. So there will have to at least be docs for how to do this. Not sure if there's an API for creating a new site, I imagine that there is not such a thing, but will look into it.  ",
+                    "created": "Tue, 06 May 2025 12:54:31 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
