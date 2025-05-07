@@ -1,0 +1,85 @@
+{
+    "created": "2025-05-06T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "06",
+    "path": "2025/05/06",
+    "text": "May 06",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "When I did the <a href=\"http://scripting.com/2025/04/27/130611.html\">rewrite</a> of the nightly mail app, I didn't convert the app that builds the <a href=\"http://scripting.com/rssNightly.xml\">nightly RSS feed</a> of the mail page. Wasn't sure if anyone was using it. I heard from a reader who missed it, so I got it running, knock wood, Murphy-willing. ",
+            "created": "Tue, 06 May 2025 21:23:33 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "ChatGPT as proofer? Not here",
+            "created": "Tue, 06 May 2025 16:10:22 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://www.manton.org/2025/05/06/i-increasingly-throw-my-blog.html\">Manton says</a> he runs his posts through ChatGPT before publishing. ",
+                    "created": "Tue, 06 May 2025 16:10:33 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I do it the other way, I use it for background info on the things I'm writing about as I write, more and more. I used to use Wikipedia that way. I would love to include links to some of my conversations, but I find their shared links are unreliable, I keep hearing from people who couldn't read them. ",
+                    "created": "Tue, 06 May 2025 16:10:45 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's an experiment, two such backgrounders I had Claude.ai write for me for a pice I was writing (not published).",
+                    "created": "Tue, 06 May 2025 16:11:11 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Claude.ai on the <a href=\"https://claude.ai/share/a05034bf-1a34-4088-8671-92e7b20b53f1\">future of Chrome</a> re antitrust case Google lost.",
+                    "created": "Tue, 06 May 2025 16:11:12 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Claude.ai on <a href=\"https://claude.ai/share/56fcd0a4-306e-4a8c-973a-f1f15ef372a6\">claims Bluesky makes</a> about being billionaire-proof. ",
+                    "created": "Tue, 06 May 2025 16:11:45 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I wonder if people can read those.",
+                    "created": "Tue, 06 May 2025 16:12:24 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Notes for WordLand users",
+            "created": "Tue, 06 May 2025 12:50:03 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Three questions came up in overnight posts re \"WordLand\".",
+                    "created": "Tue, 06 May 2025 12:50:10 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Where did the Bookmarks menu go? It's mentioned in the docs under <a href=\"https://this.how/wordland/#1732286073000\">Feature List</a>, but the feature doesn't appear to be in the product. It is there, you just have to go to the <a href=\"https://imgs.scripting.com/2025/05/06/settings.png\">Settings</a> page to turn it on. It's in the menu at the right edge of the screen. I'm doing some work on it, simplifying it, and finding and fixing a bug. It's going to be in the final 1.0 release of WordLand. ",
+                            "created": "Tue, 06 May 2025 12:50:24 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "How do I know when an post has been published? It was <a href=\"https://github.com/scripting/wordlandSupport/issues/57#issuecomment-2853465283\">suggested</a> we post a dialog that confirms that a post is published. People found it confusing since it appears as if it works like a social media post editor, as in Twitter or Mastodon, it behaves like a blog post editor. This is a good and valid point and something that had not occurred to me! I've been advertising it as inspired by the tiny little textbox editors, but it doesn't behave like one, because you can edit a post after it has been published and it is expected that the user knows this, and they don't always get it. I will work on this. ",
+                            "created": "Tue, 06 May 2025 12:51:57 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "The user might not have a WordPress site. They may have created an account to just log onto WordLand, but didn't know they needed to also create a site to work with. The software does not behave well in this circumstance. Again, something that did not occur to me, because I think of the WordPress world as huge, and that my new, tiny and humble product couldn't be creating new users for them, but it does. So there will have to at least be docs for how to do this. Not sure if there's an API for creating a new site, I imagine that there is not such a thing, but will look into it.  ",
+                            "created": "Tue, 06 May 2025 12:54:31 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
