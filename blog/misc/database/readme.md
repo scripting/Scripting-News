@@ -9,4 +9,4 @@ If you import all the records in all the JSON files here, you will have the same
 
 ### List of files
 
-davenet.json contains all the davenet pieces I wrote between 1994 and 2004.
+<a href="https://github.com/scripting/Scripting-News/blob/master/blog/misc/database/davenet.json">davenet.json</a> contains all the <a href="http://scripting.com/davenet/">DaveNet</a> pieces I wrote between 1994 and 2004.
