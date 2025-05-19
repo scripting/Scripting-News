@@ -9,4 +9,8 @@ If you import all the records in all the JSON files here, you will have the same
 
 ### List of files
 
-<a href="https://github.com/scripting/Scripting-News/blob/master/blog/misc/database/davenet.json">davenet.json</a> contains all the <a href="http://scripting.com/davenet/">DaveNet</a> pieces I wrote between 1994 and 2004.
+These files come from the opmlOtherSources folder in the GitHub repo.
+
+1. <a href="https://github.com/scripting/Scripting-News/blob/master/blog/misc/database/davenet.json">davenet.json</a> contains all the <a href="http://scripting.com/davenet/">DaveNet</a> pieces I wrote between 1994 and 2004.
+
+2. <a href="otherSources.json">otherSources.json</a> has all the posts in the files in sub-folders 1997-2010 and 2016-2017 of the opmlOtherSources folder.
