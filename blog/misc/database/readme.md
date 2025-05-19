@@ -36,7 +36,7 @@ create table blogposts (
 	);
 ```
 
-### Code to important
+### Code to import
 
 Here's some JavaScript code that imports one of the JSON files listed above.
 
