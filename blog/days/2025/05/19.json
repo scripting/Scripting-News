@@ -1,0 +1,107 @@
+{
+    "created": "2025-05-19T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "19",
+    "path": "2025/05/19",
+    "text": "May 19",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "What it means to be distributed. Mastodon and RSS can't go down. But Bluesky, Twitter, Facebook can.",
+            "created": "Mon, 19 May 2025 15:09:23 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2024/06/11/nakedJenToday.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've been working on the <a href=\"https://daytona.scripting.com/search?q=daytona\">search function</a> for this blog, and now we have all the <a href=\"https://daytona.scripting.com/search?q=davenet\">DaveNet</a> pieces between 1994 and 2004 in the database. <a href=\"https://daytona.scripting.com/search?q=autoweb\">Autoweb</a> was my first static site generator. Here's a search for <a href=\"https://daytona.scripting.com/search?q=%22menu%20sharing%22\">menu sharing</a> which was a technology we made on the Mac that allowed people to write menus of scripts in Frontier that appear inside other apps. Netscape supported it as did MSIE, Quark, Eudora and many others. It was kind of magical, esp when the apps themselves were scriptable (many of them were in the 90s). Next up, I'm going to import the home page of Scripting News from 1997 to 2010. It was mostly a linkblog then. ",
+            "created": "Mon, 19 May 2025 14:40:41 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "How to understand Trump talking about tariffs. Remember how he talked about Covid. Same thing.When I announced Chris Lydon's podcast in <a href=\"http://scripting.com/davenet/2003/07/31/chrisLydonsWeblogForTheEar.html\">2003</a>, I called it a <a href=\"https://daytona.scripting.com/search?q=%22weblog%20for%20the%20ears%22\">weblog for the ears</a>. We didn't have the name podcasting yet.  ",
+            "created": "Mon, 19 May 2025 22:23:56 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Having the 90s and 00s in the index means I can look up old friends like <a href=\"https://daytona.scripting.com/search?q=shotton\">Chuck Shotton</a>.",
+            "created": "Mon, 19 May 2025 14:52:31 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "As the import script runs I just tried looking up <a href=\"https://daytona.scripting.com/search?q=engadget\">Engadget</a>, got zero hits. I expect that link will work in a while after all the importing is done. ",
+            "created": "Mon, 19 May 2025 15:05:39 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "And with <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog/misc/database\">this update</a>, we don't depend on OPML any longer to create the database, all the data is exported in a format that can be easily imported directly into an SQL database. I provide the <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog/misc/database#the-sql-table\">schema</a> and example <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog/misc/database#code-to-import\">JavaScript code</a> that, via SQL, updates a database. Hopefully this creates a better more useful archive. ",
+            "created": "Mon, 19 May 2025 15:14:09 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "How to understand Trump talking about tariffs. Remember how he talked about Covid. Same thing.",
+            "created": "Tue, 20 May 2025 00:35:27 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Apparently Chrome has changed the behavior of images served over http in web pages. It's changing the request to https, so it gives an erroneous error message about the certificate which the page never claimed to have. ",
+            "created": "Mon, 19 May 2025 17:40:33 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I was going to use <a href=\"https://gist.github.com/scripting/ffea3997c193552deb8fc8c864e8ebee\">this code</a> in the UI of my search engine, when it wanted to display an image over http, reroute it to use an https proxy server. But Chrome wouldn't stay out of the way, so had to give up. Hey I was trying to route around their outage.",
+            "created": "Mon, 19 May 2025 18:47:16 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Andrew Hickey",
+            "created": "Mon, 19 May 2025 22:06:50 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<a href=\"https://bsky.app/profile/did:plc:2tjsq6a4vn6pww2iva5qj23v\">Andrew Hickey</a> whose <a href=\"https://500songs.com/podcast/\">podcast</a> I support, also appears to be strongly against people using ChatGPT. ",
+                    "created": "Mon, 19 May 2025 22:06:57 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I am a programmer, so you might think I'd see it the same way because what I do is similar to what musicians and prose writers do in that I create \"intellectual property\" which can be easily copied.",
+                    "created": "Mon, 19 May 2025 22:09:27 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But we have a different culture in software, we tend to by default share what we do and let other people use it. They're supposed to credit us, but people are selfish and greedy and they will tend to take whatever isn't bolted down, and it sucks, but you accept it.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "What's funny is Hickey appears to have no clue how much he's benefited from this ethos. His success probably would not have been possible without some people thinking it's more important to create the medium he could use any way he saw fit, than to own one that would probably have kept him out.",
+                    "created": "Mon, 19 May 2025 22:12:28 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Creating is not as linear as he appears to think, which so ironic because that's basically what his freaking podcast is about. He loves to say \"no one did anything first\" (paraphrasing) and that's basically the <a href=\"http://scripting.com/stories/2011/09/09/onlyStealFromTheBest.html\">same idea</a>.",
+                    "created": "Tue, 20 May 2025 02:31:49 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And I don't doubt that the next big media invention, the next <a href=\"https://daytona.scripting.com/search?q=podcasting\">podcasting</a> perhaps, will benefit enormously from having ChatGPT available for the people developing it.",
+                    "created": "Mon, 19 May 2025 22:10:51 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: This appeared earlier as a <a href=\"https://bsky.app/profile/scripting.com/post/3lpjn22v22s2k\">post</a> on Bluesky. And I wrote every freaking word, as I always do unless disclaimed.",
+                    "created": "Mon, 19 May 2025 22:12:45 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
