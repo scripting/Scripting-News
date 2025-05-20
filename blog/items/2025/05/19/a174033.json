@@ -1,0 +1,6 @@
+{
+    "text": "Apparently Chrome has changed the behavior of images served over http in web pages. It's changing the request to https, so it gives an erroneous error message about the certificate which the page never claimed to have. ",
+    "created": "Mon, 19 May 2025 17:40:33 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
