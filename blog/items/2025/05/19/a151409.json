@@ -1,0 +1,6 @@
+{
+    "text": "And with <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog/misc/database\">this update</a>, we don't depend on OPML any longer to create the database, all the data is exported in a format that can be easily imported directly into an SQL database. I provide the <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog/misc/database#the-sql-table\">schema</a> and example <a href=\"https://github.com/scripting/Scripting-News/tree/master/blog/misc/database#code-to-import\">JavaScript code</a> that, via SQL, updates a database. Hopefully this creates a better more useful archive. ",
+    "created": "Mon, 19 May 2025 15:14:09 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
