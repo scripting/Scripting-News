@@ -1,0 +1,50 @@
+{
+    "created": "2025-05-20T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "20",
+    "path": "2025/05/20",
+    "text": "May 20",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I turn off CNN when they start a segment on Jake Tapper’s book. The level of hypocrisy is intense. Who covered up what? Please. I remember Hillary's Emails. And weapons of mass destruction. And Trump may not be good for America but he's sure good for CBS. And on and on. They think we don't think. But their influence is getting close to nil. American news is one story at a time, debates between boring people saying the same bullshit over and over. Democrats who stumble over their words. An occasional glypse of Bernie or AOC. Something to get your bile up, and the next one and the one after that, but it doesn't work anymore. What Biden did or didn't do is no more relevant on CNN than it is on Fox. ",
+            "created": "Wed, 21 May 2025 02:12:55 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2018/12/20/butHerEmails.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://en.wikipedia.org/wiki/MySQL\">MySQL</a>, which I'm using for <a href=\"https://daytona.scripting.com/search?q=bull%20mancuso\">Daytona</a>, has the idea of <a href=\"https://claude.ai/share/3ec3cd5e-87d8-4a78-9356-464f2b26cf0d\">relevance</a> in searches. Previously I had been showing <a href=\"https://daytona.scripting.com/search?q=%22wordle%20kitty%22\">results</a> in reverse chronologic order. So now, a <a href=\"https://daytona.scripting.com/search?q=%22matt%20mullenweg%22\">search for Matt Mullenweg</a> gets the same results but prioritized by MySQL. This is the <a href=\"https://gist.github.com/scripting/2857897ffe58bcb06362f00a7a72336a\">query</a>.  What's nice is that the results are focused on the early 2000s, when the standards we use now were coming up. We can do this kind of stuff again. There's more to do. For example, it would be really cool if <a href=\"https://pocketcasts.com/\">Pocket Casts</a>, their excellent podcast client, would let users publish their subscription list so we can build applications on them. There's a whole new base of data to work with. And unlike other media, podcast content is meant to be shared. The controversies that exist for professional writing and audiobooks, for example, don't apply to podcasts. If we could open this up, we could create an <a href=\"https://this.how/podcasting/#1733322866000\">ecosystem</a> worth of applications very quickly. OPML is an easy format to get into a database. We just need sources of interesting data.",
+            "created": "Tue, 20 May 2025 17:07:01 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/04/01/siliconValley.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've been looking up all kinds of things now that my new Daytona search engine has access to my blogging going back to 1994. I just did a <a href=\"https://daytona.scripting.com/search?q=mullenweg\">search for Mullenweg</a>, and came up with this <a href=\"https://ma.tt/2006/04/feed-validator/\">blog post</a> by Matt in 2006 about the Feed Validator. The clarity is remarkable, and he's of course right. The people running the validator were actually promoting Atom over RSS, and were trying to tilt the table towards Atom. The goal was <a href=\"https://daytona.scripting.com/search?q=interop\">interop</a>, not to give Google or IBM control of the syndication format of the open web. When you keep changing your mind about what to flag and what to pass you end up with a standard that's as murky as the tariff policy of the US in 2025. I think you have to assume that was the goal. They didn't like that RSS didn't fall apart when Atom came out. If there's no benefit in changing, people don't. ",
+            "created": "Tue, 20 May 2025 11:36:17 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/11/27/rssClub.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Fake News",
+            "created": "Wed, 21 May 2025 02:24:18 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Prompt: Draw me the cover of a fictitious magazine called RSS Land. On the cover a picture of a news room, and in small type along the right edge titles of stories. Make it interesting. ",
+                    "created": "Wed, 21 May 2025 02:24:25 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "RSS Land Magazine.",
+                    "created": "Wed, 21 May 2025 02:24:32 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2025/05/20/rssLandMag.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
