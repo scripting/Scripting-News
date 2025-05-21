@@ -1,0 +1,7 @@
+{
+    "text": "I've been looking up all kinds of things now that my new Daytona search engine has access to my blogging going back to 1994. I just did a <a href=\"https://daytona.scripting.com/search?q=mullenweg\">search for Mullenweg</a>, and came up with this <a href=\"https://ma.tt/2006/04/feed-validator/\">blog post</a> by Matt in 2006 about the Feed Validator. The clarity is remarkable, and he's of course right. The people running the validator were actually promoting Atom over RSS, and were trying to tilt the table towards Atom. The goal was <a href=\"https://daytona.scripting.com/search?q=interop\">interop</a>, not to give Google or IBM control of the syndication format of the open web. When you keep changing your mind about what to flag and what to pass you end up with a standard that's as murky as the tariff policy of the US in 2025. I think you have to assume that was the goal. They didn't like that RSS didn't fall apart when Atom came out. If there's no benefit in changing, people don't. ",
+    "created": "Tue, 20 May 2025 11:36:17 GMT",
+    "type": "outline",
+    "image": "https://imgs.scripting.com/2023/11/27/rssClub.png",
+    "flInCalendar": true
+}
