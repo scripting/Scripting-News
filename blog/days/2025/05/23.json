@@ -1,0 +1,35 @@
+{
+    "created": "2025-05-23T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "23",
+    "path": "2025/05/23",
+    "text": "May 23",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Has Harvard considered opening a satellite campus outside the United States? If the Trumps keep making demands, like demanding that they stop admitting students from outside the US, the students the US government rejects could still go to Harvard, be taught by the same teachers, collaborate and socialize with other Harvard-quality students, without interference from Trump. I imagine there are a few countries that would be willing to help. If you want to really make a point, open it in China.",
+            "created": "Fri, 23 May 2025 12:50:04 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2017/08/15/uncleSam.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you're into Mastodon,  you can follow my <a href=\"https://daveverse.org/\">daveverse</a> blog, the one I write using \"WordLand\", on Mastodon, using this address: @scripting@daveverse.org. Mastodon preserves links and styling, and doesn't seem to have a size limit. I can edit my posts and you get the updates. So Mastodon kind of informally has become a blogging system, which I totally applaud. It checks a lot of the boxes from my \"textcasting\" manifesto. Slowly the world is starting to make sense. ",
+            "created": "Fri, 23 May 2025 15:17:38 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A couple of little tweaks to <a href=\"https://daytona.scripting.com/search?q=Hello World\">Daytona</a>. It now has a <a href=\"https://imgs.scripting.com/2025/05/23/historyMenuDaytona.png\">history menu</a> which it saves in local storage. It's useful to be able to come back to a recent search. It remembers the last 50 searches this way. Also had to add a little hack that turns off other copies of Daytona when another one launches. Use a local storage trick, save a random string to a fixed location, and every second check to see if its value has changed. If it has, another copy of Daytona has launched, so I redirect to the home page of my blog. ",
+            "created": "Fri, 23 May 2025 13:56:04 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I would pay extra for cable service to have none of my money go to Fox News. What made me think of it this way is <a href=\"https://www.youtube.com/watch?v=eyYNxT1_Avo\">this great scene</a> in <a href=\"https://daytona.scripting.com/search?q=moneyball\">Moneyball</a> where <a href=\"https://en.wikipedia.org/wiki/Billy_Beane\">Billy Beane</a> (played by <a href=\"https://en.wikipedia.org/wiki/Brad_Pitt\">Brad Pitt</a>) reminds <a href=\"https://en.wikipedia.org/wiki/David_Justice\">David Justice</a> that the <a href=\"https://en.wikipedia.org/wiki/Rickrolling\">Yankees</a> think so much of him that they're paying him $3.5 million a year for him to play <i>against</i> them. That's valid. ",
+            "created": "Fri, 23 May 2025 17:00:14 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
