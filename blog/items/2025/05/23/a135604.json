@@ -1,0 +1,6 @@
+{
+    "text": "A couple of little tweaks to <a href=\"https://daytona.scripting.com/search?q=Hello World\">Daytona</a>. It now has a <a href=\"https://imgs.scripting.com/2025/05/23/historyMenuDaytona.png\">history menu</a> which it saves in local storage. It's useful to be able to come back to a recent search. It remembers the last 50 searches this way. Also had to add a little hack that turns off other copies of Daytona when another one launches. Use a local storage trick, save a random string to a fixed location, and every second check to see if its value has changed. If it has, another copy of Daytona has launched, so I redirect to the home page of my blog. ",
+    "created": "Fri, 23 May 2025 13:56:04 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
