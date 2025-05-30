@@ -1,0 +1,49 @@
+{
+    "created": "2025-05-29T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "29",
+    "path": "2025/05/29",
+    "text": "May 29",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "A test post",
+            "created": "Thu, 29 May 2025 15:14:57 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<i>I'm working on something that requires an endless stream of test posts. Sometimes when I start writing I end up something that should be published. Should I edit it? Nah.</i>",
+                    "created": "Thu, 29 May 2025 15:15:15 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "this shit is hard. when it's done it looks simple. but these pieces must fit together. ",
+                    "created": "Thu, 29 May 2025 15:15:36 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "that's why it's soooo stupid to throw out all the interop, because it's going to take you forever to recreate it, if you ever can, which you probably can't.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "this is the lesson that activitypub and atproto are teaching once again. and the people who are dealing with this have probably known it a long time.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "it would be so much faster to use something that already works and is widely supported.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "this is why we used mp3 in rss to make podcasting. we could have said oh shit i don't understand how mp3 works, so let's create one that does only what podcasting needs. only of course it'll turn out that podcasting needs everything that mp3 already does.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "accept a win. don't feel compelled to reinvent everything. you'll find out it wasn't as easy as it looked.",
+                    "created": "Thu, 29 May 2025 15:16:24 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
