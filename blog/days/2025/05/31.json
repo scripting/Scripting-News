@@ -1,0 +1,37 @@
+{
+    "created": "2025-05-31T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "31",
+    "path": "2025/05/31",
+    "text": "May 31",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Why does Apple invent their own proprietary plugs when everyone else does USB? Even if you don't like to speak ill of Apple, you <i>know</i> why they do it. They want to control who can make add-ons to their products in hardware, just as they do in software. I still buy their products, but I also buy products that use standards, so I can use them on lots of devices. Now, the same thing happens in software from other people and companies. They can choose to use what already exists, or invent their own. Example, I chose MP3 for podcasting, did not invent a new format. If I were to do a social web network, I would use RSS, I wouldn't invent a new format. I want interop. I want to create an open platform, I don't mind making money, but that's not why I do it. ",
+            "created": "Sat, 31 May 2025 15:56:34 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/11/30/goodhumortruck.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "RSS never had a big corporation acting as a benefactor. Is that why imho RSS hasn't been considered as the backbone of the social web? Probably more likely it's the <a href=\"https://en.wikipedia.org/wiki/Fog_of_war\">Fog Of War</a> nature of tech development. We have so many forks of so many things we don't know what anyone else is doing. It's easier to invent your own than figure out what the other thing did. Perhaps ChatGPT et al will change that. Yesterday I used it to get an understanding of how the <a href=\"https://github.com/scripting/Scripting-News/issues/320\">content:encoded element</a> came to exist and evolved, and you'd think I of all people would know, but I didn't. ChatGPT <a href=\"https://chatgpt.com/share/6839d31f-9910-8012-b324-a0bb3c052f4f\">did</a>. ",
+            "created": "Sat, 31 May 2025 16:19:21 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "\"Well, we're all going to die.\"",
+            "created": "Sat, 31 May 2025 18:00:39 GMT",
+            "type": "outline",
+            "inlineImage": "https://imgs.scripting.com/2025/05/31/wereAllGoingToDie.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "\"Well, we're all going to die.\"",
+            "created": "Sat, 31 May 2025 20:48:32 GMT",
+            "type": "outline",
+            "inlineImage": "https://imgs.scripting.com/2025/05/31/aManWasLynchedYesterday.png",
+            "flInCalendar": true
+        }
+    ]
+}
