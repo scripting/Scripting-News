@@ -1,0 +1,7 @@
+{
+    "text": "If everything goes well, the <a href=\"http://scripting.com/rss.xml\">RSS feed</a> for Scripting News will now have a channel-level image element because it's part of a network that requires an avatar-like image. This required me to go through some very old code that my system still depends on. It's remarkable how much time this seemingly small feature took to implement. One of these days I have to move this code to one of my more modern servers. One reason it took so long is that a random package that does something that never changes, had a breaking change in it. The breakage culture of the Node.js world is just plain fucked up, no other word for it. ",
+    "created": "Wed, 04 Jun 2025 15:32:12 GMT",
+    "type": "outline",
+    "image": "https://imgs.scripting.com/2024/02/02/curly.gif",
+    "flInCalendar": true
+}
