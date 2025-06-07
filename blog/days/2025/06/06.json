@@ -1,0 +1,154 @@
+{
+    "created": "2025-06-06T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "06",
+    "path": "2025/06/06",
+    "text": "June 06",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I'm totally overwhelmed by the new capabilities of all the ChatGPT-likes out there in the last few days. I can't imagine turning my whole workspace over to them, and I certainly couldn't do it to two of them. I think I might recognize some of the applications based on the scripting functionality we developed in apps on the Mac and Windows in the 90s with \"Frontier\". Today I might have one of the largest public codebases written by one human that hasn't yet been touched by an AI. Maybe it could be some kind of artifact from ancient times? Like, last week? ",
+            "created": "Fri, 06 Jun 2025 15:44:59 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2019/06/08/dilbert.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "A new acronym for people of a certain age. \"WWWCS\" or What Would <a href=\"https://en.wikipedia.org/wiki/Walter_Cronkite\">Walter Cronkite</a> Say? Now answer that question about the back and forth between Musk and Trump. I think he would only be talking about the on-the-record public confessions we were hearing. We knew about the grift before, but we didn't have such clear evidence. ",
+            "created": "Fri, 06 Jun 2025 23:10:59 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "When the web was new",
+            "created": "Fri, 06 Jun 2025 22:58:08 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I was an active software developer when the web came online in the early 90s. I knew what <a href=\"https://daytona.scripting.com/search?q=Macintosh\">closed systems</a> were like, and <a href=\"https://daytona.scripting.com/search?q=unix\">open systems</a>. The web was open, and a miracle because of its radical simplicity. We were so lucky. We developed all kind of stuff that was only possible when there was no platform vendor. ",
+                    "created": "Fri, 06 Jun 2025 22:58:22 GMT",
+                    "image": "https://imgs.scripting.com/2025/06/06/timBernersLee.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But then in the mid 00s things changed, and since then the users have flocked to <a href=\"https://daytona.scripting.com/search?q=twitter\">closed</a> <a href=\"https://daytona.scripting.com/search?q=facebook\">systems</a>. It would be similarly wonderful if we had an open <a href=\"https://daytona.scripting.com/search?q=%22social%20web%22\">social web</a>, but we don’t. Mastodon is open but it’s not simple like the web is, and Bluesky is simple, but it is not open. And neither supports the most basic <a href=\"https://textcasting.org/\">features of the web</a>.",
+                    "created": "Fri, 06 Jun 2025 22:58:24 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Today most active devs weren’t around when the web came along and knocked down the silos. It is imho possible to have an open social web, but the people who are trying to make one out of complex and closed systems will imho never get there.",
+                    "created": "Fri, 06 Jun 2025 22:58:29 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "They would be better off to look for different foundations to build on other than Mastodon and Bluesky. I have <a href=\"https://daytona.scripting.com/search?q=wordpress\">one</a> in mind, btw. You will probably be surprised, but then we were all surprised by the web itself.",
+                    "created": "Fri, 06 Jun 2025 22:58:33 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Fediforum report",
+            "created": "Fri, 06 Jun 2025 16:03:31 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<i>This was an email I sent to one of the people I'm working with at Automattic, and realized I was actually writing a blog post. </i>",
+                    "created": "Fri, 06 Jun 2025 16:05:09 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I was watching on the FediForum session yesterday, and heard all this stuff about Bluesky and Mastodon, but these are products that are poorly prepared for the \"open social web\" -- and imho they won't get there. But WordPress is already there. ",
+                    "created": "Fri, 06 Jun 2025 16:03:39 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I think some of the products are good, btw -- I hadn't seen Surf, it's basically a feed aggregator that can get input from Bluesky and Mastodon. I don't think they're using their RSS support though. Not adequate. But WordPress RSS is fine. I made an improvement to the Scripting News RSS to add an &lt;image> element that works like the one on a WordPress site. Now my posts can show up in the timeline via RSS. ",
+                    "created": "Fri, 06 Jun 2025 16:04:19 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "That's the key to what we're doing. Reading and writing, with the UI of a twitter-like product, all built on RSS, with the content also appearing on the network WordPress has defined. I see this as huge. ",
+                    "created": "Fri, 06 Jun 2025 16:11:35 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Obviously this needs to be a blog post. ",
+                    "created": "Fri, 06 Jun 2025 16:11:25 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Test post",
+            "created": "Fri, 06 Jun 2025 14:48:07 GMT",
+            "type": "outline",
+            "metaImage": "https://imgs.scripting.com/2025/06/06/coopCity.png",
+            "subs": [
+                {
+                    "text": "A list of ten random country names",
+                    "created": "Fri, 06 Jun 2025 14:48:12 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Brazil",
+                            "created": "Fri, 06 Jun 2025 14:53:04 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Bangladesh ",
+                            "created": "Fri, 06 Jun 2025 14:53:07 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Chile",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Ireland",
+                            "created": "Fri, 06 Jun 2025 16:28:08 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Guatemala",
+                            "created": "Fri, 06 Jun 2025 15:44:15 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Kenya",
+                            "created": "Fri, 06 Jun 2025 15:42:41 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Morocco",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Peru",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Portugal",
+                            "created": "Fri, 06 Jun 2025 15:44:06 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Thailand",
+                            "created": "Fri, 06 Jun 2025 15:44:05 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Note: I was testing a new reading app, wanted to be sure it understood bulleted and numbered lists from an outliner. I always add support for outliners to whatever I do. It's just a thing for me. :smile:",
+                    "created": "Fri, 06 Jun 2025 22:56:04 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
