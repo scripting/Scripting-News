@@ -1,0 +1,33 @@
+{
+    "text": "Fediforum report",
+    "created": "Fri, 06 Jun 2025 16:03:31 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "<i>This was an email I sent to one of the people I'm working with at Automattic, and realized I was actually writing a blog post. </i>",
+            "created": "Fri, 06 Jun 2025 16:05:09 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I was watching on the FediForum session yesterday, and heard all this stuff about Bluesky and Mastodon, but these are products that are poorly prepared for the \"open social web\" -- and imho they won't get there. But WordPress is already there. ",
+            "created": "Fri, 06 Jun 2025 16:03:39 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I think some of the products are good, btw -- I hadn't seen Surf, it's basically a feed aggregator that can get input from Bluesky and Mastodon. I don't think they're using their RSS support though. Not adequate. But WordPress RSS is fine. I made an improvement to the Scripting News RSS to add an &lt;image> element that works like the one on a WordPress site. Now my posts can show up in the timeline via RSS. ",
+            "created": "Fri, 06 Jun 2025 16:04:19 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "That's the key to what we're doing. Reading and writing, with the UI of a twitter-like product, all built on RSS, with the content also appearing on the network WordPress has defined. I see this as huge. ",
+            "created": "Fri, 06 Jun 2025 16:11:35 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Obviously this needs to be a blog post. ",
+            "created": "Fri, 06 Jun 2025 16:11:25 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
