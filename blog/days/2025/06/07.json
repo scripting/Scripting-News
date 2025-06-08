@@ -1,0 +1,36 @@
+{
+    "created": "2025-06-07T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "07",
+    "path": "2025/06/07",
+    "text": "June 07",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I was moved by this <a href=\"https://www.scientificamerican.com/article/inside-the-secret-meeting-where-mathematicians-struggled-to-outsmart-ai/\">Scientific American piece</a> on mathematicians studying the limits of ChatGPT-like systems doing mathematics and basically not finding any. Mathematical proofs creative things, not algorithmic. That has not been my experience with ChatGPT and creating software. I find that when I want to talk about software I'm working on, it understands what I'm saying, but I've never had it come up with an original idea on its own. A human who captivated my attention as it does, and who I spent as much time with as I do with ChatGPT would have stimulated <i>some</i> original ideas by now. If I talk with a friend for even a few minutes there will be at least one <a href=\"https://daytona.scripting.com/search?q=aha\">aha</a> moment. ",
+            "created": "Sat, 07 Jun 2025 16:27:15 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2024/01/26/cartoonChicken.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm looking for bloggers who cover the community around the <a href=\"https://fediforum.org/\">FediForum conference</a>. I want to add them to my blogroll, which does a pretty good job of keeping me current with developments. ",
+            "created": "Sat, 07 Jun 2025 16:37:39 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Stuff I've <a href=\"https://daytona.scripting.com/search?q=%22julia%20child%22\">written</a> about Julia Child. Came up in a conversation about <a href=\"https://daytona.scripting.com/search?q=%22Jerry%20Garcia%22\">Jerry Garcia</a> and bloggers before there was blogging.    ",
+            "created": "Sat, 07 Jun 2025 16:24:15 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Why I <a href=\"http://scripting.com/2025/06/04.html#a153938\">want</a> a new feed validator. I am doing new things with feeds. If I do a validator, it will tell you if a feed will work with what I'm doing. I want to boot up a new layer, build on RSS, the way that not all TCP messages are HTTP (analogously), and not all XML is RSS. The differences will be minimal, and backward compatible. <a href=\"http://scripting.com/rss.xml\">Scripting News</a> will work very well with it, so there will be a solid example to crib from.",
+            "created": "Sat, 07 Jun 2025 14:52:19 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/07/02/validRss.png",
+            "flInCalendar": true
+        }
+    ]
+}
