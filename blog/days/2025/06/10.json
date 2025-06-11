@@ -1,0 +1,90 @@
+{
+    "created": "2025-06-10T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "10",
+    "path": "2025/06/10",
+    "text": "June 10",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "There's a documentary coming out about podcasting. I was interviewed in it and got to tell a bunch of stories, about how you get people interested in working with each other. I told the story of how I chose the Grateful Dead's music to get the initial implementation going, on both the sending and receiving side. I used their music, since it so totally fit in with the philosophy, ie come as you are, we're all just people. And the song I chose was a good one too, the <a href=\"https://daytona.scripting.com/search?q=%22US%20Blues%22\">US Blues</a>. \"I'm Uncle Sam, that's who I am. I've been hiding out. In a rock and roll band.\" Using great art to prototype this connection makes total sense. It says we carry forward our art where ever we go, no matter where it takes us, a great work of music or art is always a good thing to share. ",
+            "created": "Tue, 10 Jun 2025 15:38:29 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2025/06/10/gratefulDead.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Yet another <a href=\"https://www.theguardian.com/commentisfree/2025/jun/10/billion-dollar-ai-puzzle-break-down\">journalism article</a> about how AI is not really intelligent and all the tech industry hype must stop now or else we'll write another strongly worded article about how they are not really intelligent just like the 800,000 previous articles about how AI is not really intelligent.",
+            "created": "Tue, 10 Jun 2025 14:24:40 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A CNAME for your feed",
+            "created": "Tue, 10 Jun 2025 15:34:45 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Here's something to think about. As you may recall, I have an hourly art feed, available both in RSS and on Bluesky. Same content. ",
+                    "created": "Tue, 10 Jun 2025 15:23:04 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Today I gave each the same new name, <a href=\"https://art.feediverse.org/\">art.feediverse.org</a>. ",
+                    "created": "Tue, 10 Jun 2025 15:35:10 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If you use that URL <a href=\"https://bsky.app/profile/art.feediverse.org\">on Bluesky</a>, you go to its <a href=\"https://bsky.app/profile/art.feediverse.org\">version</a> of the content stream. And if you give the same URL to a web browser, ie accessing it via HTTP, you get the <a href=\"https://art.feediverse.org/\">RSS version</a> of the same data. ",
+                    "created": "Tue, 10 Jun 2025 16:26:02 GMT",
+                    "subs": [
+                        {
+                            "text": "On Bluesky: <a href=\"https://bsky.app/profile/art.feediverse.org\">https://bsky.app/profile/art.feediverse.org</a>.",
+                            "created": "Tue, 10 Jun 2025 15:54:54 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "On the web: <a href=\"https://art.feediverse.org/\">https://art.feediverse.org</a>.",
+                            "created": "Tue, 10 Jun 2025 15:55:01 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "BTW -- think of \"feediverse\" as a web of feeds. It's open of course, because the web itself is open. And it's pretty social as you will see. It's why I think it's really the first instance of the \"open social web.\"",
+                    "created": "Tue, 10 Jun 2025 15:57:20 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I've long felt documents should have their own CNAMEs. I even went so far as to design a system where each node in an outline could have a CNAME. I still believe in this, why not have a hierarchic file system that's as editable as an outline? It's the same idea that works in so many other contexts. It's why the idea of a scripting system on a graphic PC like the early Mac made a world of sense. It's why Unix underneath that same UI was the right way to go. And why the web is so nice, you just View Source and you get to lift the hood and see how it works. ",
+                    "created": "Tue, 10 Jun 2025 15:35:59 GMT",
+                    "image": "https://s3.amazonaws.com/scripting.com/images/2019/12/06/dorothy.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "They were smart at Bluesky to use DNS this way. Why invent your own identity system when the net itself has a great distributed system that scales? They just made the wrong call (imho) in not using \"RSS\" for their timeline data, or at least the outside world's view of their timeline, in both directions -- in and out. That's the basic idea of the Internet itself. No one cares what's behind your TCP interface, it could be a network with a million nodes using some wacky protocol to connect them. As long as I can get to you via TCP, you're on the net. This is the kumbaya philosophy of the net, why not just use what already works. ",
+                    "created": "Tue, 10 Jun 2025 15:36:35 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You'll see that we're able to do some interesting twitter-like stuff with this duality.",
+                    "created": "Tue, 10 Jun 2025 15:38:01 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A <a href=\"https://github.com/scripting/Scripting-News/issues/321\">thread</a> for comments and questions. ",
+                    "created": "Tue, 10 Jun 2025 16:24:44 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: A <a href=\"http://scripting.com/stories/2012/02/23/thinkingOutLoudDnsAsId.html\">piece</a> about DNS as ID in 2012.",
+                    "created": "Tue, 10 Jun 2025 16:32:04 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
