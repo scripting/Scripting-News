@@ -1,0 +1,47 @@
+{
+    "text": "artdaily.feediverse.org",
+    "created": "Wed, 11 Jun 2025 12:56:06 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Yesterday I <a href=\"http://scripting.com/2025/06/10/153445.html\">introduced</a> a new feed for great art, 24 times a day. Every hour on the hour.",
+            "created": "Wed, 11 Jun 2025 12:56:16 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Today, a version of that feed provides one work of art each day, at midnight, Eastern.",
+            "created": "Wed, 11 Jun 2025 12:58:35 GMT",
+            "subs": [
+                {
+                    "text": "<a href=\"https://art.feediverse.org/\">art.feediverse.org</a>",
+                    "created": "Wed, 11 Jun 2025 12:59:13 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://artdaily.feediverse.org/\">artdaily.feediverse.org</a>",
+                    "created": "Wed, 11 Jun 2025 12:59:28 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Why I did this feed. I'm crafting a new information product, and I want to include a random work of art but not every hour, once a day is enough. I thought it was worth a detour to make the feed that I wanted. ",
+            "created": "Wed, 11 Jun 2025 13:04:04 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The first work of art in the feed on its inaugural issue was <a href=\"https://raw.githubusercontent.com/scripting/artDownloader/main/data/images/FCZ5y6oWQAU8Gum.jpg\">The Countess</a> from Hans Holbein the Younger, <a href=\"https://www.metmuseum.org/art/collection/search/365207\">1526</a>. It was chosen at random from a <a href=\"https://github.com/scripting/artDownloader/tree/main\">collection</a> of 42,473 works of art.  ",
+            "created": "Wed, 11 Jun 2025 13:12:51 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The Countess, Hans Holbein the Younger, 1526.",
+            "created": "Wed, 11 Jun 2025 13:23:58 GMT",
+            "inlineImage": "https://imgs.scripting.com/2025/06/11/countess.png",
+            "isComment": "true",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
