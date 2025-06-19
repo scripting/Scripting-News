@@ -1,0 +1,102 @@
+{
+    "created": "2025-06-18T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "18",
+    "path": "2025/06/18",
+    "text": "June 18",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Passkeys and ChatGPT",
+            "created": "Wed, 18 Jun 2025 16:15:51 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I had a conversation <a href=\"https://bsky.app/profile/emilynussbaum.bsky.social/post/3lrt3iyw5ic2j\">on Bluesky</a> with a writer saying she didn't have much use for ChatGPT, though she had tried it. ",
+                    "created": "Wed, 18 Jun 2025 16:08:21 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I wanted to see if I could open a door, suggesting that next time there was an problem using a computer, that she bring the question to ChatGPT. ",
+                    "created": "Wed, 18 Jun 2025 16:31:26 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I think that's good advice for anyone who hasn't seen how useful these are as tools. You can use it like a search engine. What comes back answers your question. With Google you'd have to read through docs that are meant to cover every angle, but the AI bot zeroes in on the issue you're dealing with. And the writing on ChatGPT is better than what you would get on a random web page explaining a technical concept. ",
+                    "created": "Wed, 18 Jun 2025 16:31:39 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<b>Passkeys</b>",
+                    "created": "Wed, 18 Jun 2025 16:33:44 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Previously I had tried to approach passkeys to get an idea of how I should use them, but never grasped the big picture. I just didn't understand what they were doing, but I understood it was about authentication. A hardware approach to identity, that much I got. How it worked and how I would use it did not click. ",
+                    "created": "Wed, 18 Jun 2025 16:17:08 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And then earlier this week, an essential site that I use infrequently, required using a passkey. When I had set it up a few months ago, as part of a bigger develolpment task,  I had no idea what I was doing, and eventually bailed out, and left it unable to get back into the system, which happened on Sunday. By default the browser, Chrome, had previously connected it to my Pixel 9 Pro. There was a record of the connection being used for a variety of other services, but the one I needed was not there. This was after a full day of trying to debug it from the other side. I now have a lot more info about how passkeys work, I won't be able to say I know enough until I've re-established the connection. ",
+                    "created": "Wed, 18 Jun 2025 16:35:13 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I know a lot of readers of this site understood passkeys without anyone having to piece it together for them. I have never been one of those people. Just the way my mind works, it's why I'm a good person to test software, I get lost easily. ",
+                    "created": "Wed, 18 Jun 2025 16:20:34 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "All this is to say -- think of ChatGPT as a technical assistant with broad knowledge and patience. That's where the real power is imho. ",
+                    "created": "Wed, 18 Jun 2025 16:20:55 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "The Joe Rogan of the Dems",
+            "created": "Wed, 18 Jun 2025 17:10:22 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "If there were a Joe Rogan of the left, he would tell you to stfu and <a href=\"https://shownotes.scripting.com/scripting/2025/06/17/holdYourNoseAndVoteForCuomo.html\">vote for Cuomo</a> for mayor of NYC. ",
+                    "created": "Wed, 18 Jun 2025 17:10:34 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "NYC is a special place, like the Knicks are a special NBA team. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And btw, Cuomo, like Trump, is from Queens. ",
+                    "created": "Wed, 18 Jun 2025 17:10:39 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The Unisphere from the 1964 World's Fair. ",
+                    "created": "Wed, 18 Jun 2025 17:12:42 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2025/06/18/unisphere.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: The Joe Rogan of the left will be from Queens too. :-)",
+                    "created": "Wed, 18 Jun 2025 17:13:56 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PPS: Queens doesn't have an Empire State Building, and they tore down Shea Stadium. So the Unisphere from the last World's Fair will have to do. But Queens is probably the most ethnically diverse place in the world. Think about that for a minute and how the fight for the soul of the US will be fought in Queens. ",
+                    "created": "Wed, 18 Jun 2025 17:13:56 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PPPS: I come from Jackson Heights and Flushing. ",
+                    "created": "Wed, 18 Jun 2025 17:14:35 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
