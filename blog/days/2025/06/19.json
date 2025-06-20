@@ -1,0 +1,73 @@
+{
+    "created": "2025-06-19T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "19",
+    "path": "2025/06/19",
+    "text": "June 19",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Until further notice dissent is an act of patriotism, support of and belief in our country.",
+            "created": "Thu, 19 Jun 2025 19:29:10 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Bill Atkinson and QuickDraw",
+            "created": "Thu, 19 Jun 2025 15:28:02 GMT",
+            "type": "outline",
+            "metaImage": "https://imgs.scripting.com/2025/06/19/atkinsonBig.png",
+            "description": "You could tell from the API that the designers really understood the tech. ",
+            "subs": [
+                {
+                    "text": "<a href=\"https://en.wikipedia.org/wiki/Bill_Atkinson\">Bill Atkinson</a> died two weeks ago today. ",
+                    "created": "Thu, 19 Jun 2025 15:21:37 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I was explaining to a friend why he was so important. Most people who know of him know about <a href=\"https://en.wikipedia.org/wiki/MacPaint\">MacPaint</a> and <a href=\"https://en.wikipedia.org/wiki/HyperCard\">Hypercard</a>, both were fantastic contributions to the evolution of personal computers. But underneath all that he created a layer of the Macintosh OS called <a href=\"https://en.wikipedia.org/wiki/QuickDraw\">QuickDraw</a>, which was a core innovation of the Mac, its <a href=\"https://en.wikipedia.org/wiki/Graphical_user_interface\">graphic system</a>. Every piece of software that ran on the Macintosh ran on top of QuickDraw.",
+                    "created": "Thu, 19 Jun 2025 15:29:13 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's what QuickDraw is. Software could do things at the pixel level, a dot so small it's barely visible to the eye. What you're seeing on the screen is made up of collections of those dots, forming lines, boxes, ovals and text, and later page layouts, beautiful photography, and the text you're reading right now. The software that does all that, on the earliest Macs, is called QuickDraw. (Later a successor called Quick<i>Time</i> made the dots move and added sound, and now we have streaming.)",
+                    "created": "Thu, 19 Jun 2025 15:29:49 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "QuickDraw is great. ",
+                    "created": "Thu, 19 Jun 2025 15:34:23 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "That's the thing. You could tell from the API that the designers really understood the tech. It wasn't the first time this had been done. And either Atkinson did it himself, working on it for years, or he \"stole from the best\" -- probably a lot of both. The prior art came from Xerox in Palo Alto, and the experience came from being a hard-working dedicated hacker who didn't give up until it was done. That's like saying if he were a basketball hero, he was like Bill Russell or Steph Curry. We don't talk about our accomplishments that much in tech, on a personal level, we have an idea that Steve Jobs made the Mac, but it was really created by developers, designers, graphic artists, writers and application developers.  Like Bill Atkinson.",
+                    "created": "Thu, 19 Jun 2025 15:34:29 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I spent many years building on his work, and many more years wishing I still was. He made a contribution, and that's, imho, pretty much the best you can say for any person's life. ",
+                    "created": "Thu, 19 Jun 2025 15:42:53 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Thanks Bill. :smile:",
+                    "created": "Thu, 19 Jun 2025 15:37:41 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Bill Atkinson, on his creation, MacPaint on QuickDraw on Mac.",
+                    "created": "Thu, 19 Jun 2025 15:49:44 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2025/06/19/billAtkinson.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: For programmers, here's a <a href=\"http://scripting.com/publicfolder/scripting/misc/quickdrawApiSummary.pdf\">summary</a> of the QuickDraw API.",
+                    "created": "Thu, 19 Jun 2025 19:49:11 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
