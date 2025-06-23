@@ -1,0 +1,152 @@
+{
+    "created": "2025-06-22T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "22",
+    "path": "2025/06/22",
+    "text": "June 22",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=3Xwgm_O1jh0\">Peace in our time</a>.",
+            "created": "Sun, 22 Jun 2025 14:31:40 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "People talk about \"regime change\" as if the only regime that could change is the one in Iran.",
+            "created": "Sun, 22 Jun 2025 15:45:40 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Note to <a href=\"http://scripting.com/?tab=links\">linkblog</a> readers: I just flipped a switch and am now using WordLand to do the <a href=\"http://scripting.com/?tab=links\">linkblog</a>. Today's links are good, but the ones from prior days were mainly test posts. They will scroll off in a few days, and it'll be as it always has been. <i>Still diggin. </i>",
+            "created": "Sun, 22 Jun 2025 21:26:23 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "One more thing about the linkblog, it no longer cross-posts to social media sites. I want to see if I miss having the links there. It also won't have the limits. Maybe it'll be better if my accounts are a bit more quiet. Also the RSS feed is in a new location, I want to wait a bit to make sure it works before publicizing the URL. ",
+            "created": "Sun, 22 Jun 2025 22:18:35 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "WordCamp Canada in October",
+            "created": "Sun, 22 Jun 2025 13:24:05 GMT",
+            "type": "outline",
+            "metaImage": "https://s3.amazonaws.com/scripting.com/images/2025/06/22/ottawa.png",
+            "description": "We'll have a lot to talk about in October! ",
+            "subs": [
+                {
+                    "text": "I'm keynoting the <a href=\"https://canada.wordcamp.org/2025/\">WordCamp Canada</a> conference in October in Ottawa. It's the first conference I've attended since before the pandemic. ",
+                    "created": "Sun, 22 Jun 2025 13:16:10 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The timing is ideal, and the location is significant. As an American, I don't want to try to attract people from around the world to a meeting in my country. Right now, I wouldn't come here if I didn't live here. ",
+                    "created": "Sun, 22 Jun 2025 13:24:36 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'm also not happy with the tech industry of the US. I'd like a fresh start, a return to our roots, with the assumption that the people control their destiny and the role of developers is to give them to the tools to try out new ideas. ",
+                    "created": "Sun, 22 Jun 2025 13:25:08 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "With \"WordLand\" I've created a product <a href=\"https://this.how/wordland/\">for writers</a>, filling a need that's been there since the beginning of the web, using the practices in writing tools we learned in the 80s. It doesn't have the artificial <a href=\"https://textcasting.org/\">limits</a> imposed by Twitter et al. I think they're senseless. So we're going to blow that door wide open. No character limits. Simple styling. Links. Editable. ",
+                    "created": "Sun, 22 Jun 2025 13:32:16 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And it's also a product for developers. There's no lock-in anywhere in this stack. So you can make a different style of editor. Or play with new ways to view timelines.",
+                    "created": "Sun, 22 Jun 2025 13:25:56 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I wanted to take discourse in a different direction too. A good design for the social web shouldn't require intense moderation. The reward for spammers is practically nil. Also, it'll be good for small groups in a way that Twitter et al never have been. ",
+                    "created": "Sun, 22 Jun 2025 13:40:48 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So far I haven't invented any new formats. We're building on what works now. WordPress is a remarkably deep product, so deep it could be used as operating system. and that's exactly how I've chosen to view it and it works incredibly well. Some of what we're building on is based on work I did with Joseph Scott of Automattic in <a href=\"https://daytona.scripting.com/search?q=%22joseph%20scott%22\">2009</a>, believe it or not.",
+                    "created": "Sun, 22 Jun 2025 13:41:41 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And as a bonus we get a great bridge into ActivityPub, from the great work Automattic is doing in bridging WordPress to ActivityPub. Think about it and you'll see how connections in and out of WordPress can facilitate a lot of interop, not just via RSS, but any format that comes along that people want to use.  ",
+                    "created": "Sun, 22 Jun 2025 13:24:30 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "We'll have a lot to talk about in October! ",
+                    "created": "Sun, 22 Jun 2025 13:28:40 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "RSS on a timeline",
+            "created": "Sun, 22 Jun 2025 13:13:33 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "More on the vision for WordLand and RSS. ",
+                    "created": "Sun, 22 Jun 2025 13:36:32 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Imagine that \"WordLand\" is the editor of a <a href=\"https://daytona.scripting.com/search?q=%22twitter-like%22\">twitter-like</a> system built around \"RSS\". It saves your writing to WordPress, where it is published on a website and via RSS. You don't have to use WordLand or WordPress, because RSS is an open format. <i>Any editor that generates RSS is part of the network. </i>Designed to be simple. ",
+                    "created": "Sun, 22 Jun 2025 12:51:27 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "All that's missing is a timeline viewer, and that's what I'm working on now. It's coming together pretty nicely, imho. Not an easy project, though on the surface it looks like it should be. Also there's nothing proprietary about my timeline viewer. There could be a thousand of them. Anyone who has written an RSS feed reader will have all the low-level bits they need. ",
+                    "created": "Sun, 22 Jun 2025 13:13:47 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Hoping to have all the connections working by the end of the summer. ",
+                    "created": "Sun, 22 Jun 2025 13:15:32 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Once done, it will be the completion of the vision for RSS as the foundation of the open social web, the place that all the open formats agree on, so we can get on with interop and say goodbye to lock-in. It can be done, I'm almost 100 percent sure of that now. Still have a little ways to go. As they say -- <i>still diggin!</i>",
+                    "created": "Sun, 22 Jun 2025 13:14:18 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "No time for peaceniks",
+            "created": "Sun, 22 Jun 2025 14:32:17 GMT",
+            "type": "outline",
+            "metaImage": "https://s3.amazonaws.com/scripting.com/images/2025/06/22/peaceForOurTime.png",
+            "description": "We need a war-ready Democratic Party.",
+            "subs": [
+                {
+                    "text": "Trump may not want regime change in Iran, but he definitely wants regime change in California. ",
+                    "created": "Sun, 22 Jun 2025 14:32:53 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "He's going to war with Iran to hide his war with the United States. ",
+                    "created": "Sun, 22 Jun 2025 14:36:55 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "We need a war-ready Democratic Party. ",
+                    "created": "Sun, 22 Jun 2025 14:35:29 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Governor or mayor is not a job for peaceniks.",
+                    "created": "Sun, 22 Jun 2025 14:33:01 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
