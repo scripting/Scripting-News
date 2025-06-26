@@ -1,0 +1,83 @@
+{
+    "created": "2025-06-25T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "25",
+    "path": "2025/06/25",
+    "text": "June 25",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Podcast: <a href=\"https://shownotes.scripting.com/scripting/2025/06/25/holdingYourNoseTheAftermathAndItsNotPrettyImho.html\">Holding your nose, the aftermath</a>. ",
+            "created": "Wed, 25 Jun 2025 14:04:01 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A <a href=\"https://imgs.scripting.com/2025/06/25/linkblogInBlogroll.png\">preview</a> of how a WordLand linkblog works, which is of course a WordPress site, <a href=\"https://imgs.scripting.com/2025/06/25/linkblogInBlogroll.png\">viewed</a> in my blogroll. When I clicked on the link, I was surprised that it <a href=\"https://www.poynter.org/commentary/2025/trump-says-fudge-vulgarity-news/\">goes to Poynter</a>, and not to the linkblog. But then I remembered that's the point of a linkblog. And it flows through to the feed, and the blogroll software understands. So now I have an end-to-end linkblog. ",
+            "created": "Wed, 25 Jun 2025 13:16:17 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Another reason to love WordPress. Every freaking WordPress site had <a href=\"https://wordpress.com/support/feeds/\">great RSS support</a>. They did more to keep feeds alive than anyone else. Google tried to kill RSS in a particularly humiliating way. WordPress kept it going.  ",
+            "created": "Wed, 25 Jun 2025 12:04:51 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://www.nytimes.com/2024/07/15/nyregion/open-streets-new-york.html?unlocked_article_code=1.Rk8.6k8C.M00iQWY-xxEV&smid=url-share\">A NYT article</a> from last year about 34th Ave in Jackson Heights where \"a stretch of 26 blocks, running east to west, has been closed to cars from 7 a.m. to 8 p.m. every day since 2020.\" Before we moved to Flushing when I was in 5th grade, we lived on 92nd St and 34th Ave. What a difference that must make. I love it when cities take chances like this, and the people in the neighborhood seem to love it.  ",
+            "created": "Wed, 25 Jun 2025 19:52:05 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Finding Frontier",
+            "created": "Wed, 25 Jun 2025 16:06:52 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I tried an experiment, <a href=\"https://imgs.scripting.com/2025/06/25/asfarasyoucango.png\">go back</a> as far as I can in archive.org on scripting.com and see where it gets me. The <a href=\"https://web.archive.org/web/19961114163115/http://scripting.com/\">first try</a> got me to a classified ads site I was experimenting with in mid-November 1996. A few weeks later, on <a href=\"https://web.archive.org/web/19961203224609/http://scripting.com/\">December 3,</a> there was a colorful directory that took you to all the sub-sites on the server, DaveNet, <a href=\"https://web.archive.org/web/19961203224624/http://www.scripting.com/frontier/\">Frontier</a>, Classified ads, our Midas Website (Macintosh Internet Developers Association), DocServer, a BBS, and Guestbook.  ",
+                    "created": "Wed, 25 Jun 2025 16:07:02 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I went digging around in the <a href=\"https://web.archive.org/web/19961203224624/http://www.scripting.com/frontier/\">Frontier</a> part. Lots of stuff there. By then we had been working on Frontier for eight years. It had been reborn once, from a Mac-focused single-user scripting environment to a networked one, all because the web had exploded and Apple didn't want us making system software for their platform. :smile: ",
+                    "created": "Wed, 25 Jun 2025 21:05:25 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "BTW, some of this stuff is <a href=\"http://scripting.com/frontier/olddefault.html\">still here</a>. ",
+                    "created": "Wed, 25 Jun 2025 21:07:36 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "There are lots of paths to try out.",
+                    "created": "Wed, 25 Jun 2025 16:17:23 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This was where my <a href=\"https://web.archive.org/web/19961203224710/http://www.scripting.com/frontier/news.html\">blog home page</a> was then. ",
+                    "created": "Wed, 25 Jun 2025 16:09:56 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Then to DaveNet, and in the left margin <a href=\"https://web.archive.org/web/19961203224727/http://www.scripting.com/davenet/aboutthiswebsite.html\">Nerd's guide to this website</a>. ",
+                    "created": "Wed, 25 Jun 2025 16:11:37 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I love the screen shots that show what a good match the Frontier object database was to the way a website is organized.  ",
+                    "created": "Wed, 25 Jun 2025 16:13:27 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "user.websites.davenet",
+                    "created": "Wed, 25 Jun 2025 16:15:56 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2025/06/25/frontierScreenshot.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
