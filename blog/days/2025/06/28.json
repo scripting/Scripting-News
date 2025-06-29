@@ -1,0 +1,139 @@
+{
+    "created": "2025-06-28T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "28",
+    "path": "2025/06/28",
+    "text": "June 28",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "We live in interesting times. Never a dull moment! :smile: ",
+            "created": "Sat, 28 Jun 2025 16:29:36 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2020/08/01/picklesAplenty.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "The latest David Frum podcast is about <a href=\"https://www.theatlantic.com/podcasts/archive/2025/06/david-frum-show-tina-brown-iran-nuclear-program/683320/\">crazy tech billionaires</a>. Once again he talks about who he's willing to listen to. He's really smart, thinks about things, and speaks brilliantly, but cultivates his ignorance and seems somewhat proud of it. In contrast, I listened to Jon Stewart's weekly podcast <a href=\"https://podcasts.apple.com/us/podcast/iran-beyond-the-headlines-with-maziar-bahari/id1583132133?i=1000714626073\">yesterday</a> and it was as usual outstanding. Like Frum he thinks and speaks brilliantly, with the addition of being hilarious at times. In this episode he talks to an <a href=\"https://en.wikipedia.org/wiki/Maziar_Bahari\">Iranian friend</a>, a new perspective we don't hear often, but fits in with what I had <a href=\"https://daytona.scripting.com/search?q=iran\">understood</a> about Iran. It's a highly educated country, a good standard of living and are mired with a repressive government and no options for regime change. When you hear that talked about on other podcasts and cable news shows, remember -- it's impossible to change regimes unless the country has prepared for that. There is no regime-in-waiting in Iran, hasn't been one since the 1979 revolution. This is the next danger in the US. Will there be anything remaining of our political system? It's almost all gone now. Funny to listen to the people on TV about surviving the next 3.5 years -- what do they think will happen then? Nothing will happen, that's the most likely thing. Back to Frum, what a shame there's such a smart guy, so cloistered, and boastful about it. That's not a good way to proceed now imho. ",
+            "created": "Sat, 28 Jun 2025 15:42:23 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Net-net: I would pay money to hear a podcast with Frum and Stewart interviewing each other. That would be very powerful stuff imho, and probably very funny, and respectful.",
+            "created": "Sat, 28 Jun 2025 15:54:42 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm working on the next part of linkblogging in \"WordLand\". I want to really switch over to the new routine. There was a question of whether I wanted to push the links to the social sites, Bluesky, Mastodon, etc. I've decided I do, but for the moment only to push to Bluesky. It's the only one with a simple enough-enough API or feels worth the effort to me. I'm basically focusing my politics on Bluesky these days. Also seems there are people there who are interested in the development I do. I have far more \"followers\" on Twitter, but at this point I think most of them are gone. And Threads dropped off my radar a while back. I'm just not interested. For me now it's mostly Bluesky and Facebook. ",
+            "created": "Sat, 28 Jun 2025 15:26:53 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've been looking for hard-hitting stories about yesterday's Supreme Court decision that gives Trump far more power than any American president has ever had. And unlike military power, which they are clearly not very good at using, the people running the show in the White House are very much <a href=\"https://static.heritage.org/project2025/2025_MandateForLeadership_FULL.pdf\">prepared</a> for how they will use the new power, which appears to be unlimited. ",
+            "created": "Sat, 28 Jun 2025 15:24:46 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Fixed the images that broke on <a href=\"https://morningcoffeenotes.com/\">morningcoffeenotes.com</a>, a site that dates back to 2003, when it transitioned to https in 2024. ",
+            "created": "Sat, 28 Jun 2025 13:01:47 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "With any luck this will be the final test. Hahaha.",
+            "created": "Sat, 28 Jun 2025 22:26:17 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Fast & easy Open Social Web",
+            "created": "Sat, 28 Jun 2025 21:13:01 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "You hear the term <a href=\"https://www.google.com/search?q=%22Open+Social+Web%22\">Open Social Web</a> used in places where things that are social are neither open or web. They aren't that far, and here today I'm going to give you a fast and easy recipe for linking the collection of social twitter-like sites into a real honest to goodness open social web",
+                    "created": "Sat, 28 Jun 2025 21:13:48 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Add inbound RSS feeds. The social site allows a user to specify an RSS feed that represents their posts. When a new one shows up, it appears in the timelines of people who are following the user. They can add items to that feed however they like. It can come from anywhere. That's 1/2 of \"open.\"",
+                            "created": "Sat, 28 Jun 2025 21:15:36 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Add outbound RSS feeds. This gives you the other half. When a new item shows up in a users feed, however it got there, it appears in their outbound feed, which can be tied into the input feed of one or more other sites. ",
+                            "created": "Sat, 28 Jun 2025 21:16:22 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Support links in users' posts. You really can't claim to be part of the web if you don't implement this core feature of the web. ",
+                            "created": "Sat, 28 Jun 2025 21:25:16 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "That's all there is, except this: The feeds have to be good. Don't be cheap with the information they contain. Work with other developers to make sure all the information they need that you have is present in the outbound feeds you generate. Same with the inbound feeds, be reasonable, if you can accept certain information and match it up with your service, then you should do it. Think of the users first. ",
+                    "created": "Sat, 28 Jun 2025 21:18:00 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You could try to use ActivityPub or AT Proto to play the role of RSS. I think you'll find that's more work, and not that many people have mastered these formats. RSS is simple and lightweight and has had 20+ years of burn in. Lots of familiarity, lots of working code. ",
+                    "created": "Sat, 28 Jun 2025 21:19:37 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's time to stop claiming you are the open social web when it's so easy to be the open and on the web. ",
+                    "created": "Sat, 28 Jun 2025 21:21:29 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Hallucinating myths into fact",
+            "created": "Sat, 28 Jun 2025 11:51:46 GMT",
+            "type": "outline",
+            "metaImage": "https://imgs.scripting.com/2025/06/28/classroom.png",
+            "subs": [
+                {
+                    "text": "I have a Google Alerts query for my own name, just to see if any journalism outlets mention me. When it happens, it's often to give me credit for co-creating an app called iPodder, which they say was where podcasting started. None of that is true. But that's what journalism says about me.",
+                    "created": "Sat, 28 Jun 2025 11:52:04 GMT",
+                    "image": "https://imgs.scripting.com/2023/06/10/bear.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "On the other hand if you ask ChatGPT what role I played in developing podcasting it gives a more accurate answer. ",
+                    "created": "Sat, 28 Jun 2025 11:52:19 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So tell me what the role of journalism is. Hallucinating myths into fact? That would be my estimate.",
+                    "created": "Sat, 28 Jun 2025 12:02:07 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's <a href=\"https://imgs.scripting.com/2025/06/28/chatgpt.png\">the ChatGPT result</a>. I actually did a bit more than that, but what they say is closer to the truth and gives an idea of how things like podcasting come into existence. A lot of work and struggle against people's disbelief, and most of the time it doesn't work -- podcasting is one of the successes.",
+                    "created": "Sat, 28 Jun 2025 11:52:31 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "BTW, the second item in ChatGPT's list is not true. Adam's <i>Daily Source Code</i> came after my own podcast <i><a href=\"https://morningcoffeenotes.com/\">Morning Coffee Notes</a>. </i>I was urging him to do a podast but he didn't get one going until after I went first, proving the old adage \"People don't listen to their friends, they listen to their competitors.\" So somewhere along the line it got confused and it hallucinated just like the journalists. The actual first podcast was a Grateful Dead song in 2001 which I used to test Radio UserLand which was the first software to implement podcasting. There's a documentary coming out soon and I believe they have a bit about that, so maybe that'll get on the record. ",
+                    "created": "Sat, 28 Jun 2025 11:53:01 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If this is how history is written btw, I wouldn't trust <i>anything</i> in the history books. ;-) ",
+                    "created": "Sat, 28 Jun 2025 12:01:33 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
