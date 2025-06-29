@@ -1,0 +1,46 @@
+{
+    "text": "Fast & easy Open Social Web",
+    "created": "Sat, 28 Jun 2025 21:13:01 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "You hear the term <a href=\"https://www.google.com/search?q=%22Open+Social+Web%22\">Open Social Web</a> used in places where things that are social are neither open or web. They aren't that far, and here today I'm going to give you a fast and easy recipe for linking the collection of social twitter-like sites into a real honest to goodness open social web",
+            "created": "Sat, 28 Jun 2025 21:13:48 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "Add inbound RSS feeds. The social site allows a user to specify an RSS feed that represents their posts. When a new one shows up, it appears in the timelines of people who are following the user. They can add items to that feed however they like. It can come from anywhere. That's 1/2 of \"open.\"",
+                    "created": "Sat, 28 Jun 2025 21:15:36 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Add outbound RSS feeds. This gives you the other half. When a new item shows up in a users feed, however it got there, it appears in their outbound feed, which can be tied into the input feed of one or more other sites. ",
+                    "created": "Sat, 28 Jun 2025 21:16:22 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Support links in users' posts. You really can't claim to be part of the web if you don't implement this core feature of the web. ",
+                    "created": "Sat, 28 Jun 2025 21:25:16 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "That's all there is, except this: The feeds have to be good. Don't be cheap with the information they contain. Work with other developers to make sure all the information they need that you have is present in the outbound feeds you generate. Same with the inbound feeds, be reasonable, if you can accept certain information and match it up with your service, then you should do it. Think of the users first. ",
+            "created": "Sat, 28 Jun 2025 21:18:00 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "You could try to use ActivityPub or AT Proto to play the role of RSS. I think you'll find that's more work, and not that many people have mastered these formats. RSS is simple and lightweight and has had 20+ years of burn in. Lots of familiarity, lots of working code. ",
+            "created": "Sat, 28 Jun 2025 21:19:37 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's time to stop claiming you are the open social web when it's so easy to be the open and on the web. ",
+            "created": "Sat, 28 Jun 2025 21:21:29 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
