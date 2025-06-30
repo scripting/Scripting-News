@@ -1,0 +1,115 @@
+{
+    "text": "Case study in APIs",
+    "created": "Sun, 29 Jun 2025 14:10:09 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Developers, consider this example.",
+            "created": "Sun, 29 Jun 2025 14:10:16 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "First, here's the packet of information I'm sending to Bluesky to get it to post something. ",
+            "created": "Sun, 29 Jun 2025 14:13:32 GMT",
+            "flCodeSubsx": "true",
+            "subs": [
+                {
+                    "text": "{    ",
+                    "created": "Sun, 29 Jun 2025 14:13:47 GMT",
+                    "subs": [
+                        {
+                            "text": "\"title\": \"\",    ",
+                            "created": "Sun, 29 Jun 2025 14:14:02 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "\"description\": \"Room for One More on Mount Rushmore?\",    ",
+                            "created": "Sun, 29 Jun 2025 14:14:06 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "\"mailaddress\": \"\",    ",
+                            "created": "Sun, 29 Jun 2025 14:14:11 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "\"password\": \"\",    ",
+                            "created": "Sun, 29 Jun 2025 14:14:15 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "\"urlsite\": \"https://bsky.social/\",    ",
+                            "created": "Sun, 29 Jun 2025 14:14:19 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "\"link\": \"https://politicalwire.com/2025/06/29/room-for-one-more-on-mount-rushmore/\"",
+                            "created": "Sun, 29 Jun 2025 14:14:24 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "}",
+                            "created": "Sun, 29 Jun 2025 14:14:29 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "And here's what comes back.",
+            "created": "Sun, 29 Jun 2025 14:14:32 GMT",
+            "flCodeSubsx": "true",
+            "subs": [
+                {
+                    "text": "{",
+                    "created": "Sun, 29 Jun 2025 14:14:58 GMT",
+                    "subs": [
+                        {
+                            "text": "\"uri\": \"at://did:plc:zxb2lwpxo4axkkkgjwqand24/app.bsky.feed.post/3lsqtoowg2h2h\",    ",
+                            "created": "Sun, 29 Jun 2025 14:14:42 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "\"cid\": \"bafyreifhet2772xmic24qr4xbui4l5lllvgek2a7kmmchojwwkufvzalci\",    ",
+                            "created": "Sun, 29 Jun 2025 14:15:09 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "\"commit\": {        ",
+                            "created": "Sun, 29 Jun 2025 14:15:15 GMT",
+                            "subs": [
+                                {
+                                    "text": "\"cid\": \"bafyreicjjsd4ixlezubezaxzfaqxxpwlvoxdqwyxblnme5uh6ehklxth3a\",        ",
+                                    "created": "Sun, 29 Jun 2025 14:15:24 GMT",
+                                    "flInCalendar": true
+                                },
+                                {
+                                    "text": "\"rev\": \"3lsqtoowpsx2h\"   ",
+                                    "created": "Sun, 29 Jun 2025 14:15:36 GMT",
+                                    "flInCalendar": true
+                                },
+                                {
+                                    "text": "}",
+                                    "created": "Sun, 29 Jun 2025 14:15:46 GMT",
+                                    "flInCalendar": true
+                                }
+                            ],
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "}",
+                            "created": "Sun, 29 Jun 2025 14:15:49 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
