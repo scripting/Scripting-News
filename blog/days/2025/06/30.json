@@ -1,0 +1,76 @@
+{
+    "created": "2025-06-30T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "30",
+    "path": "2025/06/30",
+    "text": "June 30",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I needed a <a href=\"https://github.com/scripting/tinyFeedReader\">tiny feed reader</a> for an app I was working on. ",
+            "created": "Mon, 30 Jun 2025 12:05:40 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "If the Dems were competitive they would run ads now with <a href=\"https://www.youtube.com/watch?v=hjbTZXOyfzA\">Senator Tillis talking</a> about the damage the new Repub bill will do to Americans, emphasizing this is a <i>Republican</i> speaking, taking one for the country. ",
+            "created": "Mon, 30 Jun 2025 17:59:49 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Another <a href=\"https://github.com/scripting/Scripting-News/issues/322#issuecomment-3018828658\">criticism</a> of the Bluesky API. They make each developer do the support for Open Graph metadata, when it would be much more efficient for them to support it on their end. I would be happy to give them the code. It's not that complicated. But translating the OG format, which for crying out loud is a huge standard, into their arcane format which is only supported by Bluesky, is going in the wrong direction, and frankly is ridiculously arrogant. Show a little humility. Facebook is huge, and the format isn't just used by Facebook, everyone uses it. ",
+            "created": "Mon, 30 Jun 2025 11:31:52 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "When I was having trouble getting into my AWS account last week, I ordered a Yubikey, which everyone says is the best way to go. I thought I'd set it up first thing Monday morning (ie now) but it <a href=\"https://www.yubico.com/setup/\">turns out</a> it's a major undertaking? Why does this have to be so hard? I guess I'll find out, but not today. I want to make some progress on my development project first. Maybe later. ",
+            "created": "Mon, 30 Jun 2025 11:28:12 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Do a backup now",
+            "created": "Mon, 30 Jun 2025 14:40:19 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Advice from a longtime developer. ",
+                    "created": "Mon, 30 Jun 2025 14:03:56 GMT",
+                    "type": "outline",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "If you think \"I should do a backup,\" do it. Now, don't wait. ",
+                            "created": "Mon, 30 Jun 2025 14:40:36 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Make it really easy to do a backup. Choose a menu item that's always available when you're working.",
+                            "created": "Mon, 30 Jun 2025 14:40:40 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The reason is karma. God hears all your thoughts. When that thought pops into your head and you don't do a backup, or don't do it soon enough, He crashes your data, and you think \"I should have done a backup when I thought of doing it.\" Even this doesn't please Him. At that moment it's even more urgent that you do a backup. ",
+                    "created": "Mon, 30 Jun 2025 18:02:26 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "My hippie uncle taught me this. God has a terrible sense of humor, and thinks it's really funny when you have a good thought and ignore it. When something didn't work he would say that's God goofing on me. ",
+                    "created": "Mon, 30 Jun 2025 14:42:14 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "In this case, we're talking about is the Programmer God. There are all kinds of gods, a <a href=\"http://scripting.com/davenet/1995/04/24/thebaseballgod.html\">baseball god</a>, a basketball god, and very specifically a Knicks god. That god has the absolutely worst sense of humor of them all and by worst I mean best. ",
+                    "created": "Mon, 30 Jun 2025 14:42:48 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
