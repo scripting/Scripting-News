@@ -1,0 +1,92 @@
+{
+    "created": "2025-07-01T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "01",
+    "path": "2025/07/01",
+    "text": "July 01",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "More <a href=\"https://github.com/scripting/Scripting-News/issues/322#issuecomment-3025886330\">feedback</a> on the design of Bluesky's API. ",
+            "created": "Wed, 02 Jul 2025 00:06:24 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://www.politico.com/live-updates/2025/07/01/congress/lisa-murkowski-repulican-megabill-alaska-00435150\">Bullshit</a>. Lisa Murkowski goes on a <a href=\"https://podcasts.apple.com/us/podcast/murkowski-could-lead-gop-revolt-against-trump-4-21-25/id1633301179?i=1000704258553&l=ru\">press tour</a> and sounds like she could be the one that breaks away from Trump in the Republican Senate. As with all of them, always, it was an act. She has a role to play, she's The Agonizer. They are amazing in terms of how organized and orchestrated their campaign is. ",
+            "created": "Tue, 01 Jul 2025 18:40:18 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/opml/2025/06.opml\">archived source</a> for June 2025. ",
+            "created": "Tue, 01 Jul 2025 11:25:31 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "My new linkblog feed",
+            "created": "Tue, 01 Jul 2025 11:44:29 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "This is the address of my linkblog feed: <a href=\"https://dave.linkblog.org/\">dave.linkblog.org</a>. ",
+                    "created": "Tue, 01 Jul 2025 11:36:05 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I think it's kind of interesting to have the top page of a site be a feed. I don't hide the XML-ness of it. I never supported the obfuscation, it's confusing, makes people not trust RSS, imho. ",
+                    "created": "Tue, 01 Jul 2025 11:54:04 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I think the feed is pretty stable now, so if you want to subscribe, go ahead. I haven't redirected from the old feed yet, probably should do that soon, since it more or less has stopped updating. ",
+                    "created": "Tue, 01 Jul 2025 11:45:02 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This is all managed in \"WordLand\" and therefore is part of the WordPress ecosystem. ",
+                    "created": "Tue, 01 Jul 2025 11:45:12 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I felt it was time to do a definitive linkblog, since as far as I could tell no one has tried to explain what it is: basically, a feed where the &lt;link> element of each &lt;item> points to some other site. That's the basic difference.  ",
+                    "created": "Tue, 01 Jul 2025 11:45:27 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Also a linkblog feed should specify the channel-level &lt;image> element, which is used as the avatar for the feed when it appears in a twitter-like timeline.",
+                    "created": "Tue, 01 Jul 2025 11:45:51 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I think the only other product that is open to feeds being part of the open social web is <a href=\"https://about.flipboard.com/press/announcing-surf-the-first-browser-for-the-open-social-web/?utm_source=chatgpt.com\">Surf</a> from Mike McCue's company, Flipboard. I asked ChatGPT to <a href=\"https://chatgpt.com/share/6863cadb-46ec-8012-9ec8-c5e67595f954\">brief me</a> on how it works with feeds, and saw that we're more or less doing the same thing, except I'm not trying to work with the output from Twitter, Bluesky, etc. Even when they have outbound RSS feeds they aren't good enough to be part of the social web defined by feeds.",
+                    "created": "Tue, 01 Jul 2025 11:46:11 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I only want really good feeds. It's time to stop being so careless about what we transmit to the world. If we want an open web we're all going to have to be good gardeners. It's like a food system where all the food is grown by family farmers and I'm running a restaurant, and only want the good stuff, and we want it to look good too! :-)",
+                    "created": "Tue, 01 Jul 2025 11:46:48 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: Another thing, the feed items must have working <a href=\"https://cyber.harvard.edu/rss/rss.html#ltguidgtSubelementOfLtitemgt\">guids</a>. All software that runs on feeds should be able to depend on this. ",
+                    "created": "Tue, 01 Jul 2025 11:51:21 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PPS: Linkblogs aren't the only kinds of feeds that will be used in this RSS-based feediverse. Scripting News will work with it. You would be able to read this post in this new medium (not yet delivered, btw).",
+                    "created": "Tue, 01 Jul 2025 11:52:56 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PPPS: More <a href=\"https://this.how/davewiner/myLinkblog.opml\">here</a> and <a href=\"https://github.com/scripting/wordlandDev/issues/1\">here</a>.",
+                    "created": "Tue, 01 Jul 2025 18:55:17 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
