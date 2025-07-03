@@ -1,0 +1,23 @@
+{
+    "created": "2025-07-02T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "02",
+    "path": "2025/07/02",
+    "text": "July 02",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://this.how/wordland/versions.opml#1751488476000\">WordLand 0.5.16</a> -- Rounding out the linkblogging features.  ",
+            "created": "Wed, 02 Jul 2025 21:13:47 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Software internally is mostly pipes connected to other pipes, each adding a specific quality to whatever passes through it. If you have nice standards for what you send through the pipes, you can do more of what you imagine. This is called <a href=\"https://en.wikipedia.org/wiki/Orthogonality_(programming)\">orthogonality</a>. <a href=\"https://en.wikipedia.org/wiki/Code_refactoring\">Factoring</a> is when you notice a repeating pattern, give it a name, and a set of things you can do to it, those would be names of pipes. I have to ask ChatGPT what it thinks about this, but I am also asking my human friends. BTW I expect this seems so natural because our minds probably work that way too, internally, below our conscious awareness. ",
+            "created": "Wed, 02 Jul 2025 15:26:05 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/03/12/hamstercage.png",
+            "flInCalendar": true
+        }
+    ]
+}
