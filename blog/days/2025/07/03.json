@@ -1,0 +1,29 @@
+{
+    "created": "2025-07-03T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "03",
+    "path": "2025/07/03",
+    "text": "July 03",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://this.how/wordland/versions.opml#1751548301000\">WordLand v0.5.17</a> -- Two changes with linkblog support. ",
+            "created": "Thu, 03 Jul 2025 13:22:34 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "BTW, this is where we're going with WordLand. We can have a nice social web that builds on simple open formats. I will make an instance of this to show it can be done, both sides, reading and writing. They will work wonderfully with each other. You can write a nice reader and/or writer and it will work with this simple network. A technological <a href=\"http://scripting.com/stories/2007/04/28/twitterAsCoralReef.html\">coral reef</a>. Think of the MacWrite and MacPaint of the open social web. Enough to get the ball rolling. ",
+            "created": "Thu, 03 Jul 2025 11:36:00 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2025/07/03/houseOfCards.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Looking forward to putting linkblogs in WordLand to bed, I don't think too many people other than myself will use the feature, but I wanted to get it right and then move on. ",
+            "created": "Thu, 03 Jul 2025 11:34:29 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
