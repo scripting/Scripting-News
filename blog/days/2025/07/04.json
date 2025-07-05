@@ -1,0 +1,62 @@
+{
+    "created": "2025-07-04T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "04",
+    "path": "2025/07/04",
+    "text": "July 04",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today is Independence Day in the US, so how about an Independence Day for the web. One <a href=\"http://scripting.com/2025/07/04/181125.html\">simple way</a> would be to hook RSS up to ActivityPub, turning Mastodon and Threads into a big feed reader. It could easily be done in software, it would just take money to keep it running. Not something I could attempt personally. But I would totally help with the software and design. It would open the door for lots of new apps that could communicate with users through a single <i>simple</i> API. I want to talk with people about this at <a href=\"http://scripting.com/2025/06/22/132405.html\">WordCamp Canada</a> in October.",
+            "created": "Fri, 04 Jul 2025 13:31:35 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2020/11/26/uncleSam.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "How odd on Independence Day a law goes into effect that funds a secret police for the US. The goal is to flow people from inside the United States into concentration camps, and ostensibly deport them to other countries. It may turn out to be easier and less expensive to just gas them and burn the bodies right here in the USA. I listened to this morning's <a href=\"https://podcasts.apple.com/us/podcast/how-the-megabill-will-change-america/id1200361736?i=1000715713632\">Daily podcast</a> to hear how they summed up the bill. They focused on taxes and health care as most of the other news orgs have been doing. They were puzzled why the Repubs didn't seem to care if it hurt their electorate, but they didn't state the obvious answer. They <i>don't</i> care. Remember <a href=\"http://scripting.com/2020/09/22/123759.html?title=weNeedOccamsNews\">Occam's News</a>. I guess they didn't want to say it out loud so they just telegraphed the question. It worked, <a href=\"https://bsky.app/profile/scripting.com/post/3lt2zupgbm22n\">message</a> received. ",
+            "created": "Fri, 04 Jul 2025 13:32:26 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "RSS ==> ActivityPub",
+            "created": "Fri, 04 Jul 2025 18:11:25 GMT",
+            "type": "outline",
+            "description": "I'd love to see a bridge going from RSS to ActivityPub.",
+            "subs": [
+                {
+                    "text": "I'd love to see a bridge from <a href=\"http://scripting.com/2025/04/14/121946.html\">RSS</a> to ActivityPub. I've asked people at various companies if they'd do this. I'm happy to help with the software but operating the service is something for a trusted company to do.",
+                    "created": "Fri, 04 Jul 2025 18:11:32 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I think this would go all the way to putting the \"open\" in open social web, because people who already know how to build RSS feeds would be able to quickly write apps that hook into AP networks. And of course it wouldn't have to be limited to RSS, it could build on Atom and RDF equally well.  ",
+                    "created": "Fri, 04 Jul 2025 18:12:07 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It think it's tragic that it's taking Ghost, for example, so long to get their service up fully, and it suggests that smaller devs don't stand a chance. I can't wake up one day and have an idea of something that would work well with Mastodon, for example, and have a prototype running the next day. ",
+                    "created": "Fri, 04 Jul 2025 18:12:35 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If you think this is a good idea, post a link to this post somewhere developers live, and let's see if we can get a cooperative project up and running. ",
+                    "created": "Fri, 04 Jul 2025 18:12:36 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And if you don't like RSS, Atom or RDF, invent an orthogonal format and we can work with that too. I know people have strong feelings about this stuff, not a problem. ",
+                    "created": "Fri, 04 Jul 2025 18:13:15 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: I asked <a href=\"https://mastodon.social/@davew/114796352889094954\">Tim Bray</a> to comment, and  he <a href=\"https://mastodon.social/@timbray@cosocial.ca/114796687727557412\">responded</a>. Sounds good. We've known each other for decades, going back to the early days of XML. ",
+                    "created": "Fri, 04 Jul 2025 20:31:08 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
