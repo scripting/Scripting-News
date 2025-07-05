@@ -1,0 +1,39 @@
+{
+    "text": "RSS ==> ActivityPub",
+    "created": "Fri, 04 Jul 2025 18:11:25 GMT",
+    "type": "outline",
+    "description": "I'd love to see a bridge going from RSS to ActivityPub.",
+    "subs": [
+        {
+            "text": "I'd love to see a bridge from <a href=\"http://scripting.com/2025/04/14/121946.html\">RSS</a> to ActivityPub. I've asked people at various companies if they'd do this. I'm happy to help with the software but operating the service is something for a trusted company to do.",
+            "created": "Fri, 04 Jul 2025 18:11:32 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I think this would go all the way to putting the \"open\" in open social web, because people who already know how to build RSS feeds would be able to quickly write apps that hook into AP networks. And of course it wouldn't have to be limited to RSS, it could build on Atom and RDF equally well.  ",
+            "created": "Fri, 04 Jul 2025 18:12:07 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "It think it's tragic that it's taking Ghost, for example, so long to get their service up fully, and it suggests that smaller devs don't stand a chance. I can't wake up one day and have an idea of something that would work well with Mastodon, for example, and have a prototype running the next day. ",
+            "created": "Fri, 04 Jul 2025 18:12:35 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you think this is a good idea, post a link to this post somewhere developers live, and let's see if we can get a cooperative project up and running. ",
+            "created": "Fri, 04 Jul 2025 18:12:36 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "And if you don't like RSS, Atom or RDF, invent an orthogonal format and we can work with that too. I know people have strong feelings about this stuff, not a problem. ",
+            "created": "Fri, 04 Jul 2025 18:13:15 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "PS: I asked <a href=\"https://mastodon.social/@davew/114796352889094954\">Tim Bray</a> to comment, and  he <a href=\"https://mastodon.social/@timbray@cosocial.ca/114796687727557412\">responded</a>. Sounds good. We've known each other for decades, going back to the early days of XML. ",
+            "created": "Fri, 04 Jul 2025 20:31:08 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
