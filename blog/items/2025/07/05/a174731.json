@@ -1,0 +1,6 @@
+{
+    "text": "An improvement in WordLand on <a href=\"https://github.com/scripting/wpIdentity/blob/main/worknotes.md#7525-101112-am-by-dw\">the server</a>, we now post metadata to WordPress, along with the HTML rendering so that code that runs on the server can now access and possibly in the future even talk back to WordLand. You never know where this stuff can go if the developers take advantage of opportunities to interop. ",
+    "created": "Sat, 05 Jul 2025 17:47:31 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
