@@ -1,0 +1,28 @@
+{
+    "created": "2025-07-05T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "05",
+    "path": "2025/07/05",
+    "text": "July 05",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://this.how/wordland/versions.opml#1751664824000\">WordLand v0.5.19</a> -- Lots of little fixes. ",
+            "created": "Sat, 05 Jul 2025 17:46:48 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "An improvement in WordLand on <a href=\"https://github.com/scripting/wpIdentity/blob/main/worknotes.md#7525-101112-am-by-dw\">the server</a>, we now post metadata to WordPress, along with the HTML rendering so that code that runs on the server can now access and possibly in the future even talk back to WordLand. You never know where this stuff can go if the developers take advantage of opportunities to interop. ",
+            "created": "Sat, 05 Jul 2025 17:47:31 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/tinyFeedReader\">tinyFeedReader</a> is a hit. But the docs aren't clear enough. It has no user interface, it's a package you can include in a Node app that calls back to you when a new item comes in from one of the feeds you've told it to watch. It's a totally teeny little framework for a feed reader, you get all the standard stuff tucked away out of site, you write the functionality you want to implement. It would be a good thing to turn over to your AI programming partner. It's for people who want to add a feed reader to something else. ",
+            "created": "Sat, 05 Jul 2025 21:42:24 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
