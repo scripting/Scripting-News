@@ -1,0 +1,44 @@
+{
+    "text": "If there were a new Frontier in 2025?",
+    "created": "Mon, 07 Jul 2025 00:47:00 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I've been playing a little game, trying to answer the question -- if I had a modern implementation of Frontier that ran on Linux and new Macs, just as it was in 1992 when we released it for the pre-OS/X Mac, what apps would I want to hook up to it right away? What would the <a href=\"https://docserver.scripting.com/\">verb set</a> look like? ",
+            "created": "Mon, 07 Jul 2025 00:47:08 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'd start with the native verb set we had in Frontier for accessing the file system. And HTTP verbs of course.  ",
+            "created": "Mon, 07 Jul 2025 00:47:55 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Then I would add glue for WordPress, GitHub, Mastodon and Bluesky, just because I think having really simple scripting for each of those would make (some) people's <a href=\"https://daytona.scripting.com/search?q=%22mind%20bomb%22\">brains explode</a>. ",
+            "created": "Mon, 07 Jul 2025 00:48:16 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I once had a young fellow challenge me on whether there was such a thing as scriptable apps. I was reminded of the days when I had to explain it but no one got it, then one day everyone got it as if they always did, and now we're back at the beginning again. There is such a thing. You can think of an app as a toolkit. What's behind the UI? Let me call it from outside your app. Let me combine the features of your product with other people's product. And you can do the exact same thing for apps that are running on the web. It was something a lot of people tried to do, like Magic Cap at General Magic, but we got it working and had regular nerds writing apps as if it was not amazing. It was, and it's now a long lost art. ",
+            "created": "Mon, 07 Jul 2025 00:48:46 GMT",
+            "image": "https://imgs.scripting.com/2023/09/14/kitchenComputer.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "If a version of Frontier came up that I could run on a Linux system, I would wish for a really simple interface to Node packages. I've got a great <a href=\"https://github.com/scripting?tab=repositories\">collection</a>. I'd want to use them right away asap. ",
+            "created": "Mon, 07 Jul 2025 00:50:03 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I also would like to be able to write code in Frontier in JavaScript. I'm very fluent in it these days. I can still program in UserTalk, the two languages are basically the same thing, though UserTalk has some nice affordances they haven't thought of yet in JavaScriptLand, and vice versa -- there are even more things JS can do that we hadn't thought of, which is only fair, they've been working on it a lot longer than we did. The language was basically frozen in the late 90s, and the verb set shortly after that. ",
+            "created": "Mon, 07 Jul 2025 00:50:52 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Oh what would I do? It's fun to dream. ",
+            "created": "Mon, 07 Jul 2025 00:52:35 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
