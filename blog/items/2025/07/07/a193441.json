@@ -1,0 +1,55 @@
+{
+    "text": "Linkblogging back to normal",
+    "created": "Mon, 07 Jul 2025 19:34:41 GMT",
+    "type": "outline",
+    "metaImage": "http://scripting.com/images/2025/07/07/sfFromFremont.png",
+    "subs": [
+        {
+            "text": "<i>I wrote this early this morning as a <a href=\"https://daveverse.org/2025/07/07/linkblogging-back-to-normal-after-corner-turn/\">test post</a> for my WordLand site. </i>",
+            "created": "Mon, 07 Jul 2025 19:34:47 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Happy to report that my linkblog routine is back to normal.",
+            "created": "Mon, 07 Jul 2025 19:35:19 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I really shook things up there, and it probably wasn't a great time investment.",
+            "flInCalendar": true
+        },
+        {
+            "text": "I had been using a custom front-end to FeedLand, which has a built in blogging tool, that publishes to the database that FeedLand manages, and of course also publishes an RSS feed. It was debugged and works. But now I have a new editor, and I want to use it for this, because my reader knows how to view all kinds of stuff, and one of the things I wanted it to work well with are linkblog posts. So, do a quick addition of linkblog stuff to WordLand. ",
+            "created": "Mon, 07 Jul 2025 19:37:15 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Only thing is there is no such thing as a \"quick addition\" in a world built on CSS and HTML objects. Everything is a slog. ",
+            "created": "Mon, 07 Jul 2025 19:36:29 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Anyway the slog is over! Whew. ",
+            "created": "Mon, 07 Jul 2025 19:36:45 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Now back to my other slog -- timelines. ",
+            "created": "Mon, 07 Jul 2025 19:36:46 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's also starting to feel usable. People imagine that you just design something and write the code and voila it's usable (if they even think about it that much). But only until you have the pieces put together can you see the things you forgot to consider, and now you have to decide whether to rip up the thing you built or try to iterate to where you need to go. A lot of times it would be easier to start over, but programmers always want to do that. I'm no exception. Once it's working somewhat the code becomes locked into how the pieces fit together. If somehow they need to fit together differently, given it's CSS and HTML you'd better scrap it and do it again or you'll go out of your mind adding the next layer of features. ",
+            "flInCalendar": true
+        },
+        {
+            "text": "Honestly we were much better off before we tried to shoehorn an object model into a document format! Apps and documents are really different things you know.",
+            "flInCalendar": true
+        },
+        {
+            "text": "Anyway now I have my first test post of the day.",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
