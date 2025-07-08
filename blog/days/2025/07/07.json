@@ -1,0 +1,122 @@
+{
+    "created": "2025-07-07T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "07",
+    "path": "2025/07/07",
+    "text": "July 07",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Open + web == lost cause?",
+            "created": "Mon, 07 Jul 2025 19:43:35 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<i>A longish thread that probably isn't going anywhere. My final <a href=\"https://mastodon.social/@davew/114813658742530184\">thoughts</a>, cc'd here to get on the record.</i>",
+                    "created": "Mon, 07 Jul 2025 19:43:51 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "anyway it's feeling like a lost cause. ",
+                    "created": "Mon, 07 Jul 2025 19:44:27 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "to be really blunt, i don't think <a href=\"https://en.wikipedia.org/wiki/ActivityPub\">AP</a> or <a href=\"https://en.wikipedia.org/wiki/AT_Protocol\">ATP</a> are the answer. ",
+                    "created": "Tue, 08 Jul 2025 00:04:27 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "and i also don't care so much about this style of conversation. and i loathe the character limits and the lack of style and links, and no titles, etc.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "it can't only be for wordpress. i love the potential of wordpress, i think even more than matt does, but it isn't enough.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "if it's going to be open and of the web it has to be simple and easy, and neither of them are.",
+                    "created": "Mon, 07 Jul 2025 19:44:47 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "bonus for blog readers: i would add, since i ran out of characters on masto, that the great thing about the web is that you can have an idea and be using it the next day. you can't say imho that you're part of the web if you don't deliver that kind of ease of access. it's not enough to have the <i>potential</i> of being open, it has to be accessible. I have that ability these days, but people who use the AP and ATP systems are in tight little boxes with no easy way to try something out quickly. (i know because i've been hooking things up to them for a couple of years now, and so far it's just an added slog, everything is far more complex than it should be)",
+                    "created": "Mon, 07 Jul 2025 20:28:23 GMT",
+                    "image": "https://imgs.scripting.com/2020/08/02/francoAplenty.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "maybe we'll get there through their api's, but i think at this point we know that won't happen.",
+                    "created": "Mon, 07 Jul 2025 19:48:20 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "ps: the web is a <a href=\"https://this.how/googleAndHttp/#1519490474000\">miracle</a>. but maybe it's too fucked up now to have the miracle be something we can all experience.  ",
+                    "created": "Mon, 07 Jul 2025 19:51:32 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "pps: when i write on other systems i often leave out upper case, saving a little energy as i type. i find it more relaxing. ",
+                    "created": "Mon, 07 Jul 2025 20:03:09 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Linkblogging back to normal",
+            "created": "Mon, 07 Jul 2025 19:34:41 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2025/07/07/sfFromFremont.png",
+            "subs": [
+                {
+                    "text": "<i>I wrote this early this morning as a <a href=\"https://daveverse.org/2025/07/07/linkblogging-back-to-normal-after-corner-turn/\">test post</a> for my WordLand site. </i>",
+                    "created": "Mon, 07 Jul 2025 19:34:47 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Happy to report that my linkblog routine is back to normal.",
+                    "created": "Mon, 07 Jul 2025 19:35:19 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I really shook things up there, and it probably wasn't a great time investment.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I had been using a custom front-end to FeedLand, which has a built in blogging tool, that publishes to the database that FeedLand manages, and of course also publishes an RSS feed. It was debugged and works. But now I have a new editor, and I want to use it for this, because my reader knows how to view all kinds of stuff, and one of the things I wanted it to work well with are linkblog posts. So, do a quick addition of linkblog stuff to WordLand. ",
+                    "created": "Mon, 07 Jul 2025 19:37:15 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Only thing is there is no such thing as a \"quick addition\" in a world built on CSS and HTML objects. Everything is a slog. ",
+                    "created": "Mon, 07 Jul 2025 19:36:29 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Anyway the slog is over! Whew. ",
+                    "created": "Mon, 07 Jul 2025 19:36:45 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Now back to my other slog -- timelines. ",
+                    "created": "Mon, 07 Jul 2025 19:36:46 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's also starting to feel usable. People imagine that you just design something and write the code and voila it's usable (if they even think about it that much). But only until you have the pieces put together can you see the things you forgot to consider, and now you have to decide whether to rip up the thing you built or try to iterate to where you need to go. A lot of times it would be easier to start over, but programmers always want to do that. I'm no exception. Once it's working somewhat the code becomes locked into how the pieces fit together. If somehow they need to fit together differently, given it's CSS and HTML you'd better scrap it and do it again or you'll go out of your mind adding the next layer of features. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Honestly we were much better off before we tried to shoehorn an object model into a document format! Apps and documents are really different things you know.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Anyway now I have my first test post of the day.",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
