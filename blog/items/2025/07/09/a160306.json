@@ -1,0 +1,60 @@
+{
+    "text": "Teaching ChatGPT how to work with me",
+    "created": "Wed, 09 Jul 2025 16:03:06 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Earlier I wrote this post:",
+            "created": "Wed, 09 Jul 2025 16:03:17 GMT",
+            "subs": [
+                {
+                    "text": "The worst thing about Claude and ChatGPT is that you can't get them to work with you the way you want them to. They always run off and <i>do</i> the things I asked about. So if I say \"what if the middle column must be at least 600 pixels wide? What I want is literally an answer to the question I asked. It was not an instruction to do it. I've been a CEO, and this infuriates me. I want to understand the limits are, I don't want to impose them. I'm trying to figure out what the cost would be in doing something, again -- not requesting it be done. No matter how many times I tell it not to do this, it just does it. And Claude has absolutely no memory. If I want it to work with me a certain way I have to tell it how to do it every time. I can save it off in a document, but even the simplest automation is impossible. In that sense it is very primitive software. If I were using a spreadsheet for example, I'd have settings that I could change, and unless the software had a bug it would never forget it until I told it otherwise. ",
+                    "created": "Wed, 09 Jul 2025 15:05:17 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Because it can be so stubborn and uncooperative, I often try to solve complicated problems myself. Then I decided to try again, and brought a problem to ChatGPT and we did eventually figure it out, but at the end I wanted to review how inefficient the process was because it doesn't look all around at the options, I had to do that for it, and it wasn't even aware it needed that kind of help. After exploring this, I asked if it would remember what we concluded, and this is what came back.",
+            "created": "Wed, 09 Jul 2025 16:22:16 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "You want me to think first, not code.",
+                    "created": "Wed, 09 Jul 2025 16:25:10 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You want me to challenge assumptions, including my own.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You expect me to give up on a theory when the evidence contradicts it, and look for more plausible explanations.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You're a deeply experienced debugger (almost 50 years), and you know how important it is to notice the obvious.",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You're not here for code generation — you're here for sharp, collaborative thinking.",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "When I said that was worth publishing on my blog, it proceeded to muddy it up, even trying to write in my voice. I insisted that the list it came up with was perfect. ",
+            "created": "Wed, 09 Jul 2025 16:25:29 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Feel free to steal these bullet points and feed them to your ChatGPT. I think it can be made to work much better for us humans. ;-)",
+            "created": "Wed, 09 Jul 2025 16:26:26 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
