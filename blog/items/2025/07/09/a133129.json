@@ -1,0 +1,91 @@
+{
+    "text": "Why I want RSS ==> ActivityPub",
+    "created": "Wed, 09 Jul 2025 13:31:29 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I've been asked by a number of people why I want a bridge from RSS to ActivityPub. Fair question. Here's why. ",
+            "created": "Wed, 09 Jul 2025 13:31:43 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "WordPress has demonstrated that most of the features of the web in regard to documents also work in Mastodon, via ActivityPub. ",
+            "created": "Wed, 09 Jul 2025 13:32:09 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "To demonstrate here's a <a href=\"https://daveverse.org/2025/07/09/example-of-a-wordpress-post-in-mastodon/\">WordPress post</a>, and because there is a bridge between it and ActivityPub, you can read the same post <a href=\"https://mastodon.social/@scripting@daveverse.org/114823624237979477\">in Mastodon</a>, which also supports ActivityPub. ",
+            "created": "Wed, 09 Jul 2025 13:32:41 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "To really nail that down: <a href=\"https://daveverse.org/2025/07/09/example-of-a-wordpress-post-in-mastodon/\">WordPress version</a>, <a href=\"https://mastodon.social/@scripting@daveverse.org/114823624237979477\">Mastodon version</a>.",
+            "created": "Wed, 09 Jul 2025 14:03:42 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Pretty remarkable, yes?",
+            "created": "Wed, 09 Jul 2025 13:33:19 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's a list of the features I was using in that demo.",
+            "created": "Wed, 09 Jul 2025 13:33:25 GMT",
+            "flBulletedSubs": "true",
+            "subs": [
+                {
+                    "text": "The post has a title (it's optional).",
+                    "created": "Wed, 09 Jul 2025 13:35:44 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Simple styling: bold, italic, numbered lists, bulleted lists.",
+                    "created": "Wed, 09 Jul 2025 13:33:40 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Hyperlinks, the defining feature of the web.",
+                    "created": "Wed, 09 Jul 2025 13:33:59 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I can edit my post. ",
+                    "created": "Wed, 09 Jul 2025 13:34:07 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "No character limit.",
+                    "created": "Wed, 09 Jul 2025 13:33:34 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "These are most of the features of <a href=\"https://textcasting.org/\">textcasting</a>, a spec I published in 2022 to list the features of the web I wanted from the twitter-like services, that call themselves part of the web, which is fairly dishonest because they don't support most of the basic features of the web. But Mastodon <i>does</i> support them. ",
+            "created": "Wed, 09 Jul 2025 13:36:05 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "But so far they are only accessible via WordPress. And as much as I love WordPress, and am thankful it exists, that is not enough. ",
+            "created": "Wed, 09 Jul 2025 14:04:54 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "So here's the punchline: Why I want the RSS to ActivityPub bridge. ",
+            "created": "Wed, 09 Jul 2025 14:05:32 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "As a developer, I can easily create apps that generate RSS feeds. I just want Mastodon to understand those feeds as well as they understand WordPress. And that means <b>we need a bridge for developers that supports all these features.</b> ",
+            "created": "Wed, 09 Jul 2025 14:05:28 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Hope that helps! :-)",
+            "created": "Wed, 09 Jul 2025 13:38:56 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
