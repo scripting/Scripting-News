@@ -1,0 +1,167 @@
+{
+    "created": "2025-07-09T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "09",
+    "path": "2025/07/09",
+    "text": "July 09",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "How did they get soldiers <a href=\"https://bsky.app/profile/nytimes.com/post/3lthrhk7ut22v\">to do this</a>? American soldiers? We are truly lost. Were they masked too? What happened to their honor? Why the fuck would an American soldier need to hide their identity? Anywhere, but esp in America? Why don’t they put down their weapons?",
+            "created": "Wed, 09 Jul 2025 14:32:25 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Why I want RSS ==> ActivityPub",
+            "created": "Wed, 09 Jul 2025 13:31:29 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I've been asked by a number of people why I want a bridge from RSS to ActivityPub. Fair question. Here's why. ",
+                    "created": "Wed, 09 Jul 2025 13:31:43 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "WordPress has demonstrated that most of the features of the web in regard to documents also work in Mastodon, via ActivityPub. ",
+                    "created": "Wed, 09 Jul 2025 13:32:09 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "To demonstrate here's a <a href=\"https://daveverse.org/2025/07/09/example-of-a-wordpress-post-in-mastodon/\">WordPress post</a>, and because there is a bridge between it and ActivityPub, you can read the same post <a href=\"https://mastodon.social/@scripting@daveverse.org/114823624237979477\">in Mastodon</a>, which also supports ActivityPub. ",
+                    "created": "Wed, 09 Jul 2025 13:32:41 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "To really nail that down: <a href=\"https://daveverse.org/2025/07/09/example-of-a-wordpress-post-in-mastodon/\">WordPress version</a>, <a href=\"https://mastodon.social/@scripting@daveverse.org/114823624237979477\">Mastodon version</a>.",
+                    "created": "Wed, 09 Jul 2025 14:03:42 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Pretty remarkable, yes?",
+                    "created": "Wed, 09 Jul 2025 13:33:19 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's a list of the features I was using in that demo.",
+                    "created": "Wed, 09 Jul 2025 13:33:25 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "The post has a title (it's optional).",
+                            "created": "Wed, 09 Jul 2025 13:35:44 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Simple styling: bold, italic, numbered lists, bulleted lists.",
+                            "created": "Wed, 09 Jul 2025 13:33:40 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Hyperlinks, the defining feature of the web.",
+                            "created": "Wed, 09 Jul 2025 13:33:59 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "I can edit my post. ",
+                            "created": "Wed, 09 Jul 2025 13:34:07 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "No character limit.",
+                            "created": "Wed, 09 Jul 2025 13:33:34 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "These are most of the features of <a href=\"https://textcasting.org/\">textcasting</a>, a spec I published in 2022 to list the features of the web I wanted from the twitter-like services, that call themselves part of the web, which is fairly dishonest because they don't support most of the basic features of the web. But Mastodon <i>does</i> support them. ",
+                    "created": "Wed, 09 Jul 2025 13:36:05 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But so far they are only accessible via WordPress. And as much as I love WordPress, and am thankful it exists, that is not enough. ",
+                    "created": "Wed, 09 Jul 2025 14:04:54 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So here's the punchline: Why I want the RSS to ActivityPub bridge. ",
+                    "created": "Wed, 09 Jul 2025 14:05:32 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "As a developer, I can easily create apps that generate RSS feeds. I just want Mastodon to understand those feeds as well as they understand WordPress. And that means <b>we need a bridge for developers that supports all these features.</b> ",
+                    "created": "Wed, 09 Jul 2025 14:05:28 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Hope that helps! :-)",
+                    "created": "Wed, 09 Jul 2025 13:38:56 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Teaching ChatGPT how to work with me",
+            "created": "Wed, 09 Jul 2025 16:03:06 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Earlier I wrote this post:",
+                    "created": "Wed, 09 Jul 2025 16:03:17 GMT",
+                    "subs": [
+                        {
+                            "text": "The worst thing about Claude and ChatGPT is that you can't get them to work with you the way you want them to. They always run off and <i>do</i> the things I asked about. So if I say \"what if the middle column must be at least 600 pixels wide? What I want is literally an answer to the question I asked. It was not an instruction to do it. I've been a CEO, and this infuriates me. I want to understand the limits are, I don't want to impose them. I'm trying to figure out what the cost would be in doing something, again -- not requesting it be done. No matter how many times I tell it not to do this, it just does it. And Claude has absolutely no memory. If I want it to work with me a certain way I have to tell it how to do it every time. I can save it off in a document, but even the simplest automation is impossible. In that sense it is very primitive software. If I were using a spreadsheet for example, I'd have settings that I could change, and unless the software had a bug it would never forget it until I told it otherwise. ",
+                            "created": "Wed, 09 Jul 2025 15:05:17 GMT",
+                            "type": "outline",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Because it can be so stubborn and uncooperative, I often try to solve complicated problems myself. Then I decided to try again, and brought a problem to ChatGPT and we did eventually figure it out, but at the end I wanted to review how inefficient the process was because it doesn't look all around at the options, I had to do that for it, and it wasn't even aware it needed that kind of help. After exploring this, I asked if it would remember what we concluded, and this is what came back.",
+                    "created": "Wed, 09 Jul 2025 16:22:16 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "You want me to think first, not code.",
+                            "created": "Wed, 09 Jul 2025 16:25:10 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "You want me to challenge assumptions, including my own.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "You expect me to give up on a theory when the evidence contradicts it, and look for more plausible explanations.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "You're a deeply experienced debugger (almost 50 years), and you know how important it is to notice the obvious.",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "You're not here for code generation — you're here for sharp, collaborative thinking.",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "When I said that was worth publishing on my blog, it proceeded to muddy it up, even trying to write in my voice. I insisted that the list it came up with was perfect. ",
+                    "created": "Wed, 09 Jul 2025 16:25:29 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Feel free to steal these bullet points and feed them to your ChatGPT. I think it can be made to work much better for us humans. ;-)",
+                    "created": "Wed, 09 Jul 2025 16:26:26 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
