@@ -1,0 +1,72 @@
+{
+    "created": "2025-07-12T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "12",
+    "path": "2025/07/12",
+    "text": "July 12",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I want Mastodon to take off as a blogging platform. That means hooking it up to existing blog platforms. I want our world to connect to theirs. I'm lucky to have bet on WordPress, so my <a href=\"https://wordland.social/\">product</a> gets the connection to Mastodon for free. But the web is what matters, not my product or yours. Even if your product is huge, it's only part of the web. This is how we build, how we get back on track. Somehow we need to get a simple bridge that lets <i>all</i> blog content flow to Mastodon. That's the goal. I just wrote a <a href=\"https://mastodon.social/@davew/114841153889663929\">couple</a> of <a href=\"https://mastodon.social/@davew/114841162027579055\">posts</a> where this became clear to me. Who has the code and expertise to create a simple interface from the outside world to Mastodon. The interface doesn't have to be RSS. But it has to be maximally simple, and it has to cover the <a href=\"https://daveverse.org/2025/07/09/example-of-a-wordpress-post-in-mastodon/\">basic features</a> of blogs that Mastodon supports. ",
+            "created": "Sat, 12 Jul 2025 16:33:04 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/08/14/miniPatrioticSanta.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Today's editorial about AI",
+            "created": "Sat, 12 Jul 2025 13:45:25 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "AI chatbots don't think and they don't decide. ",
+                    "created": "Sat, 12 Jul 2025 13:39:56 GMT",
+                    "type": "outline",
+                    "image": "https://imgs.scripting.com/2024/02/13/commanderDataStarTrek.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "They can give you a way to approach a problem, but it's only one way, and it may not be the best way, and it depends on it actually understanding the problem, which is something it does a good simulation of, but can't do. It absolutely cannot think, come up with a strategy, or even make a decision based on probabilities. It might, in the future, get some of these abilities, given how far they've come, but no one knows, it hasn't happened yet. ",
+                    "created": "Sat, 12 Jul 2025 14:06:39 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The reports that <a href=\"https://secondthoughts.ai/p/ai-coding-slowdown\">say</a> that using a chatbot to write code is actually less efficient than doing it yourself, are totally believable based on two years experience with using it as a development tool. And I can't believe that whatever it comes up with covers enough use-cases to be reliable. It might create a demo of something to present to a board of directors (they're famous for being deceived by demos, btw), but I doubt if it's as usable as something created by someone with an idea of how to craft usable software. ",
+                    "created": "Sat, 12 Jul 2025 13:46:12 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This might sound like a writer defending their art against the bots, but the difference is I've actually invested the time to learn about this. My counterparts among writers have not done that. And that's not a mistake my chatbot friend would make. It does a lot of research, it just doesn't know what to do with the result, that's up to you. ",
+                    "created": "Sat, 12 Jul 2025 13:47:08 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So if you want to know the roles humans will play, at least for now, that's it. Think and decide. ",
+                    "created": "Sat, 12 Jul 2025 13:47:43 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And those are hard and take many years to learn how to do for a human. And we could use some help there btw, look at the awful decisions we're making these days. They just fired all the people at the State Dept who work on climate change, for example. ",
+                    "created": "Sat, 12 Jul 2025 13:47:54 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Have a nice day one and all.",
+                    "created": "Sat, 12 Jul 2025 13:48:45 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: Another thing humans can do that apparently AI bots can't is change their mind. ",
+                    "created": "Sat, 12 Jul 2025 14:08:28 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PPS: I asked ChatGPT if it had any comments on this editorial, <a href=\"https://imgs.scripting.com/2025/07/12/chatgptresponse.png\">and it did</a>, of course. I should try saying something wrong to it and see what it says. I did come up with one, and it gave me an <a href=\"https://chatgpt.com/c/68726f39-3d34-8012-bf44-8ee84e4446e9\">answer</a> even though no answer is possible. ",
+                    "created": "Sat, 12 Jul 2025 14:13:56 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
