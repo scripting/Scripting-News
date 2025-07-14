@@ -1,0 +1,29 @@
+{
+    "created": "2025-07-13T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "13",
+    "path": "2025/07/13",
+    "text": "July 13",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I'm helping Automattic with their <a href=\"https://canada.wordcamp.org/2025/4393-2/\">marketing</a>. The WordPress-Mastodon <a href=\"https://wordpress.org/plugins/activitypub/\">connection</a> is the world's best kept secret. Reminds me of that great scene in <a href=\"https://daytona.scripting.com/search?q=strangelove\">Dr Strangelove</a> where the Doctor asks the Russian ambassador what was the point of the <a href=\"https://en.wikipedia.org/wiki/Doomsday_device\">Doomsday Machine</a> if they kept it a secret. I won't <a href=\"https://www.youtube.com/watch?v=cmCKJi3CKGE\">spoil</a> it. Automattic tends to do this, develop crazy excellent stuff and then proceed to never talk about it. I do the same thing, it's easier to promote someone else's product than to promote your own. It's probably why you should always get a lawyer even if you're a world class lawyer yourself. Anyway, they have blown open something huge, and I very much want people to understand it, so it can create pull for the same feature in Bluesky, Threads and elsewhere. This goes with something I've learned in decades of experience in tech, people don't listen to their friends, they listen to their competitors. And btw, I'm sure Mastodon, if it has an ego at all, is equally unaware of the great thing <i>they</i> have done. Here's a clue, writers were once empowered by the web, and that ended with Twitter. Now it's coming back. But it doesn't do any good if people don't know it's there. ",
+            "created": "Sun, 13 Jul 2025 14:32:24 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/07/28/marshmallowManFromGhostbusters.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "A story about listening to friends vs competitors. Back in the early 90s I was working on system-level scripting for the Mac, supposedly with Apple, but it's no secret the rank and file at Apple didn't like us. They were told by the execs they had to work with us. So when it came time for WWDC, they \"forgot\" to invite me to speak on behalf of the new stuff. Instead, they had Bill Gates do it, even though Microsoft was not involved yet, they would support the tech in their Mac products eventually, esp their MSIE web browser. Anyway, I was friends with their top PR person, so she called me up a few days before the conference and asked what Bill should say, and I gave her an outline, and when he gave the speech, he did a great job. Couldn't have said it better myself. Microsoft was one of the few companies I've ever collaborated with that didn't seem to resent individual developers. It was a big source of their power. Huge actually. (On second thought, later they did seem to be more or less like any other big company, when they embraced RSS. They didn't actually want my help, they just wanted me to say nice things about them.)",
+            "created": "Sun, 13 Jul 2025 15:38:36 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "One consequence of each AI vendor having their own browser is that each will have their own OS-level window. This may make it a little more or less manageable. Hard to foresee the possibilities. Not sure a browser is the best place to put AI. I'd prefer perhaps an environment that supports a GDI like Quickdraw so we can start using math instead of voodoo to design interactions. ",
+            "created": "Sun, 13 Jul 2025 15:28:17 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
