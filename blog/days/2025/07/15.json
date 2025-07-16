@@ -1,0 +1,63 @@
+{
+    "created": "2025-07-15T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "15",
+    "path": "2025/07/15",
+    "text": "July 15",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I really like the Wikipedia <a href=\"https://www.google.com/search?q=%22the+internet+we+were+promised%22\">slogan</a>, \"The internet we were promised.\" ",
+            "created": "Tue, 15 Jul 2025 20:16:15 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I was going to recommend an <a href=\"https://podcasts.apple.com/us/podcast/is-congress-about-to-kill-this-local-radio-station/id1200361736?i=1000716812485\">episode</a> of The Daily podcast, but when I found the show page on Apple podcasts, it said it was <a href=\"https://imgs.scripting.com/2025/07/15/subscribersOnly.png\">subscribers only</a>. They interviewed the person who runs <a href=\"https://www.kfsk.org/\">KFSK</a>, an Alaska public radio station. Very revealing. I listened to it in a standard commercial podcast client. How did it know that I am a NYT subscriber, so I could listen? I heard from a few people who don't subscribe to the NYT, they can't get through. There was a lot of cooperation going on there, and I don't really like listening to episodes that I can't pass on to friends. That's cheap, I also don't read Krugman any longer for the same reason I guess. I'm going to start recommending specific episodes of podcasts, but only ones that everyone can listen to. Not even sure why I want to do that, but it feels right. If the money went to KFSK I would definitely feel better. ",
+            "created": "Tue, 15 Jul 2025 20:03:51 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Part of the reason I don't like it is that I pay for the NYT and read very little of it, and most of what I read I think is bullshit. But there still is a bit of credibility in it. So even though I'm over-paying for this, they still want <i>more</i> money. Every fucking time I go to the site they stop me to be sure now isn't the time I'm going to go for the \"full package.\" Even if I did, I'm sure there would be an even bigger package that I could pay more money for and not read like the rest of their bullshit. I hate them more than I usually would because I used to trust them, when I was a kid, I trusted them blindly. Being betrayed like that, ugh. BTW the NYT is my hometown paper, but you know what they don't even cover the Mets and Knicks. Fuck that shit. (Said in the NY fucking dialect of English.)",
+            "created": "Tue, 15 Jul 2025 20:23:30 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm going to add a command to \"WordLand\" that lets you quickly edit the text of the current post in Markdown. An <a href=\"https://daveverse.org/2025/07/15/tuning-up-my-markdown/\">example</a> of a post I edited with the new command. So if you you can quickly change the URL on a link. Or just see what you got when you pasted some text into the document. It's for tuning up your text. The thing I don't want to do is a full-blown Markdown editor. I want to do that too at some point, or leave the door open for other developers to do it. I'm not trying to own the market for nice editors for WordPress, I just want to open the market. And along the way I'm going to do a bunch of marketing for WordPress that it really needs. I hope Matt and company appreciate this. WordPress needs, imho, a kind of love and support that honestly it hasn't been getting. ",
+            "created": "Tue, 15 Jul 2025 12:01:22 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2020/05/02/lbj.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I was poking around on an old server, and found a domain that looked interesting, and it was. The <a href=\"http://daytona0.scripting.com/?q=dave&collection=drummerdocs\">first version of Daytona</a>, built around an outliner. I got the impression people didn't like it, so I developed a new one using a more conventional approach, and I love that one too, and I did a better job the second time. But it's interesting to poke around the old one as well, and it still works, which is great to see.  In an alternate universe in the year 2025 the whole human species is organized by one big outline that everyone contributes to in peace, love and harmony, as opposed to this one which <a href=\"http://daytona0.scripting.com/?q=grunts&collection=scriptingnews\">grunts</a> and <a href=\"http://daytona0.scripting.com/?q=snorts&collection=scriptingnews\">snorts</a> on Twitter and can't even put a freaking title on their posts. ",
+            "created": "Tue, 15 Jul 2025 11:47:57 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I should do this more often, <a href=\"https://daytona.scripting.com/search?q=spelunking\">spelunking</a> around an old server that's just sitting there. I was wondering why my posts to my <a href=\"https://dave.linkblog.org/\">linkblog feed</a> were going to Mastodon, since I only post them to Bluesky in my new software. I just found out. I have an app running on this server called <a href=\"https://daytona.scripting.com/search?q=FeedToMasto\">FeedToMasto</a>, which apparently is watching that feed. It's been chugging away like an abandoned science fiction robot, seeing if I posted anything to my linkblog, and forwarding it to Mastodon if I have. Hello my robot friend, you were forgotten but still appreciated. It's <a href=\"https://github.com/scripting/feedToMasto/blob/main/feedtomasto.js\">open source</a>, of course, and appears to be <a href=\"https://github.com/scripting/feedToMasto/blob/main/README.md\">well-documented</a>. If you're looking for example code that reads feeds and pushed the result to interesting places, this is for you. ",
+            "created": "Tue, 15 Jul 2025 11:53:47 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2022/12/05/boxOfTomatos.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Ride the Cluetrain!",
+            "created": "Wed, 16 Jul 2025 00:52:02 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2025/07/15/cluetrain.png",
+            "subs": [
+                {
+                    "text": "It's the modern way to travel!",
+                    "created": "Wed, 16 Jul 2025 00:52:08 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2025/07/15/cluetrain.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
