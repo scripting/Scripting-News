@@ -1,0 +1,7 @@
+{
+    "text": "I should do this more often, <a href=\"https://daytona.scripting.com/search?q=spelunking\">spelunking</a> around an old server that's just sitting there. I was wondering why my posts to my <a href=\"https://dave.linkblog.org/\">linkblog feed</a> were going to Mastodon, since I only post them to Bluesky in my new software. I just found out. I have an app running on this server called <a href=\"https://daytona.scripting.com/search?q=FeedToMasto\">FeedToMasto</a>, which apparently is watching that feed. It's been chugging away like an abandoned science fiction robot, seeing if I posted anything to my linkblog, and forwarding it to Mastodon if I have. Hello my robot friend, you were forgotten but still appreciated. It's <a href=\"https://github.com/scripting/feedToMasto/blob/main/feedtomasto.js\">open source</a>, of course, and appears to be <a href=\"https://github.com/scripting/feedToMasto/blob/main/README.md\">well-documented</a>. If you're looking for example code that reads feeds and pushed the result to interesting places, this is for you. ",
+    "created": "Tue, 15 Jul 2025 11:53:47 GMT",
+    "type": "outline",
+    "image": "https://imgs.scripting.com/2022/12/05/boxOfTomatos.png",
+    "flInCalendar": true
+}
