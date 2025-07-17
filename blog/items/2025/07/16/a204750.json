@@ -1,0 +1,31 @@
+{
+    "text": "Mastodon as a blogging platform",
+    "created": "Wed, 16 Jul 2025 20:47:50 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "This is <a href=\"https://x.com/davewiner/status/1945485392033058848\">what</a> I want to do next to solidify the position of Mastodon as a blogging platform. ",
+            "created": "Wed, 16 Jul 2025 20:48:02 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I want a REST version of what the MetaWeblog API has been doing since 2002, to hook into the ActivityPub interface supported by Mastodon. ",
+            "flInCalendar": true
+        },
+        {
+            "text": "Then we'll put together a simple demo app, a Markdown app in a browser window that writes and updates posts to a Mastodon site. ",
+            "created": "Wed, 16 Jul 2025 20:51:05 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "When that's running, I'll pitch Rich Siegel at <a href=\"https://en.wikipedia.org/wiki/BBEdit\">BBEdit</a> to make it work with Masto.",
+            "created": "Wed, 16 Jul 2025 20:50:51 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "With that, and the WordPress connection, we'll be well on the way to restoring the web we had before Twitter rewrote the rules. ;-)",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
