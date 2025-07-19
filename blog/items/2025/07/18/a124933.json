@@ -1,0 +1,13 @@
+{
+    "text": "Two-way vs one-way links",
+    "created": "Fri, 18 Jul 2025 12:49:33 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "TBL's links are one-way. This was actually a major innovation, at the time people understood there was something called hypertext, it had been written about in <a href=\"https://en.wikipedia.org/wiki/Ted_Nelson\">Ted Nelson's</a> almost <a href=\"https://daytona.scripting.com/search?q=%22ted%20nelson%22\">biblical book</a> of the pre-web, <a href=\"https://en.wikipedia.org/wiki/Computer_Lib/Dream_Machines\">Computer Lib/Dream Machines</a>. Previous attempts at hypertext assumed links had to be two-way. By limiting the links to one direction, the technical problem became trivial. You could do two-way links today because relational databases are mature and inexpensive to operate, perform very well on today's hardware, and the internet of 2025 is much faster than the internet of 1990. But the one-way limit was necessary for the web to achieve its simplicity, and the non-existence of a platform vendor, which may have been its most important feature. It could still be done, but it would require a lot of cooperation and backfilling.",
+            "created": "Fri, 18 Jul 2025 12:19:09 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
