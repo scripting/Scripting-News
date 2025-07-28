@@ -1,0 +1,38 @@
+{
+    "text": "A Bingeworthy Sunday",
+    "created": "Sun, 27 Jul 2025 15:52:20 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "I wasn't planning on this, but there was a <a href=\"https://github.com/scripting/bingeworthySupport/issues/5\">report</a> that there was a problem with \"Bingeworthy\", looked into it and was able to fix it. ",
+            "created": "Sun, 27 Jul 2025 15:52:28 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Source of problem: When I added a feature that lets you ask ChatGPT to review the program you're looking at, I broke the ability to add a new program to the database. It took about 15 minutes to track down and verify and another few minutes to fix -- and now that important function works again.  ",
+            "created": "Sun, 27 Jul 2025 16:13:31 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "As long as I was in there working around, I updated the <a href=\"https://tv.bingeworthy.org/rss.xml\">Bingeworthy RSS feed</a> to only report program additions. The other events it was reporting just weren't as interesting.",
+            "created": "Sun, 27 Jul 2025 15:53:00 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I also added that feed to my <a href=\"https://imgs.scripting.com/2025/07/27/blogrolledBingeworthy.png\">blogroll</a> on <a href=\"http://scripting.com/\">scripting.com</a>. ",
+            "created": "Sun, 27 Jul 2025 15:54:12 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'd say it works a lot better now. ",
+            "created": "Sun, 27 Jul 2025 15:57:43 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "\"curly\"",
+            "created": "Sun, 27 Jul 2025 15:57:51 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
