@@ -1,0 +1,55 @@
+{
+    "created": "2025-07-27T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "27",
+    "path": "2025/07/27",
+    "text": "July 27",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "One of my favorite features in the newest version of Bingeworthy is that it can generate a ChatGPT <a href=\"https://tv.bingeworthy.org/?id=https%3A%2F%2Fwww.metacritic.com%2Ftv%2Fhappy-valley\">review</a> of a program. <a href=\"https://imgs.scripting.com/2025/07/27/bingeScreenshot.png\">Screen shot</a>. I wouldn't have opened this up before because of that would let in the weirdness of the internets. This way we can find out what people thought, as sanitized by ChatGPT.  BTW do you think the root of sanitized is sane? As the root of ignorant is ignore? Of course <a href=\"https://imgs.scripting.com/2025/07/27/chatgpttranscriptsaneignore.png\">our friend</a> has the answer. One is and the other isn't.",
+            "created": "Sun, 27 Jul 2025 20:23:57 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2017/06/20/porky.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "A Bingeworthy Sunday",
+            "created": "Sun, 27 Jul 2025 15:52:20 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I wasn't planning on this, but there was a <a href=\"https://github.com/scripting/bingeworthySupport/issues/5\">report</a> that there was a problem with \"Bingeworthy\", looked into it and was able to fix it. ",
+                    "created": "Sun, 27 Jul 2025 15:52:28 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Source of problem: When I added a feature that lets you ask ChatGPT to review the program you're looking at, I broke the ability to add a new program to the database. It took about 15 minutes to track down and verify and another few minutes to fix -- and now that important function works again.  ",
+                    "created": "Sun, 27 Jul 2025 16:13:31 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "As long as I was in there working around, I updated the <a href=\"https://tv.bingeworthy.org/rss.xml\">Bingeworthy RSS feed</a> to only report program additions. The other events it was reporting just weren't as interesting.",
+                    "created": "Sun, 27 Jul 2025 15:53:00 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I also added that feed to my <a href=\"https://imgs.scripting.com/2025/07/27/blogrolledBingeworthy.png\">blogroll</a> on <a href=\"http://scripting.com/\">scripting.com</a>. ",
+                    "created": "Sun, 27 Jul 2025 15:54:12 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'd say it works a lot better now. ",
+                    "created": "Sun, 27 Jul 2025 15:57:43 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "\"curly\"",
+                    "created": "Sun, 27 Jul 2025 15:57:51 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
