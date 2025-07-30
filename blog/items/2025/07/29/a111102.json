@@ -1,0 +1,6 @@
+{
+    "text": "But what about Substack and Ghost? A lot of people do their writing there too? What about those people. Here's the cool part for all people who write on the web. The API we use in WordLand to hook up to WordPress is <a href=\"https://github.com/Automattic/wp-calypso/tree/trunk/packages/wpcom.js\">open and documented</a>. They don't break their APIs in WordPressLand. At least so far. You could say that API is a standard. And I bet it would be a lot easier for Ghost, for example, to support a limited subset of that API than it has been to get ActivityPub support implemented. Because the WordPress API is what I would call \"really simple,\" and that's the thing I value most about a good API.  ",
+    "created": "Tue, 29 Jul 2025 11:11:02 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
