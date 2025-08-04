@@ -1,0 +1,6 @@
+{
+    "text": "A basic question I had about the <a href=\"https://help.openai.com/en/articles/11752874-chatgpt-agent\">ChatGPT agents</a> that I can answer now that I have the feature, is whether or not the code you create can run on a server, where you can give it a URL and make it an endpoint other networked software can call. Or if it could run periodically, say once every five minutes for a function that was creating an RSS feed anyone could subscribe to. The answer is no -- it can't do either of these things. I'm sure they could do it at a technical level, but they don't want to host applications. But now I may understand better why they want to make a web browser, I bet you will be able to call these agents from apps that run in the browser. And in their case, they might not even have to support JavaScript? Heh. A wholly different programming model? Maybe I'm overestimating how much they're biting off? I wonder if anyone at OpenAI reads this blog and might want to get me in a tighter loop, so I can be among the first to try new features like this, rather than, in this case, among the very last.",
+    "created": "Sun, 03 Aug 2025 13:40:05 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
