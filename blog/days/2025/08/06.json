@@ -1,0 +1,23 @@
+{
+    "created": "2025-08-06T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "06",
+    "path": "2025/08/06",
+    "text": "August 06",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "A Brian Lehrer <a href=\"https://www.wnyc.org/story/segregation-at-nycs-specialized-high-schools/\">segment</a> on specialized <a href=\"https://en.wikipedia.org/wiki/Specialized_high_schools_in_New_York_City\">high schools</a> in NYC. I went to one of them, signed up for <a href=\"https://en.wikipedia.org/wiki/Specialized_High_Schools_Admissions_Test\">the test</a> mostly to get out of school for a day, and got in. Back in those days (the early 70s) no one studied for the test as far as I know. It has become very competitive and there's an issue of the racial makeup of the student body. As always Lehrer does a great podcast. ",
+            "created": "Wed, 06 Aug 2025 20:43:26 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2019/02/10/gumby.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Milestone: <a href=\"https://daytona.scripting.com/search?q=%22Chuck%20Shotton%22\">Chuck Shotton</a> got his FeedLand up today. That's why I spruced up <a href=\"https://lists.opml.org/\">lists.opml.org</a>, that's how we're connecting our servers. He's building this stuff to flow into his LLM via the <a href=\"https://github.com/scripting/feedlandSocket\">FeedLand websockets interface</a>. He'll be updated on my subscriptions, and have his own, and the news will flow into his AI system. All of it can emanate from anywhere RSS is supported with a focus on WordPress. It's the secret sauce. 😀 ",
+            "created": "Wed, 06 Aug 2025 20:42:22 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
