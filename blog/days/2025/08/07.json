@@ -1,0 +1,66 @@
+{
+    "created": "2025-08-07T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "07",
+    "path": "2025/08/07",
+    "text": "August 07",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "ChatGPT 5 is even <a href=\"https://daveverse.org/2025/08/07/chatgpt-5-is-even-more-of-a-bastard-than-4/\">more of a bastard</a> than 4. ",
+            "created": "Thu, 07 Aug 2025 19:51:07 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "That said, it got pretty far toward solving the problem I asked it to work on. Here's a <a href=\"https://this.how/chatGPT/newsExample1.opml\">demo of a page</a> it put together for me of the top 25 articles in US news.  ",
+            "created": "Thu, 07 Aug 2025 20:10:05 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "A summary of <a href=\"https://daveverse.org/2025/08/07/catching-up-with-wordland-land/\">recent work</a> via my WordLand blog.",
+            "created": "Thu, 07 Aug 2025 18:05:28 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "New version of <a href=\"https://github.com/scripting/feedlandSocket\">feedlandSocket</a>. It's now an NPM package you can include in Node projects. The demo is more useful, and there's a <a href=\"https://www.youtube.com/watch?v=_Q-ks3uytZI\">video</a> of what it looks like as it scrolls through the JavaScript console. WebSockets + feeds. A fairly important component of an open social web system. ",
+            "created": "Thu, 07 Aug 2025 17:34:03 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I wanted to put together a demo of a very simple but interesting Node.js app, so I hooked up with <a href=\"https://replit.com/\">replit</a>, and was surprised to find out that it's now an AI bot. But when I asked it to make a sandbox for this app, which is in a repo on GitHub, rather than take the direct route, and run the demo.js app (which is what I asked it to do), it concocted a pointless user interface, that hid all the interesting bits. This was a demo for programmers for crying out loud. I <i>want</i> to show them the machinery in motion. I'm going to try again today.",
+            "created": "Thu, 07 Aug 2025 11:22:39 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2019/02/09/punt.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I recorded a good podcast yesterday about how I develop new stuff like podcasting, and how it only works if there isn't a huge dominant platform vendor to FUD the project. That's why RSS worked, sort of -- we did get FUDded by the RDF folk, who had a few famous people on their list of co-authors, and it put a big scar on RSS when it was just starting to grow. We cleaned up their mess after a while, and then it boomed, thanks to the New York Times. This is what usually happens, in markets that are controlled by a big company. Google has that effect, so does Apple as does the W3C. They force everything to stop and go through a process that simply doesn't work, it doesn't yield innovation in the market, because it wasn't <a href=\"http://scripting.com/stories/2010/08/10/howToBootstrapFederated140.html\">bootstrapped</a>.  That's why I don't like the idea of \"Podcasting 2.0\" whatever it is. <a href=\"https://mastodon.social/@adam@podcastindex.social/114978962778121264\">Adam Curry says</a> on Masto that it's all a big misunderstanding, but that's what the RDF people said too. Who cares what the name is. Everyone cares, when it comes to the name of a standard or protocol. And when you have an Apple or Google or IETF  trying to confuse people about what you're doing, well you can't make any progress on interop. They freeze everything because users and developers will wait for them. Of course that's what \"Podcasting 2.0\" is all about. To make all the ideas flow through <a href=\"https://podcasting2.org/\">one place</a>. And whoever they are (ChatGPT <a href=\"https://imgs.scripting.com/2025/08/07/isTherePodcastingTwoPointOh.png\">says</a> it's Adam Curry btw) they didn't even bring the power of an Apple or Google to the table. They have nothing other than their aspiration to own the name of an open format and protocol that made the world a little happier for a while. For that of course someone has to try to own it. That's basically what I said, in a very long-winded way, in the podcast. I also talked about ways we could move forward anyway even though there is a 800-pound would-be gorilla trying to own our playground. Maybe I'll just release the podcast as-is and ask you all to indulge me for my need to say the same thing far too many times with so much vigor. :-)",
+            "created": "Thu, 07 Aug 2025 11:24:57 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "My uncle Ken",
+            "created": "Thu, 07 Aug 2025 13:02:51 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "This is a picture of my dear departed <a href=\"http://scripting.com/2020/04/28/212326.html?title=uncleKenAndAuntDorothy\">Uncle Vava</a> taken in the early 1970s in my parents' house in Flushing. It just showed up in my On This Day list on <a href=\"https://www.facebook.com/dave.winer.12/posts/pfbid0Bx7wYu7ouX1NKksrgxCVFMRQigCwkaxqKDTqeCHRCcJ1i2SPkrXhbUTZFMvKS9Prl?notif_id=1754565616420103&notif_t=feedback_reaction_generic&ref=notif\">Facebook</a>, thought it belongs on the blog too. .",
+                    "created": "Thu, 07 Aug 2025 13:03:41 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Ken Kiesler, in the early 70s, hamming it up at a family event. ",
+                    "created": "Thu, 07 Aug 2025 13:03:00 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2025/08/07/uncleVava.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
