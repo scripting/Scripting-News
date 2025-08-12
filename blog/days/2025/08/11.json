@@ -1,0 +1,23 @@
+{
+    "created": "2025-08-11T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "11",
+    "path": "2025/08/11",
+    "text": "August 11",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Fixed a bit of breakage on the <a href=\"http://scripting.com/?tab=links\">Links page</a> over the weekend. ",
+            "created": "Mon, 11 Aug 2025 13:45:29 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I want to work on the open web with other developers who make interesting products that we can hook up together to make new products. Or if users get an idea for linking two products, they can do it with scripting. It was a dream we had for the Mac, but it fell apart because Apple wanted to control everything. I find it's better when developers are free to work with each other, without interference from a big company like Apple. That's why \"platform without a platform vendor\" was the most important thing about the web. That and the utter simplicity of HTTP and HTML. We lost our way in the early-mid 00s when Twitter took over at the center of the blogosphere. Now you couldn't just work with other developers, first you had to work with Twitter and accept its limits. In one swoop we lost all the features listed on the <a href=\"https://textcasting.org/\">textcasting</a> page. I am betting everything on the idea that we can build a collaborative environment like the web was before, and that the Mac had the promise of being before that and at the same time create a fantastic <a href=\"https://daytona.scripting.com/search?q=%22writer%27s%20web%22\">writer's web</a>, far beyond what Twitter and twitter-like systems can do. ",
+            "created": "Mon, 11 Aug 2025 13:29:15 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2023/03/12/hamstercage.png",
+            "flInCalendar": true
+        }
+    ]
+}
