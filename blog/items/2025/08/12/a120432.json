@@ -1,0 +1,7 @@
+{
+    "text": "I had an hour to spare this morning so I decided for a third time to try to coax ChatGPT to play a role in a little drama I have in mind. I still want to use AI to power an RSS feed of news, customized to the interests of one person (me). My <a href=\"https://github.com/scripting/Scripting-News/issues/325#issuecomment-3179118706\">query</a> is this: \"Create a summary of the news, top 20 stories with an emphasis on these topics: how people are using AI, especially in education, blogging, US politics, science news, the NBA and MLB, with a slight emphasis on the Knicks and Mets. The results should be in JSON format, with each item including: A brief one sentence summary, publication date and a link to a source where the reader can get more info. My software will then create an RSS feed with this information..\" The response was basically: \"I'm sorry Dave.\" Groan. Here are <a href=\"https://github.com/scripting/Scripting-News/issues/325#issuecomment-3179036482\">the details</a>.",
+    "created": "Tue, 12 Aug 2025 12:04:32 GMT",
+    "type": "outline",
+    "image": "https://imgs.scripting.com/2020/08/20/dave.png",
+    "flInCalendar": true
+}
