@@ -1,0 +1,7 @@
+{
+    "text": "If you're trying to read any of my <a href=\"https://github.com/scripting?tab=repositories\">code</a> via GitHub, make sure to open <a href=\"https://github.com/scripting/feedlandSocket/blob/main/source.opml\">source.opml</a> in \"Drummer\", there are a lot of notes that don't make it through to the .js and .css files. I don't think I've ever said that on the blog before. I write my code in an outliner, and take advantage of its ability to collapse long comments into a single line. There are whole blogs at the top of some functions, notes about all the big changes in code, sometimes over years, and sometimes even decades of maintenance.  There's a <a href=\"https://github.com/scripting/reallysimple/blob/main/source.opml\">source.opml</a> in most of the repos with a big comment at the top explaining what's going on. Also, most projects have a <a href=\"https://github.com/scripting/reallysimple/blob/main/worknotes.md\">worknotes.md</a> file, and where there are dates in the source code, the refer back to dates in the worknotes.md file. Not always, but most of the time. Some of the code is very complex, I work really hard to make it simple so it can be worked on, but in some cases it's impossible to make it read casually. But it's all there, all the tools I use to write the code. ",
+    "created": "Wed, 13 Aug 2025 12:33:30 GMT",
+    "type": "outline",
+    "image": "https://imgs.scripting.com/2025/08/13/clarus.png",
+    "flInCalendar": true
+}
