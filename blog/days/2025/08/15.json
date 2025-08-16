@@ -1,0 +1,23 @@
+{
+    "created": "2025-08-15T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "15",
+    "path": "2025/08/15",
+    "text": "August 15",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "The big corner-turn is working. Here's a <a href=\"https://github.com/scripting/Scripting-News/issues/326\">screen shot</a>. ",
+            "created": "Fri, 15 Aug 2025 17:32:45 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I like documentaries about climbing Mt Everest, but I absolutely hate watching people climb <a href=\"https://en.wikipedia.org/wiki/El_Capitan\">El Capitan</a>. Then I realized that sometimes in software I'm climbing a cliff that's too tall to climb in one session, so I have to carry a tent and backpack with food and water. I hate this kind of programming more than anything, because it comes from not having a high-level enough runtime to support me in big corner turns. Or not having invested enough time in creating a layer I can build on. Anyway I'm in the middle of one of those corner-turns now. Hell has not broken loose although at times it looks like it might have. I'm being sure not to create another mess that needs to be cleaned up in the future. Not stressful, but I'd rather be doing anything but this. :-)",
+            "created": "Fri, 15 Aug 2025 15:11:59 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2025/08/15/highwireact.png",
+            "flInCalendar": true
+        }
+    ]
+}
