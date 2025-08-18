@@ -1,0 +1,56 @@
+{
+    "created": "2025-08-17T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "17",
+    "path": "2025/08/17",
+    "text": "August 17",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "The <a href=\"http://scripting.com/images/2025/08/17/freshArtDaily.png\">new header graphic</a> is gift from Stan Krute at <a href=\"https://freshartdaily.com/\">Fresh Art Daily</a>. ",
+            "created": "Sun, 17 Aug 2025 17:39:33 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "We're in the <a href=\"https://daytona.scripting.com/search?q=doldrums\">doldrums</a> of summer. It's hot and muggy, but I am where you want to be this time of year, in the Catskill Mountains, where there's lots to do outdoors, the peaches are fantastic right now, apples coming soon. I'm working a few hours a day on the integration of writing and timelines built around feeds. Instead of using Bluesky or Mastodon, with their limits, we use WordPress for storage. It has none of their limits, has a high performance open source server back-end, debugged complete API, it's not without problems, but far ahead of where the competition is in terms are reliablity and ease of implementation. <i>To be part of this network, all you need is an RSS feed. </i>Seems pretty openly billionaire-proof wouldn't you say. ",
+            "created": "Sun, 17 Aug 2025 14:32:33 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2019/11/14/weTryHarder.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Billionaire-proof and RSS",
+            "created": "Sun, 17 Aug 2025 21:40:12 GMT",
+            "type": "outline",
+            "metaImage": "http://scripting.com/images/2025/03/11/robberBarons.png",
+            "subs": [
+                {
+                    "text": "I would like to get on the record. ",
+                    "created": "Sun, 17 Aug 2025 21:39:04 GMT",
+                    "type": "outline",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "The only <a href=\"https://daytona.scripting.com/search?q=%22billionaire-proof%22\">billionaire-proof</a> social network will be based on RSS. ",
+                            "created": "Sun, 17 Aug 2025 21:40:25 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "The shortest path to being <a href=\"https://billionaireproof.com/\">billionaire-proof</a> for Bluesky is well thought-out inbound and outbound RSS. ",
+                            "created": "Sun, 17 Aug 2025 21:40:29 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "We're going to have some interop based on RSS not too far down the road. A network that will only require an RSS feed for entry. It's what we should've built in 2006 and didn't. ",
+                    "created": "Sun, 17 Aug 2025 21:42:34 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
