@@ -1,0 +1,29 @@
+{
+    "created": "2025-08-18T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "18",
+    "path": "2025/08/18",
+    "text": "August 18",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I've been watching <a href=\"https://tv.bingeworthy.org/?id=https%3A%2F%2Fwww.metacritic.com%2Ftv%2Fthe-dropout%2F\">The Dropout</a> on Hulu. It's hard to watch at times, because the <a href=\"https://en.wikipedia.org/wiki/Elizabeth_Holmes\">main character</a> of the show, a Silicon Valley entrepreneur, is such a horrible person. She lies to everyone about everything, but she's cute and the VCs like her, so they pump hundreds of millions of dollars into her startup, <a href=\"https://en.wikipedia.org/wiki/Theranos\">Theranos</a>, which was a real company, and made a product that never worked, but she doesn't get around to telling anyone that, including the board of directors, until long after it's too late. I haven't reached the end yet, but I know how it ends, because it's based on a true story. She ends up in the same <a href=\"https://en.wikipedia.org/wiki/Federal_Prison_Camp,_Bryan\">prison</a> that <a href=\"https://en.wikipedia.org/wiki/Ghislaine_Maxwell\">Ghislaine Maxwell</a> is in, in Texas. The only reason I mention it is that in my tenure in Silicon Valley, about 30 years worth, I saw everything she did, done by other entrepreneurs and VCs, in real life. Only now, in the second Trump administration, its craptitude is maxed out far beyond anything I saw personally. They're selling the biggest lie yet, that they've invented machines that think. This is not true, and it's so big a lie, its too-big-to-fail quotient is far higher than anything we've seen before. ChatGPT should stop pretending to be human because that will destroy real humans who believe it. But the euphoria is so great, they're probably going to continue to insist it is capable of thought, and that leads to something far worse than Theranos, or any of the other billion-dollar scams they have foisted on us previously. ",
+            "created": "Mon, 18 Aug 2025 12:49:16 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2019/10/09/mrBurns.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I want to switch cell providers, so I used ChatGPT to figure out that Consumer Cellular is the best choice for me. I finally get around to filling in the form, and it complains about my zip code. \"No service.\" Yes I know, there's no cell coverage where I live. I still need a freaking cell phone. Called them, the sales person says maybe it's a problem with your computer. Geez Louise. It's a problem with <i>your</i> computer. How many years have they had to fix this stupid bug. I could see if I was buying a landline. But this is a <i>mobile</i> device. That means it moves. To places with cell coverage.",
+            "created": "Mon, 18 Aug 2025 17:47:17 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "What if you made a social network out of RSS? Then your blogroll would be the list of people you follow. Their updates would show up in a reverse chronologic list of posts that would look like something from <a href=\"https://imgs.scripting.com/2025/08/18/timelinesnapshot.png\">Bluesky</a> or <a href=\"https://imgs.scripting.com/2025/08/18/timelinetwitter.png\">Twitter</a>. You could view a <a href=\"https://imgs.scripting.com/2025/08/18/timeline.png\">list</a> of the people you follow, and expand each person to see their most recent five posts, summarized, with a link to each to read the whole thing. Since there are no limits to the length of a post in RSS there would be no limit to the length of one of these posts, but of course you wouldn't show all the text in the timeline without the reader clicking on something.",
+            "created": "Mon, 18 Aug 2025 13:24:42 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
