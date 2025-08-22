@@ -1,0 +1,50 @@
+{
+    "created": "2025-08-21T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "21",
+    "path": "2025/08/21",
+    "text": "August 21",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Podcast: <a href=\"https://shownotes.scripting.com/scripting/2025/08/21/birdFightInThePond.html\">Bird fight on the pond</a>.",
+            "created": "Thu, 21 Aug 2025 13:48:43 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Robots need not apply",
+            "created": "Thu, 21 Aug 2025 16:09:47 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "If you got spammed by <a href=\"https://subscribe.scripting.com/\">subscribe.scripting.com</a> today, my apologies. ",
+                    "created": "Thu, 21 Aug 2025 16:05:52 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "There's now another step in subscribing that should prevent spammy emails from being sent. ",
+                    "created": "Thu, 21 Aug 2025 16:14:29 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "And as a result of the spamming we're now being rate-limited by our email service provider, which is totally legit. ",
+                    "created": "Thu, 21 Aug 2025 16:11:50 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Hopefully at some point they will let us resume sending emails, at least in time for tonight's email.  ",
+                    "created": "Thu, 21 Aug 2025 16:11:56 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Please verify your humanity. ",
+                    "created": "Thu, 21 Aug 2025 16:10:01 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2025/08/21/areYouARobotOrNot.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
