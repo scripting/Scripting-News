@@ -1,0 +1,6 @@
+{
+    "text": "<a href=\"https://github.com/scripting/reallysimple/blob/main/worknotes.md#82225-93006-am-by-dw----v051\">Update</a> to the <a href=\"https://github.com/scripting/reallysimple\">reallySimple</a> package. We now look for feeds from wordpress sites, and copy the site ID and the ID for each post as channel-level <i>wpSiteId</i> and item-level <i>wpPostId. </i><a href=\"https://feeder.scripting.com/?feedurl=https%3A%2F%2Fdaveverse.org%2Ffeed%2F\">Example</a>. This will make <a href=\"https://daytona.scripting.com/search?q=%22Edit%20This%20Page%22\">Edit This Page</a> functionality possible in the <a href=\"https://oursocialweb.org/\">social web</a> product I'm building now. This is fairly technical stuff, but important. I've come to see WordPress as an integral part of the web. Making the connection between a feed and the info needed to edit an item is a big usability feature. Next up, adding the equivalent feature at the <a href=\"https://github.com/scripting/feedlandInstall/blob/main/docs/setup.sql\">FeedLand level</a> (reallySimple is how it does its feed reading). Remember, this is the feed-o-verse, it's all feeds, top to bottom. Posts in some feeds can be edited. :-)",
+    "created": "Fri, 22 Aug 2025 14:48:42 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
