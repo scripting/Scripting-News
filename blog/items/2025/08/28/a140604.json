@@ -1,0 +1,111 @@
+{
+    "text": "Think Different about WordPress",
+    "created": "Thu, 28 Aug 2025 14:06:04 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Steve Jobs asked you to <a href=\"https://en.wikipedia.org/wiki/Think_different\">think differently</a> about computers. ",
+            "created": "Thu, 28 Aug 2025 14:06:15 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm going to ask <a href=\"https://www.youtube.com/watch?v=tjgtLSHhTPg\">you</a> to think differently about WordPress. ",
+            "created": "Thu, 28 Aug 2025 14:06:30 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I'm not going to make you wait to hear what it is. I want you to see WordPress as comparable to Bluesky or Mastodon. ",
+            "created": "Thu, 28 Aug 2025 14:06:45 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've done this before -- asked people to think differently about things, like public writing, with blogging. In the 90s I was running around the Vallley trying to explain to everyone that blogging was going to change everything, all I got was blank stares from people who said \"we don't do that.\" They of course eventually did do it. But at first the ideas seemed foreign, unreasonable.",
+            "created": "Thu, 28 Aug 2025 14:24:51 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I did it with \"RSS\" and podcasting. We needed to seed these things, get the ideas in front of people with actual products, with real utility for users. And eventually they came around. ",
+            "created": "Thu, 28 Aug 2025 14:25:48 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Now I'm going to ask you to think differently about WordPress, something you thought you already fully understood. ",
+            "created": "Thu, 28 Aug 2025 14:26:34 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Internally, the software, WordPress, Mastodon, Bluesky, do a lot of the same things. But because WordPress is so long-lived relative to the other two, it's more complete, scaled, it federates easily, lots of people do it. ",
+            "created": "Thu, 28 Aug 2025 14:07:03 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "It has <a href=\"https://textcasting.org/\">important features</a> the other two don't, although some Mastodon instances are more relaxed about character limits, linking, titles on posts and editing. These are important features. But because the <a href=\"https://mastodon.social/home\">mother ship</a> doesn't support all of them, it's hard to represent it without the limits. This can be fixed easily, btw. Just being analytic about it. I like Mastodon and ActivityPub because they provide interop, and that's the name of the game. Make your product but don't lock users in. Interop is your way out if you need to get out. ;-)",
+            "created": "Thu, 28 Aug 2025 14:08:01 GMT",
+            "image": "https://imgs.scripting.com/2025/08/28/thinkDifferentBillboard.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "WordPress has excellent support for \"RSS\", esp using a little-known feature called <a href=\"https://this.how/rssCloud/\">rssCloud</a>. It enables realtime notification of new or changed feed items. It's been around since 2009, and like all of WordPress, it's thorougly debugged and scaled. I use it in \"FeedLand\" and \"WordLand\". If you watch the blogroll on <a href=\"http://scripting.com/\">scripting.com</a> on the web, you'll see it in action. Or if you read <a href=\"https://news.scripting.com/\">news.scripting.com</a>, leave it running and watch the new items show up in realtime without you having to do anything. That's rssCloud. ",
+            "created": "Thu, 28 Aug 2025 14:09:36 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "WordPress has a deep and powerful <a href=\"https://github.com/Automattic/wpcom.js/tree/master/docs\">API</a>, well designed, documented, and they don't break it. Developers who know me know that the last part is the most important. A <a href=\"http://scripting.com/davenet/1995/08/22/whatisaplatform.html\">platform</a> must remain unchanging. That means you have to put in a lot of thought up front, and then live with your mistakes, providing <a href=\"https://daytona.scripting.com/search?q=continuity\">continuity</a>.",
+            "created": "Thu, 28 Aug 2025 14:10:33 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The API has barely been used by developers. Huge amount of potential there. ",
+            "created": "Thu, 28 Aug 2025 14:11:43 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's open source, of course. ",
+            "created": "Thu, 28 Aug 2025 14:12:09 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "It has a large support industry built around it, you can get a lot of help in setting up and running an instance. ",
+            "created": "Thu, 28 Aug 2025 15:23:14 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "And I, Dave Winer, am part of this now, have been for a couple of years, working relatively quietly, building out what I think WordPress needs to get started in this new direction. I am going to help bootstrap a great developer community around all these capabilities. This is something people didn't count on. I have an incredible track record of establishing popular APIs and developer communities. I know how to do this, even wrote a <a href=\"https://this.how/standards/\">guide</a> to how to do it, which apparently has helped other developers create and work on open platforms. ",
+            "created": "Thu, 28 Aug 2025 14:31:13 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I've done three things that will help the bootstrap. ",
+            "created": "Thu, 28 Aug 2025 14:19:45 GMT",
+            "subs": [
+                {
+                    "text": "<b>Apps</b>. Like MacWrite and MacPaint, someone has to go first, to share basic ideas about how the user interface will work.",
+                    "created": "Thu, 28 Aug 2025 14:13:53 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A <b>storage service</b> where the user owns their writing, so it can be edited by any app they give permission to. This means that app developers don't have to be resellers of storage. This is the biggest economic limiting factor to a large innovative, truly entrepreneurial developer community. Every other network arrangement requires you to raise money or be fearful of having huge support and monetary overhead if you attract too many users. When the Mac market booted up it had none of these limits, the users bought the hardware, we made the software. The web has <i>never</i> had the equivalent runtime environment. I'm going to run the server for you to get the bootstrap going. My treat. Until we can get help from infrastructure owners to host the service. And if you want to host it for yourself, it's open source, so you will be able to, without anyone's permission.",
+                    "created": "Thu, 28 Aug 2025 14:14:21 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<b>Content</b>. We won't have to wait for new writers to start using my service. Thanks to RSS there will be plenty of feeds in a form that is surprisingly like the data that flows through the other systems. We will carry writing from Substack and Ghost, for example. ",
+                    "created": "Thu, 28 Aug 2025 14:18:22 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "Finally, in the WordPress world I have to tell you how I feel about the 800-pound gorilla, Automattic. Whatever you think -- key point -- <i>they didn't lock you in.</i> The community, which I'm just getting to know is very circumspect about everything and that's good and right. It's based on the reality that you never know when or how you're going to lose your freedom, so you always have to watch out. I have looked at this from the inside, from the API and the history, and I've gotten to know a few people at the company, and I trust certain things about them. I don't think they'll necessarily listen to you, or me -- and they can get in the way, but I'm willing to take a chance that they won't.  They've kept their open source promise and they run a stable platform. Linux is that way, it offers that kind of stability, and so does WordPress. Much of the world, myself included, haven't paid much attention to WordPress and we have only used a small fraction of its potential. I'm going to try to build on and unlock for other developers, a whole new side of the platform.",
+            "created": "Thu, 28 Aug 2025 14:21:00 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "One more thing you should know -- I'm not in it for the money. I just want to help the web heal from all the abuses  it has taken over the years. They took paradise and blew big holes in it that users couldn't find a way out of. They undermined open formats and protocols. They lied to the users, all the time, over and over. Now I don't object to making money, but I'm putting it out there, you can compete with me, I want you to compete with me, as long as you don't try to cut off the interop. And I'm not naive, believe me, I expect that will happen. ",
+            "created": "Thu, 28 Aug 2025 14:19:50 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
