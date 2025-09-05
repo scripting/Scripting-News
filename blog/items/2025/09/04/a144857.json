@@ -1,0 +1,6 @@
+{
+    "text": "ChatGPT might not give you the best answer. Yesterday I hit a problem with the MySQL hosting service, and as we worked it out, ChatGPT and me, I ended up contacting the ISP's support asking them to restart the server, something I cannot do through the control panel. They don't do that, and made a couple of suggestions which didn't seem to make sense based on what ChatGPT had told me. So I tried what they suggested and it worked, and went back to ChatGPT and asked what it thought, and it said yes of course that worked, and would you like me to show you how to do it even better. I guess it takes a path and never goes back to see if there isn't a better one. We've been through this before. Anyway, always be circumspect about it's advice, it's not just hallucinations you need to watch for. That said, with help from both ChatGPT and Digital Ocean, I now have a better setup, and it should run without the problem we hit yesterday. ",
+    "created": "Thu, 04 Sep 2025 14:48:57 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
