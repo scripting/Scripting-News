@@ -1,0 +1,16 @@
+{
+    "created": "2025-09-05T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "05",
+    "path": "2025/09/05",
+    "text": "September 05",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I upgraded <a href=\"https://feedland.org/\">feedland.org</a> to a new version of the system software, still being tested. In the process I started a fresh items table. This means for the next day or so your timeline may have a lot of items for a few feeds, as it catches up with every feed it keeps track of. The server was down for a couple of hours while we did the upgrade. Still diggin! ;-) ",
+            "created": "Fri, 05 Sep 2025 14:57:20 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
