@@ -1,0 +1,48 @@
+{
+    "text": "New version of FeedLand",
+    "created": "Sat, 06 Sep 2025 13:22:04 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "There's a new version of FeedLand, v0.7.0. ",
+            "created": "Sat, 06 Sep 2025 13:22:09 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's the <a href=\"https://github.com/scripting/feedlandInstall/issues/68\">thread</a> where we discussed the testing of the new release. It worked everywhere we installed it, so it seems fair to open it up to people running their own FeedLand instances. ",
+            "created": "Sat, 06 Sep 2025 13:22:24 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The only features it adds are ones needed to use it with the new version of \"WordLand\", coming soon now. ",
+            "created": "Sat, 06 Sep 2025 13:23:46 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "But if you have the time, it requires an update to the database, so it's not the usual thing. It explains at the beginning of the thread what the change is to the database. ",
+            "created": "Sat, 06 Sep 2025 13:28:28 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here are the <a href=\"https://github.com/scripting/feedlandInstall/blob/main/docs/sep2025transition.md\">instructions</a> for doing the upgrade. ",
+            "created": "Sat, 06 Sep 2025 13:24:56 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you're installing a new instance, the <a href=\"https://github.com/scripting/feedlandInstall/blob/main/docs/setup.md\">instructions</a> are the same as always.",
+            "created": "Sat, 06 Sep 2025 13:27:00 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "If you have trouble, post a note on the <a href=\"https://github.com/scripting/feedlandInstall/issues/68\">thread</a>.",
+            "created": "Sat, 06 Sep 2025 13:25:18 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Thanks to Scott Hanson for validating the new version. It's always important to have someone to check my work. ",
+            "created": "Sat, 06 Sep 2025 13:25:51 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
