@@ -1,0 +1,83 @@
+{
+    "text": "About feedland.org",
+    "created": "Sat, 06 Sep 2025 12:24:34 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "Yesterday's <a href=\"http://scripting.com/2025/09/05.html#a145720\">note</a> on scripting.com about feedland.org was not the whole story. In the end I thought it made more sense to start the database over from the start.  ",
+            "created": "Sat, 06 Sep 2025 12:24:50 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "There were a few users who subscribed to feeds that were constantly updating, and they never came back to use FeedLand. So as soon as I started it back up it started loading new items at a very high rate, and after a couple of hours it was still going. There aren't that many people using feedland.org, so I thought the best thing to do is to start over and hopefully people will figure out how to resubscribe to the feeds they want to follow. ",
+            "created": "Sat, 06 Sep 2025 12:25:25 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Then I felt that people might be able to use a few tips on how to get going again, so that's what this post is about. ",
+            "created": "Sat, 06 Sep 2025 12:26:53 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<b>Sign off and on</b>",
+            "created": "Sat, 06 Sep 2025 12:27:17 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "First thing you should do is sign off and sign back on. ",
+            "created": "Sat, 06 Sep 2025 12:28:13 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "You will still have the credentials in your browser, but the server doesn't know about them, so when you try to do something that requires you being logged in it will fail. But if you sign off and on again, that will take care of that problem. ",
+            "created": "Sat, 06 Sep 2025 12:28:55 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "To sign off, choose the command in the system menu at the right end of the menubar. ",
+            "created": "Sat, 06 Sep 2025 12:29:50 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Once you're signed off the only option will be to sign back on. :-)",
+            "created": "Sat, 06 Sep 2025 12:42:37 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://imgs.scripting.com/2025/09/06/signoff.png\">Screen shot</a>.",
+            "created": "Sat, 06 Sep 2025 12:30:07 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<b>Restore subscription list</b>",
+            "created": "Sat, 06 Sep 2025 12:36:38 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "How to restore from a backup of your subscription list.",
+            "created": "Sat, 06 Sep 2025 12:36:44 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "From the first menu, choose Subscribe/From an OPML File.",
+            "created": "Sat, 06 Sep 2025 12:47:33 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Here's a <a href=\"https://imgs.scripting.com/2025/09/06/subscribeToOpml.png\">screen shot</a>.",
+            "created": "Sat, 06 Sep 2025 12:39:26 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "<b>Questions?</b>",
+            "created": "Sat, 06 Sep 2025 12:39:53 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I started a <a href=\"https://github.com/scripting/feedlandSupport/issues/248\">thread</a> on the support site for questions.",
+            "created": "Sat, 06 Sep 2025 12:39:57 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
