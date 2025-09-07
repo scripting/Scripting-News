@@ -1,0 +1,141 @@
+{
+    "created": "2025-09-06T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "06",
+    "path": "2025/09/06",
+    "text": "September 06",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "New version of FeedLand",
+            "created": "Sat, 06 Sep 2025 13:22:04 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "There's a new version of FeedLand, v0.7.0. ",
+                    "created": "Sat, 06 Sep 2025 13:22:09 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's the <a href=\"https://github.com/scripting/feedlandInstall/issues/68\">thread</a> where we discussed the testing of the new release. It worked everywhere we installed it, so it seems fair to open it up to people running their own FeedLand instances. ",
+                    "created": "Sat, 06 Sep 2025 13:22:24 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The only features it adds are ones needed to use it with the new version of \"WordLand\", coming soon now. ",
+                    "created": "Sat, 06 Sep 2025 13:23:46 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But if you have the time, it requires an update to the database, so it's not the usual thing. It explains at the beginning of the thread what the change is to the database. ",
+                    "created": "Sat, 06 Sep 2025 13:28:28 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here are the <a href=\"https://github.com/scripting/feedlandInstall/blob/main/docs/sep2025transition.md\">instructions</a> for doing the upgrade. ",
+                    "created": "Sat, 06 Sep 2025 13:24:56 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If you're installing a new instance, the <a href=\"https://github.com/scripting/feedlandInstall/blob/main/docs/setup.md\">instructions</a> are the same as always.",
+                    "created": "Sat, 06 Sep 2025 13:27:00 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "If you have trouble, post a note on the <a href=\"https://github.com/scripting/feedlandInstall/issues/68\">thread</a>.",
+                    "created": "Sat, 06 Sep 2025 13:25:18 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Thanks to Scott Hanson for validating the new version. It's always important to have someone to check my work. ",
+                    "created": "Sat, 06 Sep 2025 13:25:51 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "About feedland.org",
+            "created": "Sat, 06 Sep 2025 12:24:34 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Yesterday's <a href=\"http://scripting.com/2025/09/05.html#a145720\">note</a> on scripting.com about feedland.org was not the whole story. In the end I thought it made more sense to start the database over from the start.  ",
+                    "created": "Sat, 06 Sep 2025 12:24:50 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "There were a few users who subscribed to feeds that were constantly updating, and they never came back to use FeedLand. So as soon as I started it back up it started loading new items at a very high rate, and after a couple of hours it was still going. There aren't that many people using feedland.org, so I thought the best thing to do is to start over and hopefully people will figure out how to resubscribe to the feeds they want to follow. ",
+                    "created": "Sat, 06 Sep 2025 12:25:25 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Then I felt that people might be able to use a few tips on how to get going again, so that's what this post is about. ",
+                    "created": "Sat, 06 Sep 2025 12:26:53 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<b>Sign off and on</b>",
+                    "created": "Sat, 06 Sep 2025 12:27:17 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "First thing you should do is sign off and sign back on. ",
+                    "created": "Sat, 06 Sep 2025 12:28:13 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You will still have the credentials in your browser, but the server doesn't know about them, so when you try to do something that requires you being logged in it will fail. But if you sign off and on again, that will take care of that problem. ",
+                    "created": "Sat, 06 Sep 2025 12:28:55 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "To sign off, choose the command in the system menu at the right end of the menubar. ",
+                    "created": "Sat, 06 Sep 2025 12:29:50 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Once you're signed off the only option will be to sign back on. :-)",
+                    "created": "Sat, 06 Sep 2025 12:42:37 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<a href=\"https://imgs.scripting.com/2025/09/06/signoff.png\">Screen shot</a>.",
+                    "created": "Sat, 06 Sep 2025 12:30:07 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<b>Restore subscription list</b>",
+                    "created": "Sat, 06 Sep 2025 12:36:38 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "How to restore from a backup of your subscription list.",
+                    "created": "Sat, 06 Sep 2025 12:36:44 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "From the first menu, choose Subscribe/From an OPML File.",
+                    "created": "Sat, 06 Sep 2025 12:47:33 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Here's a <a href=\"https://imgs.scripting.com/2025/09/06/subscribeToOpml.png\">screen shot</a>.",
+                    "created": "Sat, 06 Sep 2025 12:39:26 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<b>Questions?</b>",
+                    "created": "Sat, 06 Sep 2025 12:39:53 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I started a <a href=\"https://github.com/scripting/feedlandSupport/issues/248\">thread</a> on the support site for questions.",
+                    "created": "Sat, 06 Sep 2025 12:39:57 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
