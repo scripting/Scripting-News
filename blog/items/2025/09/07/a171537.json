@@ -1,0 +1,6 @@
+{
+    "text": "<a href=\"https://socketdemo.feedland.org/\">New demo app</a>. FeedLand communicates back to the client app via websockets. This is absolutely the easiest way to get flow from feeds to apps running on servers or in a browser, or other desktop app. <a href=\"https://en.wikipedia.org/wiki/WebSocket\">Websockets</a> is a mature <a href=\"https://websockets.spec.whatwg.org/\">standard</a>, and incredibly useful. I'm now working on a toolkit for it, along with all the other projects going on in parallel, so other developers can hook into \"FeedLand\" to get the flow of new items. The <a href=\"https://socketdemo.feedland.org/\">demo</a> shows you the JSON version of every news item as it appears on the wire. There's no limit to the kinds of apps you can build for this. My <a href=\"https://daytona.scripting.com/search?q=%22Chuck%20Shotton%22\">friend</a> Chuck Shotton has a market-predicting LLM app that gets its news this way. Nothing to install on a server. FeedLand does all the work. I expect to have a toolkit out sometime in the few weeks. ",
+    "created": "Sun, 07 Sep 2025 17:15:37 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
