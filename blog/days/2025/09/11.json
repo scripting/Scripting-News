@@ -1,0 +1,69 @@
+{
+    "created": "2025-09-11T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "11",
+    "path": "2025/09/11",
+    "text": "September 11",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "It's really simple",
+            "created": "Thu, 11 Sep 2025 12:39:36 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Reminder: <a href=\"http://scripting.com/2022/09/18.html\">Sept 18</a>, one week from today, is the 3rd anniversary of the 20th anniversary of the release of RSS 2.0. I often forget to mark that day. It's not an event that's marked by others very often, but in my humble opinion, it deserves more respect than it gets. ",
+                    "created": "Thu, 11 Sep 2025 12:29:24 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Around the time of the <a href=\"http://scripting.com/2022/09/18.html\">20th anniversary</a> I decided to swing back and see what more we could do with RSS. It had been sitting there basically going nowhere for most of those 20 years. I want to be clear, there were good and useful products created and supported, but there was none of the innovation that would have happened if it hadn't been so severely injured by Google and the many VC-backed startups hacking away at it.",
+                    "created": "Thu, 11 Sep 2025 12:53:18 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A format like \"RSS\" has to be loved. And if you make it too complicated or vague, with too much political shuffling of the deck what you get is ActivityPub. That's what RSS would have become if it went down the path the tech industry wanted to take it down. We have a perfect artifact to look at. An A-B comparison. Couldn't be more stark. And, after almost 23 years, RSS is still simple.",
+                    "created": "Thu, 11 Sep 2025 12:41:32 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Anyway, around the 20th anniversary, in the leadup to it, I decided if no one else was going to invest in RSS, I would, and let's see what comes of it.",
+                    "created": "Thu, 11 Sep 2025 12:42:42 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The result was \"FeedLand\" which is fundamentally different from all the other feed readers in that its subscription model is patterned after the twitter-like social media apps. Everyone's subscription list is public. I can look at your list and you can look at mine. You can also put categories on the feeds you subscribe to and route them to other servers doing other things, through the magic of the web. And get this -- you can even subscribe to a category of my subscriptions. Lots of power there, but still it's simple.",
+                    "created": "Thu, 11 Sep 2025 12:43:17 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "FeedLand is the perfect back-end for a twitter-like system, for the feeds part. And for the words, the perfect back-end is <a href=\"http://scripting.com/2025/08/28/140604.html\">WordPress</a>. I only discovered that about 1.5 years ago. And I had to see what it looks like. No more <a href=\"http://scripting.com/2024/01/14/031201.html\">tiny little text boxes</a>, WordLand is a <a href=\"https://this.how/wordland/\">real editor</a> that supports the basic writing features of the web. How do I know? Because it saves its data in <a href=\"https://www.markdownguide.org/cheat-sheet/\">Markdown</a>. That has come to be the defining format for the text-based web. One which has been totally ignored by the twitter-like systems. Markdown is like MP3. If you're mixing <a href=\"http://scripting.com/2025/08/20/141957.html\">sound into feeds</a> you use MP3 of course. It's there for you to use. As was Markdown. If you're mixing text you're mixing Markdown. ",
+                    "created": "Thu, 11 Sep 2025 12:45:40 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So while everyone was dancing on Twitter's <a href=\"https://en.wikipedia.org/wiki/Dumpster_fire\">dumpster fire</a> of a social network I decided to build on something much bigger. The web. RSS and <a href=\"https://www.markdownguide.org/cheat-sheet/\">Markdown</a>. WordPress and FeedLand. ",
+                    "created": "Thu, 11 Sep 2025 12:47:46 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The name <i>Really Simple Syndication</i> is supposed to make you smile, while most techie formats make you want to pull your hair out. RSS reads pretty well even if you know nothing about feeds and XML. I wish the browser people hadn't insisted on masking it with ugly CSS style sheets. I like lifting the hood of a car to see what's there even though I don't know what many of the things in there do. I learn by doing it. ",
+                    "created": "Thu, 11 Sep 2025 12:48:41 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "RSS isn't ugly, it's brilliant, and shouldn't be fear-inducing, hence the promise: it's really simple.",
+                    "created": "Thu, 11 Sep 2025 13:55:02 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "\"curly\"",
+                    "created": "Thu, 11 Sep 2025 13:55:27 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
