@@ -1,0 +1,63 @@
+{
+    "text": "feedland.org or feedland.com?",
+    "created": "Mon, 15 Sep 2025 14:07:03 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "This question has come up quite a bit lately. ",
+            "created": "Mon, 15 Sep 2025 14:07:10 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "People don't know that there are two places you can use FeedLand, feedland.org and feedland.com.",
+            "created": "Mon, 15 Sep 2025 14:09:48 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "There's a lot of history here, and some uncertainty about the future, so there's not much I can do other than explain the situation.",
+            "created": "Mon, 15 Sep 2025 14:10:16 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "First you're welcome to use either of them. ",
+            "created": "Mon, 15 Sep 2025 14:10:40 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "feedland.org is running on a simple small server on Digital Ocean, and feedland.com is on Automattic's VIP network. ",
+            "created": "Mon, 15 Sep 2025 14:10:49 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "If feedland.org gets overloaded, it gets slow. ",
+            "created": "Mon, 15 Sep 2025 14:11:25 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "if feedland.com gets overloaded, it adds more servers and should stay about the same at all times. ",
+            "created": "Mon, 15 Sep 2025 14:17:24 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "You should pick one and use it and not have two accounts, but people accidentally create them, because in some places we point to .com and in others we the default is .org. It's because we haven't gotten it together yet. ",
+            "created": "Mon, 15 Sep 2025 14:12:35 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "There are also performance issues on .com -- ones that we still need to address. ",
+            "created": "Mon, 15 Sep 2025 14:13:40 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "That's about all I can say at this point. At the same time I'm working on a whole other product while all this is happening, and I'm not that young, and really can only work so many hours a day before I have to stop. A fact. ",
+            "created": "Mon, 15 Sep 2025 14:08:34 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "And I'm really glad so many new people are trying FeedLand. I use it myself in so many ways. And it will be deeply integrated with WordLand in the next release. I'm not kidding. ",
+            "created": "Mon, 15 Sep 2025 14:15:00 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
