@@ -1,0 +1,65 @@
+{
+    "created": "2025-09-18T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "18",
+    "path": "2025/09/18",
+    "text": "September 18",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://imgs.scripting.com/2025/09/18/disneystock.png\">Disney stock</a> down 1.1% at 11:30AM Eastern, indicating that in the opinion of shareholders, the first amendment isn't that big a deal for a media company. ",
+            "created": "Thu, 18 Sep 2025 15:37:29 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I got a few good <a href=\"https://github.com/scripting/wordlandSupport/issues/107\">error reports</a> and that led to an easy fix. So if <a href=\"http://scripting.com/2025/09/17.html#a191912\">you had a problem</a> creating a new post on \"WordLand\" could you please try again and <a href=\"https://github.com/scripting/wordlandSupport/issues/107\">report</a> any problems, or success. <i>Thanks!</i>",
+            "created": "Thu, 18 Sep 2025 14:50:17 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2025/09/18/gorilla.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "When Paramount said firing Colbert was financial, I think they were telling the truth. Unless they dumped Colbert the $8 billion <a href=\"https://en.wikipedia.org/wiki/Merger_of_Skydance_Media_and_Paramount_Global\">deal</a> with the Ellisons wouldn't happen. So it was Colbert or $8 billion. They went for the money. Pretty sure it's the same thing with ABC and Kimmel. ",
+            "created": "Thu, 18 Sep 2025 13:02:58 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Test post test post test post test post test post test post, my kingdom for a test post!",
+            "created": "Thu, 18 Sep 2025 14:55:11 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Really simple book and beans",
+            "created": "Thu, 18 Sep 2025 14:58:08 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I've been getting ChatGPT to draw me product shots of all kinds of \"really simple\" things like ketchup, cola, cheese, beans (see below). ",
+                    "created": "Thu, 18 Sep 2025 15:07:29 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Then I thought it might work pretty well as a line of books? ",
+                    "created": "Thu, 18 Sep 2025 14:59:07 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'll have my Python simple. <i>Really</i> simple.",
+                    "created": "Thu, 18 Sep 2025 15:01:21 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2025/09/18/pythonInAShoeboxBookCover.png",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Who would want complicated baked beans?",
+                    "created": "Thu, 18 Sep 2025 15:04:19 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2025/09/18/reallySimpleBakedBeans.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
