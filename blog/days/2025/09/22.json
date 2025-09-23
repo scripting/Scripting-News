@@ -1,0 +1,125 @@
+{
+    "created": "2025-09-22T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "22",
+    "path": "2025/09/22",
+    "text": "September 22",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "<a href=\"https://github.com/scripting/feedlandSocket/blob/main/worknotes.md#92225-100532-am-by-dw\">Updates</a> to the feedlandSocket <a href=\"https://socketdemo.feedland.org/\">demo app</a>. ",
+            "created": "Mon, 22 Sep 2025 18:48:14 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/wordlandDev/issues/3\">A new doc for RSS nerds</a>. WordLand implements a <i>shadow</i> feed, in addition to the feed that WordPress maintains, with a few additions and differences. The two main things we do in a site's shadow feed is support linkblogs and markdown. ",
+            "created": "Mon, 22 Sep 2025 13:32:47 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I’ve been writing about the rebirth of WordPress in <a href=\"https://iconick.io/cool-kids/\">similar terms</a>, <a href=\"https://daytona.scripting.com/search?q=wordpress\">on my blog</a>, in <a href=\"https://www.google.com/search?q=site%3Ashownotes.scripting.com+wordpress&rlz=1C5CHFA_enUS743US747&oq=site%3Ashownotes.scripting.com+wordpress\">podcasts</a>, hoping people would listen. WordPress is a lot more than people think. We can have <a href=\"https://iconick.io/cool-kids/\">all this</a>, a lot sooner than you think.\n",
+            "created": "Mon, 22 Sep 2025 18:56:59 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "My new blog home page?",
+            "created": "Mon, 22 Sep 2025 21:42:00 GMT",
+            "metaImage": "http://scripting.com/images/2025/09/22/mcluhan.png",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I have a plan for how to bootstrap WordLand 0.8.",
+                    "created": "Mon, 22 Sep 2025 21:42:06 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "First I will introduce you to a new way to read my blog. ",
+                    "created": "Mon, 22 Sep 2025 21:43:19 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It will be a timeline of items posted to many of my feeds. ",
+                    "created": "Mon, 22 Sep 2025 21:44:02 GMT",
+                    "flBulletedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "daveverse -- lives on WordPress and Mastodon.",
+                            "created": "Mon, 22 Sep 2025 21:44:27 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Great art on Bluesky -- daily version.",
+                            "created": "Mon, 22 Sep 2025 21:44:57 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "links.daveverse.org -- my linkblog.",
+                            "created": "Mon, 22 Sep 2025 21:45:08 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Scripting News -- my main blog.",
+                            "created": "Mon, 22 Sep 2025 21:45:16 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Scripting News podcast -- a new podcast stream. ",
+                            "created": "Mon, 22 Sep 2025 21:45:19 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "WordCamp Canada 2025 -- I'm keynoting in October.",
+                            "created": "Mon, 22 Sep 2025 21:45:24 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "What each of these have in common is that each has an RSS feed that supports rssCloud. So updates flow instantaneously.",
+                    "created": "Mon, 22 Sep 2025 21:45:34 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Anyway... so instead of going to scripting.com, you'll go to this other place, on an experimental basis. It's got color and nice icons, and looks a bit like a timeline in twitter-like systems. ",
+                    "created": "Mon, 22 Sep 2025 21:48:49 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Now here's the fun part. You may read something that you want to comment on. Or quote what I've said. The kinds of things you do on twitter-like systems. ",
+                    "created": "Mon, 22 Sep 2025 21:50:54 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You will be able to do that. The editor is right there. One click away while you're reading. I didn't invent this flow, Twitter did, it's comfortable, we understand it. ",
+                    "created": "Mon, 22 Sep 2025 21:51:30 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The difference is here you edit in your space and pass around links via <i>your</i> feeds. ",
+                    "created": "Mon, 22 Sep 2025 22:04:21 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I will see what you wrote, but it's up to me if it is attached to my posts. I did a <a href=\"https://shownotes.scripting.com/scripting/2025/09/10/aNewModelForBlogDiscourse.html\">podcast</a> about this earlier this month. ",
+                    "created": "Mon, 22 Sep 2025 23:14:34 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This, imho, is the social network the web always wanted. ",
+                    "created": "Mon, 22 Sep 2025 21:53:03 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: My timeline as a FeedLand-compatible <a href=\"https://feedland.social/opml?screenname=davewiner&catname=daveverse\">reading list</a>.",
+                    "created": "Mon, 22 Sep 2025 21:57:24 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
