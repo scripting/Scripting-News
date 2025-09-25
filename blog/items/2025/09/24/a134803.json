@@ -1,0 +1,8 @@
+{
+    "text": "There are a lot of developers who think they understand WordPress but they don't. It has a REST api that you can build on. Everything WordPress does. It's the API the <a href=\"https://dashboard.wordpress.com/wp-admin/index.php?page=my-blogs\">browser client</a> is built on. I didn't know it was there until I added WordPress login to FeedLand a couple of years ago. I couldn't believe what I was seeing. What can I do with it? It snuck up on me that it's an API for the web, and it's also the easiest API for ActivityPub. The programming model for the fediverse might be a lot simpler than you think. WordLand is as exciting as any web product I did before, because now, after being <a href=\"https://en.wikipedia.org/wiki/Rip_Van_Winkle\">asleep</a> for 19 years, the web can now wake up. It really feels that way. ",
+    "created": "Wed, 24 Sep 2025 13:48:03 GMT",
+    "type": "outline",
+    "image": "https://imgs.scripting.com/2025/09/24/ripVanWinkle.png",
+    "imageLink": "https://en.wikipedia.org/wiki/Rip_Van_Winkle",
+    "flInCalendar": true
+}
