@@ -1,0 +1,36 @@
+{
+    "created": "2025-09-24T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "24",
+    "path": "2025/09/24",
+    "text": "September 24",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "There are a lot of developers who think they understand WordPress but they don't. It has a REST api that you can build on. Everything WordPress does. It's the API the <a href=\"https://dashboard.wordpress.com/wp-admin/index.php?page=my-blogs\">browser client</a> is built on. I didn't know it was there until I added WordPress login to FeedLand a couple of years ago. I couldn't believe what I was seeing. What can I do with it? It snuck up on me that it's an API for the web, and it's also the easiest API for ActivityPub. The programming model for the fediverse might be a lot simpler than you think. WordLand is as exciting as any web product I did before, because now, after being <a href=\"https://en.wikipedia.org/wiki/Rip_Van_Winkle\">asleep</a> for 19 years, the web can now wake up. It really feels that way. ",
+            "created": "Wed, 24 Sep 2025 13:48:03 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2025/09/24/ripVanWinkle.png",
+            "imageLink": "https://en.wikipedia.org/wiki/Rip_Van_Winkle",
+            "flInCalendar": true
+        },
+        {
+            "text": "The web has been asleep for 19 years, which is almost as long as <a href=\"https://en.wikipedia.org/wiki/Rip_Van_Winkle\">Rip Van Winkle</a> was asleep, according the <a href=\"https://en.wikipedia.org/wiki/Washington_Irving\">Washington Irving</a> story.",
+            "created": "Wed, 24 Sep 2025 15:56:39 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "In the future <i>you</i> will be able to chain social networks together.",
+            "created": "Wed, 24 Sep 2025 15:59:28 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Yesterday's <a href=\"https://openchannels.fm/exploring-wordpress-textcasting-and-open-web-standards/\">podcast</a> was with Matthias Pfefferle, who is developing Automattic's ActivityPub functionality. I talk about the totality of the app I'm building and the role WordPress and RSS play in the network. It's an all-web approach to social media. Another big podcast came out today, this one for the WordPress community. I'll write it up tomorrow. I'm on a press tour folks and having a great time. I think I finally found my tribe? And if you're in Canada, come to <a href=\"https://canada.wordcamp.org/2025/\">WordCamp in Ottawa</a>, October 15-17. I haven't given a public in person talk since April 2019. I'm realllly looking forward to this. ",
+            "created": "Wed, 24 Sep 2025 14:32:50 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
