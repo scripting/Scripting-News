@@ -1,0 +1,7 @@
+{
+    "text": "The <a href=\"http://scripting.com/index.opml\">OPML version</a> of this blog, <a href=\"https://web.archive.org/web/20041229084558/http://scripting.com/index.opml\">according to archive.org</a>, goes back to <a href=\"http://scripting.com/2005/12/28.html\">Dec 28, 2005</a>. It <a href=\"https://web.archive.org/web/20041229084558/http://scripting.com/index.opml\">appears</a> that it hasn't updated since <a href=\"http://scripting.com/2010/06/08.html\">June 8, 2010</a>. On further investigation, we do maintain an <a href=\"http://scripting.com/index.json\">JSON file</a> for the site, it's just JSONified OPML. That works too. I'm looking for a way to direct posts to the WordPress news river I started last week. You can already easily use WordLand to do that, we have excellent category support, you're one click away from a dialog where you can choose from your categories while writing. You don't have to go anywhere to do that. The JSON file <a href=\"https://web.archive.org/web/20170718223834/http://scripting.com/index.json\">starts</a> on <a href=\"http://scripting.com/2017/07/18.html\">July 18, 2017</a> and it's rebuilt every time I post an update to the blog along with the RSS feed. And 2017 was when I did my 180 degree turn back to blogging as I was doing it before we were so rudely interrupted by Twitter. ",
+    "created": "Sun, 28 Sep 2025 13:19:12 GMT",
+    "type": "outline",
+    "image": "https://imgs.scripting.com/2017/07/18/leinenkugel.png",
+    "flInCalendar": true
+}
