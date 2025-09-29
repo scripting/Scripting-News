@@ -1,0 +1,35 @@
+{
+    "created": "2025-09-28T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "28",
+    "path": "2025/09/28",
+    "text": "September 28",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "There should be a Hall of Fame for open software, formats and protocols that have stood the test of time, esp those that have taken a beating from commercializers. Not for the people who did it, that could be a separate thing, so there are no fights about who gets credit for what, but for the thing itself. It would be a way for the industry to say \"Hey sorry we didn't accept you at first, and we just want to acknowledge that, after X years of doing something hard, it worked, we're all using it now.\" To which the open format would say, \"Hey thanks for the call out, and let us know if you did something cool with it.\" ",
+            "created": "Sun, 28 Sep 2025 16:01:55 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I now have a <a href=\"https://feedland.social/?feedurl=https%3A%2F%2Fdaveverse.org%2Fcategory%2Fwordpress%2Ffeed%2F\">feed</a> in the new <a href=\"https://wordpress.feedland.org/\">WordPress News</a> site. ",
+            "created": "Sun, 28 Sep 2025 14:42:35 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The <a href=\"http://scripting.com/index.opml\">OPML version</a> of this blog, <a href=\"https://web.archive.org/web/20041229084558/http://scripting.com/index.opml\">according to archive.org</a>, goes back to <a href=\"http://scripting.com/2005/12/28.html\">Dec 28, 2005</a>. It <a href=\"https://web.archive.org/web/20041229084558/http://scripting.com/index.opml\">appears</a> that it hasn't updated since <a href=\"http://scripting.com/2010/06/08.html\">June 8, 2010</a>. On further investigation, we do maintain an <a href=\"http://scripting.com/index.json\">JSON file</a> for the site, it's just JSONified OPML. That works too. I'm looking for a way to direct posts to the WordPress news river I started last week. You can already easily use WordLand to do that, we have excellent category support, you're one click away from a dialog where you can choose from your categories while writing. You don't have to go anywhere to do that. The JSON file <a href=\"https://web.archive.org/web/20170718223834/http://scripting.com/index.json\">starts</a> on <a href=\"http://scripting.com/2017/07/18.html\">July 18, 2017</a> and it's rebuilt every time I post an update to the blog along with the RSS feed. And 2017 was when I did my 180 degree turn back to blogging as I was doing it before we were so rudely interrupted by Twitter. ",
+            "created": "Sun, 28 Sep 2025 13:19:12 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2017/07/18/leinenkugel.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "The stuff I'm posting on the <a href=\"https://daveverse.org/\">Daveverse</a> site isn't getting into my <a href=\"https://daytona.scripting.com/search?q=daytona\">Daytona search engine</a>. I'm writing some real stuff there that should be included. I write on Daveverse using WordLand, it's proof that it's working as a comfortable writing tool and helps me think of features. I do most of my Daveverse writing on my iPad. Test posts are done on my desktop while I'm working on it, but sometimes they contain stuff that could be indexed as well. With enough time I could easily do this, but that's the problem, not enough time. ",
+            "created": "Sun, 28 Sep 2025 13:25:44 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
