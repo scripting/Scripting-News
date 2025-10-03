@@ -1,0 +1,6 @@
+{
+    "text": "I have a problem in the development version of WordLand. Sometimes when I bring it to the front, there's an error deep in jQuery, an event has fired and the handler is pointing to a string or number, not a function. It dies, with no stack crawl, because it was responding to a focus event or blur or something like that. Something got overwritten. I have no idea where or how it happened, but once found it will be obvious. I've been trying to figure it out with Claude and ChatGPT and I can see it's going to take a few hours of concentration and learning to figure it out. But then I realized hey -- I bet I could use the Chrome debugger to find this problem. It has Gemini built in. It has access to the running code. I don't have to act as an intermediary, gathering data, pasting stuff into the AI bot. Now I'm looking forward to doing this. ",
+    "created": "Thu, 02 Oct 2025 14:52:32 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
