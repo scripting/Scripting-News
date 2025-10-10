@@ -1,0 +1,75 @@
+{
+    "text": "<i>Cute paste</i> for WordLand",
+    "created": "Thu, 09 Oct 2025 13:39:02 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "<i>Note this is for the 0.8 release of WordLand coming soooon. Not in the current released product. </i>",
+            "created": "Thu, 09 Oct 2025 13:39:16 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "A <a href=\"https://herve.bzh/cute-paste-in-wordland/\">friend</a> asked for this feature a few months back, before we had a Markdown mode in WordLand. ",
+            "created": "Thu, 09 Oct 2025 13:39:11 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "As I'm reviewing the product for first beta I realized I could now implement the feature he asked for.",
+            "created": "Thu, 09 Oct 2025 13:41:39 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "How to..",
+            "created": "Thu, 09 Oct 2025 13:39:43 GMT",
+            "flNumberedSubs": "true",
+            "subs": [
+                {
+                    "text": "Copy a URL to the clipboard.",
+                    "created": "Thu, 09 Oct 2025 13:39:40 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Open WordLand, bring it to the front.",
+                    "created": "Thu, 09 Oct 2025 16:18:29 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Go into Markdown mode by clicking the M icon. It turns green.",
+                    "created": "Thu, 09 Oct 2025 13:40:02 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Select the text you want to be a link.",
+                    "created": "Thu, 09 Oct 2025 13:40:04 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Paste the URL copied in step 1.",
+                    "created": "Thu, 09 Oct 2025 13:39:41 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "It creates the link for you, in Markdown syntax of course. ",
+            "flInCalendar": true
+        },
+        {
+            "text": "To see it in HTML, just flip the Markdown button off.",
+            "created": "Thu, 09 Oct 2025 13:40:12 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I call this feature Cute Paste. :-)",
+            "flInCalendar": true
+        },
+        {
+            "text": "A <a href=\"https://www.youtube.com/watch?v=WUAX6UaHQMg\">video demo</a>.",
+            "created": "Thu, 09 Oct 2025 13:40:49 GMT",
+            "urlVideo": "https://www.youtube.com/watch?v=WUAX6UaHQMg",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
