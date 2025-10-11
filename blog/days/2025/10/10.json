@@ -1,0 +1,64 @@
+{
+    "created": "2025-10-10T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "10",
+    "path": "2025/10/10",
+    "text": "October 10",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Today's song: <a href=\"https://www.youtube.com/watch?v=u3QZVdqUidw\">Oh My Love</a>, by John Lennon. I was trying to remember this song. It kept eluding me. It's not one of his most famous. It's what you experience when you fall in love. Clarity. Endless possibility. At home in your life. For the first time. ",
+            "created": "Fri, 10 Oct 2025 13:59:04 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "I know so many people around my age that were never told this simple truth that I heard Steve Jobs say in a <a href=\"https://youtu.be/kYfNvmF0Bqw?si=NYOyLWJRnXuvCktP&t=39\">video</a> the other day. Paraphrasing -- the people who made the rules you think you have to live by weren't smarter than you. Once you accept this as fact, then if you can find the leading edge you can make it work the way you want it to. You can be one of those people. ",
+            "created": "Fri, 10 Oct 2025 14:10:04 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The social network of the web",
+            "created": "Fri, 10 Oct 2025 14:16:01 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "I was just catching up on tweets and saw an <a href=\"https://x.com/ryanwelcher/status/1975704588985778593\">announcement</a> earlier this week that Matt Mullenweg is going to lead a town hall discussion at WordCamp Canada next Friday in Ottawa. A week from today. I find that exciting. I'll in the room for sure, and blogging it. Why not? ;-)",
+                    "created": "Fri, 10 Oct 2025 14:16:24 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I am presenting the day before, where I'll do a demo of the new WordLand, explaining how it's now twice the product it was last time you all saw it. It is still centered on WordPress as the place where all the user's writing is published. And somehow through the magic of software, we manage to make it into a <a href=\"http://scripting.com/stories/2008/05/05/boostrappingADecentralized.html\">social network</a>. And the cool thing about the whole stack of software we build on, all of it is replaceable and of the web, in every sense.",
+                    "created": "Fri, 10 Oct 2025 14:17:10 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "There are things that Bluesky and Mastodon can do that WordLand can't. But there are also many many things we can do with the structure that WordLand creates that the others can't touch. There's a simple reason for that, if implementing something, no matter how attractive, without limiting the web-ness of the system, we didn't do it. This is the social network of the web. That means all the <a href=\"https://www.goodreads.com/book/show/753804.Small_Pieces_Loosely_Joined\">pieces</a> connect with each other in fantastic unforeseeable ways. And anyone can discover these connections. That was the joy of the early web, the thought \"Hey I think I can do that\" and when you try, it works! We're back there again, if the people come. The technical challenge is still there but now is smaller. Getting people to look and fall in love (hopefully) is the big challenge.",
+                    "created": "Fri, 10 Oct 2025 14:17:27 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "After WordLand 0.8 is ready, real soon now, who knows what's next? That's the glory a <a href=\"http://scripting.com/stories/2008/05/05/boostrappingADecentralized.html\">bootstrap</a>. Every step tells you where to go next. That's how you know you're hitting a target.",
+                    "created": "Fri, 10 Oct 2025 14:17:45 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I don't know if Matt will be there for my demo, I hope he is. He and Automattic and the community have created a fantastic platform. Finding WordPress has a super powerful API that I didn't know about is like finding a new web. Let me know if you see it too. ;-)",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So thanks Matt for your great contribution. I hope to be able to thank you for that personally in Ottawa next week. Perfect timing.",
+                    "created": "Fri, 10 Oct 2025 14:18:08 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "<i>Cross-posted from the <a href=\"https://canada.wordcamp.org/2025/the-social-network-of-the-web/\">WordCamp Canada</a> site. </i>",
+                    "created": "Fri, 10 Oct 2025 14:18:09 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
