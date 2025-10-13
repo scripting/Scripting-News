@@ -1,0 +1,45 @@
+{
+    "created": "2025-10-12T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "12",
+    "path": "2025/10/12",
+    "text": "October 12",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I'm getting ready for a trip. And part of that is getting my laptop set up so I can post to Scripting News. If you're reading this, it worked.",
+            "created": "Sun, 12 Oct 2025 18:20:15 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "It's funny because it's true",
+            "created": "Sun, 12 Oct 2025 18:21:08 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Working on my slides for WordCamp Canada next week.",
+                    "created": "Sun, 12 Oct 2025 18:23:14 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I don't think I'll actually use the F-word in the slide. ",
+                    "created": "Sun, 12 Oct 2025 18:36:22 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "But it makes me laugh when I see it.",
+                    "created": "Sun, 12 Oct 2025 18:36:26 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's funny because it's true.",
+                    "created": "Sun, 12 Oct 2025 18:23:20 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2025/10/12/outsideWordpress.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
