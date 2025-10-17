@@ -1,0 +1,66 @@
+{
+    "created": "2025-10-16T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "16",
+    "path": "2025/10/16",
+    "text": "October 16",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Good morning from Ottawa",
+            "created": "Thu, 16 Oct 2025 12:30:53 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Here's the <a href=\"https://bullets.opml.org/?url=https://drummer.land/dave.winer@gmail.com/wordcampSlides.opml\">link to the slides</a> promised below. ",
+                    "created": "Thu, 16 Oct 2025 12:32:08 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I've been going back and forth on slides. I always do this. In the end I hate slides because I digress while going through them and skip ahead, end up wishing I hadn't used them. So I decided to compromise. I'll do the first three in some detail, and digress and go down tangents as I see fit. ",
+                    "created": "Thu, 16 Oct 2025 04:58:16 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "The three main slides.",
+                    "created": "Thu, 16 Oct 2025 04:58:26 GMT",
+                    "flNumberedSubs": "true",
+                    "subs": [
+                        {
+                            "text": "Accomplishments of WordPress. ",
+                            "created": "Thu, 16 Oct 2025 04:58:29 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Why podcasting retained its independence. ",
+                            "created": "Thu, 16 Oct 2025 04:58:42 GMT",
+                            "flInCalendar": true
+                        },
+                        {
+                            "text": "Demo of WordLand. ",
+                            "created": "Thu, 16 Oct 2025 04:58:55 GMT",
+                            "flInCalendar": true
+                        }
+                    ],
+                    "flInCalendar": true
+                },
+                {
+                    "text": "There were 20 or 30 more slides after that. ",
+                    "created": "Thu, 16 Oct 2025 04:59:03 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So what I'll do is this. Present the first two in some detail, then page through the rest quickly and come back and do the demo. Also publish a link to the deck on my blog so people can scroll through them at their leisure. And once the demo is done, I'll answer questions. ",
+                    "created": "Thu, 16 Oct 2025 04:59:47 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I have an idea that we can have a blogosphere that is as functional as podcasting. We just need users to get started, to get the idea off the ground. We don't have to accept the limits, we can have the full web if we want it. ",
+                    "created": "Thu, 16 Oct 2025 05:00:59 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
