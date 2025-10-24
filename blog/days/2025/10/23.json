@@ -1,0 +1,90 @@
+{
+    "created": "2025-10-23T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "23",
+    "path": "2025/10/23",
+    "text": "October 23",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I'm really happy with the way <a href=\"https://wp.feedland.org/\">WordPress News</a> is shaping up. Every community should have a news site like this. ",
+            "created": "Thu, 23 Oct 2025 21:02:03 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Also after last week's conference we're starting to get help from the open source developer community around WordPress. Really friendly people, excited about what we can all do together.",
+            "created": "Thu, 23 Oct 2025 21:06:52 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Think different about developers",
+            "created": "Thu, 23 Oct 2025 13:35:25 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Tell the people who make AI's -- I want a way to have apps run in your browser that has direct connections to the AI engine, and it connects via the user's credentials, not the app devs (though you are entitled to know who the developer is). When I explored the idea of making apps for ChatGPT, this was the roadblock, I have to become a reseller of your service. Can't you figure out how to let the user pay directly? I just want to make tools, not be in the retail AI business. Feh.",
+                    "created": "Thu, 23 Oct 2025 13:31:22 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This is the same problem web devs have, we have to become resellers for Amazon S3. Why can't Amazon, who already has an account for every freaking person in the world, let the user own their own data, which I believe they would <i>reallllly</i> like. I don't want access to it, I just want to make great tools for them to use. And they're free to use other products with the data. This helps encourage data format standards. It's why the PC software market was so much more vibrant than the web developer market. ",
+                    "created": "Thu, 23 Oct 2025 13:36:30 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I keep trying to explain this to people who aren't web devs, but in a position to help, and make a shitload of money, but all I get is blank stares, and \"we don't do that.\"",
+                    "created": "Thu, 23 Oct 2025 13:37:23 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        },
+        {
+            "text": "weblogs.com re-viewed",
+            "created": "Thu, 23 Oct 2025 13:21:04 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "Yesterday I did some research into how weblogs.com, in 1999, tracked changes in the blogs it was following. This was a precursor to feed readers. There was a main output file called changes.xml,  a reverse chronological list of sites, not feeds, feeds didn't exist yet. ",
+                    "created": "Thu, 23 Oct 2025 13:18:09 GMT",
+                    "type": "outline",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "What the <a href=\"https://web.archive.org/web/20000620090706/http://www.weblogs.com/\">home page</a> of weblogs.com looked like in June 2000. ",
+                    "created": "Thu, 23 Oct 2025 13:21:16 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A <a href=\"https://web.archive.org/web/20000621141352/http://www.weblogs.com/about\">page</a> that explained what weblogs are. ",
+                    "created": "Thu, 23 Oct 2025 13:22:27 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A snapshot of <a href=\"http://scripting.com/publicfolder/misc/changes.xml\">changes.xml</a> from weblogs.com on Dec 13, 2003.",
+                    "created": "Thu, 23 Oct 2025 13:21:16 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "A <a href=\"https://daytona.scripting.com/search?q=changes.xml\">search</a> of scripting.com for changes.xml.",
+                    "created": "Thu, 23 Oct 2025 13:30:01 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "You can <a href=\"https://chatgpt.com/c/68f8f563-0ab8-8322-865a-af0cc88fa35a\">ask ChatGPT</a> to tell you about changes.xml. I did, it was able to put together all the random bits that are now gone, it found them somewhere and I got a much better answer than I would have gotten if somehow all my docs had survived, and most of them did not. This btw is one of the great features of ChatGPT. Truly a miracle. ",
+                    "created": "Thu, 23 Oct 2025 13:30:15 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "BTW, here's a <a href=\"https://chatgpt.com/c/68f8f563-0ab8-8322-865a-af0cc88fa35a\">transcript</a> of my talk with ChatGPT about this stuff. Sometimes these links don't work for everyone. I wish they would get that working, dear friends at OpenAI. This is how your word of mouth builds. ",
+                    "created": "Thu, 23 Oct 2025 13:41:39 GMT",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
