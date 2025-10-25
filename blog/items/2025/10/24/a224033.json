@@ -1,0 +1,29 @@
+{
+    "text": "FeedLand and WordPress",
+    "created": "Fri, 24 Oct 2025 22:40:33 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "We've had a performance issue in FeedLand that we finally think we have tracked down. I'm working slowly and carefully on a new version with the new thinking. If it works, I'll tell you more about what worked and how it affects the software, obviously for the better. ",
+            "created": "Fri, 24 Oct 2025 22:38:35 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "What's notable about this fix is that it came about when I was talking with people who work on the open source WordPress project at the WordCamp last week in Ottawa. One of them took an interest and puzzled it out and came up with a theory. When we tested the theory on the real data, it made a big difference. If it works in the deployed version as well as it did in the test, FeedLand will be better for this. ",
+            "created": "Fri, 24 Oct 2025 22:40:58 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Related, I've been asked if we'll share the subscription list for the WordPress News site, so this gives me a chance to show that any FeedLand-managed site, by default has a white-on-orange <a href=\"https://imgs.scripting.com/2025/10/24/wordpressNewsScreen.png\">XML icon</a>. When you click on it, you'll see the <a href=\"https://feedland.social/opml?screenname=davewiner&catname=wordpress\">OPML list</a> for the page you were looking at. The list is dynamic, so it changes whenever the set of feeds changes. This has become a huge part of the systems we've built with FeedLand, that's why you see apps that are deployed on one server using data from a different one. The federation protocol for FeedLand is a simple and well-established standard for sharing lists of feeds, OPML over HTTP. Kind of like RSS was when we were just getting started with feeds, it's how you plug systems together. Esp if you can take advantage of the fact they're all dynamic. Also that they work really well with categories. Lots to say about FeedLand. Glad we're turning this corner now. ",
+            "created": "Fri, 24 Oct 2025 22:42:47 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "Snapshot of <a href=\"https://wp.feedland.org/\">WordPress News</a> site.",
+            "created": "Fri, 24 Oct 2025 22:46:18 GMT",
+            "inlineImage": "https://imgs.scripting.com/2025/10/24/wordpressNewsScreen.png",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
