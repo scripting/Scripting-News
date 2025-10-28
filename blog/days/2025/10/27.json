@@ -1,0 +1,23 @@
+{
+    "created": "2025-10-27T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "27",
+    "path": "2025/10/27",
+    "text": "October 27",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Made good progress on a FeedLand performance issue. The new version is running on <a href=\"https://feedland.org/\">feedland.org</a>. We're getting ready to try it on other systems. On the way I hit a problem with the <a href=\"https://github.com/Automattic/wp-calypso/tree/trunk/packages/wpcom.js\">wpcom package</a> that implements the WordPress API in Node.js. Apparently the new version depends on <a href=\"https://www.npmjs.com/package/@babel/runtime/v/8.0.0-beta.1\">babel/runtime</a>, but it isn't listed as a dependency in their <a href=\"https://github.com/Automattic/wp-calypso/blob/trunk/packages/wpcom.js/package.json\">package.json</a> file. I worked around the problem by adding that dependency in wpidentity's <a href=\"https://github.com/scripting/wpIdentity/blob/main/package.json\">package.json</a> file, and that fixed the problem. Had trouble getting this report in their <a href=\"https://github.com/Automattic/wp-calypso/issues\">issues</a> section. ",
+            "created": "Mon, 27 Oct 2025 21:28:51 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2019/06/14/bowling.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "The trip to Canada really changed my perspective. Spending more time thinking than developing new stuff. One thing is for sure, we're going to depend on FeedLand more as we go two-way in WordLand. I've been <a href=\"https://daytona.scripting.com/search?q=%22radio%20userland%22\">here</a> before. Have to let my mind mull things over before the movement resumes. ",
+            "created": "Mon, 27 Oct 2025 21:39:52 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
