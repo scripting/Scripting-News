@@ -1,0 +1,6 @@
+{
+    "text": "At the same time I heard from people at Automattic that they had successfully <a href=\"https://github.com/scripting/feedlandInstall\">installed</a> the new version of the FeedLand software on <a href=\"https://feedland.com/?river=true&screenname=davewiner&catname=politics\">feedland.com</a> which runs on their VIP system, so theoretically should scale as well as anything on the net. There was a serious performance problem, that, with the help of <a href=\"https://ohryan.ca/author/admin/\">Ryan Neudorf</a> who I met in Ottawa, and Scott Hanson, longtime contributor here, was <a href=\"https://github.com/scripting/feedlandDev/issues/8\">fixed</a>. It was a daring move, it meant that <i>all</i> the timeline-generating code in FeedLand had to be rewritten. It was worth it. If you've ever felt that FeedLand was too slow at displaying news, please try again, I think you'll be pleased.",
+    "created": "Thu, 30 Oct 2025 18:00:45 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
