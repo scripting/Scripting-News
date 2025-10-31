@@ -1,0 +1,35 @@
+{
+    "created": "2025-10-30T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "30",
+    "path": "2025/10/30",
+    "text": "October 30",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "Just heard from <a href=\"https://inessential.com/\">Brent Simmons</a> that the next version of <a href=\"https://github.com/Ranchero-Software/NetNewsWire/issues/3896#issuecomment-3468342615\">NetNewsWire</a> will support the <a href=\"http://scripting.com/2022/07/19/152235.html?title=devNotesForMarkdownInRss\">Markdown in RSS</a>. I wrote it up on my <a href=\"https://daveverse.org/2025/10/30/markdown-support-coming-in-netnewswire/\">daveverse site</a>, which I edit with \"WordLand\", which means it has a <a href=\"https://wordland.dev/scripting/237777565/rss.xml\">special feed</a> that contains <a href=\"https://source.scripting.com/#1653758422000\">source:markdown</a> elements. You can be one of the first people with markdown-support in your feed, and in doing so, help the bootstrap. If you have questions, post a comment <a href=\"https://github.com/scripting/Scripting-News/issues/334\">here</a>.",
+            "created": "Thu, 30 Oct 2025 17:46:01 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2024/12/25/leftfacingsanta.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "At the same time I heard from people at Automattic that they had successfully <a href=\"https://github.com/scripting/feedlandInstall\">installed</a> the new version of the FeedLand software on <a href=\"https://feedland.com/?river=true&screenname=davewiner&catname=politics\">feedland.com</a> which runs on their VIP system, so theoretically should scale as well as anything on the net. There was a serious performance problem, that, with the help of <a href=\"https://ohryan.ca/author/admin/\">Ryan Neudorf</a> who I met in Ottawa, and Scott Hanson, longtime contributor here, was <a href=\"https://github.com/scripting/feedlandDev/issues/8\">fixed</a>. It was a daring move, it meant that <i>all</i> the timeline-generating code in FeedLand had to be rewritten. It was worth it. If you've ever felt that FeedLand was too slow at displaying news, please try again, I think you'll be pleased.",
+            "created": "Thu, 30 Oct 2025 18:00:45 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Since many of us now program with AI chatbot assistance, it seems it's time to think about higher level languages we can use to specify what we're doing, new kinds of computers because we now have bigger more capable minds at work. ",
+            "created": "Thu, 30 Oct 2025 16:02:21 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Every OS should have a Help system that you can ask \"How do I do this\" and it understands what you're saying. The Mac OS tries to take you to a manual with a freaking table of contents! What do I look like, a robot? Come on it's 2025. Get with it. Maybe OpenAI should buy Apple. ",
+            "created": "Thu, 30 Oct 2025 21:59:11 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
