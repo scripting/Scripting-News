@@ -1,0 +1,7 @@
+{
+    "text": "Good morning everyone. We're getting <a href=\"https://feedland.com/\">feedland.com</a> back in shape. About a week ago we sorted out a long-standing performance issue. Once that was fixed, another problem cropped up, we weren't able to sign off and back on. We got that one too, this morning, and now it looks like feedland.com is finally performing well across the board. It's always been pretty stable, just churning away on feeds, reading lists, and pumping news over websockets, and all the other 3.0 type feed stuff. It feels like it's time to depend on it, even so we'll be careful, praise Murphy. The cool thing about feedland.com compared to all the other servers I've run stuff on over the years is that it scales automatically. It's on the <a href=\"https://wpvip.com/\">VIP</a> network run by Automattic. ",
+    "created": "Fri, 31 Oct 2025 15:01:07 GMT",
+    "type": "outline",
+    "image": "https://imgs.scripting.com/2023/03/18/accordionGuy.png",
+    "flInCalendar": true
+}
