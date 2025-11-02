@@ -1,0 +1,35 @@
+{
+    "created": "2025-11-01T04:00:00.000Z",
+    "flInCalendar": true,
+    "name": "01",
+    "path": "2025/11/01",
+    "text": "November 01",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "October <a href=\"https://github.com/scripting/Scripting-News/blob/master/blog/opml/2025/10.opml\">blog posts</a> in \"OPML\". BTW, well-kept secret, I have a <a href=\"https://github.com/scripting/oldSchoolBlog\">Node app</a> that takes one of these outlines and publishes it to the web, in the format you see on \"Scripting News\". If you can get your text to flow through OPML this way, you can have a replica of this site, with most of its features. And you can totally customize it in CSS.  It's open source and very stable. It's called <a href=\"https://github.com/scripting/oldSchoolBlog\">Old School</a> and I wrote it in 2017 because I wanted my old blog back, I was fed up with trying to fit into the very small world defined by Twitter, Google Reader, Facebook and Medium. I decided then the cost was too high, and I'd be much happier if I lived within the limits of \"RSS\", which is far better than the text formats defined by these other projects. Now I feel hopeful about this -- because <a href=\"https://daytona.scripting.com/search?q=%22brent%20simmons%22\">Brent</a> is supporting <a href=\"https://daytona.scripting.com/search?q=source%3Amarkdown\">source:markdown</a> in <a href=\"https://netnewswire.com/\">NetNewsWire</a>. This is a big thing, because it will have the power to attract authors, developers of blogging systems, and other feed reading products.",
+            "created": "Sat, 01 Nov 2025 14:44:05 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2022/12/19/ucsdPascalManual.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "I wrote a <a href=\"http://scripting.com/2025/10/29/184306.html#a184449\">bit</a> about Philippe Kahn the other day, and just remembered -- I forgot to write about <a href=\"https://daytona.scripting.com/search?q=%22Turbo%20Pascal%22\">Turbo Pascal</a>. I had been using program compilers for C and Pascal for almost a decade when it came out, and it was shockingly different in a good way. Somehow it could compile a whole program in less than a second. Years before I had developed <a href=\"https://daytona.scripting.com/search?q=ThinkTank\">ThinkTank</a> on the Apple II and IBM PC using Pascal, and it often took <i>minutes</i> to do the same thing! This changed languages in a great way -- later I would switch to <a href=\"https://daytona.scripting.com/search?q=%22think%20c%22\">Think C</a> that had the same instant compiling. There were other great things about Turbo Pascal, because the editor was integrated, so you could start that compilation with a single keystroke. He understood that the quicker this was, the more in a groove the developer could get. Imagine if you had to wait a minute before you could read the prose you just wrote? It used to be like that. Going back to the 70s it would sometimes take many minutes, and you could run out of time, and wouldn't be able to change the software until they added more money to your account. Like the horse and buggy days. How far we've come. ",
+            "created": "Sat, 01 Nov 2025 15:02:30 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Wonder if you noticed that the main difference between social media and chat is which way the new messages flow and where the tiny little text box is, at the top or the bottom.",
+            "created": "Sat, 01 Nov 2025 14:38:32 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "The unique thing about neighbors is you can try to divorce them, but no matter what you do they will still be neighbors. There are few relationships as permanent as neighbor. They don't have to listen to you. But you should listen anyway, and try to figure out how they look at the neighborhood. Probably very differently from the way you view it. ",
+            "created": "Sat, 01 Nov 2025 14:25:54 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
