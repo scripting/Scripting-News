@@ -1,0 +1,141 @@
+{
+    "created": "2025-11-03T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "03",
+    "path": "2025/11/03",
+    "text": "November 03",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "New <a href=\"https://shownotes.scripting.com/scripting/2025/11/03/itsFasterAndEvenSimplerThanRss.html\">podcast</a> about WebSockets. ",
+            "created": "Mon, 03 Nov 2025 14:25:47 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "From the beginning, I wanted FeedLand to make excellent use of WebSockets. It's an amazing technology for its power and simplicity. Basically it allows a server running in the cloud to send information to an app running in the browser, or for that matter an iOS app running on an phone. Then the question is what do you want to use the socket for? And the answer is that to make syndication <i>even simpler and faster than RSS</i>. If you want to know more, there's a <a href=\"https://github.com/scripting/feedlandSocket\">client toolkit</a> and <a href=\"https://socketdemo.feedland.org/?url=wss://feedland.com:443/_ws/\">demo app</a> on GitHub, open source of course. How real is it? The <a href=\"https://blogroll.social/\">blogroll</a> on scripting.com is a sockets app, a much-improved blogroll from the ones we had 20 years ago. Also runs on WordPress sites. It's been running smoothly since March 2024. Pretty solid. And WordPress, that doesn't break formats, has supported the rssCloud protocol since 2009, and of course so does FeedLand. ",
+            "created": "Mon, 03 Nov 2025 13:26:06 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2021/02/19/blueJello.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "Wes Felter <a href=\"https://x.com/wmf/status/1985051061174861856\">explains</a> what <a href=\"https://en.wikipedia.org/wiki/Stablecoin\">stablecoins</a> are for. \"Stablecoins work offshore in places where dollars don't, they're faster to transfer, they mostly can't be seized, etc. It's for the margins not the mainstream.\"",
+            "created": "Mon, 03 Nov 2025 14:29:07 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Greetings from the Catskill Mountains",
+            "created": "Mon, 03 Nov 2025 12:09:46 GMT",
+            "type": "outline",
+            "subs": [
+                {
+                    "text": "<i>I'm part of the <a href=\"https://cyber.harvard.edu/\">Berkman</a> community email list. There's a tradition that people are introduce themselves at this time, so I thought I should also, since this is my first year on the list. This is a copy of the email I sent. </i>",
+                    "created": "Mon, 03 Nov 2025 12:09:55 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "My name is Dave Winer. I was at Berkman in 2003-04.",
+                    "created": "Mon, 03 Nov 2025 12:50:09 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I've been so impressed with the stories you all have been telling, and I felt I should get into the mix, but my story will be different because I am not an academic, though I love the academic environment, find it very energizing. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "So, my story --",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I started a bunch of things before coming to Berkman. Undergrad degree in math, masters in Computer Science, ran two software companies, was by some measure the first blogger, played a role in the bootstrap of RSS, and at Berkman we launched podcasting via the two BloggerCons we had there. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I loved the reunion we had two summers ago, and think we should build on that. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I got a very strong feeling from revisiting the campus that we should have kept going with the blogging we started at Berkman in 2003, and if we had done so, I think we'd be in a better position in social media today. We had a jump on Twitter, Facebook (which was also starting on campus at the same time). And we were doing everything with open protocols, all parts replaceable. Very different from the way the commercial networks are built. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "What I'm working on these days is primarily \"WordLand\", where feeds and words get together using nothing but the open web, with all parts replaceable. ",
+                    "created": "Mon, 03 Nov 2025 12:50:21 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "We use WordPress, via its REST API, as the platform for writing, we add a beautiful and simple new writer's toolkit, all in one place with all the administrative stuff out of the way. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "This product will also introduce an API that makes it easy for developers to create new editors because there are a lot of types of editors and people have their favorites. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I'm working closely with the people of WordPress, gave a demo at WordCamp Canada a couple of weeks ago. I loved it, a lot of the energy of BloggerCon. I wish I had joined them years earlier. Their community has been growing for 20+ years. In tech that's a long time. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "It's also been about 20 years since we finished work on RSS 2.0, and that's the other major thing WordLand is built around. It's how messages fly around the net. Again totally replaceable parts. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Berkman helped us with RSS 2.0, the official spec is <a href=\"https://cyber.harvard.edu/rss/rss.html\">hosted</a> at <a href=\"http://cyber.harvard.edu/\">cyber.harvard.edu</a>, and hopefully will remain there as an artifact, a basis for interop, for perpetuity. Many thanks for the help here, it needed a permanent place to stay frozen, the tech industry very much wanted to take it apart. It's still going strong even though tech leaders and journalists have proclaimed it dead many many times. Wishful <a href=\"https://isrssdead.com/\">thinking</a>, things like RSS don't die. :-)",
+                    "created": "Mon, 03 Nov 2025 12:50:51 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I am committed to getting around the silos of the owners of social media, and making it possible for developers and users to build their own networks with their own rules, and not have to wait for corporate programmers to give them the tools, we need to be able to make them for ourselves. This btw to me has always been the ethos of Berkman, coming from Barlow and Nesson, it's the old idea that the web should set us free, not create new more entertaining <a href=\"http://scripting.com/stories/2010/11/14/welcomeToYourHamsterCage.html\">hamster cages</a> for us to play in to delight our masters. ",
+                    "created": "Mon, 03 Nov 2025 12:51:36 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "These days I wonder how we can help Harvard do the things it's so good at that few people understand. People, esp young college-age people, should know there are ways to contribute beyond attaining <a href=\"http://scripting.com/davenet/2000/10/19/transcendentalMoney.html\">unusable wealth</a>. I think what they want is a way to compete, to be great, to challenge themselves, and to win, and the money is secondary, a way to measure success. We can and should be creating new ways to measure the greatness of individual young people, directed towards more satisfying ends than making more money than they could possibly ever use. (And of course understanding that not all young people grow up to want to prove their worth, but the ones who vie to be the baddest billionaire have caused a lot of problems, and could use some alternate theories of how to be great. When I was young, I definitely was one of the ones with something to prove.)",
+                    "created": "Mon, 03 Nov 2025 12:51:59 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Anyway back to Harvard. It took forever for Harvard to admit publicity that podcasting incubated there. It did eventually come but only in passing, in an introduction at a 2008 conference, where I took a <a href=\"https://flickr.com/photos/scriptingnews/2494080913/\">picture</a> of the moment. Thanks to my friend John Palfrey for making this happen. ",
+                    "created": "Mon, 03 Nov 2025 12:52:24 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I believe that universities like Harvard should be constantly hosting the kind of work we were doing then, like a teaching hospital. It's not enough imho to study technology and leave the development of it to the industry. Then you get software designed by bankers. I want a continuing stream of innovation to come out of academia, with people returning to teach what they learned to students who came to get skills that will help them do good and make a good living, and then a few years later they come back, again and again. It should be a self-renewing process. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I wrote about this several times over the last decade or so, I call this idea <a href=\"https://this.how/phoenix/\">Developing Better Developers</a>. ",
+                    "created": "Mon, 03 Nov 2025 12:52:38 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I think the next best thing for now would be to have a homecoming for Berkman every two summers perhaps, where we get a chance to develop a pulse. And see where that goes. It's obviously a lot of work. The one we had brought back a lot of good ideas and friendships that we should still be working on together. ",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "I live in the Catskills btw, as you can tell from the subject line, just west of Kingston. Before that I spent nine years in Manhattan, before that Berkeley, Seattle, places like that. And Cambridge of course!  :-)",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "Dave",
+                    "created": "Mon, 03 Nov 2025 12:53:01 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "PS: At the reunion I remember telling David Weinberger that I had hung up my <a href=\"https://idioms.thefreedictionary.com/hang+up+your+spurs\">spurs</a>, I was done developing. It turned out I wasn't done. Heh. I think people like me never hang em up voluntarily. Who knows. ;-)",
+                    "created": "Mon, 03 Nov 2025 12:53:07 GMT",
+                    "flInCalendar": true
+                },
+                {
+                    "text": "WordLand screen shot.",
+                    "created": "Mon, 03 Nov 2025 12:53:44 GMT",
+                    "inlineImage": "https://imgs.scripting.com/2025/11/03/wordlandScreenShot.png",
+                    "flInCalendar": true
+                }
+            ],
+            "flInCalendar": true
+        }
+    ]
+}
