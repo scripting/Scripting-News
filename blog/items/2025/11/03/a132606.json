@@ -1,0 +1,7 @@
+{
+    "text": "From the beginning, I wanted FeedLand to make excellent use of WebSockets. It's an amazing technology for its power and simplicity. Basically it allows a server running in the cloud to send information to an app running in the browser, or for that matter an iOS app running on an phone. Then the question is what do you want to use the socket for? And the answer is that to make syndication <i>even simpler and faster than RSS</i>. If you want to know more, there's a <a href=\"https://github.com/scripting/feedlandSocket\">client toolkit</a> and <a href=\"https://socketdemo.feedland.org/?url=wss://feedland.com:443/_ws/\">demo app</a> on GitHub, open source of course. How real is it? The <a href=\"https://blogroll.social/\">blogroll</a> on scripting.com is a sockets app, a much-improved blogroll from the ones we had 20 years ago. Also runs on WordPress sites. It's been running smoothly since March 2024. Pretty solid. And WordPress, that doesn't break formats, has supported the rssCloud protocol since 2009, and of course so does FeedLand. ",
+    "created": "Mon, 03 Nov 2025 13:26:06 GMT",
+    "type": "outline",
+    "image": "https://imgs.scripting.com/2021/02/19/blueJello.png",
+    "flInCalendar": true
+}
