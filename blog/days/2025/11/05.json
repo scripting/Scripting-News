@@ -1,0 +1,53 @@
+{
+    "created": "2025-11-05T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "05",
+    "path": "2025/11/05",
+    "text": "November 05",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "I <a href=\"https://daveverse.org/2025/11/05/mullenweg-and-borthwick/\">liveblogged</a> a chat between John Borthwick and Matt Mullenweg tonight in NYC. ",
+            "created": "Thu, 06 Nov 2025 00:09:56 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Don't forget the new <a href=\"https://wp.feedland.org/\">WordPress News</a>. ",
+            "created": "Wed, 05 Nov 2025 16:27:48 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Every <a href=\"https://wp.feedland.org/\">FeedLand timeline</a> has a link to its OPML subscription list under the traditional white on orange <a href=\"https://imgs.scripting.com/2025/11/05/xmlIcon.png\">XML icon</a>.  ",
+            "created": "Wed, 05 Nov 2025 14:13:00 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "To people who do WordPress plug-ins -- have a look at the <a href=\"https://github.com/scripting/feedlandSocket\">feedlandSocket repo</a>. It sends notifications of news items to any subscriber, via websockets. News items are simple JSON, and contain information in the feed item, and system info like id and when it was received. This makes it easy to stream news to a plug-in running in a WordPress site, that can then do anything with the news they like. It's incredibly simple to use, and we provide all the JavaScript code you need to embed in a browser-based app. Here's a <a href=\"https://github.com/scripting/feedlandSocket/issues/2\">place</a> where you can ask questions. ",
+            "created": "Wed, 05 Nov 2025 13:10:41 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"https://github.com/scripting/feedlandInstall/issues/71\">New release of FeedLand</a>, v0.7.9. It's a Node.js server app, using MySQL, and I think it's stable enough that I can start linking to updates here. It's not for poets, though I do know one who got it running. Check out the feedlandInstall repo. ",
+            "created": "Wed, 05 Nov 2025 13:43:33 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "Democrats <a href=\"https://finance.yahoo.com/news/democrats-score-biggest-wins-since-033721355.html\">swept</a> yesterday's election. A reminder that you should ignore pundits when they say what they've been saying about Democrats since Trump won last year's election. They assume people are stupid and aren't paying attention to the prices in the supermarket. And the price of health insurance. And the mask-wearing storm troopers occupying Los Angeles and Chicago. Heather Cox Richardson <a href=\"https://heathercoxrichardson.substack.com/p/november-4-2025-tuesday\">said</a> at the end of last night's piece that \"politics will be a whole different game.\" Republican incumbents now know that there better be big change, or they'll all be losing next November. They may find themselves more on the people's side than Trump's, now that they know for sure the two things are different. ",
+            "created": "Wed, 05 Nov 2025 12:32:49 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2025/11/05/broom.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "And it's undeniable, the voters said no to Schumer and the current theoretical Democratic leaders. They can't be in charge of the future, otherwise we're lost. So the voters figured it out. Let's make sure everyone hears this, they seem to be saying. You better be able to lead us or don't bother applying for the job.  ",
+            "created": "Wed, 05 Nov 2025 14:23:19 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
