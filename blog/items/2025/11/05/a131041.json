@@ -1,0 +1,6 @@
+{
+    "text": "To people who do WordPress plug-ins -- have a look at the <a href=\"https://github.com/scripting/feedlandSocket\">feedlandSocket repo</a>. It sends notifications of news items to any subscriber, via websockets. News items are simple JSON, and contain information in the feed item, and system info like id and when it was received. This makes it easy to stream news to a plug-in running in a WordPress site, that can then do anything with the news they like. It's incredibly simple to use, and we provide all the JavaScript code you need to embed in a browser-based app. Here's a <a href=\"https://github.com/scripting/feedlandSocket/issues/2\">place</a> where you can ask questions. ",
+    "created": "Wed, 05 Nov 2025 13:10:41 GMT",
+    "type": "outline",
+    "flInCalendar": true
+}
