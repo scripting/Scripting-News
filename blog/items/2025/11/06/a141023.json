@@ -1,0 +1,44 @@
+{
+    "text": "Dynamic OPML for Pocket Casts",
+    "created": "Thu, 06 Nov 2025 14:10:23 GMT",
+    "type": "outline",
+    "subs": [
+        {
+            "text": "On its surface <a href=\"https://pocketcasts.com/\">Pocket Casts</a> is a straightforward podcasting client. You use it on a mobile device to subscribe to shows, choose the ones you want to listen to, those go into a queue, you can move things up the list, or start another, etc. ",
+            "created": "Thu, 06 Nov 2025 14:15:52 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "It also has a <a href=\"https://pocketcasts.com/new-releases\">web client</a> you can use to add and remove subscriptions, from your desktop. This is important because we discover podcasts on the desktop too. In your normal web surfing you may see a podcast you want to follow. Then how many steps does it take to add that to your subscription list on your phone? That's the trick in software design, is it too much work to justify the benefit? If it is, you won't do it. But if we can make it easy, as easy as subscribing to a news feed, you might. Ideally it should be one click followed by a confirmation.",
+            "created": "Thu, 06 Nov 2025 15:56:14 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "How could this work? A new feature for <a href=\"https://opml.org/spec2.opml#subscriptionLists\">OPML subscription lists</a>. Today it's used as the import/export format for lists. But that's a one-time thing. Instead I want to give Pocket Casts the URL of an OPML file with my podcast subscriptions from the desktop.",
+            "created": "Thu, 06 Nov 2025 14:33:19 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "The same feature could be used to share my choices with other people. I already publish a podcast subscription list with the world, or Jon Stewart could share his favorite podcasts by comedians.  And when he adds or removes a feed, that change is synchronized with the all the users who subscribe to it. ",
+            "created": "Thu, 06 Nov 2025 14:18:52 GMT",
+            "isComment": "false",
+            "flInCalendar": true
+        },
+        {
+            "text": "The short version is \"subscribing to subscription lists.\"",
+            "created": "Thu, 06 Nov 2025 22:45:20 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "I decided to write up this idea publicly because I've written about the <a href=\"https://this.how/podcasting/#1733322866000\">idea</a> so many times, it's not a secret and if I had a podcast client it would already be there. If people at Automattic are excited by the potential, let's start planning the feature, and software that can plug in on the other side of the interface. I'm still learning how this works, to collaborate with a very diverse organization, spread all over the world, and they don't even all work for the same company. ",
+            "created": "Thu, 06 Nov 2025 14:40:25 GMT",
+            "flInCalendar": true
+        },
+        {
+            "text": "If we do this feature, first it'll be largely experimental, something that podcast-loving devs will make for ourselves. As we use it we will think of ways to make it easier to use. It won't take long imho before this is a popular feature in podcast clients.",
+            "created": "Thu, 06 Nov 2025 15:46:08 GMT",
+            "flInCalendar": true
+        }
+    ],
+    "flInCalendar": true
+}
