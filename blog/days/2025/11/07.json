@@ -1,0 +1,36 @@
+{
+    "created": "2025-11-07T05:00:00.000Z",
+    "flInCalendar": true,
+    "name": "07",
+    "path": "2025/11/07",
+    "text": "November 07",
+    "type": "calendarDay",
+    "subs": [
+        {
+            "text": "The kind of email I like to get. From Manton: \"Just wanted to let you know that I added \"source:markdown\" to all Micro.blog-hosted RSS feeds by default this week. You can see it in my feed.\" That's one <a href=\"https://www.manton.org/feed.xml\">nice lookin RSS feed</a>. He added: \"NetNewsWire support was the last nudge I needed to add this.\" The Power of Brent. It's good to stay on Brent's good side. ;-)",
+            "created": "Fri, 07 Nov 2025 15:23:36 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        },
+        {
+            "text": "​AI changed the basic capabilities of computers. Some technologies will do fine in the new world, like SQL databases. But the stuff we do — that's going to change radically. Will anything be left? No one knows, imho. Best thing we can do is keep going on the path we were on, and look for ways to involve AI tech in a way that will bring the power of AI to writers. ",
+            "created": "Fri, 07 Nov 2025 13:26:02 GMT",
+            "type": "outline",
+            "image": "https://imgs.scripting.com/2022/02/09/jobsWoz.png",
+            "flInCalendar": true
+        },
+        {
+            "text": "The <a href=\"http://scripting.com/2025/11/07.html#a132602\">previous</a> post <a href=\"https://daveverse.org/2025/11/05/mullenweg-and-borthwick/\">appeared</a> on my <a href=\"https://daveverse.org/\">daveverse</a> blog which is something I'm especially proud of because it's the result of a fantastic collaboration between my codebase and Matt's codebase. Could not have happened without the wpcom api. That single bit of software imho is going to spark a rebirth of web applications and with that, the blogosphere. That is, if I have my way. Now one thing I still have to fix is the problem of posts appearing in more than one place without copy/paste. Have not conquered that yet. ",
+            "created": "Fri, 07 Nov 2025 13:26:44 GMT",
+            "type": "outline",
+            "isComment": "false",
+            "flInCalendar": true
+        },
+        {
+            "text": "<a href=\"http://scripting.com/2025/11/06/141023.html\">Stephanie Booth asks</a> about <a href=\"https://mastodon.social/@stephtara@indieweb.social/115506397683164576\">yesterday's post</a> about dynamic OPML in Pocket Casts. I responded with a few comments, and a promise to write a post to show how this works in FeedLand, which already has the feature, but unfortunately is not a podcast client. ",
+            "created": "Fri, 07 Nov 2025 13:15:57 GMT",
+            "type": "outline",
+            "flInCalendar": true
+        }
+    ]
+}
